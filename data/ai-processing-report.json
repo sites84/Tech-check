@@ -1,58 +1,66 @@
 {
-  "updated_at": "2026-10-01T19:37:55.206Z",
+  "updated_at": "2026-10-01T20:21:47.741Z",
   "model": "gemini-3.1-flash-lite",
   "processed": [
     {
-      "id": "9e8b3999-a166-4c99-9f0b-84c56480710c",
-      "title": "Apple TV is down",
+      "id": "11eb186d-4c84-44cb-aeaf-70af0ebbc3d5",
+      "title": "ChatGPT can now virtually try on clothes for you",
       "status": "error",
       "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "15c3c5a9-fae2-4c0b-a9e2-5444ebe77fbe",
-      "title": "Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tells)",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "891f7f63-33e3-495a-a30b-1920d425f14f",
-      "title": "This startup wants to turn idle user car inventory into rental revenue",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "2d97b085-a70b-4295-ae77-de6cc64dde0b",
-      "title": "NYC's click-to-cancel rule is now in effect to save consumers from subscription hell",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "c24fe8ff-02a0-4a51-a394-c68bac4c1428",
-      "title": "Pandora anuncia reajuste de preços em suas assinaturas",
-      "category": "Internet",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "6b0c0a73-d08c-4ba0-acee-51a998f97967",
-      "title": "OpenAI demite três pesquisadores de segurança por vazamento de informações confidenciais",
+      "id": "23951041-e76c-4b1b-8caa-1b3b53fba00a",
+      "title": "Google inicia testes para levar data centers à órbita terrestre com o Projeto Suncatcher",
       "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "9b4f29d5-ddf1-4db3-97ca-4c000f243812",
-      "title": "Fervo Energy conclui primeira usina geotérmica avançada em tempo recorde",
-      "category": "Ciência",
+      "id": "2ab26d1a-4a59-4e27-8a31-12e670511697",
+      "title": "Google inicia testes para levar data centers ao espaço com o Projeto Suncatcher",
+      "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "185e3cc9-3ea0-4cb7-bc00-c64d5a18b4ff",
-      "title": "Promoção de Outono do Steam traz descontos em grandes títulos e clássicos",
-      "category": "Games",
+      "id": "2999b4a7-ad35-4f6e-906b-8eaeb0e036f5",
+      "title": "MyMonthlyCar: Startup quer transformar pátios de concessionárias em fonte de receita com aluguéis",
+      "category": "Empresas",
       "status": "review",
       "repaired": false
+    },
+    {
+      "id": "bc8489c3-e35a-4b6e-be69-8919aba082cc",
+      "title": "Marvel revela trailer final de VisionQuest antes da estreia",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "34afb242-7805-402b-afca-afee5779b20c",
+      "title": "Executivos de memória preveem escassez de RAM até 2028",
+      "category": "Empresas",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "d27ac917-e533-45aa-a1ba-25600f68b7c5",
+      "title": "Mistério na Flórida: câmeras de vigilância sem dono geram preocupação com privacidade",
+      "category": "Segurança",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "4ed43f5a-9536-420a-90a8-13bfc5e51fe2",
+      "title": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "9e8b3999-a166-4c99-9f0b-84c56480710c",
+      "title": "Serviço Apple TV enfrenta instabilidade prolongada",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
   ]
 }
