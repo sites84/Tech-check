@@ -2,7 +2,7 @@ import { writeFile } from 'node:fs/promises';
 import { getDraftArticles, updateArticle, getCategoryByName, attachCategory } from './supabase.mjs';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
 if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY não está configurada nos secrets do GitHub.');
 
 const categories=['Inteligência Artificial','Smartphones','Computadores','Games','Segurança','Ciência','Espaço','Gadgets','Internet','Cripto','Empresas','História da tecnologia','Curiosidades','Como funciona?'];
@@ -60,4 +60,6 @@ for(const article of articles){
   }
 }
 await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
+const failures=processed.filter(item=>item.status==='error');
 console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias.`);
+if(failures.length) throw new Error(`${failures.length} notícia(s) falharam no processamento. Veja data/ai-processing-report.json.`);
