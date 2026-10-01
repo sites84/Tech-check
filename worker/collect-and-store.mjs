@@ -1,5 +1,5 @@
 import { writeFile } from 'node:fs/promises';
-import { getSources, findArticleByUrl, insertArticle } from './supabase.mjs';
+import { getSources, findArticleByUrl, insertArticle, attachSource } from './supabase.mjs';
 
 function clean(value = '') {
   return value.replace(/<![CDATA[([\s\S]*?)]]>/g, '$1').replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
@@ -25,12 +25,8 @@ for (const source of sources) {
       const url = tag(item, 'link');
       if (!title || !url) continue;
       if (await findArticleByUrl(url)) continue;
-      const article = await insertArticle({
-        title,
-        url,
-        summary: tag(item, 'description'),
-        language: source.language
-      });
+      const article = await insertArticle({ title, url, summary: tag(item, 'description'), language: source.language });
+      await attachSource(article.id, source.id, title, url);
       collected.push({ id: article.id, title, source: source.name });
     }
   } catch (error) {
