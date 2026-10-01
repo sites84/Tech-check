@@ -46,10 +46,11 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SHARP_PATH: ${{ github.workspace }}/.seo-tools/node_modules/sharp
         run: |
           mkdir -p .seo-tools
           npm install --prefix .seo-tools --no-save sharp@0.33.5
-          NODE_PATH="$GITHUB_WORKSPACE/.seo-tools/node_modules" node worker/generate-seo.mjs
+          node worker/generate-seo.mjs
 
       - name: Salvar relatórios, feed público e SEO
         if: always()
