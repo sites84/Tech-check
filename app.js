@@ -10,8 +10,11 @@ const searchPanel = document.querySelector('#search-panel');
 const searchInput = document.querySelector('#search-input');
 const modal = document.querySelector('#article-modal');
 const modalContent = document.querySelector('#modal-content');
+const showMoreButton = document.querySelector('#show-more-button');
 let allNews = [];
 let activeCategory = '';
+let visibleLimit = 5;
+const PAGE_SIZE = 5;
 
 const apiHeaders = { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` };
 
@@ -26,9 +29,19 @@ function formatDate(value) {
   return new Intl.DateTimeFormat('pt-BR', {day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}).format(date);
 }
 
+function getFilteredNews() {
+  const query = searchInput?.value.trim().toLowerCase() || '';
+  return allNews.filter(item => {
+    const categoryMatch = !activeCategory || item.category === activeCategory;
+    const text = `${item.title || ''} ${item.summary || ''} ${item.content || ''}`.toLowerCase();
+    return categoryMatch && (!query || text.includes(query));
+  });
+}
+
 function renderNews(items, live = false) {
+  const visibleItems = items.slice(0, visibleLimit);
   emptyState.hidden = items.length > 0;
-  grid.innerHTML = items.map((item,index) => `
+  grid.innerHTML = visibleItems.map((item,index) => `
     <article class="news-card">
       ${item.image_url ? `<img class="card-image real-image" src="${escapeHtml(item.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : `<div class="card-image"><span>${escapeHtml(item.source || 'TECH CHECK')} · FONTE</span></div>`}
       <div class="card-body">
@@ -38,14 +51,42 @@ function renderNews(items, live = false) {
         <button class="read-button" type="button" data-read="${index}">Ler matéria</button>
       </div>
     </article>`).join('');
+
   if (status) status.textContent = live ? `${items.length} matérias publicadas · banco atualizado automaticamente` : 'Conteúdo de demonstração';
-  grid.querySelectorAll('[data-read]').forEach(button => button.addEventListener('click', () => openArticle(items[Number(button.dataset.read)])));
+
+  grid.querySelectorAll('[data-read]').forEach(button => button.addEventListener('click', () => openArticle(visibleItems[Number(button.dataset.read)])));
+
+  if (showMoreButton) {
+    const remaining = Math.max(0, items.length - visibleLimit);
+    showMoreButton.hidden = remaining === 0;
+    showMoreButton.textContent = remaining > 0 ? `Mostrar mais (${remaining})` : 'Mostrar mais';
+  }
+}
+
+function updateCategoryCounts() {
+  const counts = new Map();
+  allNews.forEach(article => {
+    if (article.category) counts.set(article.category, (counts.get(article.category) || 0) + 1);
+  });
+  document.querySelectorAll('#category-grid button').forEach(button => {
+    const category = button.dataset.category;
+    const count = counts.get(category) || 0;
+    let countElement = button.querySelector('.category-count');
+    if (!countElement) {
+      countElement = document.createElement('span');
+      countElement.className = 'category-count';
+      button.appendChild(countElement);
+    }
+    countElement.textContent = count;
+  });
 }
 
 function openArticle(article) {
   if (!article) return;
   const paragraphs = escapeHtml(article.content || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${p.replace(/\n/g,' ')}</p>`).join('');
+  const image = article.image_url ? `<img class="modal-hero-image" src="${escapeHtml(article.image_url)}" alt="${escapeHtml(article.title || '')}" loading="eager" referrerpolicy="no-referrer">` : '';
   modalContent.innerHTML = `
+    ${image}
     <p class="eyebrow">${escapeHtml(article.category || 'TECNOLOGIA')} · ${formatDate(article.published_at || article.created_at)}</p>
     <h2 id="modal-title">${escapeHtml(article.title)}</h2>
     <p class="modal-summary">${escapeHtml(article.summary || '')}</p>
@@ -61,29 +102,29 @@ function closeModal(){ modal.hidden = true; document.body.classList.remove('moda
 document.querySelectorAll('[data-close-modal]').forEach(element => element.addEventListener('click', closeModal));
 document.addEventListener('keydown', event => { if(event.key === 'Escape' && !modal.hidden) closeModal(); });
 
-function applyFilters(){
-  const query = searchInput?.value.trim().toLowerCase() || '';
-  const filtered = allNews.filter(item => {
-    const categoryMatch = !activeCategory || item.category === activeCategory;
-    const text = `${item.title || ''} ${item.summary || ''} ${item.content || ''}`.toLowerCase();
-    return categoryMatch && (!query || text.includes(query));
-  });
-  renderNews(filtered, allNews.length > 0);
+function applyFilters(resetLimit = true){
+  if (resetLimit) visibleLimit = PAGE_SIZE;
+  renderNews(getFilteredNews(), allNews.length > 0);
 }
 
 searchButton?.addEventListener('click', () => { searchPanel.hidden = !searchPanel.hidden; if(!searchPanel.hidden) searchInput.focus(); });
-searchInput?.addEventListener('input', applyFilters);
+searchInput?.addEventListener('input', () => applyFilters(true));
+showMoreButton?.addEventListener('click', () => {
+  visibleLimit += PAGE_SIZE;
+  renderNews(getFilteredNews(), allNews.length > 0);
+  showMoreButton?.scrollIntoView({behavior:'smooth', block:'center'});
+});
 
 document.querySelectorAll('#category-grid button').forEach(button => button.addEventListener('click', () => {
   const selected = button.dataset.category;
   activeCategory = activeCategory === selected ? '' : selected;
   document.querySelectorAll('#category-grid button').forEach(item => item.classList.toggle('selected', item === button && !!activeCategory));
+  applyFilters(true);
   document.querySelector('#ultimas').scrollIntoView({behavior:'smooth'});
-  applyFilters();
 }));
 
 async function loadNewsFromSupabase() {
-  const articleUrl = `${SUPABASE_URL}/rest/v1/articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=30`;
+  const articleUrl = `${SUPABASE_URL}/rest/v1/articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=100`;
   const [articleResponse, categoryResponse, linkResponse, sourceResponse] = await Promise.all([
     fetch(articleUrl, {headers: apiHeaders}),
     fetch(`${SUPABASE_URL}/rest/v1/categories?select=id,name`, {headers: apiHeaders}),
@@ -111,11 +152,11 @@ async function loadNewsFromSupabase() {
 renderNews(demoNews);
 loadNewsFromSupabase()
   .then(articles => {
+    allNews = articles;
+    updateCategoryCounts();
     if (articles.length) {
-      allNews = articles;
       renderNews(allNews, true);
     } else {
-      allNews = [];
       renderNews([], true);
       if(status) status.textContent = 'Nenhuma matéria publicada no momento';
     }
@@ -124,6 +165,17 @@ loadNewsFromSupabase()
     console.error('Tech Check:', error);
     fetch('./data/latest.json', {cache:'no-store'})
       .then(response => response.ok ? response.json() : Promise.reject())
-      .then(data => { if(Array.isArray(data.articles) && data.articles.length){ allNews=data.articles; renderNews(allNews,true); } })
-      .catch(() => { allNews=demoNews; if(status) status.textContent='Aguardando atualização automática'; });
+      .then(data => {
+        if(Array.isArray(data.articles) && data.articles.length){
+          allNews=data.articles;
+          updateCategoryCounts();
+          renderNews(allNews,true);
+        }
+      })
+      .catch(() => {
+        allNews=demoNews;
+        updateCategoryCounts();
+        renderNews(allNews,false);
+        if(status) status.textContent='Aguardando atualização automática';
+      });
   });
