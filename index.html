@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Tech Check — notícias, curiosidades e história da tecnologia. Notícias verificadas, traduzidas e reescritas em português.">
+  <meta name="description" content="Tech Check — notícias, curiosidades e história da tecnologia.">
   <title>Tech Check — Tecnologia sem enrolação</title>
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,25 +12,19 @@
     <div class="container header-inner">
       <a class="brand" href="./">TECH<span>CHECK</span></a>
       <nav aria-label="Navegação principal">
-        <a class="active" href="#ultimas">Últimas</a>
-        <a href="#categorias">Categorias</a>
-        <a href="#curiosidades">Curiosidades</a>
-        <a href="#historia">História</a>
+        <a class="active" href="#ultimas">Últimas</a><a href="#categorias">Categorias</a><a href="#curiosidades">Curiosidades</a><a href="#historia">História</a>
       </nav>
       <button id="search-button" class="search-button" aria-label="Pesquisar notícias">⌕</button>
     </div>
   </header>
-
   <main>
     <section class="hero container">
       <div>
         <p class="eyebrow">TECNOLOGIA PELO MUNDO</p>
         <h1>O que está acontecendo na tecnologia, sem enrolação.</h1>
-        <p class="hero-copy">Notícias de tecnologia reunidas de fontes especializadas, verificadas, traduzidas e reescritas em português.</p>
+        <p class="hero-copy">Notícias, curiosidades e histórias sobre tecnologia do mundo todo.</p>
       </div>
-      <div class="hero-note"><strong>Como funciona</strong><span>Fatos primeiro. Contexto depois. Possíveis desdobramentos sempre identificados como cenário.</span></div>
     </section>
-
     <section id="ultimas" class="container section">
       <div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">Carregando notícias…</span></div>
       <div id="search-panel" class="search-panel" hidden><input id="search-input" type="search" placeholder="Pesquisar por título ou assunto…" autocomplete="off"></div>
@@ -38,33 +32,21 @@
       <button id="show-more-button" class="show-more-button" type="button" hidden>Mostrar mais</button>
       <p id="empty-state" class="empty-state" hidden>Nenhuma matéria encontrada.</p>
     </section>
-
     <section id="categorias" class="container section">
       <div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>Por assunto</h2></div></div>
       <div id="category-grid" class="category-grid">
         <button data-category="Inteligência Artificial">Inteligência Artificial</button><button data-category="Smartphones">Smartphones</button><button data-category="Computadores">Computadores</button><button data-category="Games">Games</button><button data-category="Segurança">Segurança</button><button data-category="Ciência">Ciência</button><button data-category="Espaço">Espaço</button><button data-category="Gadgets">Gadgets</button><button data-category="Internet">Internet</button><button data-category="Cripto">Cripto</button><button data-category="Empresas">Empresas</button><button data-category="História da tecnologia">História da tecnologia</button>
       </div>
     </section>
-
-    <section id="curiosidades" class="container feature-section">
-      <div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2><p>Conteúdo permanente para descobrir como tecnologias e invenções chegaram até nós.</p></div>
-      <a class="outline-button" href="#categorias">Explorar conteúdo</a>
-    </section>
-
-    <section id="historia" class="container feature-section timeline-feature">
-      <div><p class="eyebrow">ARQUIVO TECNOLÓGICO</p><h2>História da tecnologia</h2><p>Uma linha do tempo para entender os acontecimentos que mudaram a computação, a internet, os celulares e a ciência.</p></div>
-      <div class="timeline"><span>1946</span><span>1971</span><span>1991</span><span>2007</span><span>2022</span><span>Hoje</span></div>
-    </section>
+    <section id="curiosidades" class="container feature-section"><div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2><p>Conteúdo permanente para descobrir como tecnologias e invenções chegaram até nós.</p></div><a class="outline-button" href="#categorias">Explorar conteúdo</a></section>
+    <section id="historia" class="container feature-section timeline-feature"><div><p class="eyebrow">ARQUIVO TECNOLÓGICO</p><h2>História da tecnologia</h2><p>Uma linha do tempo para entender os acontecimentos que mudaram a computação, a internet, os celulares e a ciência.</p></div><div class="timeline"><span>1946</span><span>1971</span><span>1991</span><span>2007</span><span>2022</span><span>Hoje</span></div></section>
   </main>
-
   <div id="article-modal" class="modal" hidden>
     <div class="modal-backdrop" data-close-modal></div>
     <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-      <button class="modal-close" data-close-modal aria-label="Fechar">×</button>
-      <div id="modal-content"></div>
+      <button class="modal-close" data-close-modal aria-label="Fechar">×</button><div id="modal-content"></div>
     </article>
   </div>
-
   <footer class="footer"><div class="container"><strong>TECHCHECK</strong><span>Notícias, contexto e curiosidades sobre tecnologia.</span></div></footer>
   <script src="app.js"></script>
 </body>
