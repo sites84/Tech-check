@@ -1,42 +1,277 @@
 {
-  "updated_at": "2026-10-01T16:55:16.904Z",
-  "inserted": [
+  "updated_at": "2026-10-01T17:06:06.334Z",
+  "inserted": [],
+  "images_updated": [],
+  "duplicates_skipped": [
     {
-      "id": "31562a95-af4d-4506-9a48-a6a3737d5eb6",
       "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726"
+      "reason": "já cadastrado"
     },
     {
-      "id": "77f9615e-6f06-4a3b-b5f3-638bf0a22d0f",
       "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+      "reason": "já cadastrado"
     },
     {
-      "id": "b29db553-a0b3-46b2-8825-08701ce86430",
       "title": "California governor vetoes bill banning use of &#8216;pervert glasses&#8217; to secretly record people",
+      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761"
+      "reason": "já cadastrado"
     },
     {
-      "id": "2901d916-7c5b-4a6c-b287-732a98a99550",
+      "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
+      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
+      "source": "TechCrunch",
+      "reason": "já cadastrado"
+    },
+    {
       "title": "With most information hidden, the game Stratego",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg"
+      "reason": "já cadastrado"
     },
     {
-      "id": "3755ea70-8669-4bb8-8774-e0f0e5221021",
       "title": "As US relations fray, Canada gets serious about its own launch industry",
+      "url": "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry",
       "source": "Ars Technica",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/R-2-rocket-1152x648.jpg"
+      "reason": "já cadastrado"
     },
     {
-      "id": "795af752-b5ab-4e80-a566-19ee2236a5a8",
-      "title": "Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant",
+      "title": "PS5 emulation is suddenly making big strides on PC",
+      "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+      "url": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Dinosaur-killing impact crater might have been teeming with life",
+      "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "url": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "A local network of implants uses your body as the wiring",
+      "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Reddit is putting more limits on Old.Reddit.com",
+      "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "The Disney protests were a wake-up call about the risks of streaming mergers",
+      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack",
+      "source": "Ars Technica",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Sony brings AI upscaling to the base PS5",
+      "url": "https://engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5",
       "source": "Engadget",
-      "image_url": "https://www.engadget.com/img/gallery/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/l-intro-1790871583.jpg"
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make",
+      "url": "https://engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant",
+      "url": "https://engadget.com/2274668/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Engadget's best of 2026",
+      "url": "https://engadget.com/2274600/engadgets-best-of-2026",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Samsung suddenly jacks up the prices of Galaxy S26 phones",
+      "url": "https://engadget.com/2274612/samsung-suddenly-jacks-up-the-prices-of-galaxy-s26-phones",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Newsom vetoes smart glasses privacy bill",
+      "url": "https://engadget.com/2274526/newsom-vetoes-smart-glasses-privacy-bill",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Japanese court rules human voices are protected in landmark AI case",
+      "url": "https://engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Amazon introduces new Kindle Paperwhite, Colorsoft and entry-level models",
+      "url": "https://engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "HP's Omnibook 5 features an OLED screen and costs $699",
+      "url": "https://engadget.com/2273550/hps-omnibook-5-features-an-oled-screen-and-costs-dollar699",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Neurable launches its newest brain-scanning headphones",
+      "url": "https://engadget.com/2271652/neurable-one-eeg-headphones",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Amazon's latest Kindle accessories bring physical buttons back to its ereaders",
+      "url": "https://engadget.com/2274088/amazon-latest-kindle-accessories-bring-physical-buttons-to-ereaders",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Neon will make a truly open-source SCP movie after A24 controversy",
+      "url": "https://engadget.com/2274276/neon-scp-foundation-movie-open-source",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Google's first Gemini 4 model is 'Argon'",
+      "url": "https://engadget.com/2274263/google-gemini-4-model-argon",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "California's new law bans companies from relying on AI to fire workers",
+      "url": "https://engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers",
+      "source": "Engadget",
+      "reason": "já cadastrado"
+    },
+    {
+      "title": "Apple TV is down",
+      "url": "https://engadget.com/2274184/apple-tv-is-down",
+      "source": "Engadget",
+      "reason": "já cadastrado"
     }
-  ],
-  "images_updated": []
+  ]
 }
