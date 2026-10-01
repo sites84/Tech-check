@@ -74,6 +74,10 @@ export async function getDraftArticles(limit = 8) {
   return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,image_url,created_at&order=created_at.asc&limit=${limit}`) || [];
 }
 
+export async function getShortReviewArticles(limit = 5) {
+  return request(`articles?status=eq.review&content=not.is.null&select=id,title,summary,original_language,original_url,image_url,created_at,content&order=created_at.desc&limit=50`) .then(rows => (rows || []).filter(article => (article.content || '').length < 1800).slice(0, limit));
+}
+
 export async function updateArticle(id, data) {
   await request(`articles?id=eq.${encodeURIComponent(id)}`, {
     method: 'PATCH',
