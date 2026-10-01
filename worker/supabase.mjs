@@ -30,7 +30,12 @@ async function request(path, options = {}) {
 export async function getSources() { return request('sources?active=eq.true&select=*') || []; }
 
 export async function findArticleByUrl(url) {
-  const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id,image_url&limit=1`) || [];
+  const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id,title,image_url,original_url&limit=1`) || [];
+  return rows[0] || null;
+}
+
+export async function findArticleByTitle(title) {
+  const rows = await request(`articles?title=eq.${encodeURIComponent(title)}&select=id,title,image_url,original_url&limit=1`) || [];
   return rows[0] || null;
 }
 
@@ -75,7 +80,7 @@ export async function getDraftArticles(limit = 8) {
 }
 
 export async function getShortReviewArticles(limit = 5) {
-  return request(`articles?status=eq.review&content=not.is.null&select=id,title,summary,original_language,original_url,image_url,created_at,content&order=created_at.desc&limit=50`) .then(rows => (rows || []).filter(article => (article.content || '').length < 1800).slice(0, limit));
+  return request(`articles?status=eq.review&content=not.is.null&select=id,title,summary,original_language,original_url,image_url,created_at,content&order=created_at.desc&limit=50`).then(rows => (rows || []).filter(article => (article.content || '').length < 1800).slice(0, limit));
 }
 
 export async function updateArticle(id, data) {
