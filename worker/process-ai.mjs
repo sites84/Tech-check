@@ -1,38 +1,49 @@
 import { writeFile } from 'node:fs/promises';
 import { getDraftArticles, updateArticle, getCategoryByName, attachCategory } from './supabase.mjs';
 
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-const OPENAI_MODEL = process.env.OPENAI_MODEL || 'gpt-5.6';
-if (!OPENAI_API_KEY) throw new Error('OPENAI_API_KEY não está configurada nos secrets do GitHub.');
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY não está configurada nos secrets do GitHub.');
 
-const schema = {
-  type:'object', additionalProperties:false,
+const categories=['Inteligência Artificial','Smartphones','Computadores','Games','Segurança','Ciência','Espaço','Gadgets','Internet','Cripto','Empresas','História da tecnologia','Curiosidades','Como funciona?'];
+
+const responseSchema={
+  type:'OBJECT',
   properties:{
-    title:{type:'string'}, summary:{type:'string'}, content:{type:'string'},
-    why_it_matters:{type:'string'}, future_outlook:{type:'string'}, category:{type:'string'},
-    verification_level:{type:'string',enum:['single_source','multiple_sources','official_source']}
+    title:{type:'STRING'}, summary:{type:'STRING'}, content:{type:'STRING'},
+    why_it_matters:{type:'STRING'}, future_outlook:{type:'STRING'}, category:{type:'STRING'},
+    verification_level:{type:'STRING',enum:['single_source','official_source']}
   },
   required:['title','summary','content','why_it_matters','future_outlook','category','verification_level']
 };
-const categories=['Inteligência Artificial','Smartphones','Computadores','Games','Segurança','Ciência','Espaço','Gadgets','Internet','Cripto','Empresas','História da tecnologia','Curiosidades','Como funciona?'];
-
-function extractText(response){
-  if(response.output_text) return response.output_text;
-  for(const item of response.output||[]) for(const part of item.content||[]) if(part.type==='output_text'&&part.text) return part.text;
-  throw new Error('A resposta da IA não contém texto.');
-}
 
 async function generate(article){
-  const instructions=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Reescreva a notícia em português brasileiro natural, descontraído e gostoso de ler, sem piadas artificiais, sem clickbait e sem copiar frases do texto original. Preserve fatos, nomes e números fornecidos. Não invente fatos, declarações, fontes, datas ou capacidades técnicas. Diferencie fatos confirmados de interpretação.
+  const prompt=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Reescreva a notícia em português brasileiro natural, descontraído e gostoso de ler, sem piadas artificiais, sem clickbait e sem copiar frases do texto original. Preserve fatos, nomes e números fornecidos. Não invente fatos, declarações, fontes, datas ou capacidades técnicas. Diferencie fatos confirmados de interpretação.
 
 A matéria precisa ter título, resumo curto e corpo com parágrafos curtos. Em why_it_matters, explique por que a notícia pode ser relevante. Em future_outlook, apresente possíveis extrapolações como cenários, usando 'pode', 'é possível' e 'se essa tendência continuar'; nunca apresente uma previsão como fato.
 
 Categoria deve ser exatamente uma destas: ${categories.join(', ')}.
 
-O nível de verificação deve ser single_source porque esta etapa recebeu uma única fonte. Só use official_source se houver evidência clara de comunicado ou anúncio oficial no material fornecido. Nunca use multiple_sources sem evidência de outra fonte.`;
-  const response=await fetch('https://api.openai.com/v1/responses',{method:'POST',headers:{'Content-Type':'application/json',Authorization:`Bearer ${OPENAI_API_KEY}`},body:JSON.stringify({model:OPENAI_MODEL,instructions,input:`Fonte: ${article.original_url}\nIdioma original: ${article.original_language}\nTítulo original: ${article.title}\nResumo/descrição disponível: ${article.summary||'(não informado)'}`,temperature:.35,text:{format:{type:'json_schema',name:'tech_check_article',strict:true,schema}}})});
-  if(!response.ok) throw new Error(`OpenAI ${response.status}: ${await response.text()}`);
-  return JSON.parse(extractText(await response.json()));
+O nível de verificação deve ser single_source. Só use official_source se o material fornecido for claramente um comunicado ou anúncio oficial da organização citada. Nunca use multiple_sources nesta etapa.
+
+Fonte: ${article.original_url}
+Idioma original: ${article.original_language}
+Título original: ${article.title}
+Resumo/descrição disponível: ${article.summary||'(não informado)'}`;
+
+  const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,{
+    method:'POST',
+    headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},
+    body:JSON.stringify({
+      contents:[{parts:[{text:prompt}]}],
+      generationConfig:{temperature:0.35,responseMimeType:'application/json',responseSchema}
+    })
+  });
+  if(!response.ok) throw new Error(`Gemini ${response.status}: ${await response.text()}`);
+  const data=await response.json();
+  const text=data.candidates?.[0]?.content?.parts?.map(p=>p.text||'').join('').trim();
+  if(!text) throw new Error('A resposta do Gemini não contém texto.');
+  return JSON.parse(text);
 }
 
 const articles=await getDraftArticles(8); const processed=[];
@@ -48,5 +59,5 @@ for(const article of articles){
     processed.push({id:article.id,title:article.title,status:'error',error:error.message});
   }
 }
-await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),processed},null,2));
+await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
 console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias.`);
