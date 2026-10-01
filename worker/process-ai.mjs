@@ -1,5 +1,5 @@
 import { writeFile } from 'node:fs/promises';
-import { getDraftArticles, updateArticle, getCategoryByName, attachCategory } from './supabase.mjs';
+import { getDraftArticles, updateArticle, getCategoryByName, attachCategory, getPublishedArticles } from './supabase.mjs';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
@@ -21,10 +21,8 @@ function parseJsonText(text){
   const cleaned=(text||'').trim();
   if(!cleaned) throw new Error('Gemini retornou uma resposta vazia.');
   try { return JSON.parse(cleaned); } catch {}
-
   const fenced=cleaned.replace(/^```(?:json)?\s*/i,'').replace(/\s*```$/,'').trim();
   try { return JSON.parse(fenced); } catch {}
-
   const start=fenced.indexOf('{');
   const end=fenced.lastIndexOf('}');
   if(start>=0 && end>start){
@@ -54,13 +52,7 @@ Resumo/descrição disponível: ${article.summary||'(não informado)'}`;
     headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},
     body:JSON.stringify({
       contents:[{parts:[{text:prompt}]}],
-      generationConfig:{
-        temperature:0.2,
-        maxOutputTokens:4096,
-        responseMimeType:'application/json',
-        responseSchema,
-        thinkingConfig:{thinkingLevel:'minimal'}
-      }
+      generationConfig:{temperature:0.2,maxOutputTokens:4096,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}
     })
   });
   if(!response.ok) throw new Error(`Gemini ${response.status}: ${await response.text()}`);
@@ -81,7 +73,16 @@ for(const article of articles){
     if(!result.title || !result.summary || !result.content || !result.why_it_matters || !result.future_outlook || !result.category){
       throw new Error('Gemini retornou campos obrigatórios incompletos.');
     }
-    await updateArticle(article.id,{title:result.title,summary:result.summary,content:result.content,why_it_matters:result.why_it_matters,future_outlook:result.future_outlook,verification_level:result.verification_level,status:'review'});
+    await updateArticle(article.id,{
+      title:result.title,
+      summary:result.summary,
+      content:result.content,
+      why_it_matters:result.why_it_matters,
+      future_outlook:result.future_outlook,
+      verification_level:result.verification_level,
+      status:'review',
+      published_at:new Date().toISOString()
+    });
     const category=await getCategoryByName(result.category);
     if(category) await attachCategory(article.id,category.id);
     processed.push({id:article.id,title:result.title,category:result.category,status:'review'});
@@ -90,7 +91,12 @@ for(const article of articles){
     processed.push({id:article.id,title:article.title,status:'error',error:error.message});
   }
 }
+
 await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
+
+const published=await getPublishedArticles(30);
+await writeFile('data/latest.json',JSON.stringify({updated_at:new Date().toISOString(),count:published.length,articles:published},null,2));
+
 const failures=processed.filter(item=>item.status==='error');
-console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias.`);
+console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias. Feed público atualizado com ${published.length} matérias.`);
 if(failures.length) throw new Error(`${failures.length} notícia(s) falharam no processamento. Veja data/ai-processing-report.json.`);
