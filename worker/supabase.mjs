@@ -45,3 +45,23 @@ export async function insertArticle(item) {
   });
   return rows[0];
 }
+
+export async function attachSource(articleId, sourceId, title, url) {
+  await request('article_sources', {
+    method: 'POST',
+    headers: { Prefer: 'resolution=ignore-duplicates' },
+    body: JSON.stringify({ article_id: articleId, source_id: sourceId, source_title: title, source_url: url })
+  });
+}
+
+export async function getDraftArticles(limit = 8) {
+  return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,created_at&order=created_at.asc&limit=${limit}`);
+}
+
+export async function updateArticle(id, data) {
+  return request(`articles?id=eq.${encodeURIComponent(id)}`, {
+    method: 'PATCH',
+    headers: { Prefer: 'return=representation' },
+    body: JSON.stringify({ ...data, updated_at: new Date().toISOString() })
+  });
+}
