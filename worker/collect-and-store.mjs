@@ -1,5 +1,5 @@
 import { writeFile } from 'node:fs/promises';
-import { getSources, findArticleByUrl, insertArticle, attachSource } from './supabase.mjs';
+import { getSources, findArticleByUrl, insertArticle, updateArticleImage, attachSource } from './supabase.mjs';
 
 function clean(value = '') {
   return value
@@ -29,18 +29,15 @@ function items(xml) {
 }
 
 function firstImageFromRss(item) {
-  // Media RSS: imagem principal/thumbnail
   const mediaContent = attrTag(item, 'media:content', 'url');
-  if (mediaContent && /\.(jpe?g|png|webp|gif)(?:[?#].*)?$/i.test(mediaContent)) return mediaContent;
+  if (mediaContent) return mediaContent;
 
   const mediaThumbnail = attrTag(item, 'media:thumbnail', 'url');
   if (mediaThumbnail) return mediaThumbnail;
 
-  // RSS enclosure pode conter uma imagem
   const enclosureMatch = item.match(/<enclosure[^>]*\burl=["']([^"']+)["'][^>]*\btype=["']image\/(?:jpeg|jpg|png|webp|gif)["'][^>]*>/i);
   if (enclosureMatch) return enclosureMatch[1].trim();
 
-  // Alguns feeds colocam a imagem no HTML da description/content
   const html = item.match(/<(?:content:encoded|description)[^>]*>([\s\S]*?)<\/(?:content:encoded|description)>/i)?.[1] || '';
   const img = html.match(/<img[^>]*\bsrc=["']([^"']+)["']/i);
   return img ? img[1].trim() : '';
@@ -74,6 +71,7 @@ async function imageFromArticlePage(url) {
 
 const sources = await getSources();
 const collected = [];
+const imagesUpdated = [];
 
 for (const source of sources) {
   try {
@@ -88,10 +86,18 @@ for (const source of sources) {
       const title = tag(item, 'title');
       const url = tag(item, 'link');
       if (!title || !url) continue;
-      if (await findArticleByUrl(url)) continue;
 
       let image_url = firstImageFromRss(item);
       if (!image_url) image_url = await imageFromArticlePage(url);
+
+      const existing = await findArticleByUrl(url);
+      if (existing) {
+        if (!existing.image_url && image_url) {
+          await updateArticleImage(existing.id, image_url);
+          imagesUpdated.push({ id: existing.id, title, source: source.name, image_url });
+        }
+        continue;
+      }
 
       const article = await insertArticle({
         title,
@@ -111,7 +117,8 @@ for (const source of sources) {
 
 await writeFile(
   'data/collection-report.json',
-  JSON.stringify({ updated_at: new Date().toISOString(), inserted: collected }, null, 2)
+  JSON.stringify({ updated_at: new Date().toISOString(), inserted: collected, images_updated: imagesUpdated }, null, 2)
 );
 
 console.log(`Novas notícias inseridas no Supabase: ${collected.length}`);
+console.log(`Imagens preenchidas em notícias existentes: ${imagesUpdated.length}`);
