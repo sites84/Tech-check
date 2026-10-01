@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tech Check — notícias, curiosidades e história da tecnologia. Notícias verificadas, traduzidas e reescritas em português.">
+  <title>Tech Check — Tecnologia sem enrolação</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="./">TECH<span>CHECK</span></a>
+      <nav aria-label="Navegação principal">
+        <a class="active" href="#ultimas">Últimas</a>
+        <a href="#categorias">Categorias</a>
+        <a href="#curiosidades">Curiosidades</a>
+        <a href="#historia">História</a>
+      </nav>
+      <button class="search-button" aria-label="Pesquisar">⌕</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero container">
+      <div>
+        <p class="eyebrow">TECNOLOGIA PELO MUNDO</p>
+        <h1>O que está acontecendo na tecnologia, sem enrolação.</h1>
+        <p class="hero-copy">Notícias de tecnologia reunidas de fontes especializadas, verificadas, traduzidas e reescritas em português.</p>
+      </div>
+      <div class="hero-note"><strong>Como funciona</strong><span>Fatos primeiro. Contexto depois. Especulação sempre identificada.</span></div>
+    </section>
+
+    <section id="ultimas" class="container section">
+      <div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">MVP · conteúdo de demonstração</span></div>
+      <div id="news-grid" class="news-grid"></div>
+    </section>
+
+    <section id="categorias" class="container section">
+      <div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>Por assunto</h2></div></div>
+      <div class="category-grid">
+        <a href="#">Inteligência Artificial</a><a href="#">Smartphones</a><a href="#">Computadores</a><a href="#">Games</a><a href="#">Segurança</a><a href="#">Ciência</a><a href="#">Espaço</a><a href="#">Gadgets</a><a href="#">Internet</a><a href="#">Cripto</a><a href="#">Empresas</a><a href="#">Startups</a>
+      </div>
+    </section>
+
+    <section id="curiosidades" class="container feature-section">
+      <div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2><p>Conteúdo permanente para descobrir como tecnologias e invenções chegaram até nós.</p></div>
+      <a class="outline-button" href="#">Ver curiosidades</a>
+    </section>
+
+    <section id="historia" class="container feature-section timeline-feature">
+      <div><p class="eyebrow">ARQUIVO TECNOLÓGICO</p><h2>História da tecnologia</h2><p>Uma linha do tempo para entender os acontecimentos que mudaram a computação, a internet, os celulares e a ciência.</p></div>
+      <div class="timeline"><span>1946</span><span>1971</span><span>1991</span><span>2007</span><span>2022</span><span>Hoje</span></div>
+    </section>
+  </main>
+
+  <footer class="footer"><div class="container"><strong>TECHCHECK</strong><span>Notícias, contexto e curiosidades sobre tecnologia.</span></div></footer>
+  <script src="app.js"></script>
+</body>
+</html>
