@@ -1,42 +1,40 @@
 {
-  "updated_at": "2026-10-01T16:05:21.549Z",
+  "updated_at": "2026-10-01T16:15:55.330Z",
   "model": "gemini-3.1-flash-lite",
   "processed": [
     {
-      "id": "c5c60bd5-207a-489c-b599-3d907f81df2a",
-      "title": "One year later, Tesla and Musk still don&#8217;t have a good definition of &#8216;abundance&#8217;",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "id": "5b2d5559-89ca-43e2-ba1a-68e28fb387f6",
+      "title": "Justiça japonesa reconhece proteção legal para vozes humanas contra IA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
     },
     {
-      "id": "55acaf1a-7c6b-49f6-9170-14b78027dbf1",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "b68a99ce-d590-4800-aab6-1f348aac0479",
-      "title": "Engadget's best of 2026",
-      "status": "error",
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\\nPlease retry in 50.21327563s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"model\": \"gemini-3.1-flash-lite\",\n              \"location\": \"global\"\n            },\n            \"quotaValue\": \"15\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"50s\"\n      }\n    ]\n  }\n}\n"
+      "id": "c038de3d-f79d-4825-b45f-00d8bea07202",
+      "title": "Gavin Newsom veta projeto de lei sobre privacidade em óculos inteligentes",
+      "category": "Privacidade",
+      "status": "review",
+      "repaired": false
     },
     {
       "id": "0bb2e6e8-8f27-4e12-9463-55f9963ca3df",
       "title": "Samsung aumenta preços da linha Galaxy S26",
       "category": "Smartphones",
-      "status": "review"
+      "status": "review",
+      "repaired": false
     },
     {
-      "id": "c038de3d-f79d-4825-b45f-00d8bea07202",
-      "title": "Gavin Newsom veta projeto de lei sobre privacidade em óculos inteligentes",
+      "id": "b68a99ce-d590-4800-aab6-1f348aac0479",
+      "title": "Os destaques do ano: Os melhores dispositivos testados pelo Engadget em 2026",
       "category": "Gadgets",
-      "status": "review"
+      "status": "review",
+      "repaired": false
     },
     {
-      "id": "5b2d5559-89ca-43e2-ba1a-68e28fb387f6",
-      "title": "Japanese court rules human voices are protected in landmark AI case",
+      "id": "55acaf1a-7c6b-49f6-9170-14b78027dbf1",
+      "title": "Brian Chesky defende que agentes de IA precisam de um sistema operacional próprio",
       "status": "error",
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\\nPlease retry in 38.46768271s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"location\": \"global\",\n              \"model\": \"gemini-3.1-flash-lite\"\n            },\n            \"quotaValue\": \"15\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"38s\"\n      }\n    ]\n  }\n}\n"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
   ]
 }
