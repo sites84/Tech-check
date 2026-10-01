@@ -1,20 +1,45 @@
 const demoNews = [
-  {category:'INTELIGÊNCIA ARTIFICIAL',time:'Demonstração',title:'Como uma nova geração de modelos de IA pode mudar os aplicativos que usamos todos os dias',text:'Exemplo de matéria do MVP. O conteúdo real virá do pipeline de fontes, verificação, tradução e redação automática.'},
-  {category:'HARDWARE',time:'Demonstração',title:'Novos chips estão tentando levar mais processamento de IA para dentro dos dispositivos',text:'Exemplo de estrutura editorial: fato principal, contexto e explicação sem exageros ou promessas que a fonte não sustenta.'},
-  {category:'INTERNET',time:'Demonstração',title:'A tecnologia por trás de uma mudança silenciosa na forma como a internet funciona',text:'A versão final vai cruzar fontes quando possível e indicar exatamente de onde as informações foram obtidas.'},
-  {category:'CIÊNCIA',time:'Demonstração',title:'Uma descoberta tecnológica pode abrir novas possibilidades para pesquisadores',text:'Esta área será usada para notícias verificadas e traduzidas, com linguagem natural e leitura agradável.'},
-  {category:'GADGETS',time:'Demonstração',title:'O que realmente muda quando um novo dispositivo chega ao mercado',text:'A matéria final separará dados confirmados, declarações dos fabricantes e possíveis desdobramentos.'},
-  {category:'TECNOLOGIA',time:'Demonstração',title:'O que pode acontecer daqui para frente?',text:'A seção de extrapolação ficará separada da notícia e identificará cenários próximos, futuros e especulativos.'}
+  {category:'INTELIGÊNCIA ARTIFICIAL',time:'MVP',title:'O Tech Check está preparando o primeiro fluxo automático de notícias',text:'A página já está preparada para receber notícias coletadas de fontes especializadas. O próximo estágio adicionará tradução, verificação, redação e análise de possíveis desdobramentos.'},
+  {category:'TECNOLOGIA',time:'MVP',title:'Notícias de tecnologia do mundo em um só lugar',text:'O portal vai reunir acontecimentos relevantes, comparar fontes quando possível e apresentar tudo em português, com linguagem natural.'},
+  {category:'CURIOSIDADES',time:'MVP',title:'Curiosidades e história também farão parte do arquivo',text:'Além das notícias do dia, o Tech Check terá conteúdo permanente sobre a evolução da tecnologia e como as coisas funcionam.'}
 ];
 
 const grid = document.querySelector('#news-grid');
-grid.innerHTML = demoNews.map((item) => `
-  <article class="news-card">
-    <div class="card-image">IMAGEM DA MATÉRIA · SERÁ SUBSTITUÍDA PELO PIPELINE</div>
-    <div class="card-body">
-      <div class="card-meta"><span>${item.category}</span><span>${item.time}</span></div>
-      <h3>${item.title}</h3>
-      <p>${item.text}</p>
-    </div>
-  </article>
-`).join('');
+const status = document.querySelector('#status');
+
+function escapeHtml(value = '') {
+  return String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
+}
+
+function formatDate(value) {
+  if (!value) return 'Agora';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return 'Agora';
+  return new Intl.DateTimeFormat('pt-BR', { day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit' }).format(date);
+}
+
+function renderNews(items, live = false) {
+  grid.innerHTML = items.map(item => `
+    <article class="news-card">
+      <div class="card-image">${escapeHtml(item.source || 'TECH CHECK')} · FONTE</div>
+      <div class="card-body">
+        <div class="card-meta"><span>${escapeHtml(item.category || 'TECNOLOGIA')}</span><span>${formatDate(item.published_at)}</span></div>
+        <h3>${escapeHtml(item.title)}</h3>
+        <p>${escapeHtml(item.summary || 'Matéria em preparação para o processamento editorial.')}</p>
+      </div>
+    </article>
+  `).join('');
+  if (status) status.textContent = live ? 'RSS · notícias coletadas automaticamente' : 'MVP · aguardando primeira coleta';
+}
+
+renderNews(demoNews);
+
+fetch('./data/latest.json', { cache: 'no-store' })
+  .then(response => {
+    if (!response.ok) throw new Error('feed indisponível');
+    return response.json();
+  })
+  .then(data => {
+    if (Array.isArray(data.articles) && data.articles.length) renderNews(data.articles, true);
+  })
+  .catch(() => {});
