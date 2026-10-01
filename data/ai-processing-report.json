@@ -1,24 +1,42 @@
 {
-  "updated_at": "2026-10-01T04:13:54.452Z",
-  "model": "gemini-2.5-flash-lite",
+  "updated_at": "2026-10-01T04:20:46.847Z",
+  "model": "gemini-3.1-flash-lite",
   "processed": [
     {
       "id": "446b618c-cada-4115-a112-4aaf7e33f193",
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "status": "error",
-      "error": "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      "error": "Unexpected end of JSON input"
     },
     {
       "id": "69d12294-38f2-466b-a6b6-43aeff4e4f67",
       "title": "Dinosaur-killing impact crater might have been teeming with life",
       "status": "error",
-      "error": "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      "error": "Unexpected end of JSON input"
     },
     {
       "id": "4f51a8b3-a855-479d-81af-249e05d8b45c",
       "title": "How to watch NASA's Crew-13 launch",
       "status": "error",
-      "error": "Gemini 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).\",\n    \"status\": \"NOT_FOUND\"\n  }\n}\n"
+      "error": "Unexpected end of JSON input"
+    },
+    {
+      "id": "4ce7af39-149c-4037-85b6-63376acc2b27",
+      "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+      "status": "error",
+      "error": "Unexpected end of JSON input"
+    },
+    {
+      "id": "5c24b56a-caee-4e30-ad24-3ad09af871c9",
+      "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
+      "status": "error",
+      "error": "Unexpected end of JSON input"
+    },
+    {
+      "id": "837386c8-4b36-4e92-985d-b203523cfb50",
+      "title": "Elon Musk and Palmer Luckey will advise the government on the future of warfare",
+      "status": "error",
+      "error": "Unexpected end of JSON input"
     }
   ]
 }
