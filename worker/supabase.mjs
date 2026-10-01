@@ -39,6 +39,10 @@ export async function findArticleByTitle(title) {
   return rows[0] || null;
 }
 
+export async function getRecentArticleTitles(limit = 500) {
+  return request(`articles?select=id,title,original_url,image_url&order=created_at.desc&limit=${limit}`) || [];
+}
+
 export async function updateArticleImage(id, image_url) {
   await request(`articles?id=eq.${encodeURIComponent(id)}`, {
     method: 'PATCH',
