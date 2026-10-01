@@ -1,94 +1,92 @@
 {
-  "updated_at": "2026-10-01T18:04:08.166Z",
+  "updated_at": "2026-10-01T18:13:02.125Z",
   "model": "gemini-3.1-flash-lite",
   "processed": [
     {
-      "id": "9c2fd4ae-00f3-4081-8cc2-a4199bf20514",
-      "title": "Shopify lança Canvas: crie lojas virtuais completas conversando com IA",
+      "id": "df19399d-7284-44ef-8976-4cd755f13853",
+      "title": "Pentágono convoca Elon Musk e Palmer Luckey para definir o futuro da estratégia militar",
+      "category": "Empresas",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "9810a57b-337d-4ef1-8089-0f2c63e21ca7",
+      "title": "Flow Engineering levanta US$ 50 milhões e atinge valuation de US$ 750 milhões com foco em IA para hardware",
       "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "480694e6-248f-4333-a342-cd8044265af8",
-      "title": "Brian Chesky defende que agentes de IA precisam de um sistema operacional próprio",
+      "id": "846d2052-7fc9-444f-9f92-c9fed6bcd5ae",
+      "title": "Conflito no Vale do Silício: CEO da Factory acusa conselheiro de espionagem para a Cognition",
+      "category": "Empresas",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "f6ee4600-bb76-4877-9c2a-112b37a204c4",
+      "title": "Ataraxos: A nova IA que superou o campeão mundial de Stratego com baixo custo",
       "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "3e918d41-d86d-474b-b87e-454706fabfe6",
-      "title": "Photon levanta US$ 4,5 milhões para substituir aplicativos móveis por agentes de IA",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "e35217e4-39ca-4fe0-97ee-cd67b99a5e85",
-      "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
+      "id": "6c50a5a9-4576-4e6e-940f-f78f1565ceda",
+      "title": "As US relations fray, Canada gets serious about its own launch industry",
       "status": "error",
       "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "63dcd048-61c3-483f-a1d8-b7eaf8d635d8",
-      "title": "Amazon renova linha Kindle com design sem bordas e foco em portabilidade",
-      "category": "Gadgets",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "d7cc6591-06d0-46fe-b2fd-57568f56e3c9",
-      "title": "Amazon lança Kindle Click, controle remoto para virar páginas sem tocar no e-reader",
-      "category": "Gadgets",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "a32f8f1f-2713-41d2-a701-a6b0f3441bef",
-      "title": "Satlyt levanta US$ 8 milhões para levar inteligência artificial ao espaço",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "3a7c7ef5-765f-4472-941c-15c59fa72d48",
-      "title": "Google apresenta Gemini 4 Argon: o novo modelo focado em cibersegurança e codificação",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "8717a32b-67b5-48ec-8f38-755379f66dfc",
-      "title": "Califórnia proíbe demissões baseadas exclusivamente em decisões de IA",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "05950ed5-4aea-444c-b8e8-6ae9e42f1946",
-      "title": "Google apresenta o Argon, o primeiro modelo da família Gemini 4",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "1c7d795a-9025-4963-9064-d24646b71a68",
-      "title": "Neon quer produzir um filme da Fundação SCP com código aberto",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "53da8ab5-eba1-4c45-993b-64d2b48ca8b9",
-      "title": "Satlyt levanta US$ 8 milhões para levar IA ao espaço",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "repaired": false
-    },
-    {
-      "id": "62d5584c-de31-44d5-876a-ea9e7e45161c",
-      "title": "Control Resonant e o equilíbrio perfeito na dificuldade",
+      "id": "136290c8-6eaa-454e-bab0-b83d88fc9b0b",
+      "title": "Emulação de PS5 no PC avança rapidamente com novas ferramentas",
       "category": "Games",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "c650f655-024e-4115-9a41-249a1041fe8d",
+      "title": "NASA e Katalyst: os bastidores da ousada missão de resgate do observatório Swift",
+      "category": "Espaço",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "24cf5187-7312-45bd-a667-613405d5f4ed",
+      "title": "Cratera do asteroide que extinguiu os dinossauros pode ter abrigado vida por milhões de anos",
+      "category": "Ciência",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "ad7f13b3-1831-4507-9d91-e9c5dd77159b",
+      "title": "Meta lança assistente de IA para ajudar criadores no Instagram",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "eecfa23e-9e99-4aa6-858d-c7f46020c52d",
+      "title": "DoorDash inicia entregas por drones na Califórnia e expande serviços de marketplace",
+      "category": "Gadgets",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "82785a9a-f171-46df-87c7-73a53651dedb",
+      "title": "Mario Kart Tour encerra ciclo de atualizações",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "c19f118e-66d1-4510-8816-82de2873105e",
+      "title": "Alternativas que cabem no bolso à câmera Osmo Pocket da DJI",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "40a9d6b1-b1f4-43a7-b943-ba463a42b199",
+      "title": "Freckle: o smartphone que quer tirar as crianças de casa",
+      "category": "Gadgets",
       "status": "review",
       "repaired": false
     }
