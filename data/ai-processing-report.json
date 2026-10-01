@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-10-01T13:09:34.040Z",
+  "updated_at": "2026-10-01T14:28:18.362Z",
   "model": "gemini-3.1-flash-lite",
   "processed": [
     {
       "id": "7aa82410-35ee-40b3-a989-0ecd5052389f",
-      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "5eda4b6a-188b-4619-bac8-d7633daeb0cd",
-      "title": "Amazon renova linha Kindle com modelos Colorsoft e novas versões do Paperwhite",
+      "title": "Amazon lança o Kindle Click: um controle remoto para virar páginas sem tocar no e-reader",
       "category": "Gadgets",
       "status": "review"
     },
     {
-      "id": "1c4cb7b1-e95a-4a82-a2ec-e9ceb9fd915b",
-      "title": "HP Omnibook X: O novo notebook com tela OLED e bateria que promete durar quase dois dias",
-      "category": "Computadores",
+      "id": "3419a091-7dc1-4472-b6af-99f1e5338951",
+      "title": "Photon levanta US$ 4,5 milhões para substituir aplicativos por agentes de IA",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "b4bb3d3d-edc7-4a40-934a-5a4558a1b54e",
-      "title": "Neurable lança fones de ouvido que monitoram ondas cerebrais",
-      "category": "Gadgets",
+      "id": "87c0af31-896d-491a-8c24-04307e75480e",
+      "title": "Legato lança óculos com IA para auxiliar na audição",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "ce3c1a77-4c16-43a4-9dab-4dd5646beb31",
-      "title": "Amazon's latest Kindle accessories bring physical buttons back to its ereaders",
+      "id": "cdef1f8b-373c-4cfc-badd-a0aeb26b8e80",
+      "title": "PS5 emulation is suddenly making big strides on PC",
       "status": "error",
       "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "3dca89f9-4a52-498e-a2dc-5c2c0761ac53",
+      "title": "O esforço criativo da NASA para salvar o observatório Swift",
+      "category": "Espaço",
+      "status": "review"
     }
   ]
 }
