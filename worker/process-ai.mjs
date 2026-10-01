@@ -31,10 +31,85 @@ function parseJsonText(text){
   throw new Error(`Resposta do Gemini não é JSON válido: ${cleaned.slice(0,500)}`);
 }
 
-async function generate(article){
-  const prompt=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Reescreva a notícia em português brasileiro natural, descontraído e gostoso de ler, sem piadas artificiais, sem clickbait e sem copiar frases do texto original. Preserve fatos, nomes e números fornecidos. Não invente fatos, declarações, fontes, datas ou capacidades técnicas. Diferencie fatos confirmados de interpretação.
+function decodeEntities(value=''){
+  return value
+    .replace(/&nbsp;/gi,' ')
+    .replace(/&amp;/gi,'&')
+    .replace(/&quot;/gi,'"')
+    .replace(/&#39;|&apos;/gi,"'")
+    .replace(/&lt;/gi,'<')
+    .replace(/&gt;/gi,'>')
+    .replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16)));
+}
 
-A matéria precisa ter título, resumo curto e corpo com parágrafos curtos. Em why_it_matters, explique por que a notícia pode ser relevante. Em future_outlook, apresente possíveis extrapolações como cenários, usando 'pode', 'é possível' e 'se essa tendência continuar'; nunca apresente uma previsão como fato.
+function htmlToText(html=''){
+  return decodeEntities(html
+    .replace(/<script[\s\S]*?<\/script>/gi,' ')
+    .replace(/<style[\s\S]*?<\/style>/gi,' ')
+    .replace(/<noscript[\s\S]*?<\/noscript>/gi,' ')
+    .replace(/<svg[\s\S]*?<\/svg>/gi,' ')
+    .replace(/<(?:nav|header|footer|aside|form)[^>]*>[\s\S]*?<\/(?:nav|header|footer|aside|form)>/gi,' ')
+    .replace(/<br\s*\/?>/gi,'\n')
+    .replace(/<\/(?:p|div|section|article|main|li|h[1-6]|blockquote)>/gi,'\n')
+    .replace(/<[^>]+>/g,' '))
+    .split(/\n+/)
+    .map(line=>line.replace(/\s+/g,' ').trim())
+    .filter(Boolean)
+    .join('\n');
+}
+
+async function fetchOriginalArticle(url){
+  try{
+    const response=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech-Check/1.0 article reader'},signal:AbortSignal.timeout(12000)});
+    if(!response.ok) throw new Error(`fonte ${response.status}`);
+    const html=await response.text();
+
+    // Prefer structured Article JSON-LD because it often contains the complete article body.
+    const jsonLd=[...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+    for(const match of jsonLd){
+      try{
+        const raw=JSON.parse(match[1].trim());
+        const nodes=Array.isArray(raw)?raw:[raw,...(raw?.['@graph']||[])];
+        for(const node of nodes){
+          if(typeof node?.articleBody==='string' && node.articleBody.length>500) return node.articleBody;
+        }
+      }catch{}
+    }
+
+    // Then prefer the semantic article/main container.
+    const articleMatch=html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i);
+    const mainMatch=html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
+    const candidate=articleMatch?.[1]||mainMatch?.[1]||html;
+    const text=htmlToText(candidate);
+    return text.length>500 ? text : '';
+  }catch(error){
+    console.warn(`Não foi possível extrair o corpo de ${url}:`,error.message);
+    return '';
+  }
+}
+
+function targetLength(sourceText){
+  const chars=sourceText.length;
+  if(chars>=30000) return 'entre 1.800 e 2.500 palavras';
+  if(chars>=15000) return 'entre 1.400 e 2.000 palavras';
+  if(chars>=8000) return 'entre 1.000 e 1.600 palavras';
+  if(chars>=3500) return 'entre 800 e 1.300 palavras';
+  return 'entre 600 e 1.000 palavras';
+}
+
+async function generate(article){
+  const sourceText=await fetchOriginalArticle(article.original_url);
+  const availableSource=sourceText || `O corpo completo da fonte não pôde ser recuperado automaticamente. Use somente os dados disponíveis abaixo e não invente informações.\n\nTítulo: ${article.title}\nResumo disponível: ${article.summary||'(não informado)'}`;
+  const limitedSource=availableSource.slice(0,60000);
+
+  const prompt=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Produza uma matéria jornalística completa em português brasileiro natural, clara e gostosa de ler, sem clickbait e sem copiar frases do texto original.
+
+REGRA PRINCIPAL DE COMPLETUDE: o corpo da matéria deve cobrir TODAS as informações relevantes presentes na fonte fornecida. Não reduza uma matéria longa a um resumo curto. Preserve nomes, números, datas, especificações, acontecimentos, contexto, resultados, comparações, declarações e demais detalhes importantes que estejam no material. Organize o conteúdo em vários parágrafos curtos e, quando fizer sentido, subtítulos. A extensão desejada para esta fonte é ${targetLength(sourceText || article.summary || '')}.
+
+Não invente fatos, declarações, fontes, datas, números ou capacidades técnicas. Se uma informação não estiver na fonte, não crie. Reescreva com suas próprias palavras e mantenha fidelidade ao conteúdo original. Não transforme uma lista ou conjunto de informações importantes em apenas uma descrição genérica.
+
+O resumo deve ser curto e funcionar como introdução. O campo content é a matéria completa e deve ser muito mais detalhado que o resumo. Em why_it_matters, explique por que a notícia pode ser relevante usando somente informações sustentadas pela fonte. Em future_outlook, apresente possíveis extrapolações como cenários, usando 'pode', 'é possível' e 'se essa tendência continuar'; nunca apresente uma previsão como fato.
 
 Categoria deve ser exatamente uma destas: ${categories.join(', ')}.
 
@@ -42,17 +117,20 @@ O nível de verificação deve ser single_source. Só use official_source se o m
 
 Responda exclusivamente com o objeto JSON solicitado, sem markdown e sem texto antes ou depois.
 
-Fonte: ${article.original_url}
+URL da fonte: ${article.original_url}
 Idioma original: ${article.original_language}
-Título original: ${article.title}
-Resumo/descrição disponível: ${article.summary||'(não informado)'}`;
+Título coletado: ${article.title}
+Resumo/descrição coletada: ${article.summary||'(não informado)'}
+
+CORPO RECUPERADO DA FONTE:
+${limitedSource}`;
 
   const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,{
     method:'POST',
     headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},
     body:JSON.stringify({
       contents:[{parts:[{text:prompt}]}],
-      generationConfig:{temperature:0.2,maxOutputTokens:4096,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}
+      generationConfig:{temperature:0.2,maxOutputTokens:8192,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}
     })
   });
   if(!response.ok) throw new Error(`Gemini ${response.status}: ${await response.text()}`);
