@@ -1,181 +1,21 @@
 const SUPABASE_URL = 'https://ymiqcnzulxbshjrnaujv.supabase.co';
 const SUPABASE_KEY = 'sb_publishable_-rbhLGxEgLXlfMZ64W7ypw_xyy3aLjR';
-const demoNews = [{category:'TECNOLOGIA',title:'As primeiras matérias do Tech Check estão chegando',summary:'O portal já está conectado ao fluxo automático de coleta e processamento editorial.'}];
-
-const grid = document.querySelector('#news-grid');
-const status = document.querySelector('#status');
-const emptyState = document.querySelector('#empty-state');
-const searchButton = document.querySelector('#search-button');
-const searchPanel = document.querySelector('#search-panel');
-const searchInput = document.querySelector('#search-input');
-const modal = document.querySelector('#article-modal');
-const modalContent = document.querySelector('#modal-content');
-const showMoreButton = document.querySelector('#show-more-button');
-let allNews = [];
-let activeCategory = '';
-let visibleLimit = 5;
-const PAGE_SIZE = 5;
-
-const apiHeaders = { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` };
-
-function escapeHtml(value = '') {
-  return String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
-}
-
-function formatDate(value) {
-  if (!value) return 'Agora';
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return 'Agora';
-  return new Intl.DateTimeFormat('pt-BR', {day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}).format(date);
-}
-
-function getFilteredNews() {
-  const query = searchInput?.value.trim().toLowerCase() || '';
-  return allNews.filter(item => {
-    const categoryMatch = !activeCategory || item.category === activeCategory;
-    const text = `${item.title || ''} ${item.summary || ''} ${item.content || ''}`.toLowerCase();
-    return categoryMatch && (!query || text.includes(query));
-  });
-}
-
-function renderNews(items, live = false) {
-  const visibleItems = items.slice(0, visibleLimit);
-  emptyState.hidden = items.length > 0;
-  grid.innerHTML = visibleItems.map((item,index) => `
-    <article class="news-card">
-      ${item.image_url ? `<img class="card-image real-image" src="${escapeHtml(item.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : `<div class="card-image"><span>${escapeHtml(item.source || 'TECH CHECK')} · FONTE</span></div>`}
-      <div class="card-body">
-        <div class="card-meta"><span>${escapeHtml(item.category || 'TECNOLOGIA')}</span><span>${formatDate(item.published_at || item.created_at)}</span></div>
-        <h3>${escapeHtml(item.title)}</h3>
-        <p>${escapeHtml(item.summary || 'Matéria em preparação.')}</p>
-        <button class="read-button" type="button" data-read="${index}">Ler matéria</button>
-      </div>
-    </article>`).join('');
-
-  if (status) status.textContent = live ? `${items.length} matérias publicadas · banco atualizado automaticamente` : 'Conteúdo de demonstração';
-
-  grid.querySelectorAll('[data-read]').forEach(button => button.addEventListener('click', () => openArticle(visibleItems[Number(button.dataset.read)])));
-
-  if (showMoreButton) {
-    const remaining = Math.max(0, items.length - visibleLimit);
-    showMoreButton.hidden = remaining === 0;
-    showMoreButton.textContent = remaining > 0 ? `Mostrar mais (${remaining})` : 'Mostrar mais';
-  }
-}
-
-function updateCategoryCounts() {
-  const counts = new Map();
-  allNews.forEach(article => {
-    if (article.category) counts.set(article.category, (counts.get(article.category) || 0) + 1);
-  });
-  document.querySelectorAll('#category-grid button').forEach(button => {
-    const category = button.dataset.category;
-    const count = counts.get(category) || 0;
-    let countElement = button.querySelector('.category-count');
-    if (!countElement) {
-      countElement = document.createElement('span');
-      countElement.className = 'category-count';
-      button.appendChild(countElement);
-    }
-    countElement.textContent = count;
-  });
-}
-
-function openArticle(article) {
-  if (!article) return;
-  const paragraphs = escapeHtml(article.content || '').split(/\n\s*\n/).filter(Boolean).map(p => `<p>${p.replace(/\n/g,' ')}</p>`).join('');
-  const image = article.image_url ? `<img class="modal-hero-image" src="${escapeHtml(article.image_url)}" alt="${escapeHtml(article.title || '')}" loading="eager" referrerpolicy="no-referrer">` : '';
-  modalContent.innerHTML = `
-    ${image}
-    <p class="eyebrow">${escapeHtml(article.category || 'TECNOLOGIA')} · ${formatDate(article.published_at || article.created_at)}</p>
-    <h2 id="modal-title">${escapeHtml(article.title)}</h2>
-    <p class="modal-summary">${escapeHtml(article.summary || '')}</p>
-    <div class="article-body">${paragraphs || '<p>Conteúdo ainda não disponível.</p>'}</div>
-    ${article.why_it_matters ? `<section class="analysis-box"><p class="eyebrow">POR QUE ISSO IMPORTA</p><p>${escapeHtml(article.why_it_matters)}</p></section>` : ''}
-    ${article.future_outlook ? `<section class="future-box"><p class="eyebrow">O QUE PODE ACONTECER NO FUTURO</p><p>${escapeHtml(article.future_outlook)}</p><small>São cenários possíveis, não previsões garantidas.</small></section>` : ''}
-    <div class="source-box"><strong>Fonte da matéria</strong><span>${escapeHtml(article.source || 'Fonte original')}</span><a href="${escapeHtml(article.source_url || article.original_url || '#')}" target="_blank" rel="noopener noreferrer">Ler fonte original ↗</a></div>`;
-  modal.hidden = false;
-  document.body.classList.add('modal-open');
-}
-
-function closeModal(){ modal.hidden = true; document.body.classList.remove('modal-open'); }
-document.querySelectorAll('[data-close-modal]').forEach(element => element.addEventListener('click', closeModal));
-document.addEventListener('keydown', event => { if(event.key === 'Escape' && !modal.hidden) closeModal(); });
-
-function applyFilters(resetLimit = true){
-  if (resetLimit) visibleLimit = PAGE_SIZE;
-  renderNews(getFilteredNews(), allNews.length > 0);
-}
-
-searchButton?.addEventListener('click', () => { searchPanel.hidden = !searchPanel.hidden; if(!searchPanel.hidden) searchInput.focus(); });
-searchInput?.addEventListener('input', () => applyFilters(true));
-showMoreButton?.addEventListener('click', () => {
-  visibleLimit += PAGE_SIZE;
-  renderNews(getFilteredNews(), allNews.length > 0);
-  showMoreButton?.scrollIntoView({behavior:'smooth', block:'center'});
-});
-
-document.querySelectorAll('#category-grid button').forEach(button => button.addEventListener('click', () => {
-  const selected = button.dataset.category;
-  activeCategory = activeCategory === selected ? '' : selected;
-  document.querySelectorAll('#category-grid button').forEach(item => item.classList.toggle('selected', item === button && !!activeCategory));
-  applyFilters(true);
-  document.querySelector('#ultimas').scrollIntoView({behavior:'smooth'});
-}));
-
-async function loadNewsFromSupabase() {
-  const articleUrl = `${SUPABASE_URL}/rest/v1/articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=100`;
-  const [articleResponse, categoryResponse, linkResponse, sourceResponse] = await Promise.all([
-    fetch(articleUrl, {headers: apiHeaders}),
-    fetch(`${SUPABASE_URL}/rest/v1/categories?select=id,name`, {headers: apiHeaders}),
-    fetch(`${SUPABASE_URL}/rest/v1/article_categories?select=article_id,category_id`, {headers: apiHeaders}),
-    fetch(`${SUPABASE_URL}/rest/v1/article_sources?select=article_id,source_title,source_url`, {headers: apiHeaders})
-  ]);
-  if (!articleResponse.ok) throw new Error(`articles ${articleResponse.status}`);
-  const [articles,categories,categoryLinks,sources] = await Promise.all([
-    articleResponse.json(),
-    categoryResponse.ok ? categoryResponse.json() : [],
-    linkResponse.ok ? linkResponse.json() : [],
-    sourceResponse.ok ? sourceResponse.json() : []
-  ]);
-  const categoryMap = new Map(categories.map(item => [item.id,item.name]));
-  const categoryByArticle = new Map(categoryLinks.map(item => [item.article_id,categoryMap.get(item.category_id) || 'Tecnologia']));
-  const sourceByArticle = new Map(sources.map(item => [item.article_id,{title:item.source_title,url:item.source_url}]));
-  return articles.map(article => ({
-    ...article,
-    category: categoryByArticle.get(article.id) || 'Tecnologia',
-    source: sourceByArticle.get(article.id)?.title || 'Fonte original',
-    source_url: sourceByArticle.get(article.id)?.url || article.original_url
-  }));
-}
-
-renderNews(demoNews);
-loadNewsFromSupabase()
-  .then(articles => {
-    allNews = articles;
-    updateCategoryCounts();
-    if (articles.length) {
-      renderNews(allNews, true);
-    } else {
-      renderNews([], true);
-      if(status) status.textContent = 'Nenhuma matéria publicada no momento';
-    }
-  })
-  .catch(error => {
-    console.error('Tech Check:', error);
-    fetch('./data/latest.json', {cache:'no-store'})
-      .then(response => response.ok ? response.json() : Promise.reject())
-      .then(data => {
-        if(Array.isArray(data.articles) && data.articles.length){
-          allNews=data.articles;
-          updateCategoryCounts();
-          renderNews(allNews,true);
-        }
-      })
-      .catch(() => {
-        allNews=demoNews;
-        updateCategoryCounts();
-        renderNews(allNews,false);
-        if(status) status.textContent='Aguardando atualização automática';
-      });
-  });
+const demoNews = [{id:'demo',category:'TECNOLOGIA',title:'As primeiras matérias do Tech Check estão chegando',summary:'O portal já está conectado ao fluxo automático de coleta e processamento editorial.'}];
+const grid=document.querySelector('#news-grid'),status=document.querySelector('#status'),emptyState=document.querySelector('#empty-state'),searchButton=document.querySelector('#search-button'),searchPanel=document.querySelector('#search-panel'),searchInput=document.querySelector('#search-input'),modal=document.querySelector('#article-modal'),modalContent=document.querySelector('#modal-content'),showMoreButton=document.querySelector('#show-more-button');
+let allNews=[],activeCategory='',visibleLimit=5; const PAGE_SIZE=5; const apiHeaders={apikey:SUPABASE_KEY,Authorization:`Bearer ${SUPABASE_KEY}`};
+function escapeHtml(value=''){return String(value).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[c]));}
+function formatDate(value){if(!value)return'Agora';const d=new Date(value);if(Number.isNaN(d.getTime()))return'Agora';return new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}).format(d);}
+function getFilteredNews(){const q=searchInput?.value.trim().toLowerCase()||'';return allNews.filter(item=>{const cm=!activeCategory||item.category===activeCategory;const text=`${item.title||''} ${item.summary||''} ${item.content||''}`.toLowerCase();return cm&&(!q||text.includes(q));});}
+function renderNews(items,live=false){const visible=items.slice(0,visibleLimit);emptyState.hidden=items.length>0;grid.innerHTML=visible.map((item,index)=>`<article class="news-card">${item.image_url?`<img class="card-image real-image" src="${escapeHtml(item.image_url)}" alt="" loading="lazy" referrerpolicy="no-referrer">`:`<div class="card-image"><span>${escapeHtml(item.source||'TECH CHECK')} · FONTE</span></div>`}<div class="card-body"><div class="card-meta"><span>${escapeHtml(item.category||'TECNOLOGIA')}</span><span>${formatDate(item.published_at||item.created_at)}</span></div><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary||'Matéria em preparação.')}</p><button class="read-button" type="button" data-read="${index}">Ler matéria</button></div></article>`).join('');if(status)status.textContent=live?`${items.length} matérias publicadas · banco atualizado automaticamente`:'Conteúdo de demonstração';grid.querySelectorAll('[data-read]').forEach(b=>b.addEventListener('click',()=>openArticle(visible[Number(b.dataset.read)])));if(showMoreButton){const r=Math.max(0,items.length-visibleLimit);showMoreButton.hidden=r===0;showMoreButton.textContent=r>0?`Mostrar mais (${r})`:'Mostrar mais';}}
+function updateCategoryCounts(){const counts=new Map();allNews.forEach(a=>{if(a.category)counts.set(a.category,(counts.get(a.category)||0)+1);});document.querySelectorAll('#category-grid button').forEach(b=>{const c=counts.get(b.dataset.category)||0;let e=b.querySelector('.category-count');if(!e){e=document.createElement('span');e.className='category-count';b.appendChild(e);}e.textContent=c;});}
+async function getEngagement(articleId){if(articleId==='demo')return{likes:0,dislikes:0};const r=await fetch(`${SUPABASE_URL}/rest/v1/article_engagement?article_id=eq.${encodeURIComponent(articleId)}&select=likes,dislikes`,{headers:apiHeaders});if(!r.ok)return{likes:0,dislikes:0};const d=await r.json();return d[0]||{likes:0,dislikes:0};}
+async function setVote(articleId,type){if(articleId==='demo')return;const current=await getEngagement(articleId);current[type]=(current[type]||0)+1;await fetch(`${SUPABASE_URL}/rest/v1/article_engagement`,{method:'POST',headers:{...apiHeaders,'Content-Type':'application/json','Prefer':'resolution=merge-duplicates,return=minimal'},body:JSON.stringify({article_id:articleId,likes:current.likes||0,dislikes:current.dislikes||0})});const e=document.querySelector('#engagement');if(e){e.querySelector('[data-like-count]').textContent=current.likes||0;e.querySelector('[data-dislike-count]').textContent=current.dislikes||0;}}
+async function loadComments(articleId){if(articleId==='demo')return[];const r=await fetch(`${SUPABASE_URL}/rest/v1/article_comments?article_id=eq.${encodeURIComponent(articleId)}&select=id,author_name,content,created_at&order=created_at.desc`,{headers:apiHeaders});return r.ok?r.json():[];}
+async function submitComment(articleId){const name=document.querySelector('#comment-name')?.value.trim(),content=document.querySelector('#comment-text')?.value.trim();if(!name||!content)return alert('Preencha seu nome e o comentário.');const r=await fetch(`${SUPABASE_URL}/rest/v1/article_comments`,{method:'POST',headers:{...apiHeaders,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({article_id:articleId,author_name:name,content})});if(!r.ok)return alert('Não foi possível publicar o comentário.');document.querySelector('#comment-name').value='';document.querySelector('#comment-text').value='';renderComments(articleId);}
+async function renderComments(articleId){const box=document.querySelector('#comments-list');if(!box)return;const comments=await loadComments(articleId);box.innerHTML=comments.length?comments.map(c=>`<div class="comment"><strong>${escapeHtml(c.author_name)}</strong><span>${formatDate(c.created_at)}</span><p>${escapeHtml(c.content)}</p></div>`).join(''):'<p class="comments-empty">Ainda não há comentários.</p>';}
+async function shareArticle(article){const url=article.original_url||location.href,title=article.title||'Tech Check';if(navigator.share){try{await navigator.share({title,text:title,url});}catch(e){}}else{try{await navigator.clipboard.writeText(url);alert('Link copiado.');}catch(e){prompt('Copie o link:',url);}}}
+async function openArticle(article){if(!article)return;const paragraphs=escapeHtml(article.content||'').split(/\n\s*\n/).filter(Boolean).map(p=>`<p>${p.replace(/\n/g,' ')}</p>`).join('');const image=article.image_url?`<img class="modal-hero-image" src="${escapeHtml(article.image_url)}" alt="${escapeHtml(article.title||'')}" loading="eager" referrerpolicy="no-referrer">`:'';const engagement=await getEngagement(article.id);modalContent.innerHTML=`${image}<p class="eyebrow">${escapeHtml(article.category||'TECNOLOGIA')} · ${formatDate(article.published_at||article.created_at)}</p><h2 id="modal-title">${escapeHtml(article.title)}</h2><p class="modal-summary">${escapeHtml(article.summary||'')}</p><div class="article-body">${paragraphs||'<p>Conteúdo ainda não disponível.</p>'}</div>${article.why_it_matters?`<section class="analysis-box"><p class="eyebrow">POR QUE ISSO IMPORTA</p><p>${escapeHtml(article.why_it_matters)}</p></section>`:''}${article.future_outlook?`<section class="future-box"><p class="eyebrow">O QUE PODE ACONTECER NO FUTURO</p><p>${escapeHtml(article.future_outlook)}</p><small>São cenários possíveis, não previsões garantidas.</small></section>`:''}<div class="article-actions"><button class="share-button" id="share-article">↗ Compartilhar</button><button class="vote-button" data-vote="likes">👍 <span data-like-count>${engagement.likes||0}</span></button><button class="vote-button" data-vote="dislikes">👎 <span data-dislike-count>${engagement.dislikes||0}</span></button></div><section class="comments-section"><h3>Comentários</h3><div class="comment-form"><input id="comment-name" maxlength="60" placeholder="Seu nome"><textarea id="comment-text" maxlength="1000" rows="3" placeholder="Escreva um comentário..."></textarea><button id="send-comment">Publicar comentário</button></div><div id="comments-list"></div></section><div class="source-box"><strong>Fonte da matéria</strong><span>${escapeHtml(article.source||'Fonte original')}</span><a href="${escapeHtml(article.source_url||article.original_url||'#')}" target="_blank" rel="noopener noreferrer">Ler fonte original ↗</a></div>`;modal.hidden=false;document.body.classList.add('modal-open');document.querySelector('#share-article')?.addEventListener('click',()=>shareArticle(article));document.querySelectorAll('[data-vote]').forEach(b=>b.addEventListener('click',()=>setVote(article.id,b.dataset.vote)));document.querySelector('#send-comment')?.addEventListener('click',()=>submitComment(article.id));renderComments(article.id);}
+function closeModal(){modal.hidden=true;document.body.classList.remove('modal-open');}document.querySelectorAll('[data-close-modal]').forEach(e=>e.addEventListener('click',closeModal));document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!modal.hidden)closeModal();});
+function applyFilters(reset=true){if(reset)visibleLimit=PAGE_SIZE;renderNews(getFilteredNews(),allNews.length>0);}searchButton?.addEventListener('click',()=>{searchPanel.hidden=!searchPanel.hidden;if(!searchPanel.hidden)searchInput.focus();});searchInput?.addEventListener('input',()=>applyFilters(true));showMoreButton?.addEventListener('click',()=>{visibleLimit+=PAGE_SIZE;renderNews(getFilteredNews(),allNews.length>0);showMoreButton?.scrollIntoView({behavior:'smooth',block:'center'});});document.querySelectorAll('#category-grid button').forEach(b=>b.addEventListener('click',()=>{const selected=b.dataset.category;activeCategory=activeCategory===selected?'':selected;document.querySelectorAll('#category-grid button').forEach(x=>x.classList.toggle('selected',x===b&&!!activeCategory));applyFilters(true);document.querySelector('#ultimas').scrollIntoView({behavior:'smooth'});}));
+async function loadNewsFromSupabase(){const articleUrl=`${SUPABASE_URL}/rest/v1/articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=100`;const[ar,cr,lr,sr]=await Promise.all([fetch(articleUrl,{headers:apiHeaders}),fetch(`${SUPABASE_URL}/rest/v1/categories?select=id,name`,{headers:apiHeaders}),fetch(`${SUPABASE_URL}/rest/v1/article_categories?select=article_id,category_id`,{headers:apiHeaders}),fetch(`${SUPABASE_URL}/rest/v1/article_sources?select=article_id,source_title,source_url`,{headers:apiHeaders})]);if(!ar.ok)throw new Error(`articles ${ar.status}`);const[articles,categories,links,sources]=await Promise.all([ar.json(),cr.ok?cr.json():[],lr.ok?lr.json():[],sr.ok?sr.json():[]]);const cm=new Map(categories.map(x=>[x.id,x.name])),ca=new Map(links.map(x=>[x.article_id,cm.get(x.category_id)||'Tecnologia'])),sm=new Map(sources.map(x=>[x.article_id,{title:x.source_title,url:x.source_url}]));return articles.map(a=>({...a,category:ca.get(a.id)||'Tecnologia',source:sm.get(a.id)?.title||'Fonte original',source_url:sm.get(a.id)?.url||a.original_url}));}
+renderNews(demoNews);loadNewsFromSupabase().then(articles=>{allNews=articles;updateCategoryCounts();if(articles.length)renderNews(allNews,true);else{renderNews([],true);if(status)status.textContent='Nenhuma matéria publicada no momento';}}).catch(error=>{console.error('Tech Check:',error);fetch('./data/latest.json',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then(data=>{if(Array.isArray(data.articles)&&data.articles.length){allNews=data.articles;updateCategoryCounts();renderNews(allNews,true);}}).catch(()=>{allNews=demoNews;updateCategoryCounts();renderNews(allNews,false);if(status)status.textContent='Aguardando atualização automática';});});
