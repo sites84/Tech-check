@@ -1,5 +1,5 @@
 import { writeFile } from 'node:fs/promises';
-import { getSources, findArticleByUrl, insertArticle, updateArticleImage, attachSource } from './supabase.mjs';
+import { getSources, findArticleByUrl, findArticleByTitle, insertArticle, updateArticleImage, attachSource } from './supabase.mjs';
 
 function clean(value = '') {
   return value
@@ -26,6 +26,31 @@ function attrTag(xml, name, attribute) {
 
 function items(xml) {
   return [...xml.matchAll(/<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi)].map(m => m[1]);
+}
+
+function normalizeUrl(value='') {
+  try {
+    const u = new URL(value.trim());
+    u.hash = '';
+    for (const key of [...u.searchParams.keys()]) {
+      if (/^(utm_|fbclid$|gclid$|mc_cid$|mc_eid$|ref$|source$)/i.test(key)) u.searchParams.delete(key);
+    }
+    u.hostname = u.hostname.toLowerCase().replace(/^www\./,'');
+    u.pathname = u.pathname.replace(/\/+$/,'') || '/';
+    return u.toString();
+  } catch {
+    return value.trim().replace(/[?#].*$/,'').replace(/\/$/,'');
+  }
+}
+
+function normalizeTitle(value='') {
+  return value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g,'')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
 }
 
 function firstImageFromRss(item) {
@@ -72,6 +97,9 @@ async function imageFromArticlePage(url) {
 const sources = await getSources();
 const collected = [];
 const imagesUpdated = [];
+const duplicatesSkipped = [];
+const seenUrls = new Set();
+const seenTitles = new Set();
 
 for (const source of sources) {
   try {
@@ -84,18 +112,31 @@ for (const source of sources) {
 
     for (const item of items(xml).slice(0, 15)) {
       const title = tag(item, 'title');
-      const url = tag(item, 'link');
-      if (!title || !url) continue;
+      const rawUrl = tag(item, 'link');
+      if (!title || !rawUrl) continue;
+
+      const url = normalizeUrl(rawUrl);
+      const titleKey = normalizeTitle(title);
+      if (!url || !titleKey) continue;
+
+      if (seenUrls.has(url) || seenTitles.has(titleKey)) {
+        duplicatesSkipped.push({ title, url, source: source.name, reason: 'duplicado no lote atual' });
+        continue;
+      }
 
       let image_url = firstImageFromRss(item);
-      if (!image_url) image_url = await imageFromArticlePage(url);
+      if (!image_url) image_url = await imageFromArticlePage(rawUrl);
 
-      const existing = await findArticleByUrl(url);
-      if (existing) {
-        if (!existing.image_url && image_url) {
-          await updateArticleImage(existing.id, image_url);
-          imagesUpdated.push({ id: existing.id, title, source: source.name, image_url });
+      const existingByUrl = await findArticleByUrl(url);
+      const existingByTitle = existingByUrl || await findArticleByTitle(title);
+      if (existingByTitle) {
+        seenUrls.add(url);
+        seenTitles.add(titleKey);
+        if (!existingByTitle.image_url && image_url) {
+          await updateArticleImage(existingByTitle.id, image_url);
+          imagesUpdated.push({ id: existingByTitle.id, title, source: source.name, image_url });
         }
+        duplicatesSkipped.push({ title, url, source: source.name, reason: 'já cadastrado' });
         continue;
       }
 
@@ -108,6 +149,8 @@ for (const source of sources) {
       });
 
       await attachSource(article.id, source.id, title, url);
+      seenUrls.add(url);
+      seenTitles.add(titleKey);
       collected.push({ id: article.id, title, source: source.name, image_url: image_url || null });
     }
   } catch (error) {
@@ -117,8 +160,9 @@ for (const source of sources) {
 
 await writeFile(
   'data/collection-report.json',
-  JSON.stringify({ updated_at: new Date().toISOString(), inserted: collected, images_updated: imagesUpdated }, null, 2)
+  JSON.stringify({ updated_at: new Date().toISOString(), inserted: collected, images_updated: imagesUpdated, duplicates_skipped: duplicatesSkipped }, null, 2)
 );
 
 console.log(`Novas notícias inseridas no Supabase: ${collected.length}`);
 console.log(`Imagens preenchidas em notícias existentes: ${imagesUpdated.length}`);
+console.log(`Duplicadas ignoradas: ${duplicatesSkipped.length}`);
