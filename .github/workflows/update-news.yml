@@ -34,11 +34,11 @@ jobs:
           GEMINI_MODEL: gemini-3.1-flash-lite
         run: node worker/process-ai.mjs
 
-      - name: Salvar relatórios
+      - name: Salvar relatórios e feed público
         if: always()
         run: |
           git config user.name "Tech Check Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/collection-report.json data/ai-processing-report.json
-          git diff --cached --quiet || git commit -m "chore: registrar processamento editorial"
+          git add data/collection-report.json data/ai-processing-report.json data/latest.json
+          git diff --cached --quiet || git commit -m "chore: atualizar feed de noticias"
           git push
