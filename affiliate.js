@@ -10,14 +10,24 @@ function chooseAffiliateProduct(){
   const summary=modal.querySelector('.modal-summary')?.textContent||'';
   const eyebrow=modal.querySelector('.eyebrow')?.textContent||'';
   const text=affiliateNorm(`${title} ${summary} ${eyebrow}`);
+  const categoryMap={
+    'inteligencia artificial':'IA e criação','ia':'IA e criação','smartphones':'Celulares','celulares':'Celulares',
+    'computadores':'Computadores','games':'Games','seguranca':'Acessórios','ciencia':'Acessórios','espaco':'Acessórios',
+    'gadgets':'Acessórios','internet':'Redes','cripto':'Computadores','empresas':'Notebooks','historia da tecnologia':'Computadores',
+    'curiosidades':'Acessórios','como funciona?':'Acessórios','kindle':'Tablets','e-reader':'Tablets','ereader':'Tablets','leitor digital':'Tablets'
+  };
   let best=null,bestScore=-1;
   affiliateProducts.forEach(p=>{
-    const hay=affiliateNorm(`${p.category||''} ${p.product_name||''} ${(p.keywords||[]).join(' ')}`);
     let score=0;
     const category=affiliateNorm(p.category||'');
+    const productName=affiliateNorm(p.product_name||'');
+    const keywords=(p.keywords||[]).map(affiliateNorm);
     if(category&&text.includes(category))score+=8;
-    (p.keywords||[]).forEach(k=>{const key=affiliateNorm(k);if(key.length>2&&text.includes(key))score+=4;});
-    affiliateNorm(p.product_name||'').split(/\s+/).forEach(k=>{if(k.length>3&&text.includes(k))score+=2;});
+    for(const [key,target] of Object.entries(categoryMap)){
+      if(text.includes(key)&&category===affiliateNorm(target))score+=7;
+    }
+    keywords.forEach(key=>{if(key.length>2&&text.includes(key))score+=4;});
+    productName.split(/\s+/).forEach(k=>{if(k.length>3&&text.includes(k))score+=2;});
     if(score>bestScore){bestScore=score;best=p;}
   });
   return best;
