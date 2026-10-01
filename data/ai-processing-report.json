@@ -1,40 +1,82 @@
 {
-  "updated_at": "2026-10-01T16:15:55.330Z",
+  "updated_at": "2026-10-01T16:56:40.787Z",
   "model": "gemini-3.1-flash-lite",
   "processed": [
     {
-      "id": "5b2d5559-89ca-43e2-ba1a-68e28fb387f6",
-      "title": "Justiça japonesa reconhece proteção legal para vozes humanas contra IA",
+      "id": "31562a95-af4d-4506-9a48-a6a3737d5eb6",
+      "title": "Amazon lança Strands Decider 2B: a aposta da AWS em modelos de decisão leves",
       "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "c038de3d-f79d-4825-b45f-00d8bea07202",
-      "title": "Gavin Newsom veta projeto de lei sobre privacidade em óculos inteligentes",
+      "id": "77f9615e-6f06-4a3b-b5f3-638bf0a22d0f",
+      "title": "Shopify lança Canvas: a nova ferramenta que permite criar lojas virtuais conversando com IA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "b29db553-a0b3-46b2-8825-08701ce86430",
+      "title": "Governador da Califórnia veta projeto de lei que restringiria óculos inteligentes com câmeras",
       "category": "Privacidade",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "0bb2e6e8-8f27-4e12-9463-55f9963ca3df",
-      "title": "Samsung aumenta preços da linha Galaxy S26",
-      "category": "Smartphones",
+      "id": "2901d916-7c5b-4a6c-b287-732a98a99550",
+      "title": "Ataraxos: A nova IA que superou o campeão mundial de Stratego com baixo custo",
+      "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
-      "id": "b68a99ce-d590-4800-aab6-1f348aac0479",
-      "title": "Os destaques do ano: Os melhores dispositivos testados pelo Engadget em 2026",
-      "category": "Gadgets",
+      "id": "3755ea70-8669-4bb8-8774-e0f0e5221021",
+      "title": "Em meio a tensões geopolíticas, Canadá busca soberania no setor de lançamentos espaciais",
+      "category": "Espaço",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "795af752-b5ab-4e80-a566-19ee2236a5a8",
+      "title": "Audible aposta em histórias interativas com IA para transformar a experiência do ouvinte",
+      "category": "Inteligência Artificial",
       "status": "review",
       "repaired": false
     },
     {
       "id": "55acaf1a-7c6b-49f6-9170-14b78027dbf1",
       "title": "Brian Chesky defende que agentes de IA precisam de um sistema operacional próprio",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "c5c60bd5-207a-489c-b599-3d907f81df2a",
+      "title": "Tesla e Elon Musk: o conceito de abundância continua sendo um mistério",
       "status": "error",
       "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "3dca89f9-4a52-498e-a2dc-5c2c0761ac53",
+      "title": "O esforço criativo da NASA para salvar o observatório Swift",
+      "category": "Espaço",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "cdef1f8b-373c-4cfc-badd-a0aeb26b8e80",
+      "title": "Emulação de PS5 no PC dá um salto importante",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "87c0af31-896d-491a-8c24-04307e75480e",
+      "title": "Legato lança óculos com IA para auxiliar na audição",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "repaired": false
     }
   ]
 }
