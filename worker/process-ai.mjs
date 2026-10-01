@@ -1,5 +1,5 @@
 import { writeFile } from 'node:fs/promises';
-import { getDraftArticles, updateArticle, getCategoryByName, attachCategory, getPublishedArticles } from './supabase.mjs';
+import { getDraftArticles, getShortReviewArticles, updateArticle, getCategoryByName, attachCategory, getPublishedArticles } from './supabase.mjs';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
@@ -32,31 +32,11 @@ function parseJsonText(text){
 }
 
 function decodeEntities(value=''){
-  return value
-    .replace(/&nbsp;/gi,' ')
-    .replace(/&amp;/gi,'&')
-    .replace(/&quot;/gi,'"')
-    .replace(/&#39;|&apos;/gi,"'")
-    .replace(/&lt;/gi,'<')
-    .replace(/&gt;/gi,'>')
-    .replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n)))
-    .replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16)));
+  return value.replace(/&nbsp;/gi,' ').replace(/&amp;/gi,'&').replace(/&quot;/gi,'"').replace(/&#39;|&apos;/gi,"'").replace(/&lt;/gi,'<').replace(/&gt;/gi,'>').replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(Number(n))).replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16)));
 }
 
 function htmlToText(html=''){
-  return decodeEntities(html
-    .replace(/<script[\s\S]*?<\/script>/gi,' ')
-    .replace(/<style[\s\S]*?<\/style>/gi,' ')
-    .replace(/<noscript[\s\S]*?<\/noscript>/gi,' ')
-    .replace(/<svg[\s\S]*?<\/svg>/gi,' ')
-    .replace(/<(?:nav|header|footer|aside|form)[^>]*>[\s\S]*?<\/(?:nav|header|footer|aside|form)>/gi,' ')
-    .replace(/<br\s*\/?>/gi,'\n')
-    .replace(/<\/(?:p|div|section|article|main|li|h[1-6]|blockquote)>/gi,'\n')
-    .replace(/<[^>]+>/g,' '))
-    .split(/\n+/)
-    .map(line=>line.replace(/\s+/g,' ').trim())
-    .filter(Boolean)
-    .join('\n');
+  return decodeEntities(html.replace(/<script[\s\S]*?<\/script>/gi,' ').replace(/<style[\s\S]*?<\/style>/gi,' ').replace(/<noscript[\s\S]*?<\/noscript>/gi,' ').replace(/<svg[\s\S]*?<\/svg>/gi,' ').replace(/<(?:nav|header|footer|aside|form)[^>]*>[\s\S]*?<\/(?:nav|header|footer|aside|form)>/gi,' ').replace(/<br\s*\/?>/gi,'\n').replace(/<\/(?:p|div|section|article|main|li|h[1-6]|blockquote)>/gi,'\n').replace(/<[^>]+>/g,' ')).split(/\n+/).map(line=>line.replace(/\s+/g,' ').trim()).filter(Boolean).join('\n');
 }
 
 async function fetchOriginalArticle(url){
@@ -64,24 +44,17 @@ async function fetchOriginalArticle(url){
     const response=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech-Check/1.0 article reader'},signal:AbortSignal.timeout(12000)});
     if(!response.ok) throw new Error(`fonte ${response.status}`);
     const html=await response.text();
-
-    // Prefer structured Article JSON-LD because it often contains the complete article body.
     const jsonLd=[...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
     for(const match of jsonLd){
       try{
         const raw=JSON.parse(match[1].trim());
         const nodes=Array.isArray(raw)?raw:[raw,...(raw?.['@graph']||[])];
-        for(const node of nodes){
-          if(typeof node?.articleBody==='string' && node.articleBody.length>500) return node.articleBody;
-        }
+        for(const node of nodes) if(typeof node?.articleBody==='string' && node.articleBody.length>500) return node.articleBody;
       }catch{}
     }
-
-    // Then prefer the semantic article/main container.
     const articleMatch=html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i);
     const mainMatch=html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i);
-    const candidate=articleMatch?.[1]||mainMatch?.[1]||html;
-    const text=htmlToText(candidate);
+    const text=htmlToText(articleMatch?.[1]||mainMatch?.[1]||html);
     return text.length>500 ? text : '';
   }catch(error){
     console.warn(`Não foi possível extrair o corpo de ${url}:`,error.message);
@@ -102,7 +75,6 @@ async function generate(article){
   const sourceText=await fetchOriginalArticle(article.original_url);
   const availableSource=sourceText || `O corpo completo da fonte não pôde ser recuperado automaticamente. Use somente os dados disponíveis abaixo e não invente informações.\n\nTítulo: ${article.title}\nResumo disponível: ${article.summary||'(não informado)'}`;
   const limitedSource=availableSource.slice(0,60000);
-
   const prompt=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Produza uma matéria jornalística completa em português brasileiro natural, clara e gostosa de ler, sem clickbait e sem copiar frases do texto original.
 
 REGRA PRINCIPAL DE COMPLETUDE: o corpo da matéria deve cobrir TODAS as informações relevantes presentes na fonte fornecida. Não reduza uma matéria longa a um resumo curto. Preserve nomes, números, datas, especificações, acontecimentos, contexto, resultados, comparações, declarações e demais detalhes importantes que estejam no material. Organize o conteúdo em vários parágrafos curtos e, quando fizer sentido, subtítulos. A extensão desejada para esta fonte é ${targetLength(sourceText || article.summary || '')}.
@@ -112,9 +84,7 @@ Não invente fatos, declarações, fontes, datas, números ou capacidades técni
 O resumo deve ser curto e funcionar como introdução. O campo content é a matéria completa e deve ser muito mais detalhado que o resumo. Em why_it_matters, explique por que a notícia pode ser relevante usando somente informações sustentadas pela fonte. Em future_outlook, apresente possíveis extrapolações como cenários, usando 'pode', 'é possível' e 'se essa tendência continuar'; nunca apresente uma previsão como fato.
 
 Categoria deve ser exatamente uma destas: ${categories.join(', ')}.
-
 O nível de verificação deve ser single_source. Só use official_source se o material fornecido for claramente um comunicado ou anúncio oficial da organização citada. Nunca use multiple_sources nesta etapa.
-
 Responda exclusivamente com o objeto JSON solicitado, sem markdown e sem texto antes ou depois.
 
 URL da fonte: ${article.original_url}
@@ -122,48 +92,30 @@ Idioma original: ${article.original_language}
 Título coletado: ${article.title}
 Resumo/descrição coletada: ${article.summary||'(não informado)'}
 
-CORPO RECUPERADO DA FONTE:
-${limitedSource}`;
+CORPO RECUPERADO DA FONTE:\n${limitedSource}`;
 
-  const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,{
-    method:'POST',
-    headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},
-    body:JSON.stringify({
-      contents:[{parts:[{text:prompt}]}],
-      generationConfig:{temperature:0.2,maxOutputTokens:8192,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}
-    })
-  });
+  const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,{method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.2,maxOutputTokens:8192,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}})});
   if(!response.ok) throw new Error(`Gemini ${response.status}: ${await response.text()}`);
   const data=await response.json();
   const candidate=data.candidates?.[0];
   const text=candidate?.content?.parts?.map(p=>p.text||'').join('').trim();
-  if(!text){
-    const reason=candidate?.finishReason || 'sem conteúdo';
-    throw new Error(`Gemini não retornou texto (${reason}).`);
-  }
+  if(!text) throw new Error(`Gemini não retornou texto (${candidate?.finishReason||'sem conteúdo'}).`);
   return parseJsonText(text);
 }
 
-const articles=await getDraftArticles(8); const processed=[];
+const drafts=await getDraftArticles(8);
+const shortExisting=await getShortReviewArticles(5);
+const articles=[...new Map([...drafts,...shortExisting].map(article=>[article.id,article])).values()];
+const processed=[];
+
 for(const article of articles){
   try{
     const result=await generate(article);
-    if(!result.title || !result.summary || !result.content || !result.why_it_matters || !result.future_outlook || !result.category){
-      throw new Error('Gemini retornou campos obrigatórios incompletos.');
-    }
-    await updateArticle(article.id,{
-      title:result.title,
-      summary:result.summary,
-      content:result.content,
-      why_it_matters:result.why_it_matters,
-      future_outlook:result.future_outlook,
-      verification_level:result.verification_level,
-      status:'review',
-      published_at:new Date().toISOString()
-    });
+    if(!result.title || !result.summary || !result.content || !result.why_it_matters || !result.future_outlook || !result.category) throw new Error('Gemini retornou campos obrigatórios incompletos.');
+    await updateArticle(article.id,{title:result.title,summary:result.summary,content:result.content,why_it_matters:result.why_it_matters,future_outlook:result.future_outlook,verification_level:result.verification_level,status:'review',published_at:article.published_at||new Date().toISOString()});
     const category=await getCategoryByName(result.category);
     if(category) await attachCategory(article.id,category.id);
-    processed.push({id:article.id,title:result.title,category:result.category,status:'review'});
+    processed.push({id:article.id,title:result.title,category:result.category,status:'review',repaired:article.status==='review'});
   }catch(error){
     console.error(`Falha ao processar ${article.id}:`,error.message);
     processed.push({id:article.id,title:article.title,status:'error',error:error.message});
@@ -171,10 +123,8 @@ for(const article of articles){
 }
 
 await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
-
 const published=await getPublishedArticles(30);
 await writeFile('data/latest.json',JSON.stringify({updated_at:new Date().toISOString(),count:published.length,articles:published},null,2));
-
 const failures=processed.filter(item=>item.status==='error');
-console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias. Feed público atualizado com ${published.length} matérias.`);
+console.log(`Processadas/reparadas ${processed.filter(item=>item.status==='review').length} notícias. Feed público atualizado com ${published.length} matérias.`);
 if(failures.length) throw new Error(`${failures.length} notícia(s) falharam no processamento. Veja data/ai-processing-report.json.`);
