@@ -30,8 +30,16 @@ async function request(path, options = {}) {
 export async function getSources() { return request('sources?active=eq.true&select=*') || []; }
 
 export async function findArticleByUrl(url) {
-  const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id&limit=1`) || [];
+  const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id,image_url&limit=1`) || [];
   return rows[0] || null;
+}
+
+export async function updateArticleImage(id, image_url) {
+  await request(`articles?id=eq.${encodeURIComponent(id)}`, {
+    method: 'PATCH',
+    headers: { Prefer: 'return=minimal' },
+    body: JSON.stringify({ image_url, updated_at: new Date().toISOString() })
+  });
 }
 
 export async function insertArticle(item) {
