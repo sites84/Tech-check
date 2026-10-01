@@ -77,7 +77,9 @@ async function generate(article){
   const limitedSource=availableSource.slice(0,60000);
   const prompt=`Você é o editor do Tech Check, um portal brasileiro de tecnologia. Produza uma matéria jornalística completa em português brasileiro natural, clara e gostosa de ler, sem clickbait e sem copiar frases do texto original.
 
-REGRA PRINCIPAL DE COMPLETUDE: o corpo da matéria deve cobrir TODAS as informações relevantes presentes na fonte fornecida. Não reduza uma matéria longa a um resumo curto. Preserve nomes, números, datas, especificações, acontecimentos, contexto, resultados, comparações, declarações e demais detalhes importantes que estejam no material. Organize o conteúdo em vários parágrafos curtos e, quando fizer sentido, subtítulos. A extensão desejada para esta fonte é ${targetLength(sourceText || article.summary || '')}.
+REGRA PRINCIPAL DE COMPLETUDE: o corpo da matéria deve cobrir TODAS as informações relevantes presentes na fonte fornecida. Não reduza uma matéria longa a um resumo curto. Preserve nomes, números, datas, especificações, acontecimentos, contexto, resultados, comparações, declarações e demais detalhes importantes que estejam no material. Se a fonte for longa, a matéria também deve ser longa e detalhada. A extensão desejada para esta fonte é ${targetLength(sourceText || article.summary || '')}.
+
+FORMATAÇÃO OBRIGATÓRIA DO CAMPO content: escreva a matéria em Markdown simples para permitir uma apresentação editorial organizada no site. Use vários parágrafos curtos separados por uma linha em branco. Divida matérias longas em subtítulos usando linhas começando com ## . Quando houver listas naturais de produtos, recursos, especificações, etapas, características, vantagens, números ou itens comparáveis, use listas com - . Não transforme a matéria inteira em uma lista. Use subtítulos apenas quando ajudarem a leitura e nunca coloque tudo em um único parágrafo. Não use HTML. Não use # no título principal, pois o título será exibido separadamente pelo site.
 
 Não invente fatos, declarações, fontes, datas, números ou capacidades técnicas. Se uma informação não estiver na fonte, não crie. Reescreva com suas próprias palavras e mantenha fidelidade ao conteúdo original. Não transforme uma lista ou conjunto de informações importantes em apenas uma descrição genérica.
 
@@ -85,7 +87,7 @@ O resumo deve ser curto e funcionar como introdução. O campo content é a mat�
 
 Categoria deve ser exatamente uma destas: ${categories.join(', ')}.
 O nível de verificação deve ser single_source. Só use official_source se o material fornecido for claramente um comunicado ou anúncio oficial da organização citada. Nunca use multiple_sources nesta etapa.
-Responda exclusivamente com o objeto JSON solicitado, sem markdown e sem texto antes ou depois.
+Responda exclusivamente com o objeto JSON solicitado, sem markdown fora do campo content e sem texto antes ou depois.
 
 URL da fonte: ${article.original_url}
 Idioma original: ${article.original_language}
