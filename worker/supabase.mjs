@@ -45,6 +45,7 @@ export async function insertArticle(item) {
       summary: item.summary || null,
       original_language: item.language || 'en',
       original_url: item.url,
+      image_url: item.image_url || null,
       status: 'draft',
       verification_level: 'single_source'
     })
@@ -62,7 +63,7 @@ export async function attachSource(articleId, sourceId, title, url) {
 }
 
 export async function getDraftArticles(limit = 8) {
-  return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,created_at&order=created_at.asc&limit=${limit}`) || [];
+  return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,image_url,created_at&order=created_at.asc&limit=${limit}`) || [];
 }
 
 export async function updateArticle(id, data) {
