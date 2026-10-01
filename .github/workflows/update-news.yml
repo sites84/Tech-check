@@ -36,6 +36,12 @@ jobs:
           GEMINI_MODEL: gemini-3.1-flash-lite
         run: node worker/process-ai.mjs
 
+      - name: Buscar imagens dos produtos afiliados
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/update-affiliate-images.mjs
+
       - name: Salvar relatórios e feed público
         if: always()
         run: |
