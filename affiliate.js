@@ -60,7 +60,7 @@ function renderAffiliate(){
   const source=modal.querySelector('.source-box');
   const box=document.createElement('section');
   box.className='affiliate-box';
-  box.innerHTML=`<p class="eyebrow">PRODUTO RELACIONADO</p><h3>${escapeHtml(product.product_name||'Produto relacionado')}</h3><p>Encontre este tipo de produto na Shopee.</p><a class="affiliate-button" href="${escapeHtml(product.affiliate_url)}" target="_blank" rel="sponsored noopener noreferrer">Ver produto na Shopee ↗</a><small>Link de afiliado. O Tech Check pode receber comissão pela compra.</small>`;
+  box.innerHTML=`<p class="eyebrow">PRODUTO RELACIONADO</p><h3>${escapeHtml(product.product_name||'Produto relacionado')}</h3><p>Clique abaixo e confira este produto em oferta</p><a class="affiliate-button" href="${escapeHtml(product.affiliate_url)}" target="_blank" rel="sponsored noopener noreferrer">Grandes ofertas</a>`;
   if(source)source.insertAdjacentElement('afterend',box);else modal.appendChild(box);
 }
 
