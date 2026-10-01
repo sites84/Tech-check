@@ -17,7 +17,7 @@
         <a href="#curiosidades">Curiosidades</a>
         <a href="#historia">História</a>
       </nav>
-      <button class="search-button" aria-label="Pesquisar">⌕</button>
+      <button id="search-button" class="search-button" aria-label="Pesquisar notícias">⌕</button>
     </div>
   </header>
 
@@ -28,24 +28,26 @@
         <h1>O que está acontecendo na tecnologia, sem enrolação.</h1>
         <p class="hero-copy">Notícias de tecnologia reunidas de fontes especializadas, verificadas, traduzidas e reescritas em português.</p>
       </div>
-      <div class="hero-note"><strong>Como funciona</strong><span>Fatos primeiro. Contexto depois. Especulação sempre identificada.</span></div>
+      <div class="hero-note"><strong>Como funciona</strong><span>Fatos primeiro. Contexto depois. Possíveis desdobramentos sempre identificados como cenário.</span></div>
     </section>
 
     <section id="ultimas" class="container section">
-      <div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">MVP · conteúdo de demonstração</span></div>
+      <div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">Carregando notícias…</span></div>
+      <div id="search-panel" class="search-panel" hidden><input id="search-input" type="search" placeholder="Pesquisar por título ou assunto…" autocomplete="off"></div>
       <div id="news-grid" class="news-grid"></div>
+      <p id="empty-state" class="empty-state" hidden>Nenhuma matéria encontrada.</p>
     </section>
 
     <section id="categorias" class="container section">
       <div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>Por assunto</h2></div></div>
-      <div class="category-grid">
-        <a href="#">Inteligência Artificial</a><a href="#">Smartphones</a><a href="#">Computadores</a><a href="#">Games</a><a href="#">Segurança</a><a href="#">Ciência</a><a href="#">Espaço</a><a href="#">Gadgets</a><a href="#">Internet</a><a href="#">Cripto</a><a href="#">Empresas</a><a href="#">Startups</a>
+      <div id="category-grid" class="category-grid">
+        <button data-category="Inteligência Artificial">Inteligência Artificial</button><button data-category="Smartphones">Smartphones</button><button data-category="Computadores">Computadores</button><button data-category="Games">Games</button><button data-category="Segurança">Segurança</button><button data-category="Ciência">Ciência</button><button data-category="Espaço">Espaço</button><button data-category="Gadgets">Gadgets</button><button data-category="Internet">Internet</button><button data-category="Cripto">Cripto</button><button data-category="Empresas">Empresas</button><button data-category="História da tecnologia">História da tecnologia</button>
       </div>
     </section>
 
     <section id="curiosidades" class="container feature-section">
       <div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2><p>Conteúdo permanente para descobrir como tecnologias e invenções chegaram até nós.</p></div>
-      <a class="outline-button" href="#">Ver curiosidades</a>
+      <a class="outline-button" href="#categorias">Explorar conteúdo</a>
     </section>
 
     <section id="historia" class="container feature-section timeline-feature">
@@ -53,6 +55,14 @@
       <div class="timeline"><span>1946</span><span>1971</span><span>1991</span><span>2007</span><span>2022</span><span>Hoje</span></div>
     </section>
   </main>
+
+  <div id="article-modal" class="modal" hidden>
+    <div class="modal-backdrop" data-close-modal></div>
+    <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" data-close-modal aria-label="Fechar">×</button>
+      <div id="modal-content"></div>
+    </article>
+  </div>
 
   <footer class="footer"><div class="container"><strong>TECHCHECK</strong><span>Notícias, contexto e curiosidades sobre tecnologia.</span></div></footer>
   <script src="app.js"></script>
