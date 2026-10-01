@@ -19,49 +19,28 @@ async function request(path, options = {}) {
   return response.status === 204 ? null : response.json();
 }
 
-export async function getSources() {
-  return request('sources?active=eq.true&select=*');
-}
-
-export async function findArticleByUrl(url) {
-  const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id&limit=1`);
-  return rows[0] || null;
-}
+export async function getSources() { return request('sources?active=eq.true&select=*'); }
+export async function findArticleByUrl(url) { const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id&limit=1`); return rows[0] || null; }
 
 export async function insertArticle(item) {
   const slug = `${item.title.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 80)}-${Date.now()}`;
-  const rows = await request('articles', {
-    method: 'POST',
-    headers: { Prefer: 'return=representation' },
-    body: JSON.stringify({
-      title: item.title,
-      slug,
-      summary: item.summary || null,
-      original_language: item.language || 'en',
-      original_url: item.url,
-      status: 'draft',
-      verification_level: 'single_source'
-    })
-  });
+  const rows = await request('articles', { method: 'POST', headers: { Prefer: 'return=representation' }, body: JSON.stringify({ title:item.title, slug, summary:item.summary||null, original_language:item.language||'en', original_url:item.url, status:'draft', verification_level:'single_source' }) });
   return rows[0];
 }
 
 export async function attachSource(articleId, sourceId, title, url) {
-  await request('article_sources', {
-    method: 'POST',
-    headers: { Prefer: 'resolution=ignore-duplicates' },
-    body: JSON.stringify({ article_id: articleId, source_id: sourceId, source_title: title, source_url: url })
-  });
+  await request('article_sources', { method:'POST', headers:{Prefer:'resolution=ignore-duplicates'}, body:JSON.stringify({article_id:articleId,source_id:sourceId,source_title:title,source_url:url}) });
 }
 
-export async function getDraftArticles(limit = 8) {
-  return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,created_at&order=created_at.asc&limit=${limit}`);
+export async function getDraftArticles(limit=8) { return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,created_at&order=created_at.asc&limit=${limit}`); }
+
+export async function updateArticle(id, data) { return request(`articles?id=eq.${encodeURIComponent(id)}`, { method:'PATCH', headers:{Prefer:'return=representation'}, body:JSON.stringify({...data,updated_at:new Date().toISOString()}) }); }
+
+export async function getCategoryByName(name) {
+  const rows = await request(`categories?name=eq.${encodeURIComponent(name)}&select=id,name&limit=1`);
+  return rows[0] || null;
 }
 
-export async function updateArticle(id, data) {
-  return request(`articles?id=eq.${encodeURIComponent(id)}`, {
-    method: 'PATCH',
-    headers: { Prefer: 'return=representation' },
-    body: JSON.stringify({ ...data, updated_at: new Date().toISOString() })
-  });
+export async function attachCategory(articleId, categoryId) {
+  await request('article_categories', { method:'POST', headers:{Prefer:'resolution=ignore-duplicates'}, body:JSON.stringify({article_id:articleId,category_id:categoryId}) });
 }
