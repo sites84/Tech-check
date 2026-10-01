@@ -85,3 +85,25 @@ export async function attachCategory(articleId, categoryId) {
     body: JSON.stringify({ article_id: articleId, category_id: categoryId })
   });
 }
+
+export async function getPublishedArticles(limit = 30) {
+  const articles = await request(`articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=${limit}`) || [];
+
+  const result = [];
+  for (const article of articles) {
+    const links = await request(`article_sources?article_id=eq.${encodeURIComponent(article.id)}&select=source_title,source_url&limit=1`) || [];
+    const categoryLinks = await request(`article_categories?article_id=eq.${encodeURIComponent(article.id)}&select=category_id&limit=1`) || [];
+    let category = 'Tecnologia';
+    if (categoryLinks[0]?.category_id) {
+      const categories = await request(`categories?id=eq.${encodeURIComponent(categoryLinks[0].category_id)}&select=name&limit=1`) || [];
+      category = categories[0]?.name || category;
+    }
+    result.push({
+      ...article,
+      category,
+      source: links[0]?.source_title || 'Fonte original',
+      source_url: links[0]?.source_url || article.original_url
+    });
+  }
+  return result;
+}
