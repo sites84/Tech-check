@@ -1,5 +1,36 @@
 {
-  "updated_at": "2026-10-01T12:46:14.065Z",
+  "updated_at": "2026-10-01T13:09:34.040Z",
   "model": "gemini-3.1-flash-lite",
-  "processed": []
+  "processed": [
+    {
+      "id": "7aa82410-35ee-40b3-a989-0ecd5052389f",
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "5eda4b6a-188b-4619-bac8-d7633daeb0cd",
+      "title": "Amazon renova linha Kindle com modelos Colorsoft e novas versões do Paperwhite",
+      "category": "Gadgets",
+      "status": "review"
+    },
+    {
+      "id": "1c4cb7b1-e95a-4a82-a2ec-e9ceb9fd915b",
+      "title": "HP Omnibook X: O novo notebook com tela OLED e bateria que promete durar quase dois dias",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "b4bb3d3d-edc7-4a40-934a-5a4558a1b54e",
+      "title": "Neurable lança fones de ouvido que monitoram ondas cerebrais",
+      "category": "Gadgets",
+      "status": "review"
+    },
+    {
+      "id": "ce3c1a77-4c16-43a4-9dab-4dd5646beb31",
+      "title": "Amazon's latest Kindle accessories bring physical buttons back to its ereaders",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    }
+  ]
 }
