@@ -68,6 +68,12 @@ jobs:
           npm install --prefix .seo-tools --no-save sharp@0.33.5
           node worker/generate-seo.mjs
 
+      - name: Adicionar imagens ao Leia Também das páginas estáticas
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/add-related-images.mjs
+
       - name: Salvar relatórios, feed público e SEO
         if: always()
         run: |
