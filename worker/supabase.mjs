@@ -1,3 +1,4 @@
+// Feed público com deduplicação final por URL e título. Alteração de versão para forçar a reconstrução do latest.json.
 const SUPABASE_URL = process.env.SUPABASE_URL;
 const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 
