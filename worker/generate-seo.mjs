@@ -19,6 +19,10 @@ async function api(path) {
 }
 function esc(value = '') { return String(value).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c])); }
 function slugify(value = '') { return value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 100); }
+function normalizeTitle(value = '') { return String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function titleTokens(value = '') { return new Set(normalizeTitle(value).split(' ').filter(w => w.length > 2)); }
+function titleSimilarity(a, b) { const A = titleTokens(a), B = titleTokens(b); if (!A.size || !B.size) return 0; let intersection = 0; for (const token of A) if (B.has(token)) intersection++; const jaccard = intersection / (A.size + B.size - intersection); const containment = intersection / Math.min(A.size, B.size); return Math.max(jaccard, containment * 0.9); }
+function isDuplicate(a, b) { if (a.original_url && b.original_url && a.original_url === b.original_url) return true; return titleSimilarity(a.title || '', b.title || '') >= 0.92; }
 function markdownToHtml(markdown = '') {
   const lines = String(markdown).replace(/\r\n?/g, '\n').trim().split('\n');
   const out = []; let paragraph = []; let list = [];
@@ -56,26 +60,46 @@ async function optimizeImage(article, sharp) {
     return { url: `${SITE_URL}/${relative}`, width: meta.width || 1280, height: meta.height || 720 };
   } catch (error) { console.warn(`Imagem não otimizada para ${article.id}: ${error.message}`); return null; }
 }
+function relatedArticles(article, articles, categoryMap, articleCategory) {
+  const tokens = [...titleTokens(`${article.title} ${article.summary || ''}`)];
+  const scored = articles.filter(a => a.id !== article.id).map(a => {
+    const sameCategory = articleCategory.get(a.id) === articleCategory.get(article.id);
+    const set = titleTokens(`${a.title || ''} ${a.summary || ''}`); let score = sameCategory ? 1 : 0;
+    for (const t of tokens) if (set.has(t)) score += t.length >= 7 ? 4 : 2;
+    return { ...a, score };
+  }).filter(a => a.score > 0).sort((a, b) => b.score - a.score).slice(0, 5);
+  return scored;
+}
+function relatedHtml(items) {
+  if (!items.length) return '';
+  return `<section class="read-also"><p class="eyebrow">LEIA TAMBÉM</p><div class="read-also-list">${items.map(a => `<a class="related-card" href="${SITE_URL}/noticias/${encodeURIComponent(slugify(a.slug || a.title) || a.id)}/"><div class="related-card-title">${esc(a.title || 'Sem título')}</div><span>${esc('' + (a.category || 'Tecnologia'))}</span></a>`).join('')}</div></section>`;
+}
 
 async function main() {
-  const articles = await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
+  const rawArticles = await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
   const categoryLinks = await api('article_categories?select=article_id,category_id');
   const categories = await api('categories?select=id,name');
   const sources = await api('article_sources?select=article_id,source_title,source_url');
   const categoryMap = new Map(categories.map(x => [x.id, x.name]));
   const articleCategory = new Map(categoryLinks.map(x => [x.article_id, categoryMap.get(x.category_id) || 'Tecnologia']));
   const sourceMap = new Map(sources.map(x => [x.article_id, x]));
+
+  const articles = [];
+  const duplicateIds = new Set();
+  for (const article of rawArticles) {
+    if (articles.some(existing => isDuplicate(existing, article))) { duplicateIds.add(article.id); continue; }
+    articles.push(article);
+  }
   let sharp; try { sharp = require(process.env.SHARP_PATH || 'sharp'); } catch { console.warn('sharp não disponível; usando imagens originais.'); }
 
   await rm('noticias', { recursive: true, force: true });
+  await rm(IMAGE_DIR, { recursive: true, force: true });
   await mkdir(IMAGE_DIR, { recursive: true });
   const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">', `<url><loc>${SITE_URL}/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>`];
-  const seenSlugs = new Set(); let generated = 0; let optimized = 0;
+  let generated = 0; let optimized = 0;
 
   for (const article of articles) {
-    let slug = slugify(article.slug || article.title) || `artigo-${article.id}`;
-    if (seenSlugs.has(slug)) slug = `${slug}-${article.id.slice(0, 8)}`;
-    seenSlugs.add(slug);
+    const slug = slugify(article.slug || article.title) || `artigo-${article.id}`;
     const url = `${SITE_URL}/noticias/${encodeURIComponent(slug)}/`;
     const category = articleCategory.get(article.id) || 'Tecnologia';
     const source = sourceMap.get(article.id) || {};
@@ -83,13 +107,15 @@ async function main() {
     if (image) optimized++;
     const imageUrl = image?.url || article.image_url || '';
     const body = markdownToHtml(article.content || '');
+    const related = relatedArticles(article, articles, categoryMap, articleCategory).map(a => ({ ...a, category: articleCategory.get(a.id) || 'Tecnologia' }));
+    const readAlso = relatedHtml(related);
     const why = article.why_it_matters ? `<section class="article-extra"><h2>Por que isso importa</h2><p>${esc(article.why_it_matters)}</p></section>` : '';
     const outlook = article.future_outlook ? `<section class="article-extra"><h2>O que pode acontecer no futuro</h2><p>${esc(article.future_outlook)}</p><small>São cenários possíveis, não previsões garantidas.</small></section>` : '';
     const imageHtml = imageUrl ? `<img class="article-hero-image" src="${esc(imageUrl)}" alt="${esc(article.title)}" width="${image?.width || 1280}" height="${image?.height || 720}" fetchpriority="high" decoding="async">` : '';
     const published = article.published_at || article.created_at;
     const sourceHtml = source.source_url ? `<p class="source"><strong>Fonte original:</strong> <a href="${esc(source.source_url)}" rel="nofollow noopener noreferrer" target="_blank">${esc(source.source_title || source.source_url)}</a></p>` : '';
     const dateText = new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(published));
-    const html = `<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(article.title)} | Tech Check</title><meta name="description" content="${esc((article.summary || article.title).slice(0, 160))}"><link rel="canonical" href="${url}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:type" content="article"><meta property="og:site_name" content="Tech Check"><meta property="og:locale" content="pt_BR"><meta property="og:title" content="${esc(article.title)}"><meta property="og:description" content="${esc(article.summary || article.title)}"><meta property="og:url" content="${url}">${imageUrl ? `<meta property="og:image" content="${esc(imageUrl)}"><meta property="og:image:alt" content="${esc(article.title)}">` : ''}<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(article.title)}"><meta name="twitter:description" content="${esc(article.summary || article.title)}">${imageUrl ? `<meta name="twitter:image" content="${esc(imageUrl)}">` : ''}<script type="application/ld+json">${jsonLd(article,url,imageUrl)}</script><link rel="stylesheet" href="../../styles.css"><link rel="stylesheet" href="../../article-page.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="../../">TECH<span>CHECK</span></a><nav aria-label="Navegação principal"><a href="../../#ultimas">Últimas</a><a href="../../#categorias">Categorias</a><a href="../../#curiosidades">Curiosidades</a><a href="../../#historia">História</a></nav></div></header><main class="article-page container"><a class="back-link" href="../../">← Voltar para as notícias</a><article><p class="eyebrow">${esc(category)} · ${dateText}</p><h1>${esc(article.title)}</h1>${imageHtml}<p class="article-lead">${esc(article.summary || '')}</p><div class="article-body">${body}</div>${why}${outlook}${sourceHtml}</article></main></body></html>`;
+    const html = `<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(article.title)} | Tech Check</title><meta name="description" content="${esc((article.summary || article.title).slice(0, 160))}"><link rel="canonical" href="${url}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:type" content="article"><meta property="og:site_name" content="Tech Check"><meta property="og:locale" content="pt_BR"><meta property="og:title" content="${esc(article.title)}"><meta property="og:description" content="${esc(article.summary || article.title)}"><meta property="og:url" content="${url}">${imageUrl ? `<meta property="og:image" content="${esc(imageUrl)}"><meta property="og:image:alt" content="${esc(article.title)}">` : ''}<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(article.title)}"><meta name="twitter:description" content="${esc(article.summary || article.title)}">${imageUrl ? `<meta name="twitter:image" content="${esc(imageUrl)}">` : ''}<script type="application/ld+json">${jsonLd(article,url,imageUrl)}</script><link rel="stylesheet" href="../../styles.css"><link rel="stylesheet" href="../../article-page.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="../../">TECH<span>CHECK</span></a><nav aria-label="Navegação principal"><a href="../../#ultimas">Últimas</a><a href="../../#categorias">Categorias</a><a href="../../#curiosidades">Curiosidades</a><a href="../../#historia">História</a></nav></div></header><main class="article-page container"><a class="back-link" href="../../">← Voltar para as notícias</a><article><p class="eyebrow">${esc(category)} · ${dateText}</p><h1>${esc(article.title)}</h1>${imageHtml}<p class="article-lead">${esc(article.summary || '')}</p><div class="article-body">${body}${readAlso}</div>${why}${outlook}${sourceHtml}</article></main></body></html>`;
     await mkdir(`noticias/${slug}`, { recursive: true });
     await writeFile(`noticias/${slug}/index.html`, html);
     const lastmod = new Date(article.updated_at || published).toISOString();
@@ -99,7 +125,7 @@ async function main() {
   sitemap.push('</urlset>');
   await writeFile('sitemap.xml', sitemap.join('\n'));
   await writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
-  await writeFile('data/seo-report.json', JSON.stringify({ updated_at: new Date().toISOString(), generated_pages: generated, optimized_images: optimized, total_articles: articles.length }, null, 2));
-  console.log(`SEO: ${generated} páginas indexáveis, ${optimized} imagens WebP, sitemap e robots.txt atualizados.`);
+  await writeFile('data/seo-report.json', JSON.stringify({ updated_at: new Date().toISOString(), generated_pages: generated, optimized_images: optimized, total_articles: articles.length, duplicates_skipped: duplicateIds.size }, null, 2));
+  console.log(`SEO: ${generated} páginas indexáveis, ${optimized} imagens WebP, ${duplicateIds.size} duplicatas ignoradas, sitemap e robots.txt atualizados.`);
 }
 await main();
