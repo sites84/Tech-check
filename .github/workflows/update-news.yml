@@ -74,6 +74,12 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/add-related-images.mjs
 
+      - name: Gerar páginas de arquivo indexáveis
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/generate-pagination.mjs
+
       - name: Salvar relatórios, feed público e SEO
         if: always()
         run: |
@@ -84,14 +90,14 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
 
-          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news
+          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news page
 
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."
             exit 0
           fi
 
-          git commit -m "chore: atualizar feed, história e SEO"
+          git commit -m "chore: atualizar feed, história, arquivo e SEO"
 
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
@@ -104,6 +110,6 @@ jobs:
             fi
             git fetch origin main
             git reset --mixed origin/main
-            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news
-            git commit -m "chore: atualizar feed, história e SEO" || true
+            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news page
+            git commit -m "chore: atualizar feed, história, arquivo e SEO" || true
           done
