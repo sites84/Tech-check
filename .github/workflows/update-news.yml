@@ -1,8 +1,6 @@
 name: Atualizar notícias
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '17 * * * *'
@@ -67,9 +65,38 @@ jobs:
       - name: Salvar relatórios, feed público e SEO
         if: always()
         run: |
+          set -e
           git config user.name "Tech Check Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Atualiza a base para a main mais recente sem descartar os arquivos gerados.
+          git fetch origin main
+          git reset --mixed origin/main
+
           git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news
-          git diff --cached --quiet || git commit -m "chore: atualizar feed e SEO"
-          git pull --rebase --autostash origin main
-          git push origin HEAD:main
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para publicar."
+            exit 0
+          fi
+
+          git commit -m "chore: atualizar feed e SEO"
+
+          # Reaplica os arquivos gerados sobre a main atual se houver uma corrida.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Publicação concluída na tentativa $attempt."
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              echo "Não foi possível publicar após 3 tentativas."
+              exit 1
+            fi
+
+            echo "Main mudou durante a publicação; sincronizando novamente..."
+            git fetch origin main
+            git reset --mixed origin/main
+            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news
+            git commit -m "chore: atualizar feed e SEO" || true
+          done
