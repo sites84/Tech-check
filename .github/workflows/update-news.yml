@@ -66,6 +66,12 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/update-affiliate-images.mjs
 
+      - name: Reparar imagens das matérias
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/repair-images.mjs
+
       - name: Gerar SEO, páginas individuais e imagens otimizadas
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
