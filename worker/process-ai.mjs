@@ -125,7 +125,7 @@ for(const article of articles){
 }
 
 await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
-const published=await getPublishedArticles(30);
+const published=await getPublishedArticles(1000);
 await writeFile('data/latest.json',JSON.stringify({updated_at:new Date().toISOString(),count:published.length,articles:published},null,2));
 const failures=processed.filter(item=>item.status==='error');
 console.log(`Processadas/reparadas ${processed.filter(item=>item.status==='review').length} notícias. Feed público atualizado com ${published.length} matérias.`);
