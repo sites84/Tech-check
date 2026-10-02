@@ -67,6 +67,7 @@ jobs:
         run: node worker/update-affiliate-images.mjs
 
       - name: Reparar imagens das matérias
+        continue-on-error: true
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
