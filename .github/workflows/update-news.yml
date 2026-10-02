@@ -2,6 +2,9 @@ name: Atualizar notícias
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'worker/supabase.mjs'
   schedule:
     - cron: '17 * * * *'
 
@@ -69,7 +72,6 @@ jobs:
           git config user.name "Tech Check Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Atualiza a base para a main mais recente sem descartar os arquivos gerados.
           git fetch origin main
           git reset --mixed origin/main
 
@@ -82,7 +84,6 @@ jobs:
 
           git commit -m "chore: atualizar feed e SEO"
 
-          # Reaplica os arquivos gerados sobre a main atual se houver uma corrida.
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               echo "Publicação concluída na tentativa $attempt."
