@@ -49,6 +49,9 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/normalize-categories.mjs
 
+      - name: Atualizar história da tecnologia de hoje
+        run: node worker/update-history-today.mjs
+
       - name: Buscar imagens dos produtos afiliados
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -75,29 +78,26 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
 
-          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news
+          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news
 
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."
             exit 0
           fi
 
-          git commit -m "chore: atualizar feed e SEO"
+          git commit -m "chore: atualizar feed, história e SEO"
 
           for attempt in 1 2 3; do
             if git push origin HEAD:main; then
               echo "Publicação concluída na tentativa $attempt."
               exit 0
             fi
-
             if [ "$attempt" -eq 3 ]; then
               echo "Não foi possível publicar após 3 tentativas."
               exit 1
             fi
-
-            echo "Main mudou durante a publicação; sincronizando novamente..."
             git fetch origin main
             git reset --mixed origin/main
-            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news
-            git commit -m "chore: atualizar feed e SEO" || true
+            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news
+            git commit -m "chore: atualizar feed, história e SEO" || true
           done
