@@ -1,0 +1,13 @@
+const base=process.env.SUPABASE_URL;
+const key=process.env.SUPABASE_SERVICE_ROLE_KEY;
+if(!base||!key)throw new Error('Supabase secrets ausentes.');
+const headers={apikey:key,Authorization:`Bearer ${key}`,'Content-Type':'application/json'};
+async function getCategory(name){const r=await fetch(`${base}/rest/v1/categories?name=eq.${encodeURIComponent(name)}&select=id&limit=1`,{headers});if(!r.ok)throw Error(`category ${name} ${r.status}`);return (await r.json())[0]?.id;}
+async function ensureCategory(name,slug){let id=await getCategory(name);if(id)return id;const r=await fetch(`${base}/rest/v1/categories`,{method:'POST',headers:{...headers,Prefer:'return=representation'},body:JSON.stringify({name,slug})});if(!r.ok)throw Error(`create category ${name} ${r.status}: ${await r.text()}`);return (await r.json())[0]?.id;}
+async function merge(from,to){const fromId=await getCategory(from),toId=await getCategory(to);if(!fromId||!toId)return;const r=await fetch(`${base}/rest/v1/article_categories?category_id=eq.${fromId}&select=article_id`,{headers});if(!r.ok)return;for(const row of await r.json()){const exists=await fetch(`${base}/rest/v1/article_categories?article_id=eq.${row.article_id}&category_id=eq.${toId}&select=article_id`,{headers});if((await exists.json()).length===0)await fetch(`${base}/rest/v1/article_categories`,{method:'POST',headers,body:JSON.stringify({article_id:row.article_id,category_id:toId})});await fetch(`${base}/rest/v1/article_categories?article_id=eq.${row.article_id}&category_id=eq.${fromId}`,{method:'DELETE',headers});}}
+async function classifyEntertainment(categoryId){const sourceNames=['Animation Magazine','Collider','Entertainment Weekly','ScreenRant','Variety'];const sources=await fetch(`${base}/rest/v1/sources?name=in.(${sourceNames.map(n=>`"${n}"`).join(',')})&select=id,name`,{headers});if(!sources.ok)return;const sourceRows=await sources.json();for(const source of sourceRows){const links=await fetch(`${base}/rest/v1/article_sources?source_id=eq.${source.id}&select=article_id`,{headers});if(!links.ok)continue;for(const row of await links.json()){const exists=await fetch(`${base}/rest/v1/article_categories?article_id=eq.${row.article_id}&category_id=eq.${categoryId}&select=article_id`,{headers});if((await exists.json()).length===0)await fetch(`${base}/rest/v1/article_categories`,{method:'POST',headers,body:JSON.stringify({article_id:row.article_id,category_id:categoryId})});}}}
+const entertainmentId=await ensureCategory('Filmes, Séries e Animações','filmes-series-animacoes');
+await merge('Espaço','Ciência');
+await merge('Gadgets','Smartphones');
+await classifyEntertainment(entertainmentId);
+console.log('Categorias consolidadas e feeds de filmes, séries e animações classificados.');
