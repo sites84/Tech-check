@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-02T14:39:24.946Z",
+  "updated_at": "2026-10-02T14:45:08.298Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "5453d422-dcee-49e3-8a2e-a4bcf8452914",
-      "title": "Relembrando os clássicos: 8 tirinhas do final da era de The Far Side na década de 1990",
+      "id": "7333ee3c-0012-499f-a94f-4bca4eb75b44",
+      "title": "Controle Edição Limitada de Lisa para PS5 Já Está Disponível e Esgotando Rápido",
       "category": "Games",
       "status": "review"
     },
     {
       "id": "df7d4ed2-46f2-4710-aa31-318179551b9f",
-      "title": "Marvel Shares First Look At Dark Peter Parker Redesign For New Universe",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comics"
+      "title": "Marvel revela visual sombrio e nova origem para Peter Parker em universo inédito",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "56a7088a-11ae-409b-a64b-2fe38b7cab17",
@@ -39,122 +39,8 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "6cabf722-6338-470f-a267-b5df55371749",
-      "title": "Fabricante de memória alerta que escassez vai piorar em 2027 e CEO comemora preços mais altos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "bfaaabfe-1b01-47c6-98f4-339d797e34f7",
-      "title": "Produtor de Dynasty Warriors prefere criar jogos novos em vez de novos remasters",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "42eabb5e-67b1-4507-9569-99fb58070529",
-      "title": "Como aumentar rapidamente o medidor de ascensão em Aion 2",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "e6466c60-5ff2-409c-bdad-865e1b46df53",
-      "title": "Novo episódio do podcast do VGC debate o suposto retorno de Uncharted e outros grandes jogos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "420705d7-e4cd-472b-908b-99298f88212a",
-      "title": "Colleen Hoover explica por que o capítulo bônus de Verity ficou de fora da adaptação cinematográfica",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "76c6f25e-3aa5-4075-9324-d98d5f3d380b",
-      "title": "Gypsy Rose Blanchard comenta a morte do ex-noivo Ken Urker e revela overdose",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "2ace12aa-cee9-4365-a42f-298021be0855",
-      "title": "Billie Lourd compartilha conselho sobre lifting facial recebido de sua avó Debbie Reynolds",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "83706128-81c4-4184-9057-651504a2cc47",
-      "title": "Michael Douglas revela romance secreto com Kathleen Turner após quatro décadas",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "1dac93e6-ae6a-4969-a364-b6761cb8988d",
-      "title": "Mark Consuelos homenageia Kelly Ripa em seu aniversário com comparação inusitada",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "427ee90c-53c5-4da3-ba5a-0c3c7b2e7d9b",
-      "title": "10 movies that were supposed to launch franchises — and didn’t",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "94702f2b-660d-47f3-8fd5-8d7ecf84c7d0",
-      "title": "O que esperar do evento da Microsoft sobre Windows, Surface e IA em 7 de outubro",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "1cd3908a-8c94-463e-8744-d2e9c5e4c981",
-      "title": "Apple estaria desenvolvendo uma câmera inteligente residencial que não grava vídeos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "35a5d6d9-168c-4e92-991c-57624806e275",
-      "title": "O agravamento do problema de contrabando de chips da NVIDIA preocupa autoridades dos EUA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "6c49cb2d-d260-4795-b05d-e4addc255f0d",
-      "title": "Rivian convoca recall do SUV R2 devido a parafusos mal apertados na bateria",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "1eca6b63-9b8f-46de-aa4d-f64ef9e7fa06",
-      "title": "Rivian registra novo recorde de vendas impulsionada pelo lançamento do SUV R2",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "3b76b29c-0372-45be-abf7-8bf56528a5e6",
-      "title": "Gigante de registros médicos Epic paralisa desenvolvimento para corrigir falhas graves de segurança",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "8571fd2d-75ed-4ad0-ac41-8a33d690608c",
-      "title": "Tesla sustém ritmo de vendas de veículos elétricos apesar de desafios nos Estados Unidos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e7c9db1d-5a45-40f7-b7fc-b0e324e00a95",
-      "title": "Prazo final para inscrições de eventos paralelos na Founder Summit 2026",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "24bd743f-d191-4c85-a8fe-b3c3aa6daed0",
-      "title": "Últimas horas para garantir estande no TechCrunch Disrupt 2026",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "6d7d9a96-1274-4a93-9f27-f8c6fae6f452",
-      "title": "Rick Devens reflete sobre a difícil decisão de eliminar Drew na reta final de Big Brother",
+      "title": "Dez filmes que tentaram iniciar franquias de sucesso mas acabaram sem sequências",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -165,56 +51,134 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "db7b3be8-1a57-498d-969a-1847d9b8e7fd",
-      "title": "Bre Tiesi afirma que dar à luz o filho de Nick Cannon sem anestesia foi mais fácil do que participar do reality 'Special Forces'",
-      "category": "Filmes, Séries e Animações",
+      "id": "0722ccd7-887f-49c6-a863-e801a30696a0",
+      "title": "Instalações de energia solar em sacadas serão legalizadas na Califórnia",
+      "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "5e63700d-6ab7-4683-a8eb-98fefa641c2f",
-      "title": "Novo México quer que a Meta pague até US$ 40 bilhões de multa por escândalo da Cambridge Analytica",
+      "id": "bbd8dd1e-676e-4619-be5c-f9db915e0983",
+      "title": "FDA aprova válvula cardíaca artificial infantil que cresce com o paciente",
+      "category": "Ciência",
+      "status": "review"
+    },
+    {
+      "id": "7277a8a6-e5f3-4da7-823d-790ae6ed52e8",
+      "title": "Tesla lança recurso de saída de emergência para Superchargers após tiroteio",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "0722ccd7-887f-49c6-a863-e801a30696a0",
-      "title": "Balcony solar installations will soon be legal in America's most populous state",
+      "id": "bd263811-ca7a-4727-ad07-939c7d5956d1",
+      "title": "A discussão sobre o uso do termo Mini LED por fabricantes de televisores",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "c3d41f4b-c821-4c68-b55a-c89d1765aecd",
+      "title": "DLC gratuita Extended Operations de 007 First Light traz New Game+, modo foto e novos conteúdos",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "f1d11c27-1567-4e63-9fbf-8e8f8279def4",
+      "title": "Capcom detalha o processo desafiador de adaptar Monster Hunter Wilds para o Switch 2",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "a972e250-0c65-459b-83c9-c7b60d500f85",
+      "title": "Minecraft Dungeons II: Confira o resumo das avaliações da imprensa especializada",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ec77709a-869f-40fc-8ae1-fc68d1959f88",
+      "title": "Dicas e respostas do jogo Hurdle para 2 de outubro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "cd1f96ff-cd13-4883-b919-3f9b103ac061",
+      "title": "Como assistir à partida entre França e Itália na Nations League de graça",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "e8a50c28-7aa8-4bcf-b713-27708c7b540c",
+      "title": "Quando Breaking Bad tentou substituir Walter White em um jogo mobile esquecible",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "1237a8af-1acc-45de-9297-efce3a9b8e25",
+      "title": "Verity Ending Explained: Who Dies In The Movie & What Really Happened To Verity?",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Energia"
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "94604c4a-6b83-4b0b-8c28-6349f6dddee2",
-      "title": "Podcast do Macworld detalha desempenho e custos dos novos Mac mini e Mac Studio",
-      "category": "Computadores",
+      "id": "73af8c92-1e62-4880-82a9-9004cf18d670",
+      "title": "Shadow of the Backrooms chega em 2027 trazendo terror liminar e survival horror para os PCs",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "ed963344-f6ae-4dcb-9b59-3580b2ef00b6",
-      "title": "Usuários relatam problemas de chiado e estalos nos alto-falantes do iPhone 18 Pro",
-      "category": "Smartphones",
+      "id": "6c3aae03-8145-46ff-964f-0039f01f7f50",
+      "title": "Final Fantasy 9: Caixa de música \"A Place to Call Home\" chega este mês",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "3d53704e-e2b6-4465-a663-6ad3660abd3d",
-      "title": "Novo malware para macOS se disfarça de instalador do Zoom para roubar dados",
-      "category": "Segurança",
+      "id": "d25d0d13-e5b5-4390-a4a9-d74524376b9d",
+      "title": "The Legend of Zelda: Twilight Princess ganha nova sobrevida com projeto de remasterização feito por fãs",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "08b956a1-9600-4e54-950f-1028c1ac59ad",
-      "title": "Guia de Escolha dos AirPods: Qual Modelo Comprar em 2026?",
-      "category": "Smartphones",
+      "id": "904d5158-08c3-4846-b08a-ff47b29fc29b",
+      "title": "Dungeon Crawler Carl: Princess Donut ganha conjunto de dados oficial para novembro de 2026",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "61884b00-a041-43d8-b7d3-17ff5351807c",
-      "title": "Carregador Baseus PicoGo Pro AH22 de 100W combina com o novo iPhone 18 Pro",
-      "category": "Smartphones",
+      "id": "52bbc2da-c50f-41f9-a75c-36a6f5c24160",
+      "title": "Ridley Scott's 18-Episode Sci-Fi Series On HBO Is So Good, It Demands To Be Seen Twice",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "b7c850d7-fbd6-4349-b897-f2ffb2ab842e",
+      "title": "Game of Thrones: Grand Melee é anunciado oficialmente para outubro no jogo mobile",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "33bf950d-dfd4-41a7-8106-0ff0ff1d2dc9",
-      "title": "Série investigativa R.J. Decker conquista o topo do Disney+ mundialmente",
+      "id": "5bb73cef-d1ca-41b0-9005-4ffe2db7e16d",
+      "title": "Landman Season 3 Officially Sets Up The Perfect Spinoff",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "7bda0835-7881-4dad-8d50-251d51bf6029",
+      "title": "A Roda do Tempo: fãs encontrarão o desfecho da história em 2027",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "f1d4195d-67e9-4953-97bb-cb4171726d53",
+      "title": "Os 7 K-Dramas mais perfeitos da última década, classificados",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "39d49072-c55c-4222-8fe9-ba30cc520c3b",
+      "title": "A Reação Extrema a Jogos como Marvel's Wolverine e GTA 6 Expõe um Problema Profundo na Indústria",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "c2c5132f-313a-4574-b7c1-319ee6092d59",
+      "title": "Franquia de Toy Story domina o Disney+ e prova força trinta anos após estreia",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -225,22 +189,58 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "22a2f803-0fcf-4f70-bacf-580ff268996e",
-      "title": "Sequência Espiritual de Thriller Criminal de Sucesso com Jon Bernthal é Anunciada",
+      "id": "19ad7c7f-9a33-4259-8623-926fbca9cb89",
+      "title": "The Uprising, épico medieval com Andrew Garfield, chega ao streaming após fracasso nos cinemas",
       "category": "Filmes, Séries e Animações",
       "status": "review"
-    },
-    {
-      "id": "19ad7c7f-9a33-4259-8623-926fbca9cb89",
-      "title": "Andrew Garfield’s 65% Rotten Tomatoes Audience Score Epic Officially Hits Streaming",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
       "title": "Anne Hathaway's New Thriller Officially Stumbles in Rotten Tomatoes Debut",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "6ee9eb88-f674-41c3-98c3-f6074b706bed",
+      "title": "Nove obras-primas da ficção científica que trazem os melhores alienígenas do cinema",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "dd3e065d-6b48-4260-b532-4248e55da56e",
+      "title": "7 Must See Movies Coming to HBO in October 2026",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "c675ba87-7de1-45fe-a983-3bf143f3f351",
+      "title": "Alan Ritchson's New Action Movie Officially Removed From 1,200 Theaters",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
+      "title": "‘Wednesday’ Cast Officially Hints at Series End",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "7c8b79e0-3870-469a-a160-d0f0183e7df8",
+      "title": "7 Livros de Romance Perfeitos para Ler em Apenas Um Fim de Semana",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "0f99183c-50b3-4389-812b-245f7a5b2e8c",
+      "title": "Há 18 anos, a franquia Pokémon deixava Mewtwo de lado em uma troca polêmica",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9405a0a2-ad73-4036-8f40-f16a233eba36",
+      "title": "As 10 Maiores Histórias de Wolverine que Quase Ninguém Comenta, mas Todo Fã Deveria Ler",
+      "category": "Games",
+      "status": "review"
     }
   ]
 }
