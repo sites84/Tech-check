@@ -1,5 +1,60 @@
 {
-  "updated_at": "2026-10-02T01:23:02.406Z",
+  "updated_at": "2026-10-02T02:20:26.942Z",
   "model": "gemini-3.1-flash-lite",
-  "processed": []
+  "processed": [
+    {
+      "id": "205a2b46-b0aa-4e01-9f56-c407a9d6047e",
+      "title": "Ruby Rose e a saída de Special Forces: O impacto de lesões passadas na carreira da atriz",
+      "category": "Curiosidades",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "43f76edd-10b1-4d72-b6a6-4924292aea43",
+      "title": "Rob Lowe presta apoio ao irmão Chad Lowe após falecimento da filha de 13 anos",
+      "category": "Curiosidades",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "56cec818-8c04-4f62-816c-e2aa29f22527",
+      "title": "Ruby Rose revela os motivos por trás de sua saída do reality 'Special Forces'",
+      "category": "Curiosidades",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "7ff9ab96-42fa-4b41-bd60-c401e9bd40c2",
+      "title": "Grande final da 28ª temporada de Big Brother revela o vencedor",
+      "category": "Curiosidades",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "8c5caa31-00fa-46a5-901b-05e7b990472a",
+      "title": "Jason Priestley revela o motivo de ser o número 1 na lista de elenco de 'Barrados no Baile'",
+      "category": "História da tecnologia",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "f0a3dc48-bd48-4f20-894c-f87d344e62c2",
+      "title": "Novo programa de Chris Harrison, 'The Vow', gera disputa entre Warner Bros. e Fox News",
+      "category": "Curiosidades",
+      "status": "review",
+      "repaired": false
+    },
+    {
+      "id": "4d3738ba-d809-4e1e-9c35-19b1458ad9cd",
+      "title": "Cause of death for Chad Lowe’s 13-year-old daughter Fiona revealed",
+      "status": "error",
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\\nPlease retry in 33.166104704s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"model\": \"gemini-3.1-flash-lite\",\n              \"location\": \"global\"\n            },\n            \"quotaValue\": \"15\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"33s\"\n      }\n    ]\n  }\n}\n"
+    },
+    {
+      "id": "201f8b1b-a526-47aa-bcb5-ec5d4683a280",
+      "title": "Will Arnett, 56, tries to dodge Jason Bateman’s questions about 28-year-old girlfriend: ‘Not gonna walk into your trap’",
+      "status": "error",
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite\\nPlease retry in 33.073090936s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"location\": \"global\",\n              \"model\": \"gemini-3.1-flash-lite\"\n            },\n            \"quotaValue\": \"15\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"33s\"\n      }\n    ]\n  }\n}\n"
+    }
+  ]
 }
