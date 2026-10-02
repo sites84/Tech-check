@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-10-02T23:01:30.013Z",
+  "updated_at": "2026-10-02T23:14:43.047Z",
   "inserted": [
     {
-      "id": "07ca38dd-e68e-4493-9c58-c38aa445a4a4",
-      "title": "Chrono Trigger Gets A Gorgeous HD-2D Overhaul Thanks To Fans",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "79eb7614-c0fc-4b1d-810c-fd9da75e37b6",
-      "title": "DC's Original Green Lantern Was Almost Another Classic Character Who Makes Hal Look Weak",
-      "source": "ScreenRant"
+      "id": "5b7cb557-badb-4022-b396-dcdb12c8c2e4",
+      "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
+      "source": "CNET"
     }
   ],
   "images_updated": [],
@@ -696,6 +691,12 @@
     },
     {
       "source": "Collider",
+      "title": "Robert Pattinson's 9 Best Movies in the Last 10 Years, Ranked",
+      "url": "https://collider.com/robert-pattinson-movies-last-10-years-ranked",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "Tom Hardy’s Cult Classic Crime Movie Is Officially Taking Over HBO Max",
       "url": "https://collider.com/tom-hardy-crime-movie-the-bikeriders-streaming-success-hbo-max-october-2026",
       "reason": "fonte bloqueada"
@@ -749,10 +750,18 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Collider",
-      "title": "The 8 Most Fun Books of All Time, Ranked",
-      "url": "https://collider.com/most-fun-books-all-time-ranked",
-      "reason": "fonte bloqueada"
+      "source": "ScreenRant",
+      "title": "Chrono Trigger Gets A Gorgeous HD-2D Overhaul Thanks To Fans",
+      "url": "https://screenrant.com/chrono-trigger-hd-2d-remake-fan-project",
+      "reason": "duplicata",
+      "existing_id": "07ca38dd-e68e-4493-9c58-c38aa445a4a4"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "DC's Original Green Lantern Was Almost Another Classic Character Who Makes Hal Look Weak",
+      "url": "https://screenrant.com/superman-almost-green-lantern-stronger-hal-jordan",
+      "reason": "duplicata",
+      "existing_id": "79eb7614-c0fc-4b1d-810c-fd9da75e37b6"
     },
     {
       "source": "ScreenRant",
@@ -1082,13 +1091,6 @@
       "url": "https://cnet.com/tech/services-and-software/audible-new-ai-features",
       "reason": "duplicata",
       "existing_id": "65185f9f-132b-43bd-a54a-8a806446b45e"
-    },
-    {
-      "source": "CNET",
-      "title": "Trading In Your Smartphone During Holiday Sales? Our Readers Recommend This Brand for Your Next Upgrade",
-      "url": "https://cnet.com/tech/mobile/peoples-picks-2026-mobile-phones",
-      "reason": "duplicata",
-      "existing_id": "45537732-e3d4-4cd6-b5de-2ffb30df8e39"
     },
     {
       "source": "Nintendo Life",
