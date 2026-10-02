@@ -1,0 +1,123 @@
+name: Atualizar notícias
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'worker/**'
+      - '.github/workflows/update-news.yml'
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news-main
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Coletar RSS e salvar no Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/collect-and-store.mjs
+
+      - name: Corrigir datas de publicação a partir dos RSS
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/repair-published-dates.mjs
+
+      - name: Processar notícias com Gemini
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash-lite
+          GEMINI_FALLBACK_MODEL: gemini-3.1-flash-lite
+        run: node worker/process-ai.mjs
+
+      - name: Consolidar categorias
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/normalize-categories.mjs
+
+      - name: Atualizar história da tecnologia de hoje
+        run: node worker/update-history-today.mjs
+
+      - name: Buscar imagens dos produtos afiliados
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/update-affiliate-images.mjs
+
+      - name: Gerar SEO, páginas individuais e imagens otimizadas
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SHARP_PATH: ${{ github.workspace }}/.seo-tools/node_modules/sharp
+        run: |
+          mkdir -p .seo-tools
+          npm install --prefix .seo-tools --no-save sharp@0.33.5
+          node worker/generate-seo.mjs
+
+      - name: Adicionar imagens ao Leia Também das páginas estáticas
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/add-related-images.mjs
+
+      - name: Gerar páginas de arquivo indexáveis
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/generate-pagination.mjs
+
+      - name: Salvar relatórios, feed público e SEO
+        if: always()
+        run: |
+          set -e
+          git config user.name "Tech Check Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin main
+          git reset --mixed origin/main
+
+          git add data sitemap.xml robots.txt noticias assets/news page
+
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para publicar."
+            exit 0
+          fi
+
+          git commit -m "chore: atualizar feed, história, arquivo e SEO"
+
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Publicação concluída na tentativa $attempt."
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "Não foi possível publicar após 3 tentativas."
+              exit 1
+            fi
+            git fetch origin main
+            git reset --mixed origin/main
+            git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news page
+            git commit -m "chore: atualizar feed, história, arquivo e SEO" || true
+          done
