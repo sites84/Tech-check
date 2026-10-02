@@ -1,174 +1,66 @@
 {
-  "updated_at": "2026-10-02T22:20:50.823Z",
+  "updated_at": "2026-10-02T23:04:18.813Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "22fd02d2-ba56-457e-a3b8-5677e1aaed83",
-      "title": "Star Wars: Galactic Racer é um sucesso arcade imperdível que une F-Zero e Burnout",
+      "id": "79eb7614-c0fc-4b1d-810c-fd9da75e37b6",
+      "title": "O Lanterna Verde original da DC quase foi outro personagem clássico que faria Hal Jordan parecer fraco",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "4ab0e679-ddda-406c-969c-ed9c6c39990e",
-      "title": "Testes de Câmera do Galaxy S26 Ultra contra o Pixel 11 Pro: Qual Entrega a Melhor Experiência?",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "45537732-e3d4-4cd6-b5de-2ffb30df8e39",
-      "title": "Pesquisa do CNET revela as marcas de smartphones favoritas dos consumidores para compras de fim de ano",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "65185f9f-132b-43bd-a54a-8a806446b45e",
-      "title": "Audible vai permitir que você use inteligência artificial para conversar com personagens de livros",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "7635e8d7-fc30-4c0a-969c-796fc6ccd2ed",
-      "title": "Reddit restringe acesso web aberto e encerra suporte a RSS para bloquear bots de IA",
-      "category": "Internet",
-      "status": "review"
-    },
-    {
-      "id": "8dbc8663-91b1-4973-9187-e22ac2f03b3e",
-      "title": "Próximos jogos mobile terão recursos de IA que PCs e consoles usam há anos",
+      "id": "07ca38dd-e68e-4493-9c58-c38aa445a4a4",
+      "title": "Fã recria Chrono Trigger em estilo HD-2D e impressiona a comunidade",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "5dba3b5e-0a6a-41be-99de-bcb33de630a7",
-      "title": "A maioria dos americanos já foi alvo de ataques cibernéticos, aponta estudo, e a inteligência artificial agrava o cenário",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "2f937ad0-4429-48c1-a5a3-67da13709c8d",
-      "title": "Como a inteligência artificial lidou com mais de 190 mil e-mails não lidos na caixa de entrada",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "a7d57d71-77b8-4517-94af-aa3620b3768e",
-      "title": "Quando chegam o iPhone 18, o iPhone Air 2 e o iPhone 18E? O que esperar do cronograma de lançamentos da Apple",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "833be67e-4e21-44ae-80a3-810331815a05",
-      "title": "O céu de outubro reserva espetáculo com chuvas de meteoros e todos os planetas visíveis",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "eb92ee6a-28a6-4f67-94b8-92ca7034a154",
-      "title": "Arc Raiders anuncia teste gratuito de quatro dias para celebrar sua maior atualização",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "057d3497-fc11-441f-a4b0-fdcffa9b2129",
-      "title": "Robôs humanóides da Figure AI se despedem em estilo O Exterminador do Futuro",
+      "id": "a315c19c-b50e-4abd-b5dd-3fd2bfc053b5",
+      "title": "Califórnia legaliza painéis solares de tomada para varandas, mas alerta para que consumidores não comprem kits imediatamente",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "50cfb0b5-139e-4ee8-bb6c-8a8e450a5bf9",
-      "title": "Westworld volta a fazer sucesso no streaming e conquista novo destaque digital",
+      "id": "e4cd5818-1192-426b-ba50-d0f0824384bb",
+      "title": "Novas câmeras de segurança da Apple podem não gravar vídeos para priorizar a privacidade",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "decf67c4-435c-4522-86f6-837e754dc4ee",
+      "title": "Os 15 Maiores Figurinos da Franquia Game of Thrones na HBO",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "bbebc8e4-cc7f-451b-8c6d-7a15fb3c7931",
-      "title": "Uma amada franquia de 1999 do PlayStation pode finalmente estar retornando",
+      "id": "f4e6ab31-2dc6-4940-ae87-be6ab5356853",
+      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "7e86b6e1-ace4-4d3f-a3bc-a04e5f80e1e6",
+      "title": "MIPCOM Market Picks: 10 Fresh Toons at Cannes",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "7eb6401f-7320-42e5-b3f3-6ece81cc888b",
+      "title": "Desenvolvedor consegue rodar Doom dentro de um banco de dados SQL",
       "category": "Games",
       "status": "review"
     },
     {
       "id": "9f6c65bc-873a-4b0d-be6c-46956d773631",
-      "title": "Verity Ending's Major Changes From Colleen Hoover Novel Explained By Director & Author",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "0476bce2-2afd-4a31-bd97-168127b12ddf",
-      "title": "Série derivada de Yellowstone muda de gênero oficial na segunda temporada",
+      "title": "Diretor e autora explicam as grandes mudanças no final da adaptação de Verity",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "e6f2a495-cb32-4dd8-919a-7c83b9941cb6",
-      "title": "OpenAI lança o Dots e o cenário dos assistentes autônomos no Tech Check",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "c79da748-642c-48fc-aa2a-da8b4c5fd314",
-      "title": "Novo controle da Nacon para PS5 traz tela integrada e mistura áudio do celular com o console",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "edfa4e41-7363-4197-bd2e-fba3fa2b663a",
-      "title": "Aumento de preços na Beehiiv gera revolta e críticas entre criadores de conteúdo",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "df767171-19dc-4d47-aabf-b8077dda4c8e",
-      "title": "Aposta da Rivian no SUV R2 começa a dar frutos e impulsiona vendas no terceiro trimestre",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "5c0592d1-0c13-4569-ba80-d8b4a113da24",
-      "title": "O fim do relacionamento entre Elon Musk e Shivon Zilis é anunciado no X",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "a0a0f0b6-4271-4f2d-a28e-420e5057fccc",
-      "title": "OpenAI lança o Dot, um agente de IA focado em produtividade e trabalho",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "dc084479-4bb1-4e7d-bcc2-92b71105758f",
-      "title": "Sling TV encerra programa de passes de curta duração para TV a cabo",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "da8d02dc-b9e2-420d-89ea-e7b1bc819bce",
-      "title": "Apple vai limitar o acesso ao disco no Mac devido aos crescentes riscos de agentes de IA",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "1def6c73-5491-449c-8145-6882e000ad56",
-      "title": "Netflix muda de rumo e aposta menos em diretores prestigiados e grandes produções",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "48c8d65b-f7fb-49d6-b415-32deb0a84df4",
-      "title": "Meta disponibiliza código aberto para criação de dispositivos próprios com a inteligência artificial Muse",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "854c92e9-be64-44b3-8c1b-81f905a459f8",
-      "title": "Lyft concorda em pagar US$ 272,5 milhões para encerrar processo de classificação de trabalhadores",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "f6d5fdad-74b1-4914-a7a3-6f91e010e994",
-      "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Apps"
+      "title": "Novo aplicativo Laytr surge como alternativa ao Pocket para salvar conteúdos variados na web",
+      "category": "Internet",
+      "status": "review"
     },
     {
       "id": "52c7e36e-bb4c-4180-bdae-01b468601e12",
@@ -177,70 +69,178 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "9eeb341d-6f73-4f19-8e60-b69b361cc74c",
-      "title": "The Witcher 3 Remastered: atualização excepcional refina arestas e aprimora grande RPG",
+      "id": "7c81c721-1b9c-4d4a-a3f9-fd087527c5ab",
+      "title": "Fusão entre Paramount e Warner Bros. define novo nome corporativo e valores bilionários",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "16b524f9-5dcc-4daa-8949-abf6b3b7742e",
+      "title": "Desenvolvedores de Warlock explicam filosofia de criar magias excessivamente poderosas primeiro",
       "category": "Games",
       "status": "review"
+    },
+    {
+      "id": "daa7b54c-92cd-4723-a6f1-792308cd463a",
+      "title": "Desenvolvedor de World of Warcraft: Forever destaca emoção ao trazer antiga missão do Make-A-Wish para o novo MMO da Blizzard",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "865ca3cb-700e-4604-9fab-82e7af64530c",
+      "title": "Sony Estabelece Requisito de 60 Horas de Jogo para Sorteio do PS5 Pro",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "6bac5d37-bacf-4fe6-bcd3-b86a84e4ffd1",
+      "title": "Como assistir Croácia x Inglaterra na UEFA Nations League online e de graça",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "3299985f-1898-4fca-a2ac-a101544ec3ac",
+      "title": "Senador Bernie Sanders apresenta o projeto The Ban Flock Act para proibir leitores automáticos de placas federais",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "c39096ce-cbde-4ad0-abe2-8615db1018dc",
+      "title": "Kelly Clarkson enfrenta reações negativas na internet após declarar amor à inteligência artificial",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "de714cbf-7e86-4d18-88f6-6e68e80d3cb2",
+      "title": "OpenAI revela novo acesso não autorizado de agente de IA a dados do governo australiano",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "2e9f95c2-17f2-4b7e-a4fd-3667084305e4",
+      "title": "Apple planeja atualizar Macs para proteger usuários contra agentes de IA",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "d7c104e1-1f51-45d1-8358-e649b7fe7b76",
+      "title": "O Iluminado de Stephen King ganha edição especial de aniversário de 50 anos pela Vintage Books",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "70f5f652-199d-413e-9244-f5e689c70a56",
+      "title": "Sequência de Jurassic World Rebirth avalia J.A. Bayona como diretor",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "adf18202-5b3f-40eb-bc1a-85857730df10",
+      "title": "Netflix Inicia Nova Era com Acordo Histórico de Licenciamento de Conteúdos da Disney",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "9936dd27-0380-4706-b019-953b1a1c8dfa",
+      "title": "Star Trek's 1960s Pilot Set Up TNG & Voyager 22 Years Ahead Of Schedule",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "36e8cde1-aadf-4259-8030-bad388420d22",
+      "title": "Três melhores séries do Paramount+ para maratonar neste fim de semana de outubro de 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "b6567a47-26c4-4e22-ac7e-8206264d973b",
+      "title": "67 Years Later, Peanuts' Best Halloween Gag Proves Charles M. Schulz's True Genius",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Quadrinhos"
+    },
+    {
+      "id": "712276a4-caac-4574-a796-a30b742ce701",
+      "title": "Sony negocia distribuição para o filme de Battlefield liderado por Michael B. Jordan e Christopher McQuarrie",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "918a5790-2f0b-4ba7-91fc-90742c7fd433",
+      "title": "Netflix’s 12-Part Horror Is the Scariest Zombie Thriller of the Past Decade",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "10302160-a9bb-4637-b43a-7f8076c3f1a7",
+      "title": "Os 10 Melhores Filmes de Fantasia Sombria do Cinema Segundo o Collider",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "65406956-2aa2-4a0e-b56e-51ebcc8136f5",
+      "title": "Netflix's Groundbreaking 73-Episode Thriller Made One Mistake It Could Never Undo",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
       "title": "Anne Hathaway's New Thriller Officially Stumbles in Rotten Tomatoes Debut",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "id": "dd3e065d-6b48-4260-b532-4248e55da56e",
       "title": "7 Must See Movies Coming to HBO in October 2026",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "id": "c675ba87-7de1-45fe-a983-3bf143f3f351",
       "title": "Alan Ritchson's New Action Movie Officially Removed From 1,200 Theaters",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
       "title": "‘Wednesday’ Cast Officially Hints at Series End",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "id": "6d27b94b-2ab9-4317-b79b-fd01db418ab9",
       "title": "Star Trek EPs Admit A Strange New Worlds Character’s Future Was “Undecided” In Possible Series Finale",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
-      "id": "d7d27962-3c0a-4166-bc66-6a7b0cca06a7",
-      "title": "Display Box com 36 pacotes de Pokémon TCG Mega Evolution entra em oferta na Amazon",
-      "category": "Games",
-      "status": "review"
+      "id": "3d62bf52-543a-46a6-ad44-f933d3500c14",
+      "title": "I am Jane Doe: The internet rallies to protect a Cornell students identity",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
-      "id": "de88b0a6-05d5-42db-bd5f-c68055fe9377",
-      "title": "Barraca de camping Coleman Sundome de 4 pessoas atinge menor preço do ano na Amazon",
-      "category": "Empresas",
-      "status": "review"
+      "id": "88c69b75-1952-4ee3-8c4e-eab360ea2466",
+      "title": "FedExs new order for EV trucks will save them hundreds of millions in fuel costs",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
-      "id": "541740e5-5b38-4cc0-b586-0a477c312777",
-      "title": "Pacote de colecionador Lego Speed Champions Ultimate F1 atinge menor preço histórico na Amazon",
-      "category": "Games",
-      "status": "review"
+      "id": "f2b393fe-d208-4d4f-b045-df6472eaa546",
+      "title": "iPhone 18 Pro and Max speaker popping noises reported by Redditors",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
-      "id": "8828f8a3-ea5f-4fff-b1b8-72fa5cc6e5ee",
-      "title": "Como assistir à temporada de 2026 da F1 ao vivo e de graça",
-      "category": "Games",
-      "status": "review"
+      "id": "1c7d7ee5-cfae-4ea1-b4c3-95bec8581b2b",
+      "title": "Im watching the Bahrain GP for free this weekend — how to live stream F1 for free",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
-      "id": "0e5dd8a0-9c05-412f-9990-388582365e20",
-      "title": "You Can See Everything: O documentário surpreendente de Nathan Fielder e Elizabeth Holmes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
+      "id": "98e60c44-2bce-4b17-817a-f382295731a5",
+      "title": "Heres how you can buy or preorder Amazons all-new Kindles and Kindle accessories",
+      "status": "error",
+      "error": "Gemini 402: {\n  \"error\": {\n    \"code\": 402,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     }
   ]
 }

@@ -1,35 +1,15 @@
 {
-  "updated_at": "2026-10-02T22:59:59.377Z",
+  "updated_at": "2026-10-02T23:01:30.013Z",
   "inserted": [
     {
-      "id": "7eb6401f-7320-42e5-b3f3-6ece81cc888b",
-      "title": "Someone got Doom in an SQL database",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "7e86b6e1-ace4-4d3f-a3bc-a04e5f80e1e6",
-      "title": "MIPCOM Market Picks: 10 Fresh Toons at Cannes",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "f4e6ab31-2dc6-4940-ae87-be6ab5356853",
-      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
+      "id": "07ca38dd-e68e-4493-9c58-c38aa445a4a4",
+      "title": "Chrono Trigger Gets A Gorgeous HD-2D Overhaul Thanks To Fans",
       "source": "ScreenRant"
     },
     {
-      "id": "decf67c4-435c-4522-86f6-837e754dc4ee",
-      "title": "15 Greatest Costumes In HBO's Game Of Thrones Franchise",
+      "id": "79eb7614-c0fc-4b1d-810c-fd9da75e37b6",
+      "title": "DC's Original Green Lantern Was Almost Another Classic Character Who Makes Hal Look Weak",
       "source": "ScreenRant"
-    },
-    {
-      "id": "e4cd5818-1192-426b-ba50-d0f0824384bb",
-      "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
-      "source": "CNET"
-    },
-    {
-      "id": "a315c19c-b50e-4abd-b5dd-3fd2bfc053b5",
-      "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
-      "source": "CNET"
     }
   ],
   "images_updated": [],
@@ -103,6 +83,13 @@
       "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order",
       "reason": "duplicata",
       "existing_id": "e44172a2-bb76-4a89-874a-fcdb5729cc1e"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Someone got Doom in an SQL database",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition",
+      "reason": "duplicata",
+      "existing_id": "7eb6401f-7320-42e5-b3f3-6ece81cc888b"
     },
     {
       "source": "Ars Technica",
@@ -439,6 +426,13 @@
     },
     {
       "source": "Animation Magazine",
+      "title": "MIPCOM Market Picks: 10 Fresh Toons at Cannes",
+      "url": "https://animationmagazine.net/2026/10/mipcom-market-picks-10-fresh-toons-at-cannes",
+      "reason": "duplicata",
+      "existing_id": "7e86b6e1-ace4-4d3f-a3bc-a04e5f80e1e6"
+    },
+    {
+      "source": "Animation Magazine",
       "title": "The &#8216;Avatar: Seven Havens&#8217; Creative Team Unlocks the Mystery of Avatar Pavi",
       "url": "https://animationmagazine.net/2026/10/the-avatar-seven-havens-creative-team-unlocks-the-mystery-of-avatar-pavi",
       "reason": "duplicata",
@@ -702,6 +696,12 @@
     },
     {
       "source": "Collider",
+      "title": "Tom Hardy’s Cult Classic Crime Movie Is Officially Taking Over HBO Max",
+      "url": "https://collider.com/tom-hardy-crime-movie-the-bikeriders-streaming-success-hbo-max-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "The 8 Most Intelligent Video Games Ever Made, Ranked",
       "url": "https://collider.com/most-intelligent-video-games-ever-made",
       "reason": "fonte bloqueada"
@@ -755,10 +755,18 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Collider",
-      "title": "This 5-Part Psychological Thriller Pulled Off What Most Horror Prequels Couldn’t",
-      "url": "https://collider.com/bates-motel-perfect-psycho-prequel-psychological-thriller",
-      "reason": "fonte bloqueada"
+      "source": "ScreenRant",
+      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
+      "url": "https://screenrant.com/vinland-saga-vikings-replacement-netflix",
+      "reason": "duplicata",
+      "existing_id": "f4e6ab31-2dc6-4940-ae87-be6ab5356853"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "15 Greatest Costumes In HBO's Game Of Thrones Franchise",
+      "url": "https://screenrant.com/game-of-thrones-franchise-best-costumes",
+      "reason": "duplicata",
+      "existing_id": "decf67c4-435c-4522-86f6-837e754dc4ee"
     },
     {
       "source": "ScreenRant",
@@ -801,20 +809,6 @@
       "url": "https://screenrant.com/the-shining-50th-anniversary-new-special-edition-stephen-king",
       "reason": "duplicata",
       "existing_id": "d7c104e1-1f51-45d1-8358-e649b7fe7b76"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Yellowstone Is Officially Changing Genres With Spinoff's Season 2 Return",
-      "url": "https://screenrant.com/yellowstone-marshals-season-2-genre-change-legal-drama",
-      "reason": "duplicata",
-      "existing_id": "0476bce2-2afd-4a31-bd97-168127b12ddf"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Verity Ending's Major Changes From Colleen Hoover Novel Explained By Director & Author",
-      "url": "https://screenrant.com/verity-movie-ending-book-changes-colleen-hoover-michael-showalter",
-      "reason": "duplicata",
-      "existing_id": "9f6c65bc-873a-4b0d-be6c-46956d773631"
     },
     {
       "source": "Mashable",
@@ -1025,6 +1019,20 @@
       "url": "https://gamesradar.com/games/racing/star-wars-galactic-racer-metacritic-score-makes-it-one-of-the-best-rated-star-wars-games-of-all-time-beating-every-battlefront-title",
       "reason": "duplicata",
       "existing_id": "358d3fbb-8f95-41b7-b25f-80a2c29abb2b"
+    },
+    {
+      "source": "CNET",
+      "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
+      "url": "https://cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video",
+      "reason": "duplicata",
+      "existing_id": "e4cd5818-1192-426b-ba50-d0f0824384bb"
+    },
+    {
+      "source": "CNET",
+      "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
+      "url": "https://cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal",
+      "reason": "duplicata",
+      "existing_id": "a315c19c-b50e-4abd-b5dd-3fd2bfc053b5"
     },
     {
       "source": "CNET",
