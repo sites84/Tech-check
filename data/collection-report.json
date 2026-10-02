@@ -1,165 +1,477 @@
 {
-  "updated_at": "2026-10-02T14:49:37.784Z",
+  "updated_at": "2026-10-02T18:28:46.793Z",
   "inserted": [
     {
-      "id": "e44172a2-bb76-4a89-874a-fcdb5729cc1e",
-      "title": "Slovenia&#8217;s .si domain sees a surge in registrations after Trump&#8217;s &#8216;super intelligence&#8217; order",
+      "id": "a82a9060-9e08-4265-914b-c24f8c0d4154",
+      "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
       "source": "TechCrunch",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800"
     },
     {
-      "id": "1746ef9b-926d-43a3-95c7-9721239cb3bf",
-      "title": "Erin Andrews reveals she was forced to miss Taylor Swift music video appearance: Why she skipped out",
+      "id": "10316ac5-56d0-40ce-8de4-dbfb74aa2649",
+      "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
+    },
+    {
+      "id": "0871d64e-c47f-423e-8145-24f2e160bff2",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675"
+    },
+    {
+      "id": "7a01baaf-b217-4195-82a8-46f737bac3a4",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037"
+    },
+    {
+      "id": "aec58db3-37dc-4a8f-846a-2480f36470ad",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1334236014.jpg?resize=1200,804"
+    },
+    {
+      "id": "98ccf987-4dfa-4e59-8aea-edd90865d76e",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "source": "TechCrunch",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950"
+    },
+    {
+      "id": "1375b116-2428-4d93-98a3-c389cb9ad633",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg"
+    },
+    {
+      "id": "2db68f49-c72d-44ef-bec2-b9ad346cb6b5",
+      "title": "US military ends long-running program to spot nuclear missile launches",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-1152x648.jpeg"
+    },
+    {
+      "id": "d1ad4534-e886-423d-95b2-071894eaa363",
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-1152x648.jpeg"
+    },
+    {
+      "id": "3e84e6e2-dc2a-41bd-ad77-e8ddf3c1e729",
+      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg"
+    },
+    {
+      "id": "fa5b192f-530d-4d2a-aeed-3f2d3c1f3039",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg"
+    },
+    {
+      "id": "ae3a7aa6-ea5a-43c9-a22e-04257c8ec851",
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "source": "Ars Technica",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg"
+    },
+    {
+      "id": "042e93a4-a7d1-4a2c-9ca0-bad143a6ffda",
+      "title": "iPhone 18 Pro vs iPhone 18 Pro Max: Comparing their displays and batteries",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-max-comparison/l-intro-1790963441.jpg"
+    },
+    {
+      "id": "ea50f738-dca6-4260-95b1-c58e7d54d8d7",
+      "title": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-heres-how-they-stack-up/l-intro-1790961738.jpg"
+    },
+    {
+      "id": "9b372eb7-666f-4c55-a3ae-fd3a93b1038d",
+      "title": "YouTube takes aim at clipper accounts, will prioritize original Shorts",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts/l-intro-1790961823.jpg"
+    },
+    {
+      "id": "6d56d30d-4ebb-49e7-aecd-bf719956674c",
+      "title": "Soon-to-be merged Paramount and Warner Bros. will be known as Skydance going forward",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/soon-to-be-merged-paramount-and-warner-bros-will-be-known-as-skydance-going-forward/l-intro-1790957650.jpg"
+    },
+    {
+      "id": "5d820816-840f-4d2d-8aac-ae6935ffe00f",
+      "title": "AT&T, T-Mobile and Verizon have officially teamed up to end coverage gaps",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/att-t-mobile-and-verizon-have-officially-teamed-up-to-end-coverage-gaps/l-intro-1790955157.jpg"
+    },
+    {
+      "id": "9b5b86d2-6f53-48ae-9fd7-24ba796c504e",
+      "title": "Affordable alternatives to Apple's AirPods Max",
+      "source": "Engadget",
+      "image_url": "https://www.engadget.com/img/gallery/affordable-alternatives-to-apples-airpods-max/l-intro-1790946764.jpg"
+    },
+    {
+      "id": "fc477001-8050-428c-9e67-40fdfcbbb371",
+      "title": "What to know about Ken Urker, Gypsy Rose Blanchard’s partner and former fiancé",
       "source": "Entertainment Weekly",
-      "image_url": "https://ew.com/thmb/aGoVVQqJn3oX4R1MjiDkwqw3CC4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Erin-Andrews-Taylor-Swift-100126-eda597c6e33549db9d2d51101455d900.jpg"
+      "image_url": "https://ew.com/thmb/yLfE7k9nBeSLoJ3EIm2zSP-8zRI=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Gypsy-Rose-Blanchard-Ken-Urker-01-100226-8fa8a654b3224d62b45ac27e6d28ebf8.jpg"
     },
     {
-      "id": "6885c2b1-7b08-48c2-a5fa-4c226fae81b4",
-      "title": "Yellowstone Star’s New R-Rated Horror Movie Officially Breaks 8-Year Rotten Tomatoes Streak",
-      "source": "ScreenRant",
-      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/logan-marshall-green-s-brennan-hiding-in-foliage-and-looking-scared-in-beware-boiuna.jpg"
+      "id": "4e990328-7dad-4269-bb54-03d8bfca62ce",
+      "title": "“Dolly: A True Original” musical announces its main cast handpicked by Dolly Parton before her death",
+      "source": "Entertainment Weekly",
+      "image_url": "https://ew.com/thmb/1OKKvr4NuRZZmYwNJ07BoG1rr5k=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/dolly-parton-Katie-Rose-Clarke-dolly-a-true-original-100226-77b67f81fed343f8adc24546e630d577.jpg"
     },
     {
-      "id": "539744ba-080c-442c-b015-38d91d590400",
-      "title": "Netflix’s New Revival Of Iconic 39-Year-Old NBC Series Officially Returning For Season 2",
+      "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
+      "title": "“Coven Academy” ending explained: Messy love triangles and shocking deaths give Disney’s new YA series edge",
+      "source": "Entertainment Weekly",
+      "image_url": "https://ew.com/thmb/U-5g6uAJz97QD00jzeNZxlEDL2I=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/coven-academy-2-b31c7583131944d1b7a1f009d2e9b67e.jpg"
+    },
+    {
+      "id": "ffbd0eac-484c-40b3-b90a-2824ea91605d",
+      "title": "John Oliver’s sons are ‘obsessed’ with Guillermo Rodriguez on “DWTS”: ‘It’s what the world needs right now’",
+      "source": "Entertainment Weekly",
+      "image_url": "https://ew.com/thmb/7COGeWKZ6j-s7_0RuMraE-rds4o=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/john-oliver-GUILLERMO-RODRIGUEZ-dancing-with-the-stars-100226-542f55db18034b3f924309e3e8e2e28c.jpg"
+    },
+    {
+      "id": "94f39213-9c4f-4789-90ae-ce1452b21af4",
+      "title": "“Verity” ending explained: Who dies, and what’s real?",
+      "source": "Entertainment Weekly",
+      "image_url": "https://ew.com/thmb/ZMmcyBYySbcr2f1pgJREVJCRpdw=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Verity-ending-100126-e0f5a5cb177044879ccf84efaea6de08.jpg"
+    },
+    {
+      "id": "97d78825-3311-4f43-8b3b-0dc071697020",
+      "title": "“DWTS” host Alfonso Ribeiro reacts to Taylor Hanson and Britt Stewart’s ‘difficult’ elimination",
+      "source": "Entertainment Weekly",
+      "image_url": "https://ew.com/thmb/GJ7GuJsuehfkK17DD-XFWAHf3TY=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/ALFONSO-RIBEIRO-TAYLOR-HANSON-BRITT-STEWART-dancing-with-the-stars-100226-c39b0a953feb4f76abd94560ad1514fb.jpg"
+    },
+    {
+      "id": "3b881000-5ce7-4c9f-bd64-082456ba1c7c",
+      "title": "Epic&#8217;s October free games include System Shock 2’s 25th anniversary remaster",
+      "source": "VGC",
+      "image_url": "https://www.videogameschronicle.com/files/2026/10/Screenshot-2026-10-02-174455.jpg"
+    },
+    {
+      "id": "50f11752-a3cb-4770-a7f4-da45dd71b8bc",
+      "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
+      "source": "VGC",
+      "image_url": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403.jpeg"
+    },
+    {
+      "id": "93394fca-0f68-43ba-b934-06c5c449aa76",
+      "title": "Miami Heat NBA team to rebrand as &#8216;Vice City&#8217; in GTA 6 marketing stunt",
+      "source": "VGC",
+      "image_url": "https://www.videogameschronicle.com/files/2026/10/1200_vice-city-night.jpg"
+    },
+    {
+      "id": "4ed88676-fdd7-4b2a-869c-701eca3217c6",
+      "title": "Disney Kicks Off &#8216;Messi and the Giants&#8217; with First Look at SDCC Málaga",
+      "source": "Animation Magazine",
+      "image_url": null
+    },
+    {
+      "id": "6316bd17-5389-4286-a528-96f0a517f3fd",
+      "title": "Paramount and Warner Bros. Will Be Sub-Brands Under Skydance, Says Ellison",
+      "source": "Animation Magazine",
+      "image_url": null
+    },
+    {
+      "id": "493a126e-54da-4c1f-bb8b-a0a44330b2b1",
+      "title": "Exclusive: Toon in with &#8216;Nicktober Hallo-scream&#8217; for Animated Tricks &#038; Treats",
+      "source": "Animation Magazine",
+      "image_url": null
+    },
+    {
+      "id": "39220191-af7a-4e54-9263-918db06f671f",
+      "title": "Drug Use, Nudity, and Sexual Fetishes All in GTA 6",
+      "source": "Push Square",
+      "image_url": "https://images.pushsquare.com/361cc2a23b331/large.jpg"
+    },
+    {
+      "id": "5754ccab-38f7-4878-8376-f55c29151bb5",
+      "title": "Sony&#039;s Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations",
+      "source": "Push Square",
+      "image_url": "https://images.pushsquare.com/dbe4d1355695f/large.jpg"
+    },
+    {
+      "id": "3f606aeb-7cea-46cd-a08a-0d6a6bbeb47e",
+      "title": "Toy Story 3 Complete Edition&#039;s PS5 Trophy List Echoes the Original with a Few New Additions",
+      "source": "Push Square",
+      "image_url": "https://images.pushsquare.com/6cea5733269f9/large.jpg"
+    },
+    {
+      "id": "e8cff3f0-0077-45b5-8575-249738be56a6",
+      "title": "The Team Behind PixelJunk Is Partly to Thank for Ace Combat 8&#039;s Brilliant Cloud Tech",
+      "source": "Push Square",
+      "image_url": "https://images.pushsquare.com/434edaa0ac559/large.jpg"
+    },
+    {
+      "id": "8e9c18ad-658c-4cb8-a9be-5e09de7f81c0",
+      "title": "The Father of PlayStation Thinks Games Have Stagnated, Calls for Curiosity in Developers",
+      "source": "Push Square",
+      "image_url": "https://images.pushsquare.com/9b21be3eea3d2/large.jpg"
+    },
+    {
+      "id": "f4b167d0-9c90-471f-830d-2b99f0b7b5ef",
+      "title": "&#8216;Lady&#8217; Review: Sian Clifford Lords It Over a Daffy English Class Satire",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2026/10/lady.png"
+    },
+    {
+      "id": "ea5c781f-b7ef-466c-8b4f-850c4269d0eb",
+      "title": "&#8216;The Great British Bake Off&#8217; Host Alison Hammond Says She’s &#8216;Fine&#8217; After Heart Palpitation Scare on Live U.K. Morning Show",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2023/03/Alison-Hammond.jpg"
+    },
+    {
+      "id": "072e08ec-2192-4f31-aa75-3e5b0947903b",
+      "title": "&#8216;The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries &#038; Platino Industria (EXCLUSIVE)",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2019/07/ilse-2.jpg"
+    },
+    {
+      "id": "7db1c45c-9025-47aa-a834-dc511db2de07",
+      "title": "‘A Few Good Men’ on Broadway: Aaron Sorkin, Bradley Whitford and Team Behind Revival on Why It’s ’So Fucking Relevant’ in Trump Era",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2026/09/A-Few-Good-Men-Broadway-Illustration.jpg"
+    },
+    {
+      "id": "78672807-295f-448c-a7d0-935dbfa6d3fb",
+      "title": "Madison Avenue Makeover: Marketers Face Big Challenges in Bid to Reach Elusive Consumers",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2023/11/featured_streaming_ad_experience.jpg"
+    },
+    {
+      "id": "5048c8c3-0e1f-4087-93ae-33861c1399f2",
+      "title": "CBS Sports, Tony Romo Break Up Following Pre-Season Intoxication Incident",
+      "source": "Variety",
+      "image_url": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2003437242.jpg"
+    },
+    {
+      "id": "20388bfa-0baa-4afc-bb55-d4e01167aa4d",
+      "title": "Coming to Apple TV: All the upcoming shows, movies, trailers, and more",
+      "source": "Macworld",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/340717-0-31318700-1790965294-apple-tv-plus-logo.jpg?quality=50&#038;strip=all"
+    },
+    {
+      "id": "09850449-225d-4524-b43e-e4a9551cc711",
+      "title": "Apple TV this week: ‘The Last First: Winter K2’ is now streaming",
+      "source": "Macworld",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/230863-0-96340100-1790961907-apple-tv-plus-series.jpg?quality=50&#038;strip=all"
+    },
+    {
+      "id": "d7f7124e-a37e-459b-900f-27d8d6f4fa24",
+      "title": "Best AirPods Prime Day Deals 2026: AirPods 5, Pro 3 and Max 2",
+      "source": "Macworld",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2382647-0-95827200-1790959583-Prime-Day-AirPods.jpg?quality=50&#038;strip=all"
+    },
+    {
+      "id": "93783dd0-2441-4be4-b90b-4ca6d970c6e6",
+      "title": "Score $150 off the M5 MacBook Air before it vanishes",
+      "source": "Macworld",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/3250337-0-46744600-1790954263-Apple-Macbook-Air-M5-im-Angebot.png"
+    },
+    {
+      "id": "eca5dac0-3040-402f-ac90-bc2c63712a69",
+      "title": "Best Apple Watch Prime Day deals October 2026: Series 12, Ultra 4 and SE 3",
+      "source": "Macworld",
+      "image_url": "https://www.macworld.com/wp-content/uploads/2026/10/2386629-0-69795600-1790953964-Prime-Day-Apple-Watches.jpg?quality=50&#038;strip=all"
+    },
+    {
+      "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
+      "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/collider-scripted-hosted-hbo-harry-potter-v2-01.jpg"
+    },
+    {
+      "id": "eb6b1ec0-698d-4098-aac5-494d30857334",
+      "title": "5 Crime Shows That Make Every Suspect Look Guilty",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-wire-omar-little-michael-k-williams.jpg"
+    },
+    {
+      "id": "55dfce7b-302c-404c-b054-8ac67aca0786",
+      "title": "Jensen Ackles' 3-Season Crime Series Officially Heads to Netflix",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/tracker-jensen-ackles-russell-shaw.jpg"
+    },
+    {
+      "id": "57780934-b6f6-4007-9224-796243f95bc2",
+      "title": "7 Great Fantasy Books Where Every Chapter Is Perfect",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/his-dark-materials_-northern-lights-1995-book-cover.jpg"
+    },
+    {
+      "id": "d960ac67-a9a5-4bf1-ab9f-7f0c6265614b",
+      "title": "‘Game of Thrones’ Legend’s Western Crime Thriller Is Officially a Netflix Sensation",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/netfilx-tv.jpg"
+    },
+    {
+      "id": "3946f78a-3ad1-48a9-99ec-6ee417701359",
+      "title": "Netflix’s New ‘Widow’s Bay’ Replacement Officially Arrives in 1 Week",
+      "source": "Collider",
+      "image_url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/widows-bay-matthew-rhys.jpg"
+    },
+    {
+      "id": "16b641bc-fa93-4709-bfa4-c165bb085caf",
+      "title": "Digger Interviews with John Goodman, Jesse Plemons, Alejandro G. Iñárritu & More",
       "source": "ScreenRant",
-      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/maleah-joi-moon-as-deborah-smiling-in-a-different-world.jpg"
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/tom-cruise-and-riz-ahmed-looking-down-at-something-with-concerned-expressions-on-their-faces-in-digger.jpg"
+    },
+    {
+      "id": "d4a8aea6-a892-4847-ac6e-112249abfd17",
+      "title": "The Best Superhero Universe Of The Past 30 Years Is Back With Ridiculous 22-Part New Release",
+      "source": "ScreenRant",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/astro-city-best-superhero-universe.jpg"
+    },
+    {
+      "id": "eb962f7b-b223-433d-8c72-227bec8c5753",
+      "title": "Rolling Loud: The Movie Review: Owen Wilson Comedy Is Better Than It Has Any Right To Be",
+      "source": "ScreenRant",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/owen-wilson-on-a-drug-trip-in-rolling-loud.jpg"
+    },
+    {
+      "id": "31e8b52d-3035-4f74-a604-10b957022faa",
+      "title": "45 Years Later, Raiders Of The Lost Ark's Breathtaking Truck Chase Still Hasn't Been Topped",
+      "source": "ScreenRant",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/harrison-ford-as-indiana-jones-in-raiders-of-the-lost-ark.jpg"
+    },
+    {
+      "id": "ac7040c3-e047-4623-a151-1d3fa3b7d9cc",
+      "title": "10 Biggest Questions Ahead Of Ted Lasso Season 4 Finale",
+      "source": "ScreenRant",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/ted-jason-sudeikis-and-coach-beard-brendan-hunt-on-the-pitch-in-ted-lasso-season-4.jpg"
+    },
+    {
+      "id": "65421264-0496-4c1b-8ecd-65c2a5014333",
+      "title": "10 Dark Academia Books Perfect For Fall Reading",
+      "source": "ScreenRant",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/sr-books-dark-academia.jpg"
+    },
+    {
+      "id": "dcf283c4-e0e2-4b2b-865c-f7bd28e7fcab",
+      "title": "What is the SCP Foundation? Inside the internet horror universe headed to Hollywood.",
+      "source": "Mashable",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/03M8jwkvdGodD6wXWXv3J2Y/hero-image.fill.size_1200x675.v1790956113.png"
+    },
+    {
+      "id": "f365c322-b394-4d28-aad6-9fb6c8348ae7",
+      "title": "My favorite Bose headphones are on sale, plus more of the best headphones and earbuds deals before October Prime Day",
+      "source": "Mashable",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/07iWM8L4kBcfEpJ3ZjFP3iH/hero-image.fill.size_1200x675.v1790685784.jpg"
+    },
+    {
+      "id": "e0520bfd-a169-4b06-8f9b-9b99e01debf1",
+      "title": "YouTube Shorts is cracking down on clipping. Here’s what that means for creators.",
+      "source": "Mashable",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/06lgQT9EfaPsOI6BAALDgHK/hero-image.fill.size_1200x675.v1790959105.jpg"
+    },
+    {
+      "id": "ac24aaad-a766-481b-bdc4-68f6a0484e35",
+      "title": "Grindr acquires HIV prevention med provider Freddie",
+      "source": "Mashable",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/06w1UKWqNjodwgQ5OicyAR3/hero-image.fill.size_1200x675.v1790956966.jpg"
+    },
+    {
+      "id": "be7bda26-bb62-4a0e-89f0-39ebf789e7e5",
+      "title": "Meta’s Muse AI passes 5 million downloads, breaking records",
+      "source": "Mashable",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/03LZyXH6XrJLIfcXwYSNpk0/hero-image.fill.size_1200x675.v1790955617.jpg"
+    },
+    {
+      "id": "4dcdc547-0c0c-4372-8a53-37f910bac5c1",
+      "title": "Europe is building its own payment network to finally compete with Visa and Mastercard",
+      "source": "TechSpot",
+      "image_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-02-ts3_thumbs-01b.jpg"
+    },
+    {
+      "id": "723cf6ba-006b-4ddf-9eb2-efbaa93349fa",
+      "title": "Fairphone 6+ reviews: a repairability champion, but $650 is a tough sell",
+      "source": "TechSpot",
+      "image_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-02-ts3_thumbs-78c.jpg"
+    },
+    {
+      "id": "c0f09135-fc9b-4f47-bc71-a71c28039a92",
+      "title": "Scammers are selling fake Blu-ray drives to PS3 emulation fans",
+      "source": "TechSpot",
+      "image_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/02/2026-02-11-ts3_thumbs-573.jpg"
+    },
+    {
+      "id": "cbd989aa-f9e7-4a15-97f3-c9f73edf8cee",
+      "title": "Critics call Star Wars: Galactic Racer one of the best arcade racers in years",
+      "source": "TechSpot",
+      "image_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-02-ts3_thumbs-ed6.jpg"
+    },
+    {
+      "id": "538cc78c-2b8a-4ea0-97f4-29e8c6c09f05",
+      "title": "This industrial mini PC pairs Intel Panther Lake internals with near-silent AirJet cooling",
+      "source": "TechSpot",
+      "image_url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-02-ts3_thumbs-646.jpg"
+    },
+    {
+      "id": "4f2ec472-bc1a-43f3-9aea-63d1a37b23ab",
+      "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg"
+    },
+    {
+      "id": "83d40209-0e9a-4f2a-9fac-cceb436bc5b5",
+      "title": "The Witcher 3 mod swaps every single Griffin with the iconic low-poly pigeon: \"He is back\"",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8wuQt6xhhACK9TMakHoGRH-1920-80.jpg"
+    },
+    {
+      "id": "358d3fbb-8f95-41b7-b25f-80a2c29abb2b",
+      "title": "Star Wars: Galactic Racer Metacritic score makes it one of the best-rated Star Wars games ever",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/iAxKwVnhtAduAciWPEtcPE-1920-80.png"
+    },
+    {
+      "id": "17a333fb-2b41-4d9b-9f25-56dfeaf9356d",
+      "title": "There are \"all sorts of smart reasons\" the League of Legends MMO shouldn't be made, Riot boss says",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/B4EGKZtrPfz9v2USEPMzMS-1920-80.jpg"
+    },
+    {
+      "id": "eb8b8215-62a3-48c4-a402-a41e29f66937",
+      "title": "How to play NG+ in 007 First Light",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/pw6EW75eCq4vE4dTREHTo3-1920-80.jpg"
+    },
+    {
+      "id": "123bed68-9b14-4247-93f3-0e10f38bc6cb",
+      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
+      "source": "GamesRadar+",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg"
+    },
+    {
+      "id": "d74a5320-8cd7-4266-8630-c84362399436",
+      "title": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
+      "source": "Nintendo Life",
+      "image_url": "https://images.nintendolife.com/3182a0ac54d88/large.jpg"
+    },
+    {
+      "id": "e4c826d0-db4e-4831-ba01-359d9e17d998",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
+      "source": "Nintendo Life",
+      "image_url": "https://images.nintendolife.com/f9122ebac2a11/large.jpg"
+    },
+    {
+      "id": "dca2489a-ad12-4a62-81e1-ba1dc293a135",
+      "title": "Sony's consultation on physical media: better late than never | Opinion",
+      "source": "GamesIndustry.biz",
+      "image_url": "https://assetsio.gnwcdn.com/denise-jans-zvRgcCx8Nvs-unsplash-(1).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp"
+    },
+    {
+      "id": "56aee744-2180-4f01-a21e-ce2cd67a2ee1",
+      "title": "In pictures: the Best Places To Work Awards 2026",
+      "source": "GamesIndustry.biz",
+      "image_url": "https://assetsio.gnwcdn.com/5D7A8407-Edit.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp"
     }
   ],
   "images_updated": [],
   "duplicates_skipped": [
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
-      "source": "TechCrunch",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
-      "source": "TechCrunch",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026",
-      "source": "TechCrunch",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
-      "source": "TechCrunch",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients&#8217; data",
-      "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data",
-      "source": "TechCrunch",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
-      "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Venus' mysterious haze is actually cosmic dust",
-      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Can good design stop content creators from having sex in robotaxis?",
-      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis",
-      "source": "Ars Technica",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "NVIDIA's smuggling problem is getting worse",
-      "url": "https://engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
-      "url": "https://engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
-      "url": "https://engadget.com/2275196/microsoft-surface-windows-event-october-7-preview",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Tesla rolls out an emergency drive-away feature after Supercharger shooting",
-      "url": "https://engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "FDA approves artificial heart valve for kids that grows as they do",
-      "url": "https://engadget.com/2275489/fda-approves-autus-size-adjustable-artificial-heart-valve-for-kids",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Balcony solar installations will soon be legal in America's most populous state",
-      "url": "https://engadget.com/2275466/california-legalizes-balcony-plug-in-solar",
-      "source": "Engadget",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "10 movies that were supposed to launch franchises — and didn’t",
-      "url": "https://ew.com/movies-that-were-supposed-to-launch-franchises-and-didn-t-12154090",
-      "source": "Entertainment Weekly",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Mark Consuelos honors Kelly Ripa on her birthday: ‘If Gandhi and Groucho Marx had a daughter’",
-      "url": "https://ew.com/kelly-ripa-birthday-mark-consuelos-compares-gandhi-groucho-marx-12153955",
-      "source": "Entertainment Weekly",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Michael Douglas reveals secret romance with Kathleen Turner — and why they hid it for 40 years",
-      "url": "https://ew.com/michael-douglas-reveals-secret-kathleen-turner-romance-after-40-year-lie-12153984",
-      "source": "Entertainment Weekly",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Billie Lourd shares the facelift advice she received from late grandma Debbie Reynolds",
-      "url": "https://ew.com/billie-lourd-shares-facelift-advice-she-received-from-late-grandma-debbie-reynolds-12153884",
-      "source": "Entertainment Weekly",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Gypsy Rose Blanchard says Ken Urker overdosed in first comment on ex-fiancé’s death: ‘Screamed until my throat burns’",
-      "url": "https://ew.com/gypsy-rose-blanchard-reacts-ken-urker-death-overdose-12153882",
-      "source": "Entertainment Weekly",
-      "reason": "já cadastrado"
-    },
     {
       "title": "Podcast: Why we&#8217;re ready for a new Uncharted game",
       "url": "https://videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game",
@@ -175,24 +487,6 @@
     {
       "title": "Dynasty Warriors producer says he&#8217;d rather not make more remasters, because he doesn&#8217;t know how many more games he has left",
       "url": "https://videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left",
-      "source": "VGC",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Memory maker warns shortages will get worse in 2027, as CEO celebrates &#8216;much higher prices&#8217;",
-      "url": "https://videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices",
-      "source": "VGC",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic",
-      "url": "https://videogameschronicle.com/review/star-wars-galactic-racer-review",
-      "source": "VGC",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Skyrim lead designer says he hopes The Elder Scrolls 6 adds boats and naval combat, as it would be a &#8216;natural&#8217; fit",
-      "url": "https://videogameschronicle.com/news/skyrim-lead-designer-says-he-hopes-the-elder-scrolls-6-adds-boats-and-naval-combat-as-it-would-be-a-natural-fit",
       "source": "VGC",
       "reason": "já cadastrado"
     },
@@ -215,100 +509,10 @@
       "reason": "já cadastrado"
     },
     {
-      "title": "How the &#8216;Get Jiro!&#8217; Creative Team Cooked Up a Foodie Dystopia for Adult Swim&#8217;s New Show",
-      "url": "https://animationmagazine.net/2026/10/how-the-get-jiro-creative-team-cooked-up-a-foodie-dystopia-for-adult-swims-new-show",
-      "source": "Animation Magazine",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "&#8216;KPop Demon Hunters 2&#8217; Will Get &#8216;Very Broad Theatrical Release&#8217; Says Netflix CEO",
-      "url": "https://animationmagazine.net/2026/10/kpop-demon-hunters-2-will-get-very-broad-theatrical-release-says-netflix-ceo",
-      "source": "Animation Magazine",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "24 Hours Animation Contest Marks 24th Year: Daniel Chong to Reveal Theme",
-      "url": "https://animationmagazine.net/2026/10/24-hours-animation-contest-marks-24th-year-daniel-chong-to-reveal-theme",
-      "source": "Animation Magazine",
-      "reason": "já cadastrado"
-    },
-    {
       "title": "Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast",
       "url": "https://pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast",
       "source": "Push Square",
       "reason": "já cadastrado"
-    },
-    {
-      "title": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only",
-      "url": "https://pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
-      "source": "Push Square",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
-      "url": "https://pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
-      "source": "Push Square",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own",
-      "url": "https://pushsquare.com/reviews/ps5/star-wars-galactic-racer",
-      "source": "Push Square",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Warhammer 40k: Space Marine 2 Marches on with Massive Free Update, Year 3 Roadmap",
-      "url": "https://pushsquare.com/news/2026/10/warhammer-40k-space-marine-2-marches-on-with-massive-free-update-year-3-roadmap",
-      "source": "Push Square",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "New PS5 Firmware Update 26.06-14.10.00 Available to Download Now",
-      "url": "https://pushsquare.com/news/2026/10/new-ps5-firmware-update-26-06-14-10-00-available-to-download-now",
-      "source": "Push Square",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "&#8216;A Different World&#8217; Renewed for Season 2 at Netflix",
-      "url": "https://variety.com/2026/tv/news/a-different-world-renewed-season-2-netflix-1236897429",
-      "source": "Variety",
-      "reason": "título muito semelhante a matéria já cadastrada",
-      "existing_id": "4a8dd78f-c94e-4dc6-8bfe-0acb16ba8d0e",
-      "existing_title": "&#8216;A Different World&#8217; Renewed for Season 2 at Netflix"
-    },
-    {
-      "title": "IDF Slams ‘NAZA,’ Saying It Presents a ‘Distorted, Misleading and Disingenuous Picture’",
-      "url": "https://variety.com/2026/film/news/idf-slams-naza-documentary-1236897499",
-      "source": "Variety",
-      "reason": "título muito semelhante a matéria já cadastrada",
-      "existing_id": "56a7088a-11ae-409b-a64b-2fe38b7cab17",
-      "existing_title": "IDF Slams ‘NAZA,’ Saying It Presents a ‘Distorted, Misleading and Disingenuous Picture’"
-    },
-    {
-      "title": "&#8216;God of War Laufey&#8217; Sets Release Date, Preorders Open (Gaming News Roundup)",
-      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-september-28-1236877473",
-      "source": "Variety",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "CBS News Taps Steven Baker, Former &#8216;Nightline&#8217; Producer, to Boost &#8216;Mornings,&#8217; &#8216;Evening News&#8217;",
-      "url": "https://variety.com/2026/tv/news/cbs-news-steven-baker-nightline-producer-tv-mornings-1236897203",
-      "source": "Variety",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Luca Guadagnino Is ‘Not Afraid’ of Sam Altman Backlash to ‘Artificial’: ‘People That Have a Lot of Power’ Should Be ‘Aware That You Must Be Responsible’",
-      "url": "https://variety.com/2026/film/news/luca-guadagnino-not-afraid-sam-altman-backlash-artificial-1236897470",
-      "source": "Variety",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "New Name of Paramount-Warner Bros. Unveiled: Skydance",
-      "url": "https://variety.com/2026/film/news/name-of-paramount-warner-bros-unveiled-skydance-1236893761",
-      "source": "Variety",
-      "reason": "título muito semelhante a matéria já cadastrada",
-      "existing_id": "5182c033-e0a5-46cc-a5df-45d0b8b5f262",
-      "existing_title": "New Name of Paramount-Warner Bros. Unveiled: Skydance"
     },
     {
       "title": "AT&T floats a fix for iPhone cellular issues but it doesn’t appear to work",
@@ -317,130 +521,8 @@
       "reason": "já cadastrado"
     },
     {
-      "title": "Best MacBook Prime Day Deals October 2026: Save on MacBook Air, Pro, Neo & Mac mini",
-      "url": "https://macworld.com/article/2385468/best-macbook-mac-prime-day-deals-2026-october.html",
-      "source": "Macworld",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Apple is selling a $19 fix for iPhone Duo creasing",
-      "url": "https://macworld.com/article/3249513/apple-is-selling-a-19-fix-for-iphone-duo-creasing.html",
-      "source": "Macworld",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Best iPhone 18 cases for iPhone 18 Pro & 18 Pro Max",
-      "url": "https://macworld.com/article/3229496/best-iphone-18-cases-for-iphone-18-pro-18-pro-max.html",
-      "source": "Macworld",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Apple’s September was huge. October could be even bigger",
-      "url": "https://macworld.com/article/3245800/apples-september-was-huge-october-could-be-even-bigger.html",
-      "source": "Macworld",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "‘Halo’ and the missed opportunity for the Mac",
-      "url": "https://macworld.com/article/3249377/25-years-of-xbox-why-halo-should-have-come-to-the-mac-first.html",
-      "source": "Macworld",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Catherine Zeta-Jones Carries Her Quentin Tarantino‑Meets‑Guy Ritchie Crime Thriller 'Kill Jackie' | Review",
-      "url": "https://collider.com/kill-jackie-review-catherine-zeta-jones",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "3 Elite Series to Binge on Netflix This Weekend (Oct 3-4)",
-      "url": "https://collider.com/netflix-shows-binge-weekend-october-3-2026",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "The 4 Most Important Zombie Movies That Define the Genre",
-      "url": "https://collider.com/most-important-zombie-movies",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "This Is Officially the Most Addictive Star Wars Game in Years and It's Not Even Close | Review",
-      "url": "https://collider.com/star-wars-galactic-racer-review",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Netflix’s ‘Squid Game’ Successor Officially Arrives Just in Time for Halloween",
-      "url": "https://collider.com/netflix-squid-game-replacement-dead-end-job-release-date-october-2026",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "6 Vampire Movies Nobody Wants a Remake Of",
-      "url": "https://collider.com/vampire-movies-nobody-wants-a-remake-of",
-      "source": "Collider",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Marvel Shares First Look At Dark Peter Parker Redesign For New Universe",
-      "url": "https://screenrant.com/new-midnight-spider-man-dark-redesign",
-      "source": "ScreenRant",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "8 Far Side Comics From The 1990s That Were Perfect For The End Of Gary Larson's Era",
-      "url": "https://screenrant.com/greatest-far-side-strips-1990s",
-      "source": "ScreenRant",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Taylor Sheridan's Dutton Ranch Returns With Exciting New Release Next Month",
-      "url": "https://screenrant.com/dutton-ranch-season-1-bluray-release-date",
-      "source": "ScreenRant",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Catherine Zeta-Jones' Life Is Literally Blowing Up In Kill Jackie Clip",
-      "url": "https://screenrant.com/video/kill-jackie-episode-1-catherine-zeta-jones-daniel-ings-clip",
-      "source": "ScreenRant",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "How to watch Pakistan vs. India in the Asian Games final online for free",
-      "url": "https://mashable.com/entertainment/pakistan-india-asian-games-final-2026-live-stream-for-free",
-      "source": "Mashable",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Ninja’s new PREPi gadget wants to end your $27 salad addiction",
-      "url": "https://mashable.com/life/ninja-prepi-meal-prep-system-launch",
-      "source": "Mashable",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "How to watch Colombia vs. Paraguay online for free",
-      "url": "https://mashable.com/entertainment/colombia-paraguay-international-friendly-2026-live-stream-for-free",
-      "source": "Mashable",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "The Swan: Behind The Mirror director Erin Lee Carr on the docs shocks and flock",
-      "url": "https://mashable.com/entertainment/the-swan-behind-the-mirror-erin-lee-carr",
-      "source": "Mashable",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Wordle today: Answer, hints for October 2, 2026",
-      "url": "https://mashable.com/entertainment/wordle-today-answer-october-2-2026",
-      "source": "Mashable",
-      "reason": "título muito semelhante a matéria já cadastrada",
-      "existing_id": "65919662-db16-4b22-87c2-090bb302f94a",
-      "existing_title": "Wordle today: Answer, hints for October 2, 2026"
-    },
-    {
-      "title": "Moon phase today: What the Moon will look like on October 2, 2026",
-      "url": "https://mashable.com/science/moon-phase-today-oct-2-2026",
+      "title": "How to watch France vs. Italy online for free",
+      "url": "https://mashable.com/entertainment/france-italy-nations-league-2026-live-stream-for-free",
       "source": "Mashable",
       "reason": "já cadastrado"
     },
@@ -448,72 +530,6 @@
       "title": "A Florida county discovered 14 Flock cameras nobody authorized, and 11 remain unclaimed",
       "url": "https://techspot.com/news/114069-florida-county-discovered-14-flock-cameras-nobody-authorized.html",
       "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Buying an RTX 5090 PC from Micro Center now means signing a form promising it won't leave the US",
-      "url": "https://techspot.com/news/114076-buying-rtx-5090-pc-micro-center-now-means.html",
-      "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Singapore is testing a dating app that gives users one match at a time and no swiping",
-      "url": "https://techspot.com/news/114071-singapore-testing-dating-app-gives-users-one-match.html",
-      "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "The base PlayStation 5 can now do AI upscaling, and it actually looks great",
-      "url": "https://techspot.com/news/114067-base-playstation-5-can-now-do-ai-upscaling.html",
-      "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "New York City's click-to-cancel rule takes effect, making subscription cancellations as easy as sign-ups",
-      "url": "https://techspot.com/news/114074-new-york-city-click-cancel-rule-takes-effect.html",
-      "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "New GrayKey feature lets police stop seized iPhones from becoming harder to access after a reboot",
-      "url": "https://techspot.com/news/114070-new-graykey-feature-police-stop-seized-iphones-becoming.html",
-      "source": "TechSpot",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "'It's an onion!' I shouted, as I built the Lego Shrek, Donkey & Puss in Boots set",
-      "url": "https://gamesradar.com/toys-collectibles/lego-shrek-donkey-and-puss-in-boots-72423-review",
-      "source": "GamesRadar+",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
-      "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment",
-      "source": "GamesRadar+",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "I've spent seven hours exploring the Steam Autumn Sale, and these are the 10 best games on discount I'd recommend picking up while you still can",
-      "url": "https://gamesradar.com/games/best-steam-autumn-sale-games-2026",
-      "source": "GamesRadar+",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "5 years on, it's clear Loki used the multiverse better than anything else in the MCU",
-      "url": "https://gamesradar.com/entertainment/marvel-tv-shows/5-years-on-its-clear-loki-used-the-multiverse-better-than-anything-else-in-the-mcu",
-      "source": "GamesRadar+",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Star Wars: Galactic Racer review: \"True to its Burnout legacy, blisteringly fast space racing keeps me coming back\"",
-      "url": "https://gamesradar.com/games/racing/star-wars-galactic-racer-review",
-      "source": "GamesRadar+",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "I played an evening of Big Walk on Steam Frame, and it felt like wearing a Steam Deck on my face",
-      "url": "https://gamesradar.com/hardware/vr/i-played-an-evening-of-big-walk-on-steam-frame-and-it-felt-like-wearing-a-steam-deck-on-my-face",
-      "source": "GamesRadar+",
       "reason": "já cadastrado"
     },
     {
@@ -577,20 +593,6 @@
       "reason": "já cadastrado"
     },
     {
-      "title": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
-      "url": "https://nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
-      "source": "Nintendo Life",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "CD Projekt Red Says It&#039;s Working On Fixes For Witcher 3 Remastered",
-      "url": "https://nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
-      "source": "Nintendo Life",
-      "reason": "título muito semelhante a matéria já cadastrada",
-      "existing_id": "c36c77ca-c985-481f-b999-dda008b36488",
-      "existing_title": "CD Projekt Red Says It&#039;s Working On Fixes For Witcher 3 Remastered"
-    },
-    {
       "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
       "url": "https://gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
       "source": "GamesIndustry.biz",
@@ -611,18 +613,6 @@
     {
       "title": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
       "url": "https://gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
-      "source": "GamesIndustry.biz",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
-      "url": "https://gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
-      "source": "GamesIndustry.biz",
-      "reason": "já cadastrado"
-    },
-    {
-      "title": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
-      "url": "https://gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
       "source": "GamesIndustry.biz",
       "reason": "já cadastrado"
     }
