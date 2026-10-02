@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-10-02T14:45:08.298Z",
+  "updated_at": "2026-10-02T14:53:11.753Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "7333ee3c-0012-499f-a94f-4bca4eb75b44",
-      "title": "Controle Edição Limitada de Lisa para PS5 Já Está Disponível e Esgotando Rápido",
-      "category": "Games",
+      "id": "539744ba-080c-442c-b015-38d91d590400",
+      "title": "Netflix’s New Revival Of Iconic 39-Year-Old NBC Series Officially Returning For Season 2",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "6885c2b1-7b08-48c2-a5fa-4c226fae81b4",
+      "title": "Yellowstone Star’s New R-Rated Horror Movie Officially Breaks 8-Year Rotten Tomatoes Streak",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "1746ef9b-926d-43a3-95c7-9721239cb3bf",
+      "title": "Erin Andrews revela que recusou convite para participar de clipe de Taylor Swift",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "df7d4ed2-46f2-4710-aa31-318179551b9f",
-      "title": "Marvel revela visual sombrio e nova origem para Peter Parker em universo inédito",
-      "category": "Filmes, Séries e Animações",
+      "id": "e44172a2-bb76-4a89-874a-fcdb5729cc1e",
+      "title": "Domínio .si da Eslovênia dispara em registros após ordem executiva de Trump sobre superinteligência",
+      "category": "Empresas",
       "status": "review"
     },
     {
@@ -34,14 +46,8 @@
     },
     {
       "id": "5182c033-e0a5-46cc-a5df-45d0b8b5f262",
-      "title": "New Name of Paramount-Warner Bros. Unveiled: Skydance",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "427ee90c-53c5-4da3-ba5a-0c3c7b2e7d9b",
-      "title": "Dez filmes que tentaram iniciar franquias de sucesso mas acabaram sem sequências",
-      "category": "Filmes, Séries e Animações",
+      "title": "O novo nome da gigante resultante da fusão entre Paramount e Warner Bros. Discovery será Skydance",
+      "category": "Empresas",
       "status": "review"
     },
     {
@@ -51,94 +57,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "0722ccd7-887f-49c6-a863-e801a30696a0",
-      "title": "Instalações de energia solar em sacadas serão legalizadas na Califórnia",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "bbd8dd1e-676e-4619-be5c-f9db915e0983",
-      "title": "FDA aprova válvula cardíaca artificial infantil que cresce com o paciente",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "7277a8a6-e5f3-4da7-823d-790ae6ed52e8",
-      "title": "Tesla lança recurso de saída de emergência para Superchargers após tiroteio",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "bd263811-ca7a-4727-ad07-939c7d5956d1",
-      "title": "A discussão sobre o uso do termo Mini LED por fabricantes de televisores",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "c3d41f4b-c821-4c68-b55a-c89d1765aecd",
-      "title": "DLC gratuita Extended Operations de 007 First Light traz New Game+, modo foto e novos conteúdos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "f1d11c27-1567-4e63-9fbf-8e8f8279def4",
-      "title": "Capcom detalha o processo desafiador de adaptar Monster Hunter Wilds para o Switch 2",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "a972e250-0c65-459b-83c9-c7b60d500f85",
-      "title": "Minecraft Dungeons II: Confira o resumo das avaliações da imprensa especializada",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "ec77709a-869f-40fc-8ae1-fc68d1959f88",
-      "title": "Dicas e respostas do jogo Hurdle para 2 de outubro de 2026",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "cd1f96ff-cd13-4883-b919-3f9b103ac061",
-      "title": "Como assistir à partida entre França e Itália na Nations League de graça",
-      "category": "Internet",
-      "status": "review"
-    },
-    {
-      "id": "e8a50c28-7aa8-4bcf-b713-27708c7b540c",
-      "title": "Quando Breaking Bad tentou substituir Walter White em um jogo mobile esquecible",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "1237a8af-1acc-45de-9297-efce3a9b8e25",
       "title": "Verity Ending Explained: Who Dies In The Movie & What Really Happened To Verity?",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "73af8c92-1e62-4880-82a9-9004cf18d670",
-      "title": "Shadow of the Backrooms chega em 2027 trazendo terror liminar e survival horror para os PCs",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "6c3aae03-8145-46ff-964f-0039f01f7f50",
-      "title": "Final Fantasy 9: Caixa de música \"A Place to Call Home\" chega este mês",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "d25d0d13-e5b5-4390-a4a9-d74524376b9d",
-      "title": "The Legend of Zelda: Twilight Princess ganha nova sobrevida com projeto de remasterização feito por fãs",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "904d5158-08c3-4846-b08a-ff47b29fc29b",
-      "title": "Dungeon Crawler Carl: Princess Donut ganha conjunto de dados oficial para novembro de 2026",
-      "category": "Games",
-      "status": "review"
     },
     {
       "id": "52bbc2da-c50f-41f9-a75c-36a6f5c24160",
@@ -147,40 +69,118 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "b7c850d7-fbd6-4349-b897-f2ffb2ab842e",
-      "title": "Game of Thrones: Grand Melee é anunciado oficialmente para outubro no jogo mobile",
-      "category": "Games",
+      "id": "5bb73cef-d1ca-41b0-9005-4ffe2db7e16d",
+      "title": "Landman: como a segunda temporada prepara o terreno para um derivado perfeito",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "5bb73cef-d1ca-41b0-9005-4ffe2db7e16d",
-      "title": "Landman Season 3 Officially Sets Up The Perfect Spinoff",
+      "id": "4411373e-2e62-4623-a0ed-5afffa8266c7",
+      "title": "Ken Urker, Gypsy-Rose Blanchard&#8217;s Partner, Dies at 34",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "7bda0835-7881-4dad-8d50-251d51bf6029",
-      "title": "A Roda do Tempo: fãs encontrarão o desfecho da história em 2027",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "f1d4195d-67e9-4953-97bb-cb4171726d53",
-      "title": "Os 7 K-Dramas mais perfeitos da última década, classificados",
+      "id": "dcccb04d-84a1-48b0-bdb7-580184388861",
+      "title": "Elenco de 'Animals' incentiva Ben Affleck a concorrer a cargo político",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "39d49072-c55c-4222-8fe9-ba30cc520c3b",
-      "title": "A Reação Extrema a Jogos como Marvel's Wolverine e GTA 6 Expõe um Problema Profundo na Indústria",
+      "id": "f911cb81-8e18-402a-ae74-f30a027e65c8",
+      "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "1853ceba-9abd-4814-927b-d073d84d4317",
+      "title": "Benson Boone relata encontro inusitado e íntimo com fã em banheiro durante seu próprio show",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "c3db82e0-94b8-43e6-b439-5454e264022a",
+      "title": "Ex-marido de Halle Berry consegue ordem de restrição temporária após acusação de abuso infantil",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "dfc534e9-48bd-4148-9dce-c8cd6502e19f",
+      "title": "“AHS” vet Seth Gabel shares why he was initially ‘terrified’ of that Dahmer scene with “Monster” star Evan Peters",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "5b1008a7-0b82-4be6-bc96-670703ca3c00",
+      "title": "James Bond Meets Quentin Tarantino in This Cult Classic Spy Thriller",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "6ffdd73c-f8ff-47e0-9a4c-8f2c0ba32281",
+      "title": "Com 1,4 bilhão de visualizações, Greg Davies e Alex Horne mantêm a essência de Taskmaster",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "eee776af-5fab-4cf0-bcb3-811ec7334d43",
+      "title": "Ken Urker, noivo de Gypsy Rose Blanchard e pai de sua filha, morre aos 33 anos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "cbcf71ff-d6c4-476e-8aee-233a1943ec29",
+      "title": "Conheça a famosa família de Oliver Hudson, participante do reality Special Forces",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "c36c77ca-c985-481f-b999-dda008b36488",
+      "title": "CD Projekt Red confirma correções a caminho para The Witcher 3 Remastered, incluindo versão de Switch 2",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "c2c5132f-313a-4574-b7c1-319ee6092d59",
-      "title": "Franquia de Toy Story domina o Disney+ e prova força trinta anos após estreia",
+      "id": "5ae86347-7a0f-40be-a44f-d6d35159e4df",
+      "title": "Como Andy Griffith pressionou Elia Kazan contra a parede para conseguir papel em filme, revela Linda Purl",
       "category": "Filmes, Séries e Animações",
       "status": "review"
+    },
+    {
+      "id": "65919662-db16-4b22-87c2-090bb302f94a",
+      "title": "Dicas e resposta do Wordle de 2 de outubro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ac7c240e-99d6-4e16-baec-e3f8674485db",
+      "title": "Dicas e respostas do NYT Strands para 2 de outubro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "b96bd497-4e80-42c9-806b-7c463f8325c3",
+      "title": "Dicas e Respostas para o Connections do NYT de 2 de Outubro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "f346bcb0-bc98-4f7f-a540-6bb5956c13fa",
+      "title": "Dicas e significados do NYT Connections de 2 de outubro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "065ebaad-9f38-46ba-8f3a-b9afd17c3a75",
+      "title": "Como o infame caso de custódia de Olivia Wilde inspirou o chocante final do primeiro episódio da série War",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "7aac43e9-1fcf-403f-8e4e-e9b6ddb566c0",
+      "title": "Archie Renaux breaks down Wars game-changing mole twist",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "2aa9deb6-98e9-4d55-b80c-507c1bb50e96",
@@ -189,22 +189,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "19ad7c7f-9a33-4259-8623-926fbca9cb89",
-      "title": "The Uprising, épico medieval com Andrew Garfield, chega ao streaming após fracasso nos cinemas",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
       "title": "Anne Hathaway's New Thriller Officially Stumbles in Rotten Tomatoes Debut",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "6ee9eb88-f674-41c3-98c3-f6074b706bed",
-      "title": "Nove obras-primas da ficção científica que trazem os melhores alienígenas do cinema",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "dd3e065d-6b48-4260-b532-4248e55da56e",
@@ -225,22 +213,34 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "7c8b79e0-3870-469a-a160-d0f0183e7df8",
-      "title": "7 Livros de Romance Perfeitos para Ler em Apenas Um Fim de Semana",
+      "id": "c30947f7-b7c4-4ccb-b2a0-17ab2913b869",
+      "title": "8 filmes de suspense de espionagem imperdíveis para fãs de Jack Ryan e Jason Bourne",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "0f99183c-50b3-4389-812b-245f7a5b2e8c",
-      "title": "Há 18 anos, a franquia Pokémon deixava Mewtwo de lado em uma troca polêmica",
+      "id": "cd1a1c18-e1e9-4760-b0f1-5ba0058c9b97",
+      "title": "Marvel revela novos uniformes combinando para os Vingadores na conclusão de evento",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "9405a0a2-ad73-4036-8f40-f16a233eba36",
-      "title": "As 10 Maiores Histórias de Wolverine que Quase Ninguém Comenta, mas Todo Fã Deveria Ler",
+      "id": "e04f3dd5-affe-401a-b30d-d86b4135a006",
+      "title": "Twin Peaks entra no Top 5 de vendas do Apple TV em outubro de 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "eaa30aee-0357-4249-95b2-c4eefb5758bd",
+      "title": "Square Enix traz Octopath Traveler 1 e 2 com melhorias para o Nintendo Switch 2",
       "category": "Games",
       "status": "review"
+    },
+    {
+      "id": "6d27b94b-2ab9-4317-b79b-fd01db418ab9",
+      "title": "Star Trek EPs Admit A Strange New Worlds Character’s Future Was “Undecided” In Possible Series Finale",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
