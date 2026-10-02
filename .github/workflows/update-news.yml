@@ -10,12 +10,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-news-main
+  cancel-in-progress: true
+
 jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -63,6 +69,7 @@ jobs:
         run: |
           git config user.name "Tech Check Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news article-page.css worker/generate-seo.mjs worker/normalize-categories.mjs .github/workflows/update-news.yml
+          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json sitemap.xml robots.txt noticias assets/news
           git diff --cached --quiet || git commit -m "chore: atualizar feed e SEO"
-          git push
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
