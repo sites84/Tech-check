@@ -4,58 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tech Check — Últimas notícias de tecnologia</title>
-  <meta name="description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, espaço, games e gadgets no Tech Check.">
+  <meta name="description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, games e gadgets no Tech Check.">
   <link rel="canonical" href="https://sites84.github.io/Tech-check/">
   <meta name="robots" content="index,follow,max-image-preview:large">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Tech Check">
-  <meta property="og:locale" content="pt_BR">
-  <meta property="og:title" content="Tech Check — Últimas notícias de tecnologia">
-  <meta property="og:description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, espaço, games e gadgets.">
-  <meta property="og:url" content="https://sites84.github.io/Tech-check/">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Tech Check — Últimas notícias de tecnologia">
-  <meta name="twitter:description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, espaço, games e gadgets.">
+  <meta property="og:type" content="website"><meta property="og:site_name" content="Tech Check"><meta property="og:locale" content="pt_BR"><meta property="og:title" content="Tech Check — Últimas notícias de tecnologia"><meta property="og:description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, games e gadgets."><meta property="og:url" content="https://sites84.github.io/Tech-check/"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Tech Check — Últimas notícias de tecnologia"><meta name="twitter:description" content="Últimas notícias de tecnologia, ciência, inteligência artificial, smartphones, segurança, games e gadgets.">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Tech Check","url":"https://sites84.github.io/Tech-check/","inLanguage":"pt-BR","potentialAction":{"@type":"SearchAction","target":"https://sites84.github.io/Tech-check/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="affiliate.css?v=2">
-  <link rel="stylesheet" href="evergreen.css?v=1">
-  <link rel="stylesheet" href="trending.css?v=2">
+  <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="affiliate.css?v=2"><link rel="stylesheet" href="evergreen.css?v=1"><link rel="stylesheet" href="trending.css?v=2">
 </head>
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a class="brand" href="./">TECH<span>CHECK</span></a>
-      <nav aria-label="Navegação principal">
-        <a class="active" href="#ultimas">Últimas</a><a href="#categorias">Categorias</a><a href="#curiosidades">Curiosidades</a><a href="#historia">História</a>
-      </nav>
-      <button id="search-button" class="search-button" aria-label="Pesquisar notícias">⌕</button>
-    </div>
-  </header>
-  <main>
-    <section class="hero container">
-      <div>
-        <p class="eyebrow">TECNOLOGIA PELO MUNDO</p>
-        <h1>O que está acontecendo na tecnologia, sem enrolação.</h1>
-        <p class="hero-copy">Notícias, curiosidades e histórias sobre tecnologia do mundo todo.</p>
-      </div>
-    </section>
-    <section id="em-alta" class="container trending-section">
-      <div class="section-heading"><div><p class="eyebrow">DESTAQUES</p><h2>Em alta agora</h2></div><span id="trending-status">Atualizado a cada 12 horas</span></div>
-      <div class="trending-wrap"><button class="carousel-arrow" id="trending-prev" type="button" aria-label="Anterior">‹</button><div id="trending-carousel" class="trending-carousel" aria-label="Notícias em alta"></div><button class="carousel-arrow" id="trending-next" type="button" aria-label="Próximo">›</button></div>
-    </section>
-    <section id="ultimas" class="container section">
-      <div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">Carregando notícias…</span></div>
-      <div id="search-panel" class="search-panel" hidden><input id="search-input" type="search" placeholder="Pesquisar por título ou assunto…" autocomplete="off"></div>
-      <div id="news-grid" class="news-grid"></div>
-      <button id="show-more-button" class="show-more-button" type="button" hidden>Mostrar mais</button>
-      <p id="empty-state" class="empty-state" hidden>Nenhuma matéria encontrada.</p>
-    </section>
-    <section id="categorias" class="container section"><div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>Por assunto</h2></div></div><div id="category-grid" class="category-grid"><button data-category="Inteligência Artificial">Inteligência Artificial</button><button data-category="Smartphones">Smartphones</button><button data-category="Computadores">Computadores</button><button data-category="Games">Games</button><button data-category="Segurança">Segurança</button><button data-category="Ciência">Ciência</button><button data-category="Espaço">Espaço</button><button data-category="Gadgets">Gadgets</button><button data-category="Internet">Internet</button><button data-category="Cripto">Cripto</button><button data-category="Empresas">Empresas</button><button data-category="História da tecnologia">História da tecnologia</button></div></section>
-    <section id="curiosidades" class="container evergreen-section"><div class="section-heading"><div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2></div><span id="curiosity-count"></span></div><p class="evergreen-intro">Fatos curiosos, invenções e detalhes pouco conhecidos que ajudam a entender a tecnologia.</p><div id="curiosity-grid" class="evergreen-grid"></div><button id="curiosity-more" class="show-more-button" type="button">Mostrar mais curiosidades</button></section>
-    <section id="historia" class="container evergreen-section"><div class="section-heading"><div><p class="eyebrow">ARQUIVO TECNOLÓGICO</p><h2>História da tecnologia</h2></div><span id="history-count"></span></div><p class="evergreen-intro">Uma linha do tempo com acontecimentos que ajudaram a transformar computadores, internet, celulares, games e inteligência artificial.</p><div id="history-timeline" class="history-timeline"></div><button id="history-more" class="show-more-button" type="button">Mostrar mais história</button></section>
-  </main>
-  <div id="article-modal" class="modal" hidden><div class="modal-backdrop" data-close-modal></div><article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" data-close-modal aria-label="Fechar">×</button><div id="modal-content"></div></article></div>
-  <script src="app.js?v=seo1"></script><script src="evergreen.js?v=1"></script><script src="affiliate.js?v=3"></script><script src="trending.js?v=2"></script>
-</body>
-</html>
+<header class="site-header"><div class="container header-inner"><a class="brand" href="./">TECH<span>CHECK</span></a><nav aria-label="Navegação principal"><a class="active" href="#ultimas">Últimas</a><a href="#categorias">Categorias</a><a href="#curiosidades">Curiosidades</a><a href="#historia">História</a></nav><button id="search-button" class="search-button" aria-label="Pesquisar notícias">⌕</button></div></header>
+<main>
+<section class="hero container"><div><p class="eyebrow">TECNOLOGIA PELO MUNDO</p><h1>O que está acontecendo na tecnologia, sem enrolação.</h1><p class="hero-copy">Notícias, curiosidades e histórias sobre tecnologia do mundo todo.</p></div></section>
+<section id="em-alta" class="container trending-section"><div class="section-heading"><div><p class="eyebrow">DESTAQUES</p><h2>Em alta agora</h2></div><span id="trending-status">Atualizado a cada 12 horas</span></div><div class="trending-wrap"><button class="carousel-arrow" id="trending-prev" type="button" aria-label="Anterior">‹</button><div id="trending-carousel" class="trending-carousel" aria-label="Notícias em alta"></div><button class="carousel-arrow" id="trending-next" type="button" aria-label="Próximo">›</button></div></section>
+<section id="ultimas" class="container section"><div class="section-heading"><div><p class="eyebrow">AGORA</p><h2>Últimas notícias</h2></div><span id="status">Carregando notícias…</span></div><div id="search-panel" class="search-panel" hidden><input id="search-input" type="search" placeholder="Pesquisar por título ou assunto…" autocomplete="off"></div><div id="news-grid" class="news-grid"></div><button id="show-more-button" class="show-more-button" type="button" hidden>Mostrar mais</button><p id="empty-state" class="empty-state" hidden>Nenhuma matéria encontrada.</p></section>
+<section id="categorias" class="container section"><div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>Por assunto</h2></div></div><div id="category-grid" class="category-grid"><button data-category="Inteligência Artificial">Inteligência Artificial</button><button data-category="Smartphones">Smartphones e Gadgets</button><button data-category="Computadores">Computadores</button><button data-category="Games">Games</button><button data-category="Segurança">Segurança</button><button data-category="Ciência">Ciência e Espaço</button><button data-category="Internet">Internet</button><button data-category="Cripto">Cripto</button><button data-category="Empresas">Empresas</button></div></section>
+<section id="curiosidades" class="container evergreen-section"><div class="section-heading"><div><p class="eyebrow">VOCÊ SABIA?</p><h2>Curiosidades tecnológicas</h2></div><span id="curiosity-count"></span></div><p class="evergreen-intro">Fatos curiosos, invenções e detalhes pouco conhecidos que ajudam a entender a tecnologia.</p><div id="curiosity-grid" class="evergreen-grid"></div><button id="curiosity-more" class="show-more-button" type="button">Mostrar mais curiosidades</button></section>
+<section id="historia" class="container evergreen-section"><div class="section-heading"><div><p class="eyebrow">ARQUIVO TECNOLÓGICO</p><h2>História da tecnologia</h2></div><span id="history-count"></span></div><p class="evergreen-intro">Uma linha do tempo com acontecimentos que ajudaram a transformar computadores, internet, celulares, games e inteligência artificial.</p><div id="history-timeline" class="history-timeline"></div><button id="history-more" class="show-more-button" type="button">Mostrar mais história</button></section>
+</main>
+<div id="article-modal" class="modal" hidden><div class="modal-backdrop" data-close-modal></div><article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" data-close-modal aria-label="Fechar">×</button><div id="modal-content"></div></article></div>
+<script src="app.js?v=related1"></script><script src="evergreen.js?v=1"></script><script src="affiliate.js?v=3"></script><script src="trending.js?v=2"></script>
+</body></html>
