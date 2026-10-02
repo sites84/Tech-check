@@ -1,19 +1,6 @@
 {
-  "updated_at": "2026-10-02T02:40:30.067Z",
-  "inserted": [
-    {
-      "id": "5ae86347-7a0f-40be-a44f-d6d35159e4df",
-      "title": "Andy Griffith pinned Elia Kazan ‘against the wall’ to demand “A Face in the Crowd ”role, “Matlock” star says",
-      "source": "Entertainment Weekly",
-      "image_url": "https://ew.com/thmb/XQCMsxgXyxSOFSSCWmwvNAXJQQ4=/filters:no_upscale():max_bytes(150000):strip_icc():format(jpeg)/Andy-Griffith-Elia-Kazan618-000-1c17fcd5ed334dc69cd728b8f1559aa1.jpg"
-    },
-    {
-      "id": "c36c77ca-c985-481f-b999-dda008b36488",
-      "title": "CD Projekt Red Says It&#039;s Working On Fixes For Witcher 3 Remastered",
-      "source": "Nintendo Life",
-      "image_url": "https://images.nintendolife.com/27d45a82d575d/large.jpg"
-    }
-  ],
+  "updated_at": "2026-10-02T02:41:04.908Z",
+  "inserted": [],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -285,6 +272,14 @@
       "url": "https://engadget.com/2274612/samsung-suddenly-jacks-up-the-prices-of-galaxy-s26-phones",
       "source": "Engadget",
       "reason": "já cadastrado"
+    },
+    {
+      "title": "Andy Griffith pinned Elia Kazan ‘against the wall’ to demand “A Face in the Crowd ”role, “Matlock” star says",
+      "url": "https://ew.com/why-andy-griffith-pinned-elia-kazan-against-wall-over-film-role-12153441",
+      "source": "Entertainment Weekly",
+      "reason": "título muito semelhante a matéria já cadastrada",
+      "existing_id": "5ae86347-7a0f-40be-a44f-d6d35159e4df",
+      "existing_title": "Andy Griffith pinned Elia Kazan ‘against the wall’ to demand “A Face in the Crowd ”role, “Matlock” star says"
     },
     {
       "title": "Oliver Hudson admits ‘fear of failure’ on “Special Forces” because of family who’ve done ‘incredible things’",
@@ -1289,6 +1284,14 @@
       "reason": "título muito semelhante a matéria já cadastrada",
       "existing_id": "ef4fe0e7-be6b-4bcc-af83-0955b8670f65",
       "existing_title": "Exclusive Riftbound card reveals feature a princely League of Legends champion all about gear"
+    },
+    {
+      "title": "CD Projekt Red Says It&#039;s Working On Fixes For Witcher 3 Remastered",
+      "url": "https://nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+      "source": "Nintendo Life",
+      "reason": "título muito semelhante a matéria já cadastrada",
+      "existing_id": "c36c77ca-c985-481f-b999-dda008b36488",
+      "existing_title": "CD Projekt Red Says It&#039;s Working On Fixes For Witcher 3 Remastered"
     },
     {
       "title": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
