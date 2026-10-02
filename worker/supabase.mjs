@@ -1,4 +1,4 @@
-// Feed público com deduplicação final por URL e título. Alteração de versão para forçar a reconstrução do latest.json.
+// Pipeline estável: preservar datas do RSS e suportar cache local de imagens.
 const SUPABASE_URL = process.env.SUPABASE_URL;
 const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 
@@ -59,25 +59,27 @@ function isDuplicatePublicArticle(article, existing) {
 }
 
 export async function getSources() { return request('sources?active=eq.true&select=*') || []; }
-export async function findArticleByUrl(url) { const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id,title,image_url,original_url&limit=1`) || []; return rows[0] || null; }
+export async function findArticleByUrl(url) { const rows = await request(`articles?original_url=eq.${encodeURIComponent(url)}&select=id,title,image_url,cached_image_url,original_url,published_at,created_at,status&limit=1`) || []; return rows[0] || null; }
 export async function findArticleByTitle(title) { const rows = await request(`articles?title=eq.${encodeURIComponent(title)}&select=id,title,image_url,original_url&limit=1`) || []; return rows[0] || null; }
-export async function getRecentArticleTitles(limit = 500) { return request(`articles?select=id,title,original_url,image_url&order=created_at.desc&limit=${limit}`) || []; }
-export async function updateArticleImage(id, image_url) { await request(`articles?id=eq.${encodeURIComponent(id)}`, { method: 'PATCH', headers: { Prefer: 'return=minimal' }, body: JSON.stringify({ image_url, updated_at: new Date().toISOString() }) }); }
+export async function getRecentArticleTitles(limit = 1000) { return request(`articles?select=id,title,original_url,image_url,cached_image_url,published_at,created_at,status&order=created_at.desc&limit=${limit}`) || []; }
+export async function updateArticleImage(id, image_url, published_at = null) { const data={image_url,updated_at:new Date().toISOString()}; if(published_at)data.published_at=published_at; await request(`articles?id=eq.${encodeURIComponent(id)}`,{method:'PATCH',headers:{Prefer:'return=minimal'},body:JSON.stringify(data)}); }
 export async function insertArticle(item) {
   const slug = `${item.title.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 80)}-${Date.now()}`;
-  const rows = await request('articles', { method: 'POST', headers: { Prefer: 'return=representation' }, body: JSON.stringify({ title: item.title, slug, summary: item.summary || null, original_language: item.language || 'en', original_url: item.url, image_url: item.image_url || null, status: 'draft', verification_level: 'single_source' }) });
+  const rows = await request('articles', { method: 'POST', headers: { Prefer: 'return=representation' }, body: JSON.stringify({ title: item.title, slug, summary: item.summary || null, original_language: item.language || 'en', original_url: item.url, image_url: item.image_url || null, published_at: item.published_at || null, status: 'draft', verification_level: 'single_source' }) });
   if (!Array.isArray(rows) || !rows[0]) throw new Error('Supabase não retornou o artigo criado.');
   return rows[0];
 }
 export async function attachSource(articleId, sourceId, title, url) { await request('article_sources', { method: 'POST', headers: { Prefer: 'resolution=ignore-duplicates' }, body: JSON.stringify({ article_id: articleId, source_id: sourceId, source_title: title, source_url: url }) }); }
-export async function getDraftArticles(limit = 8) { return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,image_url,created_at&order=created_at.asc&limit=${limit}`) || []; }
+export async function getDraftArticles(limit = 8, order = 'asc') { const dir=order==='desc'?'desc':'asc'; return request(`articles?status=eq.draft&select=id,title,summary,original_language,original_url,image_url,cached_image_url,published_at,created_at&order=created_at.${dir}&limit=${limit}`) || []; }
 export async function getShortReviewArticles(limit = 5) { return request(`articles?status=eq.review&content=not.is.null&select=id,title,summary,original_language,original_url,image_url,created_at,content&order=created_at.desc&limit=50`).then(rows => (rows || []).filter(article => (article.content || '').length < 1800).slice(0, limit)); }
+export async function updateCachedImageUrl(id,cached_image_url){await request(`articles?id=eq.${encodeURIComponent(id)}`,{method:'PATCH',headers:{Prefer:'return=minimal'},body:JSON.stringify({cached_image_url,updated_at:new Date().toISOString()})});}
+export async function updateArticlePublishedAt(id,published_at){await request(`articles?id=eq.${encodeURIComponent(id)}`,{method:'PATCH',headers:{Prefer:'return=minimal'},body:JSON.stringify({published_at,updated_at:new Date().toISOString()})});}
 export async function updateArticle(id, data) { await request(`articles?id=eq.${encodeURIComponent(id)}`, { method: 'PATCH', headers: { Prefer: 'return=minimal' }, body: JSON.stringify({ ...data, updated_at: new Date().toISOString() }) }); }
 export async function getCategoryByName(name) { const rows = await request(`categories?name=eq.${encodeURIComponent(name)}&select=id,name&limit=1`) || []; return rows[0] || null; }
 export async function attachCategory(articleId, categoryId) { await request('article_categories', { method: 'POST', headers: { Prefer: 'resolution=ignore-duplicates' }, body: JSON.stringify({ article_id: articleId, category_id: categoryId }) }); }
 
 export async function getPublishedArticles(limit = 1000) {
-  const articles = await request(`articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=${limit}`) || [];
+  const articles = await request(`articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,verification_level,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=${limit}`) || [];
   if (!articles.length) return [];
   const ids = articles.map(article => article.id);
   const idFilter = `in.(${ids.join(',')})`;

@@ -1,8 +1,9 @@
 import { writeFile } from 'node:fs/promises';
-import { getDraftArticles, getShortReviewArticles, updateArticle, getCategoryByName, attachCategory, getPublishedArticles } from './supabase.mjs';
+import { getDraftArticles, updateArticle, getCategoryByName, attachCategory, getPublishedArticles } from './supabase.mjs';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
+const GEMINI_FALLBACK_MODEL = process.env.GEMINI_FALLBACK_MODEL || 'gemini-3.1-flash-lite';
 if (!GEMINI_API_KEY) throw new Error('GEMINI_API_KEY não está configurada nos secrets do GitHub.');
 
 const categories=['Inteligência Artificial','Smartphones','Computadores','Games','Segurança','Ciência','Espaço','Gadgets','Internet','Cripto','Empresas','História da tecnologia','Curiosidades','Como funciona?'];
@@ -71,7 +72,7 @@ function targetLength(sourceText){
   return 'entre 600 e 1.000 palavras';
 }
 
-async function generate(article){
+async function generateOnce(article,model){
   const sourceText=await fetchOriginalArticle(article.original_url);
   const availableSource=sourceText || `O corpo completo da fonte não pôde ser recuperado automaticamente. Use somente os dados disponíveis abaixo e não invente informações.\n\nTítulo: ${article.title}\nResumo disponível: ${article.summary||'(não informado)'}`;
   const limitedSource=availableSource.slice(0,60000);
@@ -96,8 +97,8 @@ Resumo/descrição coletada: ${article.summary||'(não informado)'}
 
 CORPO RECUPERADO DA FONTE:\n${limitedSource}`;
 
-  const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,{method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.2,maxOutputTokens:8192,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}})});
-  if(!response.ok) throw new Error(`Gemini ${response.status}: ${await response.text()}`);
+  const response=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':GEMINI_API_KEY},body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:0.2,maxOutputTokens:8192,responseMimeType:'application/json',responseSchema,thinkingConfig:{thinkingLevel:'minimal'}}})});
+  if(!response.ok){const error=new Error(`Gemini ${response.status}: ${await response.text()}`);error.status=response.status;throw error;}
   const data=await response.json();
   const candidate=data.candidates?.[0];
   const text=candidate?.content?.parts?.map(p=>p.text||'').join('').trim();
@@ -105,16 +106,17 @@ CORPO RECUPERADO DA FONTE:\n${limitedSource}`;
   return parseJsonText(text);
 }
 
-const drafts=await getDraftArticles(8);
-const shortExisting=await getShortReviewArticles(5);
-const articles=[...new Map([...drafts,...shortExisting].map(article=>[article.id,article])).values()];
+async function generate(article){const models=[...new Set([GEMINI_MODEL,GEMINI_FALLBACK_MODEL])];let last=null;for(const model of models){for(let attempt=1;attempt<=4;attempt++){try{return await generateOnce(article,model);}catch(error){last=error;const retryable=[429,500,502,503,504].includes(error.status);if(!retryable||attempt===4)break;const delay=Math.min(15000,1500*(2**(attempt-1)));console.warn('Gemini '+model+' '+error.status+'; retry em '+delay+' ms');await new Promise(r=>setTimeout(r,delay));}}}throw last||new Error('Falha desconhecida no Gemini.');}
+const newest=await getDraftArticles(30,'desc');
+const oldest=await getDraftArticles(10,'asc');
+const articles=[...new Map([...newest,...oldest].map(article=>[article.id,article])).values()];
 const processed=[];
 
 for(const article of articles){
   try{
     const result=await generate(article);
     if(!result.title || !result.summary || !result.content || !result.why_it_matters || !result.future_outlook || !result.category) throw new Error('Gemini retornou campos obrigatórios incompletos.');
-    await updateArticle(article.id,{title:result.title,summary:result.summary,content:result.content,why_it_matters:result.why_it_matters,future_outlook:result.future_outlook,verification_level:result.verification_level,status:'review',published_at:article.published_at||new Date().toISOString()});
+    await updateArticle(article.id,{title:result.title,summary:result.summary,content:result.content,why_it_matters:result.why_it_matters,future_outlook:result.future_outlook,verification_level:result.verification_level,status:'review',published_at:article.published_at||article.created_at});
     const category=await getCategoryByName(result.category);
     if(category) await attachCategory(article.id,category.id);
     processed.push({id:article.id,title:result.title,category:result.category,status:'review',repaired:article.status==='review'});
@@ -127,6 +129,4 @@ for(const article of articles){
 await writeFile('data/ai-processing-report.json',JSON.stringify({updated_at:new Date().toISOString(),model:GEMINI_MODEL,processed},null,2));
 const published=await getPublishedArticles(1000);
 await writeFile('data/latest.json',JSON.stringify({updated_at:new Date().toISOString(),count:published.length,articles:published},null,2));
-const failures=processed.filter(item=>item.status==='error');
-console.log(`Processadas/reparadas ${processed.filter(item=>item.status==='review').length} notícias. Feed público atualizado com ${published.length} matérias.`);
-if(failures.length) throw new Error(`${failures.length} notícia(s) falharam no processamento. Veja data/ai-processing-report.json.`);
+console.log(`Processadas ${processed.filter(item=>item.status==='review').length} notícias. ${processed.filter(item=>item.status==='error').length} ficaram para a próxima rodada. Feed público atualizado com ${published.length} matérias.`);

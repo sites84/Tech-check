@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'worker/supabase.mjs'
+      - 'worker/**'
+      - '.github/workflows/update-news.yml'
   schedule:
     - cron: '17 * * * *'
 
@@ -35,12 +36,19 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/collect-and-store.mjs
 
+      - name: Corrigir datas de publicação a partir dos RSS
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/repair-published-dates.mjs
+
       - name: Processar notícias com Gemini
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.1-flash-lite
+          GEMINI_MODEL: gemini-3.5-flash-lite
+          GEMINI_FALLBACK_MODEL: gemini-3.1-flash-lite
         run: node worker/process-ai.mjs
 
       - name: Consolidar categorias
@@ -90,7 +98,7 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
 
-          git add data/collection-report.json data/ai-processing-report.json data/latest.json data/seo-report.json data/history-today.json sitemap.xml robots.txt noticias assets/news page
+          git add data sitemap.xml robots.txt noticias assets/news page
 
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."

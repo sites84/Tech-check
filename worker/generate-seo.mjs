@@ -1,4 +1,4 @@
-import { mkdir, rm, writeFile } from 'node:fs/promises';
+import { mkdir, rm, rename, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { createRequire } from 'node:module';
 
@@ -46,20 +46,8 @@ function jsonLd(article, url, imageUrl) {
   if (imageUrl) data.image = [imageUrl];
   return JSON.stringify(data).replace(/</g, '\\u003c');
 }
-async function optimizeImage(article, sharp) {
-  if (!article.image_url) return null;
-  const base = slugify(article.slug || article.title || article.id) || article.id;
-  const relative = `${IMAGE_DIR}/${base}.webp`;
-  try {
-    const response = await fetch(article.image_url, { headers: { 'User-Agent': 'Tech-Check/1.0 image optimizer' }, signal: AbortSignal.timeout(15000) });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const input = Buffer.from(await response.arrayBuffer());
-    const result = await sharp(input, { failOn: 'none' }).resize({ width: 1280, withoutEnlargement: true }).webp({ quality: 82, effort: 4 }).toBuffer({ resolveWithObject: true });
-    await writeFile(join(process.cwd(), relative), result.data);
-    const meta = await sharp(result.data).metadata();
-    return { url: `${SITE_URL}/${relative}`, width: meta.width || 1280, height: meta.height || 720 };
-  } catch (error) { console.warn(`Imagem não otimizada para ${article.id}: ${error.message}`); return null; }
-}
+async function fetchOgImage(url){try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech-Check image metadata'},signal:AbortSignal.timeout(8000)});if(!r.ok)return '';const html=await r.text();for(const p of [/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>/i,/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["'][^>]*>/i,/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["'][^>]*>/i]){const x=html.match(p)?.[1];if(x){try{return new URL(x,url).href}catch{}}}}catch{}return '';}
+async function optimizeImage(article, sharp) { if(!article.image_url&&!article.cached_image_url)return null; const base=slugify(article.slug||article.title||article.id)||article.id; const relative=IMAGE_DIR+'/'+base+'.webp'; const sources=[article.image_url]; if(article.original_url){const og=await fetchOgImage(article.original_url);if(og)sources.push(og);} for(const source of [...new Set(sources.filter(Boolean))]){try{const response=await fetch(source,{headers:{'User-Agent':'Mozilla/5.0 Tech-Check image optimizer'},signal:AbortSignal.timeout(15000)});if(!response.ok)throw Error('HTTP '+response.status);const input=Buffer.from(await response.arrayBuffer());const result=await sharp(input,{failOn:'none'}).resize({width:1280,withoutEnlargement:true}).webp({quality:82,effort:4}).toBuffer({resolveWithObject:true});await writeFile(join(process.cwd(),relative),result.data);const meta=await sharp(result.data).metadata();return {url:SITE_URL+'/'+relative,width:meta.width||1280,height:meta.height||720};}catch(error){console.warn('Imagem não otimizada para '+article.id+' usando '+source+': '+error.message);}} return null; }
 function relatedArticles(article, articles, categoryMap, articleCategory) {
   const tokens = [...titleTokens(`${article.title} ${article.summary || ''}`)];
   const scored = articles.filter(a => a.id !== article.id).map(a => {
@@ -76,7 +64,7 @@ function relatedHtml(items) {
 }
 
 async function main() {
-  const rawArticles = await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
+  const rawArticles = await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
   const categoryLinks = await api('article_categories?select=article_id,category_id');
   const categories = await api('categories?select=id,name');
   const sources = await api('article_sources?select=article_id,source_title,source_url');
@@ -92,9 +80,7 @@ async function main() {
   }
   let sharp; try { sharp = require(process.env.SHARP_PATH || 'sharp'); } catch { console.warn('sharp não disponível; usando imagens originais.'); }
 
-  await rm('noticias', { recursive: true, force: true });
-  await rm(IMAGE_DIR, { recursive: true, force: true });
-  await mkdir(IMAGE_DIR, { recursive: true });
+  const nextNoticias='noticias-next'; await rm(nextNoticias,{recursive:true,force:true}); await mkdir(nextNoticias,{recursive:true}); await mkdir(IMAGE_DIR,{recursive:true});
   const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">', `<url><loc>${SITE_URL}/</loc><changefreq>hourly</changefreq><priority>1.0</priority></url>`];
   let generated = 0; let optimized = 0;
 
@@ -104,8 +90,8 @@ async function main() {
     const category = articleCategory.get(article.id) || 'Tecnologia';
     const source = sourceMap.get(article.id) || {};
     const image = sharp ? await optimizeImage(article, sharp) : null;
-    if (image) optimized++;
-    const imageUrl = image?.url || article.image_url || '';
+    if (image) { optimized++; article.cached_image_url=imageForCache(article); try{await fetch(SUPABASE_URL+'/rest/v1/articles?id=eq.'+encodeURIComponent(article.id),{method:'PATCH',headers:{...headers,'Content-Type':'application/json','Prefer':'return=minimal'},body:JSON.stringify({cached_image_url:article.cached_image_url,updated_at:new Date().toISOString()})});}catch(e){console.warn('Cache de imagem não salvo: '+e.message);} }
+    const imageUrl = image?.url || article.cached_image_url || article.image_url || '';
     const body = markdownToHtml(article.content || '');
     const related = relatedArticles(article, articles, categoryMap, articleCategory).map(a => ({ ...a, category: articleCategory.get(a.id) || 'Tecnologia' }));
     const readAlso = relatedHtml(related);
@@ -116,12 +102,13 @@ async function main() {
     const sourceHtml = source.source_url ? `<p class="source"><strong>Fonte original:</strong> <a href="${esc(source.source_url)}" rel="nofollow noopener noreferrer" target="_blank">${esc(source.source_title || source.source_url)}</a></p>` : '';
     const dateText = new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(published));
     const html = `<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(article.title)} | Tech Check</title><meta name="description" content="${esc((article.summary || article.title).slice(0, 160))}"><link rel="canonical" href="${url}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:type" content="article"><meta property="og:site_name" content="Tech Check"><meta property="og:locale" content="pt_BR"><meta property="og:title" content="${esc(article.title)}"><meta property="og:description" content="${esc(article.summary || article.title)}"><meta property="og:url" content="${url}">${imageUrl ? `<meta property="og:image" content="${esc(imageUrl)}"><meta property="og:image:alt" content="${esc(article.title)}">` : ''}<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(article.title)}"><meta name="twitter:description" content="${esc(article.summary || article.title)}">${imageUrl ? `<meta name="twitter:image" content="${esc(imageUrl)}">` : ''}<script type="application/ld+json">${jsonLd(article,url,imageUrl)}</script><link rel="stylesheet" href="../../styles.css"><link rel="stylesheet" href="../../article-page.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="../../">TECH<span>CHECK</span></a><nav aria-label="Navegação principal"><a href="../../#ultimas">Últimas</a><a href="../../#categorias">Categorias</a><a href="../../#curiosidades">Curiosidades</a><a href="../../#historia">História</a></nav></div></header><main class="article-page container"><a class="back-link" href="../../">← Voltar para as notícias</a><article><p class="eyebrow">${esc(category)} · ${dateText}</p><h1>${esc(article.title)}</h1>${imageHtml}<p class="article-lead">${esc(article.summary || '')}</p><div class="article-body">${body}${readAlso}</div>${why}${outlook}${sourceHtml}</article></main></body></html>`;
-    await mkdir(`noticias/${slug}`, { recursive: true });
-    await writeFile(`noticias/${slug}/index.html`, html);
+    await mkdir(`${nextNoticias}/${slug}`, { recursive: true });
+    await writeFile(`${nextNoticias}/${slug}/index.html`, html);
     const lastmod = new Date(article.updated_at || published).toISOString();
     sitemap.push(`<url><loc>${url}</loc><lastmod>${lastmod}</lastmod><changefreq>daily</changefreq><priority>0.8</priority>${imageUrl ? `<image:image><image:loc>${esc(imageUrl)}</image:loc><image:title>${esc(article.title)}</image:title></image:image>` : ''}</url>`);
     generated++;
   }
+  await rm('noticias',{recursive:true,force:true}); await rename(nextNoticias,'noticias');
   sitemap.push('</urlset>');
   await writeFile('sitemap.xml', sitemap.join('\n'));
   await writeFile('robots.txt', `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
