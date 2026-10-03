@@ -75,6 +75,12 @@ jobs:
           mkdir -p .seo-tools
           npm install --prefix .seo-tools --no-save sharp@0.33.5
           node worker/generate-seo-stable.mjs
+      - name: Adicionar fotos e vídeos das fontes originais
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/add-original-media.mjs
       - name: Reparar páginas de matérias ausentes
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
