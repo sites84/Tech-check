@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-03T01:27:22.758Z",
+  "updated_at": "2026-10-03T02:05:04.070Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
+    {
+      "id": "e469a739-b4bc-4205-ae1d-a220e25e7109",
+      "title": "O retorno triunfal de Gargoyles nos quadrinhos da Dynamite Entertainment",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "cf210141-9f8d-47b6-b27f-75881ee18308",
+      "title": "It's Officially The End Of An Era For Peaky Blinders",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "283228ac-6f26-4cef-b56e-f555cc793c02",
+      "title": "Há 16 anos, Prison Break substituiu Michael Scofield e reescreveu a primeira temporada",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9267bc78-21b5-4957-b7cc-55e173237112",
+      "title": "3 Best Movies To Watch On Prime Video This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "e7326615-9ba6-4ba2-b27a-6e002d026a5d",
+      "title": "Ghosts: Every Power The Spirits At The Woodstone Mansion Have Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
     {
       "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
       "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
@@ -21,12 +51,6 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "4cb46ecb-de1c-4c47-bbab-44b7624c63e0",
-      "title": "Resident Evil Requiem ganha evento ao vivo e imersivo no Universal Studios Japan",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7",
       "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
       "status": "error",
@@ -39,52 +63,16 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "4f495a02-e33a-45df-be22-b4dd9b2ab452",
-      "title": "Senador Bernie Sanders apresenta projeto de lei para banir uso de leitores de placas pela inteligência federal",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "6e3022aa-5505-4ac7-bf9a-736cf5ac1c6a",
-      "title": "Meta aposta no código aberto e quer que desenvolvedores criem seus próprios dispositivos com o agente de IA Muse",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
       "id": "918a5790-2f0b-4ba7-91fc-90742c7fd433",
-      "title": "Netflix’s 12-Part Horror Is the Scariest Zombie Thriller of the Past Decade",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Por Que All of Us Are Dead Continua Sendo o Thriller Zumbi Mais Impactante da Netflix Anos Apos a Estreia",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "f88b2740-c4ff-4c76-9f2e-f51f8b212588",
       "title": "Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "4b95d8c3-0c71-42c1-960c-73041838f04d",
-      "title": "Estrela de 'Celebrity Traitors', Richard E. Grant revela por acidente que é um traidor logo na estreia",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "209a704c-4812-4fd7-9ee7-ae5e9e03fb93",
-      "title": "Franquia BrokenLore Apresenta Nova Antagonista: Uma Assistente de Inteligência Artificial em Estilo Anime",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "43666821-8308-4966-8edb-2a9a0b29ca47",
-      "title": "Simulação de paciente zero em Nova York revela falhas graves em unidades de saúde",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "f365c322-b394-4d28-aad6-9fb6c8348ae7",
-      "title": "Melhores ofertas antecipadas de fones de ouvido para o Prime Day de outubro",
-      "category": "Smartphones",
-      "status": "review"
     },
     {
       "id": "dcf283c4-e0e2-4b2b-865c-f7bd28e7fcab",
@@ -97,12 +85,6 @@
       "title": "10 Biggest Questions Ahead Of Ted Lasso Season 4 Finale",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "31e8b52d-3035-4f74-a604-10b957022faa",
-      "title": "Quarenta e cinco anos depois, a clássica perseguição de caminhão de Os Caçadores da Arca Perdida continua incomparável",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "eb962f7b-b223-433d-8c72-227bec8c5753",
@@ -123,16 +105,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "57780934-b6f6-4007-9224-796243f95bc2",
-      "title": "7 Obras-Primas da Fantasia Onde Cada Capítulo é Perfeito",
+      "id": "eb6b1ec0-698d-4098-aac5-494d30857334",
+      "title": "As 5 Melhores Séries de Crime que Tornam Cada Suspeito Culpado",
       "category": "Filmes, Séries e Animações",
       "status": "review"
-    },
-    {
-      "id": "eb6b1ec0-698d-4098-aac5-494d30857334",
-      "title": "5 Crime Shows That Make Every Suspect Look Guilty",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
@@ -141,45 +117,69 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "eca5dac0-3040-402f-ac90-bc2c63712a69",
-      "title": "Melhores ofertas de Apple Watch no Prime Day de outubro de 2026",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "93783dd0-2441-4be4-b90b-4ca6d970c6e6",
-      "title": "MacBook Air com chip M5 recebe desconto de US$ 150 em oferta especial",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "d7f7124e-a37e-459b-900f-27d8d6f4fa24",
-      "title": "Guia de Ofertas dos AirPods no Prime Day de Outubro de 2026: O que Vale a Pena Comprar",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "09850449-225d-4524-b43e-e4a9551cc711",
-      "title": "Atualizações do Apple TV: Guia Completo com Lançamentos, Preços e Catálogo",
+      "id": "7db1c45c-9025-47aa-a834-dc511db2de07",
+      "title": "‘Questão de Honra’ ganha nova versão na Broadway com Aaron Sorkin e Bradley Whitford",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "20388bfa-0baa-4afc-bb55-d4e01167aa4d",
-      "title": "O Futuro do Apple TV: Guia Completo com Séries, Filmes e Lançamentos",
+      "id": "072e08ec-2192-4f31-aa75-3e5b0947903b",
+      "title": "&#8216;The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries &#038; Platino Industria (EXCLUSIVE)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "ea5c781f-b7ef-466c-8b4f-850c4269d0eb",
+      "title": "Alison Hammond, apresentadora do The Great British Bake Off, tranquiliza fãs após susto com palpitações cardíacas ao vivo na TV britânica",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "5048c8c3-0e1f-4087-93ae-33861c1399f2",
-      "title": "CBS Sports e Tony Romo encerram parceria após incidente de intoxicação na pré-temporada",
-      "category": "Empresas",
+      "id": "f4b167d0-9c90-471f-830d-2b99f0b7b5ef",
+      "title": "&#8216;Lady&#8217; Review: Sian Clifford Lords It Over a Daffy English Class Satire",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "8e9c18ad-658c-4cb8-a9be-5e09de7f81c0",
+      "title": "Pai do PlayStation afirma que os jogos estagnaram e cobra mais curiosidade dos desenvolvedores",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "78672807-295f-448c-a7d0-935dbfa6d3fb",
-      "title": "A Transformação da Madison Avenue: Marqueteiros Enfrentam Grandes Desafios para Alcançar Consumidores Elusivos",
-      "category": "Empresas",
+      "id": "e8cff3f0-0077-45b5-8575-249738be56a6",
+      "title": "Desenvolvedora de PixelJunk colaborou na impressionante tecnologia de nuvens de Ace Combat 8",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "3f606aeb-7cea-46cd-a08a-0d6a6bbeb47e",
+      "title": "Lista de troféus de Toy Story 3 Complete Edition no PS5 traz novidades e mantém essência do original",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "5754ccab-38f7-4878-8376-f55c29151bb5",
+      "title": "Sony atualiza discretamente o hardware do PS5 base com melhorias internas",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "39220191-af7a-4e54-9263-918db06f671f",
+      "title": "GTA 6 confirma uso de drogas, nudez e fetiches sexuais em suas descrições de classificação indicativa",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "493a126e-54da-4c1f-bb8b-a0a44330b2b1",
+      "title": "Nickelodeon Anuncia a Programação Especial 'Nicktober Hallo-scream' para o Halloween",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "6316bd17-5389-4286-a528-96f0a517f3fd",
+      "title": "Paramount e Warner Bros. serão sub-marcas sob a Skydance, afirma David Ellison",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
@@ -213,34 +213,34 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "98e60c44-2bce-4b17-817a-f382295731a5",
-      "title": "Amazon anuncia linha renovada de leitores Kindle com modelos coloridos e novos acessórios oficiais",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "89509074-fc84-490c-812c-9f2964aaa559",
-      "title": "Apple Watch Series 11 ganha desconto raro de 13% na Target e fica mais barato que a nova geração",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "84bf1895-a42d-421f-aeb9-92ba64d68ff7",
-      "title": "Shark SpeedStyle Flex Pro atinge menor preço histórico com desconto de 40% na Amazon",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "36fc569e-d587-4b9a-86a3-0d4e1abcb728",
-      "title": "Amazon Prime Big Deal Days: Melhores ofertas antecipadas de outubro de 2026",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "892ea475-e321-4765-a29d-d05453005d69",
       "title": "Pete Davidson is talking exes, Ye, influencers, and AI. Naturally, the internet has thoughts.",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Entretenimento"
+    },
+    {
+      "id": "5240020d-123d-420d-85e8-349c9d4be1aa",
+      "title": "Investidor de 'A Grande Aposta' torce por quebra no mercado para barrar IPOs de OpenAI e Anthropic",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "5a4ccdd1-fe23-402e-b684-e748067b37c7",
+      "title": "Nvidia lança atualização de segurança para placas de vídeo GeForce das séries GTX 700, 900 e 10",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "42280623-05e3-4c45-b477-a2a8b5eeb83b",
+      "title": "Robôs humanoides podem manter os preços da memória RAM elevados, avalia a Micron",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "d5be38ce-2846-445e-a1ba-80ddca59acc5",
+      "title": "HP entra na disputa com os novos notebooks OmniBook 5 coloridos a partir de US$ 699",
+      "category": "Computadores",
+      "status": "review"
     }
   ]
 }
