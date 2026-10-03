@@ -4,109 +4,26 @@ const SUPABASE_URL = process.env.SUPABASE_URL;
 const KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 const SITE_URL = 'https://sites84.github.io/Tech-check';
 if (!SUPABASE_URL || !KEY) throw new Error('Supabase env ausente');
-
-const headers = {
-  apikey: KEY,
-  Authorization: `Bearer ${KEY}`,
-  'Content-Type': 'application/json'
-};
-
-async function api(path) {
-  const r = await fetch(`${SUPABASE_URL}/rest/v1/${path}`, { headers });
-  const text = await r.text();
-  if (!r.ok) throw new Error(`${r.status}: ${text.slice(0, 300)}`);
-  return text ? JSON.parse(text) : [];
+const headers = { apikey: KEY, Authorization: `Bearer ${KEY}`, 'Content-Type': 'application/json' };
+async function api(path, options = {}) { const r = await fetch(`${SUPABASE_URL}/rest/v1/${path}`, { headers, ...options }); const text = await r.text(); if (!r.ok) throw new Error(`${r.status}: ${text.slice(0,300)}`); return text ? JSON.parse(text) : []; }
+function esc(value=''){return String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function slugify(v=''){return String(v).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/&/g,' e ').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').slice(0,90);}
+function markdown(value=''){const lines=String(value).replace(/\r\n?/g,'\n').trim().split('\n');const out=[];let paragraph=[],list=[];const fp=()=>{if(paragraph.length){out.push(`<p>${esc(paragraph.join(' ')).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}</p>`);paragraph=[]}},fl=()=>{if(list.length){out.push(`<ul>${list.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);list=[]}};for(const raw of lines){const line=raw.trim();if(!line){fp();fl();continue}const h=line.match(/^#{2,3}\s+(.+)/);if(h){fp();fl();out.push(`<h2>${esc(h[1])}</h2>`);continue}if(/^[-*]\s+/.test(line)){fp();list.push(line.replace(/^[-*]\s+/,''));continue}if(/^\d+[.)]\s+/.test(line)){fp();list.push(line.replace(/^\d+[.)]\s+/,''));continue}fl();paragraph.push(line)}fp();fl();return out.join('\n')||'<p>Conteúdo ainda não disponível.</p>';}
+function dateText(value){if(!value)return'Agora';const d=new Date(value);if(Number.isNaN(d.getTime()))return'Agora';return new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(d);}
+async function exists(path){try{await access(path);return true}catch{return false}}
+async function main(){
+ const articles=await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
+ const links=await api('article_categories?select=article_id,category_id'); const categories=await api('categories?select=id,name'); const sources=await api('article_sources?select=article_id,source_title,source_url');
+ const categoryMap=new Map(categories.map(x=>[x.id,x.name])); const articleCategory=new Map(links.map(x=>[x.article_id,categoryMap.get(x.category_id)||'Tecnologia'])); const sourceMap=new Map(sources.map(x=>[x.article_id,x]));
+ await mkdir('noticias',{recursive:true}); const used=new Set(articles.map(a=>String(a.slug||'').trim()).filter(Boolean)); let created=0,existing=0,failed=0,slugCreated=0;
+ for(const a of articles){try{
+   let slug=String(a.slug||'').trim();
+   if(!slug){const base=slugify(a.title)||`artigo-${String(a.id).slice(0,8)}`;slug=base;let n=2;while(used.has(slug))slug=`${base}-${n++}`;used.add(slug);await api(`articles?id=eq.${encodeURIComponent(a.id)}`,{method:'PATCH',body:JSON.stringify({slug,updated_at:new Date().toISOString()})});a.slug=slug;slugCreated++;console.log(`Slug criado: ${slug}`);}
+   const dir=`noticias/${slug}`,file=`${dir}/index.html`;if(await exists(file)){existing++;continue}
+   const url=`${SITE_URL}/noticias/${encodeURIComponent(slug)}/`;const image=a.cached_image_url||a.image_url||'';const source=sourceMap.get(a.id);const published=a.published_at||a.created_at;const content=a.content||a.summary||'Conteúdo ainda não disponível.';
+   const html=`<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(a.title)} | Tech Check</title><meta name="description" content="${esc((a.summary||a.title||'').slice(0,160))}"><link rel="canonical" href="${url}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:type" content="article"><meta property="og:site_name" content="Tech Check"><meta property="og:title" content="${esc(a.title)}"><meta property="og:description" content="${esc(a.summary||a.title||'')}"><meta property="og:url" content="${url}">${image?`<meta property="og:image" content="${esc(image)}">`:''}<meta name="twitter:card" content="summary_large_image">${image?`<meta name="twitter:image" content="${esc(image)}">`:''}<link rel="stylesheet" href="../../styles.css"><link rel="stylesheet" href="../../article-page.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="../../">TECH<span>CHECK</span></a><nav><a href="../../">Início</a><a href="../../#categorias">Categorias</a><a href="../../#curiosidades">Curiosidades</a><a href="../../#historia">História</a></nav></div></header><main class="article-page container"><a class="back-link" href="../../">← Voltar para as notícias</a><article><p class="eyebrow">${esc(articleCategory.get(a.id)||'Tecnologia')} · ${dateText(published)}</p><h1>${esc(a.title)}</h1>${image?`<img class="article-hero-image" src="${esc(image)}" alt="${esc(a.title)}" loading="eager" decoding="async">`:''}<p class="article-lead">${esc(a.summary||'')}</p><div class="article-body">${markdown(content)}</div>${a.why_it_matters?`<section class="article-extra"><h2>Por que isso importa</h2><p>${esc(a.why_it_matters)}</p></section>`:''}${a.future_outlook?`<section class="article-extra"><h2>O que pode acontecer no futuro</h2><p>${esc(a.future_outlook)}</p></section>`:''}${source?`<p class="source"><strong>Fonte original:</strong> <a href="${esc(source.source_url||a.original_url||'#')}" rel="nofollow noopener noreferrer" target="_blank">${esc(source.source_title||source.source_url||'Abrir fonte')}</a></p>`:''}</article></main></body></html>`;
+   await mkdir(dir,{recursive:true});await writeFile(file,html);created++;console.log(`Página reparada: ${slug}`);
+ }catch(error){failed++;console.error(`Falha ao reparar ${a.id}: ${error.message}`)}}
+ const report={updated_at:new Date().toISOString(),created,existing,failed,slug_created:slugCreated,total_articles:articles.length};await mkdir('data',{recursive:true});await writeFile('data/missing-pages-repair-report.json',JSON.stringify(report,null,2));console.log(`Reparo de páginas: ${created} criadas, ${existing} já existiam, ${slugCreated} slugs criados, ${failed} falhas.`);if(failed>0)throw new Error(`A validação encontrou ${failed} matérias que não puderam receber página individual.`);
 }
-
-function esc(value = '') {
-  return String(value).replace(/[&<>"']/g, c => ({
-    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
-  }[c]));
-}
-
-function markdown(value = '') {
-  const lines = String(value).replace(/\r\n?/g, '\n').trim().split('\n');
-  const out = [];
-  let paragraph = [];
-  let list = [];
-  const flushParagraph = () => {
-    if (paragraph.length) {
-      out.push(`<p>${esc(paragraph.join(' ')).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`);
-      paragraph = [];
-    }
-  };
-  const flushList = () => {
-    if (list.length) {
-      out.push(`<ul>${list.map(x => `<li>${esc(x)}</li>`).join('')}</ul>`);
-      list = [];
-    }
-  };
-  for (const raw of lines) {
-    const line = raw.trim();
-    if (!line) { flushParagraph(); flushList(); continue; }
-    const heading = line.match(/^#{2,3}\s+(.+)/);
-    if (heading) { flushParagraph(); flushList(); out.push(`<h2>${esc(heading[1])}</h2>`); continue; }
-    if (/^[-*]\s+/.test(line)) { flushParagraph(); list.push(line.replace(/^[-*]\s+/, '')); continue; }
-    if (/^\d+[.)]\s+/.test(line)) { flushParagraph(); list.push(line.replace(/^\d+[.)]\s+/, '')); continue; }
-    flushList(); paragraph.push(line);
-  }
-  flushParagraph();
-  flushList();
-  return out.join('\n') || '<p>Conteúdo ainda não disponível.</p>';
-}
-
-function dateText(value) {
-  if (!value) return 'Agora';
-  const d = new Date(value);
-  if (Number.isNaN(d.getTime())) return 'Agora';
-  return new Intl.DateTimeFormat('pt-BR', {
-    day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit'
-  }).format(d);
-}
-
-async function exists(path) {
-  try { await access(path); return true; } catch { return false; }
-}
-
-async function main() {
-  const articles = await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
-  const links = await api('article_categories?select=article_id,category_id');
-  const categories = await api('categories?select=id,name');
-  const sources = await api('article_sources?select=article_id,source_title,source_url');
-  const categoryMap = new Map(categories.map(x => [x.id, x.name]));
-  const articleCategory = new Map(links.map(x => [x.article_id, categoryMap.get(x.category_id) || 'Tecnologia']));
-  const sourceMap = new Map(sources.map(x => [x.article_id, x]));
-
-  await mkdir('noticias', { recursive: true });
-  let created = 0, existing = 0, failed = 0;
-
-  for (const a of articles) {
-    try {
-      const slug = String(a.slug || '').trim();
-      if (!slug) { failed++; console.warn(`Sem slug: ${a.id}`); continue; }
-      const dir = `noticias/${slug}`;
-      const file = `${dir}/index.html`;
-      if (await exists(file)) { existing++; continue; }
-
-      const url = `${SITE_URL}/noticias/${encodeURIComponent(slug)}/`;
-      const image = a.cached_image_url || a.image_url || '';
-      const source = sourceMap.get(a.id);
-      const published = a.published_at || a.created_at;
-      const content = a.content || a.summary || 'Conteúdo ainda não disponível.';
-      const html = `<!doctype html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(a.title)} | Tech Check</title><meta name="description" content="${esc((a.summary || a.title || '').slice(0,160))}"><link rel="canonical" href="${url}"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:type" content="article"><meta property="og:site_name" content="Tech Check"><meta property="og:title" content="${esc(a.title)}"><meta property="og:description" content="${esc(a.summary || a.title || '')}"><meta property="og:url" content="${url}">${image ? `<meta property="og:image" content="${esc(image)}">` : ''}<meta name="twitter:card" content="summary_large_image">${image ? `<meta name="twitter:image" content="${esc(image)}">` : ''}<link rel="stylesheet" href="../../styles.css"><link rel="stylesheet" href="../../article-page.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="../../">TECH<span>CHECK</span></a><nav><a href="../../">Início</a><a href="../../#categorias">Categorias</a><a href="../../#curiosidades">Curiosidades</a><a href="../../#historia">História</a></nav></div></header><main class="article-page container"><a class="back-link" href="../../">← Voltar para as notícias</a><article><p class="eyebrow">${esc(articleCategory.get(a.id) || 'Tecnologia')} · ${dateText(published)}</p><h1>${esc(a.title)}</h1>${image ? `<img class="article-hero-image" src="${esc(image)}" alt="${esc(a.title)}" loading="eager" decoding="async">` : ''}<p class="article-lead">${esc(a.summary || '')}</p><div class="article-body">${markdown(content)}</div>${a.why_it_matters ? `<section class="article-extra"><h2>Por que isso importa</h2><p>${esc(a.why_it_matters)}</p></section>` : ''}${a.future_outlook ? `<section class="article-extra"><h2>O que pode acontecer no futuro</h2><p>${esc(a.future_outlook)}</p></section>` : ''}${source ? `<p class="source"><strong>Fonte original:</strong> <a href="${esc(source.source_url || a.original_url || '#')}" rel="nofollow noopener noreferrer" target="_blank">${esc(source.source_title || source.source_url || 'Abrir fonte')}</a></p>` : ''}</article></main></body></html>`;
-      await mkdir(dir, { recursive: true });
-      await writeFile(file, html);
-      created++;
-      console.log(`Página reparada: ${slug}`);
-    } catch (error) {
-      failed++;
-      console.error(`Falha ao reparar ${a.id}: ${error.message}`);
-    }
-  }
-
-  await mkdir('data', { recursive: true });
-  await writeFile('data/missing-pages-repair-report.json', JSON.stringify({ updated_at: new Date().toISOString(), created, existing, failed }, null, 2));
-  console.log(`Reparo de páginas: ${created} criadas, ${existing} já existiam, ${failed} falhas.`);
-}
-
 await main();
