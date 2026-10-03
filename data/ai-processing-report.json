@@ -1,18 +1,30 @@
 {
-  "updated_at": "2026-10-03T07:29:19.225Z",
+  "updated_at": "2026-10-03T07:35:14.170Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "b67d250e-ff1f-4a41-b3ab-33ec472cfcdb",
-      "title": "Como assistir à partida entre Índia e Brasil ao vivo e de graça",
-      "category": "Games",
+      "id": "3b690290-8235-4e35-a21f-64b31ba66ecc",
+      "title": "Guia de Ofertas Apple para o October Prime Day: O que comprar agora e o que esperar",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "80e71fe2-2772-4a21-986d-2605291bda98",
+      "title": "Estações de energia portátil ganham descontos antecipados para o Prime Day",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "554bbab2-cf3e-431f-baea-f64f018af9e5",
+      "title": "Fim da oferta totalmente gratuita da T-Mobile para o iPhone 18 Pro: veja como economizar US$ 1.000",
+      "category": "Smartphones",
       "status": "review"
     },
     {
       "id": "877e5f0d-a27a-4e30-a994-e752646b3e22",
-      "title": "Admit It, Paramount's 10-Part The Godfather Series Is Better Than The Godfather Part III",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "title": "Por que a minissérie de 2022 \"The Offer\" supera o filme \"O Poderoso Chefão: Parte III\"",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "9272919b-8f9b-413f-9ae9-9f683c33fb9c",
@@ -40,9 +52,9 @@
     },
     {
       "id": "57031fbf-d85b-41e7-8dda-6dedffcff042",
-      "title": "Disney+'s 24-Episode Sci-Fi Series Deserves Kudos For Breaking The Rules",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Por que a série Andor merece crédito por quebrar todas as regras do universo Star Wars",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "9267bc78-21b5-4957-b7cc-55e173237112",
@@ -64,9 +76,9 @@
     },
     {
       "id": "72659db8-e7f9-4769-94ae-95aecfc9a450",
-      "title": "Pedro Pascal’s First Movie After Mandalorian & Grogu Debuts To Stellar Rotten Tomatoes Score",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "title": "Behemoth!, novo filme de Pedro Pascal dirigido por Tony Gilroy, estreia com ótima avaliação no Rotten Tomatoes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
@@ -129,40 +141,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "4ed88676-fdd7-4b2a-869c-701eca3217c6",
-      "title": "Disney revela primeira imagem e teaser de Messi and the Giants na SDCC Málaga",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "97d78825-3311-4f43-8b3b-0dc071697020",
-      "title": "Apresentador do DWTS Alfonso Ribeiro comenta eliminação difícil de Taylor Hanson e Britt Stewart",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "94f39213-9c4f-4789-90ae-ce1452b21af4",
-      "title": "Explicando o final de Verity: Quem morre e o que é real?",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "ffbd0eac-484c-40b3-b90a-2824ea91605d",
-      "title": "Os filhos de John Oliver são obcecados por Guillermo Rodriguez no \"DWTS\"",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
       "title": "“Coven Academy” ending explained: Messy love triangles and shocking deaths give Disney’s new YA series edge",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "4e990328-7dad-4269-bb54-03d8bfca62ce",
-      "title": "Musical \"Dolly: A True Original\" anuncia elenco principal escolhido a dedo por Dolly Parton",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "fc477001-8050-428c-9e67-40fdfcbbb371",
@@ -171,15 +153,33 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "9b5b86d2-6f53-48ae-9fd7-24ba796c504e",
-      "title": "Alternativas mais acessíveis aos AirPods Max da Apple para economizar na compra",
+      "id": "6d56d30d-4ebb-49e7-aecd-bf719956674c",
+      "title": "Gigantes do Entretenimento: Paramount e Warner Bros. adotarão o nome Skydance após fusão de US$ 110 bilhões",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "9b372eb7-666f-4c55-a3ae-fd3a93b1038d",
+      "title": "YouTube mira contas agregadoras e passa a priorizar Shorts originais",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "ea50f738-dca6-4260-95b1-c58e7d54d8d7",
+      "title": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: qual escolher?",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "5d820816-840f-4d2d-8aac-ae6935ffe00f",
-      "title": "AT&T, T-Mobile e Verizon se unem para acabar com falhas de cobertura",
-      "category": "Empresas",
+      "id": "042e93a4-a7d1-4a2c-9ca0-bad143a6ffda",
+      "title": "iPhone 18 Pro e iPhone 18 Pro Max: Comparando telas e baterias",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "ae3a7aa6-ea5a-43c9-a22e-04257c8ec851",
+      "title": "Rocket Report: SpaceX realiza maratona de lançamentos e Rocket Lab fecha grande contrato",
+      "category": "Ciência",
       "status": "review"
     },
     {
@@ -190,9 +190,9 @@
     },
     {
       "id": "dd3e065d-6b48-4260-b532-4248e55da56e",
-      "title": "7 Must See Movies Coming to HBO in October 2026",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "title": "Os 7 filmes essenciais que chegam à HBO em outubro de 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "c675ba87-7de1-45fe-a983-3bf143f3f351",
@@ -207,40 +207,40 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "6d27b94b-2ab9-4317-b79b-fd01db418ab9",
-      "title": "Produtores de Star Trek: Strange New Worlds admitem que o futuro de La'an estava em aberto no final da 4ª temporada",
+      "id": "e41a38b6-9f4a-4469-bee3-a237bf90fa66",
+      "title": "Bradley Cooper interpretará Duke em filme live-action de G.I. Joe dirigido por Danny McBride",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "a732a886-2e85-4f2d-a8ce-986084cfc1c6",
-      "title": "Atualização recente do Google Pixel deixa alguns usuários sem conseguir desbloquear os celulares",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "fbe65c64-6ec0-4270-b805-e9316602546f",
-      "title": "O Pentágono anuncia a criação de um novo comando dedicado à guerra autônoma e robótica",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "b72d1202-8e91-4881-a086-856fe3c3fa38",
-      "title": "Diretor de Final Fantasy 7 Revelation revela o desafio de adaptar obra-prima sem criar um projeto pessoal",
+      "id": "3b879c9a-4e62-4987-9e6a-341c56575971",
+      "title": "Josh Sawyer e os desafios do design de RPGs: por que evitar o save scumming exige cinismo",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "24686dd9-0929-404e-a75d-f7a99edc5a61",
-      "title": "Um dos itens mais cobiçados de Diablo 2 surge de surpresa em Diablo 4",
+      "id": "a2427edc-468f-4852-b170-c0914f630a3e",
+      "title": "Sony anuncia QSSR, tecnologia de upscaling por IA para o PS5 padrão",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "e41a38b6-9f4a-4469-bee3-a237bf90fa66",
-      "title": "Bradley Cooper to play Duke in Danny McBride's live-action G.I. Joe movie",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "id": "32f5e521-05fe-4e7c-9027-3b61b9440391",
+      "title": "As 5 Melhores Estreias de Séries e Filmes para Curtir no Streaming Nesta Semana",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "3057757c-0a2b-4ca9-8212-9f6c319103a6",
+      "title": "CEO do Xbox afirma que parcerias com a PlayStation seguem possíveis, mesmo após a troca de editora em Physint",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "d2a55bfc-a2eb-4c86-859b-131e59f961c9",
+      "title": "The Elder Scrolls Online passa por renascimento e abandona fórmula antiga de DLCs",
+      "category": "Games",
+      "status": "review"
     }
   ]
 }
