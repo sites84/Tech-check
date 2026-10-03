@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, writeFile } from 'node:fs/promises';
 
 const SOURCES = [
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', category: 'EMPRESAS' },
@@ -8,7 +8,13 @@ const SOURCES = [
 ];
 
 function clean(value = '') {
-  return value.replace(/<![CDATA[([\s\S]*?)]]>/g, '$1').replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
+  return value
+    .replace(/<![CDATA[([\s\S]*?)]]>/gi, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/gi, '&').replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'").replace(/&lt;/gi, '<').replace(/&gt;/gi, '>')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/\s+/g, ' ').trim();
 }
 
 function tag(xml, name) {
@@ -16,22 +22,88 @@ function tag(xml, name) {
   return match ? clean(match[1]) : '';
 }
 
-function items(xml) {
-  return [...xml.matchAll(/<item(?:\s[^>]*)?>([\s\S]*?)<\/item>/gi)].map(m => m[1]);
+function attr(xml, name, attribute) {
+  const match = xml.match(new RegExp(`<${name}[^>]*\\b${attribute}=["']([^"']+)["'][^>]*>`, 'i'));
+  return match ? match[1].trim() : '';
+}
+
+function entries(xml) {
+  return [...xml.matchAll(/<(?:item|entry)(?:\s[^>]*)?>([\s\S]*?)<\/(?:item|entry)>/gi)].map(m => m[1]);
+}
+
+function linkValue(item) {
+  return tag(item, 'link') || attr(item, 'link', 'href') || '';
+}
+
+function imageFromFeed(item) {
+  return attr(item, 'media:content', 'url')
+    || attr(item, 'media:thumbnail', 'url')
+    || ((item.match(/<enclosure[^>]*\burl=["']([^"']+)["'][^>]*\btype=["']image\//i) || [])[1] || '')
+    || ((item.match(/<img[^>]*\bsrc=["']([^"']+)["']/i) || [])[1] || '');
+}
+
+async function imageFromPage(url) {
+  if (!url) return '';
+  try {
+    const response = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 Tech-Check-RSS/1.0' },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(8000)
+    });
+    if (!response.ok) return '';
+    const html = await response.text();
+    for (const pattern of [
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i
+    ]) {
+      const value = html.match(pattern)?.[1];
+      if (value) return new URL(value, url).href;
+    }
+  } catch {}
+  return '';
+}
+
+function publishedAt(item) {
+  for (const name of ['pubDate', 'dc:date', 'published', 'updated', 'date']) {
+    const value = tag(item, name);
+    if (!value) continue;
+    const date = new Date(value);
+    if (!Number.isNaN(date.getTime())) return date.toISOString();
+  }
+  return null;
 }
 
 async function fetchSource(source) {
-  const response = await fetch(source.url, { headers: { 'User-Agent': 'Tech-Check-RSS/1.0' } });
+  const response = await fetch(source.url, {
+    headers: {
+      'User-Agent': 'Tech-Check-RSS/1.0',
+      'Accept': 'application/rss+xml,application/atom+xml,application/xml,text/xml;q=0.9,*/*;q=0.8'
+    },
+    redirect: 'follow',
+    signal: AbortSignal.timeout(15000)
+  });
   if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
   const xml = await response.text();
-  return items(xml).slice(0, 12).map(item => ({
-    source: source.name,
-    category: source.category,
-    title: tag(item, 'title'),
-    url: tag(item, 'link'),
-    summary: tag(item, 'description'),
-    published_at: tag(item, 'pubDate') || tag(item, 'published')
-  })).filter(item => item.title && item.url);
+  if (!/<(?:item|entry)\b/i.test(xml)) throw new Error('feed sem item/entry');
+
+  const result = [];
+  for (const item of entries(xml).slice(0, 12)) {
+    const title = tag(item, 'title');
+    const url = linkValue(item);
+    if (!title || !url) continue;
+    let image_url = imageFromFeed(item);
+    if (!image_url) image_url = await imageFromPage(url);
+    result.push({
+      source: source.name,
+      category: source.category,
+      title,
+      url,
+      summary: tag(item, 'description') || tag(item, 'summary'),
+      published_at: publishedAt(item),
+      image_url
+    });
+  }
+  return result;
 }
 
 const all = [];
@@ -48,5 +120,9 @@ const unique = [...new Map(all.map(item => [item.url, item])).values()]
   .slice(0, 40);
 
 await mkdir('data', { recursive: true });
-await writeFile('data/latest.json', JSON.stringify({ updated_at: new Date().toISOString(), count: unique.length, articles: unique }, null, 2));
+await writeFile('data/latest.json', JSON.stringify({
+  updated_at: new Date().toISOString(),
+  count: unique.length,
+  articles: unique
+}, null, 2));
 console.log(`Coletadas ${unique.length} notícias.`);
