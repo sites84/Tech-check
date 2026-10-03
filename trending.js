@@ -7,10 +7,15 @@ async function loadTrending(){
   try{
     const r=await fetch(TRENDING_URL,{headers:apiHeaders});
     if(!r.ok)throw new Error('trending '+r.status);
-    const rows=await r.json();
+    let rows=await r.json();
+    let fallback=false;
+
     if(!rows.length){
-      box.innerHTML='<p class="empty-state">Os destaques serão atualizados em breve.</p>';
-      return;
+      const recent=await fetch(`${SUPABASE_URL}/rest/v1/articles?status=eq.review&select=id,title,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=10`,{headers:apiHeaders});
+      if(!recent.ok)throw new Error('recent articles '+recent.status);
+      const articles=await recent.json();
+      rows=articles.map((a,i)=>({article_id:a.id,rank:i+1,score:0,cycle_started_at:null,cycle_ends_at:null}));
+      fallback=true;
     }
 
     const ids=rows.map(x=>x.article_id).join(',');
@@ -41,8 +46,11 @@ async function loadTrending(){
     }));
 
     if(status){
-      const end=new Date(rows[0].cycle_ends_at);
-      status.textContent=`Próxima atualização: ${new Intl.DateTimeFormat('pt-BR',{hour:'2-digit',minute:'2-digit'}).format(end)}`;
+      if(fallback)status.textContent='Destaques recentes';
+      else{
+        const end=new Date(rows[0].cycle_ends_at);
+        status.textContent=`Próxima atualização: ${new Intl.DateTimeFormat('pt-BR',{hour:'2-digit',minute:'2-digit'}).format(end)}`;
+      }
     }
   }catch(e){
     console.error('Trending:',e);
