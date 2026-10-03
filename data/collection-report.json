@@ -1,89 +1,22 @@
 {
-  "updated_at": "2026-10-03T01:22:07.359Z",
-  "inserted": [
-    {
-      "id": "6e3022aa-5505-4ac7-bf9a-736cf5ac1c6a",
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "4f495a02-e33a-45df-be22-b4dd9b2ab452",
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "be4f7f62-1004-4072-bde3-823845a06857",
-      "title": "Not Easy Being Green: &#8216;Lanterns&#8217; Creatives Illuminate the DC Show&#8217;s VFX Powers",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7",
-      "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "4cb46ecb-de1c-4c47-bbab-44b7624c63e0",
-      "title": "Resident Evil Requiem: The Dive Is Officially Available Now",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
-      "title": "3 Best Movies To Watch On Netflix This Weekend (October 3-4)",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "72659db8-e7f9-4769-94ae-95aecfc9a450",
-      "title": "Pedro Pascal’s First Movie After Mandalorian & Grogu Debuts To Stellar Rotten Tomatoes Score",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "6a2a937a-381c-46ba-a458-3cbab808137f",
-      "title": "Green Lantern's New Series Reboots Hal Jordan's Biggest Villains",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "693edf32-e825-47ad-9dfa-cdc4d349f751",
-      "title": "Black Mirror Is Connected To A Popular 8-Show Franchise And Hardly Anyone Knows",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "09b7c333-1b1f-425a-9bd2-18919e872649",
-      "title": "Recasting The Big Bang Theory For 2026: All 8 Main Characters",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "3a72723c-85af-4325-bce3-d424177a97ed",
-      "title": "Netflix's 7-Part East Of Eden Series Fixes The 1955 Movie's Biggest Flaw",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "bb799f16-4a4a-41e7-81f6-5c0913fd00ed",
-      "title": "Baldur’s Gate 3 Is Coming Back With Official New Content For Karlach And Astarion",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
-      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "5484a3a5-2807-422b-827b-6f4255a96b11",
-      "title": "Final Fantasy 7 Revelation lead says he pushed Square Enix for a physical version of the JRPG",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "d9f2f911-58ff-4071-b62a-ea2dd8438e63",
-      "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
-      "source": "CNET"
-    },
-    {
-      "id": "d120b34b-b46f-4d6b-8a8f-76e575b8a1f9",
-      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
-      "source": "Nintendo Life"
-    }
-  ],
+  "updated_at": "2026-10-03T01:23:28.655Z",
+  "inserted": [],
   "images_updated": [],
   "duplicates_skipped": [
+    {
+      "source": "TechCrunch",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
+      "reason": "duplicata",
+      "existing_id": "6e3022aa-5505-4ac7-bf9a-736cf5ac1c6a"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock",
+      "reason": "duplicata",
+      "existing_id": "4f495a02-e33a-45df-be22-b4dd9b2ab452"
+    },
     {
       "source": "TechCrunch",
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -482,6 +415,13 @@
     },
     {
       "source": "Animation Magazine",
+      "title": "Not Easy Being Green: &#8216;Lanterns&#8217; Creatives Illuminate the DC Show&#8217;s VFX Powers",
+      "url": "https://animationmagazine.net/2026/10/not-easy-being-green-lanterns-creatives-illuminate-the-dc-shows-vfx-powers",
+      "reason": "duplicata",
+      "existing_id": "be4f7f62-1004-4072-bde3-823845a06857"
+    },
+    {
+      "source": "Animation Magazine",
       "title": "MIPCOM Market Picks: 10 Fresh Toons at Cannes",
       "url": "https://animationmagazine.net/2026/10/mipcom-market-picks-10-fresh-toons-at-cannes",
       "reason": "duplicata",
@@ -804,6 +744,76 @@
       "reason": "fonte bloqueada"
     },
     {
+      "source": "ScreenRant",
+      "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
+      "url": "https://screenrant.com/the-fugitive-best-lone-wolf-survival-tv-show-better-than-tracker",
+      "reason": "duplicata",
+      "existing_id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Resident Evil Requiem: The Dive Is Officially Available Now",
+      "url": "https://screenrant.com/resident-evil-requiem-the-dive-halloween-event",
+      "reason": "duplicata",
+      "existing_id": "4cb46ecb-de1c-4c47-bbab-44b7624c63e0"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "3 Best Movies To Watch On Netflix This Weekend (October 3-4)",
+      "url": "https://screenrant.com/best-netflix-movies-watch-weekend-october-3",
+      "reason": "duplicata",
+      "existing_id": "38f142ea-989f-43d0-91f4-645d83c7d53f"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Pedro Pascal’s First Movie After Mandalorian & Grogu Debuts To Stellar Rotten Tomatoes Score",
+      "url": "https://screenrant.com/behemoth-rotten-tomatoes-score-pedro-pascal-tony-gilroy",
+      "reason": "duplicata",
+      "existing_id": "72659db8-e7f9-4769-94ae-95aecfc9a450"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Green Lantern's New Series Reboots Hal Jordan's Biggest Villains",
+      "url": "https://screenrant.com/green-lantern-yellow-lanterns-reboot",
+      "reason": "duplicata",
+      "existing_id": "6a2a937a-381c-46ba-a458-3cbab808137f"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Black Mirror Is Connected To A Popular 8-Show Franchise And Hardly Anyone Knows",
+      "url": "https://screenrant.com/black-mirror-philomena-cunk-connection",
+      "reason": "duplicata",
+      "existing_id": "693edf32-e825-47ad-9dfa-cdc4d349f751"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Recasting The Big Bang Theory For 2026: All 8 Main Characters",
+      "url": "https://screenrant.com/the-big-bang-theory-recasting-2026-actors",
+      "reason": "duplicata",
+      "existing_id": "09b7c333-1b1f-425a-9bd2-18919e872649"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Netflix's 7-Part East Of Eden Series Fixes The 1955 Movie's Biggest Flaw",
+      "url": "https://screenrant.com/east-of-eden-netflix-series-1955-movie-adaptation",
+      "reason": "duplicata",
+      "existing_id": "3a72723c-85af-4325-bce3-d424177a97ed"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Baldur’s Gate 3 Is Coming Back With Official New Content For Karlach And Astarion",
+      "url": "https://screenrant.com/baldurs-gate-3-astarion-karlach-backstory-comics",
+      "reason": "duplicata",
+      "existing_id": "bb799f16-4a4a-41e7-81f6-5c0913fd00ed"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
+      "url": "https://screenrant.com/best-hbo-max-movies-watch-weekend-october-3",
+      "reason": "duplicata",
+      "existing_id": "2aa52977-93cd-456e-8b6e-c42fb931768c"
+    },
+    {
       "source": "Mashable",
       "title": "Apple will update Macs to protect users from AI agents with full disk access",
       "url": "https://mashable.com/tech/apple-will-update-full-disk-access-due-to-updates-ai-agents",
@@ -945,6 +955,13 @@
     },
     {
       "source": "GamesRadar+",
+      "title": "Final Fantasy 7 Revelation lead says he pushed Square Enix for a physical version of the JRPG",
+      "url": "https://gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-says-he-pushed-square-enix-for-a-physical-version-of-the-jrpg-but-physical-media-will-eventually-be-essentially-disc-less",
+      "reason": "duplicata",
+      "existing_id": "5484a3a5-2807-422b-827b-6f4255a96b11"
+    },
+    {
+      "source": "GamesRadar+",
       "title": "WoW Forever dev says it was an \"honor\" to bring an old Make-A-Wish quest back in Blizzard's new MMO",
       "url": "https://gamesradar.com/games/world-of-warcraft/a-tear-was-shed-during-this-one-wow-forever-dev-says-it-was-an-honor-and-privilege-to-bring-an-old-make-a-wish-quest-back-in-blizzards-new-mmo",
       "reason": "duplicata",
@@ -1008,6 +1025,13 @@
     },
     {
       "source": "CNET",
+      "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
+      "url": "https://cnet.com/tech/paramount-skydance-warner-bros-discovery-media-empire",
+      "reason": "duplicata",
+      "existing_id": "d9f2f911-58ff-4071-b62a-ea2dd8438e63"
+    },
+    {
+      "source": "CNET",
       "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
       "url": "https://cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement",
       "reason": "duplicata",
@@ -1068,6 +1092,13 @@
       "url": "https://cnet.com/news/social-media/reddit-rss-oldreddit-api-changes",
       "reason": "duplicata",
       "existing_id": "7635e8d7-fc30-4c0a-969c-796fc6ccd2ed"
+    },
+    {
+      "source": "Nintendo Life",
+      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
+      "url": "https://nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
+      "reason": "duplicata",
+      "existing_id": "d120b34b-b46f-4d6b-8a8f-76e575b8a1f9"
     },
     {
       "source": "Nintendo Life",

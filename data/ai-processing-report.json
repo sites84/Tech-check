@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-02T23:19:54.203Z",
+  "updated_at": "2026-10-03T01:27:22.758Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
+    {
+      "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
+      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "72659db8-e7f9-4769-94ae-95aecfc9a450",
+      "title": "Pedro Pascal’s First Movie After Mandalorian & Grogu Debuts To Stellar Rotten Tomatoes Score",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
+      "title": "3 Best Movies To Watch On Netflix This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "4cb46ecb-de1c-4c47-bbab-44b7624c63e0",
+      "title": "Resident Evil Requiem ganha evento ao vivo e imersivo no Universal Studios Japan",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7",
+      "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "be4f7f62-1004-4072-bde3-823845a06857",
+      "title": "Not Easy Being Green: &#8216;Lanterns&#8217; Creatives Illuminate the DC Show&#8217;s VFX Powers",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "4f495a02-e33a-45df-be22-b4dd9b2ab452",
+      "title": "Senador Bernie Sanders apresenta projeto de lei para banir uso de leitores de placas pela inteligência federal",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "6e3022aa-5505-4ac7-bf9a-736cf5ac1c6a",
+      "title": "Meta aposta no código aberto e quer que desenvolvedores criem seus próprios dispositivos com o agente de IA Muse",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
     {
       "id": "918a5790-2f0b-4ba7-91fc-90742c7fd433",
       "title": "Netflix’s 12-Part Horror Is the Scariest Zombie Thriller of the Past Decade",
@@ -15,172 +63,124 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "27fb7baf-32c4-471a-8f11-6ef3cfbe8d33",
-      "title": "Lideranças europeias demonstram otimismo com a compra da Warner Bros. por David Ellison",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "4b95d8c3-0c71-42c1-960c-73041838f04d",
-      "title": "&#8216;Celebrity Traitors&#8217; Star Richard E. Grant Accidentally Reveals He&#8217;s a Traitor to Cast in Premiere, Calls It the ‘Biggest Mistake I’ve Made in My Life’",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "632e2e41-35d8-4677-b569-4779362b21bc",
-      "title": "Sony prepara versão atualizada do aplicativo PlayStation com novas funções sociais",
-      "category": "Games",
+      "title": "Estrela de 'Celebrity Traitors', Richard E. Grant revela por acidente que é um traidor logo na estreia",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
       "id": "209a704c-4812-4fd7-9ee7-ae5e9e03fb93",
-      "title": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant",
-      "status": "error",
-      "error": "522: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-10-02 23:17:02 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Ashburn</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a4476a9af84fe2ca</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">20.161.47.115</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "95fc5eb3-710b-4d25-a67d-1249d03c9346",
-      "title": "Fim de semana chegou: O que a equipe do Push Square vai jogar?",
+      "title": "Franquia BrokenLore Apresenta Nova Antagonista: Uma Assistente de Inteligência Artificial em Estilo Anime",
       "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "007da359-edfc-45a2-ac1e-5fbdb8ea708d",
-      "title": "Dr. Tan, CEO do T&B Global Media Group, discute o novo longa-metragem animado de Shelldon",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "186576fb-363e-4c9a-a1ca-539d2c783b14",
-      "title": "A segunda temporada de The Sisters Grimm estreia com as protagonistas tornando-se detetives oficiais",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "b143a1e3-02eb-481c-94b9-5781ed41b238",
-      "title": "A Equipe Criativa de 'Avatar: Seven Havens' Desvenda o Mistério do Avatar Pavi",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "2125cbf7-3cf8-4ab8-9980-b44216158b8f",
-      "title": "Sega anuncia estátua de porcelana de Sonic comemorativa de 35 anos por mais de 6 mil dólares",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "1a8bfe9e-a86f-4044-ad80-050d26929258",
-      "title": "Os 15 melhores filmes de Tom Cruise classificados, incluindo clássicos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "ffd3bef4-b042-410b-8901-1d52c70d4d0f",
-      "title": "Tyra Banks afirma que não gostou de participar de \"Halloween: Resurrection\" após quase 25 anos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "e6a2fb84-45d0-4a39-ad72-7dc255070866",
-      "title": "Tobey Maguire e a ex-esposa Jennifer Meyer finalizam divórcio após uma década de separação",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "67aabe4d-957f-41e8-ac0c-4912979c52e0",
-      "title": "Kathleen Turner responde a revelação de Michael Douglas sobre caso secreto durante as filmagens de \"Tudo por Esmeralda\"",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "cec6b13d-dfd0-41e8-9955-4295dc026369",
-      "title": "Ana Navarro rebate críticas sobre sua filiação partidária e defende o conservadorismo tradicional",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "52ebd860-b58c-4547-9acf-06179156a891",
-      "title": "George Santos revela reações de membros do Congresso a queda viral no programa Special Forces",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "50446288-092d-4d2f-94b0-bea9b8c37453",
-      "title": "Apple emite alerta sobre agentes de IA e o Acesso Total ao Disco no macOS",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "d4109a0a-9dc4-48b1-8e0b-6b60ba1984ae",
-      "title": "Samsung e Google aumentam preços de seus celulares econômicos devido à crise de RAM",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "706095e4-d3f5-4b9a-a616-67ad04b6adb7",
-      "title": "Batomon Showdown é o novo jogo de auto battler que mistura Pokémon e Super Auto Pets",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "a7454d06-8e6b-493d-9ff2-2089edf98fc8",
-      "title": "Meta quer que criadores construam seus próprios dispositivos Muse",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "078d982d-cde0-4bd9-b08d-cc1ad71b2ae7",
-      "title": "EUA prendem CEO de tecnologia acusado de esquema de contrabando de US$ 300 milhões em chips da Nvidia para a China",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "439ece55-d83a-407e-b6c7-bc01ac2ca014",
-      "title": "Como a crise econômica de 2008 alterou a relação dos Estados Unidos com a energia",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "a56e30ad-27fe-4477-8e81-0f1c0737e203",
-      "title": "Lyft faz acordo histórico de US$ 272,5 milhões em processo sobre motoristas na Califórnia",
-      "category": "Empresas",
       "status": "review"
     },
     {
       "id": "43666821-8308-4966-8edb-2a9a0b29ca47",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Saúde"
-    },
-    {
-      "id": "628ea25b-e447-47c4-8700-39431cec7d67",
-      "title": "Plano de US$ 1 bilhão da Amazon para aplacar críticas a data centers gera nova polêmica",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "5e3d1298-eb22-4e63-b8a7-d57c91e61f01",
-      "title": "TechCrunch Disrupt 2026 oferece ingressos Expo+ por US$ 75 para profissionais afetados por demissões",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "7d07ba52-61db-454a-bc14-7d804f927938",
-      "title": "Sean Parker está reconstruindo a Stability AI com foco na indústria da música",
-      "category": "Inteligência Artificial",
+      "title": "Simulação de paciente zero em Nova York revela falhas graves em unidades de saúde",
+      "category": "Ciência",
       "status": "review"
     },
     {
       "id": "f365c322-b394-4d28-aad6-9fb6c8348ae7",
-      "title": "My favorite Bose headphones are on sale, plus more of the best headphones and earbuds deals before October Prime Day",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comparações"
+      "title": "Melhores ofertas antecipadas de fones de ouvido para o Prime Day de outubro",
+      "category": "Smartphones",
+      "status": "review"
     },
     {
       "id": "dcf283c4-e0e2-4b2b-865c-f7bd28e7fcab",
       "title": "What is the SCP Foundation? Inside the internet horror universe headed to Hollywood.",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "ac7040c3-e047-4623-a151-1d3fa3b7d9cc",
+      "title": "10 Biggest Questions Ahead Of Ted Lasso Season 4 Finale",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "31e8b52d-3035-4f74-a604-10b957022faa",
+      "title": "Quarenta e cinco anos depois, a clássica perseguição de caminhão de Os Caçadores da Arca Perdida continua incomparável",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "eb962f7b-b223-433d-8c72-227bec8c5753",
+      "title": "Rolling Loud: The Movie Review: Owen Wilson Comedy Is Better Than It Has Any Right To Be",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "16b641bc-fa93-4709-bfa4-c165bb085caf",
+      "title": "Digger Interviews with John Goodman, Jesse Plemons, Alejandro G. Iñárritu & More",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "d960ac67-a9a5-4bf1-ab9f-7f0c6265614b",
+      "title": "‘Game of Thrones’ Legend’s Western Crime Thriller Is Officially a Netflix Sensation",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "57780934-b6f6-4007-9224-796243f95bc2",
+      "title": "7 Obras-Primas da Fantasia Onde Cada Capítulo é Perfeito",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "eb6b1ec0-698d-4098-aac5-494d30857334",
+      "title": "5 Crime Shows That Make Every Suspect Look Guilty",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
+      "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "eca5dac0-3040-402f-ac90-bc2c63712a69",
+      "title": "Melhores ofertas de Apple Watch no Prime Day de outubro de 2026",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "93783dd0-2441-4be4-b90b-4ca6d970c6e6",
+      "title": "MacBook Air com chip M5 recebe desconto de US$ 150 em oferta especial",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "d7f7124e-a37e-459b-900f-27d8d6f4fa24",
+      "title": "Guia de Ofertas dos AirPods no Prime Day de Outubro de 2026: O que Vale a Pena Comprar",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "09850449-225d-4524-b43e-e4a9551cc711",
+      "title": "Atualizações do Apple TV: Guia Completo com Lançamentos, Preços e Catálogo",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "20388bfa-0baa-4afc-bb55-d4e01167aa4d",
+      "title": "O Futuro do Apple TV: Guia Completo com Séries, Filmes e Lançamentos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "5048c8c3-0e1f-4087-93ae-33861c1399f2",
+      "title": "CBS Sports e Tony Romo encerram parceria após incidente de intoxicação na pré-temporada",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "78672807-295f-448c-a7d0-935dbfa6d3fb",
+      "title": "A Transformação da Madison Avenue: Marqueteiros Enfrentam Grandes Desafios para Alcançar Consumidores Elusivos",
+      "category": "Empresas",
+      "status": "review"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
@@ -213,34 +213,34 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "3d62bf52-543a-46a6-ad44-f933d3500c14",
-      "title": "Movimento \"I am Jane Doe\" mobiliza internet para proteger identidade de estudante de Cornell",
-      "category": "Internet",
+      "id": "98e60c44-2bce-4b17-817a-f382295731a5",
+      "title": "Amazon anuncia linha renovada de leitores Kindle com modelos coloridos e novos acessórios oficiais",
+      "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "88c69b75-1952-4ee3-8c4e-eab360ea2466",
-      "title": "FedEx investe em caminhões elétricos para economizar milhões em combustíveis",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "f2b393fe-d208-4d4f-b045-df6472eaa546",
-      "title": "Usuários relatam ruídos incômodos nos alto-falantes dos novos iPhone 18 Pro e Pro Max",
+      "id": "89509074-fc84-490c-812c-9f2964aaa559",
+      "title": "Apple Watch Series 11 ganha desconto raro de 13% na Target e fica mais barato que a nova geração",
       "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "1c7d7ee5-cfae-4ea1-b4c3-95bec8581b2b",
-      "title": "Como assistir ao Grande Prêmio do Bahrein da F1 de graça neste fim de semana",
-      "category": "Games",
+      "id": "84bf1895-a42d-421f-aeb9-92ba64d68ff7",
+      "title": "Shark SpeedStyle Flex Pro atinge menor preço histórico com desconto de 40% na Amazon",
+      "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "98e60c44-2bce-4b17-817a-f382295731a5",
-      "title": "Heres how you can buy or preorder Amazons all-new Kindles and Kindle accessories",
+      "id": "36fc569e-d587-4b9a-86a3-0d4e1abcb728",
+      "title": "Amazon Prime Big Deal Days: Melhores ofertas antecipadas de outubro de 2026",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "892ea475-e321-4765-a29d-d05453005d69",
+      "title": "Pete Davidson is talking exes, Ye, influencers, and AI. Naturally, the internet has thoughts.",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Dispositivos"
+      "error": "Categoria inválida retornada pelo Gemini: Entretenimento"
     }
   ]
 }
