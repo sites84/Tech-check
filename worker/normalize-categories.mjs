@@ -7,15 +7,18 @@ async function getCategories(){const rows=await api('categories?select=id,name')
 function norm(v=''){return String(v).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();}
 function pickCategory(title,sourceNames,existing,cats){
  const t=norm(title), sources=sourceNames.map(norm).join(' ');
- const game=/(game|jogo|rpg|racer|corrida|playstation|xbox|nintendo|steam|console|fliperama|videogame|gameplay|naughty dog|ps5|ps4|switch)/.test(t);
+ const screenEntertainment=/(screenrant|collider|entertainment weekly|variety|animation magazine)/.test(sources);
+ const seriesOrFilm=/(house of the dragon|game of thrones|the last of us|stranger things|star wars|marvel|dc|temporada|episodio|trailer|filme|serie|série|ator|atriz|animacao|animação)/.test(t);
+ if(screenEntertainment&&seriesOrFilm&&cats.has('Filmes, Séries e Animações'))return cats.get('Filmes, Séries e Animações');
+ const game=/(game|jogo|rpg|racer|corrida|playstation|xbox|nintendo|steam|console|fliperama|videogame|gameplay|naughty dog|ps5|ps4|switch|legend of zelda|zelda|ocarina of time)/.test(t);
  if(game&&cats.has('Games'))return cats.get('Games');
- if(/(screenrant|collider|entertainment weekly|variety|animation magazine)/.test(sources)&&cats.has('Filmes, Séries e Animações'))return cats.get('Filmes, Séries e Animações');
+ if(screenEntertainment&&cats.has('Filmes, Séries e Animações'))return cats.get('Filmes, Séries e Animações');
  if(/(android authority|9to5google|9to5mac|gsmarena|macworld|engadget)/.test(sources)&&/(galaxy|iphone|pixel|android|ipad|tablet|smartphone|celular|watch|fone|earbuds|airpods)/.test(t)&&cats.has('Smartphones'))return cats.get('Smartphones');
  if(/(bleepingcomputer|the hacker news|darkreading)/.test(sources)&&cats.has('Segurança'))return cats.get('Segurança');
  if(/(nasa|space\.com|astronomy)/.test(sources)&&cats.has('Ciência'))return cats.get('Ciência');
  if(/(openai|anthropic|hugging face)/.test(sources)&&cats.has('Inteligência Artificial'))return cats.get('Inteligência Artificial');
  if(/(tom's hardware|tomshardware|pcworld|computerworld)/.test(sources)&&cats.has('Computadores'))return cats.get('Computadores');
- if(/(techcrunch|venturebeat|business insider)/.test(sources)&&/(empresa|empresa|ceo|executivo|acordo|receita|investimento|milhões|bilhões|salario|salário|mercado|negocio|negócio|assina|assinatura|serviço|servicos|serviços|preço|preços|governador|lei)/.test(t)&&cats.has('Empresas'))return cats.get('Empresas');
+ if(/(techcrunch|venturebeat|business insider)/.test(sources)&&/(empresa|ceo|executivo|acordo|receita|investimento|milhões|bilhões|salario|salário|mercado|negocio|negócio|assina|assinatura|serviço|servicos|serviços|preço|preços|governador|lei)/.test(t)&&cats.has('Empresas'))return cats.get('Empresas');
  if(/(pandora|doordash)/.test(t)&&cats.has('Empresas'))return cats.get('Empresas');
  if(/(ars technica)/.test(sources)&&/(sarampo|cdc|saude|saúde|medicina|cient|espaco|espaço|nasa|astronomia)/.test(t)&&cats.has('Ciência'))return cats.get('Ciência');
  if(/(ars technica)/.test(sources)&&/(playstation|emula|game|jogo)/.test(t)&&cats.has('Games'))return cats.get('Games');
