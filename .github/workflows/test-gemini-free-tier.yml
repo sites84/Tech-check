@@ -1,0 +1,51 @@
+name: Testar Gemini Free Tier
+
+on:
+  push:
+    paths:
+      - '.github/workflows/test-gemini-free-tier.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Testar API Gemini sem expor chave
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          set -e
+          node <<'NODE'
+          const fs = require('fs');
+          const key = process.env.GEMINI_API_KEY;
+          if (!key) throw new Error('GEMINI_API_KEY ausente nos secrets do GitHub');
+          const models = ['gemini-3.5-flash-lite','gemini-3.1-flash-lite'];
+          (async()=>{
+            const results=[];
+            for (const model of models) {
+              try {
+                const r=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`,{
+                  method:'POST',
+                  headers:{'Content-Type':'application/json','x-goog-api-key':key},
+                  body:JSON.stringify({contents:[{parts:[{text:'Responda apenas: OK'}]}],generationConfig:{maxOutputTokens:8}})
+                });
+                const body=await r.text();
+                let detail='';
+                try { const j=JSON.parse(body); detail=j?.error?.message||j?.candidates?.[0]?.content?.parts?.[0]?.text||''; } catch {}
+                results.push({model,status:r.status,ok:r.ok,detail:String(detail).slice(0,300)});
+              } catch(e) { results.push({model,status:0,ok:false,detail:String(e.message).slice(0,300)}); }
+            }
+            fs.mkdirSync('data',{recursive:true});
+            fs.writeFileSync('data/gemini-free-tier-test.json',JSON.stringify({tested_at:new Date().toISOString(),results},null,2));
+            console.log(JSON.stringify(results));
+          })().catch(e=>{console.error(e);process.exit(1)});
+          NODE
+      - name: Publicar resultado do teste
+        run: |
+          git config user.name "Tech Check Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/gemini-free-tier-test.json
+          git commit -m "test: resultado Gemini free tier" || exit 0
+          git push
