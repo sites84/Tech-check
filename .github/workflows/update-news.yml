@@ -80,6 +80,11 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/repair-missing-article-pages.mjs
+      - name: Adicionar afiliados às páginas individuais
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/add-affiliate-to-article-pages.mjs
       - name: Adicionar imagens ao Leia Também das páginas estáticas
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
