@@ -39,6 +39,7 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/repair-published-dates.mjs
       - name: Processar notícias com Gemini
+        continue-on-error: true
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
@@ -65,6 +66,7 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/repair-images.mjs
       - name: Gerar SEO, páginas individuais e imagens otimizadas
+        continue-on-error: true
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
@@ -73,6 +75,11 @@ jobs:
           mkdir -p .seo-tools
           npm install --prefix .seo-tools --no-save sharp@0.33.5
           node worker/generate-seo-stable.mjs
+      - name: Reparar páginas de matérias ausentes
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/repair-missing-article-pages.mjs
       - name: Adicionar imagens ao Leia Também das páginas estáticas
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
