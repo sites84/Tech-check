@@ -1,24 +1,36 @@
 {
-  "updated_at": "2026-10-03T17:29:26.004Z",
+  "updated_at": "2026-10-03T18:04:33.614Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "5ce903cd-20b0-427d-a8dc-07ff8beb40c8",
-      "title": "Capcom planeja evolução do RE Engine com inteligência artificial para o futuro",
-      "category": "Games",
+      "id": "d48b5994-f1f8-4aa8-99e3-4d70772f39c9",
+      "title": "Juiz federal decide que uso de dados de câmeras Flock foi inconstitucional",
+      "category": "Segurança",
       "status": "review"
     },
     {
-      "id": "6346cb7a-2339-4a40-830c-d7716a54997d",
-      "title": "Cortador de grama robótico Sunseeker X3 Plus ganha superdesconto antes do Amazon Big Deal Days",
-      "category": "Computadores",
+      "id": "73b90c63-0dc0-40d1-b4c7-fe67d05d5d5d",
+      "title": "Lenda de Grey's Anatomy com 18 temporadas retorna para um novo papel na 23ª temporada",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "2b2b0984-33e1-458b-8e33-c201b61e45ef",
-      "title": "California aprova lei com multas para robotaxis que bloqueiam serviços de emergência",
-      "category": "Empresas",
+      "id": "0309c25f-bdf7-40a6-802e-cd1635294622",
+      "title": "After 50 Years, The Entire Rocky Movie Series Officially Has A New Home",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "431330ef-3be2-4663-bb49-9a1df2bc8440",
+      "title": "Netflix aposta em Icebreaker para criar seu próprio império de romances universitários de hóquei",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
+    },
+    {
+      "id": "4140d3e4-bbec-46c7-a9ed-87c8bb93f5d8",
+      "title": "Colter's OG Team Return Status In Tracker Season 4 Confirmed By Showrunner",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "9566458d-a919-4889-b262-0c6e5d1164e4",
@@ -27,28 +39,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Gadgets"
     },
     {
-      "id": "3a4c3e8f-2e58-49c4-bf41-4e25032bb647",
-      "title": "Máquina de café Ninja Luxe Café Pro ganha desconto de mais de 150 dólares",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "0987b039-6e59-4570-a1bc-2c86ea11c696",
       "title": "Colleen Hoover's Thriller Officially Sets All-Time Rotten Tomatoes Audience Record",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "941f60a5-7e73-4fd8-bed1-f12f513e77fd",
-      "title": "Nova série de automobilismo da Shonen Jump recebe recomendação de peso do criador de Initial D",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "8717b2f3-6419-4f47-9076-1cc9dde9064c",
-      "title": "Os 6 filmes de zumbi mais aguardados e promissores em desenvolvimento",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "10b99d45-8353-4f56-8a16-b6949034d4e8",
@@ -58,31 +52,7 @@
     },
     {
       "id": "50c1eb18-158a-4aca-8fc3-0ab5743ebbab",
-      "title": "Russell T Davies' First Series After Doctor Who Exit Earns Stellar Rotten Tomatoes Score",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "d5c202a6-98ec-46f2-b1e5-b10082c3af65",
-      "title": "Três filmes aclamados de Tom Cruise que sofreram com notas baixas no Rotten Tomatoes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "23834c93-a149-4056-bc26-81ee8462d168",
-      "title": "Assassin's Creed ganha adaptação teatral inédita com estreia marcada para dezembro de 2026",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "e8161aa8-93c8-4eaf-9269-d0112fdd5636",
-      "title": "Qual a ordem certa para jogar as expansões de The Witcher 3?",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "8b18269f-7909-40ef-949e-13e9ce2e22c3",
-      "title": "Os livros mais bem avaliados do Goodreads: uma análise dos gigantes da literatura",
+      "title": "Primeira série de Russell T Davies após Doctor Who conquista excelente nota no Rotten Tomatoes",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -93,93 +63,123 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "96e66e67-402e-4655-bcff-31567e9ab7c3",
-      "title": "Apple confirma falha grave de rede no iPhone 18 Pro Max e unidades afetadas exigem troca de hardware",
-      "category": "Smartphones",
+      "id": "150b15b6-c5ca-4d59-867a-f8b733ecad45",
+      "title": "A onda dos agentes de inteligência artificial que vivem nas suas mensagens de texto",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "2e23fbfd-1fa6-4ef7-8e28-86dbb8222da2",
-      "title": "Jogos do PS Plus Essential de outubro de 2026 geram debate entre assinantes",
+      "id": "fd923efd-52cf-404a-b25e-0d8af6d3a491",
+      "title": "Vessev cria balsa elétrica com tecnologia hydrofoil que 'quase voa'",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "9883e17e-595a-4eba-bcc8-9a8e326f4475",
+      "title": "Bitchat, aplicativo de mensagens descentralizado de Jack Dorsey, some das lojas de aplicativos na Índia após ordem do governo",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "5d164140-059c-4762-bfb9-46ed911393c9",
+      "title": "Ex-funcionário de segurança da OpenAI pede demissão e afirma que a cultura da empresa está quebrada",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "27f57348-95ce-41b0-b408-d8c16d5acaea",
+      "title": "The Perfect Way To Prepare For The Next 007's Debut Is Now On Prime Video",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "29422cf9-acb7-424d-8bcb-1f0945f2d11e",
+      "title": "Apple planeja endurecer controles de Acesso Total ao Disco no macOS devido ao avanço de agentes de IA",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "ad149c0c-9edc-43c1-99ae-54615f50f2c0",
+      "title": "Lançamentos da semana para PS5 e PS Plus trazem Kingdom Hearts, Star Wars e Hellraiser",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "be4d78e0-17b5-448d-8e60-c9a5bc8e3c14",
-      "title": "Ex-funcionário de segurança da OpenAI pede salvaguardas rigorosas após pedir demissão",
-      "category": "Inteligência Artificial",
+      "id": "cc68b220-6a4e-4031-90bf-a84479dfc0cf",
+      "title": "Classificação indicativa de GTA 6 vaza cenas de sexo e uso de drogas antes de ser retirada do ar",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "86ae488e-3895-41d6-bd64-39a8cc514a52",
-      "title": "CEO do Splice alerta que e-mails escritos por IA estão destruindo conversas reais",
-      "category": "Inteligência Artificial",
+      "id": "c4ec93c4-4b27-4707-adce-d27c7ac10de7",
+      "title": "Dan Houser ainda nao viu GTA 6 e explica o motivo para tentar evitar o jogo",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "da51ec4a-8778-4cf9-91fb-a5fde4fc5b78",
-      "title": "Amazon antecipa ofertas e aquece o mercado antes do Prime Day de outubro",
+      "id": "65b3df09-8f54-4787-989f-d40a5c0c139a",
+      "title": "Capcom detalha planos para evoluir o RE Engine em um motor de nova geração focado em inteligência artificial",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "08ac3db8-dc05-4a96-a294-7670ec66c3af",
+      "title": "Por que os filmes em 3D finalmente voltaram a valer a pena assistir",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "a7f7171d-c1cf-4178-bcaf-3ebe703d54c2",
+      "title": "Aventuras fotográficas, pastoreio caótico e outros novos jogos independentes que valem a pena conhecer",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "22703028-1b1e-4fb0-8f93-ea513c130644",
+      "title": "10 maneiras criativas e úteis de reutilizar seu antigo smartphone Android",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "fb5bc443-1ce0-4479-89ee-44a1a5d95bd6",
+      "title": "Ainda vale a pena comprar um Nintendo 3DS em 2026?",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "869d7324-da22-46fb-9965-565aa854b9cc",
+      "title": "Como ajustar a qualidade de áudio e usar o recurso Lossless no Apple Music",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "87b0afec-5470-4454-972c-0a3ae64f2964",
+      "title": "Ainda vale a pena assinar o YouTube TV? Uma análise completa do serviço",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "a98a93b7-811d-4614-8b12-1ba871cfa9c8",
-      "title": "Como as portas Thunderbolt da Apple se diferenciam do USB-C",
-      "category": "Computadores",
-      "status": "review"
+      "id": "def96521-614e-4260-805a-02483d128201",
+      "title": "This is one of the cheapest ways to add Dolby Atmos to your TV",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Eletrônicos"
     },
     {
-      "id": "fa8fcc7d-10ca-4f5e-be4b-edccb95f911b",
-      "title": "Qual é a diferença entre Google Pay e Google Wallet?",
+      "id": "7856c4b3-7fb8-4aec-881d-7a72ca98177b",
+      "title": "California vai multar empresas de robotáxis caso veículos bloqueiem socorristas",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "454f1fd8-1212-49ef-aef1-9570ddf82df6",
-      "title": "Como saber que chegou a hora de trocar a ponta do seu Apple Pencil",
-      "category": "Computadores",
+      "id": "ae11e46e-8852-4cf2-9750-29e33a3d28d3",
+      "title": "A aurora da era dos exoesqueletos",
+      "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "a1677bbf-6912-4bcb-867f-1fbb8501b1b4",
-      "title": "O que significa FDM na impressão 3D e como funciona essa tecnologia?",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "920a3bee-ba7a-4fe8-9218-5259cb668a9d",
-      "title": "Como ativar o modo escuro no Google Docs para web usando alternativas simples",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "6961c7d7-30dd-4d71-9361-abf70c5074b4",
-      "title": "iPhone Duo vs. iPad Mini: qual aparelho da Apple é o ideal para você?",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "d8528780-10a1-4b06-b03e-5ed0cb9c55a3",
-      "title": "Por que o Windows 11 está sempre usando tanta RAM?",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "3af8c729-164c-4ad0-b8c1-07bb526937b3",
-      "title": "Ex-funcionário da OpenAI defende regulamentação da inteligência artificial nos moldes de usinas nucleares",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "aa267381-3b7f-47ba-9ed6-ea5e7dc7d9ed",
-      "title": "Como personalizar o botão Controle da Câmera no seu iPhone",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "4416b31a-1e26-4ec6-a9f0-30326462c0e2",
-      "title": "Startup de escaneamento corporal apoiada por bilionário do Spotify chega aos Estados Unidos",
-      "category": "Empresas",
+      "id": "d17a8564-ea83-4d46-8fc7-c607c426b93e",
+      "title": "Star Trek: The Original Series retorna oficialmente em outubro com Echoes in Eternity",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
@@ -201,44 +201,44 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d69666c4-0a08-43e1-a591-48d08f8183aa",
-      "title": "Demonstração gratuita de Castlevania: Belmont's Curse já está disponível com melhoria de taxa de quadros no Switch 2",
+      "id": "b753628d-4940-4a7f-a770-5115fc26fad2",
+      "title": "Nintendo libera atualização 23.0.1 para o Switch 2 e o modelo original com correções",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "da30c536-4bdc-49f4-8807-172c4ab1ba11",
-      "title": "Capcom revela planos estratégicos para o futuro da franquia Resident Evil e aponta para um grande crossover",
+      "id": "af846789-f5fb-4611-bdb3-f5c0f8db738d",
+      "title": "Movimentações de executivos e talentos na indústria de games em outubro",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "6f958f93-a8a1-4319-9c7b-22b872b34ddc",
-      "title": "Ex-executivo da Sony, Shuhei Yoshida acredita que a Nintendo terá muito sucesso com o Switch 2",
+      "id": "7546917a-7aaf-4577-a6f1-19952c8b3e5b",
+      "title": "Lançamentos e franquias de peso dominam rankings de receita de PC e consoles em agosto",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "e8080780-c293-45c2-8f75-bdf493ce0ef2",
-      "title": "Rede de Cooperação em Defesa do Consumidor da UE inicia ações contra nove empresas de jogos por moedas virtuais",
+      "id": "b05cdbe3-a334-4220-b5a5-0c6802abbc3a",
+      "title": "Pokémon Pokopia recebe edição com Expansion Pass em Game-Key Card para o Nintendo Switch 2",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "3edbe1b0-1bab-44a4-9cbb-e79b480b0cb0",
+      "title": "A espera pelo remake de Professor Layton e O Vilarejo Misterioso e a desconfiança com a Level-5",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "dbbb8b23-0f11-4388-9efb-d7bb1b75af3a",
+      "title": "Ubisoft renomeia Creative House 2 para Massive Entertainment e consolida franquias",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "d3383bda-3151-47fb-ad71-3b8c187a601b",
-      "title": "Nintendo encerra oficialmente as operações do jogo para celulares Mario Kart Tour",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "9e4de10e-7409-485e-8f1b-d07a8ad910c4",
-      "title": "Sindicato da Ubisoft em Montreal ultrapassa 300 assinaturas em petição para defender o trabalho híbrido",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "09d713cb-1cd4-4052-ad02-05e61721934b",
-      "title": "Surpresa: Eventos de DLC por tempo limitado de Donkey Kong Bananza estão de volta com rotações mensais",
+      "id": "90059c48-2362-403b-88a6-f58744bd1934",
+      "title": "Suspeito de liderar o grupo ShinyHunters e vazar receita do GTA Online é preso na Holanda",
       "category": "Games",
       "status": "review"
     }
