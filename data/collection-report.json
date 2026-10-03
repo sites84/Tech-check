@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-10-02T23:16:15.923Z",
-  "inserted": [],
+  "updated_at": "2026-10-03T01:22:07.359Z",
+  "inserted": [
+    {
+      "id": "6e3022aa-5505-4ac7-bf9a-736cf5ac1c6a",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "4f495a02-e33a-45df-be22-b4dd9b2ab452",
+      "title": "Sanders introduces bill to ban the federal government from using Flock",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "be4f7f62-1004-4072-bde3-823845a06857",
+      "title": "Not Easy Being Green: &#8216;Lanterns&#8217; Creatives Illuminate the DC Show&#8217;s VFX Powers",
+      "source": "Animation Magazine"
+    },
+    {
+      "id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7",
+      "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "4cb46ecb-de1c-4c47-bbab-44b7624c63e0",
+      "title": "Resident Evil Requiem: The Dive Is Officially Available Now",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
+      "title": "3 Best Movies To Watch On Netflix This Weekend (October 3-4)",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "72659db8-e7f9-4769-94ae-95aecfc9a450",
+      "title": "Pedro Pascal’s First Movie After Mandalorian & Grogu Debuts To Stellar Rotten Tomatoes Score",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "6a2a937a-381c-46ba-a458-3cbab808137f",
+      "title": "Green Lantern's New Series Reboots Hal Jordan's Biggest Villains",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "693edf32-e825-47ad-9dfa-cdc4d349f751",
+      "title": "Black Mirror Is Connected To A Popular 8-Show Franchise And Hardly Anyone Knows",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "09b7c333-1b1f-425a-9bd2-18919e872649",
+      "title": "Recasting The Big Bang Theory For 2026: All 8 Main Characters",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "3a72723c-85af-4325-bce3-d424177a97ed",
+      "title": "Netflix's 7-Part East Of Eden Series Fixes The 1955 Movie's Biggest Flaw",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "bb799f16-4a4a-41e7-81f6-5c0913fd00ed",
+      "title": "Baldur’s Gate 3 Is Coming Back With Official New Content For Karlach And Astarion",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
+      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "5484a3a5-2807-422b-827b-6f4255a96b11",
+      "title": "Final Fantasy 7 Revelation lead says he pushed Square Enix for a physical version of the JRPG",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "d9f2f911-58ff-4071-b62a-ea2dd8438e63",
+      "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
+      "source": "CNET"
+    },
+    {
+      "id": "d120b34b-b46f-4d6b-8a8f-76e575b8a1f9",
+      "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month",
+      "source": "Nintendo Life"
+    }
+  ],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -58,20 +139,6 @@
       "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
       "reason": "duplicata",
       "existing_id": "98ccf987-4dfa-4e59-8aea-edd90865d76e"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
-      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read",
-      "reason": "duplicata",
-      "existing_id": "f6d5fdad-74b1-4914-a7a3-6f91e010e994"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Slovenia&#8217;s .si domain sees a surge in registrations after Trump&#8217;s &#8216;super intelligence&#8217; order",
-      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order",
-      "reason": "duplicata",
-      "existing_id": "e44172a2-bb76-4a89-874a-fcdb5729cc1e"
     },
     {
       "source": "Ars Technica",
@@ -285,6 +352,24 @@
     },
     {
       "source": "Entertainment Weekly",
+      "title": "Ben Affleck insists he’s ‘good’ and ‘happy’ single: ‘I know what my priorities are’",
+      "url": "https://ew.com/ben-affleck-insists-good-happy-single-knows-priorities-12155686",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Mariska Hargitay crashes couple’s New York wedding photos — in full “SVU” getup",
+      "url": "https://ew.com/mariska-hargitay-crashes-couple-new-york-wedding-photos-in-law-and-order-svu-getup-12155539",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Bruce Willis’ wife Emma marks World FTD Awareness Week by honoring ‘f---ing legend’",
+      "url": "https://ew.com/bruce-willis-wife-emma-calls-him-legend-in-post-12155305",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
       "title": "Danielle Fishel says Disney refused to give “Girl Meets World” cast costumes and props for free",
       "url": "https://ew.com/danielle-fishel-disney-refused-girl-meets-world-cast-free-costumes-props-12155243",
       "reason": "fonte bloqueada"
@@ -323,24 +408,6 @@
       "source": "Entertainment Weekly",
       "title": "Tyra Banks does not enjoy “Halloween: Resurrection ”25 years later: ‘Not even a little bit’ (exclusive)",
       "url": "https://ew.com/tyra-banks-did-not-enjoy-making-halloween-resurrection-12154836",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "The 15 best Tom Cruise movies ranked — yes, including “Digger”",
-      "url": "https://ew.com/best-tom-cruise-movies-ranked-12154228",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Rider Strong says Cloris Leachman was reading cue cards during “Girl Meets World” cameos: ‘Couldn’t really tell’",
-      "url": "https://ew.com/rider-strong-says-cloris-leachman-read-cue-cards-on-girl-meets-world-12154873",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Anne Hathaway keeps her promise and disappears into a plume of smoke after her fifth film of the year premieres",
-      "url": "https://ew.com/anne-hathaway-disappears-into-smoke-after-5-movies-this-year-12154897",
       "reason": "fonte bloqueada"
     },
     {
@@ -477,13 +544,6 @@
       "existing_id": "f5a896a3-972c-4879-b739-6bc1b03dd467"
     },
     {
-      "source": "Animation Magazine",
-      "title": "New &#8216;Cat in the Hat&#8217; Trailer Shows Off Hillary Duff Track and All the Things!",
-      "url": "https://animationmagazine.net/2026/10/new-cat-in-the-hat-trailer-shows-off-hillary-duff-track-and-all-the-things",
-      "reason": "duplicata",
-      "existing_id": "8ec0d9ea-6ce5-4f58-b384-e21a1f92135c"
-    },
-    {
       "source": "Push Square",
       "title": "Talking Point: What Are You Playing This Weekend? - Issue 652",
       "url": "https://pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
@@ -555,6 +615,12 @@
     },
     {
       "source": "Variety",
+      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+      "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
       "title": "John Leguizamo Has a Message for David Ellison: &#8216;Think of What Americans Need and What the Industry Needs&#8217;",
       "url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710",
       "reason": "fonte bloqueada"
@@ -605,12 +671,6 @@
       "source": "Variety",
       "title": "Starz Executive Vice President of Original Programming Karen Bailey to Exit (EXCLUSIVE)",
       "url": "https://variety.com/2026/tv/news/starz-original-programming-karen-bailey-exits-1236897728",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Jessica Lange to Receive Lifetime Achievement Award at SCAD Savannah Film Festival",
-      "url": "https://variety.com/2026/film/news/jessica-lange-scad-savannah-film-festival-1236897722",
       "reason": "fonte bloqueada"
     },
     {
@@ -685,133 +745,63 @@
     },
     {
       "source": "Collider",
-      "title": "Nicolas Cage Officially Compares the MCU to the WWE",
-      "url": "https://collider.com/nicolas-cage-mcu-criticisms-spider-noir",
+      "title": "‘True Detective's Sci-Fi Replacement Soars to No. 1 Across the Globe on HBO Max",
+      "url": "https://collider.com/lanterns-streaming-success-hbo-max-october-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Robert Pattinson's 9 Best Movies in the Last 10 Years, Ranked",
-      "url": "https://collider.com/robert-pattinson-movies-last-10-years-ranked",
+      "title": "‘Daredevil’ and Streaming’s Greatest Shows Just Mastered Hollywood’s Hardest Trick",
+      "url": "https://collider.com/daredevil-adolescence-the-studio-one-shot-scenes",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Tom Hardy’s Cult Classic Crime Movie Is Officially Taking Over HBO Max",
-      "url": "https://collider.com/tom-hardy-crime-movie-the-bikeriders-streaming-success-hbo-max-october-2026",
+      "title": "New ‘X-Men’ Star Officially Shares His Charles Xavier-Like Experience",
+      "url": "https://collider.com/christopher-abbott-x-men-charles-xavier-telepathy-comments",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 8 Most Intelligent Video Games Ever Made, Ranked",
-      "url": "https://collider.com/most-intelligent-video-games-ever-made",
+      "title": "Future ‘X-Men’ Star Officially Addresses His ‘Kraven the Hunter’ Role",
+      "url": "https://collider.com/kraven-the-hunter-failure-christopher-abbott-comments",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 6 Best Superhero Movies Released Since 2020, Ranked",
-      "url": "https://collider.com/best-superhero-movies-since-2020-ranked",
+      "title": "'Marshals' Season 1 Recap: What To Remember Before Season 2 of Taylor Sheridan's Yellowstone Spin-Off",
+      "url": "https://collider.com/marshals-season-1-recap-yellowstone-taylor-sheridan",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Jurassic World Officially in Talks With 'Fallen Kingdom' Director for Sci-Fi Franchise Return",
-      "url": "https://collider.com/jurassic-world-5-director-talks-ja-bayona",
+      "title": "Al Pacino’s Hit Crime Thriller Officially Brings a Deadly Love Affair to Prime Video",
+      "url": "https://collider.com/al-pacino-sea-of-love-streaming-prime-video-october-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "3 Rotten Tomatoes Certified Fresh Movies to Watch on Prime Video This Weekend (Oct 3-4)",
-      "url": "https://collider.com/best-prime-video-movies-watch-weekend-october-3-2026",
+      "title": "‘American Horror Story’ Is Officially Taking Over the World Following Season 13 Release",
+      "url": "https://collider.com/american-horror-story-streaming-success-disney-plus-hulu-october-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Netflix's Groundbreaking 73-Episode Thriller Made One Mistake It Could Never Undo",
-      "url": "https://collider.com/house-of-cards-netflix-frank-underwood-claire-final-season-mistake",
+      "title": "10 Sci-Fi Miniseries That Are Perfect From Start to Finish",
+      "url": "https://collider.com/sci-fi-miniseries-perfect-start-to-finish",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "10 Dark Fantasy Movies That Are Perfect From Start to Finish",
-      "url": "https://collider.com/dark-fantasy-movies-perfect-start-to-finish",
+      "title": "The Greatest Sports Anime Ever Made Officially Returns to Theaters",
+      "url": "https://collider.com/yuri-on-ice-theater-release-october-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Netflix’s 12-Part Horror Is the Scariest Zombie Thriller of the Past Decade",
-      "url": "https://collider.com/netflix-scariest-zombie-series-all-of-us-are-dead",
+      "title": "‘Pokémon's Biggest Game Yet Officially Returns With New Release",
+      "url": "https://collider.com/pokemon-legends-z-a-complete-switch-2-release-october-2026",
       "reason": "fonte bloqueada"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Chrono Trigger Gets A Gorgeous HD-2D Overhaul Thanks To Fans",
-      "url": "https://screenrant.com/chrono-trigger-hd-2d-remake-fan-project",
-      "reason": "duplicata",
-      "existing_id": "07ca38dd-e68e-4493-9c58-c38aa445a4a4"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "DC's Original Green Lantern Was Almost Another Classic Character Who Makes Hal Look Weak",
-      "url": "https://screenrant.com/superman-almost-green-lantern-stronger-hal-jordan",
-      "reason": "duplicata",
-      "existing_id": "79eb7614-c0fc-4b1d-810c-fd9da75e37b6"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
-      "url": "https://screenrant.com/vinland-saga-vikings-replacement-netflix",
-      "reason": "duplicata",
-      "existing_id": "f4e6ab31-2dc6-4940-ae87-be6ab5356853"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "15 Greatest Costumes In HBO's Game Of Thrones Franchise",
-      "url": "https://screenrant.com/game-of-thrones-franchise-best-costumes",
-      "reason": "duplicata",
-      "existing_id": "decf67c4-435c-4522-86f6-837e754dc4ee"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "67 Years Later, Peanuts' Best Halloween Gag Proves Charles M. Schulz's True Genius",
-      "url": "https://screenrant.com/peanuts-best-halloween-gag-great-pumpkin",
-      "reason": "duplicata",
-      "existing_id": "b6567a47-26c4-4e22-ac7e-8206264d973b"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "3 Best New Paramount+ Series To Binge-Watch This Weekend (October 2–4, 2026)",
-      "url": "https://screenrant.com/best-new-paramount-plus-shows-to-binge-weekend-october-2-2026",
-      "reason": "duplicata",
-      "existing_id": "36e8cde1-aadf-4259-8030-bad388420d22"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Star Trek's 1960s Pilot Set Up TNG & Voyager 22 Years Ahead Of Schedule",
-      "url": "https://screenrant.com/star-trek-1960s-pilot-cage-set-up-tng-voyager",
-      "reason": "duplicata",
-      "existing_id": "9936dd27-0380-4706-b019-953b1a1c8dfa"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Netflix's Exciting New Era Begins This Weekend",
-      "url": "https://screenrant.com/disney-shows-movies-coming-to-netflix",
-      "reason": "duplicata",
-      "existing_id": "adf18202-5b3f-40eb-bc1a-85857730df10"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Jurassic World Rebirth Sequel Eyes Director Of $1.3B Franchise Release",
-      "url": "https://screenrant.com/jurassic-world-rebirth-sequel-ja-bayona-director-circling",
-      "reason": "duplicata",
-      "existing_id": "70f5f652-199d-413e-9244-f5e689c70a56"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Stephen King’s The Shining Officially Sets New Release",
-      "url": "https://screenrant.com/the-shining-50th-anniversary-new-special-edition-stephen-king",
-      "reason": "duplicata",
-      "existing_id": "d7c104e1-1f51-45d1-8358-e649b7fe7b76"
     },
     {
       "source": "Mashable",
@@ -1017,13 +1007,6 @@
       "existing_id": "83d40209-0e9a-4f2a-9fac-cceb436bc5b5"
     },
     {
-      "source": "GamesRadar+",
-      "title": "Star Wars: Galactic Racer Metacritic score makes it one of the best-rated Star Wars games ever",
-      "url": "https://gamesradar.com/games/racing/star-wars-galactic-racer-metacritic-score-makes-it-one-of-the-best-rated-star-wars-games-of-all-time-beating-every-battlefront-title",
-      "reason": "duplicata",
-      "existing_id": "358d3fbb-8f95-41b7-b25f-80a2c29abb2b"
-    },
-    {
       "source": "CNET",
       "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
       "url": "https://cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement",
@@ -1087,13 +1070,6 @@
       "existing_id": "7635e8d7-fc30-4c0a-969c-796fc6ccd2ed"
     },
     {
-      "source": "CNET",
-      "title": "Audible Will Soon Let You Use AI to Talk to a Book Character",
-      "url": "https://cnet.com/tech/services-and-software/audible-new-ai-features",
-      "reason": "duplicata",
-      "existing_id": "65185f9f-132b-43bd-a54a-8a806446b45e"
-    },
-    {
       "source": "Nintendo Life",
       "title": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
       "url": "https://nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
@@ -1155,13 +1131,6 @@
       "url": "https://nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
       "reason": "duplicata",
       "existing_id": "65790411-9ecf-4994-a127-bd5930f9c4bb"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "Japanese Charts: Fire Emblem Sales Plummet, But It&#039;s Still Enough To Stay On The Podium",
-      "url": "https://nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-      "reason": "duplicata",
-      "existing_id": "9b24c98d-61cd-44e6-8584-e3c4fd8d24ce"
     },
     {
       "source": "GamesIndustry.biz",
