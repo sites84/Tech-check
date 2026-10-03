@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-10-03T07:35:14.170Z",
+  "updated_at": "2026-10-03T08:14:47.629Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "3b690290-8235-4e35-a21f-64b31ba66ecc",
-      "title": "Guia de Ofertas Apple para o October Prime Day: O que comprar agora e o que esperar",
+      "id": "d17a8564-ea83-4d46-8fc7-c607c426b93e",
+      "title": "Star Trek: The Original Series Officially Returns October 27 With Echoes In Eternity",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Livros"
+    },
+    {
+      "id": "d2b244b4-8908-4008-96dc-681d9c3bcd1b",
+      "title": "Licença vitalícia do Windows 11 Pro para Mac está em promoção por 9,97 dólares",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "80e71fe2-2772-4a21-986d-2605291bda98",
-      "title": "Estações de energia portátil ganham descontos antecipados para o Prime Day",
-      "category": "Computadores",
+      "id": "54da5d67-8a57-46d0-8f25-83514a02e116",
+      "title": "Plano vitalício reúne GPT, Claude e Gemini em uma única aba por US$ 39,99",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "554bbab2-cf3e-431f-baea-f64f018af9e5",
-      "title": "Fim da oferta totalmente gratuita da T-Mobile para o iPhone 18 Pro: veja como economizar US$ 1.000",
+      "id": "604328cb-2903-4982-9110-dad523e727a5",
+      "title": "As Melhores Alternativas ao AirTag com Suporte ao Find My em 2026",
       "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "877e5f0d-a27a-4e30-a994-e752646b3e22",
-      "title": "Por que a minissérie de 2022 \"The Offer\" supera o filme \"O Poderoso Chefão: Parte III\"",
-      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
@@ -46,13 +46,7 @@
     },
     {
       "id": "6e88f150-866f-48f3-93d5-ef4dfc4adf1f",
-      "title": "What Ted Lasso Season 4’s Major Death Means For The Finale Teased By Star",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "57031fbf-d85b-41e7-8dda-6dedffcff042",
-      "title": "Por que a série Andor merece crédito por quebrar todas as regras do universo Star Wars",
+      "title": "Morte importante na 4ª temporada de Ted Lasso muda os rumos da série, revela atriz",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -64,21 +58,15 @@
     },
     {
       "id": "e7326615-9ba6-4ba2-b27a-6e002d026a5d",
-      "title": "Ghosts: Every Power The Spirits At The Woodstone Mansion Have Explained",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Conheça os poderes de cada fantasma da mansão Woodstone em Ghosts",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
       "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "72659db8-e7f9-4769-94ae-95aecfc9a450",
-      "title": "Behemoth!, novo filme de Pedro Pascal dirigido por Tony Gilroy, estreia com ótima avaliação no Rotten Tomatoes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
@@ -88,9 +76,9 @@
     },
     {
       "id": "f29a63f3-3a63-4961-841c-cbaadfbca9a7",
-      "title": "Forget Tracker, ABC’s 120-Episode Drama Is TV’s Best Lone-Wolf Survival Series",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Esqueça o Tracker: Drama clássico da ABC com 120 episódios é a melhor série de sobrevivência da televisão",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "be4f7f62-1004-4072-bde3-823845a06857",
@@ -148,38 +136,50 @@
     },
     {
       "id": "fc477001-8050-428c-9e67-40fdfcbbb371",
-      "title": "What to know about Ken Urker, Gypsy Rose Blanchard’s partner and former fiancé",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "6d56d30d-4ebb-49e7-aecd-bf719956674c",
-      "title": "Gigantes do Entretenimento: Paramount e Warner Bros. adotarão o nome Skydance após fusão de US$ 110 bilhões",
-      "category": "Empresas",
+      "title": "Tudo o que se sabe sobre Ken Urker, parceiro e ex-noivo de Gypsy Rose Blanchard",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "9b372eb7-666f-4c55-a3ae-fd3a93b1038d",
-      "title": "YouTube mira contas agregadoras e passa a priorizar Shorts originais",
-      "category": "Internet",
-      "status": "review"
-    },
-    {
-      "id": "ea50f738-dca6-4260-95b1-c58e7d54d8d7",
-      "title": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: qual escolher?",
+      "id": "fa5b192f-530d-4d2a-aeed-3f2d3c1f3039",
+      "title": "A Shield TV Pro, de 7 anos, fica US$ 100 mais cara por causa de inteligência artificial",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "042e93a4-a7d1-4a2c-9ca0-bad143a6ffda",
-      "title": "iPhone 18 Pro e iPhone 18 Pro Max: Comparando telas e baterias",
-      "category": "Smartphones",
+      "id": "3e84e6e2-dc2a-41bd-ad77-e8ddf3c1e729",
+      "title": "Vendas de carros da Tesla caem no terceiro trimestre de 2026",
+      "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "ae3a7aa6-ea5a-43c9-a22e-04257c8ec851",
-      "title": "Rocket Report: SpaceX realiza maratona de lançamentos e Rocket Lab fecha grande contrato",
+      "id": "d1ad4534-e886-423d-95b2-071894eaa363",
+      "title": "Como funcionou o programa gratuito de baterias para ar-condicionado em Nova York",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "2db68f49-c72d-44ef-bec2-b9ad346cb6b5",
+      "title": "Forças Armadas dos Estados Unidos encerram o programa de satélites de defesa DSP",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "1375b116-2428-4d93-98a3-c389cb9ad633",
+      "title": "Pesquisas recentes revelam descobertas científicas fascinantes",
       "category": "Ciência",
+      "status": "review"
+    },
+    {
+      "id": "98ccf987-4dfa-4e59-8aea-edd90865d76e",
+      "title": "Papa Leão XIV critica a arte gerada por inteligência artificial",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "aec58db3-37dc-4a8f-846a-2480f36470ad",
+      "title": "Paramount e Warner Bros. Discovery vão adotar o nome Skydance após fusão de US$ 110 bilhões",
+      "category": "Empresas",
       "status": "review"
     },
     {
@@ -187,12 +187,6 @@
       "title": "Anne Hathaway's New Thriller Officially Stumbles in Rotten Tomatoes Debut",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "dd3e065d-6b48-4260-b532-4248e55da56e",
-      "title": "Os 7 filmes essenciais que chegam à HBO em outubro de 2026",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "c675ba87-7de1-45fe-a983-3bf143f3f351",
@@ -207,38 +201,44 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "e41a38b6-9f4a-4469-bee3-a237bf90fa66",
-      "title": "Bradley Cooper interpretará Duke em filme live-action de G.I. Joe dirigido por Danny McBride",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "3b879c9a-4e62-4987-9e6a-341c56575971",
-      "title": "Josh Sawyer e os desafios do design de RPGs: por que evitar o save scumming exige cinismo",
+      "id": "e8a355eb-25e9-406c-bd18-ec7435e19a79",
+      "title": "Amuleto quebrado de Diablo 4 domina a Temporada 15, mas Blizzard decide não fazer alterações",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "a2427edc-468f-4852-b170-c0914f630a3e",
-      "title": "Sony anuncia QSSR, tecnologia de upscaling por IA para o PS5 padrão",
+      "id": "6df1c01e-c7ac-431d-853d-b4ede66c12cf",
+      "title": "Castlevania: Belmont's Curse roda a 60fps no Switch 2, mas sem versão nativa",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "32f5e521-05fe-4e7c-9027-3b61b9440391",
-      "title": "As 5 Melhores Estreias de Séries e Filmes para Curtir no Streaming Nesta Semana",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "3057757c-0a2b-4ca9-8212-9f6c319103a6",
-      "title": "CEO do Xbox afirma que parcerias com a PlayStation seguem possíveis, mesmo após a troca de editora em Physint",
+      "id": "edda13a4-f387-4548-9f8f-c9412aebabde",
+      "title": "Diretor de combate de Final Fantasy 7 Revelation ainda busca o equilíbrio perfeito entre tempo real e turnos",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "d2a55bfc-a2eb-4c86-859b-131e59f961c9",
-      "title": "The Elder Scrolls Online passa por renascimento e abandona fórmula antiga de DLCs",
+      "id": "c323e192-c4aa-44a9-954c-334e73e1f4bd",
+      "title": "Intel registra patente inusitada de processadores com iluminação RGB integrada por Micro-LEDs",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "9aa7074a-d622-4a3f-9ae8-fa60f0e66943",
+      "title": "Evento Haunted by Daylight 2026 de Dead by Daylight traz novidades e recompensas",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ac062e02-6050-435a-b605-79abfaba86cf",
+      "title": "Os melhores acessórios e hardwares de games testados em setembro de 2026",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "0b7d8247-a601-4b93-8736-7aa830040153",
+      "title": "Novas cartas de Riftbound: Radiance trazem Jarvan IV e foco em equipamentos",
       "category": "Games",
       "status": "review"
     }
