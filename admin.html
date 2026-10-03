@@ -12,9 +12,9 @@
   <p id="login-error" class="error"></p>
 </section>
 <section id="dashboard-view" hidden>
-<header class="admin-header"><div><div class="brand">TECH<span>CHECK</span></div><h1>Painel administrativo</h1></div><button id="logout" class="secondary">Sair</button></header>
+<header class="admin-header"><div><div class="brand">TECH<span>CHECK</span></div><h1>Painel administrativo</h1><p id="dashboard-updated" class="updated">—</p></div><div class="header-actions"><button id="refresh" class="secondary">Atualizar</button><button id="logout" class="secondary">Sair</button></div></header>
 <div class="stats" id="stats"></div>
-<section class="panel"><div class="section-head"><div><h2>Posts</h2><p>Gerencie as matérias publicadas no site.</p></div><input id="post-search" placeholder="Pesquisar post..."></div><div id="posts" class="posts"></div></section>
+<section class="panel"><div class="section-head"><div><h2>Posts</h2><p id="post-count">Carregando matérias...</p></div><div class="post-filters"><input id="post-search" placeholder="Pesquisar post..." autocomplete="off"><select id="status-filter" aria-label="Filtrar por status"><option value="all">Todos os status</option><option value="review">Publicados</option><option value="draft">Rascunhos</option><option value="archived">Arquivados</option></select></div></div><div id="posts" class="posts"></div></section>
 </section>
 </main><script src="admin.js"></script>
 </body></html>
