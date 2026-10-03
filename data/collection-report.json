@@ -1,94 +1,15 @@
 {
-  "updated_at": "2026-10-03T19:11:23.612Z",
-  "inserted": [
-    {
-      "id": "56d79cae-c4b8-418b-a370-f6205bd360f1",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "2315612e-117f-49f8-a21d-739ab66b8771",
-      "title": "How to check the temperature of your PC's CPU",
-      "source": "Engadget"
-    },
-    {
-      "id": "cc08a94a-ce07-4b59-aaf8-fe1d76865d75",
-      "title": "Ethernet cables can do more than just improve home internet",
-      "source": "Engadget"
-    },
-    {
-      "id": "6707cdbd-f2c0-493a-9a1a-1080e8839a87",
-      "title": "Capcom plans to use AI to speed up the game development process",
-      "source": "Engadget"
-    },
-    {
-      "id": "1caf8106-2c76-437a-94e0-85316023dfc1",
-      "title": "The original PlayStation 2 security chip has been reverse engineered",
-      "source": "Engadget"
-    },
-    {
-      "id": "8d10855a-38f0-4069-9de0-b7f069fde390",
-      "title": "20 Years Later, Timothy Olyphant’s Best Deadwood Line Is Still A Top 5 Western Quote",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "9aa64f8e-de4a-481e-a84b-c0fcb6bdac6e",
-      "title": "The Batman 2's \"Left Turn\" Is Its Biggest Clue Yet",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "885b580f-3a88-480f-a477-bb943ce2b0dd",
-      "title": "Red Dead Redemption Meets Blade Runner In New Cyberpunk Western Game",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "a8c8a589-3f04-488b-b73a-8991280b8e1e",
-      "title": "9 Near-Perfect Crime Shows To Binge If You Love The Shield",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "e53f75e5-072b-4687-adc3-818775ba6957",
-      "title": "Pokémon Winds & Waves Opening Leaks, Reveals New Region Map Size",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "72eb3191-420f-43e6-995b-fddaf863c3b0",
-      "title": "Robert Pattinson Officially Returns As Bruce Wayne In New Batman 2 Set Photos",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "8331bdbd-d06d-4912-aae0-8119be6f9161",
-      "title": "44 Years Later, The Far Side's Best Quote Is Darker And Funnier Than Ever",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "f3cbccb3-cc97-4dca-a4bc-ce446a67ed77",
-      "title": "All 9 A Nightmare On Elm Street Movies Ranked By Fear Factor",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "5d6555d0-7bae-4f9a-939f-e1d2cbd5a431",
-      "title": "The 20 Best Thriller Series Of All Time, Ranked",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "284535b5-8bfd-4b4b-885c-e86232f82a32",
-      "title": "Netflix's Willy Wonka Series Rotten Tomatoes Score Officially Breaks Audience Record After 20 Years",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "2b32d220-4667-4295-902c-b7a32afc0d61",
-      "title": "Take 25% off this potent power station from Anker",
-      "source": "Mashable"
-    },
-    {
-      "id": "b1898b4d-aabc-44d8-ab5e-91a6300f91c5",
-      "title": "Steam's latest survey shows 32GB RAM overtaking 16GB despite the massive price surge",
-      "source": "TechSpot"
-    }
-  ],
+  "updated_at": "2026-10-03T19:12:38.768Z",
+  "inserted": [],
   "images_updated": [],
   "duplicates_skipped": [
+    {
+      "source": "TechCrunch",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "reason": "duplicata",
+      "existing_id": "56d79cae-c4b8-418b-a370-f6205bd360f1"
+    },
     {
       "source": "TechCrunch",
       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
@@ -221,6 +142,34 @@
       "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches",
       "reason": "duplicata",
       "existing_id": "2db68f49-c72d-44ef-bec2-b9ad346cb6b5"
+    },
+    {
+      "source": "Engadget",
+      "title": "How to check the temperature of your PC's CPU",
+      "url": "https://engadget.com/2273462/how-to-check-cpu-temperature",
+      "reason": "duplicata",
+      "existing_id": "2315612e-117f-49f8-a21d-739ab66b8771"
+    },
+    {
+      "source": "Engadget",
+      "title": "Ethernet cables can do more than just improve home internet",
+      "url": "https://engadget.com/2273746/ethernet-cables-can-do-more-than-just-improve-home-internet",
+      "reason": "duplicata",
+      "existing_id": "cc08a94a-ce07-4b59-aaf8-fe1d76865d75"
+    },
+    {
+      "source": "Engadget",
+      "title": "Capcom plans to use AI to speed up the game development process",
+      "url": "https://engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process",
+      "reason": "duplicata",
+      "existing_id": "6707cdbd-f2c0-493a-9a1a-1080e8839a87"
+    },
+    {
+      "source": "Engadget",
+      "title": "The original PlayStation 2 security chip has been reverse engineered",
+      "url": "https://engadget.com/2273354/playstation-2-security-chip-reverse-engineered",
+      "reason": "duplicata",
+      "existing_id": "1caf8106-2c76-437a-94e0-85316023dfc1"
     },
     {
       "source": "Engadget",
@@ -795,6 +744,83 @@
       "reason": "fonte bloqueada"
     },
     {
+      "source": "ScreenRant",
+      "title": "20 Years Later, Timothy Olyphant’s Best Deadwood Line Is Still A Top 5 Western Quote",
+      "url": "https://screenrant.com/timothy-olyphant-best-deadwood-quote-seth-bullock",
+      "reason": "duplicata",
+      "existing_id": "8d10855a-38f0-4069-9de0-b7f069fde390"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "The Batman 2's \"Left Turn\" Is Its Biggest Clue Yet",
+      "url": "https://screenrant.com/video/the-batman-2-s-left-turn-is-its-biggest-clue-yet",
+      "reason": "duplicata",
+      "existing_id": "9aa64f8e-de4a-481e-a84b-c0fcb6bdac6e"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Red Dead Redemption Meets Blade Runner In New Cyberpunk Western Game",
+      "url": "https://screenrant.com/blade-runner-meets-red-dead-redemption-new-cyberpunk-western",
+      "reason": "duplicata",
+      "existing_id": "885b580f-3a88-480f-a477-bb943ce2b0dd"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "9 Near-Perfect Crime Shows To Binge If You Love The Shield",
+      "url": "https://screenrant.com/crime-shows-like-the-shield",
+      "reason": "duplicata",
+      "existing_id": "a8c8a589-3f04-488b-b73a-8991280b8e1e"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Pokémon Winds & Waves Opening Leaks, Reveals New Region Map Size",
+      "url": "https://screenrant.com/pokemon-winds-waves-map-size-leak-opening-sequence",
+      "reason": "duplicata",
+      "existing_id": "e53f75e5-072b-4687-adc3-818775ba6957"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Robert Pattinson Officially Returns As Bruce Wayne In New Batman 2 Set Photos",
+      "url": "https://screenrant.com/batman-2-robert-pattinson-bruce-wayne-set-photos",
+      "reason": "duplicata",
+      "existing_id": "72eb3191-420f-43e6-995b-fddaf863c3b0"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "44 Years Later, The Far Side's Best Quote Is Darker And Funnier Than Ever",
+      "url": "https://screenrant.com/far-side-best-quote-dark-funny",
+      "reason": "duplicata",
+      "existing_id": "8331bdbd-d06d-4912-aae0-8119be6f9161"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "All 9 A Nightmare On Elm Street Movies Ranked By Fear Factor",
+      "url": "https://screenrant.com/a-nightmare-on-elm-street-ranked-fear-factor",
+      "reason": "duplicata",
+      "existing_id": "f3cbccb3-cc97-4dca-a4bc-ce446a67ed77"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "The 20 Best Thriller Series Of All Time, Ranked",
+      "url": "https://screenrant.com/best-thriller-tv-series-all-time",
+      "reason": "duplicata",
+      "existing_id": "5d6555d0-7bae-4f9a-939f-e1d2cbd5a431"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Netflix's Willy Wonka Series Rotten Tomatoes Score Officially Breaks Audience Record After 20 Years",
+      "url": "https://screenrant.com/netflix-wonkas-golden-ticket-rotten-tomatoes-audience-score-franchise-record",
+      "reason": "duplicata",
+      "existing_id": "284535b5-8bfd-4b4b-885c-e86232f82a32"
+    },
+    {
+      "source": "Mashable",
+      "title": "Take 25% off this potent power station from Anker",
+      "url": "https://mashable.com/tech/oct-3-early-prime-day-anker-solix-c1000-deal",
+      "reason": "duplicata",
+      "existing_id": "2b32d220-4667-4295-902c-b7a32afc0d61"
+    },
+    {
       "source": "Mashable",
       "title": "An officers use of Flock cameras was unconstitutional, judge rules",
       "url": "https://mashable.com/tech/flock-cameras-ruled-unconstitutional-surveillance",
@@ -856,6 +882,13 @@
       "url": "https://mashable.com/entertainment/nrl-grand-final-2026-live-stream-for-free",
       "reason": "duplicata",
       "existing_id": "c71054ea-183e-43bb-b087-d45a9c9cb651"
+    },
+    {
+      "source": "TechSpot",
+      "title": "Steam's latest survey shows 32GB RAM overtaking 16GB despite the massive price surge",
+      "url": "https://techspot.com/news/114081-steam-latest-survey-shows-32gb-ram-overtaking-16gb.html",
+      "reason": "duplicata",
+      "existing_id": "b1898b4d-aabc-44d8-ab5e-91a6300f91c5"
     },
     {
       "source": "TechSpot",

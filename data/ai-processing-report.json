@@ -1,28 +1,76 @@
 {
-  "updated_at": "2026-10-03T18:04:33.614Z",
+  "updated_at": "2026-10-03T19:16:20.390Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "d48b5994-f1f8-4aa8-99e3-4d70772f39c9",
-      "title": "Juiz federal decide que uso de dados de câmeras Flock foi inconstitucional",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "73b90c63-0dc0-40d1-b4c7-fe67d05d5d5d",
-      "title": "Lenda de Grey's Anatomy com 18 temporadas retorna para um novo papel na 23ª temporada",
+      "id": "72eb3191-420f-43e6-995b-fddaf863c3b0",
+      "title": "Robert Pattinson retorna oficialmente como Bruce Wayne nas novas fotos de gravação de The Batman Part II",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "0309c25f-bdf7-40a6-802e-cd1635294622",
-      "title": "After 50 Years, The Entire Rocky Movie Series Officially Has A New Home",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "id": "e53f75e5-072b-4687-adc3-818775ba6957",
+      "title": "Vazamento de Pokémon Winds & Waves revela detalhes sobre o tamanho da nova região",
+      "category": "Games",
+      "status": "review"
     },
     {
-      "id": "431330ef-3be2-4663-bb49-9a1df2bc8440",
-      "title": "Netflix aposta em Icebreaker para criar seu próprio império de romances universitários de hóquei",
+      "id": "a8c8a589-3f04-488b-b73a-8991280b8e1e",
+      "title": "9 Séries Policiais e Criminais Imperdíveis para Maratonar se Você Ama The Shield",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "885b580f-3a88-480f-a477-bb943ce2b0dd",
+      "title": "Novo jogo combina Red Dead Redemption, Blade Runner e Cyber Rail no estilo cowboy robótico",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9aa64f8e-de4a-481e-a84b-c0fcb6bdac6e",
+      "title": "A virada inesperada de The Batman 2 é a maior pista sobre a sequência",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "8d10855a-38f0-4069-9de0-b7f069fde390",
+      "title": "Duas décadas depois, a melhor frase de Timothy Olyphant em Deadwood continua marcante",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "1caf8106-2c76-437a-94e0-85316023dfc1",
+      "title": "O chip de segurança do PlayStation 2 original foi totalmente engenheirado reversamente",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "6707cdbd-f2c0-493a-9a1a-1080e8839a87",
+      "title": "Capcom planeja usar inteligência artificial para acelerar o desenvolvimento de jogos",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "cc08a94a-ce07-4b59-aaf8-fe1d76865d75",
+      "title": "Cabos Ethernet fazem mais do que apenas melhorar a internet de casa",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "2315612e-117f-49f8-a21d-739ab66b8771",
+      "title": "Como verificar a temperatura da CPU do seu computador",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "56d79cae-c4b8-418b-a370-f6205bd360f1",
+      "title": "Amazon afirma que não usa mais acordos de sigilo em projetos de data centers",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "0309c25f-bdf7-40a6-802e-cd1635294622",
+      "title": "Toda a saga Rocky ganha um novo lar no streaming após completar 50 anos",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -51,40 +99,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "50c1eb18-158a-4aca-8fc3-0ab5743ebbab",
-      "title": "Primeira série de Russell T Davies após Doctor Who conquista excelente nota no Rotten Tomatoes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "f70d8302-bbcb-4b30-83fe-bbb537320731",
       "title": "Game of Thrones Movie Aegon's Conquest Could Learn These 3 Lessons From Cinema's Greatest Fantasy Trilogy",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "150b15b6-c5ca-4d59-867a-f8b733ecad45",
-      "title": "A onda dos agentes de inteligência artificial que vivem nas suas mensagens de texto",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "fd923efd-52cf-404a-b25e-0d8af6d3a491",
-      "title": "Vessev cria balsa elétrica com tecnologia hydrofoil que 'quase voa'",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "9883e17e-595a-4eba-bcc8-9a8e326f4475",
-      "title": "Bitchat, aplicativo de mensagens descentralizado de Jack Dorsey, some das lojas de aplicativos na Índia após ordem do governo",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "5d164140-059c-4762-bfb9-46ed911393c9",
-      "title": "Ex-funcionário de segurança da OpenAI pede demissão e afirma que a cultura da empresa está quebrada",
-      "category": "Segurança",
-      "status": "review"
     },
     {
       "id": "27f57348-95ce-41b0-b408-d8c16d5acaea",
@@ -93,94 +111,76 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "29422cf9-acb7-424d-8bcb-1f0945f2d11e",
-      "title": "Apple planeja endurecer controles de Acesso Total ao Disco no macOS devido ao avanço de agentes de IA",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "ad149c0c-9edc-43c1-99ae-54615f50f2c0",
-      "title": "Lançamentos da semana para PS5 e PS Plus trazem Kingdom Hearts, Star Wars e Hellraiser",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "cc68b220-6a4e-4031-90bf-a84479dfc0cf",
-      "title": "Classificação indicativa de GTA 6 vaza cenas de sexo e uso de drogas antes de ser retirada do ar",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "c4ec93c4-4b27-4707-adce-d27c7ac10de7",
-      "title": "Dan Houser ainda nao viu GTA 6 e explica o motivo para tentar evitar o jogo",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "65b3df09-8f54-4787-989f-d40a5c0c139a",
-      "title": "Capcom detalha planos para evoluir o RE Engine em um motor de nova geração focado em inteligência artificial",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "08ac3db8-dc05-4a96-a294-7670ec66c3af",
-      "title": "Por que os filmes em 3D finalmente voltaram a valer a pena assistir",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "a7f7171d-c1cf-4178-bcaf-3ebe703d54c2",
-      "title": "Aventuras fotográficas, pastoreio caótico e outros novos jogos independentes que valem a pena conhecer",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "22703028-1b1e-4fb0-8f93-ea513c130644",
-      "title": "10 maneiras criativas e úteis de reutilizar seu antigo smartphone Android",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "fb5bc443-1ce0-4479-89ee-44a1a5d95bd6",
-      "title": "Ainda vale a pena comprar um Nintendo 3DS em 2026?",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "869d7324-da22-46fb-9965-565aa854b9cc",
-      "title": "Como ajustar a qualidade de áudio e usar o recurso Lossless no Apple Music",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "87b0afec-5470-4454-972c-0a3ae64f2964",
-      "title": "Ainda vale a pena assinar o YouTube TV? Uma análise completa do serviço",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "def96521-614e-4260-805a-02483d128201",
-      "title": "This is one of the cheapest ways to add Dolby Atmos to your TV",
+      "title": "Esta é uma das maneiras mais baratas de adicionar Dolby Atmos à sua TV",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "9272919b-8f9b-413f-9ae9-9f683c33fb9c",
+      "title": "The Real Soldier Boy Will Finally Appear In The Boys' Next Series",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Eletrônicos"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "7856c4b3-7fb8-4aec-881d-7a72ca98177b",
-      "title": "California vai multar empresas de robotáxis caso veículos bloqueiem socorristas",
-      "category": "Empresas",
-      "status": "review"
+      "id": "52cd96df-ead2-4348-b8d8-67d400600eb1",
+      "title": "Constellation Season 1 Ending Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "ae11e46e-8852-4cf2-9750-29e33a3d28d3",
-      "title": "A aurora da era dos exoesqueletos",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "d17a8564-ea83-4d46-8fc7-c607c426b93e",
-      "title": "Star Trek: The Original Series retorna oficialmente em outubro com Echoes in Eternity",
+      "id": "4264922c-ac86-48ae-98e6-d28b026f1768",
+      "title": "Todos os episódios de The Outsider, da HBO, classificados do pior ao melhor",
       "category": "Filmes, Séries e Animações",
       "status": "review"
+    },
+    {
+      "id": "9267bc78-21b5-4957-b7cc-55e173237112",
+      "title": "3 Best Movies To Watch On Prime Video This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
+      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
+      "title": "3 Best Movies To Watch On Netflix This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "be4f7f62-1004-4072-bde3-823845a06857",
+      "title": "Not Easy Being Green: &#8216;Lanterns&#8217; Creatives Illuminate the DC Show&#8217;s VFX Powers",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "ac7040c3-e047-4623-a151-1d3fa3b7d9cc",
+      "title": "10 Biggest Questions Ahead Of Ted Lasso Season 4 Finale",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "eb962f7b-b223-433d-8c72-227bec8c5753",
+      "title": "Rolling Loud: The Movie Review: Owen Wilson Comedy Is Better Than It Has Any Right To Be",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "16b641bc-fa93-4709-bfa4-c165bb085caf",
+      "title": "Digger Interviews with John Goodman, Jesse Plemons, Alejandro G. Iñárritu & More",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "d960ac67-a9a5-4bf1-ab9f-7f0c6265614b",
+      "title": "‘Game of Thrones’ Legend’s Western Crime Thriller Is Officially a Netflix Sensation",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
@@ -201,44 +201,44 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "b753628d-4940-4a7f-a770-5115fc26fad2",
-      "title": "Nintendo libera atualização 23.0.1 para o Switch 2 e o modelo original com correções",
+      "id": "9dc96a99-fca1-44fe-bb8c-5c131abcd3d4",
+      "title": "Xbox não está à venda, reforça a CEO Asha Sharma em meio a reestruturações",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "af846789-f5fb-4611-bdb3-f5c0f8db738d",
-      "title": "Movimentações de executivos e talentos na indústria de games em outubro",
+      "id": "b6145628-0ec8-4eb9-8c01-2ef691223438",
+      "title": "The Witcher 3 bate recorde histórico de jogadores simultâneos no Steam após lançamento de versão remasterizada",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "7546917a-7aaf-4577-a6f1-19952c8b3e5b",
-      "title": "Lançamentos e franquias de peso dominam rankings de receita de PC e consoles em agosto",
+      "id": "4cf60bb9-04fa-41a6-b57f-506e45c5f4d9",
+      "title": "Grasshopper Manufacture volta a ser independente após se separar da NetEase Games",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "b05cdbe3-a334-4220-b5a5-0c6802abbc3a",
-      "title": "Pokémon Pokopia recebe edição com Expansion Pass em Game-Key Card para o Nintendo Switch 2",
+      "id": "1a38a8a6-5d27-4d8e-8fd7-cd3c28ff77b6",
+      "title": "Como gerenciar um estúdio de jogos independentes: O que é um estúdio?",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "3edbe1b0-1bab-44a4-9cbb-e79b480b0cb0",
-      "title": "A espera pelo remake de Professor Layton e O Vilarejo Misterioso e a desconfiança com a Level-5",
+      "id": "75f7f9cc-829e-48fb-a968-44d2c11bc2f7",
+      "title": "Zynga quase comprou a Supercell por US$ 400 milhões em 2012, revela Mark Pincus",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "dbbb8b23-0f11-4388-9efb-d7bb1b75af3a",
-      "title": "Ubisoft renomeia Creative House 2 para Massive Entertainment e consolida franquias",
-      "category": "Empresas",
+      "id": "40591ca0-2225-403d-8a83-bd0d80bd9f1b",
+      "title": "Joel Bylos, da Funcom, discute a relação com Hollywood e o futuro dos jogos",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "90059c48-2362-403b-88a6-f58744bd1934",
-      "title": "Suspeito de liderar o grupo ShinyHunters e vazar receita do GTA Online é preso na Holanda",
+      "id": "2dd5c313-1d81-4af6-ab16-3d263ac19444",
+      "title": "Housemarque e Bithell Games entram no evento Game Republic New Horizons com sessões exclusivas",
       "category": "Games",
       "status": "review"
     }
