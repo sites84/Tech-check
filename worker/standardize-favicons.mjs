@@ -1,7 +1,20 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-const ROOT = 'noticias';
+const ROOTS = [
+  ['noticias', '../../'],
+  ['curiosidades', '../'],
+  ['historia-da-tecnologia', '../'],
+  ['ciencia-espaco', '../'],
+  ['computadores', '../'],
+  ['games', '../'],
+  ['inteligencia-artificial', '../'],
+  ['filmes-series-animacoes', '../'],
+  ['smartphones-gadgets', '../'],
+  ['seguranca', '../'],
+  ['internet', '../'],
+  ['empresas', '../']
+];
 
 async function walk(dir) {
   const out = [];
@@ -15,8 +28,8 @@ async function walk(dir) {
   return out;
 }
 
-function standardize(html) {
-  const icons = '<link rel="icon" type="image/x-icon" href="../../favicon.ico"><link rel="icon" type="image/png" sizes="192x192" href="../../favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">';
+function standardize(html, prefix) {
+  const icons = `<link rel="icon" type="image/x-icon" href="${prefix}favicon.ico"><link rel="icon" type="image/png" sizes="192x192" href="${prefix}favicon.png"><link rel="apple-touch-icon" sizes="180x180" href="${prefix}apple-touch-icon.png">`;
   let out = html;
   out = out.replace(/<link[^>]+rel=["']icon["'][^>]*>\s*/gi, '');
   out = out.replace(/<link[^>]+rel=["']apple-touch-icon["'][^>]*>\s*/gi, '');
@@ -28,14 +41,16 @@ function standardize(html) {
   return out;
 }
 
-const files = await walk(ROOT);
 let changed = 0;
-for (const file of files) {
-  const html = await readFile(file, 'utf8');
-  const next = standardize(html);
-  if (next !== html) {
-    await writeFile(file, next);
-    changed++;
+for (const [root, prefix] of ROOTS) {
+  const files = await walk(root);
+  for (const file of files) {
+    const html = await readFile(file, 'utf8');
+    const next = standardize(html, prefix);
+    if (next !== html) {
+      await writeFile(file, next);
+      changed++;
+    }
   }
 }
 console.log(`Favicons padronizados: ${changed} páginas.`);
