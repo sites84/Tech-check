@@ -13,14 +13,6 @@
         img.setAttribute('alt',text||'Imagem da matéria do Tech Check');
       }
     });
-    document.querySelectorAll('a').forEach(function(a){
-      var label=cleanTitle(a.textContent).toLowerCase();
-      if(!/^(ler matéria|leia mais|clique aqui|saiba mais)$/.test(label))return;
-      var card=a.closest('article,.news-card,.trending-card,.category-card,.evergreen-card');
-      var title=card&&card.querySelector('h1,h2,h3,h4');
-      var text=cleanTitle(title&&title.textContent);
-      if(text)a.textContent='Ler: '+text;
-    });
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',applySeoAccessibility);else applySeoAccessibility();
   new MutationObserver(applySeoAccessibility).observe(document.body,{childList:true,subtree:true});
