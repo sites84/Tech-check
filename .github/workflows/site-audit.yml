@@ -1,0 +1,65 @@
+name: Auditoria do site
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 5 * * 1'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar links internos e externos
+        uses: JustinBeckwith/linkinator@v1
+        with:
+          path: https://sites84.github.io/Tech-check/
+          recurse: true
+          timeout: 10000
+      - name: Validar HTML5 das páginas públicas principais
+        shell: bash
+        run: |
+          set -e
+          for url in \
+            'https://sites84.github.io/Tech-check/' \
+            'https://sites84.github.io/Tech-check/curiosidades/' \
+            'https://sites84.github.io/Tech-check/historia-da-tecnologia/' \
+            'https://sites84.github.io/Tech-check/404.html'; do
+            echo "Validando $url"
+            curl -fsSL --retry 2 --get 'https://validator.w3.org/nu/' \
+              --data-urlencode "doc=$url" \
+              --data 'out=json' \
+              -o /tmp/nu.json
+            node -e "const x=require('/tmp/nu.json'); const e=(x.messages||[]).filter(m=>m.type==='error'); if(e.length){console.error(JSON.stringify(e,null,2));process.exit(1)}"
+          done
+      - name: Verificar erros JavaScript e recursos quebrados no navegador
+        shell: bash
+        run: |
+          set -e
+          npm init -y >/dev/null 2>&1
+          npm install --no-save playwright@1.56.0 >/dev/null 2>&1
+          npx playwright install --with-deps chromium >/dev/null 2>&1
+          node <<'NODE'
+          const { chromium } = require('playwright');
+          (async()=>{
+            const browser=await chromium.launch({headless:true});
+            const page=await browser.newPage();
+            const errors=[];
+            page.on('console',m=>{if(m.type()==='error') errors.push(`console: ${m.text()}`)});
+            page.on('pageerror',e=>errors.push(`pageerror: ${e.message}`));
+            page.on('requestfailed',r=>errors.push(`requestfailed: ${r.url()} — ${r.failure()?.errorText||'unknown'}`));
+            for(const url of [
+              'https://sites84.github.io/Tech-check/',
+              'https://sites84.github.io/Tech-check/curiosidades/',
+              'https://sites84.github.io/Tech-check/historia-da-tecnologia/'
+            ]){
+              await page.goto(url,{waitUntil:'networkidle',timeout:30000});
+              await page.waitForTimeout(1000);
+            }
+            await browser.close();
+            if(errors.length){console.error(errors.join('\n'));process.exit(1)}
+            console.log('Nenhum erro JavaScript/recursos quebrados detectado nas páginas principais.');
+          })();
+          NODE
