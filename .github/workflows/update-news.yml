@@ -98,6 +98,8 @@ jobs:
         run: node worker/add-related-images.mjs
       - name: Padronizar favicons das matérias e páginas especiais
         run: node worker/standardize-favicons.mjs
+      - name: Aplicar modo escuro às matérias
+        run: node worker/patch-article-dark-mode.mjs
       - name: Gerar páginas de arquivo indexáveis
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -116,7 +118,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --mixed origin/main
-          git add data sitemap.xml robots.txt noticias assets/news page runtime-fixes.js index.html */index.html
+          git add data sitemap.xml robots.txt noticias assets/news page runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."
             exit 0
@@ -130,6 +132,6 @@ jobs:
             if [ "$attempt" -eq 3 ]; then exit 1; fi
             git fetch origin main
             git reset --mixed origin/main
-            git add data sitemap.xml robots.txt noticias assets/news page runtime-fixes.js index.html */index.html
+            git add data sitemap.xml robots.txt noticias assets/news page runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
             git commit -m "chore: atualizar feed, páginas, imagens e SEO" || true
           done
