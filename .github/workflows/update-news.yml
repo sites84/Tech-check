@@ -96,6 +96,8 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/add-related-images.mjs
+      - name: Padronizar favicons das matérias
+        run: node worker/standardize-favicons.mjs
       - name: Gerar páginas de arquivo indexáveis
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
