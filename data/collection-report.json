@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T21:25:03.741Z",
-  "inserted": [],
+  "updated_at": "2026-10-04T21:33:01.605Z",
+  "inserted": [
+    {
+      "id": "edb6da29-1671-4596-846e-5c7c4cfcc9e8",
+      "title": "Animal Crossing Meets Studio Ghibli In Cozy New Game",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "03f68624-56b9-4591-b72d-2aee7c68ea1c",
+      "title": "10 Near-Perfect 2000s Movies That Audiences Have Forgotten",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "6721c889-563d-44b3-af39-c24023befe86",
+      "title": "日本からの声で進化！部材価格高騰でも妥協しない法人向けエントリーノート「Dell Pro Essential 14/15」 [Sponsored]",
+      "source": "PC Watch"
+    }
+  ],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -285,6 +301,12 @@
     },
     {
       "source": "Entertainment Weekly",
+      "title": "Kate Mulgrew says being “Star Trek”’s ‘unprecedented’ first female captain ‘reshaped my life’",
+      "url": "https://ew.com/kate-mulgrew-star-trek-voyager-reflects-on-first-female-captain-janeway-12158126",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
       "title": "Ethan Hawke names surprising thriller co-starring ex Uma Thurman as his breakout: ‘Changed my life’",
       "url": "https://ew.com/ethan-hawke-surprising-thriller-with-ex-uma-thurman-breakout-role-12157917",
       "reason": "fonte bloqueada"
@@ -335,12 +357,6 @@
       "source": "Entertainment Weekly",
       "title": "Taylor Swift makes “SNL” cameo after Dakota Johnson compares dating musicians to ‘psychosexual erotic thriller’",
       "url": "https://ew.com/taylor-swift-crashes-dakota-johnson-snl-monologue-12157551",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Every “The Walking Dead” season, ranked from worst to best",
-      "url": "https://ew.com/every-walking-dead-season-ranked-12150708",
       "reason": "fonte bloqueada"
     },
     {
@@ -685,6 +701,18 @@
     },
     {
       "source": "Collider",
+      "title": "Monster: Real Antiques Changed How the Murders Were Shot | Collider BTS",
+      "url": "https://collider.com/video/monster-real-antiques-changed-how-the-murders-were-shot-collider-bts",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
+      "title": "‘Heat’ Meets ‘Ocean’s Eleven’ in Jon Bernthal’s $226 Million Heist Thriller Officially on Paramount+",
+      "url": "https://collider.com/jon-bernthal-baby-driver-streaming-success-paramount-plus-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "The Very First $400M Marvel Trilogy Is Officially Streaming in One Place",
       "url": "https://collider.com/blade-trilogy-wesley-snipes-streaming-peacock-october-2026",
       "reason": "fonte bloqueada"
@@ -729,18 +757,6 @@
       "source": "Collider",
       "title": "Peacock’s Cancelled 2-Season Murder Mystery Deserved a Much Longer Run",
       "url": "https://collider.com/poker-face-canceled-peacock-natasha-lyonne-season-3",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Collider",
-      "title": "FX's 3-Part Psychological Thriller Remake Is Way Better Than Its 59% RT Score",
-      "url": "https://collider.com/black-narcissus-fx-psychological-thriller-remake",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Collider",
-      "title": "Denzel Washington's $192M Action Hit Officially Finds a New Streaming Home on Netflix",
-      "url": "https://collider.com/the-equalizer-denzel-washington-streaming-netflix-october-2026",
       "reason": "fonte bloqueada"
     },
     {
@@ -798,20 +814,6 @@
       "url": "https://screenrant.com/baldurs-gate-3-sentient-amulet",
       "reason": "duplicata",
       "existing_id": "608512e0-5d18-4311-ac1c-2b0be1a98be5"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Superman Brings Back Classic Silver Age Villain With Twisted New Design",
-      "url": "https://screenrant.com/absolute-superman-chemo-metal-men-redesign",
-      "reason": "duplicata",
-      "existing_id": "3bad8605-41ef-4683-8b87-267eb4fa6d0f"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "25 Years Later, One Band of Brothers' Line Hits Harder Than Ever",
-      "url": "https://screenrant.com/band-of-brothers-quote-hits-harder-today",
-      "reason": "duplicata",
-      "existing_id": "d41939f9-5f51-4493-8b3e-bc4a4729d578"
     },
     {
       "source": "Mashable",
@@ -983,17 +985,17 @@
     },
     {
       "source": "GamesRadar+",
-      "title": "What is Avatar: Seven Havens? The Last Airbender sequel explained",
-      "url": "https://gamesradar.com/entertainment/animation-shows/what-is-avatar-seven-havens",
-      "reason": "duplicata",
-      "existing_id": "4d42f09d-6d26-4050-ba9e-b1550e6af766"
-    },
-    {
-      "source": "GamesRadar+",
       "title": "Playing God: The revolutionary AI that made Black & White still unforgettable",
       "url": "https://gamesradar.com/games/simulation/playing-god-the-revolutionary-ai-that-made-black-and-white-still-unforgettable",
       "reason": "duplicata",
       "existing_id": "b768349c-5721-43aa-a8f2-4fcc1dbf205d"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "What is Avatar: Seven Havens? The Last Airbender sequel explained",
+      "url": "https://gamesradar.com/entertainment/animation-shows/what-is-avatar-seven-havens",
+      "reason": "duplicata",
+      "existing_id": "4d42f09d-6d26-4050-ba9e-b1550e6af766"
     },
     {
       "source": "GamesRadar+",
@@ -1295,13 +1297,6 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2145394.html",
       "reason": "duplicata",
       "existing_id": "5be73a80-1a79-4489-a8db-70c5fc86701f"
-    },
-    {
-      "source": "PC Watch",
-      "title": "メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2145000.html",
-      "reason": "duplicata",
-      "existing_id": "9ee4d9d6-1d9b-4630-93c2-87fea5e499dc"
     },
     {
       "source": "ITmedia",

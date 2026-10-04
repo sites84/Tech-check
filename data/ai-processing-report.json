@@ -1,34 +1,22 @@
 {
-  "updated_at": "2026-10-04T21:29:13.076Z",
+  "updated_at": "2026-10-04T21:37:24.830Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "a7caaed9-6ffb-4012-9b6d-bc2c55aa3a10",
-      "title": "Por que comprei o EIZO FlexScan EV3451X: a aposta para os próximos 7 anos",
+      "id": "6721c889-563d-44b3-af39-c24023befe86",
+      "title": "Dell Pro Essential 14/15: O notebook corporativo de entrada que evoluiu com o feedback do mercado japonês",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "ebb232ac-040b-4ecb-a81f-e758ede8d996",
-      "title": "Como colocar a NPU da Intel para funcionar no Ubuntu usando o OpenVINO e o llama.cpp",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "d41939f9-5f51-4493-8b3e-bc4a4729d578",
-      "title": "Vinte e cinco anos depois, uma frase clássica de Band of Brothers ganha ainda mais peso",
+      "id": "03f68624-56b9-4591-b72d-2aee7c68ea1c",
+      "title": "10 filmes quase perfeitos dos anos 2000 que o público acabou esquecendo",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "3bad8605-41ef-4683-8b87-267eb4fa6d0f",
-      "title": "Superman resgata vilão clássico da Era de Prata com novo visual aterrorizante no Universo Absolute",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "608512e0-5d18-4311-ac1c-2b0be1a98be5",
-      "title": "Como encontrar e usar o Amulet Senciente em Baldur's Gate 3",
+      "id": "edb6da29-1671-4596-846e-5c7c4cfcc9e8",
+      "title": "Woodo combina estética de Animal Crossing com charme do Studio Ghibli em novo jogo aconchegante",
       "category": "Games",
       "status": "review"
     },
@@ -39,99 +27,9 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "8a7c572e-e840-40b4-a0d9-1a5bbd1fd7ae",
-      "title": "Por que a série Countdown, estrelada por Jensen Ackles, merecia muito mais do que a nota que recebeu",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "c408fc9e-df57-4565-9d23-0ca8acd955a2",
-      "title": "8 Notorious Horror Remakes And Why They Failed",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "7485dec7-de1e-4d7b-9b31-b90d57345ca8",
-      "title": "5 jogos de mundo aberto para fãs de A Knight of the Seven Kingdoms",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "09be153c-62ad-4a61-9413-7aa290e05bc2",
-      "title": "Dark Craft mistura a estética de blocos e o horror sombrio de Dark Souls em um RPG de mundo aberto gratuito",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "97c9140a-c4ab-4182-b19d-e28c429d2ced",
-      "title": "Novo filme dramático da Amazon com Aaron Pierre estreia com aprovação sólida no Rotten Tomatoes",
+      "title": "Por que tantas refilmagens de terror falham em recriar a magia dos clássicos",
       "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "02bd01e9-ce14-40ed-bf30-b11a860825b8",
-      "title": "6 bruxos de Harry Potter que são muito mais poderosos nos livros do que nos filmes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "fde8258f-d184-4b74-bbd6-cc388617471c",
-      "title": "Bastidores da Gamescom e da Tokyo Game Show: Uma Jornada Pessoal pelo Mundo dos Games",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "e4628640-18b0-4700-8905-7609d750a6a3",
-      "title": "O som teatral e industrial do Prick resgata a estética sombria dos anos 90",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "e794c45e-1c80-4c8e-8758-1a586198c7e6",
-      "title": "Novo Fitbit Edge vaza em imagens e revela design intermediário",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "2d729b7a-549d-4445-ac79-41d4a73478c3",
-      "title": "O que causa o efeito de screen tearing e como você pode corrigi-lo nos seus jogos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "39f82ac1-ae1f-4775-8118-f98e4f103093",
-      "title": "Jagex anuncia o desenvolvimento de um quarto jogo da franquia RuneScape com a Unreal Engine",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "0119c0bc-6643-4c92-ae04-5a685789a066",
-      "title": "O que o V-Sync realmente faz com a taxa de quadros por segundo do seu PC?",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "487c38ff-fc0a-4641-b5c4-db5a20710de7",
-      "title": "Cinco recursos do iPhone 18 Pro para testar logo após tirar da caixa",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "0fe5c1ed-5049-4889-8fec-e7740a837ddc",
-      "title": "Próximo MacBook Pro com OLED e tela sensível ao toque será significativamente mais leve",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "d3a4267e-385e-4724-9488-617903ccc58b",
-      "title": "A tentativa da administração Trump de rebatizar a inteligência artificial como superinteligência",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "565762ee-8078-4ab3-a5bf-b5d8514bb8f9",
-      "title": "Google suspende programa de recompensas por bugs em código aberto devido ao excesso de envios gerados por IA",
-      "category": "Segurança",
       "status": "review"
     },
     {
@@ -147,39 +45,141 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "dbe7537d-a975-4dde-9d92-687ff8ef6091",
-      "title": "Inteligência artificial burla regras e trapaceia em torneio de StarCraft",
-      "category": "Inteligência Artificial",
+      "id": "5237bbce-379a-454b-8740-bd3e2b503b0f",
+      "title": "As vantagens e desvantagens de ativar as chamadas Wi-Fi",
+      "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "a13c862a-6408-4df0-ab52-2583cf72ef8a",
-      "title": "Ex-vice-governador de Nova Jersey usa inteligência artificial para tentar negar acusações de assédio",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "6b36e612-f1ef-4222-aaca-e09474f691f6",
-      "title": "O que é o preenchimento na impressão 3D e ele é realmente necessário?",
+      "id": "375ffc93-5e17-41f2-b7e5-9bd84b1cdb96",
+      "title": "Os roteadores gamer realmente fazem diferença no desempenho da rede?",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "f6dab5e3-f227-4891-baa9-b3f1fcc43230",
-      "title": "Velocidade de internet versus largura de banda: qual é a diferença?",
-      "category": "Internet",
+      "id": "40ccdde1-5db7-4229-989e-84469f4c495a",
+      "title": "O que fazer quando apenas um dos seus AirPods funciona",
+      "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "cd516dc2-0c9e-4bea-8d06-93beb2697e56",
-      "title": "Por que você deve evitar sincronizar seu celular com um carro alugado",
-      "category": "Segurança",
+      "id": "8cac8107-7748-4efc-9083-3675585a0937",
+      "title": "Como desativar ou restringir os recursos de Inteligência Artificial no seu iPhone",
+      "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "116bafbf-2d50-4fee-bf98-bf1f48751c34",
-      "title": "Como remover alguns acessórios USB pode melhorar sua conexão Wi-Fi ruim",
+      "id": "88f1ff5e-e34c-47ba-8110-01c19d9c6729",
+      "title": "Trump anuncia líder de inteligência artificial para nova Força de Super Inteligência",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "fccbaa42-4e56-48fc-896e-31b3531a6e9e",
+      "title": "Decifrando os números e letras das câmeras digitais da Sony: o que cada sigla significa",
       "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "3d842fa4-0970-4648-8213-a13b6fe4ddc6",
+      "title": "Nova série documental do National Geographic explora a biodiversidade da África",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "6369b28f-03cc-41c7-95bf-662adf4cd5ee",
+      "title": "Donald Trump anuncia criação da Super Intelligence Force para liderança em IA",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "2d49ab24-37e6-4d45-b8e6-006df8d25f7d",
+      "title": "Nova lei da Califórnia aperta o cerco contra falhas e transtornos causados por robotaxis",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "4d42f09d-6d26-4050-ba9e-b1550e6af766",
+      "title": "Tudo o que você precisa saber sobre Avatar: Seven Havens, a nova série do universo de A Lenda de Aang",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "e174a27f-c3c8-40ff-8bd0-e4db79e349aa",
+      "title": "Como assistir a Denver Broncos contra San Francisco 49ers na NFL ao vivo e de graça",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ca5c6ea4-745c-46c5-97a3-0399632a173e",
+      "title": "Como assistir à partida entre Commanders e Colts na NFL ao vivo e de graça",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "321bb9d3-c40d-4d4e-9476-3c5963003e1b",
+      "title": "Licença perpétua do Microsoft Office para Mac está em oferta por US$ 89,97",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "eb230aff-9722-40c1-aa0f-da091fa74919",
+      "title": "Aplicativo de aprendizado de piano flowkey oferece assinatura de cinco anos por menos de 16 dólares ao ano",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "d0d0f7d5-8ed3-44d3-923b-9e49af141b73",
+      "title": "As melhores ofertas antecipadas de tecnologia para o Prime Day de outubro de 2026",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "197864b8-baf1-4dfa-94cf-160f5df862c7",
+      "title": "Remake de The Legend of Zelda: Ocarina of Time ganha desconto de pré-venda na Amazon",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9123221b-099a-49ae-bc20-7224bff46ad6",
+      "title": "Quais são as palavras que o Wordle ainda não utilizou? Descubra a lista completa",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "446160be-a631-4844-bc07-4d6a4d571335",
+      "title": "Reacher Season 5 Has The Perfect Excuse To Bring Back A Missing Character",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "43be0d8a-2f9e-4752-b9e9-ae5120ca950a",
+      "title": "10 Worst Dystopian Movie Worlds To Live In, Ranked",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "de862f03-8b26-4210-a365-44d5ab748de9",
+      "title": "Sam Raimi's Popular $374M Horror Franchise Dominates HBO Max With New Movie At The Perfect Time",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "ccd973a4-25a1-41b9-9433-c441e194bca0",
+      "title": "Após 18 Anos, o Hulk Está Mais Próximo de um Aprimoramento de Poder no MCU do que Nunca",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "90389c32-32b6-4925-93c8-a3ebac3d1c2e",
+      "title": "Square Enix anuncia a nova Final Fantasy TCG: Anniversary Collection Set 2027",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "78f37460-207b-4ab2-a280-233c6c080c9a",
+      "title": "Dicas e Resposta do Wordle para 4 de Outubro de 2026 (Puzzle 1933)",
+      "category": "Games",
       "status": "review"
     },
     {
