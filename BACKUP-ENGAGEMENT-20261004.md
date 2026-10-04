@@ -1,0 +1,1 @@
+Backup marker before restoring native Curtir/Compartilhar controls. Stable commit immediately before this change: 6021abbf138c64f5358a32a1946005e5d15bbd80. Restore to this commit if necessary.
