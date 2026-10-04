@@ -1,11 +1,137 @@
 {
-  "updated_at": "2026-10-04T17:42:58.974Z",
+  "updated_at": "2026-10-04T21:29:13.076Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "86f38d13-3b23-470c-ba44-c4ad5f894675",
-      "title": "O boom do gás natural liquefeito perde força na sua maior aposta asiática",
-      "category": "Empresas",
+      "id": "a7caaed9-6ffb-4012-9b6d-bc2c55aa3a10",
+      "title": "Por que comprei o EIZO FlexScan EV3451X: a aposta para os próximos 7 anos",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "ebb232ac-040b-4ecb-a81f-e758ede8d996",
+      "title": "Como colocar a NPU da Intel para funcionar no Ubuntu usando o OpenVINO e o llama.cpp",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "d41939f9-5f51-4493-8b3e-bc4a4729d578",
+      "title": "Vinte e cinco anos depois, uma frase clássica de Band of Brothers ganha ainda mais peso",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "3bad8605-41ef-4683-8b87-267eb4fa6d0f",
+      "title": "Superman resgata vilão clássico da Era de Prata com novo visual aterrorizante no Universo Absolute",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "608512e0-5d18-4311-ac1c-2b0be1a98be5",
+      "title": "Como encontrar e usar o Amulet Senciente em Baldur's Gate 3",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "1f8bbe27-59d0-4f49-a3e4-80ab499a997c",
+      "title": "Practical Magic Ending Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "8a7c572e-e840-40b4-a0d9-1a5bbd1fd7ae",
+      "title": "Por que a série Countdown, estrelada por Jensen Ackles, merecia muito mais do que a nota que recebeu",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "c408fc9e-df57-4565-9d23-0ca8acd955a2",
+      "title": "8 Notorious Horror Remakes And Why They Failed",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "7485dec7-de1e-4d7b-9b31-b90d57345ca8",
+      "title": "5 jogos de mundo aberto para fãs de A Knight of the Seven Kingdoms",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "09be153c-62ad-4a61-9413-7aa290e05bc2",
+      "title": "Dark Craft mistura a estética de blocos e o horror sombrio de Dark Souls em um RPG de mundo aberto gratuito",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "97c9140a-c4ab-4182-b19d-e28c429d2ced",
+      "title": "Novo filme dramático da Amazon com Aaron Pierre estreia com aprovação sólida no Rotten Tomatoes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "02bd01e9-ce14-40ed-bf30-b11a860825b8",
+      "title": "6 bruxos de Harry Potter que são muito mais poderosos nos livros do que nos filmes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "fde8258f-d184-4b74-bbd6-cc388617471c",
+      "title": "Bastidores da Gamescom e da Tokyo Game Show: Uma Jornada Pessoal pelo Mundo dos Games",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "e4628640-18b0-4700-8905-7609d750a6a3",
+      "title": "O som teatral e industrial do Prick resgata a estética sombria dos anos 90",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "e794c45e-1c80-4c8e-8758-1a586198c7e6",
+      "title": "Novo Fitbit Edge vaza em imagens e revela design intermediário",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "2d729b7a-549d-4445-ac79-41d4a73478c3",
+      "title": "O que causa o efeito de screen tearing e como você pode corrigi-lo nos seus jogos",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "39f82ac1-ae1f-4775-8118-f98e4f103093",
+      "title": "Jagex anuncia o desenvolvimento de um quarto jogo da franquia RuneScape com a Unreal Engine",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "0119c0bc-6643-4c92-ae04-5a685789a066",
+      "title": "O que o V-Sync realmente faz com a taxa de quadros por segundo do seu PC?",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "487c38ff-fc0a-4641-b5c4-db5a20710de7",
+      "title": "Cinco recursos do iPhone 18 Pro para testar logo após tirar da caixa",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "0fe5c1ed-5049-4889-8fec-e7740a837ddc",
+      "title": "Próximo MacBook Pro com OLED e tela sensível ao toque será significativamente mais leve",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "d3a4267e-385e-4724-9488-617903ccc58b",
+      "title": "A tentativa da administração Trump de rebatizar a inteligência artificial como superinteligência",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "565762ee-8078-4ab3-a5bf-b5d8514bb8f9",
+      "title": "Google suspende programa de recompensas por bugs em código aberto devido ao excesso de envios gerados por IA",
+      "category": "Segurança",
       "status": "review"
     },
     {
@@ -15,171 +141,45 @@
       "error": "Categoria inválida retornada pelo Gemini: Sociedade"
     },
     {
-      "id": "04efa008-ebe8-4a2b-ac4e-e4b8cb5b22be",
-      "title": "Protestos na Tailândia colocam empresas chinesas e estrangeiras no centro do debate econômico",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "7d72664d-0b8e-4662-830e-f74a9735faad",
-      "title": "Arábia Saudita e Emirados Árabes Unidos vão fortalecer reservas de petróleo na Ásia",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "5e24b1a8-3307-4bec-bd1c-a05a78dabcf1",
-      "title": "Capcom quer transformar a RE Engine em um motor gráfico da era da inteligência artificial",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "5a60aed0-4fe8-436c-87ba-da090e669f84",
-      "title": "Sonic ganha uma estátua de porcelana extremamente rara e cara",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "97a8822f-94ef-449f-a968-b89e882bee1b",
-      "title": "Por que a Lua é considerada um \"Velho Oeste\" jurídico e sem regras para empresas privadas",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "5bb87755-d028-4d1e-a0a1-8169429ed608",
-      "title": "Jagex anuncia um quarto MMORPG de RuneScape desenvolvido com a Unreal Engine",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "223867bf-a5d2-49d8-acd7-d97e94fbd857",
-      "title": "Ex-chefe da PlayStation aponta que consoles de US$ 1.000 precisam de mais do que melhorias marginais",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "c38ebc91-7743-4277-a074-cdc0cde1aa9a",
-      "title": "Chefão da PlatinumGames sugere novos jogos de Bayonetta para o futuro",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "5ad0b912-d66d-414f-827b-a4d2c150c596",
-      "title": "Ex-líder de GTA considera um grande elogio ser comparado a clássicos da Rockstar",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "2eb8737b-9ace-4023-b2d4-40b0c454413d",
-      "title": "Mulher da Flórida usa o Claude como diário e Anthropic aciona a polícia após registro sobre ataque",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "49170261-2761-4203-8407-fc6e67336dd5",
-      "title": "RuneScape 4 esta oficialmente em desenvolvimento e comecou como uma expansao de Dragonwilds",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "b701053e-5ef9-4db7-9c7d-bfe15bf49d81",
-      "title": "Nova revisão silenciosa do PS5 Slim revela como os consoles mudam muito tempo após o lançamento",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "55ef60ad-e083-4f13-aff1-505bd58513ce",
-      "title": "Steam registra recordes de faturamento e caminha para ultrapassar US$ 20 bilhões pela primeira vez",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "1d9aef4b-cd06-48b0-a705-439d6a550ecf",
-      "title": "Taylor Swift surpreende e aparece no monólogo de Dakota Johnson no Saturday Night Live",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "5bbc72b1-88d5-4389-8ef3-f4accb736d9d",
-      "title": "Pete Hegseth faz poesia slam em abertura do SNL focada em anúncios de campanha",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "2acacf7c-3472-4817-b535-be540366e9e7",
-      "title": "Jason de GTA 6 e Link de The Legend of Zelda batem de frente no Weekend Update do SNL",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "ac4ef454-9aa5-4caf-838a-1f21e0c6d103",
       "title": "Diggers box office bomb is Tom Cruises worst opening in 19 years",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "88f228b9-e65d-4f4e-b72e-d020ee879fd5",
-      "title": "Um panorama pelas adaptações televisivas das obras de Terry Pratchett",
-      "category": "Filmes, Séries e Animações",
+      "id": "dbe7537d-a975-4dde-9d92-687ff8ef6091",
+      "title": "Inteligência artificial burla regras e trapaceia em torneio de StarCraft",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "a0ca1dd5-89fe-469d-a946-1907da6c8e23",
-      "title": "As Melhores Séries de Faroeste de Todos os Tempos: Uma Viagem Pelas Fronteiras da TV",
-      "category": "Filmes, Séries e Animações",
+      "id": "a13c862a-6408-4df0-ab52-2583cf72ef8a",
+      "title": "Ex-vice-governador de Nova Jersey usa inteligência artificial para tentar negar acusações de assédio",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
-      "id": "7a89c238-069a-4bb7-9329-d7899db228da",
-      "title": "O clássico cult de fantasia de Robin Williams continua sendo uma obra-prima trágica",
-      "category": "Filmes, Séries e Animações",
+      "id": "6b36e612-f1ef-4222-aaca-e09474f691f6",
+      "title": "O que é o preenchimento na impressão 3D e ele é realmente necessário?",
+      "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "2d13b854-9cc6-42c7-8380-c40bbc70584f",
-      "title": "As 13 séries mais assustadoras de todos os tempos para assistir no Halloween",
-      "category": "Filmes, Séries e Animações",
+      "id": "f6dab5e3-f227-4891-baa9-b3f1fcc43230",
+      "title": "Velocidade de internet versus largura de banda: qual é a diferença?",
+      "category": "Internet",
       "status": "review"
     },
     {
-      "id": "49558fc1-1ace-43f7-b62a-9cdedd115d8d",
-      "title": "Novo jogo estilo Animal Crossing para PC ganha demonstração gratuita no Steam",
-      "category": "Games",
+      "id": "cd516dc2-0c9e-4bea-8d06-93beb2697e56",
+      "title": "Por que você deve evitar sincronizar seu celular com um carro alugado",
+      "category": "Segurança",
       "status": "review"
     },
     {
-      "id": "79d1651d-a793-4753-aec1-352cf421ec90",
-      "title": "Conheça todas as versões da Supergirl dos quadrinhos classificadas da mais fraca à mais poderosa",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "4f656091-ba82-4096-a2e5-7f6912fed509",
-      "title": "Todos os 9 Robins em live-action da DC classificados do pior ao melhor",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "7552ceee-249b-4ecb-8897-b0018382de38",
-      "title": "Jogadores de Red Dead Redemption 2 encontram forma de entrar na cabana trancada de Braithwaite após 8 anos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "66316b0c-e756-440d-9c95-0bd3c18c4014",
-      "title": "As Oito Melhores Paródias de Doctor Who na Televisão e Além",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "c2ebf750-248a-4ca9-b340-651986d1b6f9",
-      "title": "Fãs de Solo Leveling ganham coleção oficial de roupas inspirada em Beru e Igris",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "d84dd5cb-6881-450a-9200-13d326e2e6d3",
-      "title": "Conheça a carteira magnética modular e com alavanca que conquistou o The Verge",
-      "category": "Smartphones",
+      "id": "116bafbf-2d50-4fee-bf98-bf1f48751c34",
+      "title": "Como remover alguns acessórios USB pode melhorar sua conexão Wi-Fi ruim",
+      "category": "Computadores",
       "status": "review"
     },
     {
