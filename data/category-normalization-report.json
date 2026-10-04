@@ -1,39 +1,45 @@
 {
-  "updated_at": "2026-10-04T07:02:49.323Z",
+  "updated_at": "2026-10-04T13:18:43.986Z",
   "fixed": [
     {
-      "id": "be07b135-9bbd-4321-8e2e-e83d51be628d",
-      "title": "It's The End Of An Era For Nintendo LEGO Sets",
+      "id": "22d292a9-83f9-46fa-8570-bf77fa5d2647",
+      "title": "Rumour: Sony &#039;Accepting Game Pitches&#039; on Fan Fave Franchises, First Wave Due Around PS6 Launch",
       "from": [],
+      "to": "Games"
+    },
+    {
+      "id": "73769a0c-318a-4493-8238-3d7bcd5cbb66",
+      "title": "5 Game Boy Advance Games That Are 10/10 Masterpieces",
+      "from": [],
+      "to": "Games"
+    },
+    {
+      "id": "5c290203-030a-4223-9070-e25ec0f3ee31",
+      "title": "The Witcher 3: Wild Hunt Is Officially About To Become Unplayable For A Lot Of Gamers",
+      "from": [],
+      "to": "Games"
+    },
+    {
+      "id": "197864b8-baf1-4dfa-94cf-160f5df862c7",
+      "title": "Save $10 on preorders of Nintendos The Legend of Zelda: Ocarina of Time",
+      "from": [],
+      "to": "Games"
+    },
+    {
+      "id": "3ffea321-ceef-4cde-ab71-e32bd86ac441",
+      "title": "Conselho Olímpico da Ásia classifica Jogos Asiáticos como sucesso apesar de falhas logísticas",
+      "from": [
+        "Empresas"
+      ],
       "to": "Games"
     }
   ],
   "unresolved": [
     {
-      "id": "3f08cef0-eda5-4bbe-80c2-f11c9701d126",
-      "title": "Chefes de Tecnologia Tornam-se os Vilões Favoritos do Cinema nesta Temporada",
-      "existing": [
-        "Curiosidades"
-      ],
-      "sources": [
-        "Gizmodo"
-      ]
-    },
-    {
       "id": "83ef2711-669f-4579-b108-3fa22be4e457",
       "title": "Battlestar Galactica’s Forgotten 19-Part Replacement Series Was Years Ahead Of Its Time",
       "existing": [],
       "sources": []
-    },
-    {
-      "id": "434a805f-7cf5-4eba-bea9-8204dce0f48a",
-      "title": "A diretora Erin Lee Carr analisa o impacto perturbador do reality show The Swan em novo documentário",
-      "existing": [
-        "Curiosidades"
-      ],
-      "sources": [
-        "Mashable"
-      ]
     },
     {
       "id": "fb6f3cd3-0555-4ee0-b308-70e980dfa664",
@@ -96,8 +102,54 @@
       "sources": []
     },
     {
+      "id": "3f08cef0-eda5-4bbe-80c2-f11c9701d126",
+      "title": "Chefes de Tecnologia Tornam-se os Vilões Favoritos do Cinema nesta Temporada",
+      "existing": [
+        "Curiosidades"
+      ],
+      "sources": [
+        "Gizmodo"
+      ]
+    },
+    {
       "id": "6e544bb9-3be4-499c-ba74-303da320b868",
       "title": "Star-Trek-Film aus der T�rkei: Ein Salzvampir, ein gelber Spock - und Tourist �mer",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "200e3b81-cd29-4eef-a57e-d37f3a0df9ae",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "6bdbab9f-9e9f-4a1f-bf9d-75760933a02c",
+      "title": "Customizing your Samsung Galaxy phone is a bit easier with One UI 9",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "b7f1e443-1361-40ae-8381-73806a3f2c55",
+      "title": "How to use Android's Motion Assist feature to help with motion sickness",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "21a6754d-d466-43b5-9167-c68f87dc092b",
+      "title": "How much does DDR5 RAM speed matter for gaming?",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "4a6f7471-1126-44c0-a0e1-d5ed189fa6fe",
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "f52528e2-421f-4620-8276-97a2706632e9",
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
       "existing": [],
       "sources": []
     },
@@ -108,8 +160,152 @@
       "sources": []
     },
     {
+      "id": "536f170a-2eb9-43a1-82ff-d6dbdb626432",
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "08b987cc-30a5-4461-938d-7186d8a9828e",
+      "title": "The forgotten Chromebook that started it all",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "5f371fde-9953-459a-9c96-d393334d7496",
+      "title": "The rise, fall, and rise of portable MP3 players",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "851ed516-37ed-4e0a-9154-76232ba28dfa",
+      "title": "Amazon’s colorful and sturdy new Kindles",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "db063261-77a4-4a35-af5c-c783665759c8",
+      "title": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "11dfe6aa-62ae-4252-851d-f6d981396f94",
+      "title": "Hamaguchi: It &#8216;wasn&#8217;t easy&#8217; to keep the FF7 Remake trilogy plot intact and not turn it into his &#8216;own personal fan project&#8217;",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "b14ba453-f996-4830-b821-13495d592480",
+      "title": "&#8216;I did my best&#8217;: Final Fantasy 7 Revelation director says he argued for physical version",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "cbd646c4-2842-4884-9c02-82bc26e934fb",
+      "title": "Jagex has officially announced RuneScape 4",
+      "existing": [],
+      "sources": []
+    },
+    {
       "id": "310fe36d-7e5d-41b4-ae25-16afedcf9d67",
       "title": "Takaichi policy speech, Malaysia budget, Pacific islands climate summit",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "9cb572df-7240-4c76-a46d-45adf21122d4",
+      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "7d972b12-b4c3-4fca-bcdb-2d2ec842188e",
+      "title": "Save streaming shows to your Mac for travel with this $95.99 downloader",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "8a0a9de5-9cbb-4cad-be85-6d0f84d87586",
+      "title": "Batman’s Newest Ally Rips Apart One Of His Biggest Villains",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "78f37460-207b-4ab2-a280-233c6c080c9a",
+      "title": "Wordle & Answer & Hints For October 4, 2026",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "90389c32-32b6-4925-93c8-a3ebac3d1c2e",
+      "title": "Final Fantasy Reveals New Anniversary Collection For 2027",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "ccd973a4-25a1-41b9-9433-c441e194bca0",
+      "title": "After 18 Years, The Hulk Is Closer To An MCU Power Upgrade Than Ever Before",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "de862f03-8b26-4210-a365-44d5ab748de9",
+      "title": "Sam Raimi's Popular $374M Horror Franchise Dominates HBO Max With New Movie At The Perfect Time",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "43be0d8a-2f9e-4752-b9e9-ae5120ca950a",
+      "title": "10 Worst Dystopian Movie Worlds To Live In, Ranked",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "446160be-a631-4844-bc07-4d6a4d571335",
+      "title": "Reacher Season 5 Has The Perfect Excuse To Bring Back A Missing Character",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "9123221b-099a-49ae-bc20-7224bff46ad6",
+      "title": "5 Letter Words Wordle Hasn't Used Yet (Updated Daily)",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "d0d0f7d5-8ed3-44d3-923b-9e49af141b73",
+      "title": "21 early October Prime Day tech deals, hand-picked by our gadget-obsessed experts",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "eb230aff-9722-40c1-aa0f-da091fa74919",
+      "title": "Learn piano at home for less than $16 a year with this AI-powered app",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "321bb9d3-c40d-4d4e-9476-3c5963003e1b",
+      "title": "Instead of paying $99.99 per year for Microsoft 365, you can get Microsoft Office for life for $89.97",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "ca5c6ea4-745c-46c5-97a3-0399632a173e",
+      "title": "How to watch Commanders vs. Colts in the NFL online for free",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "e174a27f-c3c8-40ff-8bd0-e4db79e349aa",
+      "title": "How to watch Broncos vs. 49ers in the NFL online for free",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "4d42f09d-6d26-4050-ba9e-b1550e6af766",
+      "title": "What is Avatar: Seven Havens? The Last Airbender sequel explained",
       "existing": [],
       "sources": []
     },
@@ -164,13 +360,13 @@
       ]
     },
     {
-      "id": "129436f4-5523-4df4-9b1c-5dd4a548d5f3",
-      "title": "Como resolver o erro 'Character creation restricted' em Aion 2",
+      "id": "434a805f-7cf5-4eba-bea9-8204dce0f48a",
+      "title": "A diretora Erin Lee Carr analisa o impacto perturbador do reality show The Swan em novo documentário",
       "existing": [
-        "Como funciona?"
+        "Curiosidades"
       ],
       "sources": [
-        "VGC"
+        "Mashable"
       ]
     },
     {
@@ -429,6 +625,16 @@
       "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
       "existing": [],
       "sources": []
+    },
+    {
+      "id": "129436f4-5523-4df4-9b1c-5dd4a548d5f3",
+      "title": "Como resolver o erro 'Character creation restricted' em Aion 2",
+      "existing": [
+        "Como funciona?"
+      ],
+      "sources": [
+        "VGC"
+      ]
     },
     {
       "id": "e04ea005-1289-4ddc-b10b-3280fd799869",
