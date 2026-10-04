@@ -1,0 +1,1 @@
+Backup marker for the stable state immediately before mobile/accessibility/readability improvements on 2026-10-04. Stable commit: 0f96838b38a05b7fe51bc5b0178e27452c30bbba. Restore main to this commit if the implementation needs to be reverted.
