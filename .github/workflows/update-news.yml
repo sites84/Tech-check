@@ -84,6 +84,11 @@ jobs:
           mkdir -p .seo-tools
           npm install --prefix .seo-tools --no-save sharp@0.33.5
           node worker/generate-seo-stable.mjs
+      - name: Gerar páginas próprias de curiosidades, fundamentos, tutoriais e comparativos
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/generate-evergreen-pages.mjs
       - name: Adicionar fotos e vídeos das fontes originais
         continue-on-error: true
         env:
@@ -127,7 +132,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git fetch origin main
           git reset --mixed origin/main
-          git add data sitemap.xml robots.txt noticias assets/news page tutoriais comparativos runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
+          git add data sitemap.xml robots.txt noticias assets/news page tutoriais comparativos curiosidades runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."
             exit 0
@@ -141,6 +146,6 @@ jobs:
             if [ "$attempt" -eq 3 ]; then exit 1; fi
             git fetch origin main
             git reset --mixed origin/main
-            git add data sitemap.xml robots.txt noticias assets/news page tutoriais comparativos runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
+            git add data sitemap.xml robots.txt noticias assets/news page tutoriais comparativos curiosidades runtime-fixes.js index.html */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs
             git commit -m "chore: atualizar feed, páginas, imagens e SEO" || true
           done
