@@ -1,80 +1,580 @@
 {
-  "updated_at": "2026-10-05T11:25:17.795Z",
+  "updated_at": "2026-10-05T16:06:43.047Z",
   "inserted": [
     {
-      "id": "eb987652-3814-402e-91a2-55f08effa6af",
-      "title": "AI game mashup videos on social media spark debate and backlash among players and modders",
+      "id": "4ebe28b5-4390-4432-be53-b1b5df1d8a9d",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "fa73cf0b-3da2-4d17-a836-fe2db07c9c4f",
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "c3e7f091-4f6c-44b8-a6ba-8906ca524804",
+      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "95a44e33-d351-4554-8a6a-98d1b3c3e1d5",
+      "title": "Hackers steal 8 million citizens&#8217; records from Danish government database",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6028761c-9b51-4a03-afd3-f01095cf2dd5",
+      "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "6f2c00d9-e7cd-4d5c-ad3b-1d2ab0c06f54",
+      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "8ef6641a-031a-4e6c-9f0f-89f69b8f8f97",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "aa593b97-144c-4211-b1a3-a2e7f9cf8e2e",
+      "title": "Can Safeworld convince people that GenAI robots won&#8217;t hurt them?",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "b2b2977c-c7f5-463a-a877-796c8576f735",
+      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+      "source": "Ars Technica"
+    },
+    {
+      "id": "6734e9aa-4ae9-4c53-9836-95a18c55aafc",
+      "title": "AI glasses face their first major government crackdown",
+      "source": "Ars Technica"
+    },
+    {
+      "id": "4db31a56-c016-4c24-84a1-850f2366ec52",
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "source": "Ars Technica"
+    },
+    {
+      "id": "d110f409-d0d6-4aa7-a4bf-de358f1f65ef",
+      "title": "Poland's antitrust regulator accuses Google of unfair market practices",
+      "source": "Engadget"
+    },
+    {
+      "id": "e1192b23-76e4-46b4-a15c-3f0a1977f350",
+      "title": "Wing and Walmart are bringing drone deliveries to Denver and Seattle in 2027",
+      "source": "Engadget"
+    },
+    {
+      "id": "87de0f12-f339-4661-a4cb-78509ea28abf",
+      "title": "Here's why it's important to keep your phone apps updated",
+      "source": "Engadget"
+    },
+    {
+      "id": "afa9ea52-1784-4059-b19f-87962b6c216b",
+      "title": "How to turn on Developer Mode on your Chromebook",
+      "source": "Engadget"
+    },
+    {
+      "id": "49669b7e-c2f5-4a75-aded-89459486e4cc",
+      "title": "OpenAI is testing more ads in ChatGPT",
+      "source": "Engadget"
+    },
+    {
+      "id": "cbdfa34d-57cd-42df-afc5-afe8e025dbfa",
+      "title": "Siri can index more of your personal data — here's how to limit it",
+      "source": "Engadget"
+    },
+    {
+      "id": "ed5d5629-64c3-43af-90db-50803abe6efe",
+      "title": "Are phone coolers actually worth it?",
+      "source": "Engadget"
+    },
+    {
+      "id": "042f8222-e4ba-4d59-a111-50b922321283",
+      "title": "How far away can a Wi-Fi extender be from your router?",
+      "source": "Engadget"
+    },
+    {
+      "id": "f373beae-ecd5-4f59-ab80-f44892e10462",
+      "title": "Google admits some 'complex' Android apps run poorly on Intel Googlebooks",
+      "source": "Engadget"
+    },
+    {
+      "id": "5747d464-d1fc-45e9-b13b-7a485cd2ebe7",
+      "title": "How long can you expect an Xbox Series X to last?",
+      "source": "Engadget"
+    },
+    {
+      "id": "7e53b98e-c3b0-4d1f-a45e-964865d43f85",
+      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+      "source": "The Verge"
+    },
+    {
+      "id": "afd9e4f6-b986-4ba8-8910-eff7ada8a807",
+      "title": "Apple’s new M6 Mac Mini is over $100 off",
+      "source": "The Verge"
+    },
+    {
+      "id": "2662437d-8239-4292-81d4-fd76f0b57fae",
+      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+      "source": "The Verge"
+    },
+    {
+      "id": "edbb6a26-c1fc-404c-a851-c4bb6f045831",
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "source": "The Verge"
+    },
+    {
+      "id": "97a89044-571e-4b77-844c-dbd7867f1d93",
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "source": "The Verge"
+    },
+    {
+      "id": "f0000013-380a-49dd-9af0-b8c13338ab45",
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "source": "The Verge"
+    },
+    {
+      "id": "c51b9443-5da0-4016-a4bb-36d47d7d053e",
+      "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+      "source": "The Verge"
+    },
+    {
+      "id": "be4b350d-4844-4357-9229-1f94d8dab3b4",
+      "title": "Aion 2: 5 things I wish I knew before playing Aion 2",
       "source": "VGC"
     },
     {
-      "id": "abf97345-cd2c-4875-8830-c0afaeae2678",
+      "id": "024540d5-d2d3-4003-b0c7-f650f8f0bd4a",
+      "title": "Aion 2 Essence Extraction guide: Upgrading Essence Extraction and success rates",
+      "source": "VGC"
+    },
+    {
+      "id": "2daca1d9-906d-4736-a118-608662a9e587",
+      "title": "The Coalition used the SSD on Xbox Series S as makeshift RAM to help Gears of War E-Day run smoothly on it",
+      "source": "VGC"
+    },
+    {
+      "id": "19356fb3-bcc3-4473-ae16-95d760fbd0de",
+      "title": "Aion 2 FAQ: Everything you need to know about Aion 2",
+      "source": "VGC"
+    },
+    {
+      "id": "8a0ca7d9-478c-4d7a-929f-4f6b1c324fb0",
+      "title": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians",
+      "source": "VGC"
+    },
+    {
+      "id": "ba3ccff0-d178-485c-adc7-69424a7a935c",
+      "title": "Hellblade studio Ninja Theory has started laying off staff, following Xbox&#8217;s announcement that it faces closure",
+      "source": "VGC"
+    },
+    {
+      "id": "2ce92927-1ca5-41f0-abef-fff90a0277d8",
+      "title": "Dragon’s Dogma 2: Dark Arisen devs explain why they&#8217;re not abandoning the &#8216;friction&#8217; that makes it special",
+      "source": "VGC"
+    },
+    {
+      "id": "615306af-911a-44da-8030-206de6002b34",
+      "title": "Dark Pictures Dev&#039;s Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
+      "source": "Push Square"
+    },
+    {
+      "id": "fe3b5eef-e4b1-4b92-ba28-b277333bb8c1",
+      "title": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
+      "source": "Push Square"
+    },
+    {
+      "id": "e280835d-5a55-4b32-8cbb-9ed89210ae3d",
+      "title": "Disappointment as Kingdom Hearts PS5 Pulls Back Platinum Trophies",
+      "source": "Push Square"
+    },
+    {
+      "id": "d89cf1b7-35c8-4e46-9c5e-b084db6aa832",
+      "title": "Review: Dune: Awakening (PS5) - What a Time to Be a Duner",
+      "source": "Push Square"
+    },
+    {
+      "id": "ead0da45-2fe4-4ab7-b8a3-e8a4c32545b0",
+      "title": "Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store&#039;s Autumn Adventures Sale",
+      "source": "Push Square"
+    },
+    {
+      "id": "503ebf3e-126a-472e-9d4c-29c094d09fd6",
+      "title": "&#039;Part 1&#039; of Gran Turismo 7&#039;s Massive Spec 4 Update Is Available Very Soon on PS5, PS4",
+      "source": "Push Square"
+    },
+    {
+      "id": "325367bf-7ebd-4a79-b681-7043443047f7",
+      "title": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)",
+      "source": "Push Square"
+    },
+    {
+      "id": "3e7ed0af-3e90-429e-b402-f77fb98da213",
+      "title": "Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently",
+      "source": "Push Square"
+    },
+    {
+      "id": "9e71bf34-e0ce-4c1a-9c66-b3e5a79635bb",
+      "title": "Get the AirPods Pro 3 for the best price all year in early Prime Day deal",
+      "source": "Macworld"
+    },
+    {
+      "id": "fc39293f-7c51-4318-b2e6-3447d34387ba",
+      "title": "Best magnetic power banks and MagSafe portable chargers for iPhone 2026",
+      "source": "Macworld"
+    },
+    {
+      "id": "a37496c1-57c4-487f-8bd1-4e278607db60",
+      "title": "Best iPad Prime Day deals October 2026: Save on iPad Air, iPad Pro and iPad mini",
+      "source": "Macworld"
+    },
+    {
+      "id": "581d4794-942b-48e7-9469-89b72aff6bdf",
+      "title": "Forget Stranger Things, Stephen King's New Horror Series Officially Hits Prime Video This Week",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "ee5c9026-ef89-4439-9753-f5c853f99e6a",
+      "title": "CBS’ Groundbreaking Crime Thriller Hits 900 Day Streaming Milestone Ahead Of Landmark Season",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "d7da3363-95da-488d-8ec8-49a35e6683d1",
+      "title": "Dungeons & Dragons: World of Warcraft Preview - Dungeons, Monsters, Professions, & More",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "b9ddfc6d-11c2-420d-aadc-fcaea3b0bd06",
+      "title": "The Simpsons Game Is Finally Back After 19 Years",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "908ca6dc-e75f-4ae1-9f22-5d111220318e",
+      "title": "New Hercule Poirot Series Officially Adapting Agatha Christie’s Hit 94-Year-Old Mystery Novel",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "667c3ce6-a4e6-4e2d-8fbd-418d40169a44",
+      "title": "Tom Cruise's \"Messy\" Legal Thriller Adaptation Gets Official Verdict From Original Author",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "3b18238d-4a06-40c4-82ec-f9e8026c8462",
+      "title": "FFXIV: How To Unlock Alexander Raids",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "9a6dd963-a597-46fc-b153-0c43bb505169",
+      "title": "The Best Quote From Every Stark In A Song Of Ice And Fire",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "82c2a590-a060-4223-af72-3ed9a2475d9a",
+      "title": "Owen Wilson’s New Movie Officially Earns Record Low Box Office Debut",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "76003fcc-d98c-47ce-b238-4a5354a2a2d1",
+      "title": "Aion 2's Global Launch Is All About Letting Players Soar To New Heights",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "96c91ee0-ecb7-4cb0-9a5a-706b84a108ca",
+      "title": "Harry Potter x Blvck Paris is back for another limited-edition drop — how to shop the all-black Wizarding World collection",
+      "source": "Mashable"
+    },
+    {
+      "id": "901cba00-0540-4f3f-87e5-1ef79efa0754",
+      "title": "The best early October Prime Day deals on iPads, according to Mashables tech experts",
+      "source": "Mashable"
+    },
+    {
+      "id": "4bc25ba3-a15a-4749-8643-abd0604cee82",
+      "title": "October podcast guide: 8 shows to watch and listen to",
+      "source": "Mashable"
+    },
+    {
+      "id": "14136c8f-b057-4a7a-b865-448dad6b658f",
+      "title": "ChatGPT has new ad formats. Heres what they look like.",
+      "source": "Mashable"
+    },
+    {
+      "id": "6e4879cf-cb0d-4388-8b81-1fe54bf24227",
+      "title": "The best early Prime Day deals on Pokémon, including Perfect Order Booster Bundle for under $45",
+      "source": "Mashable"
+    },
+    {
+      "id": "5046bf9b-b6d7-4b28-9681-13fd02b4739d",
+      "title": "The best power tool deals ahead of October Prime Day: DeWalt, Craftsman, Husqvarna, and more",
+      "source": "Mashable"
+    },
+    {
+      "id": "23aa65dd-e11d-40a3-bd32-25b0ac09ea58",
+      "title": "The 15 best early October Prime Day noise-cancelling headphones deals: Shop Bose, AirPods, and Sony",
+      "source": "Mashable"
+    },
+    {
+      "id": "4f83f869-58ba-4931-bddc-0d15b8183d14",
+      "title": "The latest MacBook Ultra rumors: What we know about Apples OLED touchscreen Macs",
+      "source": "Mashable"
+    },
+    {
+      "id": "4d33e2e3-13b3-4891-9475-a17840122bc0",
+      "title": "The best early October Prime Day deals on DJI: I found deals on mics, drones, and cameras worth buying",
+      "source": "Mashable"
+    },
+    {
+      "id": "30cbb033-2a84-4952-a450-8329b2d1b879",
+      "title": "Google Gemini access is changing. Free users, take note.",
+      "source": "Mashable"
+    },
+    {
+      "id": "8fc3326f-303c-4dd5-8c00-f499d44abdcc",
+      "title": "Amazon is spending $1 billion to win over towns fighting its data centers",
+      "source": "TechSpot"
+    },
+    {
+      "id": "8da653a3-9545-44f7-a69d-4b2e2aa6d674",
+      "title": "Elon Musk says SpaceXAI will become SpaceXSI as Trump pushes to use \"Super Intelligence\" over AI",
+      "source": "TechSpot"
+    },
+    {
+      "id": "fa8e96e3-4846-40e7-8f6d-c3726927b296",
+      "title": "Blue Origin reveals 65-foot solar tower designed to power future bases on the Moon",
+      "source": "TechSpot"
+    },
+    {
+      "id": "aae057a0-f555-45b4-9f97-41e16593c113",
+      "title": "This open-source tool aims to eliminate shader compilation stutter in PC games",
+      "source": "TechSpot"
+    },
+    {
+      "id": "87773ac8-f66c-4244-a904-986a0daf463e",
+      "title": "Avengers: Endgame overtakes Avatar again to become the highest-grossing movie of all time",
+      "source": "TechSpot"
+    },
+    {
+      "id": "0d5a00c3-fb49-4ea6-a5f8-6ce6057e190a",
+      "title": "Humanoid robots pummel YouTuber in cage matches, California tells startup to stop the fights",
+      "source": "TechSpot"
+    },
+    {
+      "id": "2af2116f-39b1-411e-a032-dac5297251be",
+      "title": "Clover Time codes (October 2026) and how to redeem them for free Spins, Chests, and more",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "82514b05-0fd0-4fb8-a527-ad02d1c37d44",
+      "title": "New D&D RPG Warlock has a smaller open world so devs can \"pull back a little bit on the handholding\"",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "fde5f7e9-239b-4e67-8f07-a09b292ecef4",
+      "title": "The Borderlands MMO is officially saved and playable in English, 11 years after its shutdown",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "03e373eb-258d-4292-81da-845bebc988bf",
+      "title": "Early Prime Day Blu-Ray deals strike on horror movies",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "73254778-905b-459b-819c-2b723bda47a2",
+      "title": "Garry's Mod creator admits the launch of S&box \"was s**t\": \"There being too much content is a problem\"",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "0efb4650-2660-4295-bdb6-9fc53372b765",
+      "title": "Pet Store Tycoon codes (October 2026) and how to redeem them for cash and pets",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "713340b2-2286-44be-a4aa-7831a60e68ed",
+      "title": "RuneScape devs take down trailer, apologize to players for gen AI after promising not to use gen AI",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "3165a503-7d19-420b-aa78-570123b548d9",
+      "title": "Breath of the Wild is \"beautiful\" on PS5 at 4K, fans say as Nintendo gem hits PlayStation emulator",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "1a1f4287-7281-47a7-ae32-a9194457cde3",
+      "title": "Palworld's cursed dating sim is a \"little goofy thing\" and not a proper spin-off, Pocketpair lead says",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "ee0ec470-30df-4507-8651-f97cff2951bc",
+      "title": "All Anime Zero codes (October 2026) and how to redeem them for coins, dice rolls, and more",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "20b0a2e1-24c6-4524-8857-1bc2ad9c1284",
+      "title": "Looking at Smart Home Deals for Amazon Prime Day? Here Are 4 Picks I Use in My Own Home",
+      "source": "CNET"
+    },
+    {
+      "id": "3aa0ae67-110f-4837-addb-5eef133477af",
+      "title": "Tell Us Which Privacy and Security Apps Are the Most Trustworthy",
+      "source": "CNET"
+    },
+    {
+      "id": "1860b586-9fe1-4fa9-bdd3-46f2cd0359d2",
+      "title": "I Got a First Look at Vitamix’s First Juicer, and I’m in Love",
+      "source": "CNET"
+    },
+    {
+      "id": "e0b3d7d2-3fec-428e-8ec6-b18cfd73c6bd",
+      "title": "CNET Finds Nearly 1 in 3 US Adults Plan to Shop Early Holiday Sales. Will Deals Help Smaller Budgets?",
+      "source": "CNET"
+    },
+    {
+      "id": "94c157a1-0fff-4f0e-a107-2ec595db88c3",
+      "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak’s Autonomous Semi",
+      "source": "CNET"
+    },
+    {
+      "id": "4913096e-c446-4a5d-80ac-f374ebf5ceb4",
+      "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027",
+      "source": "CNET"
+    },
+    {
+      "id": "d3e4e2f6-eb1c-456d-a158-8aaadc7ef25a",
+      "title": "Zelda: Majora&#039;s Mask Soundtrack Joins Nintendo Music This Week",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "783a97a2-4cca-4fb9-8154-9df288675383",
+      "title": "PSA: Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "a0f4e55c-e8f4-4617-8859-f8c4c2040a41",
+      "title": "NBA 2K25 Sounds The Buzzer On Its Best Game Modes, With A Delist & Server Shutdown Inbound",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "f96a7dad-3cba-4bd1-825f-e6aa3a270b3f",
+      "title": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
+      "source": "GamesIndustry.biz"
+    },
+    {
+      "id": "33239d92-3f16-419d-8352-2213537103d3",
+      "title": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
+      "source": "GamesIndustry.biz"
+    },
+    {
+      "id": "89dbbbdb-3e4a-4495-a0a2-695e43d2852b",
+      "title": "Samsung opens Boston quantum design lab to expand US research push",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "2a036e62-8e2c-4d78-a8df-64515e6a8d4c",
+      "title": "Foxconn move smart long-term care pilot into real care settings",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "8cee76bd-a180-48ac-bd62-da0c0a765390",
+      "title": "Amazon signs 20-year nuclear power deal with Constellation for AI demand",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "6ef5bf82-67e8-4b5b-ab6d-fd2beb05af82",
+      "title": "Anzeige: FRITZ!Smart Heizk�rperthermostat g�nstig wie nie f�r Prime-Mitglieder",
+      "source": "Golem.de"
+    },
+    {
+      "id": "116ffdea-a57b-41b6-ac44-9c455c1e18e5",
+      "title": "(g+) Arbeit: Was k�nnen wir von den KI-Superusern im Job lernen?",
+      "source": "Golem.de"
+    },
+    {
+      "id": "7efe8998-5c2b-4e37-a1f3-f2ccffc299e5",
+      "title": "AL Investor Day: Telekom will mit KI Milliarden einsparen",
+      "source": "Golem.de"
+    },
+    {
+      "id": "d129d406-7761-4248-9369-6f28687d9a3b",
+      "title": "Ex-Playstation-Chefs:: PS5 k�nnte noch lange reichen",
+      "source": "Golem.de"
+    },
+    {
+      "id": "5663e818-a37b-400b-8cbb-e8d1c59fe858",
+      "title": "Fast neun Millionen Betroffene: D�nisches Melderegister gehackt",
+      "source": "Golem.de"
+    },
+    {
+      "id": "1c25cafd-e0c4-493c-9307-da6ea1354e6f",
+      "title": "Open Radioss: Siemens l�scht Open-Source-Projekt nach �bernahme",
+      "source": "Golem.de"
+    },
+    {
+      "id": "bb231108-b394-4c7b-bf42-35d9f5297a17",
+      "title": "Anzeige: K�rcher Fenstersauger WV 2 Black Edition als fr�hes Prime-Angebot jetzt unter 46 Euro",
+      "source": "Golem.de"
+    },
+    {
+      "id": "04196bfa-36d4-43b2-a0e4-ab82eac336e9",
+      "title": "Ung�ltige KI-Einreichungen: Google stoppt Bug-Bounty-Programm f�r Open Source",
+      "source": "Golem.de"
+    },
+    {
+      "id": "4b206b2e-406a-4ff9-a6ef-98760f1f9ede",
+      "title": "Nvidia Pascal: Modder entwickelt GTX-1080-Treiber f�r Windows XP",
+      "source": "Golem.de"
+    },
+    {
+      "id": "cdfab89c-aa3e-4875-94de-3c3ff9dbd84b",
+      "title": "Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verz�gert Rennstart",
+      "source": "Golem.de"
+    },
+    {
+      "id": "cccf12ba-27d1-435c-b69c-c85f7ec5ec99",
+      "title": "“Phone bombing”: How ‘pranking as a service’ harasses victims",
+      "source": "The Hindu Technology"
+    },
+    {
+      "id": "f132daa9-c39b-42c5-90a9-aaa4a8f1bbf7",
+      "title": "Deepfake alarm: AI’s shadow looms over entertainment industry after Rashmika Mandanna speaks out",
+      "source": "The Hindu Technology"
+    },
+    {
+      "id": "8383fc8e-35f1-4b80-a3f0-831df20fabc8",
+      "title": "South Korea Dominates OLED Supply for Nvidia AI Laptops",
+      "source": "The Lec"
+    },
+    {
+      "id": "2f427769-5cea-4344-bd05-3952d7dd0943",
+      "title": "AI Chips Drive Push for Larger Semiconductor Test Components",
+      "source": "The Lec"
+    },
+    {
+      "id": "d38908e7-f091-4d39-9fc3-cc1e87f55f60",
+      "title": "​Hanjung NCS Selected for Korea’s World-Class Plus Program",
+      "source": "The Lec"
+    },
+    {
+      "id": "d239ab99-0afa-42e4-96cb-644032ea0f23",
+      "title": "Articron Challenges 1 Trillion KRW Valuation via Next-Gen Memory IP",
+      "source": "The Lec"
+    },
+    {
+      "id": "497d9e83-54a6-4787-b088-ae92238b203c",
+      "title": "Nippon Paint clinches Dulux brand with deal for Akzo Nobel's Southeast Asia business",
+      "source": "Nikkei Asia"
+    },
+    {
+      "id": "50b80d7a-6476-4ecb-8409-f5edc7cf691f",
       "title": "HK Express CEO says airline 'firmly on path to turnaround'",
       "source": "Nikkei Asia"
     },
     {
-      "id": "be47f47b-fdaa-4cec-851f-a6fb1c5f37eb",
-      "title": "Malaysia's SkyeChip targets Japan, joins Rapidus ecosystem",
-      "source": "Nikkei Asia"
-    },
-    {
-      "id": "2f6dc151-5f4a-4bc3-8eca-99c9199ad96c",
-      "title": "Panasonic to make humanoid robots, leveraging its battery business",
-      "source": "Nikkei Asia"
-    },
-    {
-      "id": "e10825e4-14db-4b2d-8aa9-ab424b982df5",
+      "id": "2daadb75-b8fa-4728-b24c-d471eada22db",
       "title": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
       "source": "Nikkei Asia"
-    },
-    {
-      "id": "955bbd23-8551-465a-939c-55d3c3fd4b89",
-      "title": "The Iraq War is finally over. It did some good.",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "e2529124-7b9b-4505-a03e-0dc41890008d",
-      "title": "South Korean probe concludes North Korea planted DMZ mines",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "b7ca5b8d-5473-44cc-a781-ee8ac3496ee8",
-      "title": "Scientists win Nobel Prize in medicine for work on ‘light-gated ion channels and optogenetics’",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "ee2bf336-80af-4222-9388-c7d6d65c876b",
-      "title": "BOJ to declare underlying inflation has reached 2%, sources say",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "c03467d7-5f8e-4622-be36-672042586278",
-      "title": "Tokyo’s record streak of rain comes to an end",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "e3bc69c5-b257-4bc6-a43a-6d91270e8e05",
-      "title": "AI is the greatest grievance machine ever",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "705bcf79-56a0-4d30-8917-a85cce32f980",
-      "title": "Japan wants a pharma boom. It needs a new strategy.",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "805253a0-5a5e-4cf4-8699-d205d5010ae9",
-      "title": "Preventing artificial intelligence from triggering a world war",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "8ae82c8e-6675-4d56-97e8-4e5e86ee534d",
-      "title": "Cost pressures and deadlock force Honda to rework India strategy, sources say",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "673423f9-e60b-4f82-8dcd-dde942d0f6f5",
-      "title": "Daiwa Securities says info on 110,000 clients may have been leaked",
-      "source": "The Japan Times"
     }
   ],
   "images_updated": [],
@@ -94,62 +594,6 @@
       "existing_id": "d3a4267e-385e-4724-9488-617903ccc58b"
     },
     {
-      "source": "TechCrunch",
-      "title": "TechCrunch Mobility: Reining in robotaxis",
-      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis",
-      "reason": "duplicata",
-      "existing_id": "2d49ab24-37e6-4d45-b8e6-006df8d25f7d"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
-      "reason": "duplicata",
-      "existing_id": "6369b28f-03cc-41c7-95bf-662adf4cd5ee"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance",
-      "reason": "duplicata",
-      "existing_id": "68cd7517-b9cc-4ddb-b82e-fbd60048bbe1"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
-      "reason": "duplicata",
-      "existing_id": "56d79cae-c4b8-418b-a370-f6205bd360f1"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-      "reason": "duplicata",
-      "existing_id": "5d164140-059c-4762-bfb9-46ed911393c9"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
-      "reason": "duplicata",
-      "existing_id": "9883e17e-595a-4eba-bcc8-9a8e326f4475"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Vessev built an electric ferry that almost flies",
-      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies",
-      "reason": "duplicata",
-      "existing_id": "fd923efd-52cf-404a-b25e-0d8af6d3a491"
-    },
-    {
-      "source": "TechCrunch",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "reason": "duplicata",
-      "existing_id": "150b15b6-c5ca-4d59-867a-f8b733ecad45"
-    },
-    {
       "source": "Ars Technica",
       "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
       "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice",
@@ -158,7 +602,7 @@
     },
     {
       "source": "Ars Technica",
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+      "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
       "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife",
       "reason": "duplicata",
       "existing_id": "3d842fa4-0970-4648-8213-a13b6fe4ddc6"
@@ -199,95 +643,11 @@
       "existing_id": "7eb6401f-7320-42e5-b3f3-6ece81cc888b"
     },
     {
-      "source": "Ars Technica",
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash",
+      "source": "The Verge",
+      "title": "The best early October Prime Day deals happening now",
+      "url": "https://theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
       "reason": "duplicata",
-      "existing_id": "628ea25b-e447-47c4-8700-39431cec7d67"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed",
-      "reason": "duplicata",
-      "existing_id": "43666821-8308-4966-8edb-2a9a0b29ca47"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m",
-      "reason": "duplicata",
-      "existing_id": "a56e30ad-27fe-4477-8e81-0f1c0737e203"
-    },
-    {
-      "source": "Engadget",
-      "title": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
-      "url": "https://engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors",
-      "reason": "duplicata",
-      "existing_id": "f477b7f1-0601-4853-8aea-d0fff8189c40"
-    },
-    {
-      "source": "Engadget",
-      "title": "What are the benefits of having a second monitor?",
-      "url": "https://engadget.com/2274822/benefits-of-second-monitor-explained",
-      "reason": "duplicata",
-      "existing_id": "0d37a8f0-58c3-4166-a9c4-cad934694673"
-    },
-    {
-      "source": "Engadget",
-      "title": "How did retro consoles handle graphics before modern GPUs?",
-      "url": "https://engadget.com/2274743/how-retro-consoles-handled-graphics-before-modern-gpu",
-      "reason": "duplicata",
-      "existing_id": "7f51fa8e-99e8-4d0a-82c8-94c21562101a"
-    },
-    {
-      "source": "Engadget",
-      "title": "The reason the Mac mini is cheaper than a MacBook",
-      "url": "https://engadget.com/2274707/mac-mini-cheaper-than-macbook-reason",
-      "reason": "duplicata",
-      "existing_id": "b4371ce1-c982-4efb-b804-5938919756fc"
-    },
-    {
-      "source": "Engadget",
-      "title": "You should avoid using a screen protector on your MacBook — here's why",
-      "url": "https://engadget.com/2274706/why-avoid-using-macbook-screen-protector",
-      "reason": "duplicata",
-      "existing_id": "7ba06fdf-7269-4876-a481-854df87d78dd"
-    },
-    {
-      "source": "Engadget",
-      "title": "Every Starlink Dish Available: How To Know Which Setup May Be Right For You",
-      "url": "https://engadget.com/2276417/every-starlink-dish-available-which-setup-right",
-      "reason": "duplicata",
-      "existing_id": "5a1da75c-f892-4d65-940d-566a6119095b"
-    },
-    {
-      "source": "Engadget",
-      "title": "When is it worth getting a sound card for your PC?",
-      "url": "https://engadget.com/2274701/when-worth-getting-sound-card-for-pc",
-      "reason": "duplicata",
-      "existing_id": "79832818-31b5-4a18-9206-edc80f05c682"
-    },
-    {
-      "source": "Engadget",
-      "title": "The popular Apple features you won't be getting with the iPhone Duo",
-      "url": "https://engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with",
-      "reason": "duplicata",
-      "existing_id": "2040c9d2-610c-43e0-b4af-4885896cc79b"
-    },
-    {
-      "source": "Engadget",
-      "title": "How the iPhone Duo will improve your group selfies",
-      "url": "https://engadget.com/2274699/iphone-duo-smart-take-ai-photo-capturing-feature-improve-group-selfies",
-      "reason": "duplicata",
-      "existing_id": "6da698f6-9195-4920-afdf-307eb8156aee"
-    },
-    {
-      "source": "Engadget",
-      "title": "How to improve your iPhone's call quality",
-      "url": "https://engadget.com/2274693/how-to-improve-iphone-call-quality-voice-isolation",
-      "reason": "duplicata",
-      "existing_id": "d20ee572-996d-44e0-a39d-f887997209f2"
+      "existing_id": "da51ec4a-8778-4cf9-91fb-a5fde4fc5b78"
     },
     {
       "source": "The Verge",
@@ -304,120 +664,71 @@
       "existing_id": "babd2c97-b4fa-4708-a044-87bab5fc7cac"
     },
     {
-      "source": "The Verge",
-      "title": "The new Fitbit Edge leaks",
-      "url": "https://theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "source": "Entertainment Weekly",
+      "title": "“The Voice” competition among the coaches gets fierce after 4-chair turn: ‘This show, this is more my world’",
+      "url": "https://ew.com/the-voice-exclusive-clip-shows-fierce-competition-among-the-coaches-12153383",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Sebastian Stan explains how fatherhood has changed his perspective of new movie, “Fjord”",
+      "url": "https://ew.com/sebastian-stan-says-fatherhood-changed-his-perspective-fjord-movie-12159454",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Michael Douglas denies rumor he went to rehab for sex addiction, doesn’t think he ‘slept with so many women’",
+      "url": "https://ew.com/michael-douglas-addresses-sex-addiction-rehab-rumor-12159533",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Ethan Hawke disparaged movie director on set without knowing he was on microphone: ‘I was very mad’",
+      "url": "https://ew.com/ethan-hawke-disparaged-hamlet-director-on-set-12159437",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "“Marshals ”showrunner explains ‘tragic’ decision to kill off [SPOILER] in season 2 premiere",
+      "url": "https://ew.com/marshals-showrunner-explains-decision-to-kill-spoiler-in-season-2-premiere-12159472",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Jeremy Strong doesn’t feel ‘need to apologize’ to costars who think he takes acting ‘too seriously’",
+      "url": "https://ew.com/jeremy-strong-defends-method-acting-approach-12159458",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Lawrence brothers take on missing ’90s stars and nostalgia prisons in “The Lawrence Brothers Detective Agency”",
+      "url": "https://ew.com/lawrence-brothers-detective-agency-graphic-novel-interview-12151435",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Kim Kardashian employs a surprising number of nannies for her 4 kids",
+      "url": "https://ew.com/kim-kardashian-has-shocking-number-of-nannies-for-her-4-kids-12159372",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Phil Collins gives update on 24-year rift with Paul McCartney",
+      "url": "https://ew.com/phil-collins-gives-update-24-year-rift-paul-mccartney-12159394",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Teresa Giudice’s daughter Milania returns to Instagram after airport incident: ‘Put you through a lot’",
+      "url": "https://ew.com/teresa-giudice-daughter-returns-to-social-media-after-airport-incident-12159395",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "VGC",
+      "title": "AI game mashup videos on social media spark debate and backlash among players and modders",
+      "url": "https://videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders",
       "reason": "duplicata",
-      "existing_id": "e794c45e-1c80-4c8e-8758-1a586198c7e6"
-    },
-    {
-      "source": "The Verge",
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-      "url": "https://theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-      "reason": "duplicata",
-      "existing_id": "e4628640-18b0-4700-8905-7609d750a6a3"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "reason": "duplicata",
-      "existing_id": "da51ec4a-8778-4cf9-91fb-a5fde4fc5b78"
-    },
-    {
-      "source": "The Verge",
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "url": "https://theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "reason": "duplicata",
-      "existing_id": "a13c862a-6408-4df0-ab52-2583cf72ef8a"
-    },
-    {
-      "source": "The Verge",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "url": "https://theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "reason": "duplicata",
-      "existing_id": "dbe7537d-a975-4dde-9d92-687ff8ef6091"
-    },
-    {
-      "source": "The Verge",
-      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-      "url": "https://theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-      "reason": "duplicata",
-      "existing_id": "d84dd5cb-6881-450a-9200-13d326e2e6d3"
-    },
-    {
-      "source": "The Verge",
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "url": "https://theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-      "reason": "duplicata",
-      "existing_id": "4a6f7471-1126-44c0-a0e1-d5ed189fa6fe"
-    },
-    {
-      "source": "The Verge",
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "url": "https://theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-      "reason": "duplicata",
-      "existing_id": "f52528e2-421f-4620-8276-97a2706632e9"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "White House tells “Big Bang Theory ”creator to ‘seek psychiatric help’ after he slams Donald Trump as ‘piece of s---’",
-      "url": "https://ew.com/big-bang-theory-chuck-lorre-donald-trump-piece-of-s-12158858",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "“Lanterns” showrunner answers burning finale questions: The ending scene, surprise twists, and season 2 hopes",
-      "url": "https://ew.com/lanterns-finale-showrunner-chris-mundy-answers-burning-questions-12157903",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "“Dawson’s Creek” creator Kevin Williamson says star James Van Der Beek ‘started out as a brat’",
-      "url": "https://ew.com/dawsons-creek-james-van-der-beek-was-a-brat-kevin-williamson-12158758",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Tom Cruise digs a hole he can’t get out of, as “Digger” becomes historic box office bomb",
-      "url": "https://ew.com/digger-loses-big-in-opening-weekend-at-the-box-office-12158638",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Gyspy Rose Blanchard addresses ‘tension’ after accusations from late ex Ken Urker’s sister",
-      "url": "https://ew.com/gyspy-rose-blanchard-tension-ken-urker-sister-autumn-12158291",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Kate Mulgrew says being “Star Trek”’s ‘unprecedented’ first female captain ‘reshaped my life’",
-      "url": "https://ew.com/kate-mulgrew-star-trek-voyager-reflects-on-first-female-captain-janeway-12158126",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Ethan Hawke names surprising thriller co-starring ex Uma Thurman as his breakout: ‘Changed my life’",
-      "url": "https://ew.com/ethan-hawke-surprising-thriller-with-ex-uma-thurman-breakout-role-12157917",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Kumail Nanjiani details new “White Lotus” cast bond: ‘It’s kind of like being in a college dorm’",
-      "url": "https://ew.com/kumail-nanjiani-filming-white-lotus-like-college-dorm-12157934",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Jamie Lee Curtis remembers mom Janet Leigh on death anniversary: ‘Long time gone this day’",
-      "url": "https://ew.com/jamie-lee-curtis-remembers-mom-janet-leigh-death-anniversary-12157531",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Britney Spears and Natalie Portman understudied this Broadway star’s breakout role in the ’90s",
-      "url": "https://ew.com/britney-spears-natalie-portman-understudied-broadway-star-laura-bell-bundy-90s-12157866",
-      "reason": "fonte bloqueada"
+      "existing_id": "eb987652-3814-402e-91a2-55f08effa6af"
     },
     {
       "source": "VGC",
@@ -432,55 +743,6 @@
       "url": "https://videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year",
       "reason": "duplicata",
       "existing_id": "0006578a-fe72-42ef-ae48-18894587c751"
-    },
-    {
-      "source": "VGC",
-      "title": "Although he vowed to never work on one without Kojima, Snake&#8217;s Japanese voice actor wants to see another Metal Gear game",
-      "url": "https://videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game",
-      "reason": "duplicata",
-      "existing_id": "661e8a75-d312-4c92-b133-eb7386d897e0"
-    },
-    {
-      "source": "VGC",
-      "title": "Platinum suggests more Bayonetta is coming, despite exodus of lead developers",
-      "url": "https://videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers",
-      "reason": "duplicata",
-      "existing_id": "db063261-77a4-4a35-af5c-c783665759c8"
-    },
-    {
-      "source": "VGC",
-      "title": "Hamaguchi: It &#8216;wasn&#8217;t easy&#8217; to keep the FF7 Remake trilogy plot intact and not turn it into his &#8216;own personal fan project&#8217;",
-      "url": "https://videogameschronicle.com/news/hamaguchi-it-wasnt-easy-to-keep-the-ff7-remake-trilogy-plot-intact-and-not-turn-it-into-his-own-personal-fan-project",
-      "reason": "duplicata",
-      "existing_id": "11dfe6aa-62ae-4252-851d-f6d981396f94"
-    },
-    {
-      "source": "VGC",
-      "title": "&#8216;I did my best&#8217;: Final Fantasy 7 Revelation director says he argued for physical version",
-      "url": "https://videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version",
-      "reason": "duplicata",
-      "existing_id": "b14ba453-f996-4830-b821-13495d592480"
-    },
-    {
-      "source": "VGC",
-      "title": "Jagex has officially announced RuneScape 4",
-      "url": "https://videogameschronicle.com/news/jagex-has-officially-announced-runescape-4",
-      "reason": "duplicata",
-      "existing_id": "cbd646c4-2842-4884-9c02-82bc26e934fb"
-    },
-    {
-      "source": "VGC",
-      "title": "Banjo-Kazooie PC port &#8216;decomp&#8217; developer says AI-generated PC ports are &#8216;a race to the bottom&#8217; and &#8216;disrespectful&#8217;",
-      "url": "https://videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful",
-      "reason": "duplicata",
-      "existing_id": "b274a0ea-aaef-4105-801a-0565bfd4b770"
-    },
-    {
-      "source": "VGC",
-      "title": "Capcom details plans to evolve RE Engine into an &#8216;AI game engine&#8217;",
-      "url": "https://videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine",
-      "reason": "duplicata",
-      "existing_id": "65b3df09-8f54-4787-989f-d40a5c0c139a"
     },
     {
       "source": "Animation Magazine",
@@ -567,124 +829,75 @@
       "existing_id": "fde8258f-d184-4b74-bbd6-cc388617471c"
     },
     {
-      "source": "Push Square",
-      "title": "Rumour: Sony &#039;Accepting Game Pitches&#039; on Fan Fave Franchises, First Wave Due Around PS6 Launch",
-      "url": "https://pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch",
-      "reason": "duplicata",
-      "existing_id": "22d292a9-83f9-46fa-8570-bf77fa5d2647"
-    },
-    {
-      "source": "Push Square",
-      "title": "Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7",
-      "url": "https://pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7",
-      "reason": "duplicata",
-      "existing_id": "1c011fb7-c81d-4f50-bad4-163534c7ea2d"
-    },
-    {
-      "source": "Push Square",
-      "title": "Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked",
-      "url": "https://pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked",
-      "reason": "duplicata",
-      "existing_id": "88c6686d-095e-4938-a1b9-4acb8579ed7e"
-    },
-    {
-      "source": "Push Square",
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026?",
-      "url": "https://pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-      "reason": "duplicata",
-      "existing_id": "2e23fbfd-1fa6-4ef7-8e28-86dbb8222da2"
-    },
-    {
-      "source": "Push Square",
-      "title": "Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)",
-      "url": "https://pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october",
-      "reason": "duplicata",
-      "existing_id": "ad149c0c-9edc-43c1-99ae-54615f50f2c0"
-    },
-    {
-      "source": "Push Square",
-      "title": "Talking Point: What Are You Playing This Weekend? - Issue 652",
-      "url": "https://pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652",
-      "reason": "duplicata",
-      "existing_id": "95fc5eb3-710b-4d25-a67d-1249d03c9346"
-    },
-    {
-      "source": "Push Square",
-      "title": "BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant",
-      "url": "https://pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant",
-      "reason": "duplicata",
-      "existing_id": "209a704c-4812-4fd7-9ee7-ae5e9e03fb93"
-    },
-    {
-      "source": "Push Square",
-      "title": "Sony Prepping Improved PS App with Expanded Social Features",
-      "url": "https://pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features",
-      "reason": "duplicata",
-      "existing_id": "632e2e41-35d8-4677-b569-4779362b21bc"
-    },
-    {
       "source": "Variety",
-      "title": "&#8216;NAZA&#8217; Rebuttal Doc Surfaces Online, Made by IDF Reserve Members",
-      "url": "https://variety.com/2026/film/news/naza-rebuttal-doc-idf-reserve-members-1236898918",
+      "title": "Hammer Films Boss John Gore on Resurrecting the British Horror Icon, Plans to Remake the Classics and Why Christopher Lee Was the &#8216;Greatest Dracula&#8217;",
+      "url": "https://variety.com/2026/film/news/hammer-films-boss-john-gore-resurrecting-horror-icon-1236897440",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "France&#8217;s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike",
-      "url": "https://variety.com/2026/film/news/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925",
+      "title": "‘I Play Rocky,’ ‘Paper Tiger’ and ‘Josephine’ Among Coronado Island Film Festival 2026 Lineup",
+      "url": "https://variety.com/2026/film/news/coronado-island-film-festival-i-play-rocky-paper-tiger-1236898862",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest",
-      "url": "https://variety.com/2026/global/news/former-prince-andrew-legal-action-police-arrest-1236898938",
+      "title": "As WME&#8217;s Literary Media Department Turns 10, It Aims to Keep Pace With How Books Are Adapted: &#8216;Our Culture Is Shifting&#8217;",
+      "url": "https://variety.com/2026/tv/news/wme-literary-media-10-year-anniversary-dtf-st-louis-1236893981",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "John de Mol’s Formats Giant Talpa Studios Heads to Mipcom With New Shows &#8216;Sing With Me,&#8217; &#8216;The Golden Elevators&#8217; (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/talpa-studios-mipcom-sing-with-me-the-golden-elevators-1236898478",
+      "title": "&#8216;ARC Raiders,&#8217; &#8216;The Finals&#8217; Video Games Set TV Series and Film Adaptations at Chernin Entertainment",
+      "url": "https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "ITV Studios Travels to Mipcom With 10 New Titles on Its Formats Slate, Led by &#8216;The Chase Around the World&#8217; (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/itv-studios-mipcom-formats-slate-the-chase-around-the-world-1236898689",
+      "title": "Riley Keough and Director Clay Tweel Board First Responder Psychedelic Therapy Doc &#8216;Under Fire&#8217; as Executive Producers (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/riley-keough-clay-tweel-first-responder-psychedelic-therapy-documentary-under-fire-executive-producers-1236898220",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "La Oreja de Van Gogh Songs Set to Power an Ambitious Romantic Musical From Fernando González Molina (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/la-oreja-de-van-gogh-fernando-gonzalez-molina-1236898493",
+      "title": "&#8216;Things We Never Got Over&#8217; Amazon Series Adds Six to Cast",
+      "url": "https://variety.com/2026/tv/news/things-we-never-got-over-amazon-series-cast-1236899122",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "Talent Agency Cosmic Opens London Office, Led by Gabrielle de Cevins",
-      "url": "https://variety.com/2026/film/news/cosmic-london-gabrielle-de-cevins-1236894598",
+      "title": "Jay-Z, Megan Thee Stallion, Keke Palmer, Gina Prince-Bythewood and NY Knicks Champs Named to Ebony Power 100 List (EXCLUSIVE)",
+      "url": "https://variety.com/2026/scene/news/ebony-power-100-jay-z-keke-palmer-ny-knicks-1236894919",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj&#8217;s Debut Feature &#8216;The Method&#8217; (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849",
+      "title": "Oscars: Syria Selects Doc &#8216;The Other Side of the Sun&#8217; for International Feature Race, Marking First Entry Since Fall of Assad Regime",
+      "url": "https://variety.com/2026/film/news/oscars-syria-the-other-side-of-the-sun-intl-feature-race-1236899058",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "China Box Office: Crime Procedural &#8216;Traces of Justice&#8217; Leads National Day Frame",
-      "url": "https://variety.com/2026/film/news/china-box-office-traces-of-justice-national-day-1236898842",
+      "title": "Karoline Leavitt Is Latest Trump Administration Official to Join Fox News",
+      "url": "https://variety.com/2026/tv/news/karoline-leavit-fox-news-contrbutor-1236899073",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "John Oliver Dodges David Ellison-Skydance News on ‘Last Week Tonight’",
-      "url": "https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839",
+      "title": "‘Bowie80’ to Celebrate David Bowie’s 80th Birthday With Events, Exhibits, Releases and More Throughout 2027",
+      "url": "https://variety.com/2026/music/news/bowie80-david-bowie-80th-birthday-events-1236898767",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Macworld",
-      "title": "Apple’s imminent new device is even riskier than the iPhone Duo",
+      "title": "Apple’s iPhone 18 Pro Max recall explained: Is Qualcomm to blame?",
+      "url": "https://macworld.com/article/3250622/apples-iphone-18-pro-max-recall-explained-is-qualcomm-to-blame.html",
+      "reason": "duplicata",
+      "existing_id": "d7823f5a-b9fa-41e6-bd96-3d1c440264a2"
+    },
+    {
+      "source": "Macworld",
+      "title": "Apple’s next big thing may be even riskier than the iPhone Duo",
       "url": "https://macworld.com/article/3245361/apples-imminent-new-device-is-even-riskier-than-the-iphone-duo.html",
       "reason": "duplicata",
       "existing_id": "9acef08b-6d35-46c9-bee5-e26eec4b43d5"
@@ -705,10 +918,10 @@
     },
     {
       "source": "Macworld",
-      "title": "Apple’s iPhone 18 Pro Max recall explained: Is Qualcomm to blame?",
-      "url": "https://macworld.com/article/3250622/apples-iphone-18-pro-max-recall-explained-is-qualcomm-to-blame.html",
+      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
+      "url": "https://macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
       "reason": "duplicata",
-      "existing_id": "d7823f5a-b9fa-41e6-bd96-3d1c440264a2"
+      "existing_id": "9cb572df-7240-4c76-a46d-45adf21122d4"
     },
     {
       "source": "Macworld",
@@ -719,238 +932,70 @@
     },
     {
       "source": "Macworld",
-      "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-      "url": "https://macworld.com/article/3249793/learn-claude-code-and-cowork-just-15-during-deal-days.html",
-      "reason": "duplicata",
-      "existing_id": "9cb572df-7240-4c76-a46d-45adf21122d4"
-    },
-    {
-      "source": "Macworld",
       "title": "Apple confirms iPhone cellular issue, admits affected units can’t be fixed",
       "url": "https://macworld.com/article/3250214/apple-confirms-iphone-cellular-issue-admits-affected-units-cant-be-fixed.html",
       "reason": "duplicata",
       "existing_id": "96e66e67-402e-4655-bcff-31567e9ab7c3"
     },
     {
-      "source": "Macworld",
-      "title": "Apple tightens macOS Full Disk Access controls as AI agents proliferate",
-      "url": "https://macworld.com/article/3250604/apple-tightens-macos-full-disk-access-controls-as-ai-agents-proliferate.html",
-      "reason": "duplicata",
-      "existing_id": "29422cf9-acb7-424d-8bcb-1f0945f2d11e"
-    },
-    {
-      "source": "Macworld",
-      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
-      "url": "https://macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
-      "reason": "duplicata",
-      "existing_id": "6049836d-5b96-47d0-8e05-ec8f5e2f7030"
-    },
-    {
-      "source": "Macworld",
-      "title": "How to send photos as email attachments on the iPhone",
-      "url": "https://macworld.com/article/3248231/iphone-photos-email-attachments.html",
-      "reason": "duplicata",
-      "existing_id": "cb5af05a-23a7-450e-8205-6a6f82f81ac8"
-    },
-    {
       "source": "Collider",
-      "title": "8 Movies To Watch if You Like 'The Love Hypothesis'",
-      "url": "https://collider.com/movies-like-the-love-hypothesis",
+      "title": "Agatha Christie’s Greatest Detective Officially Returns With a New 6-Part Series",
+      "url": "https://collider.com/hercule-poirot-series-cast-toby-stephens-katherine-parkinson-britbox",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "5 Scary New Books To Read for Spooky Season in 2026",
-      "url": "https://collider.com/scary-new-books-to-read-for-spooky-season-in-2026",
+      "title": "Peter Krause’s Post-‘9-1-1’ Crime Thriller Officially Gets New Sneak Peek [Exclusive]",
+      "url": "https://collider.com/line-of-fire-episode-3-sneak-peek-peter-krause-tommy-obrien",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The Lord of the Rings Books, Ranked by a Diehard Fan of the Series",
-      "url": "https://collider.com/lord-of-the-rings-books-ranked-by-a-diehard-fan",
+      "title": "Marvel Officially Teases a “Chilling” New Fan-Favorite Ahead of ‘VisionQuest’ [Exclusive]",
+      "url": "https://collider.com/visionquest-new-image-tnia-miller-jocasta",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 8 Most Perfect Animated Movies of the 1980s, Ranked",
-      "url": "https://collider.com/most-perfect-animated-movies-1980s-ranked",
+      "title": "One of Fantasy’s Biggest BookTok Hits Gets a Gorgeous New Adaptation Tomorrow [Exclusive]",
+      "url": "https://collider.com/legends-and-lattes-graphic-novel-sneak-peek-preview-pages",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Marvel's 'Blade' Reboot Officially Finds a New Contender [Exclusive]",
-      "url": "https://collider.com/marvel-blade-reboot-william-catlett-casting-comments",
+      "title": "‘Lanterns’ Officially Sets Up John Stewart’s Role in James Gunn’s ‘Man of Tomorrow’",
+      "url": "https://collider.com/lanterns-finale-episode-8-john-stewart-man-of-tomorrow-connection",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Every Akira Kurosawa Epic Movie, Ranked",
-      "url": "https://collider.com/akira-kurosawa-epic-movies-ranked",
+      "title": "Stephen King’s Hit Thriller Officially Returns in Just Over a Month",
+      "url": "https://collider.com/the-institute-season-2-trailer-release-date-november-8",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Glen Powell’s 90% Rotten Tomatoes Audience Score Blockbuster Officially Dominates 2026 Streaming",
-      "url": "https://collider.com/glen-powell-twisters-streaming-success-hulu-october-2026",
+      "title": "'The Acolyte' Star's New Fantasy Adaptation Officially Takes Over NYCC With Rian Johnson [Exclusive]",
+      "url": "https://collider.com/children-of-blood-and-bone-nycc-panel-rian-johnson-moderating",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 15 Best Animated Movies of the 2000s, Ranked According to Letterboxd",
-      "url": "https://collider.com/best-animated-movies-2000s-letterboxd",
+      "title": "Marvel Is Officially Launching a New Home for Digital Comics",
+      "url": "https://collider.com/marvel-comics-app-webtoon-launch-november-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "'Silo’ Meets ‘A Quiet Place’ in J.J. Abrams’ Sci-Fi Nightmare Officially Streaming Free",
-      "url": "https://collider.com/jj-abrams-sci-fi-thriller-10-cloverfield-lane-streaming-free-pluto-tv-october-2026",
+      "title": "Netflix Still Hasn’t Topped This 4-Season Masterpiece",
+      "url": "https://collider.com/netflix-unbreakable-kimmy-schmidt-perfect-streaming-sitcom",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "‘Wednesday’ Meets ‘Charmed’ in Disney+’s Newest Supernatural Teen Drama, According to Creator",
-      "url": "https://collider.com/disney-plus-series-coven-academy-finale-creator-tim-federle",
+      "title": "The 5 Darkest Movies of the Last 5 Years",
+      "url": "https://collider.com/darkest-movies-last-5-years",
       "reason": "fonte bloqueada"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Dungeon Crawler Carl: Allies & Enemies Officially Releases Next Month",
-      "url": "https://screenrant.com/dungeon-crawler-carl-allies-enemies-rpg-november-2026-psa",
-      "reason": "duplicata",
-      "existing_id": "42db7d63-60d1-48c4-aa94-dbde64b1045b"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Kingdom Hearts Collection 1-3: Switch 2 Impressions",
-      "url": "https://screenrant.com/kingdom-hearts-collection-1-3-nintendo-switch-2",
-      "reason": "duplicata",
-      "existing_id": "2fe13ed0-dc13-4e57-9d27-abd0db125565"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Jonathan Frakes Shoots Down Longstanding Star Trek Movie Rumor 30 Years Later",
-      "url": "https://screenrant.com/star-trek-jonathan-frakes-first-contact-improv-rumor-false",
-      "reason": "duplicata",
-      "existing_id": "9a74a8af-0898-49a9-bf44-cb47a011a325"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "The Witcher 4 Map Size Officially Confirmed By CD Projekt Red",
-      "url": "https://screenrant.com/witcher-4-map-size-official",
-      "reason": "duplicata",
-      "existing_id": "61590473-3455-46e0-8d8e-e1ef98d23660"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "The Legend Of Zelda Oracles Games Officially Returning In New Collection",
-      "url": "https://screenrant.com/legend-of-zelda-master-collection-oracle-games-tcg",
-      "reason": "duplicata",
-      "existing_id": "ea50a36c-a8ab-41fd-8796-e625a5327e53"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "PlayStation Plus Users Officially Have Until October 6 To Claim 4 Free Games",
-      "url": "https://screenrant.com/playstation-plus-free-games-september-2026-last-chance",
-      "reason": "duplicata",
-      "existing_id": "066d1b0c-4f0e-48e4-885f-297d2a87136f"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "GTA 6 Official Story Teaser Shared By Rockstar Games",
-      "url": "https://screenrant.com/gta-6-new-story-teaser-rockstar-games",
-      "reason": "duplicata",
-      "existing_id": "e890f51c-aa5b-439e-9736-7daf2aa74cab"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "It's Official: A Knight Of The Seven Kingdoms Returns Winter 2026",
-      "url": "https://screenrant.com/a-knight-of-the-seven-kingdoms-winter-2026-set-release",
-      "reason": "duplicata",
-      "existing_id": "6186ae8b-9e43-4a04-bd6e-387264c7b107"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "5 Anime War Arcs That Outshine Bleach's Thousand-Year Blood War",
-      "url": "https://screenrant.com/bleach-thousand-year-blood-war-better-arcs",
-      "reason": "duplicata",
-      "existing_id": "cc732624-0689-4fe8-b391-574dfc32f6fc"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Wheel Of Time: The One Power Officially Ushers In A New Era",
-      "url": "https://screenrant.com/wheel-of-time-one-power-release-date-2027-psa",
-      "reason": "duplicata",
-      "existing_id": "82302114-8e7c-444a-b7c2-afe615187f9c"
-    },
-    {
-      "source": "Mashable",
-      "title": "21 early October Prime Day tech deals, hand-picked by our gadget-obsessed experts",
-      "url": "https://mashable.com/tech/best-early-october-prime-day-tech-deals-2026",
-      "reason": "duplicata",
-      "existing_id": "d0d0f7d5-8ed3-44d3-923b-9e49af141b73"
-    },
-    {
-      "source": "Mashable",
-      "title": "The ultra-compact Ugreen Nexode Pro fast-charger is on sale for Prime Day: Shop this iPhone power bank for under $38",
-      "url": "https://mashable.com/tech/oct-5-early-prime-day-ugreen-nexode-pro-power-bank-deal",
-      "reason": "duplicata",
-      "existing_id": "8a7c5b4e-6bc3-4124-8998-646f1eb2549e"
-    },
-    {
-      "source": "Mashable",
-      "title": "This creator-friendly power station is over $500 off for Prime Day — shop the DJI Power 2000 for $749.99",
-      "url": "https://mashable.com/tech/oct-5-early-prime-day-dji-power-2000-power-station-deal",
-      "reason": "duplicata",
-      "existing_id": "70c47c95-db74-4e9c-a55c-12e88b10dacc"
-    },
-    {
-      "source": "Mashable",
-      "title": "AirPods Pro 3 plummet to $179 at Amazon ahead of October Prime Day — act fast to save $70",
-      "url": "https://mashable.com/tech/oct-5-early-prime-day-apple-airpods-pro-3-deal",
-      "reason": "duplicata",
-      "existing_id": "184a3d44-3ab0-46cd-92c4-094041221218"
-    },
-    {
-      "source": "Mashable",
-      "title": "SNL UK features glorious Stath Lets Flats reunion",
-      "url": "https://mashable.com/entertainment/snl-uk-stath-lets-flats-weekend-update",
-      "reason": "duplicata",
-      "existing_id": "2abbf59e-47db-473f-aeb8-03a0d21923a3"
-    },
-    {
-      "source": "Mashable",
-      "title": "Early Prime Day Kindle deal: This 16GB Kindle is over $40 off right now",
-      "url": "https://mashable.com/tech/oct-5-early-prime-day-kindle-16-gb-2024-deal",
-      "reason": "duplicata",
-      "existing_id": "0fde912f-c7b0-4c45-a0c2-d1bb555f2c4c"
-    },
-    {
-      "source": "Mashable",
-      "title": "The Insignia 65-inch Class QF QLED TV is down to its lowest-ever price at Amazon — save $50 for Prime Day",
-      "url": "https://mashable.com/tech/oct-5-early-prime-day-insignia-tv-deal",
-      "reason": "duplicata",
-      "existing_id": "5fee04fe-6075-4ab7-8d34-7ba087d480d5"
-    },
-    {
-      "source": "Mashable",
-      "title": "Magic: The Gathering Star Trek Play Booster Box preorders hit an all-time low on Amazon — save over $40",
-      "url": "https://mashable.com/life/oct-5-early-prime-day-magic-the-gathering-star-trek-play-booster-box-preorder",
-      "reason": "duplicata",
-      "existing_id": "2687f2f1-9c2e-47d2-89a9-1cc5d1f06628"
-    },
-    {
-      "source": "Mashable",
-      "title": "The 10 best wireless earbuds weve ever tested",
-      "url": "https://mashable.com/roundup/best-wireless-earbuds-hands-on-tested-2026",
-      "reason": "duplicata",
-      "existing_id": "bc5304ff-1c60-4ac2-a954-3cb6fed28623"
-    },
-    {
-      "source": "Mashable",
-      "title": "I Play Rocky review: Can this crowd-pleaser be an Oscar contender?",
-      "url": "https://mashable.com/entertainment/i-play-rocky-review",
-      "reason": "duplicata",
-      "existing_id": "9abce1fc-b29e-42f1-a9fc-22c5742009bb"
     },
     {
       "source": "TechSpot",
@@ -981,116 +1026,11 @@
       "existing_id": "b701053e-5ef9-4db7-9c7d-bfe15bf49d81"
     },
     {
-      "source": "TechSpot",
-      "title": "RuneScape 4 is officially in the works, and it started as a Dragonwilds expansion",
-      "url": "https://techspot.com/news/114088-runescape-4-officially-works-started-dragonwilds-expansion.html",
+      "source": "CNET",
+      "title": "This Harry Potter Edition Phone Looks Like It’s Heading to Hogwarts",
+      "url": "https://cnet.com/tech/mobile/this-harry-potter-edition-phone-from-realme-is-the-coolest-collab-of-2026",
       "reason": "duplicata",
-      "existing_id": "49170261-2761-4203-8407-fc6e67336dd5"
-    },
-    {
-      "source": "TechSpot",
-      "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "reason": "duplicata",
-      "existing_id": "2eb8737b-9ace-4023-b2d4-40b0c454413d"
-    },
-    {
-      "source": "TechSpot",
-      "title": "The Best 1440p QD-OLED Monitors for Less Than $500",
-      "url": "https://techspot.com/review/3175-budget-1440p-oled-monitors",
-      "reason": "duplicata",
-      "existing_id": "2b892c22-dc62-404d-9ccb-99deac437c65"
-    },
-    {
-      "source": "TechSpot",
-      "title": "Steam's latest survey shows 32GB RAM overtaking 16GB despite the massive price surge",
-      "url": "https://techspot.com/news/114081-steam-latest-survey-shows-32gb-ram-overtaking-16gb.html",
-      "reason": "duplicata",
-      "existing_id": "b1898b4d-aabc-44d8-ab5e-91a6300f91c5"
-    },
-    {
-      "source": "TechSpot",
-      "title": "A Riot ban followed a used Ryzen CPU to its new owner, but something is not adding up",
-      "url": "https://techspot.com/news/114084-riot-ban-followed-used-cpu-new-owner-but.html",
-      "reason": "duplicata",
-      "existing_id": "9a31aea3-e9f0-4a2b-a124-c72aedaf013c"
-    },
-    {
-      "source": "TechSpot",
-      "title": "Some iPhone 18 Pro Max owners are losing cell service, and Apple's fix is an entirely new phone",
-      "url": "https://techspot.com/news/114085-iphone-18-pro-max-owners-losing-cell-service.html",
-      "reason": "duplicata",
-      "existing_id": "5806437b-f5ae-4568-a609-68464a263e35"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Metal Gear Solid's Snake actor wants Konami to continue the series, even if Hideo Kojima isn't involved",
-      "url": "https://gamesradar.com/games/metal-gear/metal-gear-solids-snake-actor-wants-konami-to-continue-the-series-even-if-hideo-kojima-isnt-involved",
-      "reason": "duplicata",
-      "existing_id": "f6576706-95a5-45c5-9e47-39a06713ef99"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players",
-      "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious",
-      "reason": "duplicata",
-      "existing_id": "d4069685-c146-4d7e-b25d-8f2f224d13d9"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Kingdom Come: Deliverance 2 lead is \"bored and tired\" of \"repetitive\" RPGs and \"games for teenagers\"",
-      "url": "https://gamesradar.com/games/rpg/kingdom-come-deliverance-2-lead-is-bored-and-tired-of-repetitive-rpgs-like-assassins-creed-and-games-for-teenagers",
-      "reason": "duplicata",
-      "existing_id": "52195c4a-47e9-4f21-8670-2f4ff9468c2f"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Lanterns co-creator says the most \"schmucky-bait\" thing they could have done was bring Hal Jordan back from the dead",
-      "url": "https://gamesradar.com/entertainment/dc-tv-shows/lanterns-co-creator-says-the-most-schmucky-bait-thing-they-could-have-done-was-bring-hal-jordan-back-from-the-dead",
-      "reason": "duplicata",
-      "existing_id": "22c0ebe8-8c03-48b2-a51e-b24da9136e88"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Early Prime Day mini PC deals offer up to 50% off",
-      "url": "https://gamesradar.com/hardware/desktop-pc/its-not-even-prime-day-yet-and-im-already-finding-mini-pcs-for-gaming-or-work-that-are-over-50-percent-off",
-      "reason": "duplicata",
-      "existing_id": "a90ca2fd-d4e4-4c6f-bab3-8d19d973822f"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "The Witcher 3 Remastered leads to new Steam player peak of nearly 140,000, CD Projekt Red celebrates",
-      "url": "https://gamesradar.com/games/the-witcher/the-witcher-3-remastered-leads-to-new-steam-player-peak-of-nearly-140-000-as-cd-projekt-red-celebrates-its-11-year-old-rpgs-resurgence-much-love",
-      "reason": "duplicata",
-      "existing_id": "22aa9769-50f4-469a-9a26-63135da127af"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Prime Day retro deals live: consoles, handhelds, accessories, controller discounts",
-      "url": "https://gamesradar.com/hardware/news/live/prime-day-retro-deals-october-2026",
-      "reason": "duplicata",
-      "existing_id": "6696a674-7de7-455f-a621-b53abe2e6d21"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Will there be a Lanterns season 2?",
-      "url": "https://gamesradar.com/entertainment/dc-tv-shows/will-there-be-a-lanterns-season-2",
-      "reason": "duplicata",
-      "existing_id": "9fef5307-883b-48ad-9e2d-11d957370585"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "October's Prime Day deals for gamers LIVE: the top early savings across PS5, Nintendo Switch 2, Xbox, and PC",
-      "url": "https://gamesradar.com/news/live/october-prime-big-deals-for-gamers-26-live",
-      "reason": "duplicata",
-      "existing_id": "c4e05a0a-ab50-473f-baf0-cc463451aa4c"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Former GTA lead says \"there's no greater compliment\" than being compared to his Rockstar classics",
-      "url": "https://gamesradar.com/games/grand-theft-auto/former-gta-lead-says-theres-no-greater-compliment-than-being-compared-to-his-rockstar-classics-but-he-hopes-his-new-game-is-successful-in-its-own-right",
-      "reason": "duplicata",
-      "existing_id": "5ad0b912-d66d-414f-827b-a4d2c150c596"
+      "existing_id": "17cd84aa-96c5-4c60-95af-4dbb7b1db2dd"
     },
     {
       "source": "CNET",
@@ -1112,55 +1052,6 @@
       "url": "https://cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on",
       "reason": "duplicata",
       "existing_id": "dcdd9243-db52-42c9-89eb-7e89002ba387"
-    },
-    {
-      "source": "CNET",
-      "title": "How to Get a Piece of Apple’s $250M AI iPhone Settlement",
-      "url": "https://cnet.com/tech/mobile/apple-250-million-ai-iphone-settlement-when-who-eligible-claim",
-      "reason": "duplicata",
-      "existing_id": "2a4f87d1-1726-4a77-923c-d8df5bc3f91d"
-    },
-    {
-      "source": "CNET",
-      "title": "This Harry Potter Edition Phone From Realme Is the Coolest Collab of 2026",
-      "url": "https://cnet.com/tech/mobile/this-harry-potter-edition-phone-from-realme-is-the-coolest-collab-of-2026",
-      "reason": "duplicata",
-      "existing_id": "17cd84aa-96c5-4c60-95af-4dbb7b1db2dd"
-    },
-    {
-      "source": "CNET",
-      "title": "Download iOS 27.0.1 Now to Fix These 3 iPhone Bugs",
-      "url": "https://cnet.com/tech/services-and-software/you-should-download-ios-27-0-1-now-for-these-iphone-fixes",
-      "reason": "duplicata",
-      "existing_id": "979d9746-b7af-4307-ad4e-a9ceca8dda21"
-    },
-    {
-      "source": "CNET",
-      "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
-      "url": "https://cnet.com/tech/paramount-skydance-warner-bros-discovery-media-empire",
-      "reason": "duplicata",
-      "existing_id": "d9f2f911-58ff-4071-b62a-ea2dd8438e63"
-    },
-    {
-      "source": "CNET",
-      "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
-      "url": "https://cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement",
-      "reason": "duplicata",
-      "existing_id": "5b7cb557-badb-4022-b396-dcdb12c8c2e4"
-    },
-    {
-      "source": "CNET",
-      "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
-      "url": "https://cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video",
-      "reason": "duplicata",
-      "existing_id": "e4cd5818-1192-426b-ba50-d0f0824384bb"
-    },
-    {
-      "source": "CNET",
-      "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
-      "url": "https://cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal",
-      "reason": "duplicata",
-      "existing_id": "a315c19c-b50e-4abd-b5dd-3fd2bfc053b5"
     },
     {
       "source": "Nintendo Life",
@@ -1210,27 +1101,6 @@
       "url": "https://nintendolife.com/news/2026/10/a-colossal-upgrade-digital-foundry-delivers-its-tech-verdict-for-the-witcher-3-remastered-on-switch-2",
       "reason": "duplicata",
       "existing_id": "5737e897-9403-4912-b98f-2bc47d8fb8c5"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "Feature: Box Art Brawl - Zone Of The Enders: The Fist Of Mars (GBA)",
-      "url": "https://nintendolife.com/features/box-art-brawl-zone-of-the-enders-the-fist-of-mars-gba",
-      "reason": "duplicata",
-      "existing_id": "3b8396d0-c38c-4e38-8b3e-0174fec2adb7"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "RuneScape: Dragonwilds Reveals Multi-Year Roadmap",
-      "url": "https://nintendolife.com/news/2026/10/runescape-dragonwilds-reveals-multi-year-roadmap",
-      "reason": "duplicata",
-      "existing_id": "7221d809-9ffc-4236-a50d-a132fe917deb"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "Video: 15 Exciting New Games Coming To Switch 1 & 2 In October 2026",
-      "url": "https://nintendolife.com/news/2026/10/video-15-exciting-new-games-coming-to-switch-1-and-2-in-october-2026",
-      "reason": "duplicata",
-      "existing_id": "ab2396bb-0019-4673-b645-bfaaa11c753e"
     },
     {
       "source": "GamesIndustry.biz",
@@ -1287,20 +1157,6 @@
       "url": "https://gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
       "reason": "duplicata",
       "existing_id": "87664765-4f95-4518-ba64-5f2663f50268"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
-      "url": "https://gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
-      "reason": "duplicata",
-      "existing_id": "d6d8f2a9-bab9-48f1-8014-8941e1d75b0c"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
-      "url": "https://gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
-      "reason": "duplicata",
-      "existing_id": "d2aac769-30f4-4924-9572-74269edb3c9e"
     },
     {
       "source": "PC Watch",
@@ -1374,6 +1230,13 @@
     },
     {
       "source": "ITmedia",
+      "title": "[ITmedia News] 大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+      "url": "https://itmedia.co.jp/news/article/2610/05/2000002018",
+      "reason": "duplicata",
+      "existing_id": "8e3ba15f-4c14-4200-9b93-37906a0f8241"
+    },
+    {
+      "source": "ITmedia",
       "title": "[ITmedia ビジネスオンライン] 日経で相次ぐ不正アクセス 1646人分の個人情報漏えい、「なりすましメール」約9000件送信も",
       "url": "https://itmedia.co.jp/business/articles/2610/05/news074.html",
       "reason": "duplicata",
@@ -1436,13 +1299,6 @@
       "existing_id": "ba67296f-aa06-44a3-8a65-8c22f98dbbd7"
     },
     {
-      "source": "ITmedia",
-      "title": "[ITmedia Mobile] LINE、AIが飲み会などの予定を決めてくれる「日程調整エージェント」提供開始",
-      "url": "https://itmedia.co.jp/mobile/articles/2610/05/news070.html",
-      "reason": "duplicata",
-      "existing_id": "e1fb91f2-0577-491e-933c-f7f933bfb3e6"
-    },
-    {
       "source": "DigiTimes",
       "title": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand",
       "url": "https://digitimes.com/news/a20261005PD249/foxconn-revenue-demand-electronics-growth.html",
@@ -1492,95 +1348,11 @@
       "existing_id": "2bf42b55-bdc6-40c6-9bba-31e660a3b98f"
     },
     {
-      "source": "DigiTimes",
-      "title": "AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC",
-      "url": "https://digitimes.com/news/a20261005PD238/amd-taiwan-ceo-capacity-packaging.html",
+      "source": "The Hindu Technology",
+      "title": "Jay Clayton, Trump’s new AI czar: Who leads the Super Intelligence Force?",
+      "url": "https://thehindu.com/sci-tech/technology/jay-clayton-trumps-new-ai-czar-who-leads-the-super-intelligence-force/article71546357.ece",
       "reason": "duplicata",
-      "existing_id": "958ee73a-a68d-4d14-8508-fd2148fe547e"
-    },
-    {
-      "source": "DigiTimes",
-      "title": "Bangkok floods disrupt logistics for Taiwan PCB makers in Thailand",
-      "url": "https://digitimes.com/news/a20261005PD230/bangkok-flood-pcb-manufacturing-production-taiwan.html",
-      "reason": "duplicata",
-      "existing_id": "3618fd11-cda3-414f-88c8-5ade6d66eb20"
-    },
-    {
-      "source": "DigiTimes",
-      "title": "CHPT posts record quarterly revenue as chip test demand rises",
-      "url": "https://digitimes.com/news/a20261005PD234/chpt-ic-testing-interface-demand-revenue-2026.html",
-      "reason": "duplicata",
-      "existing_id": "34ecdce2-84b5-45a1-ac03-bba649fd2439"
-    },
-    {
-      "source": "Golem.de",
-      "title": "PTC: Schneider Electric mit Milliarden�bernahme in den USA",
-      "url": "https://golem.de/news/ptc-schneider-electric-mit-milliardenuebernahme-in-den-usa-2610-213711.html",
-      "reason": "duplicata",
-      "existing_id": "0a789712-6ea6-4a1c-99c1-c1f0dc098cb1"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch",
-      "url": "https://golem.de/news/tesla-boomt-wieder-mehr-als-jeder-dritte-neuwagen-vollelektrisch-2610-213709.html",
-      "reason": "duplicata",
-      "existing_id": "2ff6202d-a4dc-4dd8-9f71-4ad0fa346702"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Anzeige: Amazons meistverkaufter E-Scooter vor dem Prime Day zum Tiefstpreis",
-      "url": "https://golem.de/news/anzeige-amazons-meistverkaufter-e-scooter-vor-dem-prime-day-zum-tiefstpreis-2610-213708.html",
-      "reason": "duplicata",
-      "existing_id": "a88c85ec-9383-4c20-80dc-049d6a2d998b"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Jagex: Runescape bekommt ein neues MMORPG mit Unreal Engine",
-      "url": "https://golem.de/news/jagex-runescape-bekommt-ein-neues-mmorpg-mit-unreal-engine-2610-213706.html",
-      "reason": "duplicata",
-      "existing_id": "ae197b11-2f59-4034-9bbc-4c46fd1cec2b"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Anzeige: Smarter Wecker Amazon Echo Spot f�r Prime-Mitglieder erstmals unter 50 Euro",
-      "url": "https://golem.de/news/anzeige-smarter-wecker-amazon-echo-spot-fuer-prime-mitglieder-erstmals-unter-50-euro-2610-213710.html",
-      "reason": "duplicata",
-      "existing_id": "141c7557-6d14-4194-812b-82351dabe2ec"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Google Gboard Conveyor Belt Edition: Bei dieser Tastatur fahren die Tasten auf F�rderb�ndern",
-      "url": "https://golem.de/news/google-gboard-conveyor-belt-edition-bei-dieser-tastatur-fahren-die-tasten-auf-foerderbaendern-2610-213704.html",
-      "reason": "duplicata",
-      "existing_id": "3486275b-7e48-444e-a9dd-0997d84f9d31"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Cyberangriff: Antriebssystem eines �l-Supertankers gehackt",
-      "url": "https://golem.de/news/cyberangriff-antriebssystem-eines-oel-supertankers-gehackt-2610-213707.html",
-      "reason": "duplicata",
-      "existing_id": "79a7aec9-cb1d-485d-9221-aa15cdb525da"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Ploopy Bean im Test: Ein mausgewordener Trackpoint",
-      "url": "https://golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html",
-      "reason": "duplicata",
-      "existing_id": "d2db6374-e3d2-4233-bc8b-8093c0c5806e"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Trotz Handelskrieg: KI und 5G-Patentdeal zwischen Huawei und Qualcomm",
-      "url": "https://golem.de/news/trotz-handelskrieg-ki-und-5g-patentdeal-zwischen-huawei-und-qualcomm-2610-213705.html",
-      "reason": "duplicata",
-      "existing_id": "4b34bd83-7736-4315-a998-3e7b2f44a2a9"
-    },
-    {
-      "source": "Golem.de",
-      "title": "Bildmanipulationen: Content-Signatur C2PA ausgehebelt",
-      "url": "https://golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html",
-      "reason": "duplicata",
-      "existing_id": "21b30575-0932-47ba-bfd6-44b1286dd2bd"
+      "existing_id": "3742590a-fdff-42f0-a5aa-23dedd1a1130"
     },
     {
       "source": "The Hindu Technology",
@@ -1588,13 +1360,6 @@
       "url": "https://thehindu.com/entertainment/movies/janhvi-kapoor-ai-generated-video-controversy-jr-ntr-devara-chuttamalle/article71546676.ece",
       "reason": "duplicata",
       "existing_id": "40c4fc5c-1c68-48d7-8889-422e09d133f4"
-    },
-    {
-      "source": "The Hindu Technology",
-      "title": "Jay Clayton, Trump’s new AI czar: Who leads the Super Intelligence Force?",
-      "url": "https://thehindu.com/sci-tech/technology/jay-clayton-trumps-new-ai-czar-who-leads-the-super-intelligence-force/article71546357.ece",
-      "reason": "duplicata",
-      "existing_id": "3742590a-fdff-42f0-a5aa-23dedd1a1130"
     },
     {
       "source": "The Hindu Technology",
@@ -1639,27 +1404,6 @@
       "existing_id": "27929040-3e2c-452c-8fb8-a569d7657128"
     },
     {
-      "source": "The Hindu Technology",
-      "title": "Super Intelligence and Trump’s AI Accord with Big Tech leaders | Explained",
-      "url": "https://thehindu.com/sci-tech/technology/super-intelligence-and-trumps-ai-accord-with-big-tech-leaders-explained/article71531434.ece",
-      "reason": "duplicata",
-      "existing_id": "8ca0b2ed-5f46-40f7-9af0-fb0a61b8e117"
-    },
-    {
-      "source": "The Hindu Technology",
-      "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-      "url": "https://thehindu.com/news/international/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/article71544416.ece",
-      "reason": "duplicata",
-      "existing_id": "c5094696-00a1-41e2-bdcb-ee2ed2e47d97"
-    },
-    {
-      "source": "The Lec",
-      "title": "​Hanjung NCS Selected for Korea’s World-Class Plus Program",
-      "url": "https://thelec.net/news/articleView.html?idxno=14386",
-      "reason": "duplicata",
-      "existing_id": "61246fe0-a584-4577-a2e9-6229b794dfab"
-    },
-    {
       "source": "The Lec",
       "title": "Kools Leverages Mussel Adhesion Principles to Solve TGV Copper Coating Bottleneck",
       "url": "https://thelec.net/news/articleView.html?idxno=14405",
@@ -1672,13 +1416,6 @@
       "url": "https://thelec.net/news/articleView.html?idxno=14406",
       "reason": "duplicata",
       "existing_id": "96086108-0fed-4536-8b60-966f973fda2c"
-    },
-    {
-      "source": "The Lec",
-      "title": "Articron Challenges 1 Trillion KRW Valuation via Next-Gen Memory IP",
-      "url": "https://thelec.net/news/articleView.html?idxno=14407",
-      "reason": "duplicata",
-      "existing_id": "71ff1697-1d75-40a0-8bd4-e0cbe90fa98e"
     },
     {
       "source": "The Lec",
@@ -1709,25 +1446,25 @@
       "existing_id": "8584514f-f505-4acd-bca0-d5e81f8b4d16"
     },
     {
-      "source": "The Lec",
-      "title": "Coway Launches Wearable Walking-Assist Robot",
-      "url": "https://thelec.net/news/articleView.html?idxno=14382",
-      "reason": "duplicata",
-      "existing_id": "6fb62eda-0547-4fb6-9d1e-d72fe0a7ac74"
-    },
-    {
-      "source": "The Lec",
-      "title": "HD Hyundai Heavy Industries to Build 500MW Offshore Substation in Taean",
-      "url": "https://thelec.net/news/articleView.html?idxno=14383",
-      "reason": "duplicata",
-      "existing_id": "10e85e01-a975-4ed8-a3a4-609b5e03f094"
-    },
-    {
       "source": "Nikkei Asia",
       "title": "Qualcomm to pay Huawei for first time in 5G, AI patent breakthrough",
       "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/qualcomm-to-pay-huawei-for-first-time-in-5g-ai-patent-breakthrough",
       "reason": "duplicata",
       "existing_id": "0e5773a6-5188-4ce8-a11c-644825a1e361"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title": "Malaysia's SkyeChip targets Japan, joins Rapidus ecosystem",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-targets-japan-joins-rapidus-ecosystem",
+      "reason": "duplicata",
+      "existing_id": "be47f47b-fdaa-4cec-851f-a6fb1c5f37eb"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title": "Panasonic to make humanoid robots, leveraging its battery business",
+      "url": "https://asia.nikkei.com/business/technology/panasonic-to-make-humanoid-robots-leveraging-its-battery-business",
+      "reason": "duplicata",
+      "existing_id": "2f6dc151-5f4a-4bc3-8eca-99c9199ad96c"
     },
     {
       "source": "Nikkei Asia",
@@ -1758,11 +1495,74 @@
       "existing_id": "e7bd1f45-dc78-4925-888e-f5315dfdb518"
     },
     {
-      "source": "Nikkei Asia",
-      "title": "Yale University: Stephen Schwarzman (5)",
-      "url": "https://asia.nikkei.com/spotlight/my-personal-history/yale-university-stephen-schwarzman-5",
+      "source": "The Japan Times",
+      "title": "The Iraq War is finally over. It did some good.",
+      "url": "https://japantimes.co.jp/commentary/2026/10/05/world/iraq-war-finally-over",
       "reason": "duplicata",
-      "existing_id": "7742b2e7-2224-489c-9eaf-010545c0680d"
+      "existing_id": "955bbd23-8551-465a-939c-55d3c3fd4b89"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "South Korean probe concludes North Korea planted DMZ mines",
+      "url": "https://japantimes.co.jp/news/2026/10/05/asia-pacific/south-korea-probe-north-mines",
+      "reason": "duplicata",
+      "existing_id": "e2529124-7b9b-4505-a03e-0dc41890008d"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Scientists win Nobel Prize in medicine for work on ‘light-gated ion channels and optogenetics’",
+      "url": "https://japantimes.co.jp/news/2026/10/05/world/science-health/2026-nobel-prize-medicine",
+      "reason": "duplicata",
+      "existing_id": "b7ca5b8d-5473-44cc-a781-ee8ac3496ee8"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "BOJ to declare underlying inflation has reached 2%, sources say",
+      "url": "https://japantimes.co.jp/business/2026/10/05/economy/bank-of-japan-underlying-inflation-rate",
+      "reason": "duplicata",
+      "existing_id": "ee2bf336-80af-4222-9388-c7d6d65c876b"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Tokyo’s record streak of rain comes to an end",
+      "url": "https://japantimes.co.jp/news/2026/10/05/japan/tokyo-record-rain-end",
+      "reason": "duplicata",
+      "existing_id": "c03467d7-5f8e-4622-be36-672042586278"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "AI is the greatest grievance machine ever",
+      "url": "https://japantimes.co.jp/commentary/2026/10/05/world/ai-grievance-machine",
+      "reason": "duplicata",
+      "existing_id": "e3bc69c5-b257-4bc6-a43a-6d91270e8e05"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Japan wants a pharma boom. It needs a new strategy.",
+      "url": "https://japantimes.co.jp/commentary/2026/10/05/japan/japan-wants-pharma-boom",
+      "reason": "duplicata",
+      "existing_id": "705bcf79-56a0-4d30-8917-a85cce32f980"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Preventing artificial intelligence from triggering a world war",
+      "url": "https://japantimes.co.jp/commentary/2026/10/05/world/ai-world-war",
+      "reason": "duplicata",
+      "existing_id": "805253a0-5a5e-4cf4-8699-d205d5010ae9"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Cost pressures and deadlock force Honda to rework India strategy, sources say",
+      "url": "https://japantimes.co.jp/business/2026/10/05/companies/honda-india-strategy-hybrids-shift",
+      "reason": "duplicata",
+      "existing_id": "8ae82c8e-6675-4d56-97e8-4e5e86ee534d"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Daiwa Securities says info on 110,000 clients may have been leaked",
+      "url": "https://japantimes.co.jp/business/2026/10/05/companies/daiwa-securities-clients-info-stolen",
+      "reason": "duplicata",
+      "existing_id": "673423f9-e60b-4f82-8dcd-dde942d0f6f5"
     }
   ]
 }
