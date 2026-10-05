@@ -1,6 +1,47 @@
 {
-  "updated_at": "2026-10-05T00:21:58.372Z",
-  "inserted": [],
+  "updated_at": "2026-10-05T00:58:48.820Z",
+  "inserted": [
+    {
+      "id": "0d37a8f0-58c3-4166-a9c4-cad934694673",
+      "title": "What are the benefits of having a second monitor?",
+      "source": "Engadget"
+    },
+    {
+      "id": "fb3ac7a4-1e10-466e-9c01-cf9b95521ef2",
+      "title": "Assassin's Creed Game Officially Shutting Down Forever In January 2027",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "432bc8c5-9159-4297-bc4d-385701a788cc",
+      "title": "All 8 Green Lanterns Of Earth In Official DC Continuity",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "63905772-9f47-4764-ab99-029ae4c7b09a",
+      "title": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune&#039;s Weave Brings The Battle To Tetris 99",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "a543b5c4-1fb3-4198-a2d5-db43073f8ea0",
+      "title": "【本日みつけたお買い得品】なんと約13万円オフ！HPのCore Ultra 7 355搭載ノートが大幅値引き",
+      "source": "PC Watch"
+    },
+    {
+      "id": "1c780923-dc12-405e-ba41-b2ca553ce737",
+      "title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのCore i9搭載ミニPCが3万2千円オフ",
+      "source": "PC Watch"
+    },
+    {
+      "id": "4c7c3437-5a33-4c46-a695-ee5aebb11461",
+      "title": "Strategic ambiguity isn't perfect, but it remains Washington's best bet",
+      "source": "Nikkei Asia"
+    },
+    {
+      "id": "60792834-a06e-4b16-b437-2a5802830a20",
+      "title": "Flydubai co-pilot lost earlier job for dabbling in extremism",
+      "source": "The Japan Times"
+    }
+  ],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -207,13 +248,6 @@
       "existing_id": "0fe5c1ed-5049-4889-8fec-e7740a837ddc"
     },
     {
-      "source": "Engadget",
-      "title": "Five iPhone 18 Pro features you'll want to try the second you unbox it",
-      "url": "https://engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed",
-      "reason": "duplicata",
-      "existing_id": "487c38ff-fc0a-4641-b5c4-db5a20710de7"
-    },
-    {
       "source": "The Verge",
       "title": "The new Fitbit Edge leaks",
       "url": "https://theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
@@ -285,6 +319,12 @@
     },
     {
       "source": "Entertainment Weekly",
+      "title": "Tom Cruise digs a hole he can’t get out of, as “Digger” becomes historic box office bomb",
+      "url": "https://ew.com/digger-loses-big-in-opening-weekend-at-the-box-office-12158638",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
       "title": "Gyspy Rose Blanchard addresses ‘tension’ after accusations from late ex Ken Urker’s sister",
       "url": "https://ew.com/gyspy-rose-blanchard-tension-ken-urker-sister-autumn-12158291",
       "reason": "fonte bloqueada"
@@ -335,12 +375,6 @@
       "source": "Entertainment Weekly",
       "title": "Julie Bowen reveals what “Modern Family” cast talks about in group chat",
       "url": "https://ew.com/julie-bowen-what-modern-family-cast-talks-about-group-chat-12157764",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Alan Alda opens up about Parkinson’s diagnosis: ‘I don’t want to wish it away’",
-      "url": "https://ew.com/alan-alda-opens-up-about-parkinsons-diagnosis-12157690",
       "reason": "fonte bloqueada"
     },
     {
@@ -685,6 +719,18 @@
     },
     {
       "source": "Collider",
+      "title": "‘Silent Hill’ Fans Officially Get a New Survival Horror Nightmare for Halloween",
+      "url": "https://collider.com/silent-hill-heartworm-console-release-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
+      "title": "Anya Taylor-Joy's Bonkers Action Thriller Officially Lands a Netflix Premiere Date",
+      "url": "https://collider.com/anya-taylor-joy-sacrifice-netflix-streaming-release-date-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "‘The Gentlemen’ Star's Gripping Crime Thriller Officially Soars on Prime Video",
       "url": "https://collider.com/theo-james-fuze-streaming-hit-prime-video-october-2026",
       "reason": "fonte bloqueada"
@@ -729,18 +775,6 @@
       "source": "Collider",
       "title": "Netflix’s Forgotten 3-Season Sitcom Deserves One More Comeback",
       "url": "https://collider.com/girls5eva-netflix-series-comeback",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Collider",
-      "title": "The Best Sci-Fi Horror Franchise of the '80s Is Officially Available to Stream in One Place",
-      "url": "https://collider.com/ghostbusters-franchise-streaming-free-fandango-october-2026",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Collider",
-      "title": "Horror’s $15K Box Office Miracle Officially Moves to a New Streamer for Halloween",
-      "url": "https://collider.com/paranormal-activity-streaming-starz-october-2026",
       "reason": "fonte bloqueada"
     },
     {
@@ -798,20 +832,6 @@
       "url": "https://screenrant.com/doctor-who-billie-piper-regeneration-truth-russell-t-davies",
       "reason": "duplicata",
       "existing_id": "02b91c92-2f25-4bee-82be-edbaa08d9c90"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Recasting The Golden Girls For New Mystery Series Adaptation: All 6 Main Characters",
-      "url": "https://screenrant.com/golden-girls-recasting-2027-new-book-adaptation-main-characters",
-      "reason": "duplicata",
-      "existing_id": "1f3e1486-ec0b-4e58-8524-dfabb845fffc"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "10 Psychological Thrillers With Twist Endings You Never Saw Coming",
-      "url": "https://screenrant.com/psychological-thriller-movies-twist-endings",
-      "reason": "duplicata",
-      "existing_id": "40314a5b-d6f9-486c-8bd0-ccae76b0e21c"
     },
     {
       "source": "Mashable",
@@ -983,17 +1003,17 @@
     },
     {
       "source": "GamesRadar+",
-      "title": "What is Avatar: Seven Havens? The Last Airbender sequel explained",
-      "url": "https://gamesradar.com/entertainment/animation-shows/what-is-avatar-seven-havens",
-      "reason": "duplicata",
-      "existing_id": "4d42f09d-6d26-4050-ba9e-b1550e6af766"
-    },
-    {
-      "source": "GamesRadar+",
       "title": "Playing God: The revolutionary AI that made Black & White still unforgettable",
       "url": "https://gamesradar.com/games/simulation/playing-god-the-revolutionary-ai-that-made-black-and-white-still-unforgettable",
       "reason": "duplicata",
       "existing_id": "b768349c-5721-43aa-a8f2-4fcc1dbf205d"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "What is Avatar: Seven Havens? The Last Airbender sequel explained",
+      "url": "https://gamesradar.com/entertainment/animation-shows/what-is-avatar-seven-havens",
+      "reason": "duplicata",
+      "existing_id": "4d42f09d-6d26-4050-ba9e-b1550e6af766"
     },
     {
       "source": "GamesRadar+",
@@ -1157,13 +1177,6 @@
       "existing_id": "c3258f1a-b32e-42b0-8cb7-3dde33acb46f"
     },
     {
-      "source": "Nintendo Life",
-      "title": "Talking Point: What Are You Playing This Weekend? (3rd October)",
-      "url": "https://nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-3rd-october",
-      "reason": "duplicata",
-      "existing_id": "29b8608b-540c-4ce7-8776-d62b00d351bc"
-    },
-    {
       "source": "GamesIndustry.biz",
       "title": "Sony's consultation on physical media: better late than never | Opinion",
       "url": "https://gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
@@ -1290,18 +1303,11 @@
       "existing_id": "b98dce6f-b8d1-44cd-90ae-b5b630fe030f"
     },
     {
-      "source": "PC Watch",
-      "title": "【今すぐ読みたい！人気記事】お荷物になってしまった240GB等の小SSDたち。実は“記憶域スペース”で大容量化可能。余ったSSDの有効活用方法とは - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2145395.html",
+      "source": "ITmedia",
+      "title": "[ITmedia News] 講談社子会社、従業員のメールに不正アクセス 不審メール50件送信",
+      "url": "https://itmedia.co.jp/news/article/2610/05/2000001992",
       "reason": "duplicata",
-      "existing_id": "288eb46c-b8f2-4c38-a82d-806cf1f36f9f"
-    },
-    {
-      "source": "PC Watch",
-      "title": "【今すぐ読みたい！人気記事】ガスと電動式のエアダスター対決。どちらが便利でコスパが高い？エアコンプレッサーも加えて戦わせてみた - PC Watch",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2145394.html",
-      "reason": "duplicata",
-      "existing_id": "5be73a80-1a79-4489-a8db-70c5fc86701f"
+      "existing_id": "4fc044d3-6994-49ce-860b-904adf86280d"
     },
     {
       "source": "ITmedia",
@@ -1315,7 +1321,7 @@
       "title": "[ITmedia News] 「現場任せのAI活用」が失敗するこれだけの理由 経営層がすべき“頭の中”の言語化とは",
       "url": "https://itmedia.co.jp/news/article/2610/05/2000001937",
       "reason": "duplicata",
-      "existing_id": "5c8c831e-b9d1-4dd6-bc47-5afa61d02a7d"
+      "existing_id": "4fc044d3-6994-49ce-860b-904adf86280d"
     },
     {
       "source": "ITmedia",
@@ -1336,7 +1342,7 @@
       "title": "[ITmedia ビジネスオンライン] 国産AI開発「ラストチャンス」の局面へ ノエトラが「44社が出資・国が最大1兆円支援」の追い風を背に向かう先",
       "url": "https://itmedia.co.jp/business/articles/2610/05/news037.html",
       "reason": "duplicata",
-      "existing_id": "f66f146e-3f6c-46d0-ab71-e50119bf48b3"
+      "existing_id": "4fc044d3-6994-49ce-860b-904adf86280d"
     },
     {
       "source": "ITmedia",
@@ -1365,13 +1371,6 @@
       "url": "https://itmedia.co.jp/mobile/articles/2610/04/news006.html",
       "reason": "duplicata",
       "existing_id": "9f95525d-700b-4673-beb9-6e3828a6bcc4"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia Mobile] ドコモがRCSで同意未取得の不備 約1万6000件に影響、対象ユーザーは利用停止に",
-      "url": "https://itmedia.co.jp/mobile/articles/2610/04/news007.html",
-      "reason": "duplicata",
-      "existing_id": "92071bab-39fa-4499-9066-9d99c72054ee"
     },
     {
       "source": "DigiTimes",
@@ -1717,13 +1716,6 @@
       "existing_id": "310fe36d-7e5d-41b4-ae25-16afedcf9d67"
     },
     {
-      "source": "Nikkei Asia",
-      "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
-      "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance",
-      "reason": "duplicata",
-      "existing_id": "7b6ac269-4878-4085-a6d0-de324485528b"
-    },
-    {
       "source": "The Japan Times",
       "title": "Mrs. Green Apple doesn’t want to play by ‘the rules’",
       "url": "https://japantimes.co.jp/culture/2026/10/05/music/motoki-ohmori-green-apple",
@@ -1785,13 +1777,6 @@
       "url": "https://japantimes.co.jp/environment/2026/10/04/energy/offshore-wind-tech-solutions",
       "reason": "duplicata",
       "existing_id": "8ff44a2a-5ca5-4924-8437-0005d5d989d5"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Japan needs to protect its undersea lifelines",
-      "url": "https://japantimes.co.jp/commentary/2026/10/04/japan/protecting-japans-undersea-lifelines",
-      "reason": "duplicata",
-      "existing_id": "c0243bd4-f95a-4613-a687-733a501b88c5"
     }
   ]
 }
