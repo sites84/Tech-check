@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T08:49:45.102Z",
+  "updated_at": "2026-10-07T16:39:54.212Z",
   "fixed": [
     {
       "id": "ac81c9c9-cd51-4eb9-9ef3-a9a2ffdd8c7c",
@@ -374,10 +374,22 @@
       "to": "Filmes, Séries e Animações"
     },
     {
+      "id": "c2103381-6b46-43d6-922d-8f1c75681677",
+      "title": "Google's experimental Playground platform uses AI to create games for you",
+      "from": [],
+      "to": "Games"
+    },
+    {
       "id": "52bbc2da-c50f-41f9-a75c-36a6f5c24160",
       "title": "A aclamada série de ficção científica de Ridley Scott na HBO que exige ser vista duas vezes",
       "from": [],
       "to": "Filmes, Séries e Animações"
+    },
+    {
+      "id": "6ecdcddd-9eef-4f0f-b48d-2693ad4421fa",
+      "title": "A free mod for Titanfall 2 makes it one of the best VR games ever",
+      "from": [],
+      "to": "Games"
     },
     {
       "id": "0edb6426-d3d4-4033-9803-0b6c65294037",
@@ -444,6 +456,14 @@
       "title": "DJI Neo com desconto de 15% na Amazon reduz preço para US$ 169",
       "existing": [],
       "sources": []
+    },
+    {
+      "id": "bf8f40c9-1b75-4c06-9acf-736eab2b250c",
+      "title": "Bloom raises $3.6M to become the &#8216;Alibaba&#8217; of American manufacturing",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
     },
     {
       "id": "24686dd9-0929-404e-a75d-f7a99edc5a61",
@@ -1109,6 +1129,14 @@
       "existing": [],
       "sources": [
         "Golem.de"
+      ]
+    },
+    {
+      "id": "d467a68b-b6ec-4c96-8308-f3397a541b69",
+      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
       ]
     },
     {
@@ -2214,11 +2242,35 @@
       "sources": []
     },
     {
+      "id": "15e365f0-ea36-480d-8745-9e49856ba03c",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "ebb232ac-040b-4ecb-a81f-e758ede8d996",
       "title": "Como colocar a NPU da Intel para funcionar no Ubuntu usando o OpenVINO e o llama.cpp",
       "existing": [],
       "sources": [
         "PC Watch"
+      ]
+    },
+    {
+      "id": "d2057960-ee3d-4b8d-b6ef-895efe6aa90a",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "efcd9930-2274-4519-a3a9-b364db1ba6f2",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
       ]
     },
     {
@@ -2228,12 +2280,6 @@
       "sources": [
         "The Verge"
       ]
-    },
-    {
-      "id": "02a95d09-6145-4f41-8d16-fe20ebbe44d8",
-      "title": "Final Destination 3 & 9 Other Horror Movies You Won’t Believe Are 20 Years Old",
-      "existing": [],
-      "sources": []
     },
     {
       "id": "0119c0bc-6643-4c92-ae04-5a685789a066",
@@ -2352,6 +2398,30 @@
       "sources": []
     },
     {
+      "id": "20550108-e794-4592-ac55-d1fc47a93123",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "ce23d6ce-cf17-4a7a-be48-0fbfd289b391",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "a757077e-51e9-4337-8277-1ed104f70f6b",
+      "title": "Google&#8217;s new SynthID website can identify AI-generated media",
+      "existing": [],
+      "sources": [
+        "TechCrunch"
+      ]
+    },
+    {
       "id": "53da8ab5-eba1-4c45-993b-64d2b48ca8b9",
       "title": "Satlyt levanta US$ 8 milhões para levar IA ao espaço",
       "existing": [
@@ -2369,14 +2439,6 @@
       "sources": []
     },
     {
-      "id": "1f167c46-9df0-4ab3-9810-dd090767e9a6",
-      "title": "Google enfrenta processo de mais de £ 1 bilhão no Reino Unido por taxas da Play Store",
-      "existing": [],
-      "sources": [
-        "The Hindu Technology"
-      ]
-    },
-    {
       "id": "32f5e521-05fe-4e7c-9027-3b61b9440391",
       "title": "As 5 Melhores Estreias de Séries e Filmes para Curtir no Streaming Nesta Semana",
       "existing": [],
@@ -2391,6 +2453,14 @@
       "sources": []
     },
     {
+      "id": "784603a4-ce23-4ca2-bc54-cda6b0da215f",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "existing": [],
+      "sources": [
+        "Ars Technica"
+      ]
+    },
+    {
       "id": "f3dd7e47-2999-458e-bd68-19353f2d708c",
       "title": "Filtros de segurança da IA Claude levam a intervenção policial e prisão após ameaças em diário",
       "existing": [],
@@ -2399,12 +2469,30 @@
       ]
     },
     {
-      "id": "ceb96298-ce47-4d9b-a372-2814bd056a64",
-      "title": "Aion 2 Ultrapassa 400.000 Jogadores Simultâneos Globalmente, Mas Monetização Gera Reclamações",
+      "id": "d8deddee-d45c-477e-b9df-32d24a55f967",
+      "title": "Ring&#8217;s first smart lock can be hand-cranked when its battery dies",
       "existing": [],
       "sources": [
-        "The Lec"
+        "TechCrunch"
       ]
+    },
+    {
+      "id": "ad625bcf-8856-4d8b-9eed-f818ad7e75e9",
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "6b19def0-5f85-43d1-9409-6c0730d410f9",
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "1e58d3f5-7268-4f53-9e7e-165e63998215",
+      "title": "Review: Fine, let's talk about Digger",
+      "existing": [],
+      "sources": []
     },
     {
       "id": "902cbe7d-c969-4b1e-ba73-6302a3497600",
@@ -2453,12 +2541,6 @@
       "sources": []
     },
     {
-      "id": "dd20d05d-55ba-44e7-91e4-ad7747d080f8",
-      "title": "Data center da Goodman no Japão enfrenta críticas após revés em Sydney",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "5cbdcfa9-c638-4ffe-8811-58a6150eebfa",
       "title": "テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ",
       "existing": [],
@@ -2485,18 +2567,10 @@
       ]
     },
     {
-      "id": "aca46c1c-39bf-4cd2-8e49-89012d4d582c",
-      "title": "Professores japoneses celebram Prêmio Nobel de Física para líder do projeto IceCube",
+      "id": "50c3bdce-499a-4663-8d80-491eb9ad7d55",
+      "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
       "existing": [],
       "sources": []
-    },
-    {
-      "id": "65bd2ef9-3b05-4270-b971-2a12a521322f",
-      "title": "LG Electronics fecha acordo de resfriamento de 5GW para centros de dados de inteligência artificial na América do Norte",
-      "existing": [],
-      "sources": [
-        "The Lec"
-      ]
     },
     {
       "id": "d5e8c238-18d5-4267-9df4-824731ae1b1b",
@@ -2507,6 +2581,26 @@
       ]
     },
     {
+      "id": "65bd2ef9-3b05-4270-b971-2a12a521322f",
+      "title": "LG Electronics fecha acordo de resfriamento de 5GW para centros de dados de inteligência artificial na América do Norte",
+      "existing": [],
+      "sources": [
+        "The Lec"
+      ]
+    },
+    {
+      "id": "4aab84b2-a960-4b71-8c1d-51e70c69068c",
+      "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "93e70cdc-d4c5-4cb1-94b3-4c3a4023bab6",
+      "title": "Cisco is bringing a new agentic framework to its Webex enterprise platform",
+      "existing": [],
+      "sources": []
+    },
+    {
       "id": "d6742248-ed0a-4744-b6ca-48cb489255a6",
       "title": "Análise do Vivo V80: Mantendo as forças da linha V com foco em bateria e fotografia",
       "existing": [],
@@ -2515,8 +2609,62 @@
       ]
     },
     {
+      "id": "28bd7164-7dcb-4ec1-94c9-f6f86004ab1e",
+      "title": "Ring's smart lock has a hand crank so it works even if the power's out",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "715e0cf6-2a96-47ae-91e0-97f8fe9f77ce",
+      "title": "Google's AI detection website is now available",
+      "existing": [],
+      "sources": []
+    },
+    {
       "id": "4416b31a-1e26-4ec6-a9f0-30326462c0e2",
       "title": "Startup de escaneamento corporal apoiada por bilionário do Spotify chega aos Estados Unidos",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "20c826a3-523c-4698-80ff-d450ed56982b",
+      "title": "OpenAI just posted hundreds more results on major math problems",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "9c524a14-3c90-4be6-8b24-fed00b61949c",
+      "title": "The Social Reckoning is a timely reminder that we shouldn't trust Meta",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "a970be7c-765a-4b11-bf90-b7789909feb5",
+      "title": "Xreal's Aura Android XR smartglasses will cost you at least $1,279",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "16ec50c8-eb5b-4a54-b72f-54946d4bda7e",
+      "title": "Microsoft Windows and Surface event 2026: Live updates as Satya Nadella and Jensen Huang take the stage",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "4f65b401-773d-4f7d-9871-f0f1b21f200b",
+      "title": "Ultrahuman now offers on-demand heart rhythm scans",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "5644a081-16b9-4e19-bb96-4e77f901a9be",
+      "title": "Windows and Surface live blog: On the ground at Microsoft’s event",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "118d345e-4429-45d5-a4d4-da7731e9561e",
+      "title": "Disney Plus will stream Super Bowl LXI",
       "existing": [],
       "sources": []
     },
@@ -2547,14 +2695,6 @@
       "sources": []
     },
     {
-      "id": "a7857abd-316f-42cb-bcd7-e6677e3c837d",
-      "title": "Em busca de dias mais claros: Tóquio aposta em outubro ensolarado após chuvas recordes",
-      "existing": [],
-      "sources": [
-        "The Japan Times"
-      ]
-    },
-    {
       "id": "0a5f03b1-0f57-4f0c-a4f8-c97370a4ecf7",
       "title": "Análise do Lego Shrek, Donkey & Puss in Boots: vale a pena?",
       "existing": [],
@@ -2569,12 +2709,6 @@
       "sources": [
         "TechSpot"
       ]
-    },
-    {
-      "id": "a8d71e51-b3f6-43e7-838f-2a1dc14de838",
-      "title": "Órgão antitruste do Japão realiza buscas nas quatro maiores cervejarias do país por suspeita de cartel de preços",
-      "existing": [],
-      "sources": []
     },
     {
       "id": "34996c78-31bf-4b7d-ba7d-80a0b525d53a",
@@ -2613,12 +2747,6 @@
       "sources": []
     },
     {
-      "id": "7ff7c2a1-3956-4986-9da6-230385799f42",
-      "title": "Homem é preso após esfaquear mulher em restaurante em Ibaraki cujo proprietário foi encontrado morto",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "9ee4d9d6-1d9b-4630-93c2-87fea5e499dc",
       "title": "メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ",
       "existing": [],
@@ -2637,14 +2765,8 @@
       "sources": []
     },
     {
-      "id": "a5641884-d87b-404f-b0d8-abc6ff889bcb",
-      "title": "É possível desacelerar o desenvolvimento da inteligência artificial?",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "d42a82c5-64ef-46a6-bb66-04f0f580c7c0",
-      "title": "Coreia do Norte critica os Estados Unidos por apoio militar a Taiwan",
+      "id": "ae7225b0-143c-49f4-85c0-32b6708330ef",
+      "title": "Doxxing Jane Doe",
       "existing": [],
       "sources": []
     },
@@ -2657,8 +2779,14 @@
       ]
     },
     {
-      "id": "ecbb9470-8b3b-46d8-848a-0aa34f8c0eef",
-      "title": "Jantares de corte de atum de 200 dólares oferecem conexão com a cultura do sushi",
+      "id": "a5641884-d87b-404f-b0d8-abc6ff889bcb",
+      "title": "É possível desacelerar o desenvolvimento da inteligência artificial?",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "a535263b-be69-43b2-9fed-8c5d5509d605",
+      "title": "ChatGPT is getting college planning tools",
       "existing": [],
       "sources": []
     },
@@ -2687,32 +2815,8 @@
       "sources": []
     },
     {
-      "id": "131a78a2-4fdb-4b55-a031-ce39b49dee1c",
-      "title": "Clube de troca de casas de luxo ThirdHome desembarca no Japão de olho em proprietários ricos",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "583ec662-e768-4468-a7d6-4519fc0e2776",
-      "title": "Onda de ataques cibernéticos atinge empresas no Japão e na Coreia do Sul",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "14aa21c4-9d42-466a-b83b-9636e55ac5f6",
       "title": "Escândalo em orçamento de estradas ameaça agenda ambiciosa de Sanae Takaichi",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "c9b32b95-d459-4ea3-9c64-4c208fa56825",
-      "title": "França exibe poder aéreo de longo alcance para fortalecer a dissuasão no Indo-Pacífico",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "5f7d4f5d-8e41-43b1-8a92-d3a514dd7ff5",
-      "title": "Protestas da oposição na Índia aumentam pressão sobre o governo de Modi",
       "existing": [],
       "sources": []
     },
@@ -2723,26 +2827,12 @@
       "sources": []
     },
     {
-      "id": "83b2af31-7430-4efe-b7fc-35ebc526d49a",
-      "title": "Google fecha acordo massivo de energia de 3,6 GW com a Constellation Energy",
-      "existing": [],
-      "sources": [
-        "The Hindu Technology"
-      ]
-    },
-    {
       "id": "8cb4bbe1-024b-43f0-afa7-eaf7a83e4c03",
       "title": "Produtores de ouro na Ásia começam a reter estoques domésticos após alta de preços",
       "existing": [],
       "sources": [
         "Nikkei Asia"
       ]
-    },
-    {
-      "id": "094cc33d-2382-4347-b5c4-5bdbf070ef6e",
-      "title": "Banco Central da Índia realiza primeira alta de juros desde 2023 devido à inflação",
-      "existing": [],
-      "sources": []
     },
     {
       "id": "acdf643a-c517-40d4-a4d1-5da4e8ac5c65",
@@ -2773,14 +2863,38 @@
       "sources": []
     },
     {
-      "id": "a9c1c87a-e8f0-4b45-9581-1813c9113844",
-      "title": "Cofundador da Bungie e diretora narrativa de Destiny 2 lançam o estúdio transmídia Stone Kite",
+      "id": "1ce8b6a2-60e5-4d0e-b85e-c889914562c2",
+      "title": "Xreal’s most affordable display glasses are $50 off",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "d82db77d-d362-446d-ae1a-f0a8e2eb38dc",
+      "title": "Muse launches on the iPad",
       "existing": [],
       "sources": []
     },
     {
       "id": "d21222af-592d-4fb0-b8b8-ceab3ee82616",
       "title": "Planeta fênix alienígena nasce das cinzas de estrela moribunda",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "a9c1c87a-e8f0-4b45-9581-1813c9113844",
+      "title": "Cofundador da Bungie e diretora narrativa de Destiny 2 lançam o estúdio transmídia Stone Kite",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "fbf1bb4b-a8c5-4a1c-a83d-5845a92649a5",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "2cb11994-cbb8-4c8e-92af-b08a6b90aaa8",
+      "title": "New leaks provide our first look at Apple and LG’s smart home devices",
       "existing": [],
       "sources": []
     },
@@ -2811,90 +2925,6 @@
     {
       "id": "55fcc4aa-e45d-4c03-85de-13e92ebc0cb7",
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "e561c248-68b7-4e51-b1a3-68608e88670b",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "aa8a1e8b-09a2-43b1-b0b9-94a9ae461ecf",
-      "title": "What are amplifiers for and how important are they to your sound system's quality?",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "9a0ff0ac-6d4c-4186-ab22-218a30a1d70d",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "d0c56ee5-3cbb-4ed0-b232-4232e7a9a4b9",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "d645b93f-5fc0-4f5f-a2be-bb6ffb297ab9",
-      "title": "【本日みつけたお買い得品】32GBのDDR5メモリが1万4,409円引き！CFD製がAmazonでセール中",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "e8f41d5b-3e1e-4506-80eb-9bfa3e6ec3c1",
-      "title": "[ITmedia エンタープライズ] クラウドとAIの転換点？ Gartnerがハイプ・サイクルを発表、「過度な期待」と評した5つの技術",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "c17f0d49-50dd-43a1-a6f2-3a23afee8593",
-      "title": "Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "5f140e23-bd6d-4e40-8602-f954c22e8368",
-      "title": "How has Apple's Mac Studio changed over the years?",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "b98dce6f-b8d1-44cd-90ae-b5b630fe030f",
-      "title": "12万回の折り曲げに耐える1本3役の超タフケーブル、オウルテックから",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "b56164b5-425b-41d5-8387-dffd48da5e03",
-      "title": "5 startups that caught VCs&#8217; attention at the latest PearX demo day",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "66894465-f972-45d3-aef8-e9134046221b",
-      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "8c95d004-33a1-4e66-a723-6640e1114afb",
-      "title": "[ITmedia Mobile] OPPOからも“1万mAh”のデカバッテリースマホが登場",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "164b3605-aa0a-4809-b529-9a88e8855278",
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "88ea24b5-3215-4b77-9f56-7f4160606248",
-      "title": "What's the difference between battery capacity and battery life?",
       "existing": [],
       "sources": []
     }
