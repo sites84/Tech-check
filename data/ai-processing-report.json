@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-10-09T03:29:23.461Z",
+  "updated_at": "2026-10-09T04:21:14.641Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
+    {
+      "id": "93af53c2-a505-4765-a255-d8f11e7e6e5d",
+      "title": "LG Energy Solution reorganiza sua base de fornecedores de equipamentos para ESS",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "88ea6712-69ad-4f3c-8675-7e512a7fb59a",
+      "title": "Mithril fecha contrato de 230 milhões de wons para solução de IA em equipamentos de limpeza",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "991532d4-3768-4257-8374-5d7f9ddf930d",
+      "title": "LG Electronics comercializa tela OLED variável para o novo Genesis GV90",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "7d0f3813-4bef-49d0-8bbb-fff3414402d0",
+      "title": "TeraView inicia validação de equipamentos de inspeção TGV para substratos de vidro",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "40944c46-52b9-4ad2-a753-577f50f18bb0",
+      "title": "KT&G SangSang Madang realiza a pop-up Play Day:D em Chuncheon",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "1ce0bf8d-9af0-4345-9abb-232efdbbb385",
+      "title": "KTE Mira Abertura de Capital na KOSDAQ Até o Fim do Ano Após Aprovação Preliminar",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "52e2ae97-fe6e-4442-9c73-6e5596401733",
+      "title": "Desenvolvedor chinês torna agente de IA ARTEX proprietário após ataques a bancos coreanos",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "61c7d3a0-2483-4ee3-ac3e-f89058101fb8",
+      "title": "Relatório sobre receita da OpenAI gera preocupação e afeta ações de inteligência artificial",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "7879b071-de68-4f58-aa07-2c78e33c814f",
+      "title": "Ex-pesquisadores da OpenAI acusam empresa de intimidar esforços de segurança",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "58abcf22-1d8d-4ed6-a8c1-f9f5d9a42dd6",
+      "title": "Garmin lança Enduro 4 no Japão com bateria de ultra longa duração",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "e2441eb0-41c1-430a-bae3-10eb99d4281a",
+      "title": "LGエレクトロニクス・ジャパン、軽量16型ノートPC「LG gram Pro 16」に新色のブラックカラーモデルを追加",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "86140c41-b03f-406c-98f5-a49f5a931bb6",
+      "title": "[ITmedia PC USER] 日本HPが個人向け新ノートPCを10月下旬に発売 RTX Spark搭載の「OmniBook Ultra 16 AI PC」と若者の最初の1台を狙う「OmniBook 5 14」",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Computers"
+    },
+    {
+      "id": "1f86f25b-9859-4ace-a742-79a59fea0f9e",
+      "title": "Hackeamento de currículos com texto invisível para IA é investigado por pesquisadores",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "a0129f95-72c0-499d-a81e-11fac4b3ff3e",
+      "title": "Conheça o WINBOT mini 2, o robô limpador de janelas ultrafino da Ecovacs",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "5beb1b2a-bc4d-4b10-9d1f-5e43dd0aa80c",
+      "title": "Nova onda de solicitações de novos domínios gTLD atrai grande interesse no Japão com .manga, .anime e .docomo",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "e8d9dd8e-76a4-4b89-a2cb-e6eb42b6700e",
+      "title": "Novos rumores indicam que a linha LEGO de Pokémon pode ganhar série de saquinhos surpresa",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "d9087a19-f3b4-4d7c-bb47-c9e7dd07f7f8",
+      "title": "Por que Susan Turner merece um espaço de destaque na série Reacher do Prime Video",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "f0eb4b32-161d-46c3-a8b1-5873f3586c3d",
+      "title": "Projeto de fã une Ocarina of Time com o visual de The Wind Waker",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9406b87e-c08d-4abf-8f41-cf0a73e4ae84",
+      "title": "We Already Know How James Gunn's Man of Tomorrow Will Set Up Lanterns Season 2",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "0e9798e7-026f-4486-9d7b-ad0ecc11c502",
+      "title": "Conheça DED.NET, o jogo de tiro que mistura Battle Royale com mecânicas de Roguelite",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "b3628e53-f55d-4e0e-8ed1-a3353a24bfec",
+      "title": "Dungeon Crawler Carl: Dados inspirados nas icônicas cuecas encantadas chegam em novembro",
+      "category": "Games",
+      "status": "review"
+    },
     {
       "id": "1953d40f-fef1-4807-bb41-42eebf894a41",
       "title": "F1 drivers split on cooling vests as sweltering conditions await in Singapore",
@@ -9,122 +135,8 @@
       "error": "Categoria inválida retornada pelo Gemini: Esportes"
     },
     {
-      "id": "6a747f43-9726-4988-89bd-df29c67fd6f1",
-      "title": "EUA suspendem Microsoft e outras gigantes de tecnologia de programa de vistos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "4e5b6abe-a58c-48df-b420-85e896fab074",
-      "title": "Rússia exige que os Países Baixos extraditem a presidente do Tribunal Penal Internacional, Tomoko Akane",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "3934c5a5-94fe-42c0-b4e7-7b45b4327e92",
-      "title": "Veículo da Embaixada da Rússia se envolve em acidente de trânsito em Tóquio",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "b93bb8b5-5c36-4b62-9676-849cf45a7370",
-      "title": "Bancos globais reforçam equipes de captação de dívida no Japão com boom de emissão de títulos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "b570fa57-6887-45c9-942e-31c8d5cc61e4",
-      "title": "Aces star A’ja Wilson collects record fifth MVP award",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "2fb34192-61a1-4bb2-a09e-18e43c0927d0",
-      "title": "Seca de acordos derruba captação de IPOs no Japão ao menor patamar em 14 anos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "49a8d477-2ed7-419f-85d1-7295834ab819",
-      "title": "Fabricantes japoneses de bebidas alcoólicas apostam no mercado americano de prontos para beber",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "dd9a9a91-79ad-40e6-9227-cd485304f1ca",
-      "title": "Protesto em Tóquio após fuzileiro naval dos EUA ser acusado de assassinato em Okinawa",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "6d1e9bfc-989e-4e62-8209-0b65f6669b4f",
-      "title": "Taliban enfrentam risco de guerra civil após fracasso da mediação da China entre Afeganistão e Paquistão",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "2e1a14cd-b39f-471b-8698-52492e9eea3b",
-      "title": "Disputas internas no KMT de Taiwan atraem atenção de Estados Unidos e China",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "28822ae5-c351-4890-aa3b-a8b11e3b5c64",
-      "title": "Centros de tecnologia de multinacionais na Índia enfrentam desaceleração de contratações impulsionada por IA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "6a325100-9fa4-4514-9a6c-19efa5d24879",
-      "title": "GlobalFoundries fecha acordo de US$ 2 bilhões com a TSMC para fabricação de interposers nos EUA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "53e2b413-bce2-46a6-b415-b3b9090ba3e6",
-      "title": "MediaTek supera projeções no terceiro trimestre de 2026 e mantém ritmo de alta temporada",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "ea477851-3085-4b2e-97ee-ec290979c0bd",
-      "title": "Análise do iPhone 18 Pro Max: Evoluções impressionantes na câmera e desafios no peso",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "a5ead968-8440-427a-9a15-c8b429c3194f",
-      "title": "Governo dos EUA substitui termo IA por SI e adota nova postura oficial em portais e documentos",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "6944300a-d378-41a4-947c-0c50b5d314de",
-      "title": "Sourcenext lança notebook de 15,6 polegadas com 16 GB de memória por menos de 100 mil ienes",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "1e5ab71a-93c5-4b96-b457-a8508f682601",
-      "title": "Amazon oferece descontos expressivos em três modelos de roteadores Wi-Fi 7",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "c5810ca9-d2e9-4393-9f4b-d668991ef5b2",
-      "title": "Café de marca tradicional e kits variados entram em promoção na Amazon com descontos de até 3.091 ienes",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "ff703d43-165d-4402-a99a-1cc30b4fc606",
-      "title": "Best Buy vai oferecer unidades extras do Switch 2 de Zelda em lojas físicas no lançamento à meia-noite",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "71353e7f-3971-4207-a4ee-5696fb02b684",
-      "title": "Nintendo Switch 2 é encontrado por preço menor na JB Hi-Fi apesar de aumentos no mercado",
+      "title": "A’ja Wilson conquista seu quinto prêmio de MVP da WNBA e entra para a história",
       "category": "Games",
       "status": "review"
     },
@@ -135,28 +147,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "4cb7340f-9baf-4a13-82b2-5740d7529b84",
-      "title": "Marvel revela um visual aterrorizante e inédito para o clássico vilão do Homem-Aranha",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "dc2f8dde-ad0e-44d7-922b-2295d97677c4",
-      "title": "A série de Harry Potter da HBO muda o público-alvo original",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "81d3c6cf-e502-4aa1-842b-d9cbce9f3b0b",
       "title": "Evil Season 5 Gets \"Sincere Talks\" Update From Mike Colter 2 Years Later",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "51af0e4c-758e-4f82-80b7-42fb203d83a0",
-      "title": "A Batalha na Floresta da Morte que Mudou para Sempre a Franquia Naruto",
-      "category": "Games",
-      "status": "review"
     },
     {
       "id": "24bccda5-c1fd-4625-99eb-43a348248cd1",
@@ -165,22 +159,28 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "45d2b296-eb67-4391-83a6-b80c3acdb119",
-      "title": "Zelenskyy acusa Estados Unidos de inação após ataques russos deixarem mais de 70 mortos em dois dias",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
       "id": "7f8a3058-e923-4e40-9023-393c5c1ecbf2",
       "title": "Madrid mourns evicted retiree, ‘icon’ of Spain housing protests",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Sociedade"
     },
     {
-      "id": "7a562d9f-2102-41db-a51c-e27d7294e46f",
-      "title": "Novo filme da Apple TV reconta a história do Everest sob a perspectiva de Tenzing Norgay",
-      "category": "Filmes, Séries e Animações",
+      "id": "859a9eb1-44fd-422e-ab16-95e3ae455c97",
+      "title": "A demo de ANOMALITH para PS5 traz lembranças dos jogos clássicos de Resident Evil e estilo independente",
+      "category": "Games",
       "status": "review"
+    },
+    {
+      "id": "9216146d-7c4c-4993-9e06-ef38322aa66e",
+      "title": "NYCC: Marvel Animation Looks Forward with More &#8216;Zombies,&#8217; &#8216;X-Men &#8217;97&#8217; &#038; &#8216;Your Friendly Neighborhood Spider-Man&#8217;",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "a5ea086f-facb-4234-bdff-0893d73243f8",
+      "title": "Marvel officially confirms Daredevil: Born Again will end with season 3 at New York Comic Con",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
@@ -225,12 +225,6 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "f4b167d0-9c90-471f-830d-2b99f0b7b5ef",
-      "title": "Crítica de 'Lady': Sian Clifford brilha em sátira sobre a aristocracia britânica",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "072e08ec-2192-4f31-aa75-3e5b0947903b",
       "title": "&#8216;The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries &#038; Platino Industria (EXCLUSIVE)",
       "status": "error",
@@ -241,6 +235,12 @@
       "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "d960ac67-a9a5-4bf1-ab9f-7f0c6265614b",
+      "title": "‘Game of Thrones’ Legend’s Western Crime Thriller Is Officially a Netflix Sensation",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     }
   ]
 }
