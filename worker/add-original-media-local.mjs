@@ -2,7 +2,7 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 const URL=process.env.SUPABASE_URL,KEY=process.env.SUPABASE_SERVICE_ROLE_KEY,SITE='https://sites84.github.io/Tech-check';
 const H={apikey:KEY,Authorization:`Bearer ${KEY}`};
-const attr=(t,n)=>t.match(new RegExp(`\b${n}\\s*=\\s*["']([^"']+)["']`,'i'))?.[1]||'';
+const attr=(t,n)=>t.match(new RegExp(`\\b${n}\\s*=\\s*["']([^"']+)["']`,'i'))?.[1]||'';
 const abs=(v,b)=>{try{return new URL(String(v).trim(),b).href}catch{return''}};
 const clean=v=>{try{const u=new URL(v);u.hash='';return u.href}catch{return''}};
 const urlsFromSet=v=>String(v||'').split(',').map(x=>x.trim().split(/\\s+/)[0]).filter(Boolean);
@@ -24,7 +24,7 @@ function images(html,base){
  // Fallbacks outside the article for publishers whose gallery is declared in metadata.
  for(const m of html.matchAll(/<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image|image|og:image:url)["'][^>]+>/gi)) add(attr(m[0],'content'));
  // JSON-LD image fields, including arrays and ImageObject/contentUrl.
- for(const m of html.matchAll(/<script[^>]+type=["']application\\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)){
+ for(const m of html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)){
   try{const data=JSON.parse(m[1].trim());const walk=x=>{if(!x)return;if(typeof x==='string'){if(/^https?:/i.test(x)&&/\.(jpe?g|png|webp|gif)(\?|$)/i.test(x))add(x);return}if(Array.isArray(x)){x.forEach(walk);return}if(typeof x==='object')Object.entries(x).forEach(([k,v])=>{if(/image|contentUrl|thumbnailUrl|url/i.test(k))walk(v);else if(typeof v==='object')walk(v)})};walk(data)}catch{}
  }
  return [...new Set(out.filter(Boolean))];
