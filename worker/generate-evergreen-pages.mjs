@@ -63,9 +63,11 @@ function schemaFor(item, url) {
     inLanguage: 'pt-BR',
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     author: { '@type': 'Organization', name: 'Tech Check', url: SITE + '/' },
-    publisher: { '@type': 'Organization', name: 'Tech Check', url: SITE + '/' },
+    publisher: { '@type': 'Organization', name: 'Tech Check', url: SITE + '/', logo: { '@type': 'ImageObject', url: SITE + '/favicon.png' } },
     isAccessibleForFree: true
   };
+  const published = item.published_at || item.created_at;
+  if (published) data.datePublished = published;
   const images = [item.image_url, item.image_url_2].filter(Boolean);
   if (images.length) data.image = images;
   return JSON.stringify(data).replace(/</g, '\\u003c');
@@ -106,7 +108,7 @@ async function writeLegacyRedirects(folder, canonicalSlug, item, canonicalUrl) {
 }
 
 async function main() {
-  const items = await api('tech_evergreen_content?active=eq.true&select=id,content_type,title,summary,content,image_url,image_url_2,sort_order&order=content_type.asc,sort_order.asc&limit=1000');
+  const items = await api('tech_evergreen_content?active=eq.true&select=id,content_type,title,summary,content,image_url,image_url_2,sort_order,published_at,created_at&order=content_type.asc,sort_order.asc&limit=1000');
   const supported = items.filter(x => ['curiosity', 'fundamental', 'tutorial', 'comparison'].includes(x.content_type));
   const grouped = {
     curiosity: supported.filter(x => x.content_type === 'curiosity'),
