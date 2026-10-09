@@ -98,12 +98,6 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/generate-evergreen-pages.mjs
-      - name: Adicionar fotos e vídeos das fontes originais
-        continue-on-error: true
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: node worker/add-original-media-local.mjs
       - name: Reparar páginas de matérias ausentes
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -123,6 +117,12 @@ jobs:
         run: node worker/standardize-favicons.mjs
       - name: Aplicar modo escuro às matérias
         run: node worker/patch-article-dark-mode.mjs
+      - name: Adicionar fotos e vídeos das fontes originais
+        continue-on-error: true
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node worker/add-original-media-local.mjs
       - name: Gerar páginas de arquivo indexáveis
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
