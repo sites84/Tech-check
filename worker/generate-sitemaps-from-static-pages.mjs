@@ -19,7 +19,9 @@ async function walk(dir, out = []) {
 }
 function tags(html, tagName) { return [...html.matchAll(new RegExp('<' + tagName + '\\b[^>]*>', 'gi'))].map(m => m[0]); }
 function attr(tag, name) {
-  const m = tag.match(new RegExp('\\\\b' + name + '\\\\s*=\\\\s*["\\']([^"\\']*)["\\']', 'i'));
+  const dq = tag.match(new RegExp("\\b" + name + "\\s*=\\s*\"([^\"]*)\"", "i"));
+  const sq = tag.match(new RegExp("\\b" + name + "\\s*=\\s*'([^']*)'", "i"));
+  const m = dq || sq;
   return m ? decodeEntities(m[1]).trim() : '';
 }
 function hasNoindex(html) {
