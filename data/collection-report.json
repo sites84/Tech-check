@@ -1,6 +1,122 @@
 {
-  "updated_at": "2026-10-09T19:22:18.521Z",
-  "inserted": [],
+  "updated_at": "2026-10-09T21:01:05.234Z",
+  "inserted": [
+    {
+      "id": "1f8968d6-b664-4344-948e-e207aba732cd",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "source": "TechCrunch"
+    },
+    {
+      "id": "526c7f52-9dc5-4c15-8da1-c9006d46ce20",
+      "title": "AI coding agents generate more code, but not more software",
+      "source": "Ars Technica"
+    },
+    {
+      "id": "e3b7d40e-12c2-4ef7-9c11-67ef3c372d45",
+      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "source": "Ars Technica"
+    },
+    {
+      "id": "185642fb-24e0-4c72-928b-aa1eab1e0925",
+      "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+      "source": "Engadget"
+    },
+    {
+      "id": "014e341e-c5a8-4385-a7cc-be8aefec4eda",
+      "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+      "source": "The Verge"
+    },
+    {
+      "id": "66c2afa1-0d49-4f48-85dd-72ab59855eed",
+      "title": "DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide",
+      "source": "VGC"
+    },
+    {
+      "id": "28fb316f-e748-4e28-af88-acefc76da7bc",
+      "title": "Welcome Home: 4 big Apple announcements coming next week",
+      "source": "Macworld"
+    },
+    {
+      "id": "ca972f12-f02d-418f-b2a5-9cf86d253e16",
+      "title": "PlayStation Drops Official Spider-Man Free Download, No PS Plus Required",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "a8ff8ef5-6d0d-406f-a679-d5cf90c496f4",
+      "title": "The Mummy 4: Brendan Fraser Returns on His Own Terms",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "2864eb3b-98aa-47f5-a321-b1fb999d4dab",
+      "title": "Friday The 13th Officially Rewriting Major Franchise Kill In New 2026 Release",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "98570030-093b-482a-97d9-8103f29a6666",
+      "title": "Landman Season 3 Filming Update Confirms Ainsley's College Future",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "14a0e845-23ba-4f65-9748-d2523da9ccae",
+      "title": "Carrie Movie Ending Explained",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "88c095ef-db13-4983-b459-b3ce76454a1e",
+      "title": "Nintendo Officially Addresses GTA 6 On Switch 2",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "a6ff2ccb-cd4a-42fc-b348-7599aaf27c40",
+      "title": "Taylor Sheridan’s $175 Million Western Was Officially The Start Of A New Era",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "02c6452a-81fc-444b-9a33-04c492869d07",
+      "title": "Johnny Depp’s Overlooked Spooky Movie Is A Quintessential Halloween Watch",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "1cfde0bc-aff8-4b79-8737-42c852a6518b",
+      "title": "Jesse Eisenberg Vs. Jeremy Strong: Who Delivers The Better Mark Zuckerberg Performance?",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "767ab61c-7424-4e02-8c1b-ea1692869988",
+      "title": "Helluva Boss's \"Raunchiest\" Season Yet Explained By Creator",
+      "source": "ScreenRant"
+    },
+    {
+      "id": "4d3d4018-eed9-4b0b-bdd2-a45210b6e07c",
+      "title": "Marvel teases Zodiac spy thriller. Heres what fans are theorizing.",
+      "source": "Mashable"
+    },
+    {
+      "id": "5742aa68-a642-42d4-a8af-8fea5a8e45e7",
+      "title": "OpenAI to bring in $20 billion less than previously expected",
+      "source": "Mashable"
+    },
+    {
+      "id": "182773e5-3c06-4d5e-bd3b-223bf8765a96",
+      "title": "My new cozy obsession is a Lord of the Rings-inspired Animal Crossing riff blowing up on Kickstarter",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "a8a7f3df-145b-4558-96c9-7221b7563dc0",
+      "title": "Designer who \"fixed\" Grand Theft Auto's driving releases a \"remaster\" of it",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "2400230c-18b1-4faa-b05b-4a66a3bf221c",
+      "title": "Gears of War E-Day sold just 62k copies on Xbox versus 1.7 million Game Pass players, analyst says",
+      "source": "GamesRadar+"
+    },
+    {
+      "id": "7e438768-db30-40e8-8e8a-d3f142d95d2d",
+      "title": "Once China's most valuable stock, liquor maker Kweichow Moutai down 43% from peak",
+      "source": "Nikkei Asia"
+    }
+  ],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -67,13 +183,6 @@
       "existing_id": "b8a2322a-743b-41c4-9bda-9b6beb71e59c"
     },
     {
-      "source": "TechCrunch",
-      "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-      "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup",
-      "reason": "duplicata",
-      "existing_id": "fbca787d-e0d9-4d14-81b1-40095e03f31d"
-    },
-    {
       "source": "Ars Technica",
       "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
       "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023",
@@ -128,20 +237,6 @@
       "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink",
       "reason": "duplicata",
       "existing_id": "c15bdcf7-c4b0-45a6-b84e-86c0684fc612"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts",
-      "reason": "duplicata",
-      "existing_id": "79096c28-c0ef-4ffa-a9f7-ab0861559659"
-    },
-    {
-      "source": "Ars Technica",
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says",
-      "reason": "duplicata",
-      "existing_id": "76ab78dc-0e73-4b84-af62-d2c6153ef3f5"
     },
     {
       "source": "Engadget",
@@ -207,11 +302,11 @@
       "existing_id": "d5cfa4d6-3527-47e7-9e6a-fcd524d6f9e5"
     },
     {
-      "source": "Engadget",
-      "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
-      "url": "https://engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter",
+      "source": "The Verge",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
       "reason": "duplicata",
-      "existing_id": "260570c6-6216-4d88-9f42-ed37da8131c4"
+      "existing_id": "46a8fd79-770b-44d3-a1c2-9718be904674"
     },
     {
       "source": "The Verge",
@@ -270,18 +365,46 @@
       "existing_id": "51ab203a-0234-4bb0-bce6-1c881e729b53"
     },
     {
-      "source": "The Verge",
-      "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
-      "url": "https://theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-      "reason": "duplicata",
-      "existing_id": "2a0d3c78-cbc4-4419-9164-ae7c9e597536"
+      "source": "Entertainment Weekly",
+      "title": "“Sense and Sensibility ”star drops curse word live on “Today” show: ‘I’m so sorry’",
+      "url": "https://ew.com/sense-and-sensibility-star-drops-curse-word-live-today-show-12166903",
+      "reason": "fonte bloqueada"
     },
     {
-      "source": "The Verge",
-      "title": "The AI is in the computer",
-      "url": "https://theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-      "reason": "duplicata",
-      "existing_id": "aa252642-913f-457b-a62b-37a1f1b069ea"
+      "source": "Entertainment Weekly",
+      "title": "Bob Mackie’s death certificate reveals shocking new details after rep confirmed designer died of pneumonia",
+      "url": "https://ew.com/bob-mackie-s-death-certificate-reveals-shocking-new-details-12166888",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Steve Martin covers Lil Nas X’s ‘Old Town Road’ for a reason: ‘What a moment!’",
+      "url": "https://ew.com/steve-martin-and-company-put-bluegrass-spin-on-old-town-road-12166798",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "How Jessica Chastain crafted her creepy take on “Other Mommy” — and her family and friends’ funny response to it",
+      "url": "https://ew.com/jessica-chastain-crafted-other-mommy-character-response-12165314",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Ciara Miller says “DWTS” did not show enough of her personality beyond Bravo’s “Summer House” scandal",
+      "url": "https://ew.com/ciara-miller-says-dwts-did-not-show-enough-of-her-personality-beyond-bravo-scandal-12166568",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Tony Romo was reportedly disqualified from a golf tournament on the same day as CBS departure",
+      "url": "https://ew.com/tony-romo-disqualified-from-golf-tournament-amid-cbs-departure-report-12166778",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "“Other Mommy” panned as mother of all horror bombs: ‘More silly than scary,’ and ‘excruciating,’ say critics",
+      "url": "https://ew.com/other-mommy-panned-by-critics-12166556",
+      "reason": "fonte bloqueada"
     },
     {
       "source": "Entertainment Weekly",
@@ -299,48 +422,6 @@
       "source": "Entertainment Weekly",
       "title": "Dominic Cooper says he and ex Amanda Seyfried may ‘come up’ with “Mamma Mia 3” during film festival reunion",
       "url": "https://ew.com/dominic-cooper-amanda-seyfried-may-come-up-with-mamma-mia-3-12166619",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "“DWTS” judge Carrie Ann Inaba responds to claim she shows favoritism among contestants",
-      "url": "https://ew.com/dwts-judge-carrie-ann-inaba-accused-of-favoritism-12166484",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Inside Ethel Kennedy and Jackie Kennedy’s final moments together after sharing ‘one another’s pain and trauma’",
-      "url": "https://ew.com/inside-ethel-kennedy-jackie-kennedy-final-moments-together-12166372",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Keri Russell explains why she and Matthew Rhys won’t get married after more than a decade together",
-      "url": "https://ew.com/keri-russell-matthew-rhys-wont-get-married-12166529",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Idina Menzel makes rare comment about ‘really hard’ and ‘complicated’ split from ex-husband Taye Diggs",
-      "url": "https://ew.com/idina-menzel-rare-comment-about-hard-complicated-split-from-ex-taye-diggs-12166371",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "10 actors who admitted to having affairs with their costars",
-      "url": "https://ew.com/stars-who-admitted-to-having-an-affair-with-their-costars-12166186",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Craig Melvin reveals reason for recent “Today” absence: ‘I don’t get to miss work a whole lot’",
-      "url": "https://ew.com/craig-melvin-reveals-reason-for-recent-today-absence-12166457",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Chuck Lorre claims Melanie Lynskey was ‘terrified’ of Charlie Sheen during his final “Two and a Half Men” scene",
-      "url": "https://ew.com/chuck-lorre-claims-melanie-lynskey-terrified-charlie-sheen-two-and-a-half-men-12166353",
       "reason": "fonte bloqueada"
     },
     {
@@ -407,11 +488,11 @@
       "existing_id": "125f646d-26c5-4397-8456-2f0a89213f0c"
     },
     {
-      "source": "VGC",
-      "title": "Forza Horizon 6 officially dated for PS5, alongside an expansion",
-      "url": "https://videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion",
+      "source": "Animation Magazine",
+      "title": "Viva Launches &#8216;Space Cadet&#8217; in Select Theaters (New Trailer)",
+      "url": "https://animationmagazine.net/2026/10/viva-launches-space-cadet-in-select-theaters-new-trailer",
       "reason": "duplicata",
-      "existing_id": "d0058e56-89b9-411a-83b9-30e460a5c2ea"
+      "existing_id": "c63812f9-fd85-4dfc-af26-ecb5a7b3a91a"
     },
     {
       "source": "Animation Magazine",
@@ -475,13 +556,6 @@
       "url": "https://animationmagazine.net/2026/10/tiff-announces-drawn-universes-visions-in-animation-lineup",
       "reason": "duplicata",
       "existing_id": "ed4e75e8-5fad-44a4-a57f-381224085d7a"
-    },
-    {
-      "source": "Animation Magazine",
-      "title": "&#8216;Peppa Pig&#8217; Theatrical Event Celebrates Evie&#8217;s First Christmas",
-      "url": "https://animationmagazine.net/2026/10/peppa-pig-theatrical-event-celebrates-evies-first-christmas",
-      "reason": "duplicata",
-      "existing_id": "b9306b7a-1c94-469b-86d8-484b25edf76a"
     },
     {
       "source": "Push Square",
@@ -555,14 +629,38 @@
     },
     {
       "source": "Variety",
-      "title": "&#8216;WandaVision&#8217; Creator Jac Schaeffer to Develop &#8216;Stargate&#8217; Series at Amazon (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/wandavision-jac-schaeffer-stargate-series-amazon-1236906795",
+      "title": "&#8216;Newlyweds&#8217; Showrunner Gail Lerner Fired From NBC Sitcom Ahead of Premiere: &#8216;I&#8217;m So Sad&#8217;",
+      "url": "https://variety.com/2026/tv/news/newlyweds-showrunner-gail-lerner-fired-nbc-1236907069",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Variety",
-      "title": "Variety Toasts Pete Davidson at The New York Party With Gayle King, Ana Navarro and Kareem Rahma",
-      "url": "https://variety.com/2026/scene/news/variety-pete-davidson-new-york-party-1236906726",
+      "title": "Shari Redstone-Backed Sipur Studios Opens London Office, Sets Out International Strategy Including Boarding Olivier Dahan&#8217;s &#8216;Nana&#8217; (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/sipur-studios-london-olivier-dahan-nana-1236902209",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "Trump Taps &#8216;Devoted Fan&#8217; Katie Zacharia, a Fox News and CNN Commentator, as White House Press Secretary",
+      "url": "https://variety.com/2026/tv/news/trump-katie-zacharia-white-house-press-secretary-fox-news-1236906962",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "Dodgers and Vans Team Up on Limited-Edition Sneaker Collection in Time for MLB Playoffs",
+      "url": "https://variety.com/2026/shopping/news/dodgers-and-vans-sneaker-collection-shop-online-1236906961",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "‘I Play Rocky’ Star Anthony Ippolito on Sylvester Stallone’s Reaction, Drinking Raw Eggs and Why Hollywood Needs &#8216;More Raw, Human Stories&#8217;",
+      "url": "https://variety.com/2026/film/news/i-play-rocky-anthony-ippolito-sylvester-stallone-reaction-1236906222",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "&#8216;WandaVision&#8217; Creator Jac Schaeffer to Develop &#8216;Stargate&#8217; Series at Amazon (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/wandavision-jac-schaeffer-stargate-series-amazon-1236906795",
       "reason": "fonte bloqueada"
     },
     {
@@ -587,30 +685,6 @@
       "source": "Variety",
       "title": "Journey Drummer Deen Castronovo Leaves Concert After Two Songs and Is Hospitalized, as Show Eventually Resumes With Drum Tech",
       "url": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-leaves-concert-hospitalized-1236906851",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Beyond &#8216;Hollywood North&#8217;: How Vancouver&#8217;s Indie Film Scene Is Building Its Own Ecosystem",
-      "url": "https://variety.com/2026/film/news/vancouver-indie-film-scene-building-its-own-ecosystem-1236906461",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Amazon Viking Drama ‘Bloodaxe’ Sets Release Date, Debuts Fierce New Trailer at New York Comic Con",
-      "url": "https://variety.com/2026/tv/news/amazon-bloodaxe-release-date-new-york-comic-con-1236906718",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Guillermo del Toro, Diego Luna, Alfonso Cuarón to Attend Morelia Fest as Director Daniela Michel Sees Shift to Intimate Mexican Stories",
-      "url": "https://variety.com/2026/film/news/guillermo-del-toro-alfonso-cuaron-morelia-film-festival-1236902304",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Laika Submits Original Song From &#8216;Wildwood&#8217; for Oscars, &#8216;The Better Part of Bravery,&#8217; Performed by The Decemberists (EXCLUSIVE)",
-      "url": "https://variety.com/2026/artisans/news/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575",
       "reason": "fonte bloqueada"
     },
     {
@@ -670,141 +744,64 @@
       "existing_id": "881de6a9-0147-4208-9314-ba157d7d5424"
     },
     {
-      "source": "Macworld",
-      "title": "This $199.90 iOS scanner app is only $25 for 2 days",
-      "url": "https://macworld.com/article/3256340/this-199-90-ios-scanner-app-is-only-25-for-2-days.html",
-      "reason": "duplicata",
-      "existing_id": "3f330a84-6870-48a3-b8f0-ece27bea4cf9"
-    },
-    {
       "source": "Collider",
-      "title": "Netflix’s Most Divisive Thriller Officially Drew 813M Hours Despite Its Ending",
-      "url": "https://collider.com/you-netflix-813-million-hours-divisive-ending",
+      "title": "10 Greatest Halloween Movies That Still Haunt Us to This Day",
+      "url": "https://collider.com/best-halloween-movies-still-haunt-us",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 10 Best Crime Shows Released Since 1990, Ranked",
-      "url": "https://collider.com/best-crime-shows-since-1990-ranked",
+      "title": "10 Years Later, Daredevil’s Original Team Is Officially Back [Exclusive]",
+      "url": "https://collider.com/daredevil-born-again-season-3-charlie-cox-defenders-netflix-reunion",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Pan's Labyrinth: Ivana Saw Vidal's Violence After Filming | Collider BTS",
-      "url": "https://collider.com/video/pan-s-labyrinth-ivana-saw-vidal-s-violence-after-filming-collider-bts",
+      "title": "Captain Marvel Officially Returns for New Series",
+      "url": "https://collider.com/captain-marvel-comic-series-carol-danvers-return",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "'Ghosts' Officially Brings Back a Fan-Favorite For 100th Episode",
-      "url": "https://collider.com/ghosts-season-6-100th-episode-parvati-shallow-matt-walsh",
+      "title": "‘Die Hard 2’ Director Officially Reveals Why He Turned Down James Bond: “He's Not My Bond” [Exclusive]",
+      "url": "https://collider.com/james-bond-renny-harlin-rejected-director-offer",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "CBS' New Fantasy Series Gets Massive Update Following Premiere",
-      "url": "https://collider.com/eternally-yours-tim-meadows-asif-ali-jeff-hiller-guest-star",
+      "title": "Marvel’s New Editor-in-Chief Explains Kevin Feige’s Role in the Comics’ Next Creative Era [Exclusive]",
+      "url": "https://collider.com/kevin-feige-marvel-comics-future-stephen-wacker",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Prime Video’s 8-Part ‘Vikings’ Replacement Officially Sets January Release Date",
-      "url": "https://collider.com/bloodaxe-prime-video-release-date-teaser",
+      "title": "Netflix’s Forgotten 5-Part Harlan Coben Thriller Is Officially the Perfect Weekend Binge",
+      "url": "https://collider.com/netflix-harlan-coben-forgotten-thriller-missing-you-weekend-binge",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 6 Best Crime Books Released Since 1990, Ranked",
-      "url": "https://collider.com/best-crime-books-since-1990-ranked",
+      "title": "'Baldur’s Gate 3’ Officially Returns With a 6-Part Astarion Murder Mystery Comic",
+      "url": "https://collider.com/baldurs-gate-3-comic-series-astarion-karlach-dark-horse",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "‘Avengers: Doomsday’ Officially Takes Over NYCC With New Doctor Doom Collection",
-      "url": "https://collider.com/avengers-doomsday-doctor-doom-nycc-marvel-merch-collection",
+      "title": "Bruce Willis Hated One Thing About John McClane, and It Almost Changed ‘Die Hard 2’",
+      "url": "https://collider.com/renny-harlin-die-hard-2-bruce-willis-the-beast-interview",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The Next Major Harry Potter RPG Is Officially Here",
-      "url": "https://collider.com/harry-potter-rpg-defenders-of-hogwarts-kickstarter",
+      "title": "Star Wars Officially Brings Its Original Trilogy to Dungeons & Dragons in 2027",
+      "url": "https://collider.com/star-wars-dungeons-dragons-tyro-squadron-2027-books",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "‘Harry Potter’ Star Confirms Massive Update for HBO Series",
-      "url": "https://collider.com/harry-potter-hbo-series-10-hours-runtime-johnny-flynn",
+      "title": "The 10 Best Martial Arts Movie Fight Scenes of All Time, Ranked",
+      "url": "https://collider.com/best-martial-arts-movie-fight-scenes-all-time-ranked",
       "reason": "fonte bloqueada"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Francis Ford Coppola’s Polarizing Sci-Fi Epic Is Officially Returning To Theaters After $136M Bombing",
-      "url": "https://screenrant.com/francis-ford-coppola-megalopolis-theatrical-return-october-2026",
-      "reason": "duplicata",
-      "existing_id": "9eb1c041-dbcd-42fb-8e9e-799974d8cee3"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Netflix's New 6-Part Thriller Series Is Officially An Instant Global Streaming Sensation",
-      "url": "https://screenrant.com/below-show-netflix-thriller-streaming-success",
-      "reason": "duplicata",
-      "existing_id": "1a1771dd-7e38-4aaa-8d44-2a8931ae5ed4"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Avatar: Seven Havens Review: The Twins Make It Great",
-      "url": "https://screenrant.com/video/avatar-seven-havens-review-the-twins-make-it-great",
-      "reason": "duplicata",
-      "existing_id": "0ed366be-80ae-4bd7-bdf2-c8f77347d107"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Metal Gear Solid's Official Replacement Is Our First Confirmed Next-Gen Game",
-      "url": "https://screenrant.com/metal-gear-solid-replacement-physint-next-gen",
-      "reason": "duplicata",
-      "existing_id": "5ebf9100-7836-4a67-827b-5f24143f1634"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Gronk Geeks Out: Rob Gronkowski Confirms What He's Learned About Marvel For NYCC",
-      "url": "https://screenrant.com/rob-gronkowski-marvel-gronk-nycc",
-      "reason": "duplicata",
-      "existing_id": "d7da6811-35a4-4792-acd6-275d59000f79"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Casting Babylon 5’s Reboot: All 8 Main Characters",
-      "url": "https://screenrant.com/babylon-reboot-recast-all-lead-characters",
-      "reason": "duplicata",
-      "existing_id": "8b7ca0bf-a7b5-42b7-817f-91249c8951f3"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Blue Bloods' Major Reagan Family Union Gets New Story Details From CBS Showrunners",
-      "url": "https://screenrant.com/boston-blue-danny-will-reagan-family-reunion-story-details",
-      "reason": "duplicata",
-      "existing_id": "ad251259-aae1-4f25-a7ac-a2d6e54c7ef7"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Prime Video’s Bloodaxe Series From Vikings Creatir Gets Official Release Date",
-      "url": "https://screenrant.com/bloodaxe-show-release-date-prime-video-confirmed",
-      "reason": "duplicata",
-      "existing_id": "34370897-924c-4c75-905e-da4fbafde314"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Paramount's 2-Part Taken Meets Tracker Replacement Can't Be Stopped On Streaming",
-      "url": "https://screenrant.com/one-mile-franchise-taken-tracker-replacement-paramount-plus-streaming-success-october-2026",
-      "reason": "duplicata",
-      "existing_id": "beae0147-d2b4-44b0-b560-13247a912fd8"
-    },
-    {
-      "source": "ScreenRant",
-      "title": "Wallace & Gromit Franchise Officially Makes History With Sherlock Alum's Casting",
-      "url": "https://screenrant.com/wallace-and-gromit-voice-history-first-martin-freeman-casting",
-      "reason": "duplicata",
-      "existing_id": "69e42d04-c093-48cb-b180-9d8fcd8707d9"
     },
     {
       "source": "Mashable",
@@ -861,20 +858,6 @@
       "url": "https://mashable.com/tech/apple-macbook-pro-ultra-oled-touchscreen-latest-rumors",
       "reason": "duplicata",
       "existing_id": "179cea0a-1975-48ef-9d34-b803c51e963e"
-    },
-    {
-      "source": "Mashable",
-      "title": "The Social Reckonings Jeremy Allen White and Mikey Madison reveal why they stay off social media",
-      "url": "https://mashable.com/entertainment/social-reckoning-jeremy-allen-white-mikey-madison-facebook-meta-interview",
-      "reason": "duplicata",
-      "existing_id": "c3900c12-3a2a-44c9-82aa-d85edbe49a7d"
-    },
-    {
-      "source": "Mashable",
-      "title": "Over 20 Ninja appliances are still on sale at Amazon this weekend: Save up to 45% on the Slushi, Crispi, and more",
-      "url": "https://mashable.com/life/october-prime-day-ninja-deals-still-live-2026",
-      "reason": "duplicata",
-      "existing_id": "3c1a3897-f0ee-4f37-a8fe-b077d3cef16a"
     },
     {
       "source": "TechSpot",
@@ -994,27 +977,6 @@
       "url": "https://gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans",
       "reason": "duplicata",
       "existing_id": "d3d6047e-c497-471f-8e31-35289e75515d"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "GTA 6 Wanted Levels and Heat system explained",
-      "url": "https://gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat",
-      "reason": "duplicata",
-      "existing_id": "2ebf5996-bfa7-4c8f-83e0-a9f480cceaf4"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "Warhammer Tone Pro may sound like it's for experts, but the paint may be even better for beginners",
-      "url": "https://gamesradar.com/tabletop-gaming/warhammer-tone-pro-may-sound-like-its-for-experts-but-the-paint-may-be-even-better-for-beginners",
-      "reason": "duplicata",
-      "existing_id": "ff74217d-57c4-4f7e-9b63-118070163584"
-    },
-    {
-      "source": "GamesRadar+",
-      "title": "PlayStation creator turned AI CEO Ken Kutaragi predicts AI daydreams will replace video games",
-      "url": "https://gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing",
-      "reason": "duplicata",
-      "existing_id": "8d8b8294-af30-4b5f-96c5-35c8bbc2d77a"
     },
     {
       "source": "CNET",
@@ -1708,13 +1670,6 @@
       "url": "https://asia.nikkei.com/politics/japan-s-doge-to-step-up-spending-review-eyeing-ev-subsidies-health-checks",
       "reason": "duplicata",
       "existing_id": "89bd3de7-a11c-42aa-952e-2d8f5e982bca"
-    },
-    {
-      "source": "Nikkei Asia",
-      "title": "TDK weighs sale of hard-drive head unit, but regulatory OK uncertain",
-      "url": "https://asia.nikkei.com/business/business-deals/tdk-weighs-sale-of-hard-drive-head-unit-but-regulatory-ok-uncertain",
-      "reason": "duplicata",
-      "existing_id": "492ad1eb-2742-49a9-bf5d-290cee982c96"
     },
     {
       "source": "The Japan Times",

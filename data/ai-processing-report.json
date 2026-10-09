@@ -1,7 +1,145 @@
 {
-  "updated_at": "2026-10-09T19:25:49.233Z",
+  "updated_at": "2026-10-09T21:04:31.428Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
+    {
+      "id": "7e438768-db30-40e8-8e8a-d3f142d95d2d",
+      "title": "A queda da Kweichow Moutai: como a gigante de bebidas da China despencou 43% de seu pico",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "2400230c-18b1-4faa-b05b-4a66a3bf221c",
+      "title": "Gears of War E-Day vende apenas 62 mil cópias no Xbox contra 1,7 milhão no Game Pass, aponta analista",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "a8a7f3df-145b-4558-96c9-7221b7563dc0",
+      "title": "Programador que salvou a direção de Grand Theft Auto lança demonstração remasterizada do código original",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "182773e5-3c06-4d5e-bd3b-223bf8765a96",
+      "title": "Humblets: conheça o jogo aconchegante inspirado em Senhor dos Anéis e Animal Crossing que virou febre no Kickstarter",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "5742aa68-a642-42d4-a8af-8fea5a8e45e7",
+      "title": "OpenAI projeta receita de US$ 50 bilhões para o ano, valor abaixo das expectativas",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "4d3d4018-eed9-4b0b-bdd2-a45210b6e07c",
+      "title": "Marvel teases Zodiac spy thriller. Heres what fans are theorizing.",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "767ab61c-7424-4e02-8c1b-ea1692869988",
+      "title": "Helluva Boss's \"Raunchiest\" Season Yet Explained By Creator",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "1cfde0bc-aff8-4b79-8737-42c852a6518b",
+      "title": "Jesse Eisenberg vs. Jeremy Strong: Quem entrega a melhor atuação como Mark Zuckerberg?",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "02c6452a-81fc-444b-9a33-04c492869d07",
+      "title": "Johnny Depp’s Overlooked Spooky Movie Is A Quintessential Halloween Watch",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "a6ff2ccb-cd4a-42fc-b348-7599aaf27c40",
+      "title": "Como a série 1883, de Taylor Sheridan, salvou o Paramount+",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "88c095ef-db13-4983-b459-b3ce76454a1e",
+      "title": "Nintendo se pronuncia oficialmente sobre a possível chegada de GTA 6 ao Switch 2",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "14a0e845-23ba-4f65-9748-d2523da9ccae",
+      "title": "Entendendo o Final Clássico de Carrie: A Lenda do Terror e Suas Diferenças para o Livro",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "98570030-093b-482a-97d9-8103f29a6666",
+      "title": "Atualizações de Landman confirmam o futuro universitário de Ainsley na 3ª temporada",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "2864eb3b-98aa-47f5-a321-b1fb999d4dab",
+      "title": "Série Crystal Lake promete reescrever morte marcante e expandir o universo de Sexta-Feira 13",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "a8ff8ef5-6d0d-406f-a679-d5cf90c496f4",
+      "title": "A Volta de A Múmia 4: Como Brendan Fraser Pode Retornar sob Seus Próprios Termos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "ca972f12-f02d-418f-b2a5-9cf86d253e16",
+      "title": "PlayStation libera download gratuito de Spider-Man sem exigência de PS Plus",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "28fb316f-e748-4e28-af88-acefc76da7bc",
+      "title": "Apple prepara evento especial \"Welcome Home\" para outubro com novidades em casa inteligente",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "66c2afa1-0d49-4f48-85dd-72ab59855eed",
+      "title": "Dragon's Dogma 2: Dark Arisen – Como derrotar os inimigos Blackdog na missão A Howl in the Dawk",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "014e341e-c5a8-4385-a7cc-be8aefec4eda",
+      "title": "Blogger de Ohio é condenado por assédio após enviar imagem explícita de Shrek a senador",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "185642fb-24e0-4c72-928b-aa1eab1e0925",
+      "title": "Modelo de IA da Anthropic enviou falsa denúncia de homicídio à polícia de Filadélfia",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "e3b7d40e-12c2-4ef7-9c11-67ef3c372d45",
+      "title": "Indignação cresce após CDC planejar financiar ensaio clínico de vacina considerado antiético com recém-nascidos",
+      "category": "Ciência",
+      "status": "review"
+    },
+    {
+      "id": "526c7f52-9dc5-4c15-8da1-c9006d46ce20",
+      "title": "Agentes de inteligência artificial geram mais código, mas não mais software",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "1f8968d6-b664-4344-948e-e207aba732cd",
+      "title": "Modelo de IA da Anthropic envia dica falsa de homicídio à polícia de Filadélfia",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
     {
       "id": "9eb1c041-dbcd-42fb-8e9e-799974d8cee3",
       "title": "Francis Ford Coppola’s Polarizing Sci-Fi Epic Is Officially Returning To Theaters After $136M Bombing",
@@ -15,58 +153,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "46a8fd79-770b-44d3-a1c2-9718be904674",
-      "title": "A comunidade matemática reage à enxurrada de resultados gerados por IA da OpenAI",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "071f12ae-06b2-4576-a692-d78c088ce659",
-      "title": "Acordo de espectro da Starlink impulsiona plano de Elon Musk para enfrentar grandes operadoras",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "c344ed32-d56d-4653-9416-cd36fad49fb3",
-      "title": "Projeto Debian abre chamada de trabalhos artísticos para a próxima versão Forky",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "d342322b-349f-480a-9c66-01aa3f5b098c",
-      "title": "Vencedor do Nikon Small World in Motion é desclassificado por uso de inteligência artificial",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "77c49f8f-aba3-45f5-b467-8dc7af80353b",
-      "title": "Remessas globais de PCs sofrem queda acentuada de mais de 20% no terceiro trimestre de 2026",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "f9ec3874-7279-478f-8500-5b13a0797eb4",
-      "title": "Baterias de armazenamento já são mais baratas do que turbinas a gás natural em data centers",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "0c1718a6-90e6-45d3-ba17-aa3d2e177444",
-      "title": "Law & Order: SVU inicia a 28ª temporada com conflito dramático entre Benson e Carisi",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "53fa271c-40f3-4c7f-8ba0-a3164f71bc8c",
       "title": "Paramount+ Officially Erases Major Avatar: The Last Airbender Tradition",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "ad251259-aae1-4f25-a7ac-a2d6e54c7ef7",
-      "title": "Boston Blue revela novos detalhes sobre o aguardado reencontro da família Reagan na 2ª temporada",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
     },
     {
       "id": "8b7ca0bf-a7b5-42b7-817f-91249c8951f3",
@@ -88,98 +178,8 @@
     },
     {
       "id": "87e65d45-e0d7-4286-a300-7b73d5e7388f",
-      "title": "Marvel Studios Is Officially Debuting The Real Deadpool In 2027",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "d31c2e49-f9bf-41d1-a06a-dd15e2ee4149",
-      "title": "Project Hail Mary: Ator aborda chances de sequência após sucesso do filme",
+      "title": "Marvel Studios confirma a estreia do Deadpool real em 2027 com uma grande reviravolta",
       "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "bfd26a54-d4fe-4a7d-8a97-0b86095703ec",
-      "title": "Depraved Horror Comic Gets Movie Treatment In Official Crossed First Look From The Boys Creator",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "c41c8f4c-08f5-43e7-9d5f-0620d176c0fe",
-      "title": "How Blue Bloods' 2026 Return Will Pay Off Previous Storylines Teased By Boston Blue Showrunners",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "06a3f942-c6f7-4317-99b3-e46ba9841dbf",
-      "title": "NYCC: &#8216;Avatar: Seven Havens&#8217; Renewed, New Series &#8216;Avatar Kuruk: Wave of Chaos&#8217; Revealed",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "5118385e-3245-44b2-9f1c-706c8de1f92d",
-      "title": "Guia de Dragon's Dogma 2: Dark Arisen - Onde encontrar Amos, The Truant Soldier",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "b84f4705-3522-47e0-a298-849042a7a271",
-      "title": "Podcast do VGC discute o retorno de franquias clássicas da PlayStation e o mercado de usados",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "51ab203a-0234-4bb0-bce6-1c881e729b53",
-      "title": "Vazamento revela recursos de toque para controle no HomeKit da Apple em parceria com a LG",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "bb083479-07c1-431b-915a-c70b488069b8",
-      "title": "Frances Haugen espera que novo filme inspire mais denunciantes na tecnologia",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "38644da1-032f-4e55-b69e-a8723d1ff106",
-      "title": "Microsoft aposta em inteligência artificial híbrida e agentes para reinventar o Windows",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "28b797d9-6152-4183-aa66-1a6402a3f4c7",
-      "title": "Novos leitores Kindle da Amazon apresentam problemas de vazamento de luz",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "92237e11-d1d4-469a-8d51-deb072199166",
-      "title": "Como é passar uma noite no trailer elétrico Pebble Flow RV",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "499189a1-9813-4b96-a624-549ffe2a2ece",
-      "title": "Intel pode lançar novos processadores para soquetes antigos com suporte a DDR4",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "a5b310ed-dfe8-4df1-85f7-8fc43f970b10",
-      "title": "Tendência humana de tratar a inteligência artificial como humana gera debates no MIT",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "69069113-1d0f-4df0-833c-7dc0ddc2c60d",
-      "title": "A trajetória da Danu Robotics para criar um robô de reciclagem mais eficiente",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "a0f5b25e-7ed9-4f0a-aaba-fab9b673c3e7",
-      "title": "Fim do sigilo: Amazon e outras gigantes abrem negociações de data centers",
-      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
