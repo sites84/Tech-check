@@ -148,6 +148,7 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
           git add data sitemap.xml sitemap-evergreen.xml robots.txt noticias assets/news page tutoriais comparativos curiosidades runtime-fixes.js */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs worker/repair-untranslated-articles.mjs worker/generate-evergreen-pages.mjs
+          git add -f noticias
           if git diff --cached --quiet; then
             echo "Nenhuma alteração para publicar."
             exit 0
@@ -162,5 +163,6 @@ jobs:
             git fetch origin main
             git reset --mixed origin/main
             git add data sitemap.xml sitemap-evergreen.xml robots.txt noticias assets/news page tutoriais comparativos curiosidades runtime-fixes.js */index.html article-dark-mode.js worker/patch-article-dark-mode.mjs worker/repair-untranslated-articles.mjs worker/generate-evergreen-pages.mjs
+          git add -f noticias
             git commit -m "chore: atualizar feed, páginas, imagens e SEO" || true
           done
