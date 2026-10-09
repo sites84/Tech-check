@@ -32,7 +32,7 @@ async function main(){
  for(const a of articles){
    let base=slugify(a.title)||`artigo-${a.id.slice(0,8)}`;let slug=base;let n=2;while(used.has(slug))slug=`${base}-${n++}`;used.add(slug);
    const old=slugify(a.slug||'');if(old&&old!==slug&&!old.startsWith('artigo-'))redirects.push({old,new:slug});
-   if(a.slug!==slug){await api(`articles?id=eq.${encodeURIComponent(a.id)}`,{method:'PATCH',body:JSON.stringify({slug,updated_at:new Date().toISOString()})});a.slug=slug;slugChanged++}
+   if(a.slug!==slug){try{await api(`articles?id=eq.${encodeURIComponent(a.id)}`,{method:'PATCH',body:JSON.stringify({slug,updated_at:new Date().toISOString()})})}catch(err){slug=`${base}-${String(a.id).slice(0,8)}`;if(used.has(slug))slug=`${slug}-${n++}`;used.add(slug);await api(`articles?id=eq.${encodeURIComponent(a.id)}`,{method:'PATCH',body:JSON.stringify({slug,updated_at:new Date().toISOString()})})}a.slug=slug;slugChanged++}
    const url=`${SITE_URL}/noticias/${encodeURIComponent(slug)}/`;const cat=ac.get(a.id)||'Tecnologia';const source=sm.get(a.id)||{};
    const img=sharp?await image(a,sharp,slug):null;if(img){optimized++;await api(`articles?id=eq.${encodeURIComponent(a.id)}`,{method:'PATCH',body:JSON.stringify({cached_image_url:img.url,updated_at:new Date().toISOString()})})}
    const imgUrl=img?.url||'';const published=a.published_at||a.created_at;const date=new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(published));
