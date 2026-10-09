@@ -41,6 +41,30 @@ async function save(url,slug,n){try{const r=await fetch(url,{headers:{'User-Agen
 function mediaBlock(imgs,vids,title){if(!imgs.length&&!vids.length)return'';let h='<section class="original-media"><h2>Fotos e vídeos da fonte original</h2>';if(imgs.length)h+='<div class="original-media-grid">'+imgs.map((u,i)=>`<figure><img src="${u}" alt="${title} — foto ${i+1}" loading="lazy" decoding="async"><figcaption>Foto ${i+1}</figcaption></figure>`).join('')+'</div>';for(const [i,v] of vids.entries())h+=`<div class="original-video"><iframe src="${v}" title="${title} — vídeo ${i+1}" loading="lazy" allowfullscreen></iframe></div>`;return h+'</section>'}
 function normalizeUrl(value=''){try{const u=new URL(value);u.hash='';for(const k of [...u.searchParams.keys()])if(/^(utm_|fbclid$|gclid$|mc_cid$|mc_eid$|ref$|source$)/i.test(k))u.searchParams.delete(k);u.hostname=u.hostname.toLowerCase().replace(/^www\./,'');u.pathname=u.pathname.replace(/\/+$/,'')||'/';return u.toString()}catch{return String(value).trim().replace(/[?#].*$/,'').replace(/\/$/,'')}}
 let rssMedia={};try{rssMedia=JSON.parse(await readFile('data/original-media.json','utf8')).items||{}}catch{}
-const rows=await api('articles?select=id,title,slug,original_url&limit=1000');let done=0,totalImages=0,totalVideos=0;
-for(const a of rows){if(!a.slug||!a.original_url)continue;const p=`noticias/${a.slug}/index.html`;if(!existsSync(p))continue;const src=await get(a.original_url);const rss=rssMedia[normalizeUrl(a.original_url)]||{images:[],videos:[]};if(!src&&!rss.images?.length&&!rss.videos?.length)continue;const us=[...new Set([...(rss.images||[]),...(src?images(src,a.original_url):[])])],saved=[];for(let i=0;i<us.length;i++){const x=await save(us[i],a.slug,i+1);if(x)saved.push(x)}const vs=videos(src,a.original_url);totalImages+=saved.length;totalVideos+=vs.length;const html=await readFile(p,'utf8');const cleanHtml=html.replace(/<section class="original-media">[\s\S]*?<\/section>/i,'');const b=mediaBlock(saved,vs,a.title||'Matéria');if(!b)continue;await writeFile(p,cleanHtml.replace('<div class="article-body">',b+'<div class="article-body">'));done++}
-console.log(`Mídia original: ${done} páginas, ${totalImages} imagens, ${totalVideos} vídeos.`);
+const rows=await api('articles?select=id,title,slug,original_url&limit=1000');
+let done=0,totalImages=0,totalVideos=0,missingSlug=0,missingUrl=0,missingPage=0,emptySource=0,noMedia=0,saveFailures=0;
+const examples={missingSlug:[],missingUrl:[],missingPage:[],emptySource:[],noMedia:[]};
+const sample=(key,value)=>{if(examples[key].length<3)examples[key].push(value)};
+for(const a of rows){
+ if(!a.slug){missingSlug++;sample('missingSlug',a.title);continue}
+ if(!a.original_url){missingUrl++;sample('missingUrl',a.slug);continue}
+ const p=`noticias/${a.slug}/index.html`;
+ if(!existsSync(p)){missingPage++;sample('missingPage',a.slug);continue}
+ const src=await get(a.original_url);
+ const rss=rssMedia[normalizeUrl(a.original_url)]||{images:[],videos:[]};
+ if(!src&&!rss.images?.length&&!rss.videos?.length){emptySource++;sample('emptySource',a.original_url);continue}
+ const found=[...new Set([...(rss.images||[]),...(src?images(src,a.original_url):[])])];
+ const saved=[];
+ for(let i=0;i<found.length;i++){const x=await save(found[i],a.slug,i+1);if(x)saved.push(x);else saveFailures++}
+ const vs=videos(src,a.original_url);
+ totalImages+=saved.length;totalVideos+=vs.length;
+ const html=await readFile(p,'utf8');
+ const cleanHtml=html.replace(/<section class="original-media">[\\s\\S]*?<\\/section>/i,'');
+ const b=mediaBlock(saved,vs,a.title||'Matéria');
+ if(!b){noMedia++;sample('noMedia',`${a.slug}: encontrados ${found.length}, salvos ${saved.length}, vídeos ${vs.length}`);continue}
+ const marker='<div class="article-body">';
+ if(!cleanHtml.includes(marker)){noMedia++;sample('noMedia',`${a.slug}: marcador article-body ausente`);continue}
+ await writeFile(p,cleanHtml.replace(marker,b+marker));done++
+}
+console.log(`Mídia original: artigos consultados=${rows.length}; páginas atualizadas=${done}; imagens encontradas=${totalImages+saveFailures}; imagens salvas=${totalImages}; falhas ao salvar=${saveFailures}; vídeos=${totalVideos}; sem slug=${missingSlug}; sem URL original=${missingUrl}; HTML ausente=${missingPage}; fonte inacessível e sem RSS=${emptySource}; sem mídia inserível=${noMedia}.`);
+console.log('Amostras de ignorados:',JSON.stringify(examples));
