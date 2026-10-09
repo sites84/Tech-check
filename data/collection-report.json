@@ -1,84 +1,15 @@
 {
-  "updated_at": "2026-10-09T19:21:01.635Z",
-  "inserted": [
-    {
-      "id": "f9ec3874-7279-478f-8500-5b13a0797eb4",
-      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "77c49f8f-aba3-45f5-b467-8dc7af80353b",
-      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "d342322b-349f-480a-9c66-01aa3f5b098c",
-      "title": "AI disqualification yields new Nikon Small World in Motion winner",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "c344ed32-d56d-4653-9416-cd36fad49fb3",
-      "title": "Your artwork could be featured in the next Debian release",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "071f12ae-06b2-4576-a692-d78c088ce659",
-      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "46a8fd79-770b-44d3-a1c2-9718be904674",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "source": "The Verge"
-    },
-    {
-      "id": "c63812f9-fd85-4dfc-af26-ecb5a7b3a91a",
-      "title": "Viva Launches &#8216;Space Cadet&#8217; in Select Theaters (New Trailer)",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "c02f8249-b613-4df3-89c4-0b5abfdede06",
-      "title": "Hulu Sets &#8216;Dragon Ball Super: Beerus&#8217; Premiere",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "9eb1c041-dbcd-42fb-8e9e-799974d8cee3",
-      "title": "Francis Ford Coppola’s Polarizing Sci-Fi Epic Is Officially Returning To Theaters After $136M Bombing",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "1a1771dd-7e38-4aaa-8d44-2a8931ae5ed4",
-      "title": "Netflix's New 6-Part Thriller Series Is Officially An Instant Global Streaming Sensation",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "0ed366be-80ae-4bd7-bdf2-c8f77347d107",
-      "title": "Avatar: Seven Havens Review: The Twins Make It Great",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "5ebf9100-7836-4a67-827b-5f24143f1634",
-      "title": "Metal Gear Solid's Official Replacement Is Our First Confirmed Next-Gen Game",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "03aafb13-86de-4ff9-9346-6bb1597c0a04",
-      "title": "Samsung Galaxy S27 tier prices reportedly leaked. See the list.",
-      "source": "Mashable"
-    },
-    {
-      "id": "628c4dc8-d270-4eed-8b7d-86f2624847fb",
-      "title": "Feminist orgs claim Meta censoring posts about Cornell 7 case",
-      "source": "Mashable"
-    },
-    {
-      "id": "3461e9d3-27cb-4441-ab63-fdfead62d4fb",
-      "title": "Bessent to skip IMF, World Bank meetings in Bangkok",
-      "source": "Nikkei Asia"
-    }
-  ],
+  "updated_at": "2026-10-09T19:22:18.521Z",
+  "inserted": [],
   "images_updated": [],
   "duplicates_skipped": [
+    {
+      "source": "TechCrunch",
+      "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers",
+      "reason": "duplicata",
+      "existing_id": "f9ec3874-7279-478f-8500-5b13a0797eb4"
+    },
     {
       "source": "TechCrunch",
       "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
@@ -141,6 +72,34 @@
       "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup",
       "reason": "duplicata",
       "existing_id": "fbca787d-e0d9-4d14-81b1-40095e03f31d"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023",
+      "reason": "duplicata",
+      "existing_id": "77c49f8f-aba3-45f5-b467-8dc7af80353b"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
+      "reason": "duplicata",
+      "existing_id": "d342322b-349f-480a-9c66-01aa3f5b098c"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Your artwork could be featured in the next Debian release",
+      "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release",
+      "reason": "duplicata",
+      "existing_id": "c344ed32-d56d-4653-9416-cd36fad49fb3"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon",
+      "reason": "duplicata",
+      "existing_id": "071f12ae-06b2-4576-a692-d78c088ce659"
     },
     {
       "source": "Ars Technica",
@@ -318,6 +277,13 @@
       "existing_id": "2a0d3c78-cbc4-4419-9164-ae7c9e597536"
     },
     {
+      "source": "The Verge",
+      "title": "The AI is in the computer",
+      "url": "https://theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
+      "reason": "duplicata",
+      "existing_id": "aa252642-913f-457b-a62b-37a1f1b069ea"
+    },
+    {
       "source": "Entertainment Weekly",
       "title": "Donnie Wahlberg warns ‘buckle up’ for “Boston Blue ”season 2 premiere’s big cameo and sensational true crime case",
       "url": "https://ew.com/donnie-wahlberg-warns-viewers-to-buckle-up-for-boston-blue-season-2-premiere-12165354",
@@ -449,6 +415,13 @@
     },
     {
       "source": "Animation Magazine",
+      "title": "Hulu Sets &#8216;Dragon Ball Super: Beerus&#8217; Premiere",
+      "url": "https://animationmagazine.net/2026/10/hulu-sets-dragon-ball-super-beerus-premiere",
+      "reason": "duplicata",
+      "existing_id": "c02f8249-b613-4df3-89c4-0b5abfdede06"
+    },
+    {
+      "source": "Animation Magazine",
       "title": "Spooky Adventure Novel &#8216;Ghost and Bone&#8217; Gets Animated with Cheeky Little",
       "url": "https://animationmagazine.net/2026/10/spooky-adventure-novel-ghost-and-bone-gets-animated-with-cheeky-little",
       "reason": "duplicata",
@@ -502,6 +475,13 @@
       "url": "https://animationmagazine.net/2026/10/tiff-announces-drawn-universes-visions-in-animation-lineup",
       "reason": "duplicata",
       "existing_id": "ed4e75e8-5fad-44a4-a57f-381224085d7a"
+    },
+    {
+      "source": "Animation Magazine",
+      "title": "&#8216;Peppa Pig&#8217; Theatrical Event Celebrates Evie&#8217;s First Christmas",
+      "url": "https://animationmagazine.net/2026/10/peppa-pig-theatrical-event-celebrates-evies-first-christmas",
+      "reason": "duplicata",
+      "existing_id": "b9306b7a-1c94-469b-86d8-484b25edf76a"
     },
     {
       "source": "Push Square",
@@ -758,6 +738,34 @@
     },
     {
       "source": "ScreenRant",
+      "title": "Francis Ford Coppola’s Polarizing Sci-Fi Epic Is Officially Returning To Theaters After $136M Bombing",
+      "url": "https://screenrant.com/francis-ford-coppola-megalopolis-theatrical-return-october-2026",
+      "reason": "duplicata",
+      "existing_id": "9eb1c041-dbcd-42fb-8e9e-799974d8cee3"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Netflix's New 6-Part Thriller Series Is Officially An Instant Global Streaming Sensation",
+      "url": "https://screenrant.com/below-show-netflix-thriller-streaming-success",
+      "reason": "duplicata",
+      "existing_id": "1a1771dd-7e38-4aaa-8d44-2a8931ae5ed4"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Avatar: Seven Havens Review: The Twins Make It Great",
+      "url": "https://screenrant.com/video/avatar-seven-havens-review-the-twins-make-it-great",
+      "reason": "duplicata",
+      "existing_id": "0ed366be-80ae-4bd7-bdf2-c8f77347d107"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Metal Gear Solid's Official Replacement Is Our First Confirmed Next-Gen Game",
+      "url": "https://screenrant.com/metal-gear-solid-replacement-physint-next-gen",
+      "reason": "duplicata",
+      "existing_id": "5ebf9100-7836-4a67-827b-5f24143f1634"
+    },
+    {
+      "source": "ScreenRant",
       "title": "Gronk Geeks Out: Rob Gronkowski Confirms What He's Learned About Marvel For NYCC",
       "url": "https://screenrant.com/rob-gronkowski-marvel-gronk-nycc",
       "reason": "duplicata",
@@ -797,6 +805,20 @@
       "url": "https://screenrant.com/wallace-and-gromit-voice-history-first-martin-freeman-casting",
       "reason": "duplicata",
       "existing_id": "69e42d04-c093-48cb-b180-9d8fcd8707d9"
+    },
+    {
+      "source": "Mashable",
+      "title": "Samsung Galaxy S27 tier prices reportedly leaked. See the list.",
+      "url": "https://mashable.com/tech/samsung-galaxy-s27-price-leak",
+      "reason": "duplicata",
+      "existing_id": "03aafb13-86de-4ff9-9346-6bb1597c0a04"
+    },
+    {
+      "source": "Mashable",
+      "title": "Feminist orgs claim Meta censoring posts about Cornell 7 case",
+      "url": "https://mashable.com/tech/meta-censoring-posts-about-cornell-7-orgs-claim",
+      "reason": "duplicata",
+      "existing_id": "628c4dc8-d270-4eed-8b7d-86f2624847fb"
     },
     {
       "source": "Mashable",
@@ -1623,6 +1645,13 @@
       "url": "https://thelec.net/news/articleView.html?idxno=14509",
       "reason": "duplicata",
       "existing_id": "9e941db9-dd96-4c38-abf9-f5d0b525f17a"
+    },
+    {
+      "source": "Nikkei Asia",
+      "title": "Bessent to skip IMF, World Bank meetings in Bangkok",
+      "url": "https://asia.nikkei.com/politics/international-relations/bessent-to-skip-imf-world-bank-meetings-in-bangkok",
+      "reason": "duplicata",
+      "existing_id": "3461e9d3-27cb-4441-ab63-fdfead62d4fb"
     },
     {
       "source": "Nikkei Asia",

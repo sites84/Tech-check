@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-09T18:45:28.824Z",
+  "updated_at": "2026-10-09T19:25:49.233Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "7554ea00-f843-4782-bafa-dd6ebf1a7b8f",
-      "title": "Prêmio Nobel Navi Pillay classifica sanções dos EUA contra juízes do TPI como 'chocantes'",
+      "id": "9eb1c041-dbcd-42fb-8e9e-799974d8cee3",
+      "title": "Francis Ford Coppola’s Polarizing Sci-Fi Epic Is Officially Returning To Theaters After $136M Bombing",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "c02f8249-b613-4df3-89c4-0b5abfdede06",
+      "title": "Hulu Sets &#8216;Dragon Ball Super: Beerus&#8217; Premiere",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "46a8fd79-770b-44d3-a1c2-9718be904674",
+      "title": "A comunidade matemática reage à enxurrada de resultados gerados por IA da OpenAI",
+      "category": "Ciência",
+      "status": "review"
+    },
+    {
+      "id": "071f12ae-06b2-4576-a692-d78c088ce659",
+      "title": "Acordo de espectro da Starlink impulsiona plano de Elon Musk para enfrentar grandes operadoras",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "b24d1f75-c820-4a27-a9c6-d8daa5f5da66",
-      "title": "Carteira de pedidos de máquinas-ferramenta no Japão atinge recorde histórico impulsionada pela demanda de inteligência artificial",
-      "category": "Empresas",
+      "id": "c344ed32-d56d-4653-9416-cd36fad49fb3",
+      "title": "Projeto Debian abre chamada de trabalhos artísticos para a próxima versão Forky",
+      "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "320071a8-13dd-4bd5-9889-8ca168a43118",
-      "title": "Empresas japonesas desfazem-se de US$ 56 bilhões em participações acionárias cruzadas",
-      "category": "Empresas",
+      "id": "d342322b-349f-480a-9c66-01aa3f5b098c",
+      "title": "Vencedor do Nikon Small World in Motion é desclassificado por uso de inteligência artificial",
+      "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "8f755f98-7b5b-4606-9420-ca12cbb5716c",
-      "title": "Japan's Kobe Steel eyes India M&A to lift compressor production: executive",
-      "category": "Empresas",
+      "id": "77c49f8f-aba3-45f5-b467-8dc7af80353b",
+      "title": "Remessas globais de PCs sofrem queda acentuada de mais de 20% no terceiro trimestre de 2026",
+      "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "c120928f-8266-4234-8515-9c934f5867a0",
-      "title": "Quanto tempo leva para zerar Star Wars Galactic Racer e como os atos são divididos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "12d02dd1-a208-4a79-80f5-cfca8b0ba5eb",
-      "title": "Mercado americano de consoles vive situação mais delicada desde o início dos anos 80, aponta analista",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "5fbac7d0-1973-4ff7-a541-4edd9bced157",
-      "title": "Richard Garriott afirma que recuperará os direitos da franquia Ultima da EA em 2027",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "ca8d33af-b2d1-46d1-ba46-1ac6d18e34c0",
-      "title": "FBI prende suspeito ligado ao ShinyHunters após megavazamento da Rockstar Games",
-      "category": "Games",
+      "id": "f9ec3874-7279-478f-8500-5b13a0797eb4",
+      "title": "Baterias de armazenamento já são mais baratas do que turbinas a gás natural em data centers",
+      "category": "Computadores",
       "status": "review"
     },
     {
       "id": "0c1718a6-90e6-45d3-ba17-aa3d2e177444",
-      "title": "Law & Order: SVU Pits Benson Against A Dangerous Foe That Could Finally Spell Her Downfall",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Law & Order: SVU inicia a 28ª temporada com conflito dramático entre Benson e Carisi",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "53fa271c-40f3-4c7f-8ba0-a3164f71bc8c",
@@ -63,100 +63,16 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "14e46144-c8c1-4284-9bea-fa731a2080c9",
-      "title": "Matchbox The Movie estreia no Apple TV e já lidera audiência nos Estados Unidos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "69e42d04-c093-48cb-b180-9d8fcd8707d9",
-      "title": "Astro de Sherlock fará história ao dar voz a Gromit em projeto autobiográfico de Wallace & Gromit",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "beae0147-d2b4-44b0-b560-13247a912fd8",
-      "title": "Franquia de ação dividida em duas partes no estilo Taken e Tracker domina o streaming",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "34370897-924c-4c75-905e-da4fbafde314",
-      "title": "Prime Video anuncia data de estreia de Bloodaxe, nova série do criador de Vikings",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "ad251259-aae1-4f25-a7ac-a2d6e54c7ef7",
-      "title": "Blue Bloods' Major Reagan Family Union Gets New Story Details From CBS Showrunners",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "Boston Blue revela novos detalhes sobre o aguardado reencontro da família Reagan na 2ª temporada",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "8b7ca0bf-a7b5-42b7-817f-91249c8951f3",
       "title": "Casting Babylon 5’s Reboot: All 8 Main Characters",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "d7da6811-35a4-4792-acd6-275d59000f79",
-      "title": "Rob Gronkowski explora o universo da Marvel e estreia em leilão ao vivo na New York Comic Con",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "a723f2df-25a0-4b56-9f9c-c7903024cc54",
-      "title": "Apple Arcade em outubro: Cinco novos jogos adicionados ao serviço",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "5451b913-f6e5-4376-8c76-2ea6b7795ed8",
-      "title": "Exploits DarkSword e Coruna para iOS continuam a atacar carteiras de criptomoedas",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "3f4b8354-6608-42bf-a2c2-bb9e7ad8e952",
-      "title": "Star Wars Zero Company supera a marca de um milhão de cópias vendidas",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "00cc49e8-1830-43f1-bf1f-78328ba75ea8",
-      "title": "Guia da missão Flight in-the-Night em Dragon's Dogma 2: Dark Arisen e localização dos itens de Ilda",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "a6d8fe1f-8500-4110-8991-93f2a7a7ec43",
-      "title": "Samsung Galaxy S26 Ultra com desconto e tela de privacidade cai para US$ 950",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "d3e2e84a-45fd-4015-a10f-86fe997bbcf3",
-      "title": "Google prepara o lançamento do novo Fitbit Edge para a próxima semana",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "bc333746-571a-4cb2-a315-18f1a5eeb2f4",
-      "title": "Vencedor de concurso de microfotografia da Nikon é desclassificado por uso de inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "2a6d44d9-a211-43de-93c8-e2dcfa18fb6a",
-      "title": "FCC deixa nas mãos de Pete Hegseth decisão sobre transmissão de execução na TV",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "f4f8ab97-0b2f-4fef-842e-6892dfc038fe",
-      "title": "Review: Soundbar Bose Lifestyle Ultra entrega ótimo som sem precisar de subwoofer",
-      "category": "Computadores",
-      "status": "review"
     },
     {
       "id": "f45e4ef4-8d3a-47c9-a118-356b74f99ec7",
@@ -171,16 +87,100 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "e96ce3a4-b4b8-483b-abe6-cce12177c2b6",
-      "title": "Guia dos pais para Other Mommy: o filme de terror é adequado para crianças?",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "87e65d45-e0d7-4286-a300-7b73d5e7388f",
       "title": "Marvel Studios Is Officially Debuting The Real Deadpool In 2027",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "d31c2e49-f9bf-41d1-a06a-dd15e2ee4149",
+      "title": "Project Hail Mary: Ator aborda chances de sequência após sucesso do filme",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "bfd26a54-d4fe-4a7d-8a97-0b86095703ec",
+      "title": "Depraved Horror Comic Gets Movie Treatment In Official Crossed First Look From The Boys Creator",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "c41c8f4c-08f5-43e7-9d5f-0620d176c0fe",
+      "title": "How Blue Bloods' 2026 Return Will Pay Off Previous Storylines Teased By Boston Blue Showrunners",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "06a3f942-c6f7-4317-99b3-e46ba9841dbf",
+      "title": "NYCC: &#8216;Avatar: Seven Havens&#8217; Renewed, New Series &#8216;Avatar Kuruk: Wave of Chaos&#8217; Revealed",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "5118385e-3245-44b2-9f1c-706c8de1f92d",
+      "title": "Guia de Dragon's Dogma 2: Dark Arisen - Onde encontrar Amos, The Truant Soldier",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "b84f4705-3522-47e0-a298-849042a7a271",
+      "title": "Podcast do VGC discute o retorno de franquias clássicas da PlayStation e o mercado de usados",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "51ab203a-0234-4bb0-bce6-1c881e729b53",
+      "title": "Vazamento revela recursos de toque para controle no HomeKit da Apple em parceria com a LG",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "bb083479-07c1-431b-915a-c70b488069b8",
+      "title": "Frances Haugen espera que novo filme inspire mais denunciantes na tecnologia",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "38644da1-032f-4e55-b69e-a8723d1ff106",
+      "title": "Microsoft aposta em inteligência artificial híbrida e agentes para reinventar o Windows",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "28b797d9-6152-4183-aa66-1a6402a3f4c7",
+      "title": "Novos leitores Kindle da Amazon apresentam problemas de vazamento de luz",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "92237e11-d1d4-469a-8d51-deb072199166",
+      "title": "Como é passar uma noite no trailer elétrico Pebble Flow RV",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "499189a1-9813-4b96-a624-549ffe2a2ece",
+      "title": "Intel pode lançar novos processadores para soquetes antigos com suporte a DDR4",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "a5b310ed-dfe8-4df1-85f7-8fc43f970b10",
+      "title": "Tendência humana de tratar a inteligência artificial como humana gera debates no MIT",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "69069113-1d0f-4df0-833c-7dc0ddc2c60d",
+      "title": "A trajetória da Danu Robotics para criar um robô de reciclagem mais eficiente",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "a0f5b25e-7ed9-4f0a-aaba-fab9b673c3e7",
+      "title": "Fim do sigilo: Amazon e outras gigantes abrem negociações de data centers",
+      "category": "Inteligência Artificial",
+      "status": "review"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
