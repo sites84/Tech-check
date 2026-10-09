@@ -1,184 +1,184 @@
 {
-  "updated_at": "2026-10-09T14:45:31.635Z",
+  "updated_at": "2026-10-09T16:21:26.974Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "8f8eb10d-10a8-4b22-9eb7-b45f6c2982bb",
-      "title": "SoftBank busca até US$ 100 bilhões com investidores do Golfo para impulsionar inteligência artificial",
+      "id": "8be63c7e-a967-4dad-8817-a7daca78fab7",
+      "title": "Negociações comerciais entre China e União Europeia apontam para corte pela metade nas exportações de híbridos",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "48dafd0b-bd3d-402c-a68e-7fac969e24c9",
-      "title": "Prudential Life e Gibraltar Life sofrem suspensão de operações de mais de três meses no Japão",
+      "id": "39a8c6c8-eb8b-4cfb-8a8f-10fabc478fee",
+      "title": "Ex-funcionário da Mitsubishi Corp. enfrenta multa por insider trading no Japão",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "f176b58b-c4da-40e2-8b2e-def135073976",
-      "title": "Prêmio Nobel da Paz de 2026 é concedido à jurista internacional Navi Pillay",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "00eaa218-c5d5-4ae5-b2aa-dd01225563a6",
-      "title": "Japão inicia estudo sobre transporte espacial de resposta rápida para defesa",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "5e95b96f-a10b-4f62-b66b-156313c4ffbc",
-      "title": "Fenômeno El Niño atinge intensidade recorde, aponta agência meteorológica do Japão",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "ffecad85-a1c3-4c2c-92cf-48a9e2effbf5",
-      "title": "União Europeia e China enfrentam momento decisivo para evitar guerra comercial",
+      "id": "492ad1eb-2742-49a9-bf5d-290cee982c96",
+      "title": "TDK avalia venda de divisão de cabeças de disco rígido, mas aprovação regulatória gera incerteza",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "7eaba48f-c2bf-4fcb-aaa4-a995f5c30864",
-      "title": "Malásia reduz imposto de renda e eleva pisos salariais com proximidade de eleições",
+      "id": "89bd3de7-a11c-42aa-952e-2d8f5e982bca",
+      "title": "Inspirado no DOGE americano, governo do Japão intensifica revisão de gastos públicos",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "fecba1fc-264e-43c0-9e41-6f9c6ead1f88",
-      "title": "Tokyo police to set up autonomous driving unit to handle permits, accidents",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Automóveis"
-    },
-    {
-      "id": "b22f6951-8477-4ad7-ae1b-1226eeaaf25a",
-      "title": "Geely Anuncia Entrada no Mercado Automotivo do Canadá",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "12c431da-5d15-4116-8060-bd91a250b748",
-      "title": "IMC 2026: iQOO 16, Motorola Signature 27 e Xiaomi 18 Pro trarão o processador Snapdragon 8 Elite Extreme Gen 6",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "b5ec85c3-ee20-45a5-8cc9-5da35fd12aba",
-      "title": "Conflito de custos do Claude coloca start-up entre o suporte de Microsoft e Anthropic",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "64849678-9ee3-4352-8067-d0b5199fcc2f",
-      "title": "Garmin Fenix 9 Pro e Apple Watch Ultra 4: Comparativo da Bateria Corporal",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "90b3e091-165f-4d72-8af0-edb1e0a7241a",
-      "title": "Mensagem de invasores aparece na tela de gerenciamento do IDCF Cloud após ataque de ransomware",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "61e4713d-38f1-4a8f-8063-1e37ff9ac2d2",
-      "title": "Showrunner de VisionQuest revela liberdade criativa e única instrução de Kevin Feige",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "d78c0801-6d96-4a74-aebd-68a3f1d0d25b",
-      "title": "Como o primeiro filme de X-Men pavimentou o caminho para Vingadores: Doomsday e o destino dos mutantes originais",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "8f8cb37e-4531-4ee3-adb4-3e1a5f656aa4",
-      "title": "Decisão judicial determina que Media Markt não pode recusar pedidos de garantia legal",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "9e60a1c3-0333-4ae6-93e3-3fd603a10f26",
-      "title": "O cenário dos jogos na Alemanha em setembro: O início da temporada de grandes lançamentos",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "46e48b0e-3606-4358-ab86-5a92a803c6fb",
-      "title": "Gods don't give gifts: O filme de inteligência artificial que aposta surpreendentemente em técnicas tradicionais",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "c6744001-39b7-4458-9617-ded76b677896",
-      "title": "Bateria Bosch Professional de 18 V com 5 Ah atinge menor preço histórico na Amazon",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "ae5c09ba-aa5a-45ac-875a-b489668ce776",
-      "title": "Cyberpunk 2077: Filme com Keanu Reeves como Johnny Silverhand pode estar nos planos da Paramount",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "a642e9f9-d6a0-450a-b427-e3fa09c67d2f",
-      "title": "Oracle transporta gás com caminhões para abastecer seus data centers diante da falta de rede elétrica",
+      "id": "79206cfc-a6f2-42da-ae31-76c8d065d3d4",
+      "title": "Fujitsu vai estabelecer centro de pesquisa de computação quântica nos Estados Unidos",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "5fa82d69-8157-410d-ab8a-aec7642a72d3",
-      "title": "Ataques cibernéticos contra bancos revelam uso de inteligência artificial e falhas de infraestrutura",
-      "category": "Segurança",
+      "id": "d0544853-4a3d-461a-85cc-98efac8abe17",
+      "title": "Amazon ainda tem descontos ativos após o fim do Prime Day com ofertas em jogos, TVs e fones",
+      "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "d0a6f9b0-dd0b-4cab-9d73-dbf7d0400693",
-      "title": "Astronomia: Telescópios registram estrela absorvendo anã marrom a 300 anos-luz",
+      "id": "590eafe8-5051-4605-b08c-afda63320d07",
+      "title": "Tarifas direcionadas à Shein e Temu reduzem entregas de pequenos pacotes nos EUA",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "c8922056-f93e-4956-8fa0-1d09da6a46d3",
+      "title": "IMC 2026: iQOO 16 e Motorola Signature 27 vão usar o processador Snapdragon 8 Elite Extreme Gen 6",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "1c403421-90a8-48de-bd04-d725e9836c6c",
+      "title": "Apple reduz produção do iPhone 18 Pro devido à fraca demanda",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "ffd40b45-4b5e-46aa-b2ac-78b2fa9a2676",
+      "title": "Oferta de luminária Govee continua disponível na Amazon para todos os clientes",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "bf26e73b-5ae9-4372-825a-e8adfdde739f",
+      "title": "Tribunal superior na Alemanha rejeita bloqueios de acesso a sites pornograficos como Pornhub e Youporn",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "ce330b47-43af-486d-b157-d69c019be4bf",
+      "title": "Televisor Mini-LED TCL de 85 polegadas atinge menor preço histórico na Amazon",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "24735579-4b5d-4f73-b1ab-b4bdcb9d2b5c",
+      "title": "Testes com ChatGPT for Teens revelam falhas preocupantes no Jugendschutz",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "d5be1a5a-690c-4666-9868-6eb6060eeb5a",
+      "title": "Alibaba lança Qwen-Image-2.1-Turbo com geração de imagens em apenas 8 passos",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "590681b2-9fe0-4bed-ab5e-45a94e012407",
+      "title": "Por que o lançamento de GTA 6 não é o momento de glória do streaming de jogos",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "1a480411-8606-4107-b6c2-e14598769fbc",
+      "title": "Comunidade é convidada a recomendar jogos negligenciados do Nintendo Switch",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ccee396f-a802-460f-9e0a-bb5b71f63b03",
+      "title": "Nintendo Download na América do Norte traz Kingdom Hearts, Hellraiser e mais novidades para o eShop",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "5f99073d-6ee9-46f9-a329-5edf90364911",
+      "title": "It Takes Two chega ao Switch 2 na próxima semana com melhorias visuais e cross-play",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "eca91ed8-b2e3-443d-b30e-82139426e58d",
+      "title": "Avanço da inteligência artificial na solução de problemas matemáticos gera profundo impacto e críticas na comunidade acadêmica",
       "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "78dae84f-afde-44b9-a0d9-26765d3a86bc",
-      "title": "ASUS ProArt PA279CRV-J: Display 27 polegadas 4K com desconto de 25% na Amazon.co.jp",
+      "id": "fd971550-1363-4865-82f3-b7b811b854f4",
+      "title": "Gears of War E-Day confirma suporte a campanhas cooperativas online e local",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "966a4e6f-d330-4049-bfd5-699b9219ecd0",
+      "title": "The Witcher 3 Remastered e o desafio de deixar White Orchard entre tantos pores do sol",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "b57ed691-69f0-4e98-b876-2c49b345f7bc",
+      "title": "Dragon's Dogma 2 Dark Arisen desafia jogadores com dificuldade extrema e agrada comunidade",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "9ab8e72b-a41b-49ee-ad0e-d27f5618d033",
+      "title": "Os 5 melhores filmes de terror baseados em Stephen King para maratonar no streaming",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "14bccaa2-246e-41cf-b994-f3c2a2f74489",
+      "title": "Notas de atualização do World of Warcraft: Forever geram questionamentos e frustração na comunidade",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "3530b527-c2c6-47b7-8e42-20213e974522",
+      "title": "Análise do Corsair Skiff 100 Plus: domos de borracha trazem silêncio e suavidade ao mercado de membrana",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "cb964b2e-16b4-4391-a2b4-4ff214739919",
-      "title": "Smartphone-mountable 3.7-inch E Ink electronic reader XTEINK X3 gets 20% discount on Amazon Japan",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "089d6b32-2ec9-4c58-be1f-0cf8c2b3b1ea",
-      "title": "Sony INZONE Mouse-A Fnatic Edition com 21% de desconto na Amazon",
+      "id": "544544bf-65b9-42cf-9613-b9365002f877",
+      "title": "Novos bonecos de Ocarina of Time somem no Reino Unido, mas amiibo clássicos de Zelda retornam",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "fa488c87-fb9b-4466-ac79-78adb9c3af7a",
-      "title": "HAGOOGIの充電式カイロがAmazonタイムセールで39％オフの3980円に",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "95b9c44a-dab4-4771-8778-981ccd7565b2",
-      "title": "Pokémon GO recebe melhorias de usabilidade com foco em rotas e gerenciamento de Pokémon",
+      "id": "b09a8a73-c1f0-4b7e-a7b5-8e33d2c13ba7",
+      "title": "GTA 6 mostra Jason nu e fãs especulam se a Rockstar repetirá a física realista de Red Dead Redemption 2",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "f4c008d5-6e4c-4ba1-b618-2933aed6b691",
-      "title": "ドコモが「Google Pixel 10a（256GB）」を値上げ、11万6930円に設定",
-      "category": "Smartphones",
+      "id": "255b0bfe-d330-43f5-9ad5-1a47379df303",
+      "title": "Wardogs Season 2 vai pagar jogadores para entrarem no time azul para corrigir taxa de vitórias baixa",
+      "category": "Games",
       "status": "review"
     },
     {
-      "id": "5f9923ab-5241-49ca-8dfa-033bda76065f",
-      "title": "Por que a bateria do notebook dura menos que o catálogo? JEITA lança guia explicativo",
+      "id": "8d8b8294-af30-4b5f-96c5-35c8bbc2d77a",
+      "title": "Criador do PlayStation e atual CEO de IA, Ken Kutaragi, prevê que \"devaneios de IA\" vão substituir os videogames",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "b73c3155-1c28-44e6-a0a4-42b3210bae9c",
+      "title": "Mac mini com chip M6 da Apple continua em promoção por US$ 780 após o fim do Prime Day",
       "category": "Computadores",
       "status": "review"
     },
