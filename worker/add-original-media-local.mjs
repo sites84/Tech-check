@@ -5,7 +5,7 @@ const H={apikey:KEY,Authorization:`Bearer ${KEY}`};
 const attr=(t,n)=>t.match(new RegExp(`\\b${n}\\s*=\\s*["']([^"']+)["']`,'i'))?.[1]||'';
 const abs=(v,b)=>{try{return new URL(String(v).trim(),b).href}catch{return''}};
 const clean=v=>{try{const u=new URL(v);u.hash='';return u.href}catch{return''}};
-const urlsFromSet=v=>String(v||'').split(',').map(x=>x.trim().split(/\\s+/)[0]).filter(Boolean);
+const urlsFromSet=v=>String(v||'').split(',').map(x=>x.trim().split(/\s+/)[0]).filter(Boolean);
 function blockPart(html){return html.match(/<article\b[^>]*>[\s\S]*?<\/article>/i)?.[0]||html.match(/<main\b[^>]*>[\s\S]*?<\/main>/i)?.[0]||html}
 function images(html,base){
  const a=blockPart(html),out=[];
@@ -37,7 +37,7 @@ function videos(html,base){const out=[];const add=v=>{const u=abs(v,base);if(u)o
 }
 async function api(p){const r=await fetch(`${URL}/rest/v1/${p}`,{headers:H});if(!r.ok)throw Error(await r.text());return r.json()}
 async function get(url){try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech Check Media Collector'},redirect:'follow',signal:AbortSignal.timeout(20000)});return r.ok?await r.text():''}catch{return''}}
-async function save(url,slug,n){try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech Check Media Collector','Referer':url},redirect:'follow',signal:AbortSignal.timeout(20000)});if(!r.ok)return null;const type=r.headers.get('content-type')||'';if(!/^image\\//i.test(type))return null;const ext=type.includes('png')?'png':type.includes('gif')?'gif':type.includes('webp')?'webp':'jpg';const name=`original-${slug}-${n}.${ext}`;await mkdir('assets/news',{recursive:true});await writeFile(`assets/news/${name}`,Buffer.from(await r.arrayBuffer()));return`${SITE}/assets/news/${name}`}catch{return null}}
+async function save(url,slug,n){try{const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 Tech Check Media Collector','Referer':url},redirect:'follow',signal:AbortSignal.timeout(20000)});if(!r.ok)return null;const type=r.headers.get('content-type')||'';if(!/^image\//i.test(type))return null;const ext=type.includes('png')?'png':type.includes('gif')?'gif':type.includes('webp')?'webp':'jpg';const name=`original-${slug}-${n}.${ext}`;await mkdir('assets/news',{recursive:true});await writeFile(`assets/news/${name}`,Buffer.from(await r.arrayBuffer()));return`${SITE}/assets/news/${name}`}catch{return null}}
 function mediaBlock(imgs,vids,title){if(!imgs.length&&!vids.length)return'';let h='<section class="original-media"><h2>Fotos e vídeos da fonte original</h2>';if(imgs.length)h+='<div class="original-media-grid">'+imgs.map((u,i)=>`<figure><img src="${u}" alt="${title} — foto ${i+1}" loading="lazy" decoding="async"><figcaption>Foto ${i+1}</figcaption></figure>`).join('')+'</div>';for(const [i,v] of vids.entries())h+=`<div class="original-video"><iframe src="${v}" title="${title} — vídeo ${i+1}" loading="lazy" allowfullscreen></iframe></div>`;return h+'</section>'}
 function normalizeUrl(value=''){try{const u=new URL(value);u.hash='';for(const k of [...u.searchParams.keys()])if(/^(utm_|fbclid$|gclid$|mc_cid$|mc_eid$|ref$|source$)/i.test(k))u.searchParams.delete(k);u.hostname=u.hostname.toLowerCase().replace(/^www\./,'');u.pathname=u.pathname.replace(/\/+$/,'')||'/';return u.toString()}catch{return String(value).trim().replace(/[?#].*$/,'').replace(/\/$/,'')}}
 let rssMedia={};try{rssMedia=JSON.parse(await readFile('data/original-media.json','utf8')).items||{}}catch{}
