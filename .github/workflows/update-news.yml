@@ -135,6 +135,9 @@ jobs:
         run: node worker/generate-latest-json.mjs
       - name: Recriar sitemaps a partir das páginas canônicas geradas
         if: always()
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: node worker/generate-sitemaps-from-static-pages.mjs
       - name: Salvar relatórios, feed público e SEO
         if: always()
