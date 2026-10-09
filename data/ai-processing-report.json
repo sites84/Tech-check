@@ -1,17 +1,41 @@
 {
-  "updated_at": "2026-10-09T00:49:48.510Z",
+  "updated_at": "2026-10-09T01:18:56.845Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "1f6a2d37-4422-4917-bdd9-6c640c58eb7b",
-      "title": "Forças Armadas dos EUA vão transmitir ao vivo execução de fuzilamento de atirador de Fort Hood",
+      "id": "50ae5d6d-d9e9-4f91-a550-c6a44341d232",
+      "title": "Após 54 anos, DC Comics revela novo visual radical para clássico personagem",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "5181235d-86c1-4c03-8e41-4e12bd45dac3",
+      "title": "Mobile Suit Gundam Seed Freedom Zero Chega aos Cinemas da América do Norte em Fevereiro",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "de5675d8-5393-4883-ba00-2ea4894d0420",
+      "title": "Regras de faróis de carros nos Estados Unidos podem passar por grande reformulação",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "76ab78dc-0e73-4b84-af62-d2c6153ef3f5",
+      "title": "Trump Mobile sob investigação: senadora aponta falta de autorização da FCC e falhas de segurança",
       "category": "Segurança",
       "status": "review"
     },
     {
-      "id": "c4bd6db6-8915-4a19-8a0d-e3f2a2389b44",
-      "title": "O que esperar do evento surpresa da Apple focado em casa inteligente",
-      "category": "Smartphones",
+      "id": "79096c28-c0ef-4ffa-a9f7-ab0861559659",
+      "title": "Juiz avalia se Trump pode cobrar até US$ 100 mil por acesso antecipado a posts no Truth Social",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "c15bdcf7-c4b0-45a6-b84e-86c0684fc612",
+      "title": "SpaceX cobra coordenação e alerta sobre riscos de quase colisões na órbita terrestre",
+      "category": "Ciência",
       "status": "review"
     },
     {
@@ -22,9 +46,9 @@
     },
     {
       "id": "b5a8b7b8-4022-4254-b775-b894918abc26",
-      "title": "10 Essential Stephen King Books For Beginners",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Livros"
+      "title": "Por onde começar? Os 10 livros essenciais de Stephen King para novos leitores",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "a5ea086f-facb-4234-bdff-0893d73243f8",
@@ -34,9 +58,9 @@
     },
     {
       "id": "132bac35-4426-477b-9887-ac70b8e95486",
-      "title": "James Spader’s New Ultron Design For 2026 MCU Return Detailed By Star",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "James Spader detalha o novo visual humano de Ultron para o retorno no MCU em VisionQuest",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "0d773c1c-438b-412e-b686-b25d232d3caf",
@@ -45,52 +69,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "543d5afd-12be-4443-b589-891fb3814458",
-      "title": "Fones Sony WH-1000XM5 continuam custando menos de US$ 200 após o Amazon Prime Day",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "1a457003-e1fb-49b8-9d50-66571ecb37ad",
-      "title": "Atualização dos vazamentos de GTA 6 por Cyberleek: tudo o que foi revelado",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "bddb51dc-25d7-4a81-959e-e683503e36dd",
-      "title": "As melhores ofertas de tecnologia do Prime Day que ainda continuam ativas",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "f75bb2a4-02de-4f7c-b5f3-eb232e0b326d",
-      "title": "Apple anuncia evento especial para outubro com foco em produtos para o lar",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e65a2d9d-57e5-439e-bf4c-dc5b8c320776",
-      "title": "Matchbox: The Movie, com John Cena na Apple TV, estreia com baixa aprovação no Rotten Tomatoes",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "66e6cb6b-6cf3-45bc-8703-71179fdd5817",
-      "title": "Filmes com classificação R de Sydney Sweeney chegam ao HBO Max em outubro",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "014b57f6-08f9-409e-b7fc-453720fd244e",
-      "title": "As 3 melhores séries para maratonar na HBO Max neste fim de semana de outubro de 2026",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "1be88208-a19f-42ed-9429-07e6561bed6d",
-      "title": "Daredevil’s MCU Future After Born Again’s Shock Cancellation Gets Official Update From Charlie Cox",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "O Futuro de Daredevil no MCU: Charlie Cox Comenta o Fim de Born Again e Novidades da 3ª Temporada",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "0d70e32c-6024-4c2d-bbf0-15ad5748cd96",
@@ -99,28 +81,16 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "1cb68fb8-671c-4c3d-af3c-d6dc88c3d0b9",
-      "title": "Seis momentos perfeitos de Batman que provam que ele é muito mais complexo do que os críticos pensam",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "7c1d9a88-7768-477a-a466-6f325c7b811c",
       "title": "Marvel’s VisionQuest First Reactions Are Officially In",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "e0c04093-f8b1-4f6c-a091-68c4eb86e907",
-      "title": "Marvel remodela a mitologia de Venom e coroa um novo Rei de Preto",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "0bd19aca-9c60-4b4e-8f0d-4cf82065c822",
-      "title": "Netflix's Horror Masterpiece With 93% RT Rating Delivers A Masterclass In One-Take Storytelling",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "A obra-prima do terror da Netflix e o episódio de plano-sequência que marcou a carreira de Mike Flanagan",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "211863f1-5a9c-4aad-8c52-776dd2a2306b",
@@ -129,57 +99,87 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "a9c8fd34-1649-4773-9ab1-60a60a1e7f97",
-      "title": "Apple prepara evento especial em Nova York para revelar novos dispositivos de casa inteligente",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "55badf3a-1685-47a5-b2b9-f5ab10c3719a",
-      "title": "O que esperar do iPad mini de 2026: Tela OLED, chip A20 Pro e os principais rumores",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "194e6a71-eadd-440f-a9d1-8a5a31125c64",
-      "title": "Apple prepara evento para 27 de outubro com primeiro MacBook com tela sensível ao toque",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "889cd77d-312b-4f01-b4d6-aac63e445c6d",
-      "title": "Fatal Fury para PS5 continua sua impressionante sequência de DLCs com a chegada de Reina, de Tekken 8",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "fe41847b-ef4d-48e4-927b-590646a98291",
-      "title": "Novo jogo de K-Pop para PS5 divide opiniões antes do lançamento",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "953d19d8-0d91-4378-9523-e726b8be878c",
-      "title": "Primeiras imagens de gameplay de Forza Horizon 6 no PS5 revelam data de lançamento",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "cf9f93c5-4178-48f5-89fb-dd7f4ba6c338",
-      "title": "Atualização de 60fps para Mafia 3: Definitive Edition no PS5 é lançada gratuitamente para proprietários atuais",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "0adb8ec5-e880-4775-b256-9f631897a6ea",
-      "title": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film",
+      "title": "Cyberpunk 2077 vai ganhar filme em live-action pela Paramount Pictures",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "c3c534d6-46d4-4b52-a784-44dcefd582e3",
+      "title": "&#8216;Where&#8217;s Spot?&#8217; Inspires New Preschool Animated Series from Guru &#038; Karrot",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "2351a8bb-51e9-4493-96d8-4f8b622b5096",
+      "title": "Crunchyroll Acquires &#8216;The Apothecary Diaries&#8217; First Feature Film",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "ec61c87d-9bcb-4fd3-b234-e26a3d4e0abd",
+      "title": "Nova série animada pré-escolar 'The Huggingtons' marca primeira coprodução entre Milkshake!, RTÉ e NRK",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "b9306b7a-1c94-469b-86d8-484b25edf76a",
+      "title": "&#8216;Peppa Pig&#8217; Theatrical Event Celebrates Evie&#8217;s First Christmas",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "ca6576f3-3c03-4362-ae5b-3e37944827da",
-      "title": "PRISON OF HUSKS: Novo Soulslike exclusivo para PS5 aposta em visual retrô de PS2 e proporção 4:3",
+      "id": "ed4e75e8-5fad-44a4-a57f-381224085d7a",
+      "title": "TIFF anuncia a programação da mostra Drawn Universes: Visions in Animation",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "e5a7c0ec-6042-4de5-b3d0-08906feb0bff",
+      "title": "&#8216;RuneScape&#8217; Animated Series in the Works with Lyrical Animation, MoistCr1TiKaL &#038; Jagex",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "106648dd-5a50-42b9-b6ea-ad52527cc5aa",
+      "title": "Crunchyroll revela Sekiro, Ghost of Tsushima e adaptações de WEBTOON na NYCC 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "d0058e56-89b9-411a-83b9-30e460a5c2ea",
+      "title": "Forza Horizon 6 ganha data oficial para o PlayStation 5 e nova expansão",
       "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "125f646d-26c5-4397-8456-2f0a89213f0c",
+      "title": "Cyberpunk 2077 vai ganhar filme em live-action pela Paramount",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "d4776236-f303-4374-b1b6-704eb6ba535f",
+      "title": "Pokémon Legends: Z-A continua em promoção na Amazon após o fim do evento de outubro",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "0b0e0a26-01f7-48fd-a738-44c99056c909",
+      "title": "Tim Cook afirma que não está interferindo na gestão do novo CEO da Apple, John Ternus",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "2bec379c-6dbe-47f6-86d0-625a0ff3a608",
+      "title": "Paramount Pictures vai adaptar Cyberpunk 2077 para o cinema em formato live-action",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "627eff77-76e4-440f-ad02-0714ffde4ac5",
+      "title": "Microsoft anuncia reformulação completa do Windows Search no Windows 11",
+      "category": "Computadores",
       "status": "review"
     },
     {

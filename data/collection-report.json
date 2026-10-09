@@ -1,77 +1,6 @@
 {
-  "updated_at": "2026-10-09T01:14:14.409Z",
-  "inserted": [
-    {
-      "id": "c15bdcf7-c4b0-45a6-b84e-86c0684fc612",
-      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "79096c28-c0ef-4ffa-a9f7-ab0861559659",
-      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "76ab78dc-0e73-4b84-af62-d2c6153ef3f5",
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "de5675d8-5393-4883-ba00-2ea4894d0420",
-      "title": "Feds get ready to rewrite car headlight rules",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "5181235d-86c1-4c03-8e41-4e12bd45dac3",
-      "title": "NYCC: &#8216;Mobile Suit Gundam Seed Freedom Zero&#8217; Coming to NorAm Theaters in February",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "50ae5d6d-d9e9-4f91-a550-c6a44341d232",
-      "title": "After 54 Years, DC Unveils Jaw-Dropping New Design For Classic Hero",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "04e60aef-685a-4916-92fe-dd0bfb119937",
-      "title": "Pokémon Officially Unveils Radical Pikachu Redesign",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "053b8b89-d72d-4e4f-9e73-34e5f6ea47bc",
-      "title": "Eternally Yours Has The Potential To Be CBS's Worthy Ghosts Replacement | Review",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "34e3e30c-4a5b-402f-98e9-9b5308e3ed13",
-      "title": "HBO Officially Confirms Long-Awaited Sequel Series To $239M Hit With Returning Cast & Production Timeline",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "2cc8f2db-6316-496f-af45-8f1023aa68e5",
-      "title": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
-      "source": "Nintendo Life"
-    },
-    {
-      "id": "eef3fb15-8054-4423-adcd-30ab861e27eb",
-      "title": "【本日みつけたお買い得品】GeForce RTX 5070搭載ゲーミングノートが6万円引き！",
-      "source": "PC Watch"
-    },
-    {
-      "id": "397d9d36-a097-4f22-ad8f-c1b1b295507f",
-      "title": "[ITmedia News] ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-      "source": "ITmedia"
-    },
-    {
-      "id": "9257f2b9-2360-4739-9035-01cba44979d0",
-      "title": "Maduro faces new charge of torturing U.S. citizens in custody",
-      "source": "The Japan Times"
-    },
-    {
-      "id": "080cd95e-024b-4f82-86ee-45a8006d7bf4",
-      "title": "Elvis comes back as a ghost in a noh theater play",
-      "source": "The Japan Times"
-    }
-  ],
+  "updated_at": "2026-10-09T01:15:42.051Z",
+  "inserted": [],
   "images_updated": [],
   "duplicates_skipped": [
     {
@@ -143,6 +72,34 @@
       "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet",
       "reason": "duplicata",
       "existing_id": "236cb301-e746-43c8-8aae-a0d85463a443"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink",
+      "reason": "duplicata",
+      "existing_id": "c15bdcf7-c4b0-45a6-b84e-86c0684fc612"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts",
+      "reason": "duplicata",
+      "existing_id": "79096c28-c0ef-4ffa-a9f7-ab0861559659"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says",
+      "reason": "duplicata",
+      "existing_id": "76ab78dc-0e73-4b84-af62-d2c6153ef3f5"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Feds get ready to rewrite car headlight rules",
+      "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules",
+      "reason": "duplicata",
+      "existing_id": "de5675d8-5393-4883-ba00-2ea4894d0420"
     },
     {
       "source": "Ars Technica",
@@ -458,6 +415,13 @@
     },
     {
       "source": "Animation Magazine",
+      "title": "NYCC: &#8216;Mobile Suit Gundam Seed Freedom Zero&#8217; Coming to NorAm Theaters in February",
+      "url": "https://animationmagazine.net/2026/10/nycc-mobile-suit-gundam-seed-freedom-zero-coming-to-noram-theaters-in-february",
+      "reason": "duplicata",
+      "existing_id": "5181235d-86c1-4c03-8e41-4e12bd45dac3"
+    },
+    {
+      "source": "Animation Magazine",
       "title": "NYCC: Marvel Animation Looks Forward with More &#8216;Zombies,&#8217; &#8216;X-Men &#8217;97&#8217; &#038; &#8216;Your Friendly Neighborhood Spider-Man&#8217;",
       "url": "https://animationmagazine.net/2026/10/nycc-marvel-animation-looks-forward-with-more-zombies-x-men-97-your-friendly-neighborhood-spider-man",
       "reason": "duplicata",
@@ -707,6 +671,12 @@
     },
     {
       "source": "Collider",
+      "title": "Taylor Sheridan’s ‘Yellowstone’ Sequel Officially Returns as a Streaming Mega-Hit",
+      "url": "https://collider.com/taylor-sheridan-marshals-season-2-ratings-success-cbs-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "Forget ‘John Wick,’ Jason Statham’s Guy Ritchie Revenge Thriller Just Hit a New Streamer",
       "url": "https://collider.com/jason-statham-wrath-of-man-prime-video-streaming-october-2026",
       "reason": "fonte bloqueada"
@@ -760,10 +730,32 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Collider",
-      "title": "Sebsastian Stan Drops \"Heartbreaking\" 'Avengers: Doomsday' Update",
-      "url": "https://collider.com/avengers-doomsday-character-deaths-sebastian-stan",
-      "reason": "fonte bloqueada"
+      "source": "ScreenRant",
+      "title": "After 54 Years, DC Unveils Jaw-Dropping New Design For Classic Hero",
+      "url": "https://screenrant.com/etrigan-demon-jason-blood-redesign",
+      "reason": "duplicata",
+      "existing_id": "50ae5d6d-d9e9-4f91-a550-c6a44341d232"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Pokémon Officially Unveils Radical Pikachu Redesign",
+      "url": "https://screenrant.com/pikachu-halloween-redesign-pokemon",
+      "reason": "duplicata",
+      "existing_id": "04e60aef-685a-4916-92fe-dd0bfb119937"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Eternally Yours Has The Potential To Be CBS's Worthy Ghosts Replacement | Review",
+      "url": "https://screenrant.com/eternally-yours-season-1-episode-1-review",
+      "reason": "duplicata",
+      "existing_id": "053b8b89-d72d-4e4f-9e73-34e5f6ea47bc"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "HBO Officially Confirms Long-Awaited Sequel Series To $239M Hit With Returning Cast & Production Timeline",
+      "url": "https://screenrant.com/crazy-rich-asians-sequel-show-hbo-confirmed-cast-production-details",
+      "reason": "duplicata",
+      "existing_id": "34e3e30c-4a5b-402f-98e9-9b5308e3ed13"
     },
     {
       "source": "ScreenRant",
@@ -1082,6 +1074,13 @@
     },
     {
       "source": "Nintendo Life",
+      "title": "Witcher 3 Remastered Switch 2 Update To Improve \"Image Clarity And Sharpness\"",
+      "url": "https://nintendolife.com/news/2026/10/witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness",
+      "reason": "duplicata",
+      "existing_id": "2cc8f2db-6316-496f-af45-8f1023aa68e5"
+    },
+    {
+      "source": "Nintendo Life",
       "title": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
       "url": "https://nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
       "reason": "duplicata",
@@ -1215,6 +1214,13 @@
     },
     {
       "source": "PC Watch",
+      "title": "【本日みつけたお買い得品】GeForce RTX 5070搭載ゲーミングノートが6万円引き！",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146981.html",
+      "reason": "duplicata",
+      "existing_id": "eef3fb15-8054-4423-adcd-30ab861e27eb"
+    },
+    {
+      "source": "PC Watch",
       "title": "けんきさんら、名だたるレジェンドが集結したシージ紅白戦が開催！ ～イベントを支えたG TUNEをがっつり実機検証[Sponsored]",
       "url": "https://pc.watch.impress.co.jp/docs/topic/special/2143991.html",
       "reason": "duplicata",
@@ -1289,6 +1295,13 @@
       "url": "https://itmedia.co.jp/news/article/2610/09/2000002153",
       "reason": "duplicata",
       "existing_id": "187939b6-9007-4c92-8201-25a6e389d09d"
+    },
+    {
+      "source": "ITmedia",
+      "title": "[ITmedia News] ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
+      "url": "https://itmedia.co.jp/news/article/2610/09/2000002150",
+      "reason": "duplicata",
+      "existing_id": "397d9d36-a097-4f22-ad8f-c1b1b295507f"
     },
     {
       "source": "ITmedia",
@@ -1684,6 +1697,13 @@
     },
     {
       "source": "The Japan Times",
+      "title": "Maduro faces new charge of torturing U.S. citizens in custody",
+      "url": "https://japantimes.co.jp/news/2026/10/09/world/maduro-new-torture-charge",
+      "reason": "duplicata",
+      "existing_id": "9257f2b9-2360-4739-9035-01cba44979d0"
+    },
+    {
+      "source": "The Japan Times",
       "title": "U.S. military to livestream firing squad execution of Fort Hood shooter",
       "url": "https://japantimes.co.jp/news/2026/10/09/world/fort-hood-shooter-execution-livestream",
       "reason": "duplicata",
@@ -1695,6 +1715,13 @@
       "url": "https://japantimes.co.jp/news/2026/10/09/world/no-iran-attack-midterms",
       "reason": "duplicata",
       "existing_id": "04491319-d874-4a5b-9eed-dea854ca0ed4"
+    },
+    {
+      "source": "The Japan Times",
+      "title": "Elvis comes back as a ghost in a noh theater play",
+      "url": "https://japantimes.co.jp/culture/2026/10/09/stage/elvis-noh-theater-tokyo-festival",
+      "reason": "duplicata",
+      "existing_id": "080cd95e-024b-4f82-86ee-45a8006d7bf4"
     },
     {
       "source": "The Japan Times",
