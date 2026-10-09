@@ -1,60 +1,24 @@
 {
-  "updated_at": "2026-10-09T00:43:28.832Z",
+  "updated_at": "2026-10-09T00:49:48.510Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "14ee0209-9787-4d8d-927c-85d99c87a88b",
-      "title": "A Semana Dourada na China: Bilhões de Viagens e Mudanças no Turismo Asiático",
-      "category": "Empresas",
+      "id": "1f6a2d37-4422-4917-bdd9-6c640c58eb7b",
+      "title": "Forças Armadas dos EUA vão transmitir ao vivo execução de fuzilamento de atirador de Fort Hood",
+      "category": "Segurança",
       "status": "review"
     },
     {
-      "id": "34993ae3-cccc-4077-b0ea-bf6e7008bea8",
-      "title": "Apostando em Inteligência Artificial e Agricultura Digital: A Trajetória da welzo",
-      "category": "Empresas",
+      "id": "c4bd6db6-8915-4a19-8a0d-e3f2a2389b44",
+      "title": "O que esperar do evento surpresa da Apple focado em casa inteligente",
+      "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "e2e53189-fee5-4e14-958f-6df6cc36827f",
-      "title": "Afinal, a IA resolve tudo? Blue Prism aponta limites e aposta na divisão de trabalho entre agentes inteligentes e RPA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "584bf5f9-f88a-4bcb-882c-4703cf16d3b2",
-      "title": "A aquisição da TechWolf pela SAP e o desafio da \"raiz\" no suporte de IA para recursos humanos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "00f6be2b-3215-4fec-ad4b-9713868fb305",
-      "title": "Anthropic atualiza política de uso do Claude para proibir maus-tratos a modelos de IA",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "4a8fed4f-f887-43a2-8201-451ebb3b9555",
-      "title": "Avengers: Doomsday Enfrenta o Maior Desafio do MCU ao Tentar Substituir Tony Stark",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "f51a95c0-554e-4d74-b37e-e5f478098a46",
-      "title": "Sucesso de Lioness e migração das séries de espionagem para a TV",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "23f4e6b1-b803-48ef-aeb9-98a1b123f303",
-      "title": "A estreia da 3ª temporada de Georgie & Mandy's First Marriage e a sombra de Young Sheldon",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "5f674baf-dbcf-4918-ae8d-2de940be7f91",
-      "title": "Os 10 Maiores Personagens de Quadrinhos Criados nos Anos 2000",
-      "category": "Games",
-      "status": "review"
+      "id": "9216146d-7c4c-4993-9e06-ef38322aa66e",
+      "title": "NYCC: Marvel Animation Looks Forward with More &#8216;Zombies,&#8217; &#8216;X-Men &#8217;97&#8217; &#038; &#8216;Your Friendly Neighborhood Spider-Man&#8217;",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "b5a8b7b8-4022-4254-b775-b894918abc26",
@@ -69,36 +33,6 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "69630724-b46e-45c1-921e-26cb7e3d92cc",
-      "title": "Primeiras reações a VisionQuest elogiam o encerramento da trilogia da Marvel",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "eb7c857c-6eb6-48c7-9112-c54c3cae0875",
-      "title": "Marvel exibe o primeiro episódio de VisionQuest na New York Comic Con",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "b2e54a6b-50c6-4ecb-8304-d206d1617303",
-      "title": "Marvel na New York Comic Con 2026: Anúncios, trailers e novidades de séries",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "9f7313ce-372d-403f-b7c8-77225bbf4250",
-      "title": "One Piece: Revelações do capítulo 1194 indicam o Omen como o contra-ataque perfeito para o Haki do Conquistador",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "efe812d8-2bae-47e7-ac1d-e9b90d7f13d7",
-      "title": "Retorno de Jimmy em Marshals ganha elogios antecipados de Logan Marshall-Green",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "132bac35-4426-477b-9887-ac70b8e95486",
       "title": "James Spader’s New Ultron Design For 2026 MCU Return Detailed By Star",
       "status": "error",
@@ -111,75 +45,141 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "058ab23d-4bcd-48ca-9b3b-e8ef9c87433c",
-      "title": "Guia de Arc Raiders: Como completar a missão Exploring Pendola Pass",
+      "id": "543d5afd-12be-4443-b589-891fb3814458",
+      "title": "Fones Sony WH-1000XM5 continuam custando menos de US$ 200 após o Amazon Prime Day",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "1a457003-e1fb-49b8-9d50-66571ecb37ad",
+      "title": "Atualização dos vazamentos de GTA 6 por Cyberleek: tudo o que foi revelado",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "0be1e9b5-f936-49d6-a797-f8814fd13fc5",
-      "title": "Wikipedia acusa agentes autônomos de inteligência artificial da OpenAI de edições não autorizadas e sobrecarga de servidores",
-      "category": "Internet",
+      "id": "bddb51dc-25d7-4a81-959e-e683503e36dd",
+      "title": "As melhores ofertas de tecnologia do Prime Day que ainda continuam ativas",
+      "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "cce7043c-6445-478a-91a3-d0766ff0ce84",
-      "title": "O que esperar da evolução do Wi-Fi 7 em relação ao padrão Wi-Fi 6",
-      "category": "Internet",
+      "id": "f75bb2a4-02de-4f7c-b5f3-eb232e0b326d",
+      "title": "Apple anuncia evento especial para outubro com foco em produtos para o lar",
+      "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "bab0600c-a892-4904-99d2-8f717306ab05",
-      "title": "Modificação de Diablo 2 em realidade virtual transforma o clássico em uma experiência totalmente inédita em primeira pessoa",
+      "id": "e65a2d9d-57e5-439e-bf4c-dc5b8c320776",
+      "title": "Matchbox: The Movie, com John Cena na Apple TV, estreia com baixa aprovação no Rotten Tomatoes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "66e6cb6b-6cf3-45bc-8703-71179fdd5817",
+      "title": "Filmes com classificação R de Sydney Sweeney chegam ao HBO Max em outubro",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "014b57f6-08f9-409e-b7fc-453720fd244e",
+      "title": "As 3 melhores séries para maratonar na HBO Max neste fim de semana de outubro de 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "1be88208-a19f-42ed-9429-07e6561bed6d",
+      "title": "Daredevil’s MCU Future After Born Again’s Shock Cancellation Gets Official Update From Charlie Cox",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "0d70e32c-6024-4c2d-bbf0-15ad5748cd96",
+      "title": "HBO Officially Retcons Game Of Thrones' Long Night Episode",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "1cb68fb8-671c-4c3d-af3c-d6dc88c3d0b9",
+      "title": "Seis momentos perfeitos de Batman que provam que ele é muito mais complexo do que os críticos pensam",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "c366c8b1-712b-484d-a8e6-86fb340cb531",
-      "title": "Primeiras análises de Gears of War: E-Day destacam combate intenso e problemas na campanha",
+      "id": "7c1d9a88-7768-477a-a466-6f325c7b811c",
+      "title": "Marvel’s VisionQuest First Reactions Are Officially In",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "e0c04093-f8b1-4f6c-a091-68c4eb86e907",
+      "title": "Marvel remodela a mitologia de Venom e coroa um novo Rei de Preto",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "5b918ef7-d28b-4f2e-b9fe-cbce26bde276",
-      "title": "Raspberry Pi Desktop retorna para PCs e Macs após quatro anos de ausência",
+      "id": "0bd19aca-9c60-4b4e-8f0d-4cf82065c822",
+      "title": "Netflix's Horror Masterpiece With 93% RT Rating Delivers A Masterclass In One-Take Storytelling",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "211863f1-5a9c-4aad-8c52-776dd2a2306b",
+      "title": "Chris Pratt's R-Rated Action Thriller Is Resurrected As A Streaming Hit As Sequel Wait Continues",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "a9c8fd34-1649-4773-9ab1-60a60a1e7f97",
+      "title": "Apple prepara evento especial em Nova York para revelar novos dispositivos de casa inteligente",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "55badf3a-1685-47a5-b2b9-f5ab10c3719a",
+      "title": "O que esperar do iPad mini de 2026: Tela OLED, chip A20 Pro e os principais rumores",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "60d42276-00b8-4640-bcd6-76b0d30abf68",
-      "title": "Elecom lança dock USB-C com um grande botão giratório superior",
+      "id": "194e6a71-eadd-440f-a9d1-8a5a31125c64",
+      "title": "Apple prepara evento para 27 de outubro com primeiro MacBook com tela sensível ao toque",
       "category": "Computadores",
       "status": "review"
     },
     {
-      "id": "460a5967-a2ea-4125-86b3-39072c1f6615",
-      "title": "Smart TV gigante da Hisense de 100 polegadas recebe desconto de mais de US$ 1.300 na Amazon",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "b85eab6f-5e87-43e2-a46b-c7c8db41e88d",
-      "title": "Microsoft cria porta USB-C magnética e estreia novidade no Surface Laptop Ultra",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "9c9422d5-077f-44ef-8245-6bae0487ffc2",
-      "title": "Fones Bose QuietComfort mantêm menor preço histórico após o fim do Prime Day",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "da06d1c4-ee3a-4075-a01e-80929768f4db",
-      "title": "Best Buy terá edição limitada do Switch 2 de Zelda em eventos de lançamento à meia-noite",
+      "id": "889cd77d-312b-4f01-b4d6-aac63e445c6d",
+      "title": "Fatal Fury para PS5 continua sua impressionante sequência de DLCs com a chegada de Reina, de Tekken 8",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "2b5c09b9-7210-4f10-8a3c-31d271263b2c",
-      "title": "A Inteligência Artificial pode ser uma aliada surpreendente na hora de votar?",
-      "category": "Inteligência Artificial",
+      "id": "fe41847b-ef4d-48e4-927b-590646a98291",
+      "title": "Novo jogo de K-Pop para PS5 divide opiniões antes do lançamento",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "953d19d8-0d91-4378-9523-e726b8be878c",
+      "title": "Primeiras imagens de gameplay de Forza Horizon 6 no PS5 revelam data de lançamento",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "cf9f93c5-4178-48f5-89fb-dd7f4ba6c338",
+      "title": "Atualização de 60fps para Mafia 3: Definitive Edition no PS5 é lançada gratuitamente para proprietários atuais",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "0adb8ec5-e880-4775-b256-9f631897a6ea",
+      "title": "Cyberpunk 2077 Is the Next Game Set for a Live-Action Film",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "ca6576f3-3c03-4362-ae5b-3e37944827da",
+      "title": "PRISON OF HUSKS: Novo Soulslike exclusivo para PS5 aposta em visual retrô de PS2 e proporção 4:3",
+      "category": "Games",
       "status": "review"
     },
     {

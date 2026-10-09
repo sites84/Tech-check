@@ -1,55 +1,20 @@
 {
-  "updated_at": "2026-10-09T00:39:55.334Z",
+  "updated_at": "2026-10-09T00:46:20.006Z",
   "inserted": [
     {
-      "id": "b5a8b7b8-4022-4254-b775-b894918abc26",
-      "title": "10 Essential Stephen King Books For Beginners",
-      "source": "ScreenRant"
+      "id": "9216146d-7c4c-4993-9e06-ef38322aa66e",
+      "title": "NYCC: Marvel Animation Looks Forward with More &#8216;Zombies,&#8217; &#8216;X-Men &#8217;97&#8217; &#038; &#8216;Your Friendly Neighborhood Spider-Man&#8217;",
+      "source": "Animation Magazine"
     },
     {
-      "id": "5f674baf-dbcf-4918-ae8d-2de940be7f91",
-      "title": "10 Greatest Comic Book Characters Created In The 2000s",
-      "source": "ScreenRant"
+      "id": "c4bd6db6-8915-4a19-8a0d-e3f2a2389b44",
+      "title": "Everything We Expect From Apple’s Surprise Smart Home Event Next Week",
+      "source": "CNET"
     },
     {
-      "id": "23f4e6b1-b803-48ef-aeb9-98a1b123f303",
-      "title": "Young Sheldon's Legacy Casts A Shadow On Georgie & Mandy's First Marriage Season 3 | Review",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "f51a95c0-554e-4d74-b37e-e5f478098a46",
-      "title": "Taylor Sheridan’s 24-Episode Action Thriller Officially Confirms A Genre Change",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "4a8fed4f-f887-43a2-8201-451ebb3b9555",
-      "title": "Avengers: Doomsday Needs To Solve The MCU’s Tony Stark Replacement Problem",
-      "source": "ScreenRant"
-    },
-    {
-      "id": "00f6be2b-3215-4fec-ad4b-9713868fb305",
-      "title": "[ITmedia News] Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
-      "source": "ITmedia"
-    },
-    {
-      "id": "584bf5f9-f88a-4bcb-882c-4703cf16d3b2",
-      "title": "[ITmedia エンタープライズ] 人事AIに足りないのは「根拠」 SAPがTechWolf買収で手に入れるもの",
-      "source": "ITmedia"
-    },
-    {
-      "id": "e2e53189-fee5-4e14-958f-6df6cc36827f",
-      "title": "[ITmedia エンタープライズ] AIエージェントだけで業務は回らない？ Blue Prismが始めた「AIとRPAの分業」",
-      "source": "ITmedia"
-    },
-    {
-      "id": "34993ae3-cccc-4077-b0ea-bf6e7008bea8",
-      "title": "[ITmedia ビジネスオンライン] 「人工雷」で肥料を生み、キュウリでAIを育てる 福岡の100年商社「welzo」が挑む農業DX",
-      "source": "ITmedia"
-    },
-    {
-      "id": "14ee0209-9787-4d8d-927c-85d99c87a88b",
-      "title": "Through the Lens: China's Golden Week holiday",
-      "source": "Nikkei Asia"
+      "id": "1f6a2d37-4422-4917-bdd9-6c640c58eb7b",
+      "title": "U.S. military to livestream firing squad execution of Fort Hood shooter",
+      "source": "The Japan Times"
     }
   ],
   "images_updated": [],
@@ -528,13 +493,6 @@
       "existing_id": "c60b10e2-d216-407e-987d-6bc6a3a9936d"
     },
     {
-      "source": "Animation Magazine",
-      "title": "&#8216;Hey Arnold!&#8217; Gets First-Ever Streaming Music Release for 30th Birthday",
-      "url": "https://animationmagazine.net/2026/10/hey-arnold-gets-first-ever-streaming-music-release-for-30th-birthday",
-      "reason": "duplicata",
-      "existing_id": "a432f9ed-1a58-4564-9481-c36eaf061819"
-    },
-    {
       "source": "Push Square",
       "title": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
       "url": "https://pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
@@ -722,6 +680,12 @@
     },
     {
       "source": "Collider",
+      "title": "Tom Cruise’s Steven Spielberg Sci-Fi Adaptation Is Taking Over the World",
+      "url": "https://collider.com/steven-spielberg-tom-cruise-war-of-the-worlds-streaming-success-apple-tv-october-2026",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Collider",
       "title": "Stephen King’s New 8-Part Horror Series Is an Instant Prime Video Super-Hit",
       "url": "https://collider.com/stephen-king-mike-flanagan-carrie-streaming-success-prime-video-october-2026",
       "reason": "fonte bloqueada"
@@ -775,10 +739,39 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Collider",
-      "title": "‘The Bride!’ Director Maggie Gyllenhaal Confirms What She’s Working on Next",
-      "url": "https://collider.com/maggie-gyllenhaal-upcoming-projects-flesh-impact-the-bride",
-      "reason": "fonte bloqueada"
+      "source": "ScreenRant",
+      "title": "10 Essential Stephen King Books For Beginners",
+      "url": "https://screenrant.com/stephen-king-essential-starter-books-beginners",
+      "reason": "duplicata",
+      "existing_id": "b5a8b7b8-4022-4254-b775-b894918abc26"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "10 Greatest Comic Book Characters Created In The 2000s",
+      "url": "https://screenrant.com/best-comic-characters-introduced-since-2000",
+      "reason": "duplicata",
+      "existing_id": "5f674baf-dbcf-4918-ae8d-2de940be7f91"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Young Sheldon's Legacy Casts A Shadow On Georgie & Mandy's First Marriage Season 3 | Review",
+      "url": "https://screenrant.com/georgie-mandys-first-marriage-season-3-episode-1-review",
+      "reason": "duplicata",
+      "existing_id": "23f4e6b1-b803-48ef-aeb9-98a1b123f303"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Taylor Sheridan’s 24-Episode Action Thriller Officially Confirms A Genre Change",
+      "url": "https://screenrant.com/taylor-sheridan-lioness-season-3-spy-shows-genre-change",
+      "reason": "duplicata",
+      "existing_id": "f51a95c0-554e-4d74-b37e-e5f478098a46"
+    },
+    {
+      "source": "ScreenRant",
+      "title": "Avengers: Doomsday Needs To Solve The MCU’s Tony Stark Replacement Problem",
+      "url": "https://screenrant.com/avengers-endgame-tony-stark-replacement-problem",
+      "reason": "duplicata",
+      "existing_id": "4a8fed4f-f887-43a2-8201-451ebb3b9555"
     },
     {
       "source": "ScreenRant",
@@ -1082,20 +1075,6 @@
       "existing_id": "0a6215c1-ab91-4ba7-8497-03db1fbcee57"
     },
     {
-      "source": "CNET",
-      "title": "BF6 Reports for Duty on Xbox Game Pass While Clair Obscur Gets Gommaged in October",
-      "url": "https://cnet.com/tech/gaming/bf6-reports-for-duty-on-xbox-game-pass-while-clair-obscur-gets-gommaged-in-october",
-      "reason": "duplicata",
-      "existing_id": "0fc1a7b1-91e1-475f-9361-2481b267a230"
-    },
-    {
-      "source": "CNET",
-      "title": "Smart Contact Lenses May Arrive as Soon as 2030. Here’s What They Do",
-      "url": "https://cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do",
-      "reason": "duplicata",
-      "existing_id": "9b3ca712-7c09-45af-970c-9b0a445b27ba"
-    },
-    {
       "source": "Nintendo Life",
       "title": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
       "url": "https://nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
@@ -1303,7 +1282,28 @@
       "title": "Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える",
       "url": "https://pc.watch.impress.co.jp/docs/news/2146820.html",
       "reason": "duplicata",
-      "existing_id": "a36e2776-1584-401f-b330-f7cd0e93afe5"
+      "existing_id": "b85eab6f-5e87-43e2-a46b-c7c8db41e88d"
+    },
+    {
+      "source": "ITmedia",
+      "title": "[ITmedia News] Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
+      "url": "https://itmedia.co.jp/news/article/2610/09/2000002149",
+      "reason": "duplicata",
+      "existing_id": "00f6be2b-3215-4fec-ad4b-9713868fb305"
+    },
+    {
+      "source": "ITmedia",
+      "title": "[ITmedia エンタープライズ] 人事AIに足りないのは「根拠」 SAPがTechWolf買収で手に入れるもの",
+      "url": "https://itmedia.co.jp/enterprise/articles/2610/09/news019.html",
+      "reason": "duplicata",
+      "existing_id": "584bf5f9-f88a-4bcb-882c-4703cf16d3b2"
+    },
+    {
+      "source": "ITmedia",
+      "title": "[ITmedia エンタープライズ] AIエージェントだけで業務は回らない？ Blue Prismが始めた「AIとRPAの分業」",
+      "url": "https://itmedia.co.jp/enterprise/articles/2610/09/news030.html",
+      "reason": "duplicata",
+      "existing_id": "e2e53189-fee5-4e14-958f-6df6cc36827f"
     },
     {
       "source": "ITmedia",
@@ -1346,6 +1346,13 @@
       "url": "https://itmedia.co.jp/news/article/2610/09/2000002146",
       "reason": "duplicata",
       "existing_id": "63e95952-ba6e-4aef-bc60-939401976494"
+    },
+    {
+      "source": "ITmedia",
+      "title": "[ITmedia ビジネスオンライン] 「人工雷」で肥料を生み、キュウリでAIを育てる 福岡の100年商社「welzo」が挑む農業DX",
+      "url": "https://itmedia.co.jp/business/articles/2610/09/news035.html",
+      "reason": "duplicata",
+      "existing_id": "34993ae3-cccc-4077-b0ea-bf6e7008bea8"
     },
     {
       "source": "DigiTimes",
@@ -1629,6 +1636,13 @@
     },
     {
       "source": "Nikkei Asia",
+      "title": "Through the Lens: China's Golden Week holiday",
+      "url": "https://asia.nikkei.com/photos/through-the-lens-china-s-golden-week-holiday",
+      "reason": "duplicata",
+      "existing_id": "14ee0209-9787-4d8d-927c-85d99c87a88b"
+    },
+    {
+      "source": "Nikkei Asia",
       "title": "Nvidia-backed Firmus scraps $5bn Australian IPO on weak demand",
       "url": "https://asia.nikkei.com/business/markets/ipo/nvidia-backed-firmus-scraps-5bn-australian-ipo-on-weak-demand",
       "reason": "duplicata",
@@ -1752,13 +1766,6 @@
       "url": "https://japantimes.co.jp/news/2026/10/08/japan/trump-xi-urge-takaichi",
       "reason": "duplicata",
       "existing_id": "87ca4a1e-d041-4c1c-9bc8-fa1072c797e7"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Canadian writer Anne Carson wins 2026 Nobel Prize in Literature",
-      "url": "https://japantimes.co.jp/culture/2026/10/08/entertainment-news/nobel-prize-literature",
-      "reason": "duplicata",
-      "existing_id": "dcac114d-384a-4de2-a476-a00ec29bdce0"
     }
   ]
 }
