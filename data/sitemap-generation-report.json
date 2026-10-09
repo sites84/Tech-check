@@ -1,18 +1,138 @@
 {
-  "generated_at": "2026-10-09T02:26:15.549Z",
+  "generated_at": "2026-10-09T03:37:36.279Z",
   "html_files_scanned": 1679,
   "articles_in_database": 1000,
-  "unique_news_articles": 947,
-  "duplicate_news_articles_excluded": 53,
-  "news_pages_in_sitemap": 892,
-  "main_sitemap_urls": 951,
+  "unique_news_articles": 949,
+  "duplicate_news_articles_excluded": 51,
+  "news_pages_in_sitemap": 870,
+  "main_sitemap_urls": 929,
   "evergreen_sitemap_urls": 40,
   "issues": {
     "missing_news_page": [
       {
+        "id": "6d1e9bfc-989e-4e62-8209-0b65f6669b4f",
+        "title": "Taliban enfrentam risco de guerra civil após fracasso da mediação da China entre Afeganistão e Paquistão",
+        "slug": "taliban-enfrentam-risco-de-guerra-civil-apos-fracasso-da-mediacao-da-china-entre-afeganist",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "2e1a14cd-b39f-471b-8698-52492e9eea3b",
+        "title": "Disputas internas no KMT de Taiwan atraem atenção de Estados Unidos e China",
+        "slug": "disputas-internas-no-kmt-de-taiwan-atraem-atencao-de-estados-unidos-e-china",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "28822ae5-c351-4890-aa3b-a8b11e3b5c64",
+        "title": "Centros de tecnologia de multinacionais na Índia enfrentam desaceleração de contratações impulsionada por IA",
+        "slug": "centros-de-tecnologia-de-multinacionais-na-india-enfrentam-desaceleracao-de-contratacoes-i",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "71353e7f-3971-4207-a4ee-5696fb02b684",
+        "title": "Nintendo Switch 2 é encontrado por preço menor na JB Hi-Fi apesar de aumentos no mercado",
+        "slug": "nintendo-switch-2-e-encontrado-por-preco-menor-na-jb-hi-fi-apesar-de-aumentos-no-mercado",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "c5810ca9-d2e9-4393-9f4b-d668991ef5b2",
+        "title": "Café de marca tradicional e kits variados entram em promoção na Amazon com descontos de até 3.091 ienes",
+        "slug": "cafe-de-marca-tradicional-e-kits-variados-entram-em-promocao-na-amazon-com-descontos-de-at",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "51af0e4c-758e-4f82-80b7-42fb203d83a0",
+        "title": "A Batalha na Floresta da Morte que Mudou para Sempre a Franquia Naruto",
+        "slug": "a-batalha-na-floresta-da-morte-que-mudou-para-sempre-a-franquia-naruto",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "dd9a9a91-79ad-40e6-9227-cd485304f1ca",
+        "title": "Protesto em Tóquio após fuzileiro naval dos EUA ser acusado de assassinato em Okinawa",
+        "slug": "protesto-em-toquio-apos-fuzileiro-naval-dos-eua-ser-acusado-de-assassinato-em-okinawa",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "49a8d477-2ed7-419f-85d1-7295834ab819",
+        "title": "Fabricantes japoneses de bebidas alcoólicas apostam no mercado americano de prontos para beber",
+        "slug": "fabricantes-japoneses-de-bebidas-alcoolicas-apostam-no-mercado-americano-de-prontos-para-b",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "53e2b413-bce2-46a6-b415-b3b9090ba3e6",
+        "title": "MediaTek supera projeções no terceiro trimestre de 2026 e mantém ritmo de alta temporada",
+        "slug": "mediatek-supera-projecoes-no-terceiro-trimestre-de-2026-e-mantem-ritmo-de-alta-temporada",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "6a325100-9fa4-4514-9a6c-19efa5d24879",
+        "title": "GlobalFoundries fecha acordo de US$ 2 bilhões com a TSMC para fabricação de interposers nos EUA",
+        "slug": "globalfoundries-fecha-acordo-de-us-2-bilhoes-com-a-tsmc-para-fabricacao-de-interposers-nos",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "2fb34192-61a1-4bb2-a09e-18e43c0927d0",
+        "title": "Seca de acordos derruba captação de IPOs no Japão ao menor patamar em 14 anos",
+        "slug": "seca-de-acordos-derruba-captacao-de-ipos-no-japao-ao-menor-patamar-em-14-anos",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "dc2f8dde-ad0e-44d7-922b-2295d97677c4",
+        "title": "A série de Harry Potter da HBO muda o público-alvo original",
+        "slug": "a-serie-de-harry-potter-da-hbo-muda-o-publico-alvo-original",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "ff703d43-165d-4402-a99a-1cc30b4fc606",
+        "title": "Best Buy vai oferecer unidades extras do Switch 2 de Zelda em lojas físicas no lançamento à meia-noite",
+        "slug": "best-buy-vai-oferecer-unidades-extras-do-switch-2-de-zelda-em-lojas-fisicas-no-lancamento-",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "b93bb8b5-5c36-4b62-9676-849cf45a7370",
+        "title": "Bancos globais reforçam equipes de captação de dívida no Japão com boom de emissão de títulos",
+        "slug": "bancos-globais-reforcam-equipes-de-captacao-de-divida-no-japao-com-boom-de-emissao-de-titu",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "1e5ab71a-93c5-4b96-b457-a8508f682601",
+        "title": "Amazon oferece descontos expressivos em três modelos de roteadores Wi-Fi 7",
+        "slug": "amazon-oferece-descontos-expressivos-em-tres-modelos-de-roteadores-wi-fi-7",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "4cb7340f-9baf-4a13-82b2-5740d7529b84",
+        "title": "Marvel revela um visual aterrorizante e inédito para o clássico vilão do Homem-Aranha",
+        "slug": "marvel-revela-um-visual-aterrorizante-e-inedito-para-o-classico-vilao-do-homem-aranha",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "6944300a-d378-41a4-947c-0c50b5d314de",
+        "title": "Sourcenext lança notebook de 15,6 polegadas com 16 GB de memória por menos de 100 mil ienes",
+        "slug": "sourcenext-lanca-notebook-de-15-6-polegadas-com-16-gb-de-memoria-por-menos-de-100-mil-iene",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "3934c5a5-94fe-42c0-b4e7-7b45b4327e92",
+        "title": "Veículo da Embaixada da Rússia se envolve em acidente de trânsito em Tóquio",
+        "slug": "veiculo-da-embaixada-da-russia-se-envolve-em-acidente-de-transito-em-toquio",
+        "reason": "HTML não encontrado"
+      },
+      {
         "id": "999e3422-80e8-45de-aea4-e73a9f090bae",
         "title": "Line plane se tornar um aplicativo de IA cotidiano na Tailândia",
         "slug": "line-plane-se-tornar-um-aplicativo-de-ia-cotidiano-na-tailandia",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "4e5b6abe-a58c-48df-b420-85e896fab074",
+        "title": "Rússia exige que os Países Baixos extraditem a presidente do Tribunal Penal Internacional, Tomoko Akane",
+        "slug": "russia-exige-que-os-paises-baixos-extraditem-a-presidente-do-tribunal-penal-internacional-",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "6a747f43-9726-4988-89bd-df29c67fd6f1",
+        "title": "EUA suspendem Microsoft e outras gigantes de tecnologia de programa de vistos",
+        "slug": "eua-suspendem-microsoft-e-outras-gigantes-de-tecnologia-de-programa-de-vistos",
         "reason": "HTML não encontrado"
       },
       {
@@ -25,6 +145,24 @@
         "id": "0dd07f0c-8447-402c-babc-d6df614c0e21",
         "title": "6 recomendações de séries de fantasia para maratonar em apenas um fim de semana",
         "slug": "6-recomendacoes-de-series-de-fantasia-para-maratonar-em-apenas-um-fim-de-semana",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "7a562d9f-2102-41db-a51c-e27d7294e46f",
+        "title": "Novo filme da Apple TV reconta a história do Everest sob a perspectiva de Tenzing Norgay",
+        "slug": "novo-filme-da-apple-tv-reconta-a-historia-do-everest-sob-a-perspectiva-de-tenzing-norgay",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "a5ead968-8440-427a-9a15-c8b429c3194f",
+        "title": "Governo dos EUA substitui termo IA por SI e adota nova postura oficial em portais e documentos",
+        "slug": "governo-dos-eua-substitui-termo-ia-por-si-e-adota-nova-postura-oficial-em-portais-e-docume",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "ea477851-3085-4b2e-97ee-ec290979c0bd",
+        "title": "Análise do iPhone 18 Pro Max: Evoluções impressionantes na câmera e desafios no peso",
+        "slug": "analise-do-iphone-18-pro-max-evolucoes-impressionantes-na-camera-e-desafios-no-peso",
         "reason": "HTML não encontrado"
       },
       {
@@ -151,6 +289,12 @@
         "id": "2c7ab075-74d6-47b8-9b32-70bf8c5ec566",
         "title": "MSI Anuncia o Prestige N16 Flip AI+: Notebook 2in1 de 16 Polegadas Focado em IA Local com Lançamento Previsto para Outubro",
         "slug": "msi-anuncia-o-prestige-n16-flip-ai-notebook-2in1-de-16-polegadas-focado-em-ia-local-com-la",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "45d2b296-eb67-4391-83a6-b80c3acdb119",
+        "title": "Zelenskyy acusa Estados Unidos de inação após ataques russos deixarem mais de 70 mortos em dois dias",
+        "slug": "zelenskyy-acusa-estados-unidos-de-inacao-apos-ataques-russos-deixarem-mais-de-70-mortos-em",
         "reason": "HTML não encontrado"
       },
       {

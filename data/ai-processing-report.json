@@ -1,7 +1,163 @@
 {
-  "updated_at": "2026-10-09T02:17:09.861Z",
+  "updated_at": "2026-10-09T03:29:23.461Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
+    {
+      "id": "1953d40f-fef1-4807-bb41-42eebf894a41",
+      "title": "F1 drivers split on cooling vests as sweltering conditions await in Singapore",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+    },
+    {
+      "id": "6a747f43-9726-4988-89bd-df29c67fd6f1",
+      "title": "EUA suspendem Microsoft e outras gigantes de tecnologia de programa de vistos",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "4e5b6abe-a58c-48df-b420-85e896fab074",
+      "title": "Rússia exige que os Países Baixos extraditem a presidente do Tribunal Penal Internacional, Tomoko Akane",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "3934c5a5-94fe-42c0-b4e7-7b45b4327e92",
+      "title": "Veículo da Embaixada da Rússia se envolve em acidente de trânsito em Tóquio",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "b93bb8b5-5c36-4b62-9676-849cf45a7370",
+      "title": "Bancos globais reforçam equipes de captação de dívida no Japão com boom de emissão de títulos",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "b570fa57-6887-45c9-942e-31c8d5cc61e4",
+      "title": "Aces star A’ja Wilson collects record fifth MVP award",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+    },
+    {
+      "id": "2fb34192-61a1-4bb2-a09e-18e43c0927d0",
+      "title": "Seca de acordos derruba captação de IPOs no Japão ao menor patamar em 14 anos",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "49a8d477-2ed7-419f-85d1-7295834ab819",
+      "title": "Fabricantes japoneses de bebidas alcoólicas apostam no mercado americano de prontos para beber",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "dd9a9a91-79ad-40e6-9227-cd485304f1ca",
+      "title": "Protesto em Tóquio após fuzileiro naval dos EUA ser acusado de assassinato em Okinawa",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "6d1e9bfc-989e-4e62-8209-0b65f6669b4f",
+      "title": "Taliban enfrentam risco de guerra civil após fracasso da mediação da China entre Afeganistão e Paquistão",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "2e1a14cd-b39f-471b-8698-52492e9eea3b",
+      "title": "Disputas internas no KMT de Taiwan atraem atenção de Estados Unidos e China",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "28822ae5-c351-4890-aa3b-a8b11e3b5c64",
+      "title": "Centros de tecnologia de multinacionais na Índia enfrentam desaceleração de contratações impulsionada por IA",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "6a325100-9fa4-4514-9a6c-19efa5d24879",
+      "title": "GlobalFoundries fecha acordo de US$ 2 bilhões com a TSMC para fabricação de interposers nos EUA",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "53e2b413-bce2-46a6-b415-b3b9090ba3e6",
+      "title": "MediaTek supera projeções no terceiro trimestre de 2026 e mantém ritmo de alta temporada",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "ea477851-3085-4b2e-97ee-ec290979c0bd",
+      "title": "Análise do iPhone 18 Pro Max: Evoluções impressionantes na câmera e desafios no peso",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "a5ead968-8440-427a-9a15-c8b429c3194f",
+      "title": "Governo dos EUA substitui termo IA por SI e adota nova postura oficial em portais e documentos",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "6944300a-d378-41a4-947c-0c50b5d314de",
+      "title": "Sourcenext lança notebook de 15,6 polegadas com 16 GB de memória por menos de 100 mil ienes",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "1e5ab71a-93c5-4b96-b457-a8508f682601",
+      "title": "Amazon oferece descontos expressivos em três modelos de roteadores Wi-Fi 7",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "c5810ca9-d2e9-4393-9f4b-d668991ef5b2",
+      "title": "Café de marca tradicional e kits variados entram em promoção na Amazon com descontos de até 3.091 ienes",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "ff703d43-165d-4402-a99a-1cc30b4fc606",
+      "title": "Best Buy vai oferecer unidades extras do Switch 2 de Zelda em lojas físicas no lançamento à meia-noite",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "71353e7f-3971-4207-a4ee-5696fb02b684",
+      "title": "Nintendo Switch 2 é encontrado por preço menor na JB Hi-Fi apesar de aumentos no mercado",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "72bfa058-52b1-48d7-9b3b-c266375cb4a2",
+      "title": "NBC's Longest-Running Series Is Still Good After Nearly 30 Years, It's Scary",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "4cb7340f-9baf-4a13-82b2-5740d7529b84",
+      "title": "Marvel revela um visual aterrorizante e inédito para o clássico vilão do Homem-Aranha",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "dc2f8dde-ad0e-44d7-922b-2295d97677c4",
+      "title": "A série de Harry Potter da HBO muda o público-alvo original",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "81d3c6cf-e502-4aa1-842b-d9cbce9f3b0b",
+      "title": "Evil Season 5 Gets \"Sincere Talks\" Update From Mike Colter 2 Years Later",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "51af0e4c-758e-4f82-80b7-42fb203d83a0",
+      "title": "A Batalha na Floresta da Morte que Mudou para Sempre a Franquia Naruto",
+      "category": "Games",
+      "status": "review"
+    },
     {
       "id": "24bccda5-c1fd-4625-99eb-43a348248cd1",
       "title": "What to know before the 39th Tokyo International Film Festival",
@@ -10,9 +166,9 @@
     },
     {
       "id": "45d2b296-eb67-4391-83a6-b80c3acdb119",
-      "title": "Zelenskyy accuses U.S. of inaction as Russian strikes kill over 70 in two days",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Mundo"
+      "title": "Zelenskyy acusa Estados Unidos de inação após ataques russos deixarem mais de 70 mortos em dois dias",
+      "category": "Empresas",
+      "status": "review"
     },
     {
       "id": "7f8a3058-e923-4e40-9023-393c5c1ecbf2",
@@ -21,164 +177,8 @@
       "error": "Categoria inválida retornada pelo Gemini: Sociedade"
     },
     {
-      "id": "a80704e8-2ecc-4ee8-9662-f48198304da7",
-      "title": "Reino Unido sinaliza abertura para entrada da Alemanha no programa de caças GCAP",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "b456c9eb-6ad3-43f5-a86e-9d97c5160a6c",
-      "title": "Gastos das famílias no Japão caem novamente apesar do aumento de salários",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "20c89d42-01c6-4b5f-8f8e-de89bfb16bc0",
-      "title": "França envia milhares de professores para conter protestos estudantis e acalmar escolas",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "760e3caa-a68b-497a-9ea2-88d554322780",
-      "title": "China anuncia candidatura para a liderança da Organização Mundial da Saúde",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "999e3422-80e8-45de-aea4-e73a9f090bae",
-      "title": "Line plane se tornar um aplicativo de IA cotidiano na Tailândia",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "5b4423a3-3431-42f2-81b0-ae45162a61fb",
-      "title": "Apple Watch Series 12: análise foca em inteligência de saúde e dados profundos",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "239cac81-c6fa-4ca0-8dd1-982559354809",
-      "title": "Mercado de redes corporativas na Europa volta a crescer com o fim de estoques pandêmicos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e00f1fea-1d77-4a34-b919-fcb4bcf465af",
-      "title": "Inpaq reestrutura cúpula diretiva e elimina cargo de CEO",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "3f5ebc45-3531-42dc-b8f6-d0229ba2d814",
-      "title": "Formosa Smart Energy e CXIT unem forças para expansão de data centers de IA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "06c433e3-465c-4469-aefa-d4da76575342",
-      "title": "WinWay Ultrapassa Marca de 10 Bilhões de Dólares Taiwaneses em Receita Impulsionada por Demanda de IA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "0d50b89e-3202-482f-a13f-76d5da559fae",
-      "title": "Advantech ultrapassa US$ 1 bilhão em receita no terceiro trimestre impulsionada por IA de borda",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "3762b4cb-a292-4d32-8c23-07815caadccf",
-      "title": "Ample Electronic registra queda na receita de setembro, mas demanda por componentes passivos segue forte",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e7afab72-73b6-4486-9528-a44bde2bafb0",
-      "title": "Innodisk e Apacer registram crescimento de receita em setembro de 2026 impulsionadas por IA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "7c954592-98d8-471a-90f5-2e950375ec76",
-      "title": "Applied Materials e Intel unem forças para superar gargalos de chips de IA com embalagem Foveros 3D",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "435de88d-4e25-436a-a310-ecb93b3400f3",
-      "title": "Entrevista: Como a previsão por IA e o agendamento de energia elevam o nível para vendedores de energia verde",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "d7e535dc-e53a-4bc7-a5c0-300a596a3f7b",
-      "title": "Samsung avança no mercado de IA com aprovação da memória HBM4E pela NVIDIA",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "d4f815f0-4e76-4efe-8d4f-965822132d8b",
-      "title": "Workman lança bolsa casual impermeável por 2.900 ienes com foco em proteção contra intempéries",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "8024d7a5-f1bf-4ece-a6dd-1f19eabc2d89",
-      "title": "Sony Anuncia o Microfone Espacial ECM-AX10 para Smartphones com Conexão USB Type-C",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "e2e23d49-a99e-4989-9919-fc54a485b33a",
-      "title": "Vazamento de dados no Big Echo: Incidentes de segurança expõem informações pessoais de 8,72 milhões de usuários",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "785d9a37-30e8-48ea-afb6-d07e09bf302d",
-      "title": "Amazon renova linha de hardware e anuncia a chegada do Amazon Alexa Tablet e modelos infantis ao Japão",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "58a349da-56a5-4317-86b3-d6ea57e8efe8",
-      "title": "JPCERT emite alerta sobre aumento de acessos não autorizados e aponta tendências de ataques no Japão",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "2c7ab075-74d6-47b8-9b32-70bf8c5ec566",
-      "title": "MSI Anuncia o Prestige N16 Flip AI+: Notebook 2in1 de 16 Polegadas Focado em IA Local com Lançamento Previsto para Outubro",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "276cb235-83bf-4f80-b4e3-b7a2276e8ec8",
-      "title": "A nova série policial Lanterns da HBO Max destaca-se por elenco de alto nível e sucesso em 2026",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "84bd7cfe-7a5c-4cc2-ab4d-4945f801feac",
-      "title": "Black Clover: Data e horário de lançamento do segundo episódio da segunda temporada",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "d716f6f7-97d4-4a00-9216-9226c9aadd43",
-      "title": "Spider-Man: Brand New Day e a Sombra da Tragédia de Jean DeWolff",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "d88c8000-3dff-4337-9cd8-0fc1d71c3cd2",
-      "title": "DC anuncia novo quadrinho focado em Hal Jordan mais velho e endurecido",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "0dd07f0c-8447-402c-babc-d6df614c0e21",
-      "title": "6 recomendações de séries de fantasia para maratonar em apenas um fim de semana",
+      "id": "7a562d9f-2102-41db-a51c-e27d7294e46f",
+      "title": "Novo filme da Apple TV reconta a história do Everest sob a perspectiva de Tenzing Norgay",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
@@ -219,12 +219,6 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "539744ba-080c-442c-b015-38d91d590400",
-      "title": "Netflix renova revival de \"A Different World\" para a segunda temporada após sucesso de público e crítica",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
       "title": "“Coven Academy” ending explained: Messy love triangles and shocking deaths give Disney’s new YA series edge",
       "status": "error",
@@ -232,15 +226,21 @@
     },
     {
       "id": "f4b167d0-9c90-471f-830d-2b99f0b7b5ef",
-      "title": "&#8216;Lady&#8217; Review: Sian Clifford Lords It Over a Daffy English Class Satire",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "title": "Crítica de 'Lady': Sian Clifford brilha em sátira sobre a aristocracia britânica",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "072e08ec-2192-4f31-aa75-3e5b0947903b",
       "title": "&#8216;The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries &#038; Platino Industria (EXCLUSIVE)",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
+      "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
