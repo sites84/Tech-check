@@ -1,17 +1,60 @@
 {
-  "generated_at": "2026-10-09T00:58:54.867Z",
-  "html_files_scanned": 1678,
+  "generated_at": "2026-10-09T01:15:12.514Z",
+  "html_files_scanned": 1679,
   "articles_in_database": 1000,
   "unique_news_articles": 939,
   "duplicate_news_articles_excluded": 61,
-  "news_pages_in_sitemap": 939,
-  "main_sitemap_urls": 998,
+  "news_pages_in_sitemap": 932,
+  "main_sitemap_urls": 991,
   "evergreen_sitemap_urls": 40,
   "issues": {
-    "missing_news_page": [],
+    "missing_news_page": [
+      {
+        "id": "9257f2b9-2360-4739-9035-01cba44979d0",
+        "title": "Maduro enfrenta nova acusação de tortura contra cidadãos norte-americanos sob custódia",
+        "slug": "maduro-faces-new-charge-of-torturing-u-s-citizens-in-custody-1791508452541",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "053b8b89-d72d-4e4f-9e73-34e5f6ea47bc",
+        "title": "Eternally Yours estreia na CBS e demonstra potencial para conquistar o público",
+        "slug": "eternally-yours-has-the-potential-to-be-cbs-s-worthy-ghosts-replacement-review-1791508439246",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "34e3e30c-4a5b-402f-98e9-9b5308e3ed13",
+        "title": "HBO confirma série de TV continuação de Podres de Ricos com retorno do elenco e previsão de produção",
+        "slug": "hbo-officially-confirms-long-awaited-sequel-series-to-239m-hit-with-returning-ca-1791508440052",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "eef3fb15-8054-4423-adcd-30ab861e27eb",
+        "title": "Amazon oferece descontos expressivos em notebooks gamer de marcas como ASUS e GIGABYTE",
+        "slug": "geforce-rtx-5070-6-1791508445527",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "2cc8f2db-6316-496f-af45-8f1023aa68e5",
+        "title": "Atualização de The Witcher 3 Remastered para Switch 2 trará melhorias de nitidez",
+        "slug": "witcher-3-remastered-switch-2-update-to-improve-image-clarity-and-sharpness-1791508442713",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "397d9d36-a097-4f22-ad8f-c1b1b295507f",
+        "title": "Bookoff sofre acesso não autorizado e vaza até 6,43 milhões de dados pessoais de clientes",
+        "slug": "itmedia-news-643-1791508447256",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "080cd95e-024b-4f82-86ee-45a8006d7bf4",
+        "title": "Elvis Presley retorna como fantasma em espetáculo de teatro Noh em Tóquio",
+        "slug": "elvis-comes-back-as-a-ghost-in-a-noh-theater-play-1791508453459",
+        "reason": "HTML não encontrado"
+      }
+    ],
     "news_noindex": [],
     "news_canonical_mismatch": [],
-    "no_canonical": 1,
+    "no_canonical": 2,
     "noindex": 17,
     "alias_or_nonself_canonical": 0
   },
