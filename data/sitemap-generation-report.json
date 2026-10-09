@@ -1,14 +1,33 @@
 {
-  "generated_at": "2026-10-09T17:10:16.446Z",
+  "generated_at": "2026-10-09T17:27:29.875Z",
   "html_files_scanned": 1188,
   "articles_in_database": 1000,
   "unique_news_articles": 938,
   "duplicate_news_articles_excluded": 62,
-  "news_pages_in_sitemap": 938,
-  "main_sitemap_urls": 997,
+  "news_pages_in_sitemap": 935,
+  "main_sitemap_urls": 994,
   "evergreen_sitemap_urls": 40,
   "issues": {
-    "missing_news_page": [],
+    "missing_news_page": [
+      {
+        "id": "5bbb73b5-5463-4b4c-be95-855b8b2ce8da",
+        "title": "A Corrida por Domínios .si Dispara Após Trump Rebatizar Inteligência Artificial",
+        "slug": "trump-s-super-intelligence-ai-rebrand-triggers-rush-on-si-domain-names-1791566811477",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "b8c137f7-a546-4eee-9d6c-dd45535cb28b",
+        "title": "Prêmio Nobel Navi Pillay classifica sanções contra juízes do TPI como chocantes",
+        "slug": "nobel-laureate-pillay-calls-sanctions-on-icc-judges-shocking-1791566810859",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "34f85531-e332-4a06-a1ec-946634ff4fec",
+        "title": "Investir para o futuro está deixando alguns japoneses 'falidos pelo NISA'",
+        "slug": "saving-for-the-future-is-making-some-investors-nisa-broke-1791566812324",
+        "reason": "HTML não encontrado"
+      }
+    ],
     "news_noindex": [],
     "news_canonical_mismatch": [],
     "no_canonical": 2,
