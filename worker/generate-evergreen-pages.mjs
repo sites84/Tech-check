@@ -110,7 +110,7 @@ async function writeLegacyRedirects(folder, canonicalSlug, item, canonicalUrl) {
 }
 
 async function main() {
-  const items = await api('tech_evergreen_content?active=eq.true&select=id,content_type,title,summary,content,image_url,image_url_2,sort_order,created_at&order=content_type.asc,sort_order.asc&limit=1000');
+  const items = await api('tech_evergreen_content?active=eq.true&select=id,content_type,title,summary,content,image_url,image_url_2,sort_order,published_at,created_at&order=content_type.asc,sort_order.asc&limit=1000');
   const supported = items.filter(x => ['curiosity', 'fundamental', 'tutorial', 'comparison'].includes(x.content_type));
   const grouped = {
     curiosity: supported.filter(x => x.content_type === 'curiosity'),

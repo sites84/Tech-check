@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-10-09T03:37:36.279Z",
+  "generated_at": "2026-10-09T04:17:17.835Z",
   "html_files_scanned": 1679,
   "articles_in_database": 1000,
-  "unique_news_articles": 949,
-  "duplicate_news_articles_excluded": 51,
-  "news_pages_in_sitemap": 870,
-  "main_sitemap_urls": 929,
+  "unique_news_articles": 947,
+  "duplicate_news_articles_excluded": 53,
+  "news_pages_in_sitemap": 866,
+  "main_sitemap_urls": 925,
   "evergreen_sitemap_urls": 40,
   "issues": {
     "missing_news_page": [
+      {
+        "id": "d5b0daec-4f1a-4ced-88bf-e845453628c3",
+        "title": "HD Hyundai Marine Solution compra a Goltens por 247 milhões de dólares",
+        "slug": "hd-hyundai-marine-solution-to-acquire-goltens-for-247-million-1791519402051",
+        "reason": "HTML não encontrado"
+      },
+      {
+        "id": "88d9a57b-1fa6-4f12-b706-3341ce917aad",
+        "title": "Lumentum está com componentes para servidores de IA esgotados até 2029",
+        "slug": "nvidia-backed-lumentum-sold-out-of-ai-server-parts-till-2029-1791519404535",
+        "reason": "HTML não encontrado"
+      },
       {
         "id": "6d1e9bfc-989e-4e62-8209-0b65f6669b4f",
         "title": "Taliban enfrentam risco de guerra civil após fracasso da mediação da China entre Afeganistão e Paquistão",
@@ -491,6 +503,8 @@
     "alias_or_nonself_canonical": 0
   },
   "duplicate_article_ids_sample": [
+    "9e941db9-dd96-4c38-abf9-f5d0b525f17a",
+    "56f8f220-874e-4650-8764-3888561b1fcd",
     "c970b036-453d-4102-9052-c242b41e4dcc",
     "48c141db-c170-44cc-8aec-d14416516224",
     "631af936-b462-45a7-beaa-8986615b381d",
@@ -518,8 +532,6 @@
     "ceb96298-ce47-4d9b-a372-2814bd056a64",
     "3835c82f-928f-4865-8b59-4bbe27ab15d7",
     "32b1bac2-ccf4-490f-a12c-133cf81e984f",
-    "e4485651-3d11-4b64-80f3-e29fd18e295f",
-    "add3969e-dfd7-4672-96c1-48fad57b543d",
-    "23a6cdce-3acf-4a99-b96e-642456be4a32"
+    "e4485651-3d11-4b64-80f3-e29fd18e295f"
   ]
 }
