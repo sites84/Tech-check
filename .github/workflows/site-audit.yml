@@ -18,6 +18,37 @@ jobs:
           path: https://sites84.github.io/Tech-check/
           recurse: true
           timeout: 10000
+      - name: Validar robots, sitemap e páginas evergreen
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE='https://sites84.github.io/Tech-check'
+          curl -fsSL "$BASE/robots.txt" -o /tmp/robots.txt
+          grep -F "$BASE/sitemap.xml" /tmp/robots.txt
+          grep -F "$BASE/sitemap-evergreen.xml" /tmp/robots.txt
+          curl -fsSL "$BASE/sitemap.xml" -o /tmp/sitemap.xml
+          curl -fsSL "$BASE/sitemap-evergreen.xml" -o /tmp/sitemap-evergreen.xml
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const base='https://sites84.github.io/Tech-check';
+          const xml=fs.readFileSync('/tmp/sitemap-evergreen.xml','utf8');
+          const urls=[...xml.matchAll(/<loc>(.*?)<\\/loc>/g)].map(m=>m[1].replaceAll('&amp;','&'));
+          if(urls.length<10) throw new Error('Sitemap evergreen vazio ou incompleto: '+urls.length+' URLs');
+          if(new Set(urls).size!==urls.length) throw new Error('Sitemap evergreen contém URLs duplicadas');
+          for(const url of urls){
+            if(!url.startsWith(base+'/')) throw new Error('URL fora do site no sitemap: '+url);
+            const response=await fetch(url,{redirect:'follow'});
+            if(!response.ok) throw new Error('URL do sitemap retornou '+response.status+': '+url);
+            const html=await response.text();
+            const canonical=html.match(/<link\\s+rel=["']canonical["']\\s+href=["']([^"']+)["']/i);
+            if(!canonical) throw new Error('Canonical ausente: '+url);
+            if(new URL(canonical[1]).href.replace(/\\/$/,'')!==url.replace(/\\/$/,'')) throw new Error('Canonical diferente da URL: '+url+' -> '+canonical[1]);
+            if(!/<h1\\b/i.test(html)) throw new Error('H1 ausente: '+url);
+            const css=[...html.matchAll(/<link[^>]+rel=["']stylesheet["'][^>]+href=["']([^"']+)["']/gi)].map(m=>new URL(m[1],url).href);
+            for(const cssUrl of css){const cr=await fetch(cssUrl,{redirect:'follow'});if(!cr.ok)throw new Error('CSS quebrado '+cr.status+': '+cssUrl);}
+          }
+          console.log('Sitemap evergreen validado: '+urls.length+' URLs, canonicals/H1/CSS OK.');
+          NODE
       - name: Validar HTML5 das páginas públicas principais
         shell: bash
         run: |
@@ -26,6 +57,10 @@ jobs:
             'https://sites84.github.io/Tech-check/' \
             'https://sites84.github.io/Tech-check/curiosidades/' \
             'https://sites84.github.io/Tech-check/historia-da-tecnologia/' \
+            'https://sites84.github.io/Tech-check/tutoriais/',
+            'https://sites84.github.io/Tech-check/tutoriais/175-como-liberar-espaco-no-google-drive-gmail-e-google-fotos/',
+            'https://sites84.github.io/Tech-check/comparativos/',
+            'https://sites84.github.io/Tech-check/comparativos/185-iphone-17-vs-galaxy-s26-qual-e-melhor-para-voce/',
             'https://sites84.github.io/Tech-check/404.html'; do
             echo "Validando $url"
             curl -fsSL --retry 2 --get 'https://validator.w3.org/nu/' \
@@ -54,6 +89,10 @@ jobs:
               'https://sites84.github.io/Tech-check/',
               'https://sites84.github.io/Tech-check/curiosidades/',
               'https://sites84.github.io/Tech-check/historia-da-tecnologia/'
+              ,'https://sites84.github.io/Tech-check/tutoriais/'
+              ,'https://sites84.github.io/Tech-check/comparativos/'
+              ,'https://sites84.github.io/Tech-check/tutoriais/175-como-liberar-espaco-no-google-drive-gmail-e-google-fotos/'
+              ,'https://sites84.github.io/Tech-check/comparativos/185-iphone-17-vs-galaxy-s26-qual-e-melhor-para-voce/'
             ]){
               await page.goto(url,{waitUntil:'networkidle',timeout:30000});
               await page.waitForTimeout(1000);
