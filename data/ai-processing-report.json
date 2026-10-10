@@ -1,59 +1,41 @@
 {
-  "updated_at": "2026-10-10T18:26:15.442Z",
+  "updated_at": "2026-10-10T18:43:41.761Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "8c09dbcd-b174-4073-a7d0-28648f418f1f",
-      "title": "Projeto de caça trilateral entre Reino Unido, Japão e Itália terá centro de design com cerca de mil funcionários no Japão",
+      "id": "cddc4260-c99b-4e73-af9b-6dddea3c606d",
+      "title": "Avatar: Seven Havens co-creator and EP explain the show's new animation style, say they wanted to make an “old school anime”",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "e4c52b64-4585-44f0-8441-43f127c7cb3c",
+      "title": "Walmart nega planos de praticar preços personalizados apesar de patentes registradas",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "896b8ca9-5e23-4287-a77e-56c8e7c69b24",
-      "title": "Primeira-ministra do Japão, Sanae Takaichi, busca afastar rótulo de reflacionista em meio a pressões de mercado e dos Estados Unidos",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "9a77b49b-f001-4d76-b4f9-5cea226b8263",
-      "title": "Elon Musk visa cobertura total de celulares nos Estados Unidos após avanço da SpaceX",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "c1d22937-535f-4fb4-9ac7-6644a63dd088",
-      "title": "Nova expansão de Risk of Rain 2 estreia com análises \"Muito Positivas\" no Steam",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "d67d67e1-c544-46b0-b609-9d119110ba20",
-      "title": "Nicolas Cage confirma que vai estrelar a quinta temporada de True Detective",
+      "id": "5f7535db-feda-4ec7-acb2-e54dc47a97d2",
+      "title": "Após 15 Anos, DC Apresenta Versão Fiel aos Quadrinhos de Lanterna Verde",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "234a2d7f-c7b8-4df3-a6f2-8ef1ff74d662",
-      "title": "James Bond vai retornar em nova série de quadrinhos escrita por Grant Morrison",
-      "category": "Games",
+      "id": "694d419c-c3d7-430f-86b1-548ae9846905",
+      "title": "O Maior Desafio de Escalação da Adaptação de Fourth Wing Não São os Humanos",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "2b929cc8-1dd3-4e5a-b71c-b671cfe19d29",
-      "title": "Trabalhadores fingem usar inteligência artificial para impressionar chefes, aponta pesquisa",
-      "category": "Empresas",
+      "id": "6d3dc9f7-87b4-4608-a899-9ba550b598d7",
+      "title": "Executiva da Universal aborda a janela de lançamento da adaptação televisiva de Dungeon Crawler Carl",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
-      "id": "b6add5ec-25c4-40f5-805f-db2e28a9bf93",
-      "title": "Streamer chinesa cobra 7,50 dólares de espectadores para girar sua cadeira em transmissão ao vivo",
-      "category": "Internet",
-      "status": "review"
-    },
-    {
-      "id": "d14931d3-16cd-4a5f-bc97-12f3528efbe0",
-      "title": "PCs com Windows com certificados desatualizados deixarão de receber atualizações de segurança",
-      "category": "Computadores",
+      "id": "7061b193-b997-4342-967d-79d7d518f4db",
+      "title": "Como consultar rapidamente as informações de garantia do seu Samsung Galaxy",
+      "category": "Smartphones",
       "status": "review"
     },
     {
@@ -63,51 +45,9 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "c4eee9cd-d212-4c8f-9c5c-9863be5cd522",
-      "title": "Ray Gunn: Novo filme animado de Brad Bird para a Netflix traz energia de Os Incríveis para o universo noir",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "b8ab7851-b88c-4827-a0b4-c8f9dcba9729",
-      "title": "Contas de empresas LGBTQ+ e plus-size no Instagram são banidas e geram alertas sobre moderação por IA",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "0922124c-a3ca-451b-9b28-50d6c8de4323",
-      "title": "Inteligência artificial da Anthropic envia pista falsa sobre homicídio à polícia",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "4efd72f1-662e-40f4-81fe-ec2ea73b038a",
-      "title": "Pips do New York Times: dicas e respostas para o dia 10 de outubro de 2026",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "0e0f4928-6f77-401b-9626-2cedb3f6e44f",
-      "title": "NYT Connections Sports Edition de 10 de outubro de 2026: dicas e respostas",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "7c7ed5da-45c9-425d-973c-879a669b3bae",
-      "title": "Abbott Elementary garante futuro de cinco anos e desafia a crise das comédias na TV",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "c4452ae8-f312-4dfc-a1f3-6ecef1ba3803",
-      "title": "Marvel Shares First Look At New Beast Design For X-Men's Reboot",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comics"
-    },
-    {
-      "id": "038a8163-51ca-425d-bd41-0436eae62577",
-      "title": "10 obras-primas subestimadas da DC Comics que todo fã deveria ler",
-      "category": "Games",
+      "title": "Marvel revela novo visual drástico do Fera para a iniciativa Midnight X-Men",
+      "category": "Filmes, Séries e Animações",
       "status": "review"
     },
     {
@@ -123,16 +63,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "439319cf-dde6-4eee-99d0-d68e2a66bccb",
-      "title": "Grave Mistakes mistura a loucura de Overcooked com o humor sombrio de Graveyard Keeper",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "2e7e7231-d42e-46fa-bef6-edf60466e17a",
-      "title": "Recasting Twin Peaks For 2026: All 16 Main Characters",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "E se Twin Peaks fosse produzida hoje? Exercício de escalação imagina elenco para 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
     },
     {
       "id": "78768522-8878-40b8-9702-0b0398d16b06",
@@ -141,28 +75,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "3bf7ee40-9216-4907-b5a8-e8c0ac88c856",
-      "title": "Coleção de Crocs de Chainsaw Man traz detalhes tridimensionais e armas físicas",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "5a6b5928-6cbd-4905-ad15-7efb370cfa95",
       "title": "Boston Blue's Season 2 Story Timeline After Major Cliffhanger Ending Officially Confirmed",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "77295b92-3dc2-42e0-bab4-fc5591ec8ba7",
-      "title": "Reina, de Tekken 8, é anunciada oficialmente como lutadora de Fatal Fury no PS5",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "7d0aae29-a49c-4edd-811b-7852800caa69",
-      "title": "Estimativas fracas de vendas de Gears of War: E-Day geram debates sobre cancelamento no PS5",
-      "category": "Games",
-      "status": "review"
     },
     {
       "id": "87f5b4b5-d058-417f-8632-6f7d11d2f95b",
@@ -171,15 +87,99 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "efc3969b-f685-4a7a-ae77-18b2e65d718d",
-      "title": "Como mudar a aparência da armadura em Dragon's Dogma 2: Dark Arisen",
+      "id": "50f81622-dc2d-464c-a82a-b1273b66af5d",
+      "title": "A fusão entre Warner Bros. e Paramount e o futuro sob o comando da Skydance",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "826b5a00-9545-446c-be2d-4a09ec99ea6c",
+      "title": "Anthropic corta acesso à internet em avaliações internas de IA após incidentes",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "706ff7c4-7eca-4758-a89f-df4bbcffbe8a",
+      "title": "Astro do K-pop Sunmi revela sua relação com a tecnologia em entrevista exclusiva",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "43baa37b-a52e-45c6-a5c7-dcb3143af42b",
+      "title": "Carteiras Ledger sofrem com roubos de criptomoedas após suspeita de adulteração em revendedora",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "920d28bf-bd47-44f1-bd30-a40b10c71746",
+      "title": "Como cuidar da dobradiça do seu smartphone dobrável para evitar prejuízos",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "44f99baf-b9d8-4be7-90f4-221f4bb7a13c",
+      "title": "Como alterar e gerenciar seu endereço residencial no Google Maps",
+      "category": "Internet",
+      "status": "review"
+    },
+    {
+      "id": "c7e5e71e-f438-4bed-ba23-8661d3fb230c",
+      "title": "Por que sua caixa de som inteligente não entende você (e como resolver)",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "7bb54fde-01e3-4e59-aed9-961f5f250d20",
+      "title": "5 recursos do Samsung Galaxy que você deve usar após atualizar para a One UI 9",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "3c52c5a8-091e-4ebd-ad64-47a3788dbec9",
+      "title": "Como Xiaomi, Oppo e outras marcas desafiam o novo iPhone Duo",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "0a7e385b-e525-4338-a561-125275e15f92",
+      "title": "GameStop cobra US$ 500 acima do preço sugerido pelo PS5 Pro em meio à escassez global",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "df56bab8-1dc2-4786-92a6-5de3655e9eab",
-      "title": "Como completar a missão \"Hal's Treasure Hunt\" em Dragon's Dogma 2: Dark Arisen",
-      "category": "Games",
+      "id": "9ddca9f2-8f05-4c89-84f8-94100bf1c8cf",
+      "title": "Como redefinir sua TV Samsung: guia completo para resolver falhas e travamentos",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "f1fbda15-458d-4741-ab69-3ba493bbde89",
+      "title": "Anthropic revela que seus agentes de IA tentaram invadir sites governamentais",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "248e375c-bb22-4685-92a3-b9ac16676dea",
+      "title": "O que é o ray tracing nos jogos e ele realmente faz diferença?",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "ca93427b-3c4e-476b-8a28-81cbec5e2cca",
+      "title": "Conheça os principais agentes de IA que vivem direto nas suas mensagens de texto",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "e4dda688-e373-44e7-8951-f68cd3f6ec1b",
+      "title": "Falta pouco para o TechCrunch Disrupt 2026: descubra as startups antes de virarem febre",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "5aa7586c-0877-49c2-b971-8b25e3702915",
+      "title": "Cloudflare compra a Deno para aprimorar seu modelo de programação do Workers",
+      "category": "Empresas",
       "status": "review"
     },
     {
