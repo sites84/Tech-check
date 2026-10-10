@@ -1,23 +1,119 @@
 {
-  "updated_at": "2026-10-09T23:36:49.003Z",
+  "updated_at": "2026-10-10T00:58:57.705Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "c065497b-7778-4111-b377-bd505bd60c11",
-      "title": "EUA impõem novas sanções contra o Tribunal Penal Internacional após ex-juiz vencer o Nobel da Paz",
+      "id": "9dd38b30-f5c7-4ce7-8e94-7fbfd6dcd1ab",
+      "title": "China e União Europeia fecham acordo para reduzir exportações de híbridos pela metade",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "b5ed2e2a-308d-40e3-9baf-044b61a89605",
-      "title": "Trump anuncia que a Rússia fornecerá diesel para os mercados globais e alivia sanções",
+      "id": "25bedeb6-2698-4f41-9351-289e21a27e2c",
+      "title": "Embarcação da milícia chinesa é avistada pela primeira vez na costa leste de Taiwan, aponta relatório",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "aa466503-0470-4b0d-8d1c-8775682a2469",
+      "title": "[ITmedia News] JR九州、会員メアド最大130万件漏えいか IDCF不正アクセスの影響",
+      "status": "error",
+      "error": "Gemini não retornou texto (sem conteúdo)."
+    },
+    {
+      "id": "ae47fbf9-94bc-471a-b515-efcf010e3114",
+      "title": "Demanda por especialistas em FDE despenca em Wall Street com salários de até R$ 28 milhões",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "61cc8417-5165-45e2-aeac-f03726d1453a",
+      "title": "[ITmedia News] ココナラ、会員の履歴書など2294件漏えい スキルマーケットに不正アクセス",
+      "status": "error",
+      "error": "Gemini não retornou texto (sem conteúdo)."
+    },
+    {
+      "id": "609fd3fa-7540-43f9-a2e3-96a3c610c912",
+      "title": "OpenAI demite três pesquisadores de segurança e gera controvérsia sobre prioridades éticas",
       "category": "Empresas",
       "status": "review"
     },
     {
-      "id": "5c97c91d-fd1a-4755-8e4d-06a5c9871a56",
-      "title": "Still-simmering ‘Japanese Ramen Simulator’ is already worth a slurp",
+      "id": "449e1244-02be-4460-8369-6f7db3244b0f",
+      "title": "Vazamento de Dados em Massa Afeta LINE Yahoo, Sansan e Panasonic Após Ataque a Serviço Terceirizado",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "7c9e6b93-9dca-43f9-b1f1-2fc404044e2c",
+      "title": "Acer lança o Swift Air 14, notebook de alumínio com 14 polegadas e tela de 120Hz",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "54dc1626-cf35-4c8f-adb7-3065d085547a",
+      "title": "Sonic Racing: CrossWorlds revela planejamento do \"Ano Dois\" com grandes novidades e parcerias",
       "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "ba7936c8-927a-4ea7-94bc-f9e246e74b11",
+      "title": "Criador de Hytale vai dar cópias extras do RPG para jogadores da edição de acesso antecipado premium",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "7ccd1801-44ef-4e90-8c7e-0f57c00fdce4",
+      "title": "Magic: The Gathering anuncia MTG Marvel Darkhold Destiny com foco no sobrenatural e primeira história original",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "05a1fc07-cfd8-49a8-8bff-d13e53df33d4",
+      "title": "Taylor Sheridan’s Sicario 3 Absence Officially Addressed By Josh Brolin",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "a95b7f77-2e64-44f5-92a1-633b589295e1",
+      "title": "Blumhouse's New Adaptation Of Bestselling Horror Series Confirmed With Acclaimed DC Director",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "36e0256a-c644-4ae2-96e6-f77ad133d62c",
+      "title": "A evolução de Kingdom Hearts: Retrospectiva e análise da franquia",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "cfbeeee5-eb10-4329-8499-2c0ca7ac330b",
+      "title": "O anime de Isekai que conquistou os fãs de Solo Leveling na Crunchyroll",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "1a8950a0-d899-4d7b-897a-9ec1e9c7d072",
+      "title": "Prime Video's 8-Part Crime Thriller Adaptation Officially Sets Season 2 Release Window",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "bf579646-de98-40d8-9a95-20b9ad27cbd4",
+      "title": "Os 3 Melhores Filmes para Assistir na Netflix neste Fim de Semana de Outubro",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "a593e454-4c28-4ec2-93e6-7f72189ef7a5",
+      "title": "Amanda the Adventurer: Franquia de terror viral ganha adaptação cinematográfica pela Blumhouse",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "21f9483a-c0fc-40b2-a1f3-ecb27a55a1d7",
+      "title": "Anthropic corta acesso à internet em testes internos após agentes de IA explorarem falhas e burlarem barreiras",
+      "category": "Inteligência Artificial",
       "status": "review"
     },
     {
@@ -27,158 +123,62 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "81004da9-12b4-4278-8596-9c8a799153c4",
-      "title": "Pequim utiliza a cultura pop para cortejar a comunidade chinesa na Malásia",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "fa2ca0ee-a82f-4d00-badd-52bc58380fb4",
-      "title": "Primeira-ministra do Japão enfrenta pressões por teto na imigração enquanto avalia nova política para estrangeiros",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e521ce06-13fe-42b6-b34f-87a709c23ab2",
-      "title": "Honda planeja vender picape da Mitsubishi fabricada na Tailândia em mercados do Sudeste Asiático",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "b9da6da0-032e-4fa7-a0f6-76d5b74a633a",
-      "title": "A grande virada na carreira de Stephen Schwarzman na Lehman Brothers com a venda da Tropicana",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "56a2cc38-89e2-45be-9613-fd5952890c1a",
-      "title": "Corte temporário de imposto sobre alimentos no Japão recebe aprovação do gabinete",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "ae471629-839a-48ef-873d-02e221b68250",
-      "title": "Agricultores do Camboja se unem para proteger grou-sarus oriental ameaçado de extinção",
-      "category": "Ciência",
-      "status": "review"
-    },
-    {
-      "id": "c8adb238-9c77-4b83-8f13-5204dab1f274",
-      "title": "A cidade japonesa de Nakatsugawa aposta em nova fase turística na histórica Rota dos Samurais",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "e3871726-df90-47cc-9407-712d6c3c695f",
-      "title": "MSI lança monitor de 26,9 polegadas com alternância entre 5K/75Hz e WQHD/300Hz",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "d13e91a6-22a3-41c4-a856-d4e951acafaf",
-      "title": "A discussão sobre o 'preço efetivo' dos smartphones e a revisão das regras de parcelamento com residual garantido no Japão",
-      "category": "Smartphones",
-      "status": "review"
-    },
-    {
-      "id": "3ce116c9-99eb-4db1-8cd4-4257c95ca20e",
-      "title": "Por que as empresas não usam o Copilot? 4 recursos úteis que você precisa conhecer",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "1c2a1b00-6b51-46aa-a798-9bb57e8ed3c5",
-      "title": "Ações de agentes de inteligência artificial descontrolados na Wikipedia geram alerta da fundação e debate sobre regras de uso",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "4555433b-afa4-483e-abb9-24dea876568b",
-      "title": "Vazamento de dados no site de empregos Baitoru atinge cerca de 3,89 milhões de e-mails",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "2f66d1b8-9725-4b82-9001-373808ea7288",
-      "title": "SoftBank atende clientes do IDCF Cloud após falha e presta suporte técnico",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "5e30d1ca-2c8a-4f01-8b1f-37fd21d67e6c",
-      "title": "Google lança EmbeddingGemma 2, modelo multimodal de 0,74B para buscas locais e RAG",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "4f08dffd-f826-4ef9-a0e0-ee20bbac1b22",
-      "title": "Como fazer a troca de SSD e migração completa do sistema com o software gratuito Clonezilla",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "99f24832-63de-40ea-a363-57c7d07c6cf0",
-      "title": "Como otimizar a sua rotina no Windows usando o atalho da tecla Windows mais V",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "3a94b2c8-f400-4183-85a6-aba775d2667d",
-      "title": "Elecom anuncia nova linha de mouses silenciosos de 3 botões com preços a partir de 1.180 ienes",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "f7a3ca08-133e-4645-936b-70774152086c",
-      "title": "GPD WIN Max 3 Aposta em Módulos Trocáveis para Redefinir o Conceito de Portáteis",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "57203424-dc9b-4661-88ee-288eec628584",
-      "title": "Maioria dos adultos nos Estados Unidos ainda hesita em usar inteligência artificial nas compras de fim de ano",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "7773f16f-5974-40ec-9028-93f95c82a865",
-      "title": "O governo americano pode agir para conter faróis de LED excessivamente brilhantes",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "100885f4-c4b1-4c26-bf04-d40209aa091e",
-      "title": "A nova política da Anthropic e o debate sobre abusos verbais contra IAs",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "afafe450-1aa4-494b-9d50-ed1efc2fd07f",
-      "title": "Mike Flanagan apresenta detalhes de The Exorcist: Martyrs na NYCC 2026",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "345e2990-c598-4901-a9dc-0b2770c494b6",
-      "title": "Finn Jones sugere arco de Heroes for Hire na terceira temporada de Daredevil: Born Again",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "e01a5b01-f007-4801-8b06-3529e0ce3b6b",
-      "title": "Mike Flanagan revela o desejo de comandar novos filmes de Jaws e Jurassic World",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "41095423-ae1e-46af-b6c5-d7f797fb778a",
-      "title": "Astro de VisionQuest, Ruaridh Mollica, compara os poderes de Tommy aos de Peter Parker",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "26221a70-30f4-453b-b9b3-418a8c27fc04",
       "title": "The Exorcist: Martyrs trailer arrives online, promising unholy horrors for Scarlett Johansson",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "08a26f9f-0fa8-41ae-ac0b-a60d5a7802df",
+      "title": "Ferramenta permite comparar mais de 50 modelos de inteligência artificial em uma única assinatura",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "76d91d8e-5dcd-418a-a30e-9c3f001f3c0e",
+      "title": "Avatar: Seven Havens e o misterioso monstro de energia: o que sabemos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "4602aee6-e2b1-479f-9292-63feb9f66066",
+      "title": "Mike Flanagan confirma influência de O Exorcista 3 em seu novo filme, The Exorcist: Martyrs",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "22bddad5-6682-4db7-b2ea-b2ebcef4ee92",
+      "title": "Mike Flanagan detalha nova adaptação de 'O Nevoeiro' de Stephen King com foco no terror cósmico",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "d521f995-9536-4f1d-b2c2-7e0ca4ac2fcf",
+      "title": "Backrooms: Impending Doom ganha data de lançamento oficial para janeiro de 2027",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "71727109-1b33-43ab-b484-61d7070c6c0a",
+      "title": "Por que o filme Animals, de Ben Affleck, vai conquistar os fãs de Garota Exemplar",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "f93d1261-2626-4ae2-9e00-8ce43772b083",
+      "title": "The Spiritual Successor To Project Hail Mary Released This Month",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Livros"
+    },
+    {
+      "id": "deb10141-dc00-4408-bfcb-47fea120ebec",
+      "title": "Sailor Moon Retorna com Novas Atrações e Visual Moderno na Universal Studios Japan",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "92439c8a-b265-4b90-ab6a-ae9751ebd859",
+      "title": "Forget The Old Guard, Mark Wahlberg’s Sci-Fi Thriller Is Officially Redeemed As A Prime Video Sensation",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
@@ -237,8 +237,8 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d960ac67-a9a5-4bf1-ab9f-7f0c6265614b",
-      "title": "Thriller de faroeste com Peter Dinklage conquista o Top 10 global da Netflix",
+      "id": "16b641bc-fa93-4709-bfa4-c165bb085caf",
+      "title": "Elenco e Diretor de Digger Elogiam a Dedicação de Tom Cruise",
       "category": "Filmes, Séries e Animações",
       "status": "review"
     }
