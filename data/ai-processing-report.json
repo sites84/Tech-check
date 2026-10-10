@@ -1,186 +1,186 @@
 {
-  "updated_at": "2026-10-10T02:17:33.445Z",
+  "updated_at": "2026-10-10T07:16:05.804Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "2e1452ff-f4be-4517-925d-65ffd9a11519",
-      "title": "Forte terremoto de magnitude 7,7 atinge o Panamá, mas o país evita destruição em massa",
+      "id": "1f06be91-4e4b-4621-856d-e1fc1e10444f",
+      "title": "Vazamentos em massa de dados atingem grandes empresas japonesas",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "331a4838-9114-4057-9eba-f849134c065f",
+      "title": "Secretário do Tesouro dos EUA, Scott Bessent, não participará das reuniões do FMI e do Banco Mundial em Bangkok",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "2fa707e7-acea-47d7-83bd-678c7ced06bf",
+      "title": "Anthropic relata comportamento inusitado de IA em sistemas governamentais",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "73ba24be-f880-4434-ad0d-89449427f630",
+      "title": "A situação delicada de Sanae Takaichi com as novas sanções dos EUA contra o TPI",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "d4469376-1036-48cc-98bd-6ee84b29f932",
+      "title": "Taiwan planeja aumentar gastos com defesa para deter ameaças militares, afirma presidente",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "a295b3a8-f0fb-4ff4-9c02-b8354da3d43f",
+      "title": "Alemanha avalia entrar no projeto de caça de próxima geração GCAP com Reino Unido, Itália e Japão",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "991996cf-5be5-48d3-8e9d-1d01348b893d",
+      "title": "O Japão transforma seu sucesso acadêmico em uma próspera indústria de exportação",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "1570c70a-cd59-4713-910d-5942810d2f42",
+      "title": "Beats 360 Review | Raises the bar for premium lifestyle headphones",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Gadgets"
+    },
+    {
+      "id": "08b2a151-0174-4867-b15b-0002f341fa31",
+      "title": "Mini-PCs em Teste de IA: Apple, AMD e Intel com LLMs Locais",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "2029f292-c9d2-4ee0-844e-7f0e02ab1ffe",
+      "title": "SK Hynix envia chips de memória para o espaço para realização de testes em órbita",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "09471d19-ca64-4d79-8af6-fa4d7429b3ff",
+      "title": "EUA planejam comando militar focado em armas autônomas e drones",
+      "category": "Inteligência Artificial",
+      "status": "review"
+    },
+    {
+      "id": "a09517fd-1af6-4d64-a5f9-300a980cd2e1",
+      "title": "JNTC investe 259 milhões de dólares em substratos de vidro com foco em 2028",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "5ebcb23d-0d4f-406d-ad12-3484268b98df",
+      "title": "Samsung Electro-Mechanics avança em substratos de vidro para testes a nível de pacote",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "1598603a-41f7-48c1-9a56-4980f2db2400",
+      "title": "Memória unificada impulsiona PCs com IA enquanto modelos abertos chineses ganham força na inferência local",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "9e23ad3e-c713-4468-8d05-7ef30e19769d",
+      "title": "TPCA Show 2026 vai destacar computação de IA e palestra da Unimicron",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "5b5e8f21-9bdb-488f-9c9c-0861a6f30da2",
+      "title": "Zhen Ding registra receita recorde em setembro impulsionada por alta demanda mobile e aplicações de IA",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "33d627b9-be86-4ded-93bc-4330bf436edf",
+      "title": "Huawei enfrenta reajuste de preços diante da alta nos custos de memória",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "12401557-9144-4b71-a89a-cec651efa71a",
+      "title": "Donald Trump premia Elon Musk e Jensen Huang com Medalha Nacional de Ciência",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "9ef784be-49d3-43b2-9081-38e2434dd638",
+      "title": "Phison registra receita recorde em setembro impulsionada por inteligência artificial",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "147e6d71-339a-414f-ba05-12ca2127965e",
+      "title": "Estudo revela que cerca de metade dos casos de câncer colorretal em japoneses está ligada a toxina de bactérias intestinais",
       "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "06baf5dd-0f6f-4d81-8e4b-c3a1e7ae0a4f",
-      "title": "Oposição republicana cresce contra plano de transmissão ao vivo de execução nos Estados Unidos",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "9ec7cd29-1ed1-49d0-9c8b-afe09b0adf41",
-      "title": "Guarda Revolucionária do Irã mantém capacidade de fabricação de mísseis com alívio nos ataques",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "a7caf884-4a74-4e23-84d0-6a22d9493299",
-      "title": "EUA retiram sanções contra filha de empresário ligado aos militares de Mianmar",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "6041ee86-df2b-41a2-a85e-a16d2e7a2fc5",
-      "title": "Co-piloto da Flydubai planejou ataque suicida contra aeroporto de Tel Aviv",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "e2b06c72-9c28-424a-a7d9-4a268d037ef4",
-      "title": "Cúpula de grandes cervejarias no Japão pode ter ciência de cartel de preços",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "3782427a-8564-4c35-8b11-26c223b0fb6a",
-      "title": "Corte de impostos trará benefício de 36 mil ienes por cidadão, afirma Sanae Takaichi",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "69693ee7-9926-4e75-880b-f4c55d8ec907",
-      "title": "On Lombok island, a volcano climb worth every step",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Viagens"
-    },
-    {
-      "id": "ff9c20e6-0cfe-493c-8232-333c5312af5f",
-      "title": "Apple publica diretrizes de design de UI para o dobrável \"iPhone Duo\"",
+      "id": "6e04bd17-4ab6-4648-9085-1e71e37dc2ba",
+      "title": "A transição do serviço de roaming da Rakuten Mobile para a rede au 4G LTE",
       "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "8bf3dc05-ffbe-4545-b71f-90cc2f1db93b",
-      "title": "NIMASO lança capa protetora clara para iPhone Duo combinando alta transparência e resistência a impactos",
+      "id": "74a73b54-cf07-4711-8e26-203cfe7687ab",
+      "title": "A realidade por trás do mito: estudo revela que mulheres participam ativamente da caça em sociedades de caçadores-coletores",
+      "category": "Ciência",
+      "status": "review"
+    },
+    {
+      "id": "f57d698a-fb38-46b9-9356-91635a452d23",
+      "title": "Daiso lança carregador GaN USB de 1100 ienes com foco em portabilidade e alta potência",
       "category": "Smartphones",
       "status": "review"
     },
     {
-      "id": "fbdc7c7f-a36b-4cb3-9a39-3ffccaeb1bcb",
-      "title": "Comparativo gráfico de Dragon's Dogma 2 coloca lado a lado a versão do Switch 2 e do PS5",
+      "id": "08f25949-8616-4ff7-a942-852fe1a06671",
+      "title": "Amazon inicia pré-venda de notebook MSI com RTX Spark a partir de 1,09 milhão de ienes",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "1b38e293-cb8b-4a75-97b5-409efa0a7f66",
+      "title": "Monitores BenQ voltados para Mac entram em promoção na Amazon com descontos de até mais de 21 mil ienes",
+      "category": "Computadores",
+      "status": "review"
+    },
+    {
+      "id": "2a428e88-ba8c-4c89-a7ca-6d8232d0c829",
+      "title": "Fatal Fury: City of the Wolves anuncia colaboração com Tekken trazendo Reina",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "a64f9ac1-1d55-4436-9f0e-07463b1cc074",
-      "title": "Sheriff Country's Plot-Heavy Return Sets Up A Colossal Challenge For Morena Baccarin's Mickey | Review",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "74834801-13d2-470d-9ee7-5d840dfbc921",
-      "title": "O desafio de adaptar a frase mais famosa de Neuromancer para a série da Apple TV+",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "fa47ccc4-c48c-49d8-b955-0d8e3db1f191",
-      "title": "Crunchyroll anuncia parceria massiva para adaptar 15 webtoons para anime",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "3cef4661-9dbf-4799-8cdf-13e939d1ca03",
-      "title": "10 Supernatural Fantasy Books You Need To Read",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "51c614f4-fe51-414e-98eb-ba7dedf789bf",
-      "title": "Thriller policial de Scott Eastwood com classificação R conquista o Prime Video",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "3b451980-fc19-4806-9ab5-9c8182bb0932",
-      "title": "Por que Matchbox: The Movie é a nova franquia de ação perfeita para o diretor Sam Hargrave",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "2a05098d-4a8b-4ac7-bef7-855656388388",
-      "title": "Atualizações sobre o possível retorno de Tom Selleck como Frank Reagan em Boston Blue",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "6ff9fe8e-da37-4f23-ad13-773108d9021d",
-      "title": "5 animes imperdíveis da Crunchyroll para maratonar em um único fim de semana",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "762ced76-1031-4a72-b4c7-02cff900dd68",
-      "title": "Cinco histórias marcantes que reinventaram a Mulher-Maravilha ao longo dos anos",
+      "id": "c5149f0b-d336-4c79-af82-370910ceb754",
+      "title": "Parceria entre Fortnite e Sonic the Hedgehog deve ganhar novos conteúdos em breve",
       "category": "Games",
       "status": "review"
     },
     {
-      "id": "e62a0930-fa4d-441d-a26a-438cf377c5ab",
-      "title": "Fire Country Season 5's Action Without Believable Stakes Hurts The CBS Drama | Review",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "8d8c80f8-6543-47d1-9e10-af85522a953f",
-      "title": "Acclaimed Adult Swim Hit &#8216;Common Side Effects&#8217; Sets S2 Premiere",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "aa466503-0470-4b0d-8d1c-8775682a2469",
-      "title": "JR Kyushu sofre incidente de segurança com vazamento potencial de até 1,3 milhão de e-mails de membros",
-      "category": "Segurança",
+      "id": "1c0a1d66-7b83-47a6-b97a-0d58acec7557",
+      "title": "Fases da Lua em 10 de outubro de 2026: saiba como o satélite aparece no céu",
+      "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "61cc8417-5165-45e2-aeac-f03726d1453a",
-      "title": "[ITmedia News] ココナラ、会員の履歴書など2294件漏えい スキルマーケットに不正アクセス",
-      "status": "error",
-      "error": "Gemini não retornou texto (sem conteúdo)."
+      "id": "5ba65a94-d69a-4d73-92bd-8d54fceb0728",
+      "title": "Como assistir a Chelsea x Bournemouth na Premier League de graça e de qualquer lugar",
+      "category": "Games",
+      "status": "review"
     },
     {
-      "id": "05a1fc07-cfd8-49a8-8bff-d13e53df33d4",
-      "title": "Taylor Sheridan’s Sicario 3 Absence Officially Addressed By Josh Brolin",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "a95b7f77-2e64-44f5-92a1-633b589295e1",
-      "title": "Blumhouse's New Adaptation Of Bestselling Horror Series Confirmed With Acclaimed DC Director",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "1a8950a0-d899-4d7b-897a-9ec1e9c7d072",
-      "title": "Prime Video's 8-Part Crime Thriller Adaptation Officially Sets Season 2 Release Window",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "91f4eb73-8345-42ac-9f77-5185e6035998",
-      "title": "‘Children Untold’ shines a light on the plight of postwar orphans",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "26221a70-30f4-453b-b9b3-418a8c27fc04",
-      "title": "The Exorcist: Martyrs trailer arrives online, promising unholy horrors for Scarlett Johansson",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "f93d1261-2626-4ae2-9e00-8ce43772b083",
-      "title": "The Spiritual Successor To Project Hail Mary Released This Month",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "id": "6dff9445-ad54-4dd4-b63c-e5dfaea30508",
+      "title": "Como assistir a Augsburg x Bayern de Munique ao vivo e de graça na Bundesliga",
+      "category": "Internet",
+      "status": "review"
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
