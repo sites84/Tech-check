@@ -1,29 +1,143 @@
 {
-  "updated_at": "2026-10-10T00:58:57.705Z",
+  "updated_at": "2026-10-10T02:17:33.445Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "9dd38b30-f5c7-4ce7-8e94-7fbfd6dcd1ab",
-      "title": "China e União Europeia fecham acordo para reduzir exportações de híbridos pela metade",
-      "category": "Empresas",
+      "id": "2e1452ff-f4be-4517-925d-65ffd9a11519",
+      "title": "Forte terremoto de magnitude 7,7 atinge o Panamá, mas o país evita destruição em massa",
+      "category": "Ciência",
       "status": "review"
     },
     {
-      "id": "25bedeb6-2698-4f41-9351-289e21a27e2c",
-      "title": "Embarcação da milícia chinesa é avistada pela primeira vez na costa leste de Taiwan, aponta relatório",
+      "id": "06baf5dd-0f6f-4d81-8e4b-c3a1e7ae0a4f",
+      "title": "Oposição republicana cresce contra plano de transmissão ao vivo de execução nos Estados Unidos",
       "category": "Segurança",
       "status": "review"
     },
     {
-      "id": "aa466503-0470-4b0d-8d1c-8775682a2469",
-      "title": "[ITmedia News] JR九州、会員メアド最大130万件漏えいか IDCF不正アクセスの影響",
-      "status": "error",
-      "error": "Gemini não retornou texto (sem conteúdo)."
+      "id": "9ec7cd29-1ed1-49d0-9c8b-afe09b0adf41",
+      "title": "Guarda Revolucionária do Irã mantém capacidade de fabricação de mísseis com alívio nos ataques",
+      "category": "Segurança",
+      "status": "review"
     },
     {
-      "id": "ae47fbf9-94bc-471a-b515-efcf010e3114",
-      "title": "Demanda por especialistas em FDE despenca em Wall Street com salários de até R$ 28 milhões",
-      "category": "Inteligência Artificial",
+      "id": "a7caf884-4a74-4e23-84d0-6a22d9493299",
+      "title": "EUA retiram sanções contra filha de empresário ligado aos militares de Mianmar",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "6041ee86-df2b-41a2-a85e-a16d2e7a2fc5",
+      "title": "Co-piloto da Flydubai planejou ataque suicida contra aeroporto de Tel Aviv",
+      "category": "Segurança",
+      "status": "review"
+    },
+    {
+      "id": "e2b06c72-9c28-424a-a7d9-4a268d037ef4",
+      "title": "Cúpula de grandes cervejarias no Japão pode ter ciência de cartel de preços",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "3782427a-8564-4c35-8b11-26c223b0fb6a",
+      "title": "Corte de impostos trará benefício de 36 mil ienes por cidadão, afirma Sanae Takaichi",
+      "category": "Empresas",
+      "status": "review"
+    },
+    {
+      "id": "69693ee7-9926-4e75-880b-f4c55d8ec907",
+      "title": "On Lombok island, a volcano climb worth every step",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Viagens"
+    },
+    {
+      "id": "ff9c20e6-0cfe-493c-8232-333c5312af5f",
+      "title": "Apple publica diretrizes de design de UI para o dobrável \"iPhone Duo\"",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "8bf3dc05-ffbe-4545-b71f-90cc2f1db93b",
+      "title": "NIMASO lança capa protetora clara para iPhone Duo combinando alta transparência e resistência a impactos",
+      "category": "Smartphones",
+      "status": "review"
+    },
+    {
+      "id": "fbdc7c7f-a36b-4cb3-9a39-3ffccaeb1bcb",
+      "title": "Comparativo gráfico de Dragon's Dogma 2 coloca lado a lado a versão do Switch 2 e do PS5",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "a64f9ac1-1d55-4436-9f0e-07463b1cc074",
+      "title": "Sheriff Country's Plot-Heavy Return Sets Up A Colossal Challenge For Morena Baccarin's Mickey | Review",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "74834801-13d2-470d-9ee7-5d840dfbc921",
+      "title": "O desafio de adaptar a frase mais famosa de Neuromancer para a série da Apple TV+",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "fa47ccc4-c48c-49d8-b955-0d8e3db1f191",
+      "title": "Crunchyroll anuncia parceria massiva para adaptar 15 webtoons para anime",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "3cef4661-9dbf-4799-8cdf-13e939d1ca03",
+      "title": "10 Supernatural Fantasy Books You Need To Read",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "51c614f4-fe51-414e-98eb-ba7dedf789bf",
+      "title": "Thriller policial de Scott Eastwood com classificação R conquista o Prime Video",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "3b451980-fc19-4806-9ab5-9c8182bb0932",
+      "title": "Por que Matchbox: The Movie é a nova franquia de ação perfeita para o diretor Sam Hargrave",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "2a05098d-4a8b-4ac7-bef7-855656388388",
+      "title": "Atualizações sobre o possível retorno de Tom Selleck como Frank Reagan em Boston Blue",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "6ff9fe8e-da37-4f23-ad13-773108d9021d",
+      "title": "5 animes imperdíveis da Crunchyroll para maratonar em um único fim de semana",
+      "category": "Filmes, Séries e Animações",
+      "status": "review"
+    },
+    {
+      "id": "762ced76-1031-4a72-b4c7-02cff900dd68",
+      "title": "Cinco histórias marcantes que reinventaram a Mulher-Maravilha ao longo dos anos",
+      "category": "Games",
+      "status": "review"
+    },
+    {
+      "id": "e62a0930-fa4d-441d-a26a-438cf377c5ab",
+      "title": "Fire Country Season 5's Action Without Believable Stakes Hurts The CBS Drama | Review",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "8d8c80f8-6543-47d1-9e10-af85522a953f",
+      "title": "Acclaimed Adult Swim Hit &#8216;Common Side Effects&#8217; Sets S2 Premiere",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "aa466503-0470-4b0d-8d1c-8775682a2469",
+      "title": "JR Kyushu sofre incidente de segurança com vazamento potencial de até 1,3 milhão de e-mails de membros",
+      "category": "Segurança",
       "status": "review"
     },
     {
@@ -31,42 +145,6 @@
       "title": "[ITmedia News] ココナラ、会員の履歴書など2294件漏えい スキルマーケットに不正アクセス",
       "status": "error",
       "error": "Gemini não retornou texto (sem conteúdo)."
-    },
-    {
-      "id": "609fd3fa-7540-43f9-a2e3-96a3c610c912",
-      "title": "OpenAI demite três pesquisadores de segurança e gera controvérsia sobre prioridades éticas",
-      "category": "Empresas",
-      "status": "review"
-    },
-    {
-      "id": "449e1244-02be-4460-8369-6f7db3244b0f",
-      "title": "Vazamento de Dados em Massa Afeta LINE Yahoo, Sansan e Panasonic Após Ataque a Serviço Terceirizado",
-      "category": "Segurança",
-      "status": "review"
-    },
-    {
-      "id": "7c9e6b93-9dca-43f9-b1f1-2fc404044e2c",
-      "title": "Acer lança o Swift Air 14, notebook de alumínio com 14 polegadas e tela de 120Hz",
-      "category": "Computadores",
-      "status": "review"
-    },
-    {
-      "id": "54dc1626-cf35-4c8f-adb7-3065d085547a",
-      "title": "Sonic Racing: CrossWorlds revela planejamento do \"Ano Dois\" com grandes novidades e parcerias",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "ba7936c8-927a-4ea7-94bc-f9e246e74b11",
-      "title": "Criador de Hytale vai dar cópias extras do RPG para jogadores da edição de acesso antecipado premium",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "7ccd1801-44ef-4e90-8c7e-0f57c00fdce4",
-      "title": "Magic: The Gathering anuncia MTG Marvel Darkhold Destiny com foco no sobrenatural e primeira história original",
-      "category": "Games",
-      "status": "review"
     },
     {
       "id": "05a1fc07-cfd8-49a8-8bff-d13e53df33d4",
@@ -81,40 +159,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "36e0256a-c644-4ae2-96e6-f77ad133d62c",
-      "title": "A evolução de Kingdom Hearts: Retrospectiva e análise da franquia",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "cfbeeee5-eb10-4329-8499-2c0ca7ac330b",
-      "title": "O anime de Isekai que conquistou os fãs de Solo Leveling na Crunchyroll",
-      "category": "Games",
-      "status": "review"
-    },
-    {
       "id": "1a8950a0-d899-4d7b-897a-9ec1e9c7d072",
       "title": "Prime Video's 8-Part Crime Thriller Adaptation Officially Sets Season 2 Release Window",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "bf579646-de98-40d8-9a95-20b9ad27cbd4",
-      "title": "Os 3 Melhores Filmes para Assistir na Netflix neste Fim de Semana de Outubro",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "a593e454-4c28-4ec2-93e6-7f72189ef7a5",
-      "title": "Amanda the Adventurer: Franquia de terror viral ganha adaptação cinematográfica pela Blumhouse",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "21f9483a-c0fc-40b2-a1f3-ecb27a55a1d7",
-      "title": "Anthropic corta acesso à internet em testes internos após agentes de IA explorarem falhas e burlarem barreiras",
-      "category": "Inteligência Artificial",
-      "status": "review"
     },
     {
       "id": "91f4eb73-8345-42ac-9f77-5185e6035998",
@@ -129,56 +177,8 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "08a26f9f-0fa8-41ae-ac0b-a60d5a7802df",
-      "title": "Ferramenta permite comparar mais de 50 modelos de inteligência artificial em uma única assinatura",
-      "category": "Inteligência Artificial",
-      "status": "review"
-    },
-    {
-      "id": "76d91d8e-5dcd-418a-a30e-9c3f001f3c0e",
-      "title": "Avatar: Seven Havens e o misterioso monstro de energia: o que sabemos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "4602aee6-e2b1-479f-9292-63feb9f66066",
-      "title": "Mike Flanagan confirma influência de O Exorcista 3 em seu novo filme, The Exorcist: Martyrs",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "22bddad5-6682-4db7-b2ea-b2ebcef4ee92",
-      "title": "Mike Flanagan detalha nova adaptação de 'O Nevoeiro' de Stephen King com foco no terror cósmico",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
-      "id": "d521f995-9536-4f1d-b2c2-7e0ca4ac2fcf",
-      "title": "Backrooms: Impending Doom ganha data de lançamento oficial para janeiro de 2027",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "71727109-1b33-43ab-b484-61d7070c6c0a",
-      "title": "Por que o filme Animals, de Ben Affleck, vai conquistar os fãs de Garota Exemplar",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
-    },
-    {
       "id": "f93d1261-2626-4ae2-9e00-8ce43772b083",
       "title": "The Spiritual Successor To Project Hail Mary Released This Month",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Livros"
-    },
-    {
-      "id": "deb10141-dc00-4408-bfcb-47fea120ebec",
-      "title": "Sailor Moon Retorna com Novas Atrações e Visual Moderno na Universal Studios Japan",
-      "category": "Games",
-      "status": "review"
-    },
-    {
-      "id": "92439c8a-b265-4b90-ab6a-ae9751ebd859",
-      "title": "Forget The Old Guard, Mark Wahlberg’s Sci-Fi Thriller Is Officially Redeemed As A Prime Video Sensation",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
@@ -237,10 +237,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "16b641bc-fa93-4709-bfa4-c165bb085caf",
-      "title": "Elenco e Diretor de Digger Elogiam a Dedicação de Tom Cruise",
-      "category": "Filmes, Séries e Animações",
-      "status": "review"
+      "id": "eb962f7b-b223-433d-8c72-227bec8c5753",
+      "title": "Rolling Loud: The Movie Review: Owen Wilson Comedy Is Better Than It Has Any Right To Be",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     }
   ]
 }
