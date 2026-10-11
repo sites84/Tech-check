@@ -117,7 +117,8 @@ jobs:
         run: node worker/standardize-favicons.mjs
       - name: Aplicar modo escuro às matérias
         run: node worker/patch-article-dark-mode.mjs
-      - name: Remover seção de fotos e vídeos repetidos
+      - name: Buscar e inserir vídeo e imagens contextuais
+        continue-on-error: true
         run: node worker/add-original-media-local.mjs
       - name: Gerar páginas de arquivo indexáveis
         env:

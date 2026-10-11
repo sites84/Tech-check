@@ -1,25 +1,22 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-// A função de mídia original foi desativada. Remove blocos já gravados nas páginas.
-async function walk(dir) {
-  const out = [];
-  for (const entry of await readdir(dir, { withFileTypes: true })) {
-    const path = join(dir, entry.name);
-    if (entry.isDirectory()) out.push(...await walk(path));
-    else if (entry.isFile() && entry.name === 'index.html') out.push(path);
-  }
-  return out;
-}
-
-const files = await walk('noticias').catch(() => []);
-let changed = 0;
-for (const file of files) {
-  const original = await readFile(file, 'utf8');
-  const cleaned = original.replace(/<section\\b[^>]*class=["'][^"']*\\boriginal-media\\b[^"']*["'][^>]*>[\\s\\S]*?<\\/section>/gi, '');
-  if (cleaned !== original) {
-    await writeFile(file, cleaned);
-    changed++;
-  }
-}
-console.log(`Mídia original desativada: blocos removidos=${changed}.`);
+const SITE='https://sites84.github.io/Tech-check';
+const esc=s=>String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+const textOf=s=>String(s||'').replace(/<[^>]+>/g,' ').replace(/&amp;/g,'&').replace(/&#39;|&apos;/g,"'").replace(/&quot;/g,'"').replace(/\s+/g,' ').trim();
+const norm=s=>textOf(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
+async function walk(dir){const out=[];for(const e of await readdir(dir,{withFileTypes:true})){const p=join(dir,e.name);if(e.isDirectory())out.push(...await walk(p));else if(e.isFile()&&e.name==='index.html')out.push(p)}return out}
+async function commonsImage(query){try{const url='https://commons.wikimedia.org/w/api.php?'+new URLSearchParams({action:'query',format:'json',generator:'search',gsrsearch:query+' filetype:bitmap',gsrnamespace:'6',gsrlimit:'8',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'760'});const r=await fetch(url,{headers:{'User-Agent':'TechCheckNews/1.0 (free media search)'},signal:AbortSignal.timeout(10000)});if(!r.ok)return null;const data=await r.json();const pages=Object.values(data.query?.pages||{});for(const p of pages){const i=p.imageinfo?.[0],u=i?.thumburl||i?.url;if(!u||!/^https?:/.test(u)||/\.svg(?:$|\?)/i.test(u))continue;const meta=i.extmetadata||{};return{url:u,title:p.title||'',license:textOf(meta.LicenseShortName?.value||''),artist:textOf(meta.Artist?.value||''),source:i.descriptionurl||u}}}catch{}return null}
+async function youtubeVideo(query){try{const url='https://www.youtube.com/results?search_query='+encodeURIComponent(query);const r=await fetch(url,{headers:{'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36'},redirect:'follow',signal:AbortSignal.timeout(12000)});if(!r.ok)return null;const html=await r.text();const ids=[];for(const m of html.matchAll(/"videoRenderer":\{"videoId":"([\w-]{11})"/g)){if(!ids.includes(m[1]))ids.push(m[1]);if(ids.length>=8)break}if(!ids.length)return null;return ids[0]}catch{return null}}
+function figure(item,alt){return '<figure class="auto-media-image"><img src="'+esc(item.url)+'" alt="'+esc(alt)+'" loading="lazy" decoding="async"><figcaption><a href="'+esc(item.source)+'" target="_blank" rel="noopener noreferrer">Imagem: '+esc(item.title.replace(/^File:/,''))+'</a>'+(item.license?' · '+esc(item.license):'')+(item.artist?' · '+esc(item.artist):'')+'</figcaption></figure>'}
+async function main(){let terms={};try{terms=JSON.parse(await readFile('data/media-search-terms.json','utf8')).articles||{}}catch{}const files=await walk('noticias').catch(()=>[]);let videos=0,images=0,skipped=0,errors=0;
+for(const file of files){try{let html=await readFile(file,'utf8');if(!html.includes('class="article-body"')||html.includes('class="auto-media-video"')){skipped++;continue}
+const title=textOf((html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)||[])[1]||'');if(!title)continue;const media=terms[title]||{};const bodyMatch=html.match(/<div class="article-body">([\s\S]*?)<\/div>(?=<section class="article-extra"|<p class="source"|<\/article>)/i);if(!bodyMatch)continue;let body=bodyMatch[1];const hero=(html.match(/<img class="article-hero-image"[^>]*src="([^"]+)"/i)||[])[1]||'';const heroBase=hero.split('?')[0];const used=new Set([heroBase]);const queries=Array.isArray(media.images)?media.images:[];let localImages=0;
+const headings=[...body.matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>/gi)];for(const h of headings){const heading=textOf(h[1]);if(!heading||/^(por que isso importa|o que pode acontecer no futuro)$/i.test(heading))continue;const q=queries.find(x=>norm(x.anchor)===norm(heading))?.query_en||heading+' '+title;const item=await commonsImage(q);if(!item||used.has(item.url.split('?')[0]))continue;used.add(item.url.split('?')[0]);const at=h.index+h[0].length;body=body.slice(0,at)+figure(item,heading)+'<span class="auto-media-break"></span>'+body.slice(at);localImages++;images++}
+const listItems=[...body.matchAll(/<li[^>]*>([\s\S]*?)<\/li>/gi)];if(!headings.length&&listItems.length>=3){for(const li of listItems){const label=textOf(li[1]);if(label.length<3||label.length>150)continue;const q=queries.find(x=>norm(label).startsWith(norm(x.anchor))||norm(x.anchor).startsWith(norm(label.slice(0,50))))?.query_en||label+' '+title;const item=await commonsImage(q);if(!item||used.has(item.url.split('?')[0]))continue;used.add(item.url.split('?')[0]);const at=li.index+li[0].length;body=body.slice(0,at)+figure(item,label)+'<span class="auto-media-break"></span>'+body.slice(at);localImages++;images++}}
+if(localImages===0&&headings.length===0){const q=media.images?.[0]?.query_en||title;const item=await commonsImage(q);if(item&&!used.has(item.url.split('?')[0])){const p=body.search(/<p\b/i);if(p>=0){body=body.slice(0,p)+figure(item,title)+body.slice(p);images++;localImages++}}}
+let video='';const vq=media.video_query_en||title+' official video';const id=await youtubeVideo(vq);if(id){video='<div class="auto-media-video"><iframe src="https://www.youtube-nocookie.com/embed/'+id+'" title="'+esc(title)+' — vídeo relacionado" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v='+id+'" target="_blank" rel="noopener noreferrer">Assistir no YouTube</a></p></div>';videos++}
+const updated=bodyMatch[0].replace(bodyMatch[1],(video?video:'')+body);html=html.replace(bodyMatch[0],updated);if(localImages||video)await writeFile(file,html);else skipped++;
+}catch(e){errors++;console.warn('Mídia automática falhou em '+file+': '+e.message)}}
+console.log('Mídia automática: vídeos incorporados='+videos+'; imagens adicionadas='+images+'; páginas sem mídia encontrada='+skipped+'; falhas='+errors+'.')}
+await main();
