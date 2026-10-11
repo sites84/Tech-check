@@ -1,610 +1,830 @@
 {
-  "updated_at": "2026-10-11T03:54:35.498Z",
+  "updated_at": "2026-10-11T09:01:42.048Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "547c7737-60cd-4020-8c09-613740b42956",
-      "title": "Eliud Kipchoge conquista sua primeira vitória em maratonas desde 2023",
-      "category": "Ciência",
+      "id": "c6dec045-b586-4ea7-9e2b-b4a2a13cbec9",
+      "title": "Taxa de assinatura de jornais no Japão cai abaixo de 50% pela primeira vez",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Eliud Kipchoge Sydney Marathon winning race",
+        "video_query_en": "Japan newspaper subscription rate declines",
         "images": [
           {
-            "anchor": "O contexto da Maratona de Sydney",
-            "query_en": "Sydney Marathon race course and runners"
+            "anchor": "Uma queda histórica no mercado editorial japonês",
+            "query_en": "Japanese newspaper reading in public"
           },
           {
-            "anchor": "A Turnê Mundial e o impacto social",
-            "query_en": "Eliud Kipchoge running marathon event"
+            "anchor": "Metodologia e contexto da pesquisa de mídia",
+            "query_en": "Japan Press Research Institute survey"
+          },
+          {
+            "anchor": "Mudanças nos hábitos informativos da população",
+            "query_en": "People reading news on smartphone and television in Japan"
           }
         ]
       }
     },
     {
-      "id": "f95d6e9d-9575-46a6-85ef-33aff4052645",
-      "title": "Vietnã abre processo histórico contra pirataria para proteger propriedade intelectual japonesa",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vietnam anime piracy copyright prosecution Japanese IP",
-        "images": [
-          {
-            "anchor": "O impacto da pirataria e a pressão internacional",
-            "query_en": "anime streaming website piracy Vietnam"
-          },
-          {
-            "anchor": "Movimentos recentes da indústria de entretenimento",
-            "query_en": "Japanese pop culture and anime merchandise display"
-          },
-          {
-            "anchor": "Acordos de investimentos internacionais como o aporte da singapurense GIC em direitos de streaming musical em parceria com a Sony",
-            "query_en": "Sony music entertainment office building Tokyo"
-          },
-          {
-            "anchor": "Novas regulamentações internas no Japão para garantir que cantores de J-pop recebam royalties por músicas tocadas em shopping centers",
-            "query_en": "J-pop artist performing on stage in Japan"
-          },
-          {
-            "anchor": "Anúncios de grandes produções, como a revelação da primeira série de anime de Naruto em nove anos durante a New York Comic Con",
-            "query_en": "Naruto anime display at New York Comic Con"
-          },
-          {
-            "anchor": "Ações de dubladores japoneses utilizando inteligência artificial própria para combater o uso não autorizado de clones de voz",
-            "query_en": "Japanese voice actor recording in studio microphone"
-          },
-          {
-            "anchor": "Estratégias de expansão internacional de grandes marcas, a exemplo da valorização das ações da fabricante de Gundam, Bandai, de olho no mercado norte-americano",
-            "query_en": "Bandai Gundam robot model kit store display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a83c5450-aae5-45f5-88f4-c4958d1b070e",
-      "title": "After Bautista’s Kratos, Prime Video’s God Of War Has A Casting Headache",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "fd6427ce-3ede-4323-a5fa-61fd527cfbb5",
-      "title": "Quatro Anos Depois, a Segunda Temporada de Cyberpunk: Edgerunners Chega à Netflix",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Cyberpunk Edgerunners season 2 Netflix trailer",
-        "images": [
-          {
-            "anchor": "O Impacto e o Legado da Primeira Temporada",
-            "query_en": "Cyberpunk Edgerunners David Martinez Night City"
-          },
-          {
-            "anchor": "O Que Torna a Obra Única",
-            "query_en": "Cyberpunk Edgerunners Lucy and David anime"
-          },
-          {
-            "anchor": "David Martínez: Estudante promissor que lida com dificuldades financeiras e busca corresponder às expectativas maternas antes de ingressar no mundo dos mercenários.",
-            "query_en": "David Martinez Cyberpunk Edgerunners"
-          },
-          {
-            "anchor": "Lucy: Personagem central que, ao lado de David e outros integrantes, abraça o estilo de vida perigoso das missões brutais.",
-            "query_en": "Lucy Cyberpunk Edgerunners anime"
-          },
-          {
-            "anchor": "O submundo de Night City: Reduto de empregos arriscados onde a única regra real é a sobrevivência a qualquer custo.",
-            "query_en": "Night City Cyberpunk Edgerunners neon"
-          },
-          {
-            "anchor": "O Que Esperar da Segunda Temporada",
-            "query_en": "Cyberpunk Edgerunners season 2 visual poster"
-          },
-          {
-            "anchor": "Estreia na Netflix: Marcada para 20 de outubro de 2026 com dez episódios lançados de uma só vez.",
-            "query_en": "Netflix app interface sci fi anime"
-          },
-          {
-            "anchor": "Abordagem narrativa: Inspirada no estilo de Pulp Fiction, focando em múltiplos personagens interconectados em vez de uma perspectiva única.",
-            "query_en": "Cyberpunk anime action scene"
-          },
-          {
-            "anchor": "Novos temas: Exploração de um cyberpunk lendário que perdeu seu cromo e de uma personagem movida por vingança familiar.",
-            "query_en": "Cyberpunk cyborg character art"
-          }
-        ]
-      }
-    },
-    {
-      "id": "90a95818-c8cd-45ea-a37b-5f8683161027",
-      "title": "Por que Josh Hartnett seria a escolha perfeita para o novo filme de Stephen King dirigido por Mike Flanagan",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Josh Hartnett Below Netflix series review",
-        "images": [
-          {
-            "anchor": "A jornada e as reviravoltas de Below na Netflix",
-            "query_en": "Josh Hartnett Below Netflix horror series"
-          },
-          {
-            "anchor": "Paralelos entre Below e a obra clássica de Stephen King",
-            "query_en": "The Mist Stephen King movie adaptation scene"
-          },
-          {
-            "anchor": "A familiaridade de Josh Hartnett com o universo de terror",
-            "query_en": "Josh Hartnett Penny Dreadful Ethan Chandler"
-          }
-        ]
-      }
-    },
-    {
-      "id": "49ae8c94-f33f-417b-98c1-211358adec5a",
-      "title": "Why All Of Us Are Dead Season 2 Is Taking So Long",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "0f3c4caa-668b-431f-ae35-dce33d04fd7a",
-      "title": "Novo filme de Alexander Skarsgård ganha sessão especial em 4DX por apenas uma noite",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Wicker Alexander Skarsgard Olivia Colman trailer",
-        "images": [
-          {
-            "anchor": "Detalhes da sessão exclusiva e repercussão",
-            "query_en": "Wicker movie Alexander Skarsgard Olivia Colman"
-          },
-          {
-            "anchor": "A visão dos diretores e o formato 4DX",
-            "query_en": "4DX theater seating immersive movie experience"
-          },
-          {
-            "anchor": "Elenco e premissa da obra",
-            "query_en": "Peter Dinklage Elizabeth Debicki Wicker movie"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1ef8079a-a275-4db4-a2fe-c75f8038ab21",
-      "title": "Fome e desnutrição persistem em Gaza um ano após cessar-fogo",
+      "id": "3e884fd9-a8c3-4d94-b5d2-9ba32d7d5017",
+      "title": "NASCAR e IndyCar buscam expansão internacional inspiradas no sucesso da Fórmula 1",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Gaza hunger malnutrition community kitchen ceasefire",
+        "video_query_en": "NASCAR and IndyCar international expansion Formula One",
         "images": [
           {
-            "anchor": "A rotina nas cozinhas comunitárias",
-            "query_en": "community kitchen food distribution Gaza"
+            "anchor": "O modelo de inspiração da Fórmula 1",
+            "query_en": "Formula One race car track Liberty Media"
           },
           {
-            "anchor": "Desafios diários enfrentados por Niyaha al-Masri na busca por comida.",
-            "query_en": "Palestinian woman waiting in food line Gaza"
+            "anchor": "Os planos de expansão da IndyCar e da NASCAR",
+            "query_en": "NASCAR race car speedway"
           },
           {
-            "anchor": "Horas prolongadas de espera nas cozinhas comunitárias.",
-            "query_en": "people queueing for food Gaza"
+            "anchor": "IndyCar: A categoria concentra seus esforços em levar uma etapa para Barcelona",
+            "query_en": "IndyCar race car open wheel"
           },
           {
-            "anchor": "Um cenário de escassez persistente",
-            "query_en": "humanitarian aid food Gaza crisis"
+            "anchor": "NASCAR: A organização tem mantido conversas ativas com parceiros em potencial para realizar provas em países vizinhos",
+            "query_en": "NASCAR stock car race event"
           }
         ]
       }
     },
     {
-      "id": "76770d1a-0102-4811-afba-763229f856f3",
-      "title": "Two die and 16 hurt in Osaka danjiri float festival accidents",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Cultura"
-    },
-    {
-      "id": "aaa2391b-15c8-461b-bd3d-d9738ff0a871",
-      "title": "As 7 melhores séries inspiradas na obra de Jane Austen para assistir na TV",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "best TV shows inspired by Jane Austen",
-        "images": [
-          {
-            "anchor": "## The Other Bennet Sister",
-            "query_en": "The Other Bennet Sister TV show Mary Bennet"
-          },
-          {
-            "anchor": "## Bridgerton",
-            "query_en": "Bridgerton Netflix Regency era series"
-          },
-          {
-            "anchor": "## Death Comes to Pemberley",
-            "query_en": "Death Comes to Pemberley BBC drama"
-          },
-          {
-            "anchor": "## Lost in Austen",
-            "query_en": "Lost in Austen ITV miniseries"
-          },
-          {
-            "anchor": "## Pride and Prejudice (1995)",
-            "query_en": "Pride and Prejudice 1995 BBC Colin Firth Jennifer Ehle"
-          },
-          {
-            "anchor": "## Miss Austen",
-            "query_en": "Miss Austen PBS Masterpiece miniseries"
-          },
-          {
-            "anchor": "## Sanditon",
-            "query_en": "Sanditon TV series period drama"
-          }
-        ]
-      }
-    },
-    {
-      "id": "609f5130-1b5d-4224-9096-0023400dfae7",
-      "title": "23-Episode Steampunk Fantasy On HBO Makes Up For A $180 Million Failure",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "6591b009-b204-4de6-baac-1933a8218da5",
-      "title": "Marvel Studios renomeia o Doutor Destino de Robert Downey Jr. antes de Avengers: Doomsday",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Avengers Doomsday Robert Downey Jr Doctor Doom trailer concept",
-        "images": [
-          {
-            "anchor": "Novas pistas através de produtos licenciados",
-            "query_en": "Avengers Doomsday Funko Pop Doctor Doom merchandise"
-          },
-          {
-            "anchor": "Visual alterado na linha Concept Series",
-            "query_en": "Lord Doom concept art costume Marvel Comics"
-          },
-          {
-            "anchor": "O retorno de Robert Downey Jr. e a escala do filme",
-            "query_en": "Robert Downey Jr Marvel Studios panel"
-          },
-          {
-            "anchor": "Um elenco monumental e participações multiversais",
-            "query_en": "Fantastic Four MCU cast Pedro Pascal Vanessa Kirby"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1cb16ae2-95a1-4958-be8c-5ca05d054c23",
-      "title": "Marvel revela uma nova base para o Quarteto Fantástico em quadrinhos",
+      "id": "cf3a77be-5db6-4ab9-b5e6-ba7aabbe4666",
+      "title": "Guardians vencem o White Sox, completam reviravolta histórica e garantem vaga na ALCS",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Midnight Fantastic Four 1 Marvel comic review",
+        "video_query_en": "Cleveland Guardians vs Chicago White Sox Game 5 ALDS highlights",
         "images": [
           {
-            "anchor": "Conheça a Storm Systems HQ",
-            "query_en": "Storm Systems HQ Marvel forest base comic"
+            "anchor": "Uma Vitória Histórica e Decisiva",
+            "query_en": "Cleveland Guardians ALDS celebration stadium"
           },
           {
-            "anchor": "Victor von Doom",
-            "query_en": "Victor von Doom Midnight Fantastic Four"
+            "anchor": "Jose Ramirez",
+            "query_en": "Jose Ramirez batting Cleveland Guardians"
           },
           {
-            "anchor": "O retorno de Victor",
-            "query_en": "Victor von Doom Frankenstein comic Marvel"
+            "anchor": "Gavin Williams",
+            "query_en": "Gavin Williams pitching Cleveland Guardians"
           },
           {
-            "anchor": "A nave de Johnny",
-            "query_en": "Johnny Storm spaceship crash comic art"
+            "anchor": "O Brilho do No-Hitter Combinado",
+            "query_en": "Cleveland Guardians pitcher celebration on mound"
           },
           {
-            "anchor": "A nave como base",
-            "query_en": "Fantastic Four spaceship Negative Zone"
+            "anchor": "Próximo Desafio na Temporada",
+            "query_en": "Tampa Bay Rays stadium St Petersburg Florida"
           }
         ]
       }
     },
     {
-      "id": "fb936867-3fb6-4670-b1c5-103e22e48649",
-      "title": "Punisher’s Ultimate Weapons Debuts, With Infinity Gauntlet-Level Potential",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comics"
-    },
-    {
-      "id": "3d91cd39-dc48-4f1f-9e67-cc096ee0b5d6",
-      "title": "Apple TV Merece Crédito por Transformar Neuromancer em Série de 10 Episódios",
-      "category": "Filmes, Séries e Animações",
+      "id": "a7a0eac2-bab6-494f-b28c-6a5a8d61b287",
+      "title": "Indonésia liberta oito orangotangos resgatados de incêndios para floresta protegida",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Neuromancer Apple TV series adaptation preview",
+        "video_query_en": "indonesia orangutans released protected forest",
         "images": [
           {
-            "anchor": "Por que Neuromancer Foi Considerado Impossível de Adaptar por Tanto Tempo",
-            "query_en": "William Gibson Neuromancer cyberpunk city concept art"
+            "anchor": "Operação de soltura em Kalimantan Ocidental",
+            "query_en": "orangutan release protected forest borneo"
           },
           {
-            "anchor": "Complexidade extraordinária do livro publicado em 1984, que aborda o ciberespaço e a relação entre a consciência humana e a tecnologia.",
-            "query_en": "cyberpunk cyberspace abstract neon digital network"
-          },
-          {
-            "anchor": "Sequências surrealistas e quase psicodélicas geradas pela prosa densa e pela construção de mundo propositalmente desorientadora de Gibson.",
-            "query_en": "surreal cyberpunk neon alleyway futuristic sci fi"
-          },
-          {
-            "anchor": "O risco de parecer derivativo, já que o livro ajudou a estabelecer as convenções do cyberpunk e inspirou obras que dominaram a cultura pop, como a franquia Matrix e Ghost in the Shell.",
-            "query_en": "matrix style green digital rain cyberpunk aesthetic"
-          },
-          {
-            "anchor": "O Impacto Potencial na Ficção Científica Televisiva",
-            "query_en": "Apple TV sci fi series production futuristic interface"
-          },
-          {
-            "anchor": "Estreia oficial marcada para o dia 22 de janeiro de 2027 na plataforma Apple TV+.",
-            "query_en": "Callum Turner actor portrait promotional shoot"
-          },
-          {
-            "anchor": "Produção executiva liderada pelo showrunner Graham Roland e pelo diretor J.D. Dillard.",
-            "query_en": "Mark Strong actor dramatic portrait"
-          },
-          {
-            "anchor": "Elenco principal composto por Callum Turner como Henry Case, Briana Middleton como Molly, Mark Strong como Armitage e Peter Sarsgaard como John Ashpool.",
-            "query_en": "Peter Sarsgaard actor close up portrait"
+            "anchor": "Contexto dos resgates e ameaças do fogo",
+            "query_en": "indonesia wildlife rescue wildfire"
           }
         ]
       }
     },
     {
-      "id": "93e04419-b665-4658-a198-c4f7ac2eab1a",
-      "title": "Novo terror da Blumhouse e Universal encerra o calendário de 2026 com recepção negativa do público",
-      "category": "Filmes, Séries e Animações",
+      "id": "80398a83-1484-4e9b-8794-54910f5043f2",
+      "title": "\"Todo mundo está com raiva\": Okinawanos sentem medo e frustração após assassinato cometido por militar americano",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Other Mommy movie Blumhouse trailer Jessica Chastain",
+        "video_query_en": "Okinawa US military presence protest reaction",
         "images": [
           {
-            "anchor": "Recepção fria no Rotten Tomatoes",
-            "query_en": "Other Mommy movie Rotten Tomatoes audience score horror"
+            "anchor": "Repercussão e revolta na ilha",
+            "query_en": "Okinawa street protest Japan"
           },
           {
-            "anchor": "O impacto do marketing e os trailers virais",
-            "query_en": "Jessica Chastain Other Mommy kitchen scene doppelganger"
+            "anchor": "O impacto na segurança e o histórico de tensões",
+            "query_en": "US military base Okinawa fence"
           },
           {
-            "anchor": "Retrospectiva dos filmes da Blumhouse em 2026",
-            "query_en": "Blumhouse horror movies 2026 slate posters"
-          },
-          {
-            "anchor": "Estratégia de exibição e críticas negativas",
-            "query_en": "Rob Savage director horror film premier"
-          },
-          {
-            "anchor": "Humor involuntário e desempenho financeiro",
-            "query_en": "Other Mommy movie theater box office premiere"
-          },
-          {
-            "anchor": "Futuro da Universal e da Blumhouse",
-            "query_en": "The Exorcist Martyrs Mike Flanagan Blumhouse 2027"
+            "anchor": "Contexto político e social",
+            "query_en": "Okinawa governor press conference"
           }
         ]
       }
     },
     {
-      "id": "6ffa1d09-15f9-4478-9161-68ec3b0d14a2",
-      "title": "It's Officially The End Of An Era For Game Of Thrones On HBO Max",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "id": "407c33fe-ae33-4471-95c7-ffa9a00e2e64",
+      "title": "Com o comércio em alta, por que as tensões entre Japão e China estão aumentando?",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan China trade economic tensions weaponized interdependence",
+        "images": [
+          {
+            "anchor": "A ilusão da paz comercial",
+            "query_en": "Japan China trade relations business skyline"
+          },
+          {
+            "anchor": "A realidade da interdependência armada",
+            "query_en": "Tokyo and Beijing economic strategic supply chain"
+          },
+          {
+            "anchor": "O volume de comércio bilateral atingiu US$ 308,3 bilhões em 2024.",
+            "query_en": "cargo ship port shipping containers international trade"
+          },
+          {
+            "anchor": "O impacto da competição global",
+            "query_en": "US China Japan geopolitical summit economics"
+          }
+        ]
+      }
     },
     {
-      "id": "04ef318a-bca4-4bfe-992d-d834a305f4c6",
-      "title": "Como reduzir o consumo de dados móveis no seu iPhone com dicas simples",
+      "id": "5748b935-7765-4884-80d7-91e66da23f7e",
+      "title": "Takaichi em situação delicada após sanções dos EUA contra o Tribunal Penal Internacional",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sanae Takaichi US sanctions International Criminal Court",
+        "images": [
+          {
+            "anchor": "A pressão dos Estados Unidos sobre o Tribunal Penal Internacional",
+            "query_en": "Donald Trump United States flag press conference"
+          },
+          {
+            "anchor": "O impacto direto para o Japão e autoridades japonesas",
+            "query_en": "Sanae Takaichi Prime Minister of Japan"
+          },
+          {
+            "anchor": "O país abriga aproximadamente 60 mil militares dos Estados Unidos em seu território.",
+            "query_en": "US military base in Japan"
+          },
+          {
+            "anchor": "A nação depende fortemente de Washington para a sua própria segurança e defesa.",
+            "query_en": "US Japan security alliance meeting"
+          },
+          {
+            "anchor": "Tóquio precisa adotar uma postura extremamente cautelosa ao ponderar qualquer tipo de reação ou resistência diplomática.",
+            "query_en": "Tokyo government building Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa1a1780-1dfc-48b0-ab9f-c5c0fb543706",
+      "title": "Índia liberta líderes do movimento 'barata' enquanto protestos continuam",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "India cockroach movement protest New Delhi election commission",
+        "images": [
+          {
+            "anchor": "## A libertação dos líderes e o contexto das detenções",
+            "query_en": "New Delhi street protest police security India"
+          },
+          {
+            "anchor": "## Reação do Partido Cockroach Janta e continuidade dos atos",
+            "query_en": "Indian youth protest demonstration political opposition"
+          },
+          {
+            "anchor": "- O movimento é liderado por jovens e utiliza o ambiente digital como principal ferramenta de articulação e protesto.",
+            "query_en": "young Indian activists protest signs"
+          },
+          {
+            "anchor": "- Milhares de simpatizantes foram detidos preventivamente pelas forças de segurança durante as operações de sábado em Nova Délhi.",
+            "query_en": "police detention protest New Delhi India"
+          },
+          {
+            "anchor": "- Os organizadores insistem que a pressão popular não vai cessar e conclamam novos atos públicos.",
+            "query_en": "protest crowd India streets"
+          },
+          {
+            "anchor": "## Origem das mobilizações e demandas contra a comissão eleitoral",
+            "query_en": "Election Commission of India building New Delhi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d77f5f88-a192-4f56-9465-b0afa3c29305",
+      "title": "Afeganistão abre rota comercial potencial entre China e o Golfo Pérsico",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Afghanistan China trade route Wakhan Corridor",
+        "images": [
+          {
+            "anchor": "O contexto geográfico do Corredor Wakhan",
+            "query_en": "Wakhan Corridor mountains Afghanistan landscape"
+          },
+          {
+            "anchor": "Os desafios para a operacionalização completa",
+            "query_en": "mountain road construction Afghanistan rough terrain"
+          },
+          {
+            "anchor": "O relevo montanhoso extremo dificulta a circulação de veículos de carga pesada ao longo de todo o ano.",
+            "query_en": "rugged mountains Badakhshan Afghanistan"
+          },
+          {
+            "anchor": "As condições climáticas severas da região provocam interrupções frequentes no tráfego durante os meses de inverno.",
+            "query_en": "snowy mountain pass Afghanistan winter road"
+          },
+          {
+            "anchor": "A infraestrutura de apoio ao longo da rota ainda é praticamente inexistente, exigindo o desenvolvimento de postos alfandegários e redes de comunicação.",
+            "query_en": "remote road Afghanistan border checkpoint"
+          },
+          {
+            "anchor": "A estabilidade política e de segurança na região continua a ser uma preocupação central para governos e investidores estrangeiros.",
+            "query_en": "Taliban security forces Afghanistan checkpoint"
+          },
+          {
+            "anchor": "Implicações para a Iniciativa Cinturão e Rota",
+            "query_en": "Belt and Road Initiative map trade routes Asia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "271a74f1-f460-489d-bbfa-ba4174c5ec15",
+      "title": "Oportunidades de emprego em SAP, DevOps, auditoria de TI e segurança em nuvem",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SAP DevOps and Cloud Security IT jobs career",
+        "images": [
+          {
+            "anchor": "Áreas de atuação em destaque",
+            "query_en": "IT professionals working on servers and cloud security"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e5bf985-6c7d-4022-8f02-cc3cd7c52871",
+      "title": "Brickboy transforma Lego em um Game Boy funcional com tecnologia suíça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Brickboy Lego Game Boy mod test review",
+        "images": [
+          {
+            "anchor": "O projeto Brickboy e a transformação do Lego",
+            "query_en": "Lego Game Boy brickboy custom mod"
+          },
+          {
+            "anchor": "Como funciona a montagem na prática",
+            "query_en": "Game Boy console internal hardware circuit"
+          },
+          {
+            "anchor": "O impacto para colecionadores e entusiastas",
+            "query_en": "Retro gaming handheld console collection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "27fc0e00-0b00-4b32-ade4-94e259bd4338",
+      "title": "Usuários na Europa criam alternativa própria para a Siri AI diante da demora da Apple",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple Siri AI alternative Europe workaround",
+        "images": [
+          {
+            "anchor": "Os desafios de construir um assistente próprio",
+            "query_en": "person setting up smart assistant device at home"
+          },
+          {
+            "anchor": "O impacto das regulamentações na tecnologia",
+            "query_en": "smartphone displaying europe map or data privacy concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "146dc7e0-2a2f-4434-84d0-25c2aba772ad",
+      "title": "Carregador sem fio Iniu de 15 watts para iOS e Android em promoção na Amazon",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how to reduce mobile data usage on iphone",
+        "video_query_en": "Iniu wireless charger review 15w",
         "images": [
           {
-            "anchor": "Controle de dados em aplicativos do sistema",
-            "query_en": "iphone cellular data settings menu low data mode"
+            "anchor": "Funcionalidades e recursos do Iniu Wireless Charger",
+            "query_en": "Iniu wireless charger stand"
           },
           {
-            "anchor": "Ajustes individuais e downloads de mídias",
-            "query_en": "iphone app store settings cellular downloads"
-          },
-          {
-            "anchor": "Evitando vilões ocultos do iOS",
-            "query_en": "iphone wifi connectivity assist settings"
-          },
-          {
-            "anchor": "Uso estratégico de Wi-Fi e roteadores",
-            "query_en": "person using smartphone on public wifi hotspot"
+            "anchor": "Otimização para o ambiente noturno",
+            "query_en": "wireless charger on nightstand"
           }
         ]
       }
     },
     {
-      "id": "f3122c61-0f61-4052-b821-d69223475548",
-      "title": "Como usar os novos controles parentais do iOS 27 para proteger as crianças",
+      "id": "9c1049f4-f6fd-4ae3-b970-20870bdda6ed",
+      "title": "Schufa passa a fornecer dados históricos e esclarece regras sobre banco de dados oculto",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Schufa credit score data transparency Germany",
+        "images": [
+          {
+            "anchor": "Transparência e acesso aos dados históricos",
+            "query_en": "Schufa headquarters building Germany"
+          },
+          {
+            "anchor": "Quem pode utilizar as informações",
+            "query_en": "Digital credit check banking data analytics"
+          },
+          {
+            "anchor": "Impacto para os consumidores",
+            "query_en": "Consumer reviewing financial credit report document"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a316108-dc20-40cb-839a-bef70ca7b043",
+      "title": "Vicor intensifica disputa de patentes e busca nova proibição de importação nos EUA contra Foxconn, Quanta e Delta",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Vicor patent fight server power Foxconn Quanta",
+        "images": [
+          {
+            "anchor": "O novo pedido de proibição nos Estados Unidos",
+            "query_en": "US International Trade Commission building Washington DC"
+          },
+          {
+            "anchor": "Foxconn",
+            "query_en": "Foxconn factory manufacturing electronics"
+          },
+          {
+            "anchor": "Quanta",
+            "query_en": "Quanta Computer server manufacturing facility"
+          },
+          {
+            "anchor": "Delta",
+            "query_en": "Delta Electronics power supply unit"
+          },
+          {
+            "anchor": "Histórico e contexto da disputa",
+            "query_en": "AI server power supply hardware datacenter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5de83f17-d20e-4c96-8e31-541de642d032",
+      "title": "Redução do Roaming da KDDI na Rakuten Mobile Gera Debates sobre Transparência e Responsabilidade",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iOS 27 parental controls features walkthrough",
+        "video_query_en": "Rakuten Mobile KDDI roaming reduction Japan",
         "images": [
           {
-            "anchor": "As principais novidades dos controles parentais no iOS 27",
-            "query_en": "Apple iPhone screen time parental controls iOS settings"
+            "anchor": "O Impacto da Redução do Roaming para os Clientes",
+            "query_en": "Rakuten Mobile smartphone network signal"
           },
           {
-            "anchor": "Como configurar e ajustar os controles parentais",
-            "query_en": "Parental controls family sharing settings on iPad iPhone"
+            "anchor": "A Questão da Transparência no Setor de Telecomunicações",
+            "query_en": "KDDI au mobile network tower Japan"
           }
         ]
       }
     },
     {
-      "id": "c55742cc-b489-4d98-87a9-cc5356cc6a67",
-      "title": "Como funcionam as câmeras de ré veiculares e como instalá-las em carros mais antigos",
-      "category": "Computadores",
+      "id": "e7c62784-ab5f-4f80-9775-4b525eae3212",
+      "title": "A Jukebox de Game Boy de Pokémon Red & Blue está de volta ao estoque",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how wireless backup camera works installation",
+        "video_query_en": "Pokemon Red and Blue Game Boy Jukebox unboxing review",
         "images": [
           {
-            "anchor": "Como funcionam as câmeras sem fio adicionais",
-            "query_en": "wireless backup camera mounted on car rear"
+            "anchor": "O que vem na Jukebox",
+            "query_en": "Pokemon Red and Blue Game Boy Jukebox cartridges"
           },
           {
-            "anchor": "Quais são as desvantagens das câmeras sem fio",
-            "query_en": "dashboard monitor showing backup camera feed"
+            "anchor": "Disponibilidade e Celebração de Aniversário",
+            "query_en": "Pokemon Center website merchandise display"
           }
         ]
       }
     },
     {
-      "id": "bc7ffc9e-3081-49b3-b626-cf5d0608c2cb",
-      "title": "Como ativar as Live Activities no iPhone e no CarPlay para acompanhar informações em tempo real",
+      "id": "0e235f88-12c4-446b-9da7-aa79cc4b49c2",
+      "title": "Capcom considerou dar um tom mais focado em terror para o desenvolvimento de Pragmata",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Capcom Pragmata gameplay trailer and developer interview",
+        "images": [
+          {
+            "anchor": "Uma fase inicial assustadora para a nova propriedade intelectual",
+            "query_en": "Capcom Pragmata sci-fi game Hugh and Diana"
+          },
+          {
+            "anchor": "O cuidado para evitar semelhanças com Resident Evil",
+            "query_en": "Masachika Kawata Capcom developer"
+          },
+          {
+            "anchor": "Vestígios de terror e a recepção dos fãs",
+            "query_en": "Pragmata human looking robots sci-fi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cbc6461d-656a-400b-b808-fbd7deb63eba",
+      "title": "Fases da Lua em 11 de outubro de 2026: saiba como o satélite aparece no céu",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NASA Moon phases explanation orbit",
+        "images": [
+          {
+            "anchor": "Como está a Lua hoje",
+            "query_en": "Waxing crescent moon phase NASA"
+          },
+          {
+            "anchor": "A próxima Lua Cheia",
+            "query_en": "Full moon bright night sky"
+          },
+          {
+            "anchor": "O ciclo das fases lunares",
+            "query_en": "Moon orbit around Earth phases diagram"
+          },
+          {
+            "anchor": "As oito fases da Lua",
+            "query_en": "Eight lunar phases astronomy chart"
+          },
+          {
+            "anchor": "New Moon",
+            "query_en": "New moon dark sky astronomy"
+          },
+          {
+            "anchor": "Waxing Crescent",
+            "query_en": "Waxing crescent moon close up"
+          },
+          {
+            "anchor": "First Quarter",
+            "query_en": "First quarter half moon"
+          },
+          {
+            "anchor": "Waxing Gibbous",
+            "query_en": "Waxing gibbous moon phase"
+          },
+          {
+            "anchor": "Full Moon",
+            "query_en": "Full moon detailed surface craters"
+          },
+          {
+            "anchor": "Waning Gibbous",
+            "query_en": "Waning gibbous moon phase"
+          },
+          {
+            "anchor": "Third Quarter",
+            "query_en": "Third quarter moon phase"
+          },
+          {
+            "anchor": "Waning Crescent",
+            "query_en": "Waning crescent moon end of cycle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e76b0c6e-a915-47d1-afea-0fa23a971771",
+      "title": "Como assistir Eagles contra Jaguars na NFL ao vivo e de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Philadelphia Eagles vs Jacksonville Jaguars NFL London game",
+        "images": [
+          {
+            "anchor": "O cenário da partida em Londres",
+            "query_en": "Tottenham Hotspur Stadium NFL game London"
+          },
+          {
+            "anchor": "Quando e onde acontece o jogo",
+            "query_en": "Philadelphia Eagles NFL team helmet"
+          },
+          {
+            "anchor": "Como assistir Eagles contra Jaguars gratuitamente",
+            "query_en": "Jacksonville Jaguars NFL team logo"
+          },
+          {
+            "anchor": "Passos para desbloquear a transmissão",
+            "query_en": "VPN software streaming online security"
+          },
+          {
+            "anchor": "Vantagens do ExpressVPN para a NFL",
+            "query_en": "ExpressVPN application on mobile device"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ac633e0e-53ae-46c1-b3ba-ee32fadf7094",
+      "title": "Dicas e respostas do Hurdle para 11 de outubro de 2026",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hurdle word game gameplay hints",
+        "images": [
+          {
+            "anchor": "Como funciona a dinâmica do jogo",
+            "query_en": "daily word puzzle game interface"
+          },
+          {
+            "anchor": "Respostas do Hurdle para 11 de outubro de 2026",
+            "query_en": "word game crossword puzzle clues"
+          }
+        ]
+      }
+    },
+    {
+      "id": "68b84868-eb6b-4cb1-9ce5-392ce86f5065",
+      "title": "Como assistir a Sassuolo e Milan ao vivo na Série A de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sassuolo vs Milan Serie A live stream free",
+        "images": [
+          {
+            "anchor": "Contexto da Partida e Situação na Tabela",
+            "query_en": "AC Milan players celebrating a goal in Serie A"
+          },
+          {
+            "anchor": "Data, Horário e Local do Jogo",
+            "query_en": "Mapei Stadium Sassuolo home ground"
+          },
+          {
+            "anchor": "Como Assistir à Partida Gratuitamente",
+            "query_en": "Watching live football match on smartphone or laptop"
+          },
+          {
+            "anchor": "Utilizando Garantias de Reembolso para Assistir sem Custos",
+            "query_en": "Credit card online payment security guarantee"
+          },
+          {
+            "anchor": "Principais Recursos do ExpressVPN para Esportes",
+            "query_en": "ExpressVPN app running on digital device screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "794d6c86-8243-4aa7-a4d9-228655ce5a1c",
+      "title": "Assinatura vitalícia de 1 TB de armazenamento em nuvem Koofr é oferecida por US$ 130",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Koofr cloud storage review and features",
+        "images": [
+          {
+            "anchor": "Detalhes da Oferta Promocional",
+            "query_en": "Koofr cloud storage logo or interface"
+          },
+          {
+            "anchor": "Recursos e Facilidades de Uso do Koofr",
+            "query_en": "Cloud storage security encryption data backup"
+          },
+          {
+            "anchor": "Interface amigável que facilita a navegação e o gerenciamento dos arquivos.",
+            "query_en": "Cloud storage file manager interface on computer"
+          },
+          {
+            "anchor": "Compatibilidade com outros serviços de armazenamento populares, permitindo transferir facilmente conteúdos guardados no Dropbox, Google Drive, Amazon Drive ou OneDrive para o Koofr.",
+            "query_en": "Google Drive Dropbox cloud storage icons"
+          },
+          {
+            "anchor": "Criptografia de ponta a ponta, garantindo que os arquivos armazenados fiquem totalmente protegidos e não possam ser acessados por terceiros, nem mesmo pela própria empresa Koofr.",
+            "query_en": "Cyber security encryption lock digital data"
+          },
+          {
+            "anchor": "Acesso flexível aos arquivos a qualquer momento por meio de computadores, smartphones ou utilizando o protocolo WebDAV.",
+            "query_en": "Accessing cloud files on smartphone and laptop"
+          },
+          {
+            "anchor": "Ferramentas avançadas que incluem opções de renomeação de arquivos, personalização da aparência de links compartilhados e um sistema localizador de arquivos duplicados.",
+            "query_en": "File management duplicate finder software screen"
+          },
+          {
+            "anchor": "Capacidade de Armazenamento de 1 TB",
+            "query_en": "Terabyte cloud storage capacity concept"
+          },
+          {
+            "anchor": "250.000 fotos com resolução de 12 megapixels.",
+            "query_en": "Smartphone photography photo gallery stack"
+          },
+          {
+            "anchor": "500 horas de vídeos gravados.",
+            "query_en": "Video recording play button digital media"
+          },
+          {
+            "anchor": "6,5 milhões de arquivos em formato PDF.",
+            "query_en": "PDF document files stack digital archive"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10c3533b-3038-4416-ae73-bc89e6650d99",
+      "title": "Apple iPhone 18 Pro ganha desconto de mil dólares na T-Mobile",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how to enable live activities iphone carplay tutorial",
+        "video_query_en": "T-Mobile Apple iPhone 18 Pro deal overview",
         "images": [
           {
-            "anchor": "Como funcionam as Live Activities no iPhone",
-            "query_en": "iphone dynamic island live activities screen"
+            "anchor": "Como funciona o desconto na T-Mobile",
+            "query_en": "T-Mobile storefront and logo"
           },
           {
-            "anchor": "Atividades ao Vivo na Tela Bloqueada",
-            "query_en": "iphone lock screen live activities settings"
-          },
-          {
-            "anchor": "Como usar as Live Activities no CarPlay",
-            "query_en": "apple carplay dashboard screen live activities"
-          },
-          {
-            "anchor": "Resolvendo problemas e configurando o CarPlay",
-            "query_en": "apple carplay settings menu display"
+            "anchor": "Condições e termos do contrato",
+            "query_en": "Apple iPhone Pro smartphone display"
           }
         ]
       }
     },
     {
-      "id": "04efcda2-a30d-4d23-ab6b-ce25d8a8c696",
-      "title": "Josh Brolin comenta o desenvolvimento de Sicario 3 sem a participação de Taylor Sheridan",
-      "category": "Filmes, Séries e Animações",
+      "id": "91f7f4b0-0ede-4a0a-92cf-69247f334aad",
+      "title": "Assinatura vitalícia de hospedagem ilimitada de sites está em oferta por US$ 120",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Josh Brolin Sicario 3 interview Steven Knight",
+        "video_query_en": "Hostdeal Unlimited Plan web hosting review",
         "images": [
           {
-            "anchor": "O retorno da equipe e os novos rumos da franquia",
-            "query_en": "Josh Brolin Emily Blunt Benicio del Toro Sicario"
+            "anchor": "Detalhes da Promoção",
+            "query_en": "web hosting discount deal laptop screen"
           },
           {
-            "anchor": "A harmonia do elenco e a parceria de longa data",
-            "query_en": "Josh Brolin actor portrait"
+            "anchor": "Recursos e Vantagens",
+            "query_en": "cloud storage dashboard web development"
           },
           {
-            "anchor": "O processo de transição com Steven Knight e Padraic McKinley",
-            "query_en": "Steven Knight writer"
+            "anchor": "Desempenho e Gerenciamento",
+            "query_en": "website dashboard control panel analytics"
           }
         ]
       }
     },
     {
-      "id": "0ce3a12c-eb0b-4a32-87d7-3632ca5791ab",
-      "title": "Nicolas Cage Officially Clarifies National Treasure 3 Return After Director’s Bold Statement",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "abcd8480-6d70-42b5-8d85-80f3eca7fb13",
-      "title": "Prime Video's New Fantasy Thriller Hits Major Filming Milestone For Comic Series' First Adaptation",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "5a6fe20c-906f-40b2-8367-19697a654e1a",
-      "title": "How Old All 8 Bridgerton Siblings Are In Every Season",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "3e26378f-786f-4640-9ea8-ca0535db6453",
-      "title": "Fire Country Season 5's Characters' Fate Confirmed After Shocking Premiere Episode",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "cddc4260-c99b-4e73-af9b-6dddea3c606d",
-      "title": "Avatar: Seven Havens co-creator and EP explain the show's new animation style, say they wanted to make an “old school anime”",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "9296bc81-9fb9-4c86-8c1e-6206113c3be5",
-      "title": "The Exorcist: Martyrs: Scarlett Johansson estrela novo suspense sobrenatural da franquia",
-      "category": "Filmes, Séries e Animações",
+      "id": "164e5bb8-39ec-4e21-94de-a9c881bcabf6",
+      "title": "A Batalha Final de A Roda do Tempo Ganha Jogo de Tabuleiro para 2027",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The Exorcist Martyrs trailer Scarlett Johansson Mike Flanagan",
+        "video_query_en": "The Wheel of Time War of the Dragon board game Dire Wolf",
         "images": [
           {
-            "anchor": "Um novo capítulo no terror clássico",
-            "query_en": "Mike Flanagan horror movie director"
+            "anchor": "O Fim da Série de TV e a Campanha dos Fãs",
+            "query_en": "The Wheel of Time Amazon TV show cast"
           },
           {
-            "anchor": "Uma investigação repleta de mistérios e elementos sobrenaturais",
-            "query_en": "Scarlett Johansson movie character"
+            "anchor": "O Sucesso Estrondoso do Novo Jogo de Tabuleiro",
+            "query_en": "War of the Dragon The Wheel of Time board game box"
           },
           {
-            "anchor": "Elenco estelar e data de lançamento",
-            "query_en": "Chiwetel Ejiofor actor"
+            "anchor": "Detalhes da Mecânica e Produção",
+            "query_en": "Dire Wolf board game components strategy"
           },
           {
-            "anchor": "Scarlett Johansson como a detetive Julie Miller, especialista em serial killers",
-            "query_en": "Scarlett Johansson profile"
+            "anchor": "Lançamento Previsto para 2027",
+            "query_en": "The Wheel of Time fantasy books Robert Jordan"
           },
           {
-            "anchor": "Chiwetel Ejiofor, que aparece com destaque em cenas do trailer oficial",
-            "query_en": "Chiwetel Ejiofor"
-          },
-          {
-            "anchor": "Laurence Fishburne, cujos vislumbres também são exibidos na prévia divulgada",
-            "query_en": "Laurence Fishburne"
-          },
-          {
-            "anchor": "John Leguizamo, completando o time de peso que ganha espaço nos primeiros materiais promocionais",
-            "query_en": "John Leguizamo"
+            "anchor": "O Pacote The Last Battle Bundle e Seus Itens",
+            "query_en": "The Wheel of Time board game components neoprene playmat"
           }
         ]
       }
     },
     {
-      "id": "f0455e60-f245-4efb-8a89-c8961442d0db",
-      "title": "Disclosure Day, épico de ficção científica de Steven Spielberg com Wyatt Russell, vira sucesso instantâneo no streaming",
-      "category": "Filmes, Séries e Animações",
+      "id": "01e2c3ac-b5d5-4499-89a6-cc278b7d4cc2",
+      "title": "Jogo gratuito na Steam mistura essência de Hollow Knight e Zelda e conquista jogadores",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Disclosure Day movie Steven Spielberg Peacock streaming",
+        "video_query_en": "Deepest Sword gameplay free steam game trailer",
         "images": [
           {
-            "anchor": "O sucesso estrondoso no Peacock",
-            "query_en": "Disclosure Day Steven Spielberg sci fi movie scene"
+            "anchor": "Conheça Deepest Sword na Steam",
+            "query_en": "Deepest Sword steam game cavern dragon"
           },
           {
-            "anchor": "A recepção mista nos cinemas",
-            "query_en": "Josh OConnor Emily Blunt Disclosure Day train scene"
+            "anchor": "Principais recursos e jogabilidade",
+            "query_en": "Deepest Sword physics platformer sword gameplay"
+          },
+          {
+            "anchor": "Acessibilidade e o cenário atual do gênero",
+            "query_en": "Hollow Knight team cherry metroidvania game"
           }
         ]
       }
     },
     {
-      "id": "78768522-8878-40b8-9702-0b0398d16b06",
-      "title": "Seth MacFarlane’s Dungeon Crawler Carl Series Gets Official Casting & Filming Updates",
+      "id": "d10331ec-9aee-4f30-88dc-b942b9f04f26",
+      "title": "Red Dead Online traz recompensas quadruplicadas e brindes de Halloween em outubro",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Red Dead Online Halloween update rewards gameplay",
+        "images": [
+          {
+            "anchor": "Recompensas e Eventos de Halloween",
+            "query_en": "Red Dead Online Halloween event spooky atmosphere"
+          },
+          {
+            "anchor": "Chegar à Onda 5 em qualquer partida do modo All Hallows Call to Arms garante o Traje Rowberrow e o gesto Air Banjo.",
+            "query_en": "Red Dead Online Call to Arms Halloween"
+          },
+          {
+            "anchor": "Missões Telegram e Strange Tales of the West",
+            "query_en": "Red Dead Redemption 2 eerie swamp night"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f32025ae-b2af-48d6-aa4a-116598902b35",
+      "title": "Stephen King Meets Severance In Prime Video’s Hidden 8-Part Horror Gem",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "d05d1d81-f25d-48da-91d8-8cfc4c7b1c27",
+      "title": "6 Heróis dos X-Men que a Marvel Prefere que os Fãs Esqueçam",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "X Men forgotten characters Marvel comics history",
+        "images": [
+          {
+            "anchor": "Bailey Hoskins",
+            "query_en": "Bailey Hoskins Marvel Comics worst X Man"
+          },
+          {
+            "anchor": "Stacy X",
+            "query_en": "Stacy X Marvel Comics Uncanny X Men"
+          },
+          {
+            "anchor": "Ink",
+            "query_en": "Ink Young X Men Marvel Comics tattoos"
+          },
+          {
+            "anchor": "Slipstream",
+            "query_en": "Slipstream X Treme X Men Marvel"
+          },
+          {
+            "anchor": "Petra",
+            "query_en": "Petra Marvel Comics Deadly Genesis"
+          },
+          {
+            "anchor": "Sunpyre",
+            "query_en": "Sunpyre Marvel X Men Leyu Yoshida"
+          }
+        ]
+      }
     },
     {
       "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
-      "title": "Anne Hathaway's New Thriller Officially Stumbles in Rotten Tomatoes Debut",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "title": "Novo thriller de Anne Hathaway estreia com recepção morna no Rotten Tomatoes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Verity movie trailer Anne Hathaway Dakota Johnson",
+        "images": [
+          {
+            "anchor": "Os grandes sucessos do ano de Anne Hathaway",
+            "query_en": "Anne Hathaway The Odyssey"
+          },
+          {
+            "anchor": "A chegada de Verity e a recepção da crítica",
+            "query_en": "Anne Hathaway Verity movie"
+          },
+          {
+            "anchor": "Detalhes técnicos e recepção no Rotten Tomatoes",
+            "query_en": "Dakota Johnson Verity"
+          }
+        ]
+      }
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -623,33 +843,6 @@
       "title": "“AHS” vet Seth Gabel shares why he was initially ‘terrified’ of that Dahmer scene with “Monster” star Evan Peters",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "1237a8af-1acc-45de-9297-efce3a9b8e25",
-      "title": "Explicação do Final de Verity: Quem Morre no Filme e a Verdade sobre a Personagem de Anne Hathaway",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Verity movie ending explained Anne Hathaway Dakota Johnson",
-        "images": [
-          {
-            "anchor": "Quem Morre até o Final de Verity?",
-            "query_en": "Anne Hathaway Verity movie thriller"
-          },
-          {
-            "anchor": "O Que Realmente Aconteceu com Verity Crawford?",
-            "query_en": "Dakota Johnson Lowen Ashleigh Verity movie"
-          },
-          {
-            "anchor": "Lowen e Jeremy Ficam Juntos no Final?",
-            "query_en": "Anne Hathaway and Dakota Johnson Verity"
-          },
-          {
-            "anchor": "Como o Filme Prepara o Terreno para uma Possível Sequência",
-            "query_en": "Verity movie scene Anne Hathaway"
-          }
-        ]
-      }
     },
     {
       "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
@@ -676,27 +869,16 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "38f142ea-989f-43d0-91f4-645d83c7d53f",
-      "title": "Os 3 melhores filmes para assistir na Netflix neste fim de semana",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Netflix best movies to watch weekend October Jason Bourne Twilight Hush",
-        "images": [
-          {
-            "anchor": "Twilight (2008)",
-            "query_en": "Twilight movie Robert Pattinson Edward Cullen Kristen Stewart Bella Swan"
-          },
-          {
-            "anchor": "Hush (2016)",
-            "query_en": "Hush 2016 movie Mike Flanagan Kate Siegel horror"
-          },
-          {
-            "anchor": "Jason Bourne (2016)",
-            "query_en": "Jason Bourne 2016 Matt Damon action thriller"
-          }
-        ]
-      }
+      "id": "2aa52977-93cd-456e-8b6e-c42fb931768c",
+      "title": "3 Best Movies To Watch On HBO Max This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "9267bc78-21b5-4957-b7cc-55e173237112",
+      "title": "3 Best Movies To Watch On Prime Video This Weekend (October 3-4)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     }
   ]
 }
