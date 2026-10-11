@@ -1,827 +1,674 @@
 {
-  "updated_at": "2026-10-11T09:01:42.048Z",
+  "updated_at": "2026-10-11T15:50:10.870Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "c6dec045-b586-4ea7-9e2b-b4a2a13cbec9",
-      "title": "Taxa de assinatura de jornais no Japão cai abaixo de 50% pela primeira vez",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan newspaper subscription rate declines",
-        "images": [
-          {
-            "anchor": "Uma queda histórica no mercado editorial japonês",
-            "query_en": "Japanese newspaper reading in public"
-          },
-          {
-            "anchor": "Metodologia e contexto da pesquisa de mídia",
-            "query_en": "Japan Press Research Institute survey"
-          },
-          {
-            "anchor": "Mudanças nos hábitos informativos da população",
-            "query_en": "People reading news on smartphone and television in Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e884fd9-a8c3-4d94-b5d2-9ba32d7d5017",
-      "title": "NASCAR e IndyCar buscam expansão internacional inspiradas no sucesso da Fórmula 1",
+      "id": "fcf1cf4a-92e3-41d4-b897-1607988922f0",
+      "title": "Grandes fabricantes de eletrônicos no Japão registram aumento expressivo em consultas sobre cibersegurança",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NASCAR and IndyCar international expansion Formula One",
+        "video_query_en": "Japan cyber defense services electronics firms AI cyberattacks",
         "images": [
           {
-            "anchor": "O modelo de inspiração da Fórmula 1",
-            "query_en": "Formula One race car track Liberty Media"
+            "anchor": "O aumento na procura por defesas digitais",
+            "query_en": "cybersecurity command center monitors digital threats"
           },
           {
-            "anchor": "Os planos de expansão da IndyCar e da NASCAR",
-            "query_en": "NASCAR race car speedway"
+            "anchor": "Setores críticos em busca de proteção",
+            "query_en": "modern power plant control room technology"
           },
           {
-            "anchor": "IndyCar: A categoria concentra seus esforços em levar uma etapa para Barcelona",
-            "query_en": "IndyCar race car open wheel"
-          },
-          {
-            "anchor": "NASCAR: A organização tem mantido conversas ativas com parceiros em potencial para realizar provas em países vizinhos",
-            "query_en": "NASCAR stock car race event"
+            "anchor": "A visão do mercado e a continuidade dos negócios",
+            "query_en": "business technology consultant in a modern office"
           }
         ]
       }
     },
     {
-      "id": "cf3a77be-5db6-4ab9-b5e6-ba7aabbe4666",
-      "title": "Guardians vencem o White Sox, completam reviravolta histórica e garantem vaga na ALCS",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Cleveland Guardians vs Chicago White Sox Game 5 ALDS highlights",
-        "images": [
-          {
-            "anchor": "Uma Vitória Histórica e Decisiva",
-            "query_en": "Cleveland Guardians ALDS celebration stadium"
-          },
-          {
-            "anchor": "Jose Ramirez",
-            "query_en": "Jose Ramirez batting Cleveland Guardians"
-          },
-          {
-            "anchor": "Gavin Williams",
-            "query_en": "Gavin Williams pitching Cleveland Guardians"
-          },
-          {
-            "anchor": "O Brilho do No-Hitter Combinado",
-            "query_en": "Cleveland Guardians pitcher celebration on mound"
-          },
-          {
-            "anchor": "Próximo Desafio na Temporada",
-            "query_en": "Tampa Bay Rays stadium St Petersburg Florida"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a7a0eac2-bab6-494f-b28c-6a5a8d61b287",
-      "title": "Indonésia liberta oito orangotangos resgatados de incêndios para floresta protegida",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "indonesia orangutans released protected forest",
-        "images": [
-          {
-            "anchor": "Operação de soltura em Kalimantan Ocidental",
-            "query_en": "orangutan release protected forest borneo"
-          },
-          {
-            "anchor": "Contexto dos resgates e ameaças do fogo",
-            "query_en": "indonesia wildlife rescue wildfire"
-          }
-        ]
-      }
-    },
-    {
-      "id": "80398a83-1484-4e9b-8794-54910f5043f2",
-      "title": "\"Todo mundo está com raiva\": Okinawanos sentem medo e frustração após assassinato cometido por militar americano",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Okinawa US military presence protest reaction",
-        "images": [
-          {
-            "anchor": "Repercussão e revolta na ilha",
-            "query_en": "Okinawa street protest Japan"
-          },
-          {
-            "anchor": "O impacto na segurança e o histórico de tensões",
-            "query_en": "US military base Okinawa fence"
-          },
-          {
-            "anchor": "Contexto político e social",
-            "query_en": "Okinawa governor press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "407c33fe-ae33-4471-95c7-ffa9a00e2e64",
-      "title": "Com o comércio em alta, por que as tensões entre Japão e China estão aumentando?",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan China trade economic tensions weaponized interdependence",
-        "images": [
-          {
-            "anchor": "A ilusão da paz comercial",
-            "query_en": "Japan China trade relations business skyline"
-          },
-          {
-            "anchor": "A realidade da interdependência armada",
-            "query_en": "Tokyo and Beijing economic strategic supply chain"
-          },
-          {
-            "anchor": "O volume de comércio bilateral atingiu US$ 308,3 bilhões em 2024.",
-            "query_en": "cargo ship port shipping containers international trade"
-          },
-          {
-            "anchor": "O impacto da competição global",
-            "query_en": "US China Japan geopolitical summit economics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5748b935-7765-4884-80d7-91e66da23f7e",
-      "title": "Takaichi em situação delicada após sanções dos EUA contra o Tribunal Penal Internacional",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanae Takaichi US sanctions International Criminal Court",
-        "images": [
-          {
-            "anchor": "A pressão dos Estados Unidos sobre o Tribunal Penal Internacional",
-            "query_en": "Donald Trump United States flag press conference"
-          },
-          {
-            "anchor": "O impacto direto para o Japão e autoridades japonesas",
-            "query_en": "Sanae Takaichi Prime Minister of Japan"
-          },
-          {
-            "anchor": "O país abriga aproximadamente 60 mil militares dos Estados Unidos em seu território.",
-            "query_en": "US military base in Japan"
-          },
-          {
-            "anchor": "A nação depende fortemente de Washington para a sua própria segurança e defesa.",
-            "query_en": "US Japan security alliance meeting"
-          },
-          {
-            "anchor": "Tóquio precisa adotar uma postura extremamente cautelosa ao ponderar qualquer tipo de reação ou resistência diplomática.",
-            "query_en": "Tokyo government building Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fa1a1780-1dfc-48b0-ab9f-c5c0fb543706",
-      "title": "Índia liberta líderes do movimento 'barata' enquanto protestos continuam",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "India cockroach movement protest New Delhi election commission",
-        "images": [
-          {
-            "anchor": "## A libertação dos líderes e o contexto das detenções",
-            "query_en": "New Delhi street protest police security India"
-          },
-          {
-            "anchor": "## Reação do Partido Cockroach Janta e continuidade dos atos",
-            "query_en": "Indian youth protest demonstration political opposition"
-          },
-          {
-            "anchor": "- O movimento é liderado por jovens e utiliza o ambiente digital como principal ferramenta de articulação e protesto.",
-            "query_en": "young Indian activists protest signs"
-          },
-          {
-            "anchor": "- Milhares de simpatizantes foram detidos preventivamente pelas forças de segurança durante as operações de sábado em Nova Délhi.",
-            "query_en": "police detention protest New Delhi India"
-          },
-          {
-            "anchor": "- Os organizadores insistem que a pressão popular não vai cessar e conclamam novos atos públicos.",
-            "query_en": "protest crowd India streets"
-          },
-          {
-            "anchor": "## Origem das mobilizações e demandas contra a comissão eleitoral",
-            "query_en": "Election Commission of India building New Delhi"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d77f5f88-a192-4f56-9465-b0afa3c29305",
-      "title": "Afeganistão abre rota comercial potencial entre China e o Golfo Pérsico",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Afghanistan China trade route Wakhan Corridor",
-        "images": [
-          {
-            "anchor": "O contexto geográfico do Corredor Wakhan",
-            "query_en": "Wakhan Corridor mountains Afghanistan landscape"
-          },
-          {
-            "anchor": "Os desafios para a operacionalização completa",
-            "query_en": "mountain road construction Afghanistan rough terrain"
-          },
-          {
-            "anchor": "O relevo montanhoso extremo dificulta a circulação de veículos de carga pesada ao longo de todo o ano.",
-            "query_en": "rugged mountains Badakhshan Afghanistan"
-          },
-          {
-            "anchor": "As condições climáticas severas da região provocam interrupções frequentes no tráfego durante os meses de inverno.",
-            "query_en": "snowy mountain pass Afghanistan winter road"
-          },
-          {
-            "anchor": "A infraestrutura de apoio ao longo da rota ainda é praticamente inexistente, exigindo o desenvolvimento de postos alfandegários e redes de comunicação.",
-            "query_en": "remote road Afghanistan border checkpoint"
-          },
-          {
-            "anchor": "A estabilidade política e de segurança na região continua a ser uma preocupação central para governos e investidores estrangeiros.",
-            "query_en": "Taliban security forces Afghanistan checkpoint"
-          },
-          {
-            "anchor": "Implicações para a Iniciativa Cinturão e Rota",
-            "query_en": "Belt and Road Initiative map trade routes Asia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "271a74f1-f460-489d-bbfa-ba4174c5ec15",
-      "title": "Oportunidades de emprego em SAP, DevOps, auditoria de TI e segurança em nuvem",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SAP DevOps and Cloud Security IT jobs career",
-        "images": [
-          {
-            "anchor": "Áreas de atuação em destaque",
-            "query_en": "IT professionals working on servers and cloud security"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1e5bf985-6c7d-4022-8f02-cc3cd7c52871",
-      "title": "Brickboy transforma Lego em um Game Boy funcional com tecnologia suíça",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Brickboy Lego Game Boy mod test review",
-        "images": [
-          {
-            "anchor": "O projeto Brickboy e a transformação do Lego",
-            "query_en": "Lego Game Boy brickboy custom mod"
-          },
-          {
-            "anchor": "Como funciona a montagem na prática",
-            "query_en": "Game Boy console internal hardware circuit"
-          },
-          {
-            "anchor": "O impacto para colecionadores e entusiastas",
-            "query_en": "Retro gaming handheld console collection"
-          }
-        ]
-      }
-    },
-    {
-      "id": "27fc0e00-0b00-4b32-ade4-94e259bd4338",
-      "title": "Usuários na Europa criam alternativa própria para a Siri AI diante da demora da Apple",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple Siri AI alternative Europe workaround",
-        "images": [
-          {
-            "anchor": "Os desafios de construir um assistente próprio",
-            "query_en": "person setting up smart assistant device at home"
-          },
-          {
-            "anchor": "O impacto das regulamentações na tecnologia",
-            "query_en": "smartphone displaying europe map or data privacy concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "146dc7e0-2a2f-4434-84d0-25c2aba772ad",
-      "title": "Carregador sem fio Iniu de 15 watts para iOS e Android em promoção na Amazon",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Iniu wireless charger review 15w",
-        "images": [
-          {
-            "anchor": "Funcionalidades e recursos do Iniu Wireless Charger",
-            "query_en": "Iniu wireless charger stand"
-          },
-          {
-            "anchor": "Otimização para o ambiente noturno",
-            "query_en": "wireless charger on nightstand"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9c1049f4-f6fd-4ae3-b970-20870bdda6ed",
-      "title": "Schufa passa a fornecer dados históricos e esclarece regras sobre banco de dados oculto",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Schufa credit score data transparency Germany",
-        "images": [
-          {
-            "anchor": "Transparência e acesso aos dados históricos",
-            "query_en": "Schufa headquarters building Germany"
-          },
-          {
-            "anchor": "Quem pode utilizar as informações",
-            "query_en": "Digital credit check banking data analytics"
-          },
-          {
-            "anchor": "Impacto para os consumidores",
-            "query_en": "Consumer reviewing financial credit report document"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5a316108-dc20-40cb-839a-bef70ca7b043",
-      "title": "Vicor intensifica disputa de patentes e busca nova proibição de importação nos EUA contra Foxconn, Quanta e Delta",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vicor patent fight server power Foxconn Quanta",
-        "images": [
-          {
-            "anchor": "O novo pedido de proibição nos Estados Unidos",
-            "query_en": "US International Trade Commission building Washington DC"
-          },
-          {
-            "anchor": "Foxconn",
-            "query_en": "Foxconn factory manufacturing electronics"
-          },
-          {
-            "anchor": "Quanta",
-            "query_en": "Quanta Computer server manufacturing facility"
-          },
-          {
-            "anchor": "Delta",
-            "query_en": "Delta Electronics power supply unit"
-          },
-          {
-            "anchor": "Histórico e contexto da disputa",
-            "query_en": "AI server power supply hardware datacenter"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5de83f17-d20e-4c96-8e31-541de642d032",
-      "title": "Redução do Roaming da KDDI na Rakuten Mobile Gera Debates sobre Transparência e Responsabilidade",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rakuten Mobile KDDI roaming reduction Japan",
-        "images": [
-          {
-            "anchor": "O Impacto da Redução do Roaming para os Clientes",
-            "query_en": "Rakuten Mobile smartphone network signal"
-          },
-          {
-            "anchor": "A Questão da Transparência no Setor de Telecomunicações",
-            "query_en": "KDDI au mobile network tower Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e7c62784-ab5f-4f80-9775-4b525eae3212",
-      "title": "A Jukebox de Game Boy de Pokémon Red & Blue está de volta ao estoque",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Pokemon Red and Blue Game Boy Jukebox unboxing review",
-        "images": [
-          {
-            "anchor": "O que vem na Jukebox",
-            "query_en": "Pokemon Red and Blue Game Boy Jukebox cartridges"
-          },
-          {
-            "anchor": "Disponibilidade e Celebração de Aniversário",
-            "query_en": "Pokemon Center website merchandise display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0e235f88-12c4-446b-9da7-aa79cc4b49c2",
-      "title": "Capcom considerou dar um tom mais focado em terror para o desenvolvimento de Pragmata",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Capcom Pragmata gameplay trailer and developer interview",
-        "images": [
-          {
-            "anchor": "Uma fase inicial assustadora para a nova propriedade intelectual",
-            "query_en": "Capcom Pragmata sci-fi game Hugh and Diana"
-          },
-          {
-            "anchor": "O cuidado para evitar semelhanças com Resident Evil",
-            "query_en": "Masachika Kawata Capcom developer"
-          },
-          {
-            "anchor": "Vestígios de terror e a recepção dos fãs",
-            "query_en": "Pragmata human looking robots sci-fi"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cbc6461d-656a-400b-b808-fbd7deb63eba",
-      "title": "Fases da Lua em 11 de outubro de 2026: saiba como o satélite aparece no céu",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NASA Moon phases explanation orbit",
-        "images": [
-          {
-            "anchor": "Como está a Lua hoje",
-            "query_en": "Waxing crescent moon phase NASA"
-          },
-          {
-            "anchor": "A próxima Lua Cheia",
-            "query_en": "Full moon bright night sky"
-          },
-          {
-            "anchor": "O ciclo das fases lunares",
-            "query_en": "Moon orbit around Earth phases diagram"
-          },
-          {
-            "anchor": "As oito fases da Lua",
-            "query_en": "Eight lunar phases astronomy chart"
-          },
-          {
-            "anchor": "New Moon",
-            "query_en": "New moon dark sky astronomy"
-          },
-          {
-            "anchor": "Waxing Crescent",
-            "query_en": "Waxing crescent moon close up"
-          },
-          {
-            "anchor": "First Quarter",
-            "query_en": "First quarter half moon"
-          },
-          {
-            "anchor": "Waxing Gibbous",
-            "query_en": "Waxing gibbous moon phase"
-          },
-          {
-            "anchor": "Full Moon",
-            "query_en": "Full moon detailed surface craters"
-          },
-          {
-            "anchor": "Waning Gibbous",
-            "query_en": "Waning gibbous moon phase"
-          },
-          {
-            "anchor": "Third Quarter",
-            "query_en": "Third quarter moon phase"
-          },
-          {
-            "anchor": "Waning Crescent",
-            "query_en": "Waning crescent moon end of cycle"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e76b0c6e-a915-47d1-afea-0fa23a971771",
-      "title": "Como assistir Eagles contra Jaguars na NFL ao vivo e de graça",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Philadelphia Eagles vs Jacksonville Jaguars NFL London game",
-        "images": [
-          {
-            "anchor": "O cenário da partida em Londres",
-            "query_en": "Tottenham Hotspur Stadium NFL game London"
-          },
-          {
-            "anchor": "Quando e onde acontece o jogo",
-            "query_en": "Philadelphia Eagles NFL team helmet"
-          },
-          {
-            "anchor": "Como assistir Eagles contra Jaguars gratuitamente",
-            "query_en": "Jacksonville Jaguars NFL team logo"
-          },
-          {
-            "anchor": "Passos para desbloquear a transmissão",
-            "query_en": "VPN software streaming online security"
-          },
-          {
-            "anchor": "Vantagens do ExpressVPN para a NFL",
-            "query_en": "ExpressVPN application on mobile device"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ac633e0e-53ae-46c1-b3ba-ee32fadf7094",
-      "title": "Dicas e respostas do Hurdle para 11 de outubro de 2026",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hurdle word game gameplay hints",
-        "images": [
-          {
-            "anchor": "Como funciona a dinâmica do jogo",
-            "query_en": "daily word puzzle game interface"
-          },
-          {
-            "anchor": "Respostas do Hurdle para 11 de outubro de 2026",
-            "query_en": "word game crossword puzzle clues"
-          }
-        ]
-      }
-    },
-    {
-      "id": "68b84868-eb6b-4cb1-9ce5-392ce86f5065",
-      "title": "Como assistir a Sassuolo e Milan ao vivo na Série A de graça",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sassuolo vs Milan Serie A live stream free",
-        "images": [
-          {
-            "anchor": "Contexto da Partida e Situação na Tabela",
-            "query_en": "AC Milan players celebrating a goal in Serie A"
-          },
-          {
-            "anchor": "Data, Horário e Local do Jogo",
-            "query_en": "Mapei Stadium Sassuolo home ground"
-          },
-          {
-            "anchor": "Como Assistir à Partida Gratuitamente",
-            "query_en": "Watching live football match on smartphone or laptop"
-          },
-          {
-            "anchor": "Utilizando Garantias de Reembolso para Assistir sem Custos",
-            "query_en": "Credit card online payment security guarantee"
-          },
-          {
-            "anchor": "Principais Recursos do ExpressVPN para Esportes",
-            "query_en": "ExpressVPN app running on digital device screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "794d6c86-8243-4aa7-a4d9-228655ce5a1c",
-      "title": "Assinatura vitalícia de 1 TB de armazenamento em nuvem Koofr é oferecida por US$ 130",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Koofr cloud storage review and features",
-        "images": [
-          {
-            "anchor": "Detalhes da Oferta Promocional",
-            "query_en": "Koofr cloud storage logo or interface"
-          },
-          {
-            "anchor": "Recursos e Facilidades de Uso do Koofr",
-            "query_en": "Cloud storage security encryption data backup"
-          },
-          {
-            "anchor": "Interface amigável que facilita a navegação e o gerenciamento dos arquivos.",
-            "query_en": "Cloud storage file manager interface on computer"
-          },
-          {
-            "anchor": "Compatibilidade com outros serviços de armazenamento populares, permitindo transferir facilmente conteúdos guardados no Dropbox, Google Drive, Amazon Drive ou OneDrive para o Koofr.",
-            "query_en": "Google Drive Dropbox cloud storage icons"
-          },
-          {
-            "anchor": "Criptografia de ponta a ponta, garantindo que os arquivos armazenados fiquem totalmente protegidos e não possam ser acessados por terceiros, nem mesmo pela própria empresa Koofr.",
-            "query_en": "Cyber security encryption lock digital data"
-          },
-          {
-            "anchor": "Acesso flexível aos arquivos a qualquer momento por meio de computadores, smartphones ou utilizando o protocolo WebDAV.",
-            "query_en": "Accessing cloud files on smartphone and laptop"
-          },
-          {
-            "anchor": "Ferramentas avançadas que incluem opções de renomeação de arquivos, personalização da aparência de links compartilhados e um sistema localizador de arquivos duplicados.",
-            "query_en": "File management duplicate finder software screen"
-          },
-          {
-            "anchor": "Capacidade de Armazenamento de 1 TB",
-            "query_en": "Terabyte cloud storage capacity concept"
-          },
-          {
-            "anchor": "250.000 fotos com resolução de 12 megapixels.",
-            "query_en": "Smartphone photography photo gallery stack"
-          },
-          {
-            "anchor": "500 horas de vídeos gravados.",
-            "query_en": "Video recording play button digital media"
-          },
-          {
-            "anchor": "6,5 milhões de arquivos em formato PDF.",
-            "query_en": "PDF document files stack digital archive"
-          }
-        ]
-      }
-    },
-    {
-      "id": "10c3533b-3038-4416-ae73-bc89e6650d99",
-      "title": "Apple iPhone 18 Pro ganha desconto de mil dólares na T-Mobile",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "T-Mobile Apple iPhone 18 Pro deal overview",
-        "images": [
-          {
-            "anchor": "Como funciona o desconto na T-Mobile",
-            "query_en": "T-Mobile storefront and logo"
-          },
-          {
-            "anchor": "Condições e termos do contrato",
-            "query_en": "Apple iPhone Pro smartphone display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "91f7f4b0-0ede-4a0a-92cf-69247f334aad",
-      "title": "Assinatura vitalícia de hospedagem ilimitada de sites está em oferta por US$ 120",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hostdeal Unlimited Plan web hosting review",
-        "images": [
-          {
-            "anchor": "Detalhes da Promoção",
-            "query_en": "web hosting discount deal laptop screen"
-          },
-          {
-            "anchor": "Recursos e Vantagens",
-            "query_en": "cloud storage dashboard web development"
-          },
-          {
-            "anchor": "Desempenho e Gerenciamento",
-            "query_en": "website dashboard control panel analytics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "164e5bb8-39ec-4e21-94de-a9c881bcabf6",
-      "title": "A Batalha Final de A Roda do Tempo Ganha Jogo de Tabuleiro para 2027",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Wheel of Time War of the Dragon board game Dire Wolf",
-        "images": [
-          {
-            "anchor": "O Fim da Série de TV e a Campanha dos Fãs",
-            "query_en": "The Wheel of Time Amazon TV show cast"
-          },
-          {
-            "anchor": "O Sucesso Estrondoso do Novo Jogo de Tabuleiro",
-            "query_en": "War of the Dragon The Wheel of Time board game box"
-          },
-          {
-            "anchor": "Detalhes da Mecânica e Produção",
-            "query_en": "Dire Wolf board game components strategy"
-          },
-          {
-            "anchor": "Lançamento Previsto para 2027",
-            "query_en": "The Wheel of Time fantasy books Robert Jordan"
-          },
-          {
-            "anchor": "O Pacote The Last Battle Bundle e Seus Itens",
-            "query_en": "The Wheel of Time board game components neoprene playmat"
-          }
-        ]
-      }
-    },
-    {
-      "id": "01e2c3ac-b5d5-4499-89a6-cc278b7d4cc2",
-      "title": "Jogo gratuito na Steam mistura essência de Hollow Knight e Zelda e conquista jogadores",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Deepest Sword gameplay free steam game trailer",
-        "images": [
-          {
-            "anchor": "Conheça Deepest Sword na Steam",
-            "query_en": "Deepest Sword steam game cavern dragon"
-          },
-          {
-            "anchor": "Principais recursos e jogabilidade",
-            "query_en": "Deepest Sword physics platformer sword gameplay"
-          },
-          {
-            "anchor": "Acessibilidade e o cenário atual do gênero",
-            "query_en": "Hollow Knight team cherry metroidvania game"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d10331ec-9aee-4f30-88dc-b942b9f04f26",
-      "title": "Red Dead Online traz recompensas quadruplicadas e brindes de Halloween em outubro",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Red Dead Online Halloween update rewards gameplay",
-        "images": [
-          {
-            "anchor": "Recompensas e Eventos de Halloween",
-            "query_en": "Red Dead Online Halloween event spooky atmosphere"
-          },
-          {
-            "anchor": "Chegar à Onda 5 em qualquer partida do modo All Hallows Call to Arms garante o Traje Rowberrow e o gesto Air Banjo.",
-            "query_en": "Red Dead Online Call to Arms Halloween"
-          },
-          {
-            "anchor": "Missões Telegram e Strange Tales of the West",
-            "query_en": "Red Dead Redemption 2 eerie swamp night"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f32025ae-b2af-48d6-aa4a-116598902b35",
-      "title": "Stephen King Meets Severance In Prime Video’s Hidden 8-Part Horror Gem",
+      "id": "56a2d747-8872-4bba-80d5-3e134f4868b5",
+      "title": "Netflix vies to be a cut above in TV production",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d05d1d81-f25d-48da-91d8-8cfc4c7b1c27",
-      "title": "6 Heróis dos X-Men que a Marvel Prefere que os Fãs Esqueçam",
-      "category": "Games",
+      "id": "adc65803-f828-41a6-800c-53847b4df9f7",
+      "title": "As novas regras rigorosas para o pedido de residência permanente no Japão",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "X Men forgotten characters Marvel comics history",
+        "video_query_en": "Japan permanent residency new immigration guidelines ISA",
         "images": [
           {
-            "anchor": "Bailey Hoskins",
-            "query_en": "Bailey Hoskins Marvel Comics worst X Man"
+            "anchor": "Mudanças drásticas na imigração japonesa",
+            "query_en": "Japan immigration office Tokyo building"
           },
           {
-            "anchor": "Stacy X",
-            "query_en": "Stacy X Marvel Comics Uncanny X Men"
+            "anchor": "Diretrizes mais rígidas da ISA",
+            "query_en": "Japan Immigration Services Agency document review"
           },
           {
-            "anchor": "Ink",
-            "query_en": "Ink Young X Men Marvel Comics tattoos"
-          },
-          {
-            "anchor": "Slipstream",
-            "query_en": "Slipstream X Treme X Men Marvel"
-          },
-          {
-            "anchor": "Petra",
-            "query_en": "Petra Marvel Comics Deadly Genesis"
-          },
-          {
-            "anchor": "Sunpyre",
-            "query_en": "Sunpyre Marvel X Men Leyu Yoshida"
+            "anchor": "Retroatividade e impacto nos pedidos",
+            "query_en": "foreign residents waiting in Japan"
           }
         ]
       }
     },
     {
-      "id": "89e9ed4f-fccd-4062-96d9-a7a49672c7fa",
-      "title": "Novo thriller de Anne Hathaway estreia com recepção morna no Rotten Tomatoes",
+      "id": "8c4545e9-4272-4f44-aa0c-df05ebd56b2b",
+      "title": "Vazamentos de dados de carteiras de motorista no Japão geram preocupação e corrida por emissão de segunda via",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan drivers license data breach Times Car cyberattack",
+        "images": [
+          {
+            "anchor": "O incidente na Times Car e a corrida por novas vias",
+            "query_en": "Japan car sharing service Times Car"
+          },
+          {
+            "anchor": "A posição das autoridades policiais",
+            "query_en": "Japanese police officer uniform"
+          },
+          {
+            "anchor": "Recomendações e medidas preventivas",
+            "query_en": "Japan drivers license identification"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3e971452-d3af-4a04-a64b-2314eafdcc52",
+      "title": "Papa Leão passará por cirurgia após médicos detectarem pequeno nódulo no pulmão",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pope Leo lung surgery Vatican announcement",
+        "images": [
+          {
+            "anchor": "O anúncio durante a oração dominical",
+            "query_en": "Pope Leo Sunday prayer St Peters Square"
+          },
+          {
+            "anchor": "Detalhes sobre o diagnóstico",
+            "query_en": "Vatican City medical health check Vatican"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5fb953d-b72b-4c61-84fe-6c60a51cecac",
+      "title": "Fabricante de baterias de estado sólido ProLogium busca novos mercados além dos carros elétricos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ProLogium solid state battery technology and applications",
+        "images": [
+          {
+            "anchor": "Uma nova rota estratégica para a ProLogium",
+            "query_en": "ProLogium solid state battery manufacturing facility"
+          },
+          {
+            "anchor": "A expansão para inteligência artificial e aviação",
+            "query_en": "advanced solid state battery applications aviation and ai"
+          },
+          {
+            "anchor": "Desafios do mercado de veículos elétricos",
+            "query_en": "electric vehicle battery production line"
+          }
+        ]
+      }
+    },
+    {
+      "id": "964e891c-d184-4c5c-91ac-cc20ebd54cdc",
+      "title": "Preço recorde do Brent físico revela forte demanda global por petróleo e impacto no Estreito de Ormuz",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "physical brent crude oil price record strait of hormuz energy market",
+        "images": [
+          {
+            "anchor": "A disparada do petróleo físico e a alta dos prêmios",
+            "query_en": "North Sea oil rig offshore energy platform production"
+          },
+          {
+            "anchor": "O impacto geográfico e o papel do Estreito de Ormuz",
+            "query_en": "oil tanker cargo ship sailing on the sea ocean"
+          }
+        ]
+      }
+    },
+    {
+      "id": "82f0ee2a-ef1a-4eb8-8a18-3a1040587ce2",
+      "title": "SK Group planeja acelerar construção de polo de semicondutores em Gwangju",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK Group semiconductor cluster Gwangju Chey Tae-won",
+        "images": [
+          {
+            "anchor": "Perspectiva para o início das obras",
+            "query_en": "SK Group headquarters Seoul"
+          },
+          {
+            "anchor": "Cronograma e indefinições",
+            "query_en": "semiconductor wafer manufacturing cleanroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2de67ef8-0adc-43cc-b91e-e1e12742ea39",
+      "title": "Murata conclui expansão de fábrica de indutores no Vietnã",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Murata Manufacturing factory Vietnam",
+        "images": [
+          {
+            "anchor": "Expansão da produção no Vietnã",
+            "query_en": "Murata Manufacturing factory building"
+          },
+          {
+            "anchor": "Implementação gradual e futuro operacional",
+            "query_en": "electronic components inductor manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9fe22a8-17e5-4037-a00e-e09378a26863",
+      "title": "ASML vai aumentar em 10% os preços de peças de reposição na Coreia do Sul",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ASML lithography equipment semiconductor manufacturing",
+        "images": [
+          {
+            "anchor": "Impacto nos sistemas de litografia",
+            "query_en": "ASML EUV DUV lithography machine semiconductor"
+          },
+          {
+            "anchor": "Prazos e vigência",
+            "query_en": "ASML semiconductor cleanroom manufacturing facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f2da51d9-9c9a-454e-b6d9-603b5e4d3a07",
+      "title": "Hanwha celebra seu 74º aniversário com foco em longevidade corporativa e crescimento",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hanwha Group history and business overview",
+        "images": [
+          {
+            "anchor": "Posição de Destaque no Mercado Sul-Coreano",
+            "query_en": "South Korea skyline business district"
+          },
+          {
+            "anchor": "Mensagem do Presidente e Metas Futuras",
+            "query_en": "Hanwha Group corporate building Seoul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff334d73-cbe6-479c-b264-aceec1817696",
+      "title": "Tesla altera nome de seu sistema de assistência após pressões regulatórias na Alemanha",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tesla Full Self Driving name change Germany",
+        "images": [
+          {
+            "anchor": "Pressão regulatória e críticas na Alemanha",
+            "query_en": "Germany regulatory sign road traffic"
+          },
+          {
+            "anchor": "O novo nome e a manutenção da tecnologia",
+            "query_en": "Tesla electric vehicle driving assistance"
+          },
+          {
+            "anchor": "Os mesmos sensores e câmeras utilizados anteriormente pelo conjunto de hardware.",
+            "query_en": "Tesla autopilot camera sensor hardware"
+          },
+          {
+            "anchor": "Impacto na percepção dos consumidores",
+            "query_en": "Tesla electric car parked street"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8beb3d4d-3156-47fb-a723-2b4811f30380",
+      "title": "A enxurrada de código gerado por IA aumenta o volume, mas reduz o progresso real",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI coding tools increase code volume but slow review time Harvard study",
+        "images": [
+          {
+            "anchor": "O impacto das ferramentas de IA na programação",
+            "query_en": "software developer working with AI coding assistance"
+          },
+          {
+            "anchor": "Aumento expressivo no volume total de código gerado de forma automatizada.",
+            "query_en": "lines of computer code on a dark screen"
+          },
+          {
+            "anchor": "O gargalo nas revisões de código",
+            "query_en": "programmer reviewing code on dual monitors"
+          },
+          {
+            "anchor": "Desafios futuros para a engenharia de software",
+            "query_en": "team of software engineers meeting in modern office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c632235a-51a6-4ce3-8859-5f084563b259",
+      "title": "Ataques de drones ucranianos atingem mais centros de dados da Yandex e afetam serviços em nuvem na Rússia",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ukrainian drone attacks Yandex data centers Russia cloud services",
+        "images": [
+          {
+            "anchor": "O impacto dos ataques nos centros de dados da Yandex",
+            "query_en": "Yandex data center servers technology"
+          },
+          {
+            "anchor": "Contexto e repercussões na infraestrutura russa",
+            "query_en": "Russian server infrastructure data center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bbbd2ec1-f683-46f5-bc00-adb2a275b82c",
+      "title": "Microsoft-Chef Nadella: Inteligência Artificial não deve se autorregular",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Satya Nadella Microsoft AI regulation statements",
+        "images": [
+          {
+            "anchor": "O fracasso das contenções tradicionales",
+            "query_en": "artificial intelligence models server data center"
+          },
+          {
+            "anchor": "Adaptação ao cenário político estadunidense",
+            "query_en": "Satya Nadella Microsoft CEO portrait"
+          },
+          {
+            "anchor": "Alinhamento estratégico com a administração de Donald Trump.",
+            "query_en": "Donald Trump US flag press conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "08778697-70d6-4322-a417-1ccb173859d0",
+      "title": "Governo Federal Alemão desiste de acordo-quadro de Inteligência Artificial com Mistral e SAP",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "German federal government Mistral AI SAP framework contract cancelled",
+        "images": [
+          {
+            "anchor": "O Fim do Acordo Preliminar",
+            "query_en": "German government Berlin Reichstag building"
+          },
+          {
+            "anchor": "Alemanha",
+            "query_en": "German flag and European Union flag"
+          },
+          {
+            "anchor": "Mistral",
+            "query_en": "Mistral AI logo headquarters Paris"
+          },
+          {
+            "anchor": "SAP",
+            "query_en": "SAP corporate headquarters building Germany"
+          },
+          {
+            "anchor": "Implicações para o Setor",
+            "query_en": "Artificial intelligence servers data center Europe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0a612304-613f-47aa-a583-d333a8db85a6",
+      "title": "Ministra da Justiça quer conter enxurrada de petições geradas por IA nos tribunais alemães",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "artificial intelligence impact on courts and legal system",
+        "images": [
+          {
+            "anchor": "O impacto da inteligência artificial nos tribunais sociais",
+            "query_en": "german social court building exterior"
+          },
+          {
+            "anchor": "A iniciativa da ministra da Justiça",
+            "query_en": "german minister of justice press conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd9b37fa-a1c5-4e30-ab8d-2df7a765e930",
+      "title": "Ônibus a hidrogênio em Hamburgo: desafios tecnológicos e custos elevados travam transição",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hamburg hydrogen bus public transport challenges",
+        "images": [
+          {
+            "anchor": "Os obstáculos práticos e técnicos",
+            "query_en": "Hamburg hydrogen bus technical problems"
+          },
+          {
+            "anchor": "O fator econômico do hidrogênio verde",
+            "query_en": "green hydrogen fuel cell bus refueling"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6096674d-a023-4971-9ec5-ca514f47615b",
+      "title": "Shield AI apresenta o protótipo da X-BAT, drone a jato com capacidade de descolagem e aterragem vertical para navios",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Shield AI X-BAT drone vertical takeoff jet powered",
+        "images": [
+          {
+            "anchor": "O Conceito e Capacidades da X-BAT",
+            "query_en": "Shield AI X-BAT drone prototype military"
+          },
+          {
+            "anchor": "Propulsão a jato para maior desempenho em voo",
+            "query_en": "jet engine military drone vertical takeoff"
+          },
+          {
+            "anchor": "Contexto da Indústria e Parcerias",
+            "query_en": "General Electric aerospace technology defense"
+          },
+          {
+            "anchor": "Desafios e Perspectivas de Implementação",
+            "query_en": "naval drone deck operation flight test"
+          }
+        ]
+      }
+    },
+    {
+      "id": "15ccdc19-e4ca-461b-9c11-6ba330cfd535",
+      "title": "BenQ realiza promoção com 48 produtos e até 40% de desconto para o Amazon Prime",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "BenQ monitor projector review Amazon sale",
+        "images": [
+          {
+            "anchor": "Ofertas em Monitores e Projetores",
+            "query_en": "BenQ monitor and projector setup"
+          },
+          {
+            "anchor": "Condições e Expectativa de Economia",
+            "query_en": "Amazon Prime sale boxes electronics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f89662f-9d91-4a9d-9967-c6d83473d14a",
+      "title": "Box Art Brawl com Wii Sports Resort: Qual é a capa vencedora da Ilha Wuhu?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Wii Sports Resort overview trailer",
+        "images": [
+          {
+            "anchor": "Relembrando o resultado anterior do Box Art Brawl",
+            "query_en": "Zone Of The Enders The Fist Of Mars GBA box art"
+          },
+          {
+            "anchor": "A inspiração para o novo duelo de capas",
+            "query_en": "Wii Sports Resort Wii game box art"
+          },
+          {
+            "anchor": "Versão norte-americana da capa de Wii Sports Resort",
+            "query_en": "Wii Sports Resort North America box art"
+          },
+          {
+            "anchor": "Versão europeia e japonesa da capa de Wii Sports Resort",
+            "query_en": "Wii Sports Resort Europe box art"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db955815-246f-4a13-9bcf-5fd6aa5db250",
+      "title": "Como pronunciar os nomes e termos clássicos de The Legend of Zelda: Ocarina of Time?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time gameplay analysis and characters",
+        "images": [
+          {
+            "anchor": "Ocarina",
+            "query_en": "Zelda Ocarina of Time ocarina item"
+          },
+          {
+            "anchor": "Navi",
+            "query_en": "Zelda Ocarina of Time Navi fairy"
+          },
+          {
+            "anchor": "Saria",
+            "query_en": "Zelda Ocarina of Time Saria character"
+          },
+          {
+            "anchor": "Kaepora Gaebora",
+            "query_en": "Zelda Ocarina of Time Kaepora Gaebora owl"
+          },
+          {
+            "anchor": "Talon e Malon",
+            "query_en": "Zelda Ocarina of Time Talon and Malon"
+          },
+          {
+            "anchor": "Epona",
+            "query_en": "Zelda Ocarina of Time Epona horse"
+          },
+          {
+            "anchor": "Sheik e Sheikah",
+            "query_en": "Zelda Ocarina of Time Sheik"
+          },
+          {
+            "anchor": "Koume e Kotake",
+            "query_en": "Zelda Ocarina of Time Koume and Kotake witches"
+          },
+          {
+            "anchor": "Volvagia e Cucco",
+            "query_en": "Zelda Ocarina of Time Volvagia boss"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d80b3bd9-ec81-4890-8f24-d1d680e320fa",
+      "title": "Análise do Vivo X Fold 6: design azul vibrante e bateria de destaque",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Vivo X Fold 6 foldable phone review design battery camera",
+        "images": [
+          {
+            "anchor": "O design marcante e os desafios de disponibilidade",
+            "query_en": "Vivo X Fold 6 blue frosted glass design"
+          },
+          {
+            "anchor": "Formato tradicional frente às novas tendências de mercado",
+            "query_en": "Vivo X Fold 6 book style foldable phone open"
+          },
+          {
+            "anchor": "Conjunto fotográfico com lentes Zeiss e IA",
+            "query_en": "Vivo X Fold 6 Zeiss camera module rear"
+          },
+          {
+            "anchor": "Autonomia de bateria surpreendente e carregamento rápido",
+            "query_en": "Vivo X Fold 6 inner screen display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3067f484-50ad-4407-b1fe-7943bedd6f28",
+      "title": "Estudo aponta que fogões a gás geram poluição do ar e riscos térmicos em cozinhas comerciais",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "commercial kitchen gas stoves indoor air pollution study",
+        "images": [
+          {
+            "anchor": "Metodologia e medições detalhadas",
+            "query_en": "restaurant kitchen gas stove researchers measuring air quality"
+          },
+          {
+            "anchor": "Descobertas sobre poluição do ar",
+            "query_en": "commercial kitchen gas range ventilation safety"
+          },
+          {
+            "anchor": "Os riscos do período noturno",
+            "query_en": "restaurant kitchen night cleaning crew gas appliances"
+          },
+          {
+            "anchor": "Temperaturas elevadas e estresse térmico",
+            "query_en": "chef cooking in hot commercial kitchen gas stove"
+          },
+          {
+            "anchor": "Lacunas na proteção dos trabalhadores",
+            "query_en": "commercial kitchen workers safety regulations"
+          },
+          {
+            "anchor": "Limitações da pesquisa e recomendações",
+            "query_en": "electric induction commercial kitchen range hood"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2113cd6c-0fa4-48f9-bd6c-459a1f1ba96f",
+      "title": "Silent Hill: Townfall é real para mim: conheci a verdadeira St. Amelia",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Silent Hill Townfall gameplay preview overview",
+        "images": [
+          {
+            "anchor": "Uma jornada de mistério e sobrevivência em St. Amelia",
+            "query_en": "Silent Hill Townfall trailer environment fog"
+          },
+          {
+            "anchor": "Conexão profunda com a geografia da Escócia",
+            "query_en": "St Monans Scotland harbor coastal town"
+          },
+          {
+            "anchor": "O eco dos dias de pandemia",
+            "query_en": "Silent Hill Townfall 90s television and atmosphere"
+          }
+        ]
+      }
+    },
+    {
+      "id": "670c5614-f623-4871-97e5-8582afb06045",
+      "title": "‘Dragon Ball Super: Beerus’: How to Stream the New Anime Today",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "46298eee-daf9-48f2-88c7-0683904ba8e4",
+      "title": "New Blade Runner 2099 trailer teases the rise of replicants and the fall of humanity",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "a392d6b2-3ff8-42a0-87f7-f2035180bdf6",
+      "title": "Filme de Street Fighter exigiu pesquisa exaustiva para recriar estilos de luta clássicos",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Verity movie trailer Anne Hathaway Dakota Johnson",
+        "video_query_en": "Street Fighter movie Noah Centineo Ken stunt coordinator interview",
         "images": [
           {
-            "anchor": "Os grandes sucessos do ano de Anne Hathaway",
-            "query_en": "Anne Hathaway The Odyssey"
+            "anchor": "Atenção obsessiva aos detalhes e estilos de luta",
+            "query_en": "Street Fighter movie stunt choreography action scene"
           },
           {
-            "anchor": "A chegada de Verity e a recepção da crítica",
-            "query_en": "Anne Hathaway Verity movie"
+            "anchor": "Elementos clássicos e visuais marcantes",
+            "query_en": "Street Fighter movie trailer Dhalsim E Honda"
           },
           {
-            "anchor": "Detalhes técnicos e recepção no Rotten Tomatoes",
-            "query_en": "Dakota Johnson Verity"
+            "anchor": "Elenco e estreia nos cinemas",
+            "query_en": "Street Fighter movie cast Ryu Ken Chun Li"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d246b464-3186-46b6-a6ac-aabcf98b5a0c",
+      "title": "Como uma grande mudança de atitude salvou Watch Dogs 2 de um verdadeiro fiasco",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Watch Dogs 2 San Francisco gameplay retrospective",
+        "images": [
+          {
+            "anchor": "O peso do passado e a guinada tonal",
+            "query_en": "Watch Dogs 2 Marcus Holloway San Francisco"
+          },
+          {
+            "anchor": "Os problemas do primeiro Watch Dogs e a chegada de São Francisco",
+            "query_en": "Watch Dogs 2 San Francisco golden gate bridge"
+          },
+          {
+            "anchor": "Marcus Holloway e o elenco de DedSec",
+            "query_en": "Watch Dogs 2 DedSec group characters"
+          },
+          {
+            "anchor": "Música, sistema de jogo e caos sistêmico",
+            "query_en": "Watch Dogs 2 open world exploration"
+          },
+          {
+            "anchor": "Missões marcantes e o crescimento da resistência",
+            "query_en": "Watch Dogs 2 mission hacking action"
+          },
+          {
+            "anchor": "O verdadeiro significado da rebeldia digital",
+            "query_en": "Watch Dogs 2 game scenic view"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2dbd81ae-b7e6-4028-9a48-9d35909ed44f",
+      "title": "Hacker de GTA 6 ameaça vazar build completa do jogo, mas oferece acordo a Take-Two",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 leaker Cyberleek threatens release Take-Two physical discs",
+        "images": [
+          {
+            "anchor": "As exigências e o ultimato de Cyberleek",
+            "query_en": "Grand Theft Auto 6 logo Rockstar Games"
+          },
+          {
+            "anchor": "O histórico recente de vazamentos de GTA 6",
+            "query_en": "GTA 6 gameplay leaks discussion"
           }
         ]
       }
@@ -876,9 +723,32 @@
     },
     {
       "id": "9267bc78-21b5-4957-b7cc-55e173237112",
-      "title": "3 Best Movies To Watch On Prime Video This Weekend (October 3-4)",
+      "title": "Os 3 melhores filmes para assistir no Prime Video neste fim de semana",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best movies to watch on Amazon Prime Video October",
+        "images": [
+          {
+            "anchor": "Now You See Me: Now You Don't (2025)",
+            "query_en": "Now You See Me Now You Don't movie poster cast"
+          },
+          {
+            "anchor": "Wuthering Heights (2026)",
+            "query_en": "Wuthering Heights 2026 Margot Robbie Jacob Elordi"
+          },
+          {
+            "anchor": "The Godfather (1972)",
+            "query_en": "The Godfather 1972 movie scene Marlon Brando Al Pacino"
+          }
+        ]
+      }
+    },
+    {
+      "id": "52cd96df-ead2-4348-b8d8-67d400600eb1",
+      "title": "Constellation Season 1 Ending Explained",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
