@@ -1,674 +1,704 @@
 {
-  "updated_at": "2026-10-11T15:50:10.870Z",
+  "updated_at": "2026-10-11T20:25:04.626Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "fcf1cf4a-92e3-41d4-b897-1607988922f0",
-      "title": "Grandes fabricantes de eletrônicos no Japão registram aumento expressivo em consultas sobre cibersegurança",
+      "id": "644e9ccd-8c1a-4ba0-b213-95fe608c1be1",
+      "title": "Governo federal do Paquistão suspende administração provincial ligada a Imran Khan",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan cyber defense services electronics firms AI cyberattacks",
+        "video_query_en": "Pakistan government suspends Khyber Pakhtunkhwa province Imran Khan protest",
         "images": [
           {
-            "anchor": "O aumento na procura por defesas digitais",
-            "query_en": "cybersecurity command center monitors digital threats"
+            "anchor": "Contexto da medida federal",
+            "query_en": "Pakistani government officials Islamabad press conference"
           },
           {
-            "anchor": "Setores críticos em busca de proteção",
-            "query_en": "modern power plant control room technology"
+            "anchor": "O impacto dos protestos",
+            "query_en": "Pakistan Tehreek e Insaf PTI protest march Khyber Pakhtunkhwa"
           },
           {
-            "anchor": "A visão do mercado e a continuidade dos negócios",
-            "query_en": "business technology consultant in a modern office"
+            "anchor": "Alerta de especialistas",
+            "query_en": "Islamabad political protest police roadblocks Pakistan"
           }
         ]
       }
     },
     {
-      "id": "56a2d747-8872-4bba-80d5-3e134f4868b5",
-      "title": "Netflix vies to be a cut above in TV production",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "adc65803-f828-41a6-800c-53847b4df9f7",
-      "title": "As novas regras rigorosas para o pedido de residência permanente no Japão",
+      "id": "2e892026-2b2c-4d74-ba6d-c171e8fc116b",
+      "title": "A startup apoiada pelo Pentágono e pela Toyota que tenta reduzir a dependência dos EUA do ferro chinês",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan permanent residency new immigration guidelines ISA",
+        "video_query_en": "Hertha Metals Texas plant rare earth magnets supply chain",
         "images": [
           {
-            "anchor": "Mudanças drásticas na imigração japonesa",
-            "query_en": "Japan immigration office Tokyo building"
+            "anchor": "O novo projeto no Texas",
+            "query_en": "industrial plant construction Texas factory"
           },
           {
-            "anchor": "Diretrizes mais rígidas da ISA",
-            "query_en": "Japan Immigration Services Agency document review"
-          },
-          {
-            "anchor": "Retroatividade e impacto nos pedidos",
-            "query_en": "foreign residents waiting in Japan"
+            "anchor": "Apoio de peso e contexto industrial",
+            "query_en": "Toyota manufacturing facility robotics production"
           }
         ]
       }
     },
     {
-      "id": "8c4545e9-4272-4f44-aa0c-df05ebd56b2b",
-      "title": "Vazamentos de dados de carteiras de motorista no Japão geram preocupação e corrida por emissão de segunda via",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan drivers license data breach Times Car cyberattack",
-        "images": [
-          {
-            "anchor": "O incidente na Times Car e a corrida por novas vias",
-            "query_en": "Japan car sharing service Times Car"
-          },
-          {
-            "anchor": "A posição das autoridades policiais",
-            "query_en": "Japanese police officer uniform"
-          },
-          {
-            "anchor": "Recomendações e medidas preventivas",
-            "query_en": "Japan drivers license identification"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e971452-d3af-4a04-a64b-2314eafdcc52",
-      "title": "Papa Leão passará por cirurgia após médicos detectarem pequeno nódulo no pulmão",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Pope Leo lung surgery Vatican announcement",
-        "images": [
-          {
-            "anchor": "O anúncio durante a oração dominical",
-            "query_en": "Pope Leo Sunday prayer St Peters Square"
-          },
-          {
-            "anchor": "Detalhes sobre o diagnóstico",
-            "query_en": "Vatican City medical health check Vatican"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b5fb953d-b72b-4c61-84fe-6c60a51cecac",
-      "title": "Fabricante de baterias de estado sólido ProLogium busca novos mercados além dos carros elétricos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ProLogium solid state battery technology and applications",
-        "images": [
-          {
-            "anchor": "Uma nova rota estratégica para a ProLogium",
-            "query_en": "ProLogium solid state battery manufacturing facility"
-          },
-          {
-            "anchor": "A expansão para inteligência artificial e aviação",
-            "query_en": "advanced solid state battery applications aviation and ai"
-          },
-          {
-            "anchor": "Desafios do mercado de veículos elétricos",
-            "query_en": "electric vehicle battery production line"
-          }
-        ]
-      }
-    },
-    {
-      "id": "964e891c-d184-4c5c-91ac-cc20ebd54cdc",
-      "title": "Preço recorde do Brent físico revela forte demanda global por petróleo e impacto no Estreito de Ormuz",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "physical brent crude oil price record strait of hormuz energy market",
-        "images": [
-          {
-            "anchor": "A disparada do petróleo físico e a alta dos prêmios",
-            "query_en": "North Sea oil rig offshore energy platform production"
-          },
-          {
-            "anchor": "O impacto geográfico e o papel do Estreito de Ormuz",
-            "query_en": "oil tanker cargo ship sailing on the sea ocean"
-          }
-        ]
-      }
-    },
-    {
-      "id": "82f0ee2a-ef1a-4eb8-8a18-3a1040587ce2",
-      "title": "SK Group planeja acelerar construção de polo de semicondutores em Gwangju",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SK Group semiconductor cluster Gwangju Chey Tae-won",
-        "images": [
-          {
-            "anchor": "Perspectiva para o início das obras",
-            "query_en": "SK Group headquarters Seoul"
-          },
-          {
-            "anchor": "Cronograma e indefinições",
-            "query_en": "semiconductor wafer manufacturing cleanroom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2de67ef8-0adc-43cc-b91e-e1e12742ea39",
-      "title": "Murata conclui expansão de fábrica de indutores no Vietnã",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Murata Manufacturing factory Vietnam",
-        "images": [
-          {
-            "anchor": "Expansão da produção no Vietnã",
-            "query_en": "Murata Manufacturing factory building"
-          },
-          {
-            "anchor": "Implementação gradual e futuro operacional",
-            "query_en": "electronic components inductor manufacturing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a9fe22a8-17e5-4037-a00e-e09378a26863",
-      "title": "ASML vai aumentar em 10% os preços de peças de reposição na Coreia do Sul",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASML lithography equipment semiconductor manufacturing",
-        "images": [
-          {
-            "anchor": "Impacto nos sistemas de litografia",
-            "query_en": "ASML EUV DUV lithography machine semiconductor"
-          },
-          {
-            "anchor": "Prazos e vigência",
-            "query_en": "ASML semiconductor cleanroom manufacturing facility"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f2da51d9-9c9a-454e-b6d9-603b5e4d3a07",
-      "title": "Hanwha celebra seu 74º aniversário com foco em longevidade corporativa e crescimento",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Group history and business overview",
-        "images": [
-          {
-            "anchor": "Posição de Destaque no Mercado Sul-Coreano",
-            "query_en": "South Korea skyline business district"
-          },
-          {
-            "anchor": "Mensagem do Presidente e Metas Futuras",
-            "query_en": "Hanwha Group corporate building Seoul"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ff334d73-cbe6-479c-b264-aceec1817696",
-      "title": "Tesla altera nome de seu sistema de assistência após pressões regulatórias na Alemanha",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tesla Full Self Driving name change Germany",
-        "images": [
-          {
-            "anchor": "Pressão regulatória e críticas na Alemanha",
-            "query_en": "Germany regulatory sign road traffic"
-          },
-          {
-            "anchor": "O novo nome e a manutenção da tecnologia",
-            "query_en": "Tesla electric vehicle driving assistance"
-          },
-          {
-            "anchor": "Os mesmos sensores e câmeras utilizados anteriormente pelo conjunto de hardware.",
-            "query_en": "Tesla autopilot camera sensor hardware"
-          },
-          {
-            "anchor": "Impacto na percepção dos consumidores",
-            "query_en": "Tesla electric car parked street"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8beb3d4d-3156-47fb-a723-2b4811f30380",
-      "title": "A enxurrada de código gerado por IA aumenta o volume, mas reduz o progresso real",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI coding tools increase code volume but slow review time Harvard study",
-        "images": [
-          {
-            "anchor": "O impacto das ferramentas de IA na programação",
-            "query_en": "software developer working with AI coding assistance"
-          },
-          {
-            "anchor": "Aumento expressivo no volume total de código gerado de forma automatizada.",
-            "query_en": "lines of computer code on a dark screen"
-          },
-          {
-            "anchor": "O gargalo nas revisões de código",
-            "query_en": "programmer reviewing code on dual monitors"
-          },
-          {
-            "anchor": "Desafios futuros para a engenharia de software",
-            "query_en": "team of software engineers meeting in modern office"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c632235a-51a6-4ce3-8859-5f084563b259",
-      "title": "Ataques de drones ucranianos atingem mais centros de dados da Yandex e afetam serviços em nuvem na Rússia",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ukrainian drone attacks Yandex data centers Russia cloud services",
-        "images": [
-          {
-            "anchor": "O impacto dos ataques nos centros de dados da Yandex",
-            "query_en": "Yandex data center servers technology"
-          },
-          {
-            "anchor": "Contexto e repercussões na infraestrutura russa",
-            "query_en": "Russian server infrastructure data center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bbbd2ec1-f683-46f5-bc00-adb2a275b82c",
-      "title": "Microsoft-Chef Nadella: Inteligência Artificial não deve se autorregular",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Satya Nadella Microsoft AI regulation statements",
-        "images": [
-          {
-            "anchor": "O fracasso das contenções tradicionales",
-            "query_en": "artificial intelligence models server data center"
-          },
-          {
-            "anchor": "Adaptação ao cenário político estadunidense",
-            "query_en": "Satya Nadella Microsoft CEO portrait"
-          },
-          {
-            "anchor": "Alinhamento estratégico com a administração de Donald Trump.",
-            "query_en": "Donald Trump US flag press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "08778697-70d6-4322-a417-1ccb173859d0",
-      "title": "Governo Federal Alemão desiste de acordo-quadro de Inteligência Artificial com Mistral e SAP",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "German federal government Mistral AI SAP framework contract cancelled",
-        "images": [
-          {
-            "anchor": "O Fim do Acordo Preliminar",
-            "query_en": "German government Berlin Reichstag building"
-          },
-          {
-            "anchor": "Alemanha",
-            "query_en": "German flag and European Union flag"
-          },
-          {
-            "anchor": "Mistral",
-            "query_en": "Mistral AI logo headquarters Paris"
-          },
-          {
-            "anchor": "SAP",
-            "query_en": "SAP corporate headquarters building Germany"
-          },
-          {
-            "anchor": "Implicações para o Setor",
-            "query_en": "Artificial intelligence servers data center Europe"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0a612304-613f-47aa-a583-d333a8db85a6",
-      "title": "Ministra da Justiça quer conter enxurrada de petições geradas por IA nos tribunais alemães",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "artificial intelligence impact on courts and legal system",
-        "images": [
-          {
-            "anchor": "O impacto da inteligência artificial nos tribunais sociais",
-            "query_en": "german social court building exterior"
-          },
-          {
-            "anchor": "A iniciativa da ministra da Justiça",
-            "query_en": "german minister of justice press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cd9b37fa-a1c5-4e30-ab8d-2df7a765e930",
-      "title": "Ônibus a hidrogênio em Hamburgo: desafios tecnológicos e custos elevados travam transição",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hamburg hydrogen bus public transport challenges",
-        "images": [
-          {
-            "anchor": "Os obstáculos práticos e técnicos",
-            "query_en": "Hamburg hydrogen bus technical problems"
-          },
-          {
-            "anchor": "O fator econômico do hidrogênio verde",
-            "query_en": "green hydrogen fuel cell bus refueling"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6096674d-a023-4971-9ec5-ca514f47615b",
-      "title": "Shield AI apresenta o protótipo da X-BAT, drone a jato com capacidade de descolagem e aterragem vertical para navios",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Shield AI X-BAT drone vertical takeoff jet powered",
-        "images": [
-          {
-            "anchor": "O Conceito e Capacidades da X-BAT",
-            "query_en": "Shield AI X-BAT drone prototype military"
-          },
-          {
-            "anchor": "Propulsão a jato para maior desempenho em voo",
-            "query_en": "jet engine military drone vertical takeoff"
-          },
-          {
-            "anchor": "Contexto da Indústria e Parcerias",
-            "query_en": "General Electric aerospace technology defense"
-          },
-          {
-            "anchor": "Desafios e Perspectivas de Implementação",
-            "query_en": "naval drone deck operation flight test"
-          }
-        ]
-      }
-    },
-    {
-      "id": "15ccdc19-e4ca-461b-9c11-6ba330cfd535",
-      "title": "BenQ realiza promoção com 48 produtos e até 40% de desconto para o Amazon Prime",
+      "id": "99e1b726-b005-40f3-a4be-64ff3d5c725e",
+      "title": "Desenvolvedor consegue rodar Googlebook OS em chips Apple Silicon, mas sistema ainda está longe do uso diário",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "BenQ monitor projector review Amazon sale",
+        "video_query_en": "Googlebook OS running on Apple Silicon Mac virtual machine",
         "images": [
           {
-            "anchor": "Ofertas em Monitores e Projetores",
-            "query_en": "BenQ monitor and projector setup"
+            "anchor": "O desafio de rodar sistemas alternativos no Apple Silicon",
+            "query_en": "Apple Silicon Mac computer processor"
           },
           {
-            "anchor": "Condições e Expectativa de Economia",
-            "query_en": "Amazon Prime sale boxes electronics"
+            "anchor": "O papel crucial do suporte gráfico e da API Vulkan",
+            "query_en": "Vulkan graphics API rendering"
+          },
+          {
+            "anchor": "Perspectivas futuras para a execução da plataforma",
+            "query_en": "Virtual machine running on macOS"
           }
         ]
       }
     },
     {
-      "id": "5f89662f-9d91-4a9d-9967-c6d83473d14a",
-      "title": "Box Art Brawl com Wii Sports Resort: Qual é a capa vencedora da Ilha Wuhu?",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Wii Sports Resort overview trailer",
-        "images": [
-          {
-            "anchor": "Relembrando o resultado anterior do Box Art Brawl",
-            "query_en": "Zone Of The Enders The Fist Of Mars GBA box art"
-          },
-          {
-            "anchor": "A inspiração para o novo duelo de capas",
-            "query_en": "Wii Sports Resort Wii game box art"
-          },
-          {
-            "anchor": "Versão norte-americana da capa de Wii Sports Resort",
-            "query_en": "Wii Sports Resort North America box art"
-          },
-          {
-            "anchor": "Versão europeia e japonesa da capa de Wii Sports Resort",
-            "query_en": "Wii Sports Resort Europe box art"
-          }
-        ]
-      }
-    },
-    {
-      "id": "db955815-246f-4a13-9bcf-5fd6aa5db250",
-      "title": "Como pronunciar os nomes e termos clássicos de The Legend of Zelda: Ocarina of Time?",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time gameplay analysis and characters",
-        "images": [
-          {
-            "anchor": "Ocarina",
-            "query_en": "Zelda Ocarina of Time ocarina item"
-          },
-          {
-            "anchor": "Navi",
-            "query_en": "Zelda Ocarina of Time Navi fairy"
-          },
-          {
-            "anchor": "Saria",
-            "query_en": "Zelda Ocarina of Time Saria character"
-          },
-          {
-            "anchor": "Kaepora Gaebora",
-            "query_en": "Zelda Ocarina of Time Kaepora Gaebora owl"
-          },
-          {
-            "anchor": "Talon e Malon",
-            "query_en": "Zelda Ocarina of Time Talon and Malon"
-          },
-          {
-            "anchor": "Epona",
-            "query_en": "Zelda Ocarina of Time Epona horse"
-          },
-          {
-            "anchor": "Sheik e Sheikah",
-            "query_en": "Zelda Ocarina of Time Sheik"
-          },
-          {
-            "anchor": "Koume e Kotake",
-            "query_en": "Zelda Ocarina of Time Koume and Kotake witches"
-          },
-          {
-            "anchor": "Volvagia e Cucco",
-            "query_en": "Zelda Ocarina of Time Volvagia boss"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d80b3bd9-ec81-4890-8f24-d1d680e320fa",
-      "title": "Análise do Vivo X Fold 6: design azul vibrante e bateria de destaque",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vivo X Fold 6 foldable phone review design battery camera",
-        "images": [
-          {
-            "anchor": "O design marcante e os desafios de disponibilidade",
-            "query_en": "Vivo X Fold 6 blue frosted glass design"
-          },
-          {
-            "anchor": "Formato tradicional frente às novas tendências de mercado",
-            "query_en": "Vivo X Fold 6 book style foldable phone open"
-          },
-          {
-            "anchor": "Conjunto fotográfico com lentes Zeiss e IA",
-            "query_en": "Vivo X Fold 6 Zeiss camera module rear"
-          },
-          {
-            "anchor": "Autonomia de bateria surpreendente e carregamento rápido",
-            "query_en": "Vivo X Fold 6 inner screen display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3067f484-50ad-4407-b1fe-7943bedd6f28",
-      "title": "Estudo aponta que fogões a gás geram poluição do ar e riscos térmicos em cozinhas comerciais",
+      "id": "a14afe26-e482-4999-ba65-5d5ce68eff9d",
+      "title": "A previsão de 1960 que calculava a população humana infinita para o próximo mês",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "commercial kitchen gas stoves indoor air pollution study",
+        "video_query_en": "Heinz von Foerster human population hyperbolic growth 1960 paper",
         "images": [
           {
-            "anchor": "Metodologia e medições detalhadas",
-            "query_en": "restaurant kitchen gas stove researchers measuring air quality"
+            "anchor": "A Origem da Curiosa Previsão de 1960",
+            "query_en": "Heinz von Foerster scientist portrait"
           },
           {
-            "anchor": "Descobertas sobre poluição do ar",
-            "query_en": "commercial kitchen gas range ventilation safety"
+            "anchor": "O Modelo de Crescimento Hiperbólico",
+            "query_en": "hyperbolic growth curve math graph"
           },
           {
-            "anchor": "Os riscos do período noturno",
-            "query_en": "restaurant kitchen night cleaning crew gas appliances"
-          },
-          {
-            "anchor": "Temperaturas elevadas e estresse térmico",
-            "query_en": "chef cooking in hot commercial kitchen gas stove"
-          },
-          {
-            "anchor": "Lacunas na proteção dos trabalhadores",
-            "query_en": "commercial kitchen workers safety regulations"
-          },
-          {
-            "anchor": "Limitações da pesquisa e recomendações",
-            "query_en": "electric induction commercial kitchen range hood"
+            "anchor": "A Chegada ao Ponto Infinito",
+            "query_en": "world population globe earth human crowd"
           }
         ]
       }
     },
     {
-      "id": "2113cd6c-0fa4-48f9-bd6c-459a1f1ba96f",
-      "title": "Silent Hill: Townfall é real para mim: conheci a verdadeira St. Amelia",
-      "category": "Games",
+      "id": "56614c3b-b59b-4427-a6f6-f83cc46bac46",
+      "title": "Anthropic atualiza política de uso para proibir abusos e proteger sentimentos do chatbot Claude",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Silent Hill Townfall gameplay preview overview",
+        "video_query_en": "Anthropic Claude usage policy update abusive behavior",
         "images": [
           {
-            "anchor": "Uma jornada de mistério e sobrevivência em St. Amelia",
-            "query_en": "Silent Hill Townfall trailer environment fog"
+            "anchor": "Nova política contra abusos direcionados",
+            "query_en": "Anthropic Claude AI chatbot interface"
           },
           {
-            "anchor": "Conexão profunda com a geografia da Escócia",
-            "query_en": "St Monans Scotland harbor coastal town"
+            "anchor": "Mudança de foco nas diretrizes de segurança",
+            "query_en": "AI safety guidelines and ethics concept"
           },
           {
-            "anchor": "O eco dos dias de pandemia",
-            "query_en": "Silent Hill Townfall 90s television and atmosphere"
+            "anchor": "O debate sobre a consciência das máquinas",
+            "query_en": "Artificial intelligence consciousness debate technology"
           }
         ]
       }
     },
     {
-      "id": "670c5614-f623-4871-97e5-8582afb06045",
-      "title": "‘Dragon Ball Super: Beerus’: How to Stream the New Anime Today",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "46298eee-daf9-48f2-88c7-0683904ba8e4",
-      "title": "New Blade Runner 2099 trailer teases the rise of replicants and the fall of humanity",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "a392d6b2-3ff8-42a0-87f7-f2035180bdf6",
-      "title": "Filme de Street Fighter exigiu pesquisa exaustiva para recriar estilos de luta clássicos",
+      "id": "f0ec8dd5-902b-4b0b-a97e-64ba0f70cb14",
+      "title": "Elenco de Children of Blood and Bone revela o drama familiar no centro épico da fantasia na NYCC 2026",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Street Fighter movie Noah Centineo Ken stunt coordinator interview",
+        "video_query_en": "Children of Blood and Bone NYCC panel trailer",
         "images": [
           {
-            "anchor": "Atenção obsessiva aos detalhes e estilos de luta",
-            "query_en": "Street Fighter movie stunt choreography action scene"
+            "anchor": "Uma família real dividida",
+            "query_en": "Children of Blood and Bone royal family cast NYCC"
           },
           {
-            "anchor": "Elementos clássicos e visuais marcantes",
-            "query_en": "Street Fighter movie trailer Dhalsim E Honda"
+            "anchor": "O peso da coroa e a culpa de Saran",
+            "query_en": "Chiwetel Ejiofor Children of Blood and Bone King Saran"
           },
           {
-            "anchor": "Elenco e estreia nos cinemas",
-            "query_en": "Street Fighter movie cast Ryu Ken Chun Li"
+            "anchor": "Aprofundando os laços e contradições",
+            "query_en": "Amandla Stenberg Damson Idris Children of Blood and Bone"
+          },
+          {
+            "anchor": "Dois irmãos e uma perda compartilhada",
+            "query_en": "Thuso Mbedu Tosin Cole Children of Blood and Bone"
+          },
+          {
+            "anchor": "Química fora das câmeras",
+            "query_en": "Thuso Mbedu and Tosin Cole New York Comic Con"
+          },
+          {
+            "anchor": "A humanidade no centro da fantasia",
+            "query_en": "Gina Prince-Bythewood director Children of Blood and Bone"
+          },
+          {
+            "anchor": "Trilha sonora e estreia",
+            "query_en": "Children of Blood and Bone movie poster and cast"
           }
         ]
       }
     },
     {
-      "id": "d246b464-3186-46b6-a6ac-aabcf98b5a0c",
-      "title": "Como uma grande mudança de atitude salvou Watch Dogs 2 de um verdadeiro fiasco",
-      "category": "Games",
+      "id": "79b82bf5-a8dc-45bf-9c77-d7adc96953d9",
+      "title": "A volta da Apple ao mercado de casa inteligente com o evento Welcome Home",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Watch Dogs 2 San Francisco gameplay retrospective",
+        "video_query_en": "Apple smart home event Welcome Home HomeView",
         "images": [
           {
-            "anchor": "O peso do passado e a guinada tonal",
-            "query_en": "Watch Dogs 2 Marcus Holloway San Francisco"
+            "anchor": "O novo hub HomeView e o ecossistema",
+            "query_en": "Apple HomeView smart home hub display"
           },
           {
-            "anchor": "Os problemas do primeiro Watch Dogs e a chegada de São Francisco",
-            "query_en": "Watch Dogs 2 San Francisco golden gate bridge"
-          },
-          {
-            "anchor": "Marcus Holloway e o elenco de DedSec",
-            "query_en": "Watch Dogs 2 DedSec group characters"
-          },
-          {
-            "anchor": "Música, sistema de jogo e caos sistêmico",
-            "query_en": "Watch Dogs 2 open world exploration"
-          },
-          {
-            "anchor": "Missões marcantes e o crescimento da resistência",
-            "query_en": "Watch Dogs 2 mission hacking action"
-          },
-          {
-            "anchor": "O verdadeiro significado da rebeldia digital",
-            "query_en": "Watch Dogs 2 game scenic view"
+            "anchor": "Atualizações na linha Apple TV e previsões de lançamento",
+            "query_en": "Apple TV device remote control"
           }
         ]
       }
     },
     {
-      "id": "2dbd81ae-b7e6-4028-9a48-9d35909ed44f",
-      "title": "Hacker de GTA 6 ameaça vazar build completa do jogo, mas oferece acordo a Take-Two",
+      "id": "10ba95fd-5e44-4ac8-acab-a97e66a06205",
+      "title": "Vazamento em massa expõe décadas de arquivos de animação dos bastidores do Cartoon Network",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cartoon Network animation production files leak behind the scenes",
+        "images": [
+          {
+            "anchor": "O o que está dentro dos arquivos vazados",
+            "query_en": "Cartoon Network classic animation storyboard model sheet"
+          },
+          {
+            "anchor": "- Model sheets: desenhos de referência que mostram um personagem a partir de todos os ângulos, acompanhados de anotações sobre proporções e expressões, permitindo que dezenas de animadores desenhem As Meninas Superpoderosas exatamente da mesma maneira.",
+            "query_en": "The Powerpuff Girls model sheet animation reference"
+          },
+          {
+            "anchor": "- Puppet rigs: versões digitais de personagens divididas em partes móveis, funcionando de forma semelhante a uma boneca de papel, que os animadores podem posicionar e movimentar em softwares em vez de redesenhar cada quadro manualmente.",
+            "query_en": "digital puppet rig 2D animation character construction"
+          },
+          {
+            "anchor": "- Arquivos EPS: muitos dos arquivos de personagens utilizam este formato de gráfico vetorial, que permite que a arte seja dimensionada para qualquer tamanho sem perder a nitidez.",
+            "query_en": "vector graphics EPS file format animation asset"
+          },
+          {
+            "anchor": "O o contexto corporativo e histórico dos vazamentos",
+            "query_en": "Warner Bros Discovery building headquarters corporate office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "645d1749-a956-4b3c-aaa6-9c659c83ba28",
+      "title": "Comic Cons se transformam em estúdios de conteúdo: Como a NYCC está abraçando essa mudança",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "New York Comic Con creator lounge experience",
+        "images": [
+          {
+            "anchor": "O planejamento visual e os espaços pensados para o digital",
+            "query_en": "New York Comic Con entrance banners Crystal Palace"
+          },
+          {
+            "anchor": "A rotina intensa dos criadores no evento",
+            "query_en": "Comic Con cosplayers and content creators filming"
+          },
+          {
+            "anchor": "A expansão da transmissão ao vivo e o futuro das convenções",
+            "query_en": "New York Comic Con livestream stage setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "15057533-b62a-4bde-acb0-32bac953c434",
+      "title": "Quem deveria substituir Kurt Russell e Val Kilmer em um hipotético remake de Tombstone para 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tombstone 1993 movie review and cast analysis",
+        "images": [
+          {
+            "anchor": "A onda de remakes bem-sucedidos no faroeste",
+            "query_en": "Classic Western movie landscape 3:10 to Yuma True Grit"
+          },
+          {
+            "anchor": "Robert Pattinson interpretando Doc Holliday",
+            "query_en": "Robert Pattinson sharp dressed portrait"
+          },
+          {
+            "anchor": "Jake Gyllenhaal como Wyatt Earp",
+            "query_en": "Jake Gyllenhaal intense bearded look"
+          },
+          {
+            "anchor": "Lee Pace como Virgil Earp",
+            "query_en": "Lee Pace tall majestic actor portrait"
+          },
+          {
+            "anchor": "Wyatt Russell como Morgan Earp",
+            "query_en": "Wyatt Russell charismatic smiling actor"
+          },
+          {
+            "anchor": "Ben Foster como Johnny Ringo",
+            "query_en": "Ben Foster intense gritty western actor"
+          },
+          {
+            "anchor": "Walton Goggins como Curly Bill Brocius",
+            "query_en": "Walton Goggins smiling western villain"
+          },
+          {
+            "anchor": "Karen Gillan como Josephine Marcus",
+            "query_en": "Karen Gillan vibrant red hair portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "80063d87-e34b-4bca-a53a-767fee126a46",
+      "title": "Franquias de Critical Role no Prime Video superam filmes de fantasia dos últimos 20 anos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Legend of Vox Machina and The Mighty Nein Prime Video",
+        "images": [
+          {
+            "anchor": "O sucesso incontestável de The Legend of Vox Machina",
+            "query_en": "The Legend of Vox Machina Prime Video season"
+          },
+          {
+            "anchor": "A chegada de The Mighty Nein e o universo de Exandria",
+            "query_en": "The Mighty Nein animated series Prime Video"
+          },
+          {
+            "anchor": "O panorama comparativo com os filmes de fantasia",
+            "query_en": "Critical Role fantasy characters Prime Video"
+          },
+          {
+            "anchor": "Mestres da magia que dominam feitiços complexos",
+            "query_en": "fantasy magic spell caster animation"
+          },
+          {
+            "anchor": "Especialistas na arte da dissimulação e da trapaça",
+            "query_en": "rogue fantasy character animation"
+          },
+          {
+            "anchor": "Combatentes focados em combates corporais diretos",
+            "query_en": "barbarian warrior fantasy fight"
+          },
+          {
+            "anchor": "A guinada da fantasia do cinema para a televisão",
+            "query_en": "epic fantasy television series battle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "460c347c-6453-4590-b637-68d35072b240",
+      "title": "10 Maiores Filmes de Terror de Sobrevivência de Todos os Tempos, Classificados",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best survival horror movies of all time ranked",
+        "images": [
+          {
+            "anchor": "10. Um Lugar Silencioso (2018)",
+            "query_en": "A Quiet Place movie scene John Krasinski"
+          },
+          {
+            "anchor": "9. O Nevoeiro (2007)",
+            "query_en": "The Mist 2007 supermarket scene"
+          },
+          {
+            "anchor": "8. Sala Verde (2015)",
+            "query_en": "Green Room 2015 movie Anton Yelchin Patrick Stewart"
+          }
+        ]
+      }
+    },
+    {
+      "id": "825ed2c6-0bd0-4ee6-b627-c20da88205f6",
+      "title": "Dexter: Resurrection Season 2's Dangerous New Killer Details Unveiled By Star",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "21ab3164-0b02-4e10-bc26-23e6889e0c02",
+      "title": "It’s The Start Of A Dark New Era For Sheriff Country",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "ca7cb3f6-e130-4a29-ac77-c9705bbac646",
+      "title": "Sony se posiciona oficialmente sobre o fim das mídias físicas no PlayStation 6",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GTA 6 leaker Cyberleek threatens release Take-Two physical discs",
+        "video_query_en": "PlayStation 6 digital ownership official statement Sony",
         "images": [
           {
-            "anchor": "As exigências e o ultimato de Cyberleek",
-            "query_en": "Grand Theft Auto 6 logo Rockstar Games"
+            "anchor": "Mudanças na estratégia de exclusividades e no hardware",
+            "query_en": "PlayStation 5 console setup"
           },
           {
-            "anchor": "O histórico recente de vazamentos de GTA 6",
-            "query_en": "GTA 6 gameplay leaks discussion"
+            "anchor": "O fim definitivo das mídias físicas",
+            "query_en": "PlayStation game discs collection"
+          },
+          {
+            "anchor": "A resposta oficial da liderança da Sony",
+            "query_en": "Sony corporate meeting presentation"
+          },
+          {
+            "anchor": "O impacto emocional e o futuro do ecossistema digital",
+            "query_en": "PlayStation controller digital gaming"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f89b6697-6eb6-41f7-a46e-5398da0fc3ff",
+      "title": "Star Wars' Best Chance To Recast Luke, Han & Leia Is Just 3 Months Away",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "7c0fe8ca-e814-4a95-8bee-e378552ce72c",
+      "title": "Marvel Anuncia Entrada de Elsa Bloodstone nos X-Men pela Primeira Vez",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elsa Bloodstone joins X-Men X-Orcists New York Comic Con",
+        "images": [
+          {
+            "anchor": "A Formação da Equipe X-Orcists",
+            "query_en": "Elsa Bloodstone Marvel comics art"
+          },
+          {
+            "anchor": "Magik",
+            "query_en": "Magik Marvel Comics X-Men"
+          },
+          {
+            "anchor": "Juggernaut",
+            "query_en": "Juggernaut Marvel Comics"
+          },
+          {
+            "anchor": "Madelyne Pryor",
+            "query_en": "Madelyne Pryor Marvel Comics"
+          },
+          {
+            "anchor": "Lançamento e Detalhes de Publicação",
+            "query_en": "X-Orcists Marvel Comics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc1ecde1-2efb-42f9-8ebb-ef9e8bc5bc55",
+      "title": "Companion Piece To David Fincher's Modern Classic Officially Divides Critics & Audiences On Rotten Tomatoes",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "eb8cdc6c-a8a6-4d84-b408-489006da2094",
+      "title": "The Rookie Spinoff Announces 2 More Crossover Stars Joining Nathan Fillion",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "b424ac7c-047b-4619-9758-0d9c1b9ded7c",
+      "title": "Novo Apple TV pode trazer microfone integrado e controle remoto com alto-falante",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple TV rumors built-in mic remote speaker",
+        "images": [
+          {
+            "anchor": "O que esperar do novo Apple TV",
+            "query_en": "Apple TV streaming device living room"
+          },
+          {
+            "anchor": "Localizando o controle remoto perdido",
+            "query_en": "Apple TV Siri Remote"
+          },
+          {
+            "anchor": "Desempenho e data de lançamento",
+            "query_en": "Apple silicon chip processor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e9fb11e-f2a6-47aa-b4cb-f74b366980f8",
+      "title": "Vale do Silício começa a adotar a tentativa de Donald Trump de renomear a inteligência artificial",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Donald Trump super intelligence artificial intelligence Silicon Valley",
+        "images": [
+          {
+            "anchor": "A adesão rápida de Elon Musk e Marc Benioff",
+            "query_en": "Elon Musk Donald Trump tech summit"
+          },
+          {
+            "anchor": "O alinhamento estratégico de Nvidia e Jensen Huang",
+            "query_en": "Jensen Huang Nvidia CEO"
+          },
+          {
+            "anchor": "A adesão recente de Satya Nadella e o cenário político",
+            "query_en": "Satya Nadella Microsoft CEO"
+          },
+          {
+            "anchor": "Satya Nadella participou da mesma cúpula de tecnologia que contou com Jensen Huang, Mark Zuckerberg, Sundar Pichai, Jeff Bezos, Dario Amodei e Elon Musk.",
+            "query_en": "Tech leaders white house meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f34f8fde-f6d6-4dcf-8e9f-d7ea7c8ff1df",
+      "title": "Faculdade em Illinois tenta cancelar contrato com a Flock e empresa se recusa a remover câmeras",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elgin Community College Flock safety cameras dispute",
+        "images": [
+          {
+            "anchor": "Preocupações com privacidade e abuso de acesso",
+            "query_en": "security camera surveillance tech on campus"
+          },
+          {
+            "anchor": "A tentativa de rescisão e a negativa da empresa",
+            "query_en": "college administration meeting office building"
+          },
+          {
+            "anchor": "O cabo de guerra com sacos de lixo",
+            "query_en": "security camera covered with trash bag"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32512e76-1b62-4133-bb9f-145b169d8184",
+      "title": "Descubra quanto tempo o seu Google Pixel ainda vai receber atualizações",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Pixel software update policy explained",
+        "images": [
+          {
+            "anchor": "A evolução do suporte de software da Google",
+            "query_en": "Google Pixel phone software update timeline"
+          },
+          {
+            "anchor": "Modelos mais antigos e intermediários da linha Pixel",
+            "query_en": "Google Pixel 7 smartphone device"
+          },
+          {
+            "anchor": "O cronograma para os modelos mais recentes",
+            "query_en": "Google Pixel 8 smartphone display"
+          },
+          {
+            "anchor": "Opções limitadas após o fim das atualizações",
+            "query_en": "Old smartphone security risk notification"
+          },
+          {
+            "anchor": "O papel e as limitações das ROMs customizadas",
+            "query_en": "Custom ROM LineageOS running on smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5cdff57f-5641-4e35-bd9e-b65ca513e379",
+      "title": "Novos resumos com inteligência artificial para câmeras do Apple Home custam bem mais caro",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple HomeKit Apple Intelligence security camera AI summaries",
+        "images": [
+          {
+            "anchor": "Barreiras de compatibilidade e o custo elevado",
+            "query_en": "Apple HomeKit secure video security cameras setup"
+          },
+          {
+            "anchor": "Configurando os recursos de IA do HomeKit",
+            "query_en": "Apple iPhone Home app smart home settings"
+          }
+        ]
+      }
+    },
+    {
+      "id": "56297ddf-d85e-4a19-a128-20bf433be8ff",
+      "title": "Novo hub de casa inteligente da Apple deve se chamar HomeView",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple smart home hub HomeView announcement Bloomberg Mark Gurman",
+        "images": [
+          {
+            "anchor": "Detalhes do nome e conceito",
+            "query_en": "Apple smart home device concept screen"
+          },
+          {
+            "anchor": "Modelos e opções de acabamento",
+            "query_en": "Apple HomePod mini colors metal base"
+          },
+          {
+            "anchor": "Versão de bancada",
+            "query_en": "Smart home tabletop display hub"
+          },
+          {
+            "anchor": "Versão de montagem na parede",
+            "query_en": "Wall mounted smart home control panel"
+          },
+          {
+            "anchor": "Software e ecossistema de aplicativos",
+            "query_en": "Apple Home app interface on screen"
+          },
+          {
+            "anchor": "Parcerias estratégicas e novos acessórios",
+            "query_en": "LG smart home thermostat doorbell security camera"
+          },
+          {
+            "anchor": "Outros lançamentos esperados e cronograma",
+            "query_en": "Apple TV set top box and HomePod mini"
+          }
+        ]
+      }
+    },
+    {
+      "id": "458c4b74-2f80-46af-9d6b-2bb355c303d4",
+      "title": "Por que fortes ímãs podem atrapalhar a câmera traseira do seu iPhone",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone 18 Pro camera magnetic accessories interference",
+        "images": [
+          {
+            "anchor": "Como os ímãs afetam a estabilização da câmera",
+            "query_en": "iPhone camera optical image stabilization mechanism macro lens"
+          },
+          {
+            "anchor": "Consequências e soluções para o problema",
+            "query_en": "iPhone magnetic car mount accessory rear camera setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f8caecc5-82e3-467f-92e0-4bd42d370d3a",
+      "title": "O que significa o símbolo de cadeado na sua biblioteca de jogos do PlayStation 5",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PlayStation 5 game library padlock symbol meaning and fix",
+        "images": [
+          {
+            "anchor": "A realidade das licenças digitais",
+            "query_en": "PlayStation 5 digital game library interface"
+          },
+          {
+            "anchor": "Problemas com assinaturas e compartilhamento",
+            "query_en": "PlayStation 5 settings menu users and accounts"
+          },
+          {
+            "anchor": "Métodos para corrigir o ícone de cadeado no PS5",
+            "query_en": "PlayStation 5 controller options menu restore licenses"
+          },
+          {
+            "anchor": "O que fazer se os jogos continuarem bloqueados?",
+            "query_en": "PlayStation 5 safe mode clear cache rebuild database"
+          }
+        ]
+      }
+    },
+    {
+      "id": "142c8536-019c-4900-9ceb-44f8daa9ad31",
+      "title": "Desmontagem do Steam Frame aponta facilidade de reparo, mas revela um ponto crítico na ventoinha",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Steam Frame teardown iFixit",
+        "images": [
+          {
+            "anchor": "Um obstáculo profundo no sistema de resfriamento",
+            "query_en": "Steam Frame VR cooling fan teardown"
+          },
+          {
+            "anchor": "Pontos positivos na reparabilidade geral",
+            "query_en": "Steam Frame headset repair design iFixit"
+          },
+          {
+            "anchor": "Outros desafios e ausências no lançamento",
+            "query_en": "Steam Frame controllers thumbsticks soldered"
+          },
+          {
+            "anchor": "O contexto de preço e mercado",
+            "query_en": "Steam Frame VR headset Valve"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be208aef-811c-4a4b-8f8f-ad23de9f36dc",
+      "title": "A curiosidade oculta no aplicativo Relógio do iPhone que pouca gente conhece",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone clock app hidden alarm limit 439",
+        "images": [
+          {
+            "anchor": "O limite misterioso do alarme",
+            "query_en": "iPhone clock app alarm interface screen"
+          },
+          {
+            "anchor": "O ícone dinâmico e o Modo Pouca Energia",
+            "query_en": "iPhone home screen clock app icon"
+          },
+          {
+            "anchor": "Cronômetro oculto e opções do modo StandBy",
+            "query_en": "iPhone StandBy mode bedside clock"
+          }
+        ]
+      }
+    },
+    {
+      "id": "195e28b2-7148-4f36-852c-54ceb7330b43",
+      "title": "Novo console portátil de duas telas da Anbernic traz proporção de tela ideal para jogos do 3DS",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anbernic RG DDS dual screen handheld review 3DS",
+        "images": [
+          {
+            "anchor": "Desempenho e Capacidade de Emulação",
+            "query_en": "Qualcomm Snapdragon G2 Gen 2 processor chip"
+          },
+          {
+            "anchor": "Configuração de Telas Duplas",
+            "query_en": "Nintendo 3DS dual screen handheld console"
+          },
+          {
+            "anchor": "Controles e Recursos Adicionais",
+            "query_en": "Anbernic clamshell handheld console dual analog sticks"
+          },
+          {
+            "anchor": "Preço e Expectativa de Mercado",
+            "query_en": "Retro gaming handheld console retail packaging"
           }
         ]
       }
@@ -722,31 +752,14 @@
       "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "9267bc78-21b5-4957-b7cc-55e173237112",
-      "title": "Os 3 melhores filmes para assistir no Prime Video neste fim de semana",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "best movies to watch on Amazon Prime Video October",
-        "images": [
-          {
-            "anchor": "Now You See Me: Now You Don't (2025)",
-            "query_en": "Now You See Me Now You Don't movie poster cast"
-          },
-          {
-            "anchor": "Wuthering Heights (2026)",
-            "query_en": "Wuthering Heights 2026 Margot Robbie Jacob Elordi"
-          },
-          {
-            "anchor": "The Godfather (1972)",
-            "query_en": "The Godfather 1972 movie scene Marlon Brando Al Pacino"
-          }
-        ]
-      }
-    },
-    {
       "id": "52cd96df-ead2-4348-b8d8-67d400600eb1",
       "title": "Constellation Season 1 Ending Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "9272919b-8f9b-413f-9ae9-9f683c33fb9c",
+      "title": "The Real Soldier Boy Will Finally Appear In The Boys' Next Series",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
