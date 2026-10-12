@@ -1,693 +1,752 @@
 {
-  "updated_at": "2026-10-12T00:40:12.670Z",
+  "updated_at": "2026-10-12T07:29:35.118Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "c4b8af52-1f8d-4e5c-8702-5d3c71ac983d",
-      "title": "Inovação em refrigeração de uma startup de destaque",
+      "id": "cbe8b506-562c-4274-9e78-7a7d696f1d8b",
+      "title": "Japão cobra estoques de petróleo e cooperação regional diante de riscos no Oriente Médio",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Eztia startup cooling technology Tiffany Yeh interview",
+        "video_query_en": "Japan energy security oil stockpiling Middle East tensions",
         "images": [
           {
-            "anchor": "O nascimento de uma nova tecnologia de refrigeração",
-            "query_en": "advanced cooling technology server room heatsink"
+            "anchor": "A urgência da segurança energética na Ásia",
+            "query_en": "Ryosei Akazawa energy forum online meeting"
           },
           {
-            "anchor": "A visão da liderança",
-            "query_en": "female tech CEO speaking at conference"
+            "anchor": "A iniciativa japonesa de resiliência",
+            "query_en": "Japan oil storage facility reserve tanks"
           },
           {
-            "anchor": "Ampla gama de aplicações",
-            "query_en": "industrial cooling systems electronics manufacturing"
+            "anchor": "Parceria de Ampla Resiliência de Energia e Recursos para a Ásia, lançada em abril, que serve como guarda-chuva para a cooperação regional.",
+            "query_en": "Asian oil refinery supply chain pipeline"
+          },
+          {
+            "anchor": "Expansão estratégica das reservas de petróleo em solo asiático para garantir amortecedores contra crises repentinas.",
+            "query_en": "Strategic petroleum reserve oil tanks Japan"
+          },
+          {
+            "anchor": "Fortalecimento das cadeias de suprimentos globais e regionais para evitar gargalos logísticos.",
+            "query_en": "Oil cargo tanker ship sea transport"
+          },
+          {
+            "anchor": "Aprimoramento das capacidades de resposta a emergências por meio de pactos diretos com países produtores de energia.",
+            "query_en": "Middle East oil production facility extraction"
           }
         ]
       }
     },
     {
-      "id": "c0cbb4ce-937a-4d4c-99ab-d06ab85eae13",
-      "title": "Antiga fábrica de telas do iPhone no Japão ganha nova vida na cadeia de suprimentos de chips",
+      "id": "e273050d-a14a-4933-b55d-4de659c7cea8",
+      "title": "Enchentes repentinas no Nepal deixam cinco desaparecidos e destroem dezenas de moradias",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nepal flash floods houses destroyed hydropower projects",
+        "images": [
+          {
+            "anchor": "O Impacto das Enchentes no Nepal",
+            "query_en": "Nepal flash floods aftermath river damage"
+          },
+          {
+            "anchor": "Destruição de Infraestrutura e Moradias",
+            "query_en": "Destroyed houses and bridges Nepal flash floods"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0d580559-f8c9-44bd-bbf3-ae3d70f5fa73",
+      "title": "Esforços intensificados para impedir a fuga de criminosos do país",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "airport border control security anti crime measures",
+        "images": [
+          {
+            "anchor": "O desafio do controle de fronteiras",
+            "query_en": "airport border control security"
+          },
+          {
+            "anchor": "A importância da vigilância",
+            "query_en": "passport control airport security police"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a8d3763-4b66-44af-be53-ef6bdb7f2365",
+      "title": "San Francisco 49ers vencem os Seahawks em jogo emocionante em Londres e mantêm invencibilidade na NFL",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "49ers vs Seahawks NFL London game highlights 2026",
+        "images": [
+          {
+            "anchor": "Um confronto eletrizante em solo britânico",
+            "query_en": "San Francisco 49ers NFL football team action"
+          },
+          {
+            "anchor": "Defesa decisiva e chuva de turnovers",
+            "query_en": "NFL American football defense tackle game"
+          },
+          {
+            "anchor": "San Francisco aproveitou os erros do adversário para marcar três touchdowns derivados diretamente de turnovers.",
+            "query_en": "NFL football referee game action"
+          },
+          {
+            "anchor": "A partida registrou um total de sete turnovers ao longo dos quatro quartos, sendo quatro deles cometidos pela equipe de Seattle.",
+            "query_en": "Seattle Seahawks football team helmet"
+          },
+          {
+            "anchor": "A soma de 38 pontos gerados a partir de turnovers na partida marcou o maior índice registrado em um único jogo da NFL desde o ano de 2017.",
+            "query_en": "NFL scoreboard stadium lights"
+          },
+          {
+            "anchor": "Minnesota Vikings também mantêm a campanha perfeita",
+            "query_en": "Minnesota Vikings NFL football action"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa9f82b4-f63c-4d47-a204-d13df4ed24e7",
+      "title": "Japan defeats Russia to win mixed team gold at World Judo",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+    },
+    {
+      "id": "93d70f40-79bc-4c8c-b635-63022e728420",
+      "title": "Brewers vencem Dodgers por 2 a 1 na abertura da Série de Campeonato da Liga Nacional",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Brewers vs Dodgers NLCS Game 1 highlights 2026",
+        "images": [
+          {
+            "anchor": "Uma revanche em grande estilo em Milwaukee",
+            "query_en": "Milwaukee Brewers fans baseball stadium"
+          },
+          {
+            "anchor": "O desempenho decisivo em campo",
+            "query_en": "Brice Turang baseball player batting"
+          },
+          {
+            "anchor": "O peso da tradição e os objetivos na temporada",
+            "query_en": "Los Angeles Dodgers team dugout"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9c05d90-ad26-40e9-9e69-913418e37e02",
+      "title": "Polícia de Tóquio criará seção especializada em acidentes com direção autônoma",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tokyo police autonomous driving accidents",
+        "images": [
+          {
+            "anchor": "O plano da polícia de Tóquio",
+            "query_en": "Tokyo Metropolitan Police Department building"
+          },
+          {
+            "anchor": "Atribuições da nova unidade",
+            "query_en": "Autonomous driving vehicle testing Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9dded7b4-cd1a-46ef-9ba7-839858a20a55",
+      "title": "Empresa francesa de defesa Thales planeja estabelecer base operacional no Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Display Mobara plant semiconductor supply chain",
+        "video_query_en": "Thales defense company Japan base",
         "images": [
           {
-            "anchor": "O passado ligado à produção de telas para o iPhone",
-            "query_en": "Japan Display Mobara factory LCD screen"
+            "anchor": "O anúncio da Thales no Japão",
+            "query_en": "Thales CEO Patrice Caine"
           },
           {
-            "anchor": "A chegada da Shinko Electric e a nova fase na cadeia de chips",
-            "query_en": "Shinko Electric semiconductor packaging chip substrate"
+            "anchor": "Um movimento pioneiro no setor",
+            "query_en": "Thales defense equipment"
           },
           {
-            "anchor": "Contexto das transformações na indústria eletrônica japonesa",
-            "query_en": "Japanese electronics manufacturing semiconductor industry"
+            "anchor": "Primeira base de manutenção de uma empresa estrangeira no Japão",
+            "query_en": "Japan defense technology"
+          },
+          {
+            "anchor": "Foco no suporte operacional de equipamentos de defesa do país",
+            "query_en": "Thales military maintenance"
+          },
+          {
+            "anchor": "Compromisso de longo prazo com o mercado japonês",
+            "query_en": "Tokyo business district skyline"
+          },
+          {
+            "anchor": "Declaração oficial feita pelo CEO Patrice Caine ao jornal Nikkei",
+            "query_en": "Nikkei business daily newspaper"
           }
         ]
       }
     },
     {
-      "id": "7f39751a-f694-4094-aeb1-82852e6d83af",
-      "title": "Investidores apostam no mercado de aluguel no Japão e na Austrália com alta de juros e preços",
+      "id": "6caa106f-3acc-425a-a3a5-9461d05e9c12",
+      "title": "Acordo entre China e União Europeia mira frear boom de US$ 7,5 bilhões em veículos híbridos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Australia rental housing real estate market Tokyo Sydney",
+        "video_query_en": "China EU hybrid vehicles tariffs trade",
         "images": [
           {
-            "anchor": "O dilema do mercado imobiliário em Tóquio",
-            "query_en": "Tokyo apartment buildings skyline real estate"
+            "anchor": "O crescimento expressivo dos veículos híbridos chineses na Europa",
+            "query_en": "Chinese hybrid electric vehicles Europe"
           },
           {
-            "anchor": "O apelo dos apartamentos compactos e espaços compartilhados",
-            "query_en": "Tokyo small modern apartment interior"
+            "anchor": "Motivações para a guinada em direção aos híbridos",
+            "query_en": "Plug in hybrid car charging station Europe"
           }
         ]
       }
     },
     {
-      "id": "c9419cfd-3444-46e4-8f0e-ad3e26e4f4c0",
-      "title": "A transição de Stephen Schwarzman após a aquisição da Lehman Brothers pela American Express",
+      "id": "ef5b960f-32d0-41ef-aa6d-bb666bb75838",
+      "title": "Tamagotchi ganha força na Ásia com a expansão de negócios de licenciamento da Bandai",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Stephen Schwarzman history American Express Lehman Brothers Blackstone",
+        "video_query_en": "Bandai Tamagotchi Asia expansion licensing",
         "images": [
           {
-            "anchor": "A aquisição da Lehman Brothers pela American Express",
-            "query_en": "American Express building 1980s Wall Street"
+            "anchor": "Estratégias de expansão e parcerias culturais",
+            "query_en": "Bandai Tamagotchi digital pet device"
           },
           {
-            "anchor": "A guinada para o empreendedorismo",
-            "query_en": "Stephen Schwarzman Blackstone"
+            "anchor": "Moda: Parcerias com marcas de vestuário para integrar o design do Tamagotchi a roupas e acessórios.",
+            "query_en": "Tamagotchi fashion collaboration clothing"
+          },
+          {
+            "anchor": "Cosméticos: Lançamentos conjuntos com produtos de beleza voltados para o público jovem.",
+            "query_en": "Tamagotchi cosmetics beauty products"
+          },
+          {
+            "anchor": "K-pop: Colaborações com o ecossistema da música pop sul-coreana para criar edições especiais e conectar o brinquedo às principais tendências de entretenimento da Ásia.",
+            "query_en": "Tamagotchi K pop collaboration"
+          },
+          {
+            "anchor": "O futuro da marca e o mercado global",
+            "query_en": "Tamagotchi 30th anniversary Bandai"
           }
         ]
       }
     },
     {
-      "id": "8f06b446-0963-4cdb-8bf0-721376253ee0",
-      "title": "Inflação, inteligência artificial e clima: FMI inicia reunião crucial em Bangcoc",
+      "id": "aff14178-2736-4ca1-9c39-eb9cf1bea119",
+      "title": "China impõe sanções a ministros do Paraguai e de Belize devido a relações com Taiwan",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "IMF annual meetings Bangkok economy inflation AI climate",
+        "video_query_en": "China sanctions Paraguay Belize Taiwan relations",
         "images": [
           {
-            "anchor": "O contexto dos debates em Bangcoc",
-            "query_en": "Bangkok skyline financial district Thailand"
+            "anchor": "O contexto das sanções de Pequim",
+            "query_en": "Chinese foreign ministry Beijing press conference"
           },
           {
-            "anchor": "Os três pilares da pauta global",
-            "query_en": "IMF conference meeting room global leaders"
+            "anchor": "A posição diplomática de Paraguai e Belize",
+            "query_en": "Paraguay and Belize flags international relations"
           },
           {
-            "anchor": "Inflação",
-            "query_en": "stock market financial chart economic data"
+            "anchor": "Paraguay: A nação sul-americana mantém laços históricos e diplomáticos consistentes com Taiwan, apesar dos frequentes apelos e da pressão econômica exercida pela China para isolar diplomaticamente a ilha.",
+            "query_en": "Paraguay government official building Asuncion"
           },
           {
-            "anchor": "Inteligência artificial",
-            "query_en": "artificial intelligence technology concept"
+            "anchor": "Belize: O país localizado na América Central também integra a lista de aliados oficiais de Taipei, mantendo parcerias bilaterais que desagradam profundamente o governo de Pequim.",
+            "query_en": "Belize government official building"
           },
           {
-            "anchor": "Mudanças climáticas",
-            "query_en": "climate change environmental impact global"
-          },
-          {
-            "anchor": "Perspectivas para a economia global",
-            "query_en": "global economy banking financial meeting"
+            "anchor": "O grupo de aliados: Paraguai e Belize figuram entre os doze únicos países em todo o mundo que ainda mantêm laços diplomáticos formais com Taiwan, o que torna alvos frequentes de medidas punitivas quando tensões geopolíticas escalam.",
+            "query_en": "Taiwan Taipei presidential office building"
           }
         ]
       }
     },
     {
-      "id": "602577ce-b2a4-41a8-b85c-dae44ac8a5b1",
-      "title": "LG Display vai priorizar tecnologia FLiPP OLED em laptops e monitores",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LG Display OLED FLiPP technology laptops monitors",
-        "images": [
-          {
-            "anchor": "O foco estratégico da LG Display",
-            "query_en": "LG Display logo building office"
-          },
-          {
-            "anchor": "Planos futuros e avaliação de mercado",
-            "query_en": "OLED laptop monitor screen display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "150ee5ce-2c68-4f3f-b73a-83171360db4c",
-      "title": "Tarifes dos EUA e Custos de Frete Reduzem Vantagem de Preço das Baterias Chinesas",
+      "id": "13f58d34-830a-4551-9206-696ed2452de6",
+      "title": "Incorporadoras tailandesas buscam Europa e EUA diante da crise no mercado imobiliário",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US tariffs Chinese battery prices freight costs",
+        "video_query_en": "Thai real estate developers invest in Europe US property market",
         "images": [
           {
-            "anchor": "O Impacto das Tarifas e do Frete",
-            "query_en": "Chinese battery factory shipping containers"
+            "anchor": "A guinada para ativos estrangeiros",
+            "query_en": "Lake Como luxury hotel Italy"
           },
           {
-            "anchor": "Cenário de Preços em Setembro",
-            "query_en": "energy storage system batteries north america"
+            "anchor": "Desafios do mercado doméstico na Tailândia",
+            "query_en": "Bangkok modern skyline real estate"
+          },
+          {
+            "anchor": "Perspectivas para o setor imobiliário tailandês",
+            "query_en": "Modern real estate development building"
+          },
+          {
+            "anchor": "O impacto duradouro de desastres naturais, como tremores de terra que continuam a sobre Sombra o mercado de Banguecoque um ano após os abalos.",
+            "query_en": "Bangkok cityscape urban architecture"
+          },
+          {
+            "anchor": "A inflação persistente que corrói o poder de compra dos consumidores locais e encarece os custos de construção.",
+            "query_en": "Construction site urban development Thailand"
+          },
+          {
+            "anchor": "A desaceleração generalizada na absorção de novas unidades residenciais, afetando tanto o segmento de classe média quanto o de alto padrão.",
+            "query_en": "Luxury residential condominiums Bangkok"
           }
         ]
       }
     },
     {
-      "id": "93001701-221f-4afe-94fa-1bf08d892e36",
-      "title": "Anthropic lança ferramentas de escritório e introduz visualização de dados por linguagem natural no Claude",
+      "id": "b5eee765-1bbf-4a4f-95e2-150393b2fced",
+      "title": "Vendas de automóveis na China despencam no período de pico e registram maior queda mensal do ano",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "China auto sales drop peak season electric vehicles",
+        "images": [
+          {
+            "anchor": "O fracasso da temporada \"Golden September\"",
+            "query_en": "Chinese automotive showroom dealership Shanghai"
+          },
+          {
+            "anchor": "O impacto no mercado e a guinada para as exportações",
+            "query_en": "BYD dealership Shanghai cars"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9fda9b86-ca0b-4e80-8170-1e6cc413323a",
+      "title": "HanWool Semiconductor Atualiza Equipamentos de Inspeção para Fabricante Japonês de MLCC",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HanWool Semiconductor MLCC inspection equipment AI",
+        "images": [
+          {
+            "anchor": "Expansão no Mercado de Inspeção",
+            "query_en": "semiconductor inspection equipment AI factory"
+          },
+          {
+            "anchor": "Conquista de contrato anunciada em 12 de outubro",
+            "query_en": "multilayer ceramic capacitor MLCC manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ad62643-0e24-4ca9-a3d1-af9f656d49b4",
+      "title": "Morre aos 103 anos Lee Eui-soon, presidente de honra do Sebang Group e fundador da Rocket Battery",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sebang Group history Rocket Battery",
+        "images": [
+          {
+            "anchor": "Despedida a um pioneiro da indústria sul-coreana",
+            "query_en": "South Korea corporate building industrial district"
+          },
+          {
+            "anchor": "Primeiros anos e início na vida pública",
+            "query_en": "historic Seoul South Korea 1940s 1950s"
+          },
+          {
+            "anchor": "Legado empresarial com a Rocket Battery e o Sebang Group",
+            "query_en": "car battery manufacturing industrial facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e99cdaa4-52df-4ad1-9d43-c84a9eab80dc",
+      "title": "Filme 'Artificial' explora os bastidores da OpenAI e traz Andrew Garfield como Sam Altman",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic Claude natural language data visualization office tools",
+        "video_query_en": "Artificial OpenAI movie Andrew Garfield Sam Altman",
         "images": [
           {
-            "anchor": "Novas Capacidades de Visualização",
-            "query_en": "Anthropic Claude AI data dashboard office tools"
+            "anchor": "O enredo e a jornada de duas décadas",
+            "query_en": "Andrew Garfield actor red carpet"
           },
           {
-            "anchor": "- Análise de dados corporativos complexos sem a necessidade de conhecimentos em programação.",
-            "query_en": "business data analysis natural language prompts"
+            "anchor": "A preparação sem contato direto e a visão de Altman",
+            "query_en": "Sam Altman OpenAI CEO portrait"
           },
           {
-            "anchor": "- Criação automatizada de painéis de dados interativos com base em comandos textuais.",
-            "query_en": "interactive data dashboard creation AI"
+            "anchor": "Elenco de peso e representação de figuras do setor",
+            "query_en": "Luca Guadagnino director film festival"
           },
           {
-            "anchor": "- Geração de animações e conteúdos visuais a partir de instruções em linguagem natural.",
-            "query_en": "visual content generation animations artificial intelligence"
+            "anchor": "Conflitos éticos e o desafio da atualidade",
+            "query_en": "OpenAI office building sign"
           }
         ]
       }
     },
     {
-      "id": "15553374-fffb-46e5-bb3b-5ea5cc0e5e85",
-      "title": "Google anuncia Gemini Agent voltado para o ambiente corporativo",
+      "id": "79464343-14b7-4ef5-b71b-90f3de502114",
+      "title": "Startups apostam em inteligência artificial para prever o futuro e transformar mercados",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Google Cloud Gemini Agent enterprise work announcement",
+        "video_query_en": "artificial intelligence predicting future metaculus cup prediction markets",
         "images": [
           {
-            "anchor": "Capacidades e Aplicações do Gemini Agent",
-            "query_en": "Google Cloud artificial intelligence enterprise software"
+            "anchor": "O avanço dos modelos preditivos e a competição",
+            "query_en": "artificial intelligence prediction data analytics futuristic"
           },
           {
-            "anchor": "Responder a perguntas corporativas de forma ágil e integrada.",
-            "query_en": "business artificial intelligence chat assistance"
+            "anchor": "Aplicações financeiras e o impacto em Wall Street",
+            "query_en": "wall street trading floor computer screens financial data"
+          },
+          {
+            "anchor": "Theo Summer e o cofundador Veniamin Veselovsky utilizaram ferramentas de inteligência artificial na plataforma americana Kalshi para transformar 35 dólares em 1,9 milhão de dólares em apenas sete meses.",
+            "query_en": "prediction market digital trading graph interface"
+          },
+          {
+            "anchor": "Fundos de hedge figuram entre os compradores mais ágeis dessas tecnologias, movimentando-se rapidamente quando identificam oportunidades de lucro.",
+            "query_en": "financial hedge fund quantitative trading office"
+          },
+          {
+            "anchor": "Toby Shevlane, cofundador da startup Mantic, relatou que clientes já utilizam essas soluções para embasar decisões comerciais e de negociação.",
+            "query_en": "artificial intelligence business strategy analytics dashboard"
+          },
+          {
+            "anchor": "Além das finanças: novos horizontes para a inteligência artificial",
+            "query_en": "artificial intelligence corporate strategy government policy research"
+          },
+          {
+            "anchor": "Desafios e preocupações com o acesso desigual",
+            "query_en": "cybersecurity global technology competition servers data center"
           }
         ]
       }
     },
     {
-      "id": "87e47e18-8d2d-45c6-878d-5a815d02078f",
-      "title": "Faturamento Anualizado da OpenAI Fica Próximo de US$ 50 Bilhões e Abaixo das Estimativas Anteriores",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OpenAI revenue and financial growth analysis",
-        "images": [
-          {
-            "anchor": "O Cenário Financeiro da OpenAI",
-            "query_en": "OpenAI company office building"
-          },
-          {
-            "anchor": "Comparações com Projeções Anteriores",
-            "query_en": "Financial data charts and graphs"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4e23f580-651b-4096-9a54-8289876f0889",
-      "title": "Amazon Anuncia Novos Tablets Android Premium para Enfrentar Apple e Samsung",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Amazon premium Android tablets Alexa plus",
-        "images": [
-          {
-            "anchor": "Uma Nova Estratégia no Mercado de Tablets",
-            "query_en": "Amazon premium Android tablet announcement"
-          },
-          {
-            "anchor": "Inteligência Artificial e a Nova Alexa+",
-            "query_en": "Amazon Alexa plus AI assistant voice"
-          },
-          {
-            "anchor": "Apple",
-            "query_en": "Apple iPad device"
-          },
-          {
-            "anchor": "Samsung",
-            "query_en": "Samsung Galaxy Tab premium tablet"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4010e549-2ae6-473d-ad2c-838c4d86de94",
-      "title": "Unidade de refrigeração da Vertiv de 2,3 MW é aprovada nos requisitos do programa DSX Ready da NVIDIA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vertiv CDU NVIDIA DSX Ready data center cooling",
-        "images": [
-          {
-            "anchor": "O anúncio da Vertiv",
-            "query_en": "Vertiv digital infrastructure cooling solution"
-          },
-          {
-            "anchor": "O programa DSX Ready da NVIDIA",
-            "query_en": "NVIDIA AI factory data center server"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fb9da958-35a3-40f6-a09e-9c586bc3921d",
-      "title": "Lenovo lança AI Express com sistemas de fábrica de inteligência artificial pré-validados",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Lenovo AI Express NVIDIA GPUs enterprise servers",
-        "images": [
-          {
-            "anchor": "O funcionamento do Lenovo AI Express",
-            "query_en": "Lenovo AI server hardware NVIDIA GPU"
-          },
-          {
-            "anchor": "Suporte completo e integrado",
-            "query_en": "Lenovo enterprise data center support"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ea8cd8dd-3311-417b-9b97-719a46e34975",
-      "title": "A Proximidade da Era dos Supercomputadores Pessoais com a Chegada de Notebooks Equipados com o RTX Spark",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NVIDIA RTX Spark laptop Microsoft Surface Laptop Ultra Dell",
-        "images": [
-          {
-            "anchor": "O Anúncio da Microsoft e o Surface Laptop Ultra",
-            "query_en": "Microsoft Surface Laptop Ultra NVIDIA RTX Spark"
-          },
-          {
-            "anchor": "O Impacto no Mercado de Processadores",
-            "query_en": "NVIDIA superchip processor hardware technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "474803bd-1162-4300-ae5b-98c37fadd9e7",
-      "title": "Winmate revela plataforma de IA de borda robusta voltada para drones e robótica",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Winmate rugged edge AI platform drones robotics",
-        "images": [
-          {
-            "anchor": "Fatores de Crescimento e Nova Plataforma",
-            "query_en": "industrial edge AI computer hardware"
-          },
-          {
-            "anchor": "Perspectivas Futuras para a Winmate",
-            "query_en": "rugged computer hardware robotics application"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5ab1ef65-f356-47f8-840a-2a642dd3075b",
-      "title": "Inteligência Artificial altera lógica do tráfego de telecomunicações e pressiona uplink",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ericsson telecom mobile network traffic AI uplink",
-        "images": [
-          {
-            "anchor": "O impacto da inteligência artificial no tráfego móvel",
-            "query_en": "telecom cell tower mobile network infrastructure"
-          },
-          {
-            "anchor": "Novos desafios para as operadoras",
-            "query_en": "telecommunication network operations center engineer"
-          },
-          {
-            "anchor": "A necessidade de lidar com o aumento expressivo no tráfego de uplink impulsionado por comandos de IA.",
-            "query_en": "mobile phone wireless data transmission concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e3567994-c6d1-451a-ba0d-5af8a5b5c8cf",
-      "title": "Impacto da inflação de TIC é limitado com choque de oferta abaixo do esperado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "electronic components supply chain inflation economy",
-        "images": [
-          {
-            "anchor": "O cenário de custos nos componentes eletrônicos",
-            "query_en": "advanced electronic components silicon chips circuit board"
-          },
-          {
-            "anchor": "Reflexos na economia e nos preços ao consumidor",
-            "query_en": "consumer electronics retail store technology pricing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f9de07dd-bae2-42d6-9346-f2e53af71e85",
-      "title": "Neweb Information registra salto de 118% no lucro líquido do segundo trimestre de 2026 impulsionado por demanda de TI",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Neweb Information IT upgrade cybersecurity demand financial results",
-        "images": [
-          {
-            "anchor": "Crescimento Financeiro e Entrada na Bolsa",
-            "query_en": "Taipei stock exchange building financial district"
-          },
-          {
-            "anchor": "Desempenho de Receita em Setembro",
-            "query_en": "business financial growth chart technology"
-          },
-          {
-            "anchor": "Substituições de sistemas centrais corporativos por parte de empresas que buscam modernizar operações.",
-            "query_en": "enterprise core system technology infrastructure"
-          },
-          {
-            "anchor": "Atualizações em redes e em infraestruturas de cibersegurança para mitigar riscos digitais.",
-            "query_en": "cybersecurity network operations center security"
-          },
-          {
-            "anchor": "Demanda crescente por infraestrutura voltada para inteligência artificial.",
-            "query_en": "artificial intelligence server infrastructure hardware"
-          },
-          {
-            "anchor": "Contexto de Mercado e Cobertura",
-            "query_en": "Taipei tech business office building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bb06cebf-b4cf-4198-b1e2-b898bf239e48",
-      "title": "Baso Optical projeta desempenho estável para 2027 com foco em AOI, semicondutores e aeroespacial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Baso Precision Optics earnings semiconductor AOI",
-        "images": [
-          {
-            "anchor": "Desafios de margem e custos iniciais",
-            "query_en": "optical manufacturing assembly line factory"
-          },
-          {
-            "anchor": "Perspectivas e foco para 2027",
-            "query_en": "high tech semiconductor cleanroom manufacturing"
-          },
-          {
-            "anchor": "Apostas em setores de alta margem",
-            "query_en": "automated optical inspection AOI equipment"
-          },
-          {
-            "anchor": "Inspeção Óptica Automatizada (AOI)",
-            "query_en": "automated optical inspection machine industrial"
-          },
-          {
-            "anchor": "Semicondutores",
-            "query_en": "semiconductor wafer manufacturing cleanroom"
-          },
-          {
-            "anchor": "Aeroespacial",
-            "query_en": "aerospace optical lens equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "47713d43-0869-41cd-87af-89b4705c30ba",
-      "title": "MAtek registra faturamento recorde em setembro de 2026 e mantém sequência de altas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "MAtek semiconductor testing revenue 2026",
-        "images": [
-          {
-            "anchor": "Resultados consolidados do ano e do trimestre",
-            "query_en": "semiconductor testing laboratory facility cleanroom"
-          },
-          {
-            "anchor": "Sétimo mês consecutivo de recordes",
-            "query_en": "microchip silicon wafer testing equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8477c68d-52b6-4893-9640-e13aef787efa",
-      "title": "Presidente da Episil afirma que o mercado de carboneto de silício ainda não está migrando de 6 para 8 polegadas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "silicon carbide wafer production 6 inch 8 inch semiconductor",
-        "images": [
-          {
-            "anchor": "A recuperação expressiva da capacidade produtiva",
-            "query_en": "silicon carbide semiconductor manufacturing cleanroom"
-          },
-          {
-            "anchor": "O debate sobre a transição para wafers de 8 polegadas",
-            "query_en": "silicon carbide wafer 8 inch"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8fa0371b-c20e-4dbd-a00a-4855cc852b00",
-      "title": "Demanda por IA e carros elétricos impulsiona participação de osciladores diferenciais da Aker",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Aker Technology quartz components AI automotive demand",
-        "images": [
-          {
-            "anchor": "Desempenho no setor automotivo",
-            "query_en": "electric vehicle automotive electronic components"
-          },
-          {
-            "anchor": "Avanços em osciladores diferenciais e novos lançamentos",
-            "query_en": "quartz crystal oscillator electronic component"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dfff4c87-1aed-4576-8516-f03bc4c733d5",
-      "title": "Largan Technology redireciona nova fábrica para unidades de arranjo de fibras após enfraquecimento no mercado de smartphones",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Largan Technology smartphone market fiber array units",
-        "images": [
-          {
-            "anchor": "Mudança de foco para ótica avançada",
-            "query_en": "Largan Technology automated factory optical lens manufacturing"
-          },
-          {
-            "anchor": "Atendimento direto à demanda de clientes",
-            "query_en": "fiber array units co-packaged optics technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f89db1c5-b509-4838-ae53-7d10ae0a9210",
-      "title": "Aceleração de data centers de IA e expansão de semicondutores na Índia",
+      "id": "9cef9071-f11b-4955-bd9f-1ad204347672",
+      "title": "EUA mudam de ideia e permitem que desenvolvedores de IA testem modelos no Reino Unido",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "India AI data center semiconductor infrastructure growth",
+        "video_query_en": "US UK artificial intelligence safety testing agreement",
         "images": [
           {
-            "anchor": "O panorama atual da infraestrutura tecnológica na Índia",
-            "query_en": "India technology data center infrastructure"
+            "anchor": "Uma nova postura frente à cooperação internacional",
+            "query_en": "Donald Trump white house press conference technology"
           },
           {
-            "anchor": "Crescimento da computação de alta densidade e conectividade",
-            "query_en": "High density computing server data center GPU"
+            "anchor": "O papel do Instituto de Segurança de IA britânico",
+            "query_en": "UK AI Safety Institute research facility"
           },
           {
-            "anchor": "A sinergia entre semicondutores e inteligência artificial",
-            "query_en": "Semiconductor manufacturing cleanroom silicon chip"
+            "anchor": "O Instituto de Segurança de Inteligência Artificial do Reino Unido foi estabelecido na sequência da primeira cúpula global de segurança em IA realizada no ano de 2023.",
+            "query_en": "artificial intelligence safety summit London"
+          },
+          {
+            "anchor": "O órgão especializado tem como principal atribuição examinar os modelos de inteligência artificial mais avançados do mercado internacional.",
+            "query_en": "advanced artificial intelligence neural network testing"
+          },
+          {
+            "anchor": "A missão técnica consiste em avaliar rigorosamente as capacidades reais dessas tecnologias e mensurar de forma precisa os riscos associados ao uso indevido.",
+            "query_en": "cybersecurity AI risk evaluation lab"
+          },
+          {
+            "anchor": "Mudanças internas na política de IA dos EUA",
+            "query_en": "US government artificial intelligence task force meeting"
           }
         ]
       }
     },
     {
-      "id": "9a65866f-1302-480f-b6e8-7d0d69a6c8e4",
-      "title": "A estratégia da Workman: como a redução de preço em 1.000 ienes impulsionou os lucros da marca",
+      "id": "6d2be90b-cd94-4fb8-aafc-9bf4262a7aca",
+      "title": "Como automatizar processos de escritório utilizando a inteligência artificial Claude",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Claude AI workflow automation office tasks",
+        "images": [
+          {
+            "anchor": "O papel dos agentes de inteligência artificial",
+            "query_en": "artificial intelligence agent office workflow"
+          },
+          {
+            "anchor": "Abordagem prática no ambiente profissional",
+            "query_en": "professional working with AI assistant on computer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eb2117ae-fe11-4a8c-8831-287be3c21caf",
+      "title": "Ataque ao Registro Populacional da Dinamarca: Senha Fraca Facilitou Acesso de Hackers por Semanas",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Denmark civil registry cyber attack data security",
+        "images": [
+          {
+            "anchor": "Falhas Básicas de Segurança e Contas Comprometidas",
+            "query_en": "cybersecurity password vulnerability hacking concept"
+          },
+          {
+            "anchor": "Impacto no Registro Central de Pessoas",
+            "query_en": "server room data center digital security"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a7ae268-3a7e-4086-a299-4059c5681ff8",
+      "title": "Emissora RTL exibe episódios gerados por inteligência artificial na TV sem aviso prévio",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Workman store Japan business strategy retail",
+        "video_query_en": "RTL artificial intelligence TV broadcast Strafgericht",
         "images": [
           {
-            "anchor": "O desafio da imagem e o reposicionamento do produto",
-            "query_en": "Workman clothing store exterior Japan"
+            "anchor": "A transformação de material clássico",
+            "query_en": "Television studio production broadcast equipment"
           },
           {
-            "anchor": "Redução de 1.000 ienes no valor dos conjuntos de vestimentas, passando de 4.400 ienes para 3.400 ienes para atrair novos públicos e estimular o consumo em massa.",
-            "query_en": "Japanese workwear apparel retail display"
-          },
-          {
-            "anchor": "Reestruturação da linha principal focando em eliminar barreiras visuais que dificultavam a entrada de consumidores comuns em lojas de artigos profissionais.",
-            "query_en": "Workman retail shop interior Japan"
-          },
-          {
-            "anchor": "Ajuste na cadeia de suprimentos e processos de fabricação para sustentar a margem de lucro mesmo com preços mais acessíveis.",
-            "query_en": "Clothing manufacturing warehouse logistics"
-          },
-          {
-            "anchor": "Aumento expressivo de aproximadamente 50% nos lucros globais da divisão após a implementação das medidas de estímulo e barateamento dos itens.",
-            "query_en": "Business growth financial chart corporate success"
+            "anchor": "A falta de transparência na televisão linear",
+            "query_en": "Television screen showing broadcast news or show"
           }
         ]
       }
     },
     {
-      "id": "24deeae9-752c-487c-bc57-1bcbdb1af768",
-      "title": "NTTドコモがJR名古屋駅の新幹線ホームにおける通信環境の改善対策を発表",
-      "category": "Smartphones",
+      "id": "eff533a7-8f15-4372-9460-7acdae2060bf",
+      "title": "Ataques a data centers fazem tráfego de bots russos da Yandex despencar",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NTT Docomo mobile network signal improvement station platform",
+        "video_query_en": "Yandex data center cyber traffic cloudflare attack",
         "images": [
           {
-            "anchor": "JR名古屋駅ホームでの通信環境改善への取り組み",
-            "query_en": "JR Nagoya station Shinkansen platform railway"
+            "anchor": "Impacto dos ataques com drones",
+            "query_en": "drone attack data center infrastructure"
           },
           {
-            "anchor": "通信品質向上を支える背景と今後の展開",
-            "query_en": "NTT Docomo smartphone mobile network tower"
+            "anchor": "O papel da Cloudflare na medição",
+            "query_en": "Cloudflare network monitoring security dashboard"
+          },
+          {
+            "anchor": "Queda drástica no tráfego de bots da Yandex identificada por ferramentas de monitoramento",
+            "query_en": "server room racks data center cables"
+          },
+          {
+            "anchor": "Ataques de drones direcionados contra infraestruturas críticas de armazenamento de dados",
+            "query_en": "modern data center exterior building"
+          },
+          {
+            "anchor": "Interrupção de serviços automatizados e redes de robôs devido a falhas nos servidores",
+            "query_en": "server hardware failure warning lights"
+          },
+          {
+            "anchor": "Redução na capacidade de processamento digital na Rússia observada por análises externas",
+            "query_en": "cyber security traffic analysis graph"
           }
         ]
       }
     },
     {
-      "id": "a442e630-434d-4944-9e64-51c3d4ba4695",
-      "title": "OpenAI publica 722 teses matemáticas e gera forte reação da comunidade científica",
-      "category": "Inteligência Artificial",
+      "id": "6293e405-fb68-485d-ab5f-57ec696277da",
+      "title": "O Retorno da Lenda: Citroën Planeja Relançar o Clássico 2CV como Carro Elétrico Compacto",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI mathematics research papers AI controversy",
+        "video_query_en": "Citroen 2CV concept electric car Paris Motor Show",
         "images": [
           {
-            "anchor": "A divulgação em massa das teses matemáticas",
-            "query_en": "advanced mathematics research equations blackboard"
+            "anchor": "Um Clássico Revisitado para a Mobilidade Moderna",
+            "query_en": "Citroen 2CV electric concept car design"
           },
           {
-            "anchor": "O silêncio sobre a metodologia e o modelo",
-            "query_en": "artificial intelligence server abstract technology"
+            "anchor": "O Desafio da Eletrificação Acessível",
+            "query_en": "Citroen small electric car interior dashboard"
           },
           {
-            "anchor": "As críticas e preocupações da comunidade matemática",
-            "query_en": "scientists academic meeting discussion lecture hall"
+            "anchor": "Perspectivas para o Futuro do Automobilismo",
+            "query_en": "Citroen 2CV modern retro electric vehicle"
           }
         ]
       }
     },
     {
-      "id": "db205a72-6801-4b10-bc6d-3379499d1830",
-      "title": "Inteligência Artificial da Anthropic envia informações falsas para a polícia em caso de assassinato não resolvido e governo americano emite alerta",
-      "category": "Inteligência Artificial",
+      "id": "b974996f-0c1e-4fa8-a3ed-8500b69a9b54",
+      "title": "Manobra com inteligência artificial da US Army enfrenta falhas no deserto",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic AI Claude police investigation security white house warning",
+        "video_query_en": "US Army AI military exercise desert drones failure",
         "images": [
           {
-            "anchor": "O incidente com o modelo Claude em investigações reais",
-            "query_en": "Anthropic AI Claude logo technology office"
+            "anchor": "O cenário do teste militar",
+            "query_en": "US Army soldiers desert training exercise"
           },
           {
-            "anchor": "Críticas das autoridades policiais",
-            "query_en": "police department digital investigation computer screen"
+            "anchor": "Principais falhas registradas",
+            "query_en": "military drone overheating desert test"
           },
           {
-            "anchor": "A reação do governo americano e a segurança nacional",
-            "query_en": "White House Washington DC US flag"
+            "anchor": "Drones superaquecidos",
+            "query_en": "military reconnaissance drone flying"
+          },
+          {
+            "anchor": "Deficiências em headsets",
+            "query_en": "soldier tactical headset augmented reality"
+          },
+          {
+            "anchor": "Impacto nos testes",
+            "query_en": "US Army desert tactical maneuver"
           }
         ]
       }
     },
     {
-      "id": "f7e84b5a-9dac-4b05-b79e-993b7f210b38",
-      "title": "Análise do cabo USB4 de baixo custo da Amazon Basics: vale a pena?",
+      "id": "7bd79d42-1fd9-42af-994d-176ad974f645",
+      "title": "DS Automobiles revela o DS F3VER em Paris",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DS Automobiles DS F3VER electric car Paris",
+        "images": [
+          {
+            "anchor": "O Conceito e o Design do DS F3VER",
+            "query_en": "DS F3VER concept car design front view"
+          },
+          {
+            "anchor": "Personalização e Identidade",
+            "query_en": "DS Automobiles electric car interior customization"
+          },
+          {
+            "anchor": "A Febre dos Carros Elétricos em Paris",
+            "query_en": "Paris motor show electric cars display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0eb4b458-9493-423a-9bc7-c082f4777730",
+      "title": "Squadron 42: Campanha solo de Star Citizen aparece na Steam",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Squadron 42 gameplay Steam release",
+        "images": [
+          {
+            "anchor": "Repercussão na Comunidade e Primeiras Horas de Jogo",
+            "query_en": "Squadron 42 Steam page gameplay"
+          },
+          {
+            "anchor": "Suporte a Realidad Virtual",
+            "query_en": "Virtual reality space simulator gaming"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f5f3c53-0510-40e7-a53a-9bd0c80df7b8",
+      "title": "Fiat Multiplay: O conceito de carro modular para família, pets e bicicletas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fiat Multiplay concept car modular design",
+        "images": [
+          {
+            "anchor": "Apresentação do Conceito Fiat Multiplay",
+            "query_en": "Fiat Multiplay concept car exterior"
+          },
+          {
+            "anchor": "Flexibilidade e Transformação",
+            "query_en": "Fiat Multiplay interior pickup conversion"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f8a10de-e65d-42f4-bbe5-e2e4b937f658",
+      "title": "Desaceleração no terceiro trimestre de 2026 afeta a Elan Microelectronics devido a escassez e excesso de estoque",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Basics USB4 cable review",
+        "video_query_en": "Elan Microelectronics touch IC PC market trends 2026",
         "images": [
           {
-            "anchor": "## Especificações de ponta e facilidade de identificação",
-            "query_en": "Amazon Basics USB4 cable connector mold"
+            "anchor": "Desempenho financeiro de setembro de 2026",
+            "query_en": "microchip semiconductor financial report data analysis"
           },
           {
-            "anchor": "## Atenção à espessura e à rigidez da fiação",
-            "query_en": "thick rigid USB Type-C cable"
+            "anchor": "Resultados do terceiro trimestre e impacto no mercado de PCs",
+            "query_en": "laptop computer hardware components manufacturing"
           },
           {
-            "anchor": "## Cenários de uso recomendados",
-            "query_en": "desktop computer monitor USB-C connection"
+            "anchor": "Fatores por trás da estagnação",
+            "query_en": "integrated circuit touch IC semiconductor wafer"
           }
         ]
       }
     },
     {
-      "id": "10a57bcb-95d6-4d56-859b-d43e4cb58906",
-      "title": "Monitores gamer da Xiaomi entram em promoção na Amazon com descontos de até 16 mil ienes",
-      "category": "Computadores",
+      "id": "e92f542e-916b-4b38-8975-43b9d94cf076",
+      "title": "Racks de inteligência artificial alcançam níveis de potência de megawatts com divisão de papéis entre SiC, GaN e silício",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Xiaomi G Pro 27i gaming monitor review",
+        "video_query_en": "AI data center power infrastructure SiC GaN silicon",
         "images": [
           {
-            "anchor": "Xiaomi G Pro 27i",
-            "query_en": "Xiaomi G Pro 27i gaming monitor"
+            "anchor": "## A expansão da infraestrutura de IA e a demanda por energia",
+            "query_en": "AI datacenter power rack infrastructure server room"
           },
           {
-            "anchor": "Xiaomi G34WQi",
-            "query_en": "Xiaomi G34WQi curved gaming monitor"
+            "anchor": "## A divisão de papéis entre SiC, GaN e silício",
+            "query_en": "power semiconductor silicon carbide gallium nitride chips"
           },
           {
-            "anchor": "G34WQi",
-            "query_en": "Xiaomi G34WQi monitor display"
+            "anchor": "- Silício tradicional: Mantém sua relevância em funções específicas de gerenciamento e infraestrutura de suporte onde o custo-benefício e a maturidade tecnológica continuam viáveis.",
+            "query_en": "silicon semiconductor wafer manufacturing cleanroom"
           },
           {
-            "anchor": "G27Qi",
-            "query_en": "Xiaomi G27Qi gaming monitor"
+            "anchor": "- Carboneto de silício (SiC): Assume um papel crucial em aplicações de alta voltagem e alta temperatura, essenciais para a conversão de energia em grande escala exigida pelos novos racks.",
+            "query_en": "silicon carbide power electronics module"
           },
           {
-            "anchor": "G27i",
-            "query_en": "Xiaomi G27i gaming monitor"
+            "anchor": "- Nitreto de gálio (GaN): Destaca-se na busca por alta densidade de potência e eficiência em comutação rápida, permitindo uma integração mais compacta e eficiente dos circuitos de alimentação.",
+            "query_en": "gallium nitride power integrated circuit chip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "80f2afb3-60d0-4f04-ab5c-d83360110540",
+      "title": "Universal Microwave Technology mantém alta de receita com expansão de satélites LEO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Universal Microwave Technology LEO satellites market analysis",
+        "images": [
+          {
+            "anchor": "O crescimento acelerado da UMT em setembro",
+            "query_en": "taiwan tech company office building exterior"
           },
           {
-            "anchor": "G25i",
-            "query_en": "Xiaomi G25i gaming monitor"
+            "anchor": "O impulso das constelações de satélites LEO",
+            "query_en": "low earth orbit satellite constellation in space"
           }
         ]
       }
