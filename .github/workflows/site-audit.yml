@@ -2,6 +2,10 @@ name: Auditoria do site
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/site-audit.yml'
   schedule:
     - cron: '35 5 * * 1'
 
@@ -13,11 +17,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Verificar links internos e externos
-        uses: JustinBeckwith/linkinator@v1
+        uses: JustinBeckwith/linkinator-action@v2
         with:
-          path: https://sites84.github.io/Tech-check/
+          paths: https://sites84.github.io/Tech-check/
+          sitemapUrl: https://sites84.github.io/Tech-check/sitemap.xml https://sites84.github.io/Tech-check/sitemap-evergreen.xml
           recurse: true
-          timeout: 10000
+          concurrency: 15
+          timeout: 15000
+          retryErrors: true
+          retryErrorsCount: 2
+          retryErrorsJitter: 1000
+          verbosity: INFO
       - name: Validar robots, sitemap e páginas evergreen
         shell: bash
         run: |
