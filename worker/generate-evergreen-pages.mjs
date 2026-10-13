@@ -54,6 +54,13 @@ function articleBody(item) {
     groups.map(g => `<section class="article-list-item"><h2>${esc(g.number)}. ${esc(g.title)}</h2>${g.paragraphs.map(p => `<p>${esc(p)}</p>`).join('')}</section>`).join('');
 }
 
+function safeImageUrl(value) {
+  const url = String(value || '');
+  if (url.includes('photo-1592664474505-51c6ad68fdd2')) return url.replace('photo-1592664474505-51c6ad68fdd2', 'photo-1518770660439-4636190af475');
+  if (url.includes('photo-1556656793-08538906a1f8')) return url.replace('photo-1556656793-08538906a1f8', 'photo-1598327105666-5b89351aff97');
+  return url;
+}
+
 function schemaFor(item, url) {
   const data = {
     '@context': 'https://schema.org',
@@ -111,7 +118,7 @@ async function writeLegacyRedirects(folder, canonicalSlug, item, canonicalUrl) {
 
 async function main() {
   const items = await api('tech_evergreen_content?active=eq.true&select=id,content_type,title,summary,content,image_url,image_url_2,sort_order,created_at&order=content_type.asc,sort_order.asc&limit=1000');
-  const supported = items.filter(x => ['curiosity', 'fundamental', 'tutorial', 'comparison'].includes(x.content_type));
+  const supported = items.filter(x => ['curiosity', 'fundamental', 'tutorial', 'comparison'].includes(x.content_type)).map(item => ({ ...item, image_url: safeImageUrl(item.image_url), image_url_2: safeImageUrl(item.image_url_2) }));
   const grouped = {
     curiosity: supported.filter(x => x.content_type === 'curiosity'),
     fundamental: supported.filter(x => x.content_type === 'fundamental'),

@@ -1,0 +1,71 @@
+/* Dark-mode stylesheet for evergreen article pages. */
+.dark-mode {
+  color-scheme: dark;
+  --bg: #101418;
+  --panel: #171c21;
+  --panel2: #222930;
+  --text: #edf2f5;
+  --muted: #aab5be;
+  --line: #303941;
+  --accent: #45c99a;
+  --accent-soft: #123b2f;
+}
+.dark-mode body,
+.dark-mode {
+  background: var(--bg);
+  color: var(--text);
+}
+.dark-mode .site-header {
+  background: rgba(16, 20, 24, .96);
+  border-color: var(--line);
+}
+.dark-mode .evergreen-special-card,
+.dark-mode .curiosity-article,
+.dark-mode .evergreen-card {
+  background: var(--panel);
+  color: var(--text);
+  border-color: var(--line);
+}
+.dark-mode .evergreen-special-card h1,
+.dark-mode .evergreen-special-card h2,
+.dark-mode .evergreen-special-card h3,
+.dark-mode .evergreen-card h2,
+.dark-mode .evergreen-card h3 {
+  color: var(--text);
+}
+.dark-mode .evergreen-special-card p,
+.dark-mode .evergreen-card p,
+.dark-mode .article-body,
+.dark-mode .article-tldr {
+  color: var(--muted);
+}
+.dark-mode .article-tldr,
+.dark-mode .article-extra {
+  background: var(--panel2);
+  border-color: var(--line);
+}
+.dark-mode .evergreen-special-card a,
+.dark-mode .article-bottom-nav a {
+  color: var(--accent);
+}
+.dark-mode .article-bottom-nav {
+  border-color: var(--line);
+}
+.dark-mode .special-page .eyebrow,
+.dark-mode .evergreen-special-card .eyebrow {
+  color: var(--accent);
+}
+.article-dark-toggle {
+  position: fixed;
+  right: 16px;
+  top: 84px;
+  z-index: 20;
+  border: 1px solid var(--line, #dfe4e8);
+  background: var(--panel, #fff);
+  color: var(--text, #17202a);
+  border-radius: 999px;
+  padding: 8px 12px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, .12);
+}

@@ -1,5 +1,5 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
-import { join } from 'node:path';
+import { join, sep } from 'node:path';
 
 const ROOTS = [
   ['noticias', '../../'],
@@ -42,10 +42,12 @@ function standardize(html, prefix) {
 }
 
 let changed = 0;
-for (const [root, prefix] of ROOTS) {
+for (const [root] of ROOTS) {
   const files = await walk(root);
   for (const file of files) {
     const html = await readFile(file, 'utf8');
+    const depth = Math.max(0, file.split(sep).length - 1);
+    const prefix = '../'.repeat(depth);
     const next = standardize(html, prefix);
     if (next !== html) {
       await writeFile(file, next);
