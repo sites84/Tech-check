@@ -6,6 +6,22 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/site-audit.yml'
+      - '.github/workflows/update-news.yml'
+      - 'worker/standardize-favicons.mjs'
+      - 'worker/generate-evergreen-pages.mjs'
+      - 'worker/generate-seo-stable.mjs'
+      - 'article-dark-mode.css'
+      - 'favicon.ico'
+      - 'favicon.png'
+      - 'apple-touch-icon.png'
+      - 'curiosidades.js'
+      - 'curiosidades/**/index.html'
+      - 'noticias/**/index.html'
+      - 'tutoriais/**/index.html'
+      - 'comparativos/**/index.html'
+      - 'sitemap.xml'
+      - 'sitemap-evergreen.xml'
+      - 'robots.txt'
   schedule:
     - cron: '35 5 * * 1'
 
