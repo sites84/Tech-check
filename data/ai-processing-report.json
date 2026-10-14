@@ -1,667 +1,727 @@
 {
-  "updated_at": "2026-10-14T12:07:37.065Z",
+  "updated_at": "2026-10-14T17:22:15.359Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "3955cdb5-0758-475b-8c1f-a16d6b869c5d",
-      "title": "Revisão do FMI indica que Índia e Reino Unido vão ultrapassar a economia do Japão em PIB nominal até 2027",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "IMF World Economic Outlook Japan GDP India UK",
-        "images": [
-          {
-            "anchor": "O novo cenário econômico global segundo o FMI",
-            "query_en": "International Monetary Fund building Washington DC"
-          },
-          {
-            "anchor": "Projeções detalhadas para as principais potências",
-            "query_en": "Tokyo skyline business district economic growth"
-          },
-          {
-            "anchor": "Em 2026, o Japão deve ocupar a quarta colocação global com um PIB nominal de US$ 4,34 trilhões.",
-            "query_en": "Japanese Yen currency banknotes and coins"
-          },
-          {
-            "anchor": "O Reino Unido aparece logo na sequência neste ano, projetado na quinta posição com US$ 4,27 trilhões.",
-            "query_en": "London financial district skyline cityscape"
-          },
-          {
-            "anchor": "A Índia figura na sexta colocação em 2026, alcançando a marca de US$ 4,06 trilhões.",
-            "query_en": "Mumbai business district financial center India"
-          },
-          {
-            "anchor": "Desafios estruturais da economia japonesa",
-            "query_en": "aging population Japan Tokyo street scene"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ab32aaa9-a731-4357-abfe-c351adfdfaea",
-      "title": "Hakkaku’s complex legacy looms over sumo’s next chapter",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "83edecf5-c164-4885-adbb-32f1298e8dff",
-      "title": "Por que Putin afirma que a Rússia pode deixar de existir se perder a guerra",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vladimir Putin Valdai Club speech Russia Ukraine conflict",
-        "images": [
-          {
-            "anchor": "O impacto da narrativa na estratégia do Kremlin",
-            "query_en": "Vladimir Putin military speech Moscow"
-          },
-          {
-            "anchor": "A conferência do Clube Valdai",
-            "query_en": "Valdai Discussion Club conference meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "23135421-2e81-491f-a475-69c539778c81",
-      "title": "Gigantes tecnológicas da China utilizam dívida barata em iuan offshore para financiar inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tencent offshore yuan debt AI funding China",
-        "images": [
-          {
-            "anchor": "A estratégia de financiamento da Tencent",
-            "query_en": "Tencent headquarters building Shenzhen"
-          },
-          {
-            "anchor": "Emissão multibilionária de títulos",
-            "query_en": "financial district skyline China bonds"
-          },
-          {
-            "anchor": "O domínio das notas dim sum",
-            "query_en": "Chinese currency yuan banknotes"
-          },
-          {
-            "anchor": "Comparação de custos entre iuan e dólar",
-            "query_en": "stock market financial data screen"
-          },
-          {
-            "anchor": "Os títulos com prazo de 10 anos apresentaram cupons de 2,4 por cento.",
-            "query_en": "business documents financial charts"
-          },
-          {
-            "anchor": "Os títulos com vencimento em 30 anos registraram cupons de 3 por cento.",
-            "query_en": "long term investment financial planning"
-          },
-          {
-            "anchor": "As taxas ficaram significativamente abaixo dos rendimentos superiores a 6 por cento observados em notas denominadas em dólar.",
-            "query_en": "us dollar and chinese yuan currency comparison"
-          },
-          {
-            "anchor": "A parcela em iuan arrecadou mais do que o dobro do montante obtido na porção da oferta realizada em dólares.",
-            "query_en": "artificial intelligence data center servers"
-          }
-        ]
-      }
-    },
-    {
-      "id": "71509770-ea88-42d4-b387-6d6472b2a6e0",
-      "title": "O que acontece com os seus dados pessoais após um vazamento de informações?",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "what happens after a data breach cybersecurity",
-        "images": [
-          {
-            "anchor": "Como ocorrem os ataques de acesso não autorizado",
-            "query_en": "cybersecurity data breach warning screen"
-          },
-          {
-            "anchor": "Intrusão inicial: o invasor obtém acesso não autorizado à rede ou sistema da empresa.",
-            "query_en": "hacker entering system code breach"
-          },
-          {
-            "anchor": "Permanência oculta: o agente malicioso pode ficar operando dentro do sistema por meses ou até anos sem ser percebido.",
-            "query_en": "cyber threat monitoring dashboard analytics"
-          },
-          {
-            "anchor": "Investigação e uso dos dados: frequentemente de forma simultânea, enquanto a empresa afetada inicia as investigações sobre o incidente, os hackers já começam a colocar as informações roubadas em uso.",
-            "query_en": "digital forensic data theft investigation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6da58b9b-ab5d-40d9-a369-fdcd6dcde966",
-      "title": "Tartarugas-verdes desafiam tendência global de declínio e trazem esperança para conservação",
+      "id": "17d7bf47-3104-4819-8a14-782bd9b1c9cd",
+      "title": "Programa no Japão usa o teatro para ajudar crianças com questões de desenvolvimento",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "green turtles conservation malaysia wildlife report",
+        "video_query_en": "theater program children developmental issues Japan Hokagorubi",
         "images": [
           {
-            "anchor": "O panorama da conservação em Mataking",
-            "query_en": "green turtle hatchling Malaysia beach"
+            "anchor": "Uma abordagem inovadora em Kobe",
+            "query_en": "Kobe Japan cityscape street"
           },
           {
-            "anchor": "O contraste com o relatório do WWF",
-            "query_en": "WWF Living Planet Report nature wildlife"
+            "anchor": "Os benefícios observados no palco",
+            "query_en": "children theater performance stage acting"
           },
           {
-            "anchor": "Esforços de décadas e medidas protetivas",
-            "query_en": "marine protection turtle conservation project"
+            "anchor": "A facilitação da comunicação",
+            "query_en": "kids practicing theater script communication"
           }
         ]
       }
     },
     {
-      "id": "bd78f53b-ee09-4ee2-b14a-a23c58171fd0",
-      "title": "CFTC staff were told to retract analysis of suspicious oil trades",
+      "id": "ba1f6f1a-9b0e-4a15-8433-426e730aab41",
+      "title": "Hitachi avalia desenvolvimento de reatores nucleares de pequeno porte no Japão diante da alta de custos de energia",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hitachi small modular reactors nuclear energy Japan",
+        "images": [
+          {
+            "anchor": "A aposta da Hitachi em reatores nucleares compactos",
+            "query_en": "Hitachi Energy nuclear power plant technology"
+          },
+          {
+            "anchor": "Prazos e o fantasma de Fukushima",
+            "query_en": "Fukushima nuclear power plant landscape"
+          },
+          {
+            "anchor": "O impacto dos altos preços da energia na mudança de postura da sociedade",
+            "query_en": "Japanese flag energy power transmission lines"
+          },
+          {
+            "anchor": "Mudança na opinião pública",
+            "query_en": "Andreas Schierenbeck Bloomberg New Economy Forum"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9d17b0e-5c8e-46f5-99e7-9d5ddec16e5f",
+      "title": "Vissel Kobe vence o Jeonbuk Motors e conquista segunda vitória na Liga dos Campeões Asiática",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "CFTC oil trades investigation Donald Trump Truth Social",
+        "video_query_en": "Vissel Kobe Jeonbuk Motors Asian Champions League highlights",
         "images": [
           {
-            "anchor": "O anúncio que movimentou o mercado",
-            "query_en": "oil market trading floor financial charts"
+            "anchor": "Um início perfeito na competição continental",
+            "query_en": "Vissel Kobe team celebration soccer"
           },
           {
-            "anchor": "Negociações antes da postagem",
-            "query_en": "stock market graphs and financial data"
-          },
-          {
-            "anchor": "A atuação dos analistas forenses",
-            "query_en": "CFTC building sign regulatory agency Washington"
+            "anchor": "Os gols da partida",
+            "query_en": "Yuya Osako Vissel Kobe forward"
           }
         ]
       }
     },
     {
-      "id": "e2c86654-8972-42c3-a4a1-eb457f3e5f47",
-      "title": "Primeira-ministra Sanae Takaichi destaca rotina doméstica intensa em comparação a antecessores",
+      "id": "181c59e7-82f1-4c0e-8b76-6418eb07dd97",
+      "title": "Uber Eats consolida liderança no mercado japonês e mira sequência de lucro",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sanae Takaichi prime minister housework routine",
+        "video_query_en": "Uber Eats Japan food delivery market",
         "images": [
           {
-            "anchor": "A rotina matinal da chefe de governo",
-            "query_en": "Sanae Takaichi prime minister speaking"
+            "anchor": "Estratégia e Liderança no Mercado Japonês",
+            "query_en": "Uber Eats Japan news conference Tokyo"
+          },
+          {
+            "anchor": "Perspectivas Futuras e Expectativas de Mercado",
+            "query_en": "Uber Eats delivery rider Tokyo Japan"
           }
         ]
       }
     },
     {
-      "id": "8cfd9e27-506c-46d2-89b3-37816785dc2f",
-      "title": "Ministro da Agricultura do Japão renuncia após escândalos",
+      "id": "5996c837-0c3d-4fac-9d73-14dbda44dbcf",
+      "title": "Chefes de finanças do G20 devem encerrar reunião sem declaração conjunta após ausência de Bessent",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Kazuo Yana resignation Sanae Takaichi cabinet Japan politics",
+        "video_query_en": "G20 finance ministers meeting Bangkok economic outlook",
         "images": [
           {
-            "anchor": "Impacto nas deliberações parlamentares",
-            "query_en": "Japanese parliament building Tokyo politics"
+            "anchor": "O impacto da ausência de Scott Bessent",
+            "query_en": "Scott Bessent US Treasury Secretary portrait"
           },
           {
-            "anchor": "Motivações declaradas para a saída",
-            "query_en": "Kazuo Yana Japanese politician press conference"
+            "anchor": "Incertezas sobre mercados emergentes e riscos globais",
+            "query_en": "G20 finance ministers meeting room Bangkok"
+          },
+          {
+            "anchor": "Contexto das negociações internacionais",
+            "query_en": "Bangkok Thailand international conference skyline"
           }
         ]
       }
     },
     {
-      "id": "02c2f30c-adcf-4673-acbb-d4a4b3f4a12d",
-      "title": "Novo livro de Toshio Suzuki explora a relação entre as animações do Studio Ghibli e a filosofia Zen",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Toshio Suzuki Zen and Ghibli book interview",
-        "images": [
-          {
-            "anchor": "Os bastidores de quatro décadas de animação",
-            "query_en": "Toshio Suzuki Studio Ghibli producer"
-          },
-          {
-            "anchor": "Conversas espirituais e reflexões cotidianas",
-            "query_en": "Studio Ghibli anime scenery Zen philosophy"
-          },
-          {
-            "anchor": "Zen and Ghibli: Life Lessons for Lasting Happiness from the Legendary Studio",
-            "query_en": "Zen and Ghibli book Toshio Suzuki"
-          },
-          {
-            "anchor": "A importância do espaço negativo",
-            "query_en": "Studio Ghibli Hayao Miyazaki film scene"
-          }
-        ]
-      }
-    },
-    {
-      "id": "baed289b-82c1-4c04-b5ed-d6454f796e7f",
-      "title": "O retorno da NBA na China impulsiona marcas locais e estratégia global",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NBA China Games Macao basketball",
-        "images": [
-          {
-            "anchor": "O retorno da NBA e o cenário em Macao",
-            "query_en": "Venetian Arena Macao basketball stadium"
-          },
-          {
-            "anchor": "Parcerias estratégicas e o mercado asiático",
-            "query_en": "Chinese sportswear brand retail store"
-          },
-          {
-            "anchor": "Desafios e concorrência no setor",
-            "query_en": "NBA preseason game fans crowd"
-          }
-        ]
-      }
-    },
-    {
-      "id": "56913622-ab5e-43eb-804b-91ea2e6b05b1",
-      "title": "Escassez de combustível se espalha para Bali e outras regiões da Indonésia com a alta de preços",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia fuel shortages Bali Pertamina",
-        "images": [
-          {
-            "anchor": "Impacto na ilha de Bali e outras regiões",
-            "query_en": "Pertamina gas station Bali long lines vehicles"
-          },
-          {
-            "anchor": "O papel da estatal Pertamina e o contexto de mercado",
-            "query_en": "Pertamina gas station Indonesia energy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5d4c330b-33bb-482a-87fa-f3581cbe0212",
-      "title": "Avanço em memória da CXMT coloca rivais globais de chips na defensiva",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "CXMT memory chip breakthrough semiconductor industry",
-        "images": [
-          {
-            "anchor": "O anúncio da CXMT e o impacto no mercado",
-            "query_en": "CXMT semiconductor facility China"
-          },
-          {
-            "anchor": "Fabricantes tradicionais afetadas: Samsung Electronics, SK Hynix e Micron Technology.",
-            "query_en": "Samsung memory chip manufacturing cleanroom"
-          },
-          {
-            "anchor": "Contexto de escassez e adoção por grandes marcas",
-            "query_en": "Asus HP laptop hardware components"
-          },
-          {
-            "anchor": "A resposta dos concorrentes e o cenário global",
-            "query_en": "SK Hynix semiconductor factory South Korea"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c920e350-ccfe-439b-bee4-b80256eb2650",
-      "title": "Vietnam sends final trade agreement wording to US, deputy PM says",
+      "id": "1fb85e1c-322a-4498-b8a3-5e132b0e8326",
+      "title": "Japan weighs considering nuclear-powered subs in updated security policies",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
+      "error": "Categoria inválida retornada pelo Gemini: Defesa"
     },
     {
-      "id": "44337ca5-202b-4bcd-8fa6-08cbf4435655",
-      "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
+      "id": "7d18f5d8-fd97-49ac-8a4b-18133bf29eb8",
+      "title": "Preços do carvão disparam 40% no ano impulsionados por alta demanda e restrições de oferta",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Alaska LNG project Taiwan Donald Trump",
+        "video_query_en": "coal prices rise 40 percent lng replacement demand energy market",
         "images": [
           {
-            "anchor": "Context of the Alaska LNG Project",
-            "query_en": "Alaska LNG project pipeline natural gas"
+            "anchor": "Impacto da substituição do gás natural",
+            "query_en": "coal power plant energy generation electricity smoke stacks"
           },
           {
-            "anchor": "Economic Scope and Projections",
-            "query_en": "Taipei economy ministry building Taiwan"
+            "anchor": "Desafios na cadeia de suprimentos de Indonésia e Austrália",
+            "query_en": "coal mining port cargo ship export terminal Indonesia"
           },
           {
-            "anchor": "Broader Energy and Security Landscape",
-            "query_en": "Taiwan energy infrastructure power plant"
+            "anchor": "Perspectivas para o mercado de energia",
+            "query_en": "global energy market commodities trading floor stock exchange"
+          },
+          {
+            "anchor": "Restrições governamentais e maior controle sobre as atividades das mineradoras na Indonésia.",
+            "query_en": "coal mining excavator heavy machinery operating in open pit mine"
+          },
+          {
+            "anchor": "Obrigações de fornecimento voltadas para o abastecimento do mercado interno indonésio.",
+            "query_en": "coal stockpile power plant storage yard energy supply"
+          },
+          {
+            "anchor": "Estagnação no volume total de carvão exportado pelos portos indonésios.",
+            "query_en": "bulk carrier ship loaded with coal at port terminal"
+          },
+          {
+            "anchor": "Desafios operacionais e regulatórios enfrentados pelas empresas mineradoras na Austrália.",
+            "query_en": "australian open cut coal mine heavy equipment machinery"
           }
         ]
       }
     },
     {
-      "id": "6c8c6e9f-826e-4c8f-80ce-33c2f0fb070d",
-      "title": "Grandes marcas de moda do Japão, World e TSI, anunciam fusão para formar a terceira maior empresa do setor",
+      "id": "6bb60c8a-40c4-41c7-ad11-f5036fbbdc81",
+      "title": "Tokyo Gas aposta em terminal flutuante de GNL nas Filipinas de olho no Sudeste Asiático",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japanese apparel firms World and TSI merger retail fashion market",
+        "video_query_en": "Tokyo Gas floating LNG terminal Philippines",
         "images": [
           {
-            "anchor": "Impacto financeiro e escala no mercado",
-            "query_en": "Japanese retail fashion clothing store Tokyo"
+            "anchor": "Expansão no Sudeste Asiático e novos mercados",
+            "query_en": "floating storage and regasification unit LNG ship"
           },
           {
-            "anchor": "Contexto e desafios demográficos",
-            "query_en": "Tokyo shopping district fashion retail Japan"
+            "anchor": "Mudança no modelo de negócios da Tokyo Gas",
+            "query_en": "Tokyo Gas corporate building Tokyo"
+          },
+          {
+            "anchor": "O contexto energético regional",
+            "query_en": "liquefied natural gas terminal Asia"
           }
         ]
       }
     },
     {
-      "id": "9753da64-9b1c-47b1-9901-2449143f5851",
-      "title": "Recruit Holdings planeja vender o aplicativo Study Sapuri e encolher sua divisão de educação",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Recruit Holdings Study Sapuri app education business",
-        "images": [
-          {
-            "anchor": "O foco estratégico em recursos humanos",
-            "query_en": "Recruit Holdings office Tokyo building corporate"
-          },
-          {
-            "anchor": "Movimentos anteriores de desinvestimento no setor educacional",
-            "query_en": "online learning app smartphone education"
-          },
-          {
-            "anchor": "O impacto no mercado asiático de tecnologia educacional",
-            "query_en": "digital education student learning online platform"
-          }
-        ]
-      }
-    },
-    {
-      "id": "81ff2ee7-11f5-4cd1-9b7b-6e7e0a1fd418",
-      "title": "Ministro da Agricultura do Japão renuncia em meio a escândalos e enfraquece premiê Takaichi",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan agriculture minister resigns Takaichi cabinet",
-        "images": [
-          {
-            "anchor": "Uma renúncia precoce em Tóquio",
-            "query_en": "Tokyo prime minister office Japan politics"
-          },
-          {
-            "anchor": "Impacto direto na gestão da primeira-ministra",
-            "query_en": "Japanese parliament building Tokyo politics"
-          },
-          {
-            "anchor": "Contexto e próximos passos",
-            "query_en": "Japanese agriculture landscape farm countryside"
-          }
-        ]
-      }
-    },
-    {
-      "id": "71895218-fba8-474b-b765-e159c33eeb98",
-      "title": "Intel revela novas GPUs da série D voltadas para inferência de inteligência artificial",
+      "id": "4bad5501-0f67-43e0-ad1a-55ec4b51ec88",
+      "title": "Mercado de trabalho na Alemanha: Inteligência Artificial ainda não causa perda de empregos",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Intel D-series GPUs AI inference OCP Global Summit 2026",
+        "video_query_en": "Germany job market artificial intelligence IAB study",
         "images": [
           {
-            "anchor": "Detalhes do anúncio na Califórnia",
-            "query_en": "OCP Global Summit San Jose California venue"
+            "anchor": "O estudo do IAB e os recém-formados",
+            "query_en": "German employment office workplace professional working"
           },
           {
-            "anchor": "Foco em inferência de inteligência artificial",
-            "query_en": "Intel GPU AI processor hardware chip"
-          },
-          {
-            "anchor": "Otimização para cargas de trabalho de IA em larga escala",
-            "query_en": "artificial intelligence data center servers"
+            "anchor": "Outros fatores determinantes",
+            "query_en": "Business statistics charts employment data analysis"
           }
         ]
       }
     },
     {
-      "id": "1016b6ee-c7a6-4481-80df-5d4530325319",
-      "title": "LX Semicon Encerra Atividades no Setor de SiC e Coloca Mais de 60 Patentes à Venda",
+      "id": "65794ed9-894c-4c2a-b6ac-af94ff411f31",
+      "title": "Lego Dodge Charger de Fast & Furious atinge menor preço histórico na Amazon",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lego Technic Fast and Furious Dodge Charger review",
+        "images": [
+          {
+            "anchor": "Uma oferta imperdível para fãs de blocos de montar e automóveis",
+            "query_en": "Lego Technic Dodge Charger Fast and Furious box"
+          },
+          {
+            "anchor": "Detalhes técnicos e grandiosidade do conjunto",
+            "query_en": "Lego Technic Dodge Charger assembled model details"
+          },
+          {
+            "anchor": "Relação de custo: Com o preço promocional fixado em cerca de 108 euros para um total de 1.516 partes, o custo por peça atinge a marca extremamente atraente de aproximadamente 7,1 centavos.",
+            "query_en": "Lego Technic pieces and gears"
+          },
+          {
+            "anchor": "O apelo cultural de Velozes e Furiosos na linha Technic",
+            "query_en": "Dominic Toretto Dodge Charger Fast and Furious"
+          }
+        ]
+      }
+    },
+    {
+      "id": "36710542-c910-4f95-9ab7-f3e5a673454d",
+      "title": "Meta-Análise indica que transição energética custa trilhões e gera bilhões em economia",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "energy transition economic impact meta analysis cost savings",
+        "images": [
+          {
+            "anchor": "Os custos e os impactos da transição energética",
+            "query_en": "renewable energy transition financial investment costs"
+          },
+          {
+            "anchor": "Perspectivas para o futuro econômico do setor",
+            "query_en": "solar panels green technology economic growth"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0eda374d-a9c6-4e4c-ad44-a0698c9d8805",
+      "title": "Freenet cancela IPO e assume controle total da Exaring e do Waipu.tv",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LX Semicon silicon carbide SiC power semiconductors patents",
+        "video_query_en": "Freenet Waipu tv acquisition fiber optic network",
         "images": [
           {
-            "anchor": "Detalhes da Saída do Mercado de SiC",
-            "query_en": "silicon carbide power semiconductors silicon wafer"
+            "anchor": "Aquisição total e fim dos planos de IPO",
+            "query_en": "Freenet corporate office building Germany"
+          },
+          {
+            "anchor": "O controle sobre a rede de fibra óptica",
+            "query_en": "fiber optic cable network infrastructure technology"
+          },
+          {
+            "anchor": "Infraestrutura robusta",
+            "query_en": "telecommunications network server room fiber optics"
+          },
+          {
+            "anchor": "12.000 quilômetros",
+            "query_en": "fiber optic cables high speed data transmission"
+          },
+          {
+            "anchor": "Autonomia operacional",
+            "query_en": "modern telecommunications network control center"
+          },
+          {
+            "anchor": "Impacto no mercado de streaming e telecomunicações",
+            "query_en": "streaming television app on modern smart tv screen"
           }
         ]
       }
     },
     {
-      "id": "f646b1aa-e2b3-4ee1-a58e-c2043c5bae23",
-      "title": "SEMI Projeta Aumento de 41% na Capacidade Global de DRAM até 2030",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SEMI global DRAM capacity memory production 2030",
-        "images": [
-          {
-            "anchor": "O Impulso das Tecnologias Avançadas",
-            "query_en": "advanced semiconductor manufacturing cleanroom wafer"
-          },
-          {
-            "anchor": "Perspectivas para o Mercado de NAND Flash",
-            "query_en": "NAND flash memory chip wafer semiconductor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f26c0dfe-ca04-4b13-afaa-5a259fec8269",
-      "title": "LG e Apple desenvolvem sete dispositivos domésticos de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LG Apple AI home devices IoT products",
-        "images": [
-          {
-            "anchor": "Uma parceria estratégica para o ecossistema doméstico",
-            "query_en": "LG Electronics and Apple partnership logo"
-          },
-          {
-            "anchor": "Lançamento internacional programado",
-            "query_en": "Smart home IoT devices exhibition"
-          },
-          {
-            "anchor": "Apresentação oficial dos produtos",
-            "query_en": "Apple and LG technology event"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d765c07d-057b-4151-9696-754d42ea9c82",
-      "title": "Associação da Indústria de Semicondutores da Coreia vai sediar o Fórum JEDEC em 2026",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Korea Semiconductor Association JEDEC Forum COEX Seoul",
-        "images": [
-          {
-            "anchor": "Parceria Institucional e Governamental",
-            "query_en": "COEX convention center Seoul building"
-          },
-          {
-            "anchor": "- Associação da Indústria de Semicondutores da Coreia: organizadora principal do evento em solo coreano.",
-            "query_en": "South Korea semiconductor industry technology"
-          },
-          {
-            "anchor": "- Agência Coreana de Tecnologia e Padrões: coorganizadora ligada ao Ministério do Comércio, Indústria e Recursos (MOTIR).",
-            "query_en": "Ministry of Trade Industry and Energy South Korea building"
-          },
-          {
-            "anchor": "- JEDEC: organização global de padronização de semicondutores envolvida na cooperação do fórum.",
-            "query_en": "JEDEC memory standards logo event"
-          },
-          {
-            "anchor": "- COEX em Seul: local escolhido para sediar as atividades previstas para outubro de 2026.",
-            "query_en": "COEX mall Seoul interior"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3c69d99e-b6a2-4d8e-8595-4d38c5df9814",
-      "title": "Applied Materials inaugura o maior centro de P&D de semicondutores do mundo",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Applied Materials EPIC Center semiconductor research and development facility California",
-        "images": [
-          {
-            "anchor": "Um novo marco na pesquisa de semicondutores",
-            "query_en": "Applied Materials semiconductor research facility"
-          },
-          {
-            "anchor": "Localização e investimentos previstos",
-            "query_en": "Applied Materials California headquarters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ba529828-fead-46b8-af87-1f807f79af27",
-      "title": "Haier projeta crescimento festivo de até 35% no mercado indiano, aponta CEO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Haier CEO N S Satish festive growth strategy India appliances",
-        "images": [
-          {
-            "anchor": "Metas ambiciosas e o impulso inicial do Navratra",
-            "query_en": "Haier appliances festive season India retail display"
-          },
-          {
-            "anchor": "Fatores de demanda e a onda de premiumização",
-            "query_en": "Modern home appliances premium refrigerator smart tv"
-          },
-          {
-            "anchor": "Desempenho por categorias e estratégia de inovação",
-            "query_en": "Haier air conditioner and home appliances showroom"
-          },
-          {
-            "anchor": "Presença no varejo e expansão das lojas exclusivas",
-            "query_en": "Reliance Digital retail store electronics India"
-          },
-          {
-            "anchor": "Fabricação local e suporte técnico especializado",
-            "query_en": "Haier manufacturing plant Pune India factory"
-          },
-          {
-            "anchor": "Desafios operacionais e perspectivas futuras",
-            "query_en": "Appliance manufacturing assembly line industrial production"
-          }
-        ]
-      }
-    },
-    {
-      "id": "48f929f3-3fa9-445d-82d8-51bc80e20173",
-      "title": "Segurança da inteligência artificial sob escrutínio após incidentes com agentes autônomos",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI safety rogue agents security vulnerabilities",
-        "images": [
-          {
-            "anchor": "O debate sobre falhas de desenvolvimento e autonomia",
-            "query_en": "artificial intelligence safety security code"
-          },
-          {
-            "anchor": "Contexto e repercussão no setor",
-            "query_en": "AI technology servers and data center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fe0787f1-67c3-423e-81b3-53e60f924eb2",
-      "title": "Casa de leilões online suíça Ricardo sofre roubo de dados de 890 mil usuários",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ricardo online auction data breach cybersecurity",
-        "images": [
-          {
-            "anchor": "Detalhes do incidente e impacto na base de usuários",
-            "query_en": "cybersecurity data breach laptop hacker"
-          },
-          {
-            "anchor": "890 mil registros de dados foram obtidos indevidamente no incidente.",
-            "query_en": "data theft database hacking security threat"
-          },
-          {
-            "anchor": "Resposta da plataforma e medidas de proteção",
-            "query_en": "online marketplace security protection shield"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9bd7a71d-1678-4e2c-ae5f-660a529f8a2b",
-      "title": "Google lança atualização do Chrome 155 para corrigir sete falhas críticas de segurança",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google Chrome security update critical vulnerabilities",
-        "images": [
-          {
-            "anchor": "Detalhes das vulnerabilidades corrigidas",
-            "query_en": "Google Chrome browser security update"
-          },
-          {
-            "anchor": "A importância da atualização imediata",
-            "query_en": "Cybersecurity laptop screen update"
-          }
-        ]
-      }
-    },
-    {
-      "id": "682eabd6-3d13-4173-a6d9-42bd97fdfc7d",
-      "title": "Accenture aponta que SpaceX pode expandir internet via satélite para celulares na Europa",
+      "id": "e6815417-ebf5-47ce-ad83-fad58474b49c",
+      "title": "Repetidor Wi-Fi TP-Link de até 1,2 Gbit/s em promoção na Amazon por 24,55 euros",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SpaceX satellite mobile service Europe Accenture",
+        "video_query_en": "TP-Link WiFi repeater review and setup",
         "images": [
           {
-            "anchor": "A expansão da tecnologia móvel via satélite na Europa",
-            "query_en": "SpaceX satellite communication antenna"
+            "anchor": "Desempenho e Especificações Técnicas",
+            "query_en": "TP-Link Wi-Fi range extender device"
           },
           {
-            "anchor": "Detalhes da análise da Accenture",
-            "query_en": "Accenture corporate office building"
+            "anchor": "Contexto da Oferta na Amazon",
+            "query_en": "Amazon package delivery cardboard box"
           }
         ]
       }
     },
     {
-      "id": "f53db3c2-6a5b-459a-a048-67cb326d13ca",
-      "title": "Edição especial em Steelbook de De Volta para o Futuro com o Capacitor de Fluxo está disponível para pré-venda",
-      "category": "Filmes, Séries e Animações",
+      "id": "6c7358c4-8eab-4023-8b7c-7d964dde9f5d",
+      "title": "Aviso do PayPal sobre exclusão de contas inativas gera confusão entre os usuários",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Back to the Future Flux Capacitor Steelbook edition",
+        "video_query_en": "PayPal inactive accounts notification phishing warning",
         "images": [
           {
-            "anchor": "Disponibilidade nas Lojas Online",
-            "query_en": "Amazon warehouse delivery boxes"
+            "anchor": "Notificações inesperadas do PayPal",
+            "query_en": "PayPal logo and website interface on computer screen"
           },
           {
-            "anchor": "O Sucesso dos Colecionáveis em Steelbook",
-            "query_en": "Back to the Future Blu-ray Steelbook"
+            "anchor": "Esclarecimento sobre a veracidade do aviso",
+            "query_en": "Phishing scam warning email concept on smartphone"
+          },
+          {
+            "anchor": "Políticas de contas inativas",
+            "query_en": "Digital data security and account management concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb5eec22-84d0-463f-9ec1-512fec25b08c",
+      "title": "União Europeia abre procedimento oficial contra Anthropic e OpenAI após incidente em Hugging Face",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "European Union investigation Anthropic OpenAI Hugging Face",
+        "images": [
+          {
+            "anchor": "O contexto da investigação e o incidente no Hugging Face",
+            "query_en": "Hugging Face logo artificial intelligence platform"
+          },
+          {
+            "anchor": "A atuação da Comissão Europeia e o marco regulatório",
+            "query_en": "European Commission building Brussels"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4253013-e78e-4f4c-90b8-4729fccc3b27",
+      "title": "Inteligência Artificial: O que acontece quando 14 agentes de IA se encontram em um jantar virtual?",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ai agents virtual dinner party simulation conversation",
+        "images": [
+          {
+            "anchor": "O experimento do jantar virtual com 14 agentes de IA",
+            "query_en": "artificial intelligence agents interacting virtual meeting"
+          },
+          {
+            "anchor": "O papel da mídia e a cobertura especializada",
+            "query_en": "tech journalism newsroom computer screen"
+          },
+          {
+            "anchor": "Análise de interações entre múltiplos modelos de inteligência artificial",
+            "query_en": "network of artificial intelligence nodes data exchange"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0242a764-f238-4b67-ae50-e91a2d6fa069",
+      "title": "Abordagem Zero Trust: Da Teoria à Implementação Prática",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zero Trust security implementation basics workshop",
+        "images": [
+          {
+            "anchor": "Os Desafios da Implementação",
+            "query_en": "Zero Trust security architecture network infrastructure"
+          },
+          {
+            "anchor": "Capacitação e Melhores Práticas",
+            "query_en": "cybersecurity training workshop server applications"
+          }
+        ]
+      }
+    },
+    {
+      "id": "980174f2-d1d9-43dc-89bc-235cec42d606",
+      "title": "Canivete Victorinox Huntsman com 15 funções está em promoção na Amazon por menos de 26 euros",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Victorinox Huntsman swiss army knife review",
+        "images": [
+          {
+            "anchor": "Detalhes da oferta e disponibilidade",
+            "query_en": "Victorinox Huntsman knife on Amazon box"
+          },
+          {
+            "anchor": "As 15 Funktionen do Victorinox Huntsman",
+            "query_en": "Victorinox Huntsman swiss army knife open tools"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eba45d67-1fc4-4295-a453-36454bd10b0f",
+      "title": "Energy Taiwan 2026 opens with record international participation",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Energia"
+    },
+    {
+      "id": "60a2c66f-afdb-4916-a681-bfe7f8612c90",
+      "title": "iPhone 18 Pro向け“ほぼ裸”のバンパーケース「Arc Pulse」発売 1万2980円から",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Arc Pulse bumper case iPhone review",
+        "images": [
+          {
+            "anchor": "独自のセパレート構造と保護性能",
+            "query_en": "Arc Pulse bumper case design structure"
+          },
+          {
+            "anchor": "価格とラインアップの展開",
+            "query_en": "Arc Pulse iPhone case packaging and colors"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e12280b6-0b16-4092-98b0-00cbf6e31d15",
+      "title": "Google lança o aguardado modelo de IA \"Gemini 4 Argon\" com foco em raciocínio avançado",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Gemini 4 Argon AI model release overview",
+        "images": [
+          {
+            "anchor": "Disponibilidade e Planos Compatíveis",
+            "query_en": "Google Gemini app interface on smartphone"
+          },
+          {
+            "anchor": "Capacidades Técnicas e Desempenho",
+            "query_en": "Advanced artificial intelligence neural network data processing"
+          },
+          {
+            "anchor": "O Ecossistema de IA em Expansão",
+            "query_en": "Software developer working with AI tools on computer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c17d5de9-3905-4f82-b9bf-7cdc40acef3f",
+      "title": "O próximo jogo da Rockstar não deve demorar oito anos para ser lançado, afirma estúdio",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Rockstar Games GTA 6 development workforce engine Bloomberg interview",
+        "images": [
+          {
+            "anchor": "Crescimento expressivo da equipe e estrutura global",
+            "query_en": "Rockstar Games office building exterior"
+          },
+          {
+            "anchor": "A fundação tecnológica para o futuro",
+            "query_en": "Grand Theft Auto 6 game engine development"
+          },
+          {
+            "anchor": "O motor gráfico (engine) atualizado",
+            "query_en": "game engine software development code on screen"
+          },
+          {
+            "anchor": "As ferramentas de desenvolvimento aprimoradas",
+            "query_en": "video game developers working at computers monitors"
+          },
+          {
+            "anchor": "A equipe consolidada durante o projeto",
+            "query_en": "video game development team meeting collaboration"
+          },
+          {
+            "anchor": "Os bastidores dos adiamentos e a reação da liderança",
+            "query_en": "Strauss Zelnick Take Two Interactive CEO"
+          },
+          {
+            "anchor": "O impacto emocional e operacional dos vazamentos de segurança",
+            "query_en": "cybersecurity warning hacker screen concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2c331e04-f74a-41cc-b0a1-da8b258aceff",
+      "title": "Legacy Games anuncia o encerramento de sua loja online para dezembro",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Legacy Games closing online store digital purchases",
+        "images": [
+          {
+            "anchor": "Detalhes da Operação e Fim dos Serviços",
+            "query_en": "Legacy Games online marketplace storefront website"
+          },
+          {
+            "anchor": "Prazos e Impacto para os Jogadores",
+            "query_en": "PC casual hidden object video games gameplay"
+          },
+          {
+            "anchor": "Loja online encerra as atividades em 31 de dezembro de 2026.",
+            "query_en": "Legacy Games logo corporate"
+          },
+          {
+            "anchor": "Slogan original da plataforma destacava que os jogos eram \"seus para guardar para sempre\".",
+            "query_en": "video game digital download concept"
+          },
+          {
+            "anchor": "Grande parte do catálogo foi distribuída em pacotes com múltiplos jogos.",
+            "query_en": "PC game retail box bundles"
+          },
+          {
+            "anchor": "Discos físicos com códigos digitais eram comerciais em redes como o Walmart e na Amazon.",
+            "query_en": "Walmart retail store aisle video games"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e984a50d-9dd0-46a9-b993-ca38e6ae6b30",
+      "title": "Como gerenciar um estúdio de jogos independentes: a terceira parte aborda a resolução de problemas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to run an indie game studio martijn van zwieten",
+        "images": [
+          {
+            "anchor": "O backlog do estúdio",
+            "query_en": "indie game development team meeting brainstorming"
+          },
+          {
+            "anchor": "Abrindo espaço para resolver as coisas",
+            "query_en": "game studio team collaboration workspace"
+          },
+          {
+            "anchor": "IDS: Identificar, discutir, resolver",
+            "query_en": "business team whiteboard problem solving session"
+          },
+          {
+            "anchor": "Construindo o hábito",
+            "query_en": "game developers working together in modern office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "446d223b-2774-4928-990b-a54204e6946b",
+      "title": "\"Eu queria fazer o show que eu gostaria de assistir\": Como o Galaxies encontrou seu espaço no concorrido mercado de transmissões de jogos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Galaxies Showcase indie games broadcast",
+        "images": [
+          {
+            "anchor": "A ascensão do Galaxies Showcase no cenário digital",
+            "query_en": "Galaxies Showcase stage broadcast host"
+          },
+          {
+            "anchor": "A filosofia por trás do formato",
+            "query_en": "video game trailers showcase screen"
+          },
+          {
+            "anchor": "Uma aposta arriscada e conexões da indústria",
+            "query_en": "Twitch streaming setup studio"
+          },
+          {
+            "anchor": "Equilíbrio entre comércio e curadoria de títulos",
+            "query_en": "indie video games gameplay montage"
+          },
+          {
+            "anchor": "Evolução da produção e autonomia criativa",
+            "query_en": "video game production studio stage"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9e823e93-421a-46f3-870c-fee55c2f09c3",
+      "title": "Funcom anuncia demissões e reestruturação para focar em Conan Exiles e Dune: Awakening",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Funcom Dune Awakening Conan Exiles restructuring layoff",
+        "images": [
+          {
+            "anchor": "A mudança de fase em Dune: Awakening",
+            "query_en": "Dune Awakening game screenshot gameplay"
+          },
+          {
+            "anchor": "Mudança na liderança executiva",
+            "query_en": "Funcom office logo games industry"
+          },
+          {
+            "anchor": "O futuro focado em serviços ao vivo",
+            "query_en": "Conan Exiles enhanced edition gameplay"
+          },
+          {
+            "anchor": "Histórico e o apoio da Tencent",
+            "query_en": "Tencent games logo corporate office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79daa79e-1f87-4981-9c04-4df73ec15611",
+      "title": "Preview do remake de Zelda: Ocarina of Time no Switch 2 impressiona com detalhes e traz frustração conhecida",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time Switch 2 gameplay preview",
+        "images": [
+          {
+            "anchor": "As expectativas e o peso da nostalgia",
+            "query_en": "Nintendo Switch 2 console announcement"
+          },
+          {
+            "anchor": "O desafio de superar o passado",
+            "query_en": "Nintendo 64 controller and Zelda cartridge"
+          },
+          {
+            "anchor": "O primeiro contato com a demonstração durou exatamente duas horas.",
+            "query_en": "The Legend of Zelda Ocarina of Time Link artwork"
+          },
+          {
+            "anchor": "O projeto foi testado em uma sessão exclusiva organizada pela Nintendo da Europa.",
+            "query_en": "Nintendo European headquarters building"
+          },
+          {
+            "anchor": "A experiência busca equilibrar a nostalgia de quem jogou o original no N64 com melhorias visuais profundas.",
+            "query_en": "Hyrule Field Ocarina of Time graphics comparison"
+          },
+          {
+            "anchor": "O que mudou no clássico",
+            "query_en": "Link playing Ocarina of Time Nintendo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d52186f-4339-4e48-b2f1-780b90cd57e1",
+      "title": "Novo trailer geral de Zelda: Ocarina of Time para Switch 2 impressiona fãs",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time Switch 2 overview trailer gameplay",
+        "images": [
+          {
+            "anchor": "Hall dos Inimigos Derrotados e Novos Recursos",
+            "query_en": "Zelda Ocarina of Time remake Switch 2 Link"
+          },
+          {
+            "anchor": "Trilha Sonora, Dublagem e Interação com Amiibo",
+            "query_en": "Zelda Ocarina of Time Switch 2 amiibo"
+          },
+          {
+            "anchor": "Lançamento e Expectativas",
+            "query_en": "The Legend of Zelda Ocarina of Time Switch 2 logo"
+          },
+          {
+            "anchor": "- Corações para recuperar energia",
+            "query_en": "Zelda heart container item"
+          },
+          {
+            "anchor": "- Bombas para explodir obstáculos e enfrentar inimigos",
+            "query_en": "Zelda bomb item"
+          },
+          {
+            "anchor": "- Rupias para acumular riqueza e comprar equipamentos",
+            "query_en": "Zelda green rupee"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2e3e9b1d-20c3-4cc9-a5e8-afd9d1489bef",
+      "title": "Mais de 20 minutos de gameplay de The Legend of Zelda: Ocarina of Time no Switch 2 são revelados",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time Switch 2 gameplay",
+        "images": [
+          {
+            "anchor": "Primeiras impressões e formato do vídeo",
+            "query_en": "Nintendo Switch 2 console"
+          },
+          {
+            "anchor": "Novidades no mundo do jogo",
+            "query_en": "Zelda Ocarina of Time Kokiri Sword"
+          },
+          {
+            "anchor": "Data de lançamento e aviso aos jogadores",
+            "query_en": "The Legend of Zelda Ocarina of Time Link"
+          }
+        ]
+      }
+    },
+    {
+      "id": "97daf760-a0b9-475e-93d5-ac4eda16dbe5",
+      "title": "Por que o Nintendo Life ainda não publicou a análise de Castlevania: Belmont's Curse?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Castlevania Belmonts Curse gameplay review",
+        "images": [
+          {
+            "anchor": "A chegada iminente de Belmont's Curse",
+            "query_en": "Castlevania Belmonts Curse Konami Evil Empire"
+          },
+          {
+            "anchor": "O mistério da ausência no Nintendo Life",
+            "query_en": "Nintendo Life logo website"
+          },
+          {
+            "anchor": "A recepção da crítica em outros portais",
+            "query_en": "Castlevania Belmonts Curse PS5 gameplay"
           }
         ]
       }
