@@ -1,668 +1,641 @@
 {
-  "updated_at": "2026-10-15T10:05:51.885Z",
+  "updated_at": "2026-10-15T15:12:06.884Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "056e863b-561d-48b1-a58d-60479e2e5ade",
-      "title": "Quando a inteligência artificial age sem ordens, a segurança nacional entra em risco",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "artificial intelligence hacking security protocols autonomous cyberattacks",
-        "images": [
-          {
-            "anchor": "A expansão de incidentes em grandes empresas",
-            "query_en": "OpenAI and Anthropic artificial intelligence office building"
-          },
-          {
-            "anchor": "Motivações e desafios no controle de sistemas",
-            "query_en": "cybersecurity digital threat artificial intelligence coding screen"
-          },
-          {
-            "anchor": "Reações da indústria e pedidos de desaceleração",
-            "query_en": "tech industry conference tech leaders discussion"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3f3f0bb5-fc23-4c82-a676-4daf4e3dc7ff",
-      "title": "Japão nega acusações de espionagem após prisão de jornalista na Rússia",
+      "id": "3ad00ea6-e4ff-4a2f-9c64-82a11284a0a6",
+      "title": "Projeto de chips nos EUA é estratégico para liderança em IA, destaca ministro japonês",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan denies spying Russia journalist arrest",
+        "video_query_en": "Japan US semiconductor project artificial intelligence Akazawa",
         "images": [
           {
-            "anchor": "A Reação do Governo Japonês",
-            "query_en": "Sanae Takaichi press conference Japan"
+            "anchor": "Declaração oficial sobre o projeto",
+            "query_en": "Ryosei Akazawa Japanese Economy Minister news conference"
           },
           {
-            "anchor": "O Contexto das Prisões na Rússia",
-            "query_en": "Moscow Kremlin Russia flag"
+            "anchor": "Detalhes do acordo bilateral",
+            "query_en": "New York semiconductor manufacturing plant construction site"
           }
         ]
       }
     },
     {
-      "id": "c3e46c59-f2a0-4c42-98c8-bb1740b02a6b",
-      "title": "Empresa americana anuncia avanços no projeto para ressuscitar o dodô",
+      "id": "29d5b301-b7b3-4121-be29-07edeb669167",
+      "title": "FamilyMart e Lawson registram lucros operacionais recordes no primeiro semestre",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "FamilyMart Lawson convenience store Japan earnings artificial intelligence",
+        "images": [
+          {
+            "anchor": "O desempenho de destaque da Lawson",
+            "query_en": "Lawson convenience store Tokyo storefront"
+          },
+          {
+            "anchor": "O impacto da inteligência artificial",
+            "query_en": "artificial intelligence ordering system retail technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "09dab520-d2f9-4bab-b7ed-178ae2a45455",
+      "title": "SmartNews planeja IPO em Tóquio para dezembro enquanto avaliação de mercado despenca",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SmartNews IPO Tokyo stock exchange valuation",
+        "images": [
+          {
+            "anchor": "O planejamento da abertura de capital em Tóquio",
+            "query_en": "Tokyo Stock Exchange building Japan"
+          },
+          {
+            "anchor": "Alternativas de negócio e instituições financeiras envolvidas",
+            "query_en": "Mitsubishi UFJ Morgan Stanley office Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a811b086-d7e2-4601-881a-c3eba79310cd",
+      "title": "Desabamento de teto de escola no Paquistão deixa dezenas de mortos",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pakistan school roof collapse Peshawar rescue",
+        "images": [
+          {
+            "anchor": "Tragédia em Peshawar",
+            "query_en": "Peshawar Pakistan school building damage"
+          },
+          {
+            "anchor": "Esforços de Resgate e Sobreviventes",
+            "query_en": "Pakistan rescue workers rubble school collapse"
+          },
+          {
+            "anchor": "Clima de Desespero Externo",
+            "query_en": "parents waiting outside school disaster Pakistan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "81c64484-c8e5-446d-b72c-3fbe40106a0f",
+      "title": "Fumaça de incêndios na Indonésia tinge céus de laranja e provoca fechamento de escolas",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Colossal Biosciences dodo resurrection progress",
+        "video_query_en": "Indonesia wildfires haze Palangkaraya Kuala Lumpur Singapore",
         "images": [
           {
-            "anchor": "Inteligência artificial e engenharia genética",
-            "query_en": "artificial intelligence biotechnology laboratory DNA"
+            "anchor": "Impacto na qualidade do ar em grandes cidades",
+            "query_en": "Kuala Lumpur skyline smog pollution haze"
           },
           {
-            "anchor": "O pombo-nicobar como parente próximo",
-            "query_en": "Nicobar pigeon feathers green and copper"
+            "anchor": "Consequências em países vizinhos",
+            "query_en": "East Timor school children haze air pollution"
           }
         ]
       }
     },
     {
-      "id": "9d4515b7-1239-44b8-94ea-459b85b95269",
-      "title": "As population grays, Tokyo mulls more crematoria to meet demand",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
-    },
-    {
-      "id": "c4ee2ce2-4b09-4966-ba3c-2e04c385373f",
-      "title": "A saída de Kazuo Yana contem crise na gestão de Sanae Takaichi, mas dúvidas persistem",
+      "id": "9d81bc46-e6dd-41f1-9824-33ae50953dfe",
+      "title": "Panasonic faz recall de 640 mil lavadoras e secadoras por risco de incêndio",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sanae Takaichi Japan prime minister agriculture minister resignation",
+        "video_query_en": "Panasonic washer dryer recall fire risk",
         "images": [
           {
-            "anchor": "A demissão de Kazuo Yana e a resposta imediata",
-            "query_en": "Japanese parliament building Tokyo politics"
+            "anchor": "O Problema no Dispenser de Sabão",
+            "query_en": "Panasonic washer dryer automatic detergent dispenser"
           },
           {
-            "anchor": "As novas diretrizes e o foco em inovação tecnológica",
-            "query_en": "modern agriculture plant factory artificial intelligence technology"
+            "anchor": "Vazamento contínuo de detergente e amaciante durante os ciclos de lavagem.",
+            "query_en": "Panasonic washing machine control panel"
           },
           {
-            "anchor": "Impactos na administração e estilo de gestão",
-            "query_en": "Sanae Takaichi press conference Japan"
+            "anchor": "Riscos à Segurança e Medidas",
+            "query_en": "Panasonic appliance safety recall"
           }
         ]
       }
     },
     {
-      "id": "f88a5b29-7bb8-4ea9-b61c-e735886776bd",
-      "title": "Agência policial do Japão vai estudar viabilidade de monitorar perseguidores com GPS",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan police anti stalking GPS monitoring system",
-        "images": [
-          {
-            "anchor": "O início das discussões sobre o monitoramento eletrônico",
-            "query_en": "Japanese police building Tokyo"
-          },
-          {
-            "anchor": "Como funcionaria o sistema de rastreamento por GPS",
-            "query_en": "GPS tracking device technology"
-          },
-          {
-            "anchor": "O uso obrigatório de dispositivos com tecnologia GPS por infratores de alto risco.",
-            "query_en": "GPS ankle monitor tracking device"
-          },
-          {
-            "anchor": "O acionamento automático de alertas sempre que o agressor entrar em uma zona designada próxima à vítima.",
-            "query_en": "smartphone security alert notification"
-          },
-          {
-            "anchor": "A exigência de sessões de aconselhamento psicológico obrigatório para lidar com o comportamento de risco.",
-            "query_en": "counseling session office room"
-          },
-          {
-            "anchor": "O contexto legal e os próximos passos",
-            "query_en": "Tokyo court legal building Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "88f1831f-be3f-460c-96fc-5acd25150936",
-      "title": "Nikkei 225 despenca mais de 5% após turbulência em ações de tecnologia e inflação nos EUA",
+      "id": "9b01e858-7499-4f66-a5f6-f4e741d14a32",
+      "title": "Rengo planeja buscar reajustes salariais de pelo menos 5% nas negociações de 2027",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nikkei 225 stock market fall tech shares inflation",
+        "video_query_en": "Japan labor unions Rengo wage negotiations spring wage talks",
         "images": [
           {
-            "anchor": "A forte queda na Bolsa de Tóquio",
-            "query_en": "Tokyo Stock Exchange building exterior"
+            "anchor": "A nova meta da Rengo para 2027",
+            "query_en": "Japanese Trade Union Confederation Rengo headquarters Tokyo"
           },
           {
-            "anchor": "O reflexo do cenário econômico norte-americano",
-            "query_en": "Wall Street stock exchange trading floor"
+            "anchor": "Foco na redução da disparidade para pequenos sindicatos",
+            "query_en": "Japanese small business workers office Tokyo"
           }
         ]
       }
     },
     {
-      "id": "1a11884e-ea5e-4463-9ebc-4addff186005",
-      "title": "Aprovação do gabinete de Takaichi cai para mínima de 42,4% em pesquisa da Jiji",
+      "id": "6a91ba8d-ddae-4a34-82ce-936e74c332db",
+      "title": "TSMC avalia expansão para o Texas e projeto Terafab de Elon Musk nos Estados Unidos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Prime Minister Takaichi cabinet approval rate Jiji poll",
+        "video_query_en": "TSMC Texas Elon Musk Terafab project expansion",
         "images": [
           {
-            "anchor": "Queda na aprovação pública",
-            "query_en": "Japanese Prime Minister Takaichi press conference"
+            "anchor": "O boom da inteligência artificial e a demanda robusta",
+            "query_en": "TSMC semiconductor manufacturing facility cleanroom"
           },
           {
-            "anchor": "Motivos para o enfraquecimento político",
-            "query_en": "Japanese parliament building Tokyo politics"
+            "anchor": "Movoluções no cenário global de semicondutores",
+            "query_en": "Elon Musk tech presentation futuristic facility"
           }
         ]
       }
     },
     {
-      "id": "9f901912-56af-442b-86c9-1a2d74d3977b",
-      "title": "Lucro da TSMC dispara 69% impulsionado pelo boom da inteligência artificial",
+      "id": "90cd2e17-e224-41e8-a7ad-f69a507d4957",
+      "title": "Japão planeja incluir navios de bandeira estrangeira em frota de emergência",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TSMC record profit AI boom semiconductor manufacturing",
+        "video_query_en": "Japan merchant fleet emergency transport strategy",
         "images": [
           {
-            "anchor": "Resultados financeiros históricos",
-            "query_en": "TSMC headquarters building Taiwan semiconductor"
+            "anchor": "Contexto da frota mercante japonesa",
+            "query_en": "Japanese merchant ship cargo container vessel ocean"
           },
           {
-            "anchor": "O impacto do boom da inteligência artificial",
-            "query_en": "advanced artificial intelligence chip semiconductor wafer"
-          },
-          {
-            "anchor": "Crescimento de 68,7% no lucro líquido no trimestre de julho a setembro",
-            "query_en": "modern high tech semiconductor cleanroom manufacturing"
-          },
-          {
-            "anchor": "Expansão global e investimentos estratégicos",
-            "query_en": "ASML extreme ultraviolet lithography chip machine"
+            "anchor": "Objetivos da nova regulamentação",
+            "query_en": "Tokyo port shipping logistics cargo terminals"
           }
         ]
       }
     },
     {
-      "id": "151255f9-c1d2-4d33-98a3-3d300aa6327d",
-      "title": "Ministro das Finanças do Japão aponta preocupações do G20 com volatilidade cambial e rendimentos",
+      "id": "8ac46e7b-e98c-4ed4-b537-8df6e2c9f033",
+      "title": "Eco&Dream Capta 35 Bilhões de Wons para Materiais de Baterias",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "G20 finance ministers meeting Bangkok currency volatility yields",
+        "video_query_en": "Eco and Dream battery materials precursor funding",
         "images": [
           {
-            "anchor": "Reunião do G20 em Bangkok",
-            "query_en": "G20 finance ministers meeting Bangkok"
-          },
-          {
-            "anchor": "Taxas de juros e câmbio em foco",
-            "query_en": "Japanese Finance Minister Satsuki Katayama"
+            "anchor": "Desenvolvimento de Próxima Geração",
+            "query_en": "next generation battery materials manufacturing facility"
           }
         ]
       }
     },
     {
-      "id": "ab745349-c4c1-4050-b0e1-7e2bb988c867",
-      "title": "Green SM, empresa ligada à VinFast, estreia nos Estados Unidos com serviço de táxi em Los Angeles",
+      "id": "6272de48-40df-41da-87af-0139d3d258b5",
+      "title": "Empresa de tecnologia financeira Finger assume o controle da fabricante Jeil M&S",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "VinFast Green SM electric taxi Los Angeles",
+        "video_query_en": "Jeil M MS battery mixing equipment Finger fintech",
         "images": [
           {
-            "anchor": "O contexto da expansão global da Green SM",
-            "query_en": "Green SM electric taxi fleet"
+            "anchor": "Mudança de controle na Jeil M&S",
+            "query_en": "battery manufacturing equipment factory industrial"
           },
           {
-            "anchor": "Relações corporativas e o ecossistema Vingroup",
-            "query_en": "VinFast VF 8 electric vehicle"
+            "anchor": "Contexto da crise financeira",
+            "query_en": "corporate building finance office business district"
+          },
+          {
+            "anchor": "Detalhes da transação",
+            "query_en": "financial technology digital documents regulatory filing"
+          },
+          {
+            "anchor": "Empresa envolvida: Jeil M&S, fabricante de equipamentos de mistura para baterias",
+            "query_en": "industrial mixing machine battery production"
+          },
+          {
+            "anchor": "Nova controladora: Finger, empresa do setor de tecnologia financeira",
+            "query_en": "fintech office technology screen business"
+          },
+          {
+            "anchor": "Motivo anterior: crise de liquidez e pedido de reabilitação corporativa",
+            "query_en": "business crisis document bankruptcy restructuring"
+          },
+          {
+            "anchor": "Marco temporal: cerca de dez meses após o início da reabilitação",
+            "query_en": "calendar months timeline planning corporate"
           }
         ]
       }
     },
     {
-      "id": "f2b8ec35-7e95-4f7e-9bf3-0e930e5edc65",
-      "title": "OpenAI acusa ex-funcionário contratado pela Apple de desviar arquivos sobre dispositivo inédito",
+      "id": "0378cac0-67a3-4a31-b351-a0b03592b7cf",
+      "title": "Shinsung E&G vai exibir soluções de salas limpas na SEDEX 2026",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI Apple lawsuit trade secrets unreleased device",
+        "video_query_en": "Shinsung E&G cleanroom solutions SEDEX exhibition",
         "images": [
           {
-            "anchor": "Detalhes do processo em San Jose",
-            "query_en": "US District Court building San Jose California"
-          },
-          {
-            "anchor": "A defesa da Apple e o histórico do litígio",
-            "query_en": "Apple corporate headquarters Cupertino California"
-          },
-          {
-            "anchor": "Decisão judicial e próximos passos",
-            "query_en": "federal judge courtroom gavel legal documents"
-          },
-          {
-            "anchor": "Chang Liu: ex-engenheiro eletricista sênior de sistemas.",
-            "query_en": "electrical engineer working on computer hardware circuit board"
-          },
-          {
-            "anchor": "Tang Yew Tan: ex-vice-presidente de design de produtos para o iPhone e o Apple Watch.",
-            "query_en": "technology executive presentation stage professional"
+            "anchor": "Soluções para salas limpas",
+            "query_en": "semiconductor cleanroom technology environment control"
           }
         ]
       }
     },
     {
-      "id": "b34aa06c-05b3-4c83-9f29-6310e1c797ee",
-      "title": "Netflix anuncia demissão de 6% de sua força de trabalho em sua maior rodada de cortes em anos",
+      "id": "d8614111-9c4e-48fe-a654-6e0b97335841",
+      "title": "Seul sediará a reunião geral da World Steel Association em 2027",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Netflix layoffs workforce streaming giant organizational changes",
+        "video_query_en": "World Steel Association annual meeting Seoul",
         "images": [
           {
-            "anchor": "O Anúncio dos CEOs",
-            "query_en": "Netflix corporate office building California"
+            "anchor": "O Retorno a Seul após 22 Anos",
+            "query_en": "Seoul skyline cityscape South Korea"
           },
           {
-            "anchor": "Equipe de produto",
-            "query_en": "technology product team working in office"
+            "anchor": "O Papel da POSCO Holdings",
+            "query_en": "POSCO Holdings building headquarters Seoul"
           },
           {
-            "anchor": "Desempenho Financeiro e Expectativas de Mercado",
-            "query_en": "financial charts and stock market analysis graph"
-          },
-          {
-            "anchor": "Cenário de Concorrência e Movimentos do Setor",
-            "query_en": "streaming service apps on smart tv screen"
+            "anchor": "Anúncio oficial realizado pela POSCO Holdings em 14 de outubro",
+            "query_en": "World Steel Association meeting conference"
           }
         ]
       }
     },
     {
-      "id": "a259e088-fef4-418e-b4b7-f3e3f3e1d7a6",
-      "title": "Logitech inicia fabricação local na Índia para impulsionar agilidade e expansão na era da IA",
+      "id": "a3af278c-b911-421a-b138-757ae8267fca",
+      "title": "Prodrive planeja abrir escritório na Coreia do Sul até o início de 2027",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Logitech manufacturing operations India Manesar facility AI era",
+        "video_query_en": "SEMICON West Moscone Center San Francisco technology",
         "images": [
           {
-            "anchor": "Estratégia de mercado e resiliência na cadeia de suprimentos",
-            "query_en": "Logitech computer mouse and keyboard workspace setup"
+            "anchor": "Planos de expansão para o mercado sul-coreano",
+            "query_en": "Prodrive Technologies corporate office"
           },
           {
-            "anchor": "Foco em aproximar a marca do consumidor final para construir maior agilidade operacional.",
-            "query_en": "Logitech webcam product design"
+            "anchor": "Oportunidades e suporte local",
+            "query_en": "Hanwha Semitech technology industry"
           },
           {
-            "anchor": "Parcerias e padrões globais de qualidade",
-            "query_en": "Electronics manufacturing assembly line factory India"
-          },
-          {
-            "anchor": "Colaboração com múltiplos parceiros para abranger portfólio diversificado.",
-            "query_en": "Logitech corporate office workspace solutions"
-          },
-          {
-            "anchor": "Sinergia com pesquisa, desenvolvimento e P&D em Chennai",
-            "query_en": "Software engineering and hardware testing laboratory"
-          },
-          {
-            "anchor": "Personalização de firmware, protocolos de autorização e configurações de hardware para clientes corporativos indianos.",
-            "query_en": "Corporate IT office workspace with computer peripherals"
-          },
-          {
-            "anchor": "O papel central do hardware na era da inteligência artificial",
-            "query_en": "Artificial intelligence human computer interaction hardware"
-          },
-          {
-            "anchor": "Sustentabilidade e metas ambientais na fabricação",
-            "query_en": "Eco friendly recycled plastic technology hardware accessories"
-          },
-          {
-            "anchor": "Uso de mais de 80% de plástico reciclado pós-consumo (PCR) em produtos.",
-            "query_en": "Recycled plastic sustainable electronics manufacturing"
+            "anchor": "Apresentação durante a SEMICON West 2026",
+            "query_en": "SEMICON West Moscone Center San Francisco"
           }
         ]
       }
     },
     {
-      "id": "3aeef498-1565-4b54-9be9-775a7d7db018",
-      "title": "Novo ar-condicionado portátil AEG Roomovi desafia a concorrência no mercado",
+      "id": "58816160-cfa9-4064-9386-fa044a983c21",
+      "title": "SK hynix revela tecnologia 3D FeNAND para computação em inteligência artificial",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AEG Roomovi mobile air conditioner portable split climate",
+        "video_query_en": "SK hynix 3D FeNAND AI computing",
         "images": [
           {
-            "anchor": "Diferencial de peso e portabilidade",
-            "query_en": "portable air conditioner indoor unit installation"
+            "anchor": "Pesquisa em A-CiM e 3D FeNAND",
+            "query_en": "SK hynix semiconductor laboratory"
           },
           {
-            "anchor": "Expectativas para o lançamento em 2027",
-            "query_en": "modern heat pump climate control device"
+            "anchor": "Tecnologia analógica de computação em memória (A-CiM)",
+            "query_en": "NAND flash memory chip wafer"
           }
         ]
       }
     },
     {
-      "id": "f9cfa7b7-330b-44b7-b6fe-1fcd3f6bc474",
-      "title": "Possível vazamento de dados: Notebooksbilliger relata ataque cibernético",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Notebooksbilliger cyberattack data breach news",
-        "images": [
-          {
-            "anchor": "Alerta de Segurança no Varejo Online",
-            "query_en": "cybersecurity warning data breach online shopping"
-          },
-          {
-            "anchor": "Riscos Envolvidos e Dados Comprometidos",
-            "query_en": "bank data theft cybersecurity attack"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6f22a6b7-c876-4cfe-9170-f50e10f33f69",
-      "title": "Microsoft remove acesso facilitado a contas locais no Windows 11",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Windows 11 local account setup removal Microsoft",
-        "images": [
-          {
-            "anchor": "O fim de um truque clássico",
-            "query_en": "Windows 11 setup screen Microsoft account"
-          },
-          {
-            "anchor": "A política de integração da Microsoft",
-            "query_en": "Microsoft logo software office building"
-          },
-          {
-            "anchor": "Impacto para os usuários",
-            "query_en": "Person using desktop computer privacy concern"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0dde6d59-e257-40a6-8df5-cea17f6365f0",
-      "title": "Epic Games provoca reações da comunidade ao lançar software criado por Vibe Coding",
+      "id": "16854202-4a72-4702-8c79-8ba183d2b2f7",
+      "title": "Nvidia revela nova tecnologia de ótica co-empacotada CPO",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Epic Games launcher vibe coding artificial intelligence controversy",
+        "video_query_en": "Nvidia next generation CPO technology co packaged optics",
         "images": [
           {
-            "anchor": "A controvérsia do Vibe Coding",
-            "query_en": "Epic Games logo and software interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3780ac12-0b36-4de0-a11f-02e44a10bc87",
-      "title": "Ajustes na Carteira EUDI: Jovens de 13 anos devem receber identidade digital online",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "EUDI Wallet digital identity European Union",
-        "images": [
-          {
-            "anchor": "Novas regras para menores de idade",
-            "query_en": "digital wallet smartphone security"
+            "anchor": "O impacto na eficiência dos sinais",
+            "query_en": "Nvidia microchip interposer optics"
           },
           {
-            "anchor": "Impacto no ecossistema digital e redes sociais",
-            "query_en": "social media smartphone screen"
+            "anchor": "Ampliação da densidade de largura de banda",
+            "query_en": "Co packaged optics CPO technology hardware"
           }
         ]
       }
     },
     {
-      "id": "2be626cb-e1e5-4693-92e0-eefa33f2f303",
-      "title": "Crise do gás de 2026: por que o mercado de energia na Europa reage de forma diferente a 2022",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "European energy market gas crisis transition",
-        "images": [
-          {
-            "anchor": "Diferenças estruturais no mercado de energia",
-            "query_en": "European energy infrastructure electricity grid"
-          },
-          {
-            "anchor": "O papel da transição energética",
-            "query_en": "Solar panels wind turbines renewable energy Europe"
-          }
-        ]
-      }
-    },
-    {
-      "id": "018751d5-006d-4e16-b65d-03143b6a6541",
-      "title": "Fones de ouvido Bluetooth da Sony com ANC aparecem com desconto na Amazon",
+      "id": "1175518e-5429-4068-a661-8866fb7d09e4",
+      "title": "Intel expande parcerias em Inteligência Artificial Física na Coreia do Sul",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sony bluetooth headphones anc review",
+        "video_query_en": "Intel physical AI industrial robotics South Korea",
         "images": [
           {
-            "anchor": "Recursos e Especificações Técnicas",
-            "query_en": "Sony bluetooth headphones close up"
+            "anchor": "Encontro de Lideranças e Estratégia",
+            "query_en": "Intel corporate meeting technology strategy"
           },
           {
-            "anchor": "Condições da Oferta na Amazon",
-            "query_en": "Amazon website package delivery"
+            "anchor": "Reuniões estratégicas com líderes industriais e governamentais sul-coreanos.",
+            "query_en": "industrial robotics automation factory South Korea"
           }
         ]
       }
     },
     {
-      "id": "4139f75d-79bd-4166-b997-f16e5909b141",
-      "title": "Fabricante interrompe venda de acessório para silenciar AirTags após polêmica",
-      "category": "Segurança",
+      "id": "8deb5128-58a3-46d6-8815-1c02e75b584b",
+      "title": "XCENA Contrata Ex-Executivo da Qualcomm como CBO para Acelerar Comercialização do MX1",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple AirTag privacy security speaker modification",
+        "video_query_en": "XCENA semiconductor Qualcomm executive CBO MX1",
         "images": [
           {
-            "anchor": "A criação por necessidade própria",
-            "query_en": "Apple AirTag tracker device close up"
+            "anchor": "A Experiência de Steve Fingerhut",
+            "query_en": "Steve Fingerhut semiconductor executive portrait"
           },
           {
-            "anchor": "Críticas e o fim das vendas",
-            "query_en": "Apple AirTag privacy warning safety"
+            "anchor": "Operações Globais e Comercialização do MX1",
+            "query_en": "XCENA semiconductor chip technology"
           }
         ]
       }
     },
     {
-      "id": "ba0a6fc5-e616-4b68-9d8c-1051b0a23611",
-      "title": "Palo Alto Networks emite alerta sobre vulnerabilidade zero-day em firewalls",
-      "category": "Segurança",
+      "id": "cf261101-427e-4e73-b15f-eda5a4ede19a",
+      "title": "Samsung Electronics exibe exposição de arte OLED na Seoul Design Week",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Palo Alto Networks firewall zero day vulnerability",
+        "video_query_en": "Samsung OLED TV Seoul Design Week art exhibition",
         "images": [
           {
-            "anchor": "Sistemas Afetados e Riscos de Segurança",
-            "query_en": "Palo Alto Networks firewall hardware device"
+            "anchor": "Uma parceria internacional pelo design",
+            "query_en": "Samsung Electronics Seoul Design Week"
           },
           {
-            "anchor": "Firewalls da série PA desenvolvidos pela Palo Alto Networks",
-            "query_en": "Palo Alto Networks PA series firewall"
+            "anchor": "A exposição Design is an Act of Love",
+            "query_en": "Design is an Act of Love art exhibition Samsung"
           },
           {
-            "anchor": "Firewalls virtuais da série VM da mesma fabricante",
-            "query_en": "virtual firewall server rack datacenter"
-          },
-          {
-            "anchor": "Resposta da Fabricante e Recomendações",
-            "query_en": "cybersecurity operations center security analyst screen"
+            "anchor": "O papel da tecnologia OLED",
+            "query_en": "Samsung OLED TV art display"
           }
         ]
       }
     },
     {
-      "id": "39eb9c09-a0b9-4321-a497-0e742d4e9b7a",
-      "title": "Ubisoft corta cerca de 100 vagas em estúdios alemães e afeta desenvolvedores de Anno 117",
+      "id": "540691db-9766-4568-87a6-5e86de8f7789",
+      "title": "Operadoras de telecomunicações exibirão nome de cadastro KYC em chamadas a partir de 1 de novembro",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "India CNAP caller name presentation telecom regulations",
+        "images": [
+          {
+            "anchor": "Preparação das redes e proteção de privacidade",
+            "query_en": "telecom network infrastructure servers control room"
+          },
+          {
+            "anchor": "Justificativa para a medida e debates sobre privacidade",
+            "query_en": "person using smartphone spam call warning"
+          },
+          {
+            "anchor": "Exceções e regras para menores de idade",
+            "query_en": "mobile phone sim card registration form"
+          },
+          {
+            "anchor": "Mecanismos de suporte e atendimento ao consumidor",
+            "query_en": "telecom customer service call center support"
+          }
+        ]
+      }
+    },
+    {
+      "id": "53fd5590-d2a8-4d5e-b030-ebbdd6547124",
+      "title": "Oferta do iPhone 18 Pro com plano de dados na operadora Blau",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple iPhone 18 Pro review overview",
+        "images": [
+          {
+            "anchor": "Detalhes da oferta comercial",
+            "query_en": "Apple iPhone 18 Pro smartphone"
+          },
+          {
+            "anchor": "Contexto da disponibilidade",
+            "query_en": "Blau mobile store retail"
+          }
+        ]
+      }
+    },
+    {
+      "id": "125ad3f9-733b-410b-9f68-076a43c1d654",
+      "title": "A verdadeira essência de Street Fighter no cinema",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Street Fighter movie review retrospective",
+        "images": [
+          {
+            "anchor": "O legado dos anos 90",
+            "query_en": "Street Fighter 1990s movie poster"
+          },
+          {
+            "anchor": "Uma nova perspectiva sobre o entretenimento",
+            "query_en": "Street Fighter game arcade cabinet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ec1154c-e974-4da6-98e3-8c49f6c7029d",
+      "title": "Grand Theft Auto 6 recebe classificação indicativa para maiores de 18 anos na Alemanha",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Ubisoft german studios layoffs Anno 117",
+        "video_query_en": "Grand Theft Auto 6 USK rating Germany",
         "images": [
           {
-            "anchor": "Impacto nos estúdios e no desenvolvimento de Anno 117",
-            "query_en": "Ubisoft Mainz studio building Germany"
+            "anchor": "O impacto das compras no jogo",
+            "query_en": "Grand Theft Auto 6 in game purchases"
           },
           {
-            "anchor": "Contexto da indústria e próximos passos",
-            "query_en": "Video game industry layoffs office building"
+            "anchor": "O contexto do mercado de jogos",
+            "query_en": "Rockstar Games Grand Theft Auto 6 gameplay"
           }
         ]
       }
     },
     {
-      "id": "565cdb64-e74a-49db-83a8-bf90c550da6c",
-      "title": "TSMC confirma conversas com a Terafab de Elon Musk, mas impõe limite sobre controle de fábricas",
-      "category": "Empresas",
+      "id": "8d6c2058-f717-4460-b5a8-79ce1e244277",
+      "title": "Wolfbox MF50: o soprador de ar versátil da Amazon por 36 euros",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TSMC Elon Musk Terafab semiconductor partnership talks",
+        "video_query_en": "Wolfbox MF50 air blower review",
         "images": [
           {
-            "anchor": "O projeto Terafab e os desafios da indústria",
-            "query_en": "TSMC semiconductor manufacturing cleanroom facility"
+            "anchor": "Aplicações práticas e versatilidade",
+            "query_en": "Wolfbox MF50 air blower cleaning PC keyboard"
           },
           {
-            "anchor": "A linha vermelha da TSMC",
-            "query_en": "Elon Musk tech presentation silicon chip"
+            "anchor": "Limpeza de poeira em computadores e gabinetes",
+            "query_en": "electric air duster cleaning computer components"
+          },
+          {
+            "anchor": "Remoção de resíduos entre as teclas de teclados",
+            "query_en": "cleaning mechanical keyboard with air blower"
+          },
+          {
+            "anchor": "Higienização de caixilhos de janelas e frestas",
+            "query_en": "cleaning window frames with compressed air tool"
+          },
+          {
+            "anchor": "Sopragem de pequenas quantidades de folhas secas",
+            "query_en": "mini leaf blower garden tool"
+          },
+          {
+            "anchor": "Desempenho em áreas externas",
+            "query_en": "handheld electric blower outdoor use"
+          },
+          {
+            "anchor": "Disponibilidade e preço",
+            "query_en": "Amazon package delivery box"
           }
         ]
       }
     },
     {
-      "id": "ae495bd5-702e-427b-b2eb-c7a9bb50ecf2",
-      "title": "RRP Electronics inaugura fábrica de embalagem avançada em Navi Mumbai",
-      "category": "Empresas",
+      "id": "4ce348b7-e545-4628-89c6-778c3b0ecdad",
+      "title": "Chave de fenda elétrica de precisão em promoção na Amazon",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "RRP Electronics Navi Mumbai semiconductor packaging facility inauguration",
+        "video_query_en": "electric precision screwdriver review Amazon",
         "images": [
           {
-            "anchor": "Expansão das operações de OSAT",
-            "query_en": "Advanced wafer level packaging semiconductor cleanroom"
+            "anchor": "Oferta especial na Amazon",
+            "query_en": "Amazon package delivery cardboard box"
           },
           {
-            "anchor": "Contexto da indústria de semicondutores",
-            "query_en": "Semiconductor manufacturing facility chip production"
+            "anchor": "Principais características e especificações",
+            "query_en": "electric precision screwdriver toolkit bits"
+          },
+          {
+            "anchor": "Contexto e disponibilidade",
+            "query_en": "online shopping website on computer screen"
           }
         ]
       }
     },
     {
-      "id": "7936c001-3312-49c5-a8c1-ddff735b2c4b",
-      "title": "CEO da Applied Materials aponta que inteligência artificial agêntica impulsiona a demanda por wafers",
-      "category": "Empresas",
+      "id": "28ce265e-c027-4f44-be72-419f05cbc605",
+      "title": "Rockstar Games libera o novo trailer e detalhes de lançamento de GTA 6",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Applied Materials CEO Gary Dickerson wafer demand AI computing",
+        "video_query_en": "GTA 6 launch trailer gameplay rockstar games",
         "images": [
           {
-            "anchor": "Demanda sem precedentes por wafers e chips",
-            "query_en": "silicon wafer manufacturing cleanroom semiconductor"
+            "anchor": "Detalhes do Lançamento e Horários",
+            "query_en": "GTA 6 launch trailer scenes rockstar games"
           },
           {
-            "anchor": "Projeções de crescimento financeiro",
-            "query_en": "Applied Materials stock financial investor conference"
-          },
-          {
-            "anchor": "Desafios na capacidade de fabricação",
-            "query_en": "semiconductor fabrication cleanroom facility equipment"
-          },
-          {
-            "anchor": "Monitoramento de mais de 100 fábricas de semicondutores pela Applied Materials",
-            "query_en": "microchip fabrication cleanroom workers in bunny suits"
-          },
-          {
-            "anchor": "Ajustes de preços e estratégias de expansão de capacidade",
-            "query_en": "semiconductor wafer manufacturing facility interior"
-          },
-          {
-            "anchor": "O foco crescente em inovações de manufatura",
-            "query_en": "advanced semiconductor packaging technology chip"
+            "anchor": "Expectativas da Comunidade",
+            "query_en": "Grand Theft Auto 6 characters artwork"
           }
         ]
       }
     },
     {
-      "id": "8bf5ad26-5af1-458a-be86-ea5ef573f8ec",
-      "title": "Fabricantes de servidores de Taiwan registram receita recorde impulsionada por inteligência artificial",
+      "id": "8050db8e-af21-4484-96fc-6ed629626996",
+      "title": "EUA restringem o acesso da Ucrânia ao serviço de satélites Starshield",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Taiwan AI server manufacturers revenue 2026",
+        "video_query_en": "SpaceX Starshield satellite service Ukraine restrictions",
         "images": [
           {
-            "anchor": "Crescimento acelerado no setor de servidores em Taiwan",
-            "query_en": "Taiwan server manufacturing facility AI technology"
+            "anchor": "O impacto das restrições no serviço Starshield",
+            "query_en": "SpaceX Starshield satellite in orbit"
           },
           {
-            "anchor": "Perspectivas e o impacto da inteligência artificial",
-            "query_en": "AI server racks data center hardware"
+            "anchor": "A reação do governo ucraniano e de Volodymyr Zelensky",
+            "query_en": "Volodymyr Zelensky official speech"
+          },
+          {
+            "anchor": "O papel da SpaceX e o contexto político",
+            "query_en": "SpaceX logo and headquarters"
           }
         ]
       }
     },
     {
-      "id": "8fd0bfab-95d3-46f1-a15e-68fee9c47dc4",
-      "title": "SK Hynix vincula plano de nova fábrica nos EUA à exportação de equipamentos para a China",
-      "category": "Empresas",
+      "id": "1a27f92e-0810-4b94-aaf9-18362f3275f5",
+      "title": "Dockingstation de dez portas da Ugreen em promoção na Amazon por 34,28 euros",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SK Hynix US chip equipment export restrictions Dalian factory",
+        "video_query_en": "Ugreen docking station ten ports review",
         "images": [
           {
-            "anchor": "Negociações estratégicas entre SK Hynix e os Estados Unidos",
-            "query_en": "SK Hynix semiconductor factory facility"
-          },
-          {
-            "anchor": "O impacto nas operações da unidade de Dalian",
-            "query_en": "NAND flash memory wafer cleanroom"
-          },
-          {
-            "anchor": "Perspectivas para a infraestrutura de semicondutores",
-            "query_en": "SK Hynix sign building corporate headquarters"
+            "anchor": "Conectividade abrangente e recursos",
+            "query_en": "Ugreen 10 in 1 docking station"
           }
         ]
       }
     },
     {
-      "id": "a7e0ca8f-48d4-4785-9ee4-ebf937c4fa02",
-      "title": "TSMC projeta lucratividade sem limites e planeja adotar litografia High-NA EUV em 2030",
-      "category": "Empresas",
+      "id": "03315312-7331-4bad-8056-a6647d868684",
+      "title": "Ação com cerca de 1.000 profissionais externos para correção de código na Bank of America",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TSMC CEO CC Wei High NA EUV 2030 AI chips",
+        "video_query_en": "Bank of America cybersecurity artificial intelligence code patch",
         "images": [
           {
-            "anchor": "Demanda por IA e previsões de crescimento",
-            "query_en": "TSMC semiconductor manufacturing cleanroom AI chips"
+            "anchor": "O papel do modelo Mythos e os riscos de segurança",
+            "query_en": "artificial intelligence code security vulnerability analysis"
           },
           {
-            "anchor": "Cronograma para a tecnologia High-NA EUV",
-            "query_en": "ASML High NA EUV lithography machine semiconductor"
+            "anchor": "Mobilização de força de trabalho externa",
+            "query_en": "software developers coding team working in office"
+          },
+          {
+            "anchor": "Expectativas de economia financeira",
+            "query_en": "bank building corporate exterior finance tower"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2e97c5e-03f6-43f6-bb63-bd596df9dbb4",
+      "title": "Carregador Haribo de 65 W com base para Apple Watch está em promoção na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Haribo 65W USB charger Amazon review",
+        "images": [
+          {
+            "anchor": "Especificações e recursos do carregador",
+            "query_en": "65W USB charger with multiple ports"
+          },
+          {
+            "anchor": "Preço e disponibilidade na plataforma",
+            "query_en": "Amazon website shopping interface"
           }
         ]
       }

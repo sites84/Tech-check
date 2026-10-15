@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:06:41.411Z",
+  "updated_at": "2026-10-15T15:12:54.346Z",
   "fixed": [
     {
       "id": "0f77ae96-8adf-49b9-996c-40e72c05f063",
@@ -452,12 +452,6 @@
       "to": "Games"
     },
     {
-      "id": "14e46144-c8c1-4284-9bea-fa731a2080c9",
-      "title": "Matchbox The Movie estreia no Apple TV e já lidera audiência nos Estados Unidos",
-      "from": [],
-      "to": "Filmes, Séries e Animações"
-    },
-    {
       "id": "e2bb2bfc-dc35-44b9-be94-c835f41206b9",
       "title": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed",
       "from": [],
@@ -492,6 +486,12 @@
       "title": "4 RPGs Perfect For Fallout Fans",
       "from": [],
       "to": "Games"
+    },
+    {
+      "id": "ae2a3914-85db-45f6-8bab-f2ed454ee59f",
+      "title": "Xbox's new division will focus on TV and movie adaptations of its biggest franchises",
+      "from": [],
+      "to": "Games"
     }
   ],
   "unresolved": [
@@ -510,12 +510,6 @@
     {
       "id": "f8936946-9799-4599-afe1-d52bb24012de",
       "title": "Windows-Chef: 3D-Pinball kommt vielleicht f�r Windows 11",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "7e438768-db30-40e8-8e8a-d3f142d95d2d",
-      "title": "A queda da Kweichow Moutai: como a gigante de bebidas da China despencou 43% de seu pico",
       "existing": [],
       "sources": []
     },
@@ -568,12 +562,6 @@
     {
       "id": "989873b0-9417-45a0-abe1-09dcb6c20bd8",
       "title": "Hokkaido é eleita a província mais atraética do Japão pelo 18º ano consecutivo",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "c344ed32-d56d-4653-9416-cd36fad49fb3",
-      "title": "Projeto Debian abre chamada de trabalhos artísticos para a próxima versão Forky",
       "existing": [],
       "sources": []
     },
@@ -653,9 +641,7 @@
       "id": "308b1093-0c89-4bcb-ba32-4560b0a07626",
       "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
       "existing": [],
-      "sources": [
-        "TechCrunch"
-      ]
+      "sources": []
     },
     {
       "id": "0d1b3d48-32cb-431d-b1c4-723ae342009d",
@@ -1987,9 +1973,7 @@
       "id": "30cbb033-2a84-4952-a450-8329b2d1b879",
       "title": "Google Gemini access is changing. Free users, take note.",
       "existing": [],
-      "sources": [
-        "Mashable"
-      ]
+      "sources": []
     },
     {
       "id": "970086e9-efea-4782-bd16-2a4af950d589",
@@ -2000,12 +1984,6 @@
     {
       "id": "f43b819d-8912-48cb-bb76-f58bb0fadab0",
       "title": "SpaceX exec renews Starlink pitch as approvals lay pending",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "8f755f98-7b5b-4606-9420-ca12cbb5716c",
-      "title": "Japan's Kobe Steel eyes India M&A to lift compressor production: executive",
       "existing": [],
       "sources": []
     },
@@ -3119,9 +3097,7 @@
       "id": "2fa595cc-3f42-465a-8945-d7b9ee053ecf",
       "title": "[ITmedia PC USER] 40Gbps超高速通信でネット環境を整えられる「UGREEN LANケーブル CAT8 2M」がセールで30％オフの978円に",
       "existing": [],
-      "sources": [
-        "ITmedia"
-      ]
+      "sources": []
     },
     {
       "id": "ed6f23de-9ec4-4475-9c9e-f849c59ff327",
@@ -4453,6 +4429,24 @@
       "sources": [
         "GamesRadar+"
       ]
+    },
+    {
+      "id": "d438789d-3103-42d1-a16a-746e3d3787da",
+      "title": "Careful out there: latest GTA 6 leak has major story spoilers",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "fa904f83-30df-44ac-9854-a0347b144ad9",
+      "title": "Prime Video Officially Finds The Next Epic Fantasy Series To Rival The Witcher & LOTR",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "7237cf6c-6089-417f-b873-2bfa0bae2d10",
+      "title": "Singapura testa aplicativo de namoro que oferece apenas um par por vez e elimina o swipe",
+      "existing": [],
+      "sources": []
     }
   ]
 }
