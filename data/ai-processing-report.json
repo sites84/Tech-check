@@ -1,326 +1,591 @@
 {
-  "updated_at": "2026-10-17T17:18:50.460Z",
+  "updated_at": "2026-10-17T19:32:28.870Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "86f4ec5a-8380-46d6-bf7c-3c12808b426f",
-      "title": "Toyota planeja produzir a nova geração do Corolla na China a partir de 2028",
+      "id": "0eebc5c3-47ca-43ce-bd42-f23bec461039",
+      "title": "EnterpriseSG reposiciona PMEs de semicondutores de Singapura na cadeia global de chips",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Toyota Corolla production China Tokyo Mobility Show",
+        "video_query_en": "Singapore semiconductor manufacturing advanced packaging EnterpriseSG",
         "images": [
           {
-            "anchor": "Contexto e Desafios no Mercado Chinês",
-            "query_en": "Toyota dealership in China"
+            "anchor": "O panorama estratégico de Singapura",
+            "query_en": "Singapore semiconductor cleanroom technology manufacturing"
           },
           {
-            "anchor": "Perspectivas Tecnológicas e Estratégicas",
-            "query_en": "Toyota vehicle assembly line factory"
+            "anchor": "O papel do Enterprise Singapore",
+            "query_en": "Enterprise Singapore business hub modern architecture"
           },
           {
-            "anchor": "Produção da nova geração do Corolla programada para iniciar em 2028.",
-            "query_en": "Toyota Corolla concept car Tokyo Mobility Show"
+            "anchor": "Áreas de foco tecnológico",
+            "query_en": "advanced semiconductor silicon photonics packaging"
           }
         ]
       }
     },
     {
-      "id": "0aaa6024-98ec-4889-8109-b6dac50f62f0",
-      "title": "Japão avança para fechar o primeiro acordo econômico com Bangladesh",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan Bangladesh economic partnership agreement trade",
-        "images": [
-          {
-            "anchor": "Impacto nos setores têxteis e alfandegários",
-            "query_en": "textile factory in Bangladesh"
-          },
-          {
-            "anchor": "Contexto geopolítico e relações comerciais",
-            "query_en": "Tokyo skyline and government buildings Japan"
-          },
-          {
-            "anchor": "Outras frentes de comércio e acordos na Ásia",
-            "query_en": "cargo port containers Asia trade"
-          },
-          {
-            "anchor": "Desafios diplomáticos e de exportação",
-            "query_en": "Dhaka Bangladesh cityscape and commerce"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8be82cbf-a39f-4722-9a5c-79685fe85ed2",
-      "title": "Amazon Prime Thanksgiving traz descontos expressivos em mini PCs com processadores Ryzen",
+      "id": "13459655-2b7e-4be0-bd25-4336b1b5ce7e",
+      "title": "Texas afirma ter corrigido falha em sistema que atrasou quase 600 mil cadastros de eleitores",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GMKtec M7 Ultra mini PC review performance",
+        "video_query_en": "Texas voter registration computer glitch news",
         "images": [
           {
-            "anchor": "GMKtec M7 Ultra",
-            "query_en": "GMKtec M7 Ultra mini PC"
+            "anchor": "A origem do problema na CNH e os impactos",
+            "query_en": "Texas driver license online portal office"
           },
           {
-            "anchor": "GEEKOM A5 Pro",
-            "query_en": "GEEKOM A5 Pro mini PC"
+            "anchor": "Resposta oficial e novos erros descobertos",
+            "query_en": "Texas Secretary of State office building"
           },
           {
-            "anchor": "Getorli GT105",
-            "query_en": "Getorli GT105 mini PC"
-          },
-          {
-            "anchor": "AOOSTAR MACO-470",
-            "query_en": "AOOSTAR MACO 470 mini PC"
-          },
-          {
-            "anchor": "GMKtec NucBox G5S",
-            "query_en": "GMKtec NucBox G5S mini PC"
+            "anchor": "Corrida contra o tempo e contexto eleitoral acirrado",
+            "query_en": "Texas polling station early voting line"
           }
         ]
       }
     },
     {
-      "id": "9961c522-1e64-4d16-a992-573971205427",
-      "title": "Guia do Pokémon Pokopia: Como aproveitar o evento de Halloween Pumpkaboo's Sweet Surprises",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Pokemon Pokopia Pumpkaboo Sweet Surprises Halloween Event Guide",
-        "images": [
-          {
-            "anchor": "Como iniciar o evento Pumpkaboo's Sweet Surprises",
-            "query_en": "Pokemon Pokopia Pumpkaboo event Halloween"
-          },
-          {
-            "anchor": "Como conseguir Pumpkin Candy",
-            "query_en": "Pokemon Pokopia Pumpkaboo Camouflage pumpkin candy"
-          },
-          {
-            "anchor": "Todos os itens do evento Pumpkaboo's Sweet Surprises",
-            "query_en": "Pokemon Pokopia Halloween event items furniture"
-          },
-          {
-            "anchor": "Como montar os habitats Give Me Something Good To Eat e Creepy Pumpkins",
-            "query_en": "Pokemon Pokopia Gourgeist habitat Pumpkaboo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c1b37998-bd90-4998-83c0-81473687631e",
-      "title": "Ex-líder de Dying Light assume comando da Broken Mirror Games em busca do \"próximo Kojima\"",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tymon Smektala Bloober Team Broken Mirror Games interview",
-        "images": [
-          {
-            "anchor": "Uma nova era para a Broken Mirror Games",
-            "query_en": "Bloober Team horror game development office"
-          },
-          {
-            "anchor": "O perfil dos novos projetos e inspirações cinematográficas",
-            "query_en": "Dying Light zombie survival horror gameplay"
-          },
-          {
-            "anchor": "O portfólio inicial e exclusividades para o Switch 2",
-            "query_en": "Nintendo Switch 2 console handheld gaming"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6e9419be-316f-4720-9ab3-cc316f13c9ee",
-      "title": "Golpistas de devolução da Amazon podem estar removendo a tampa de CPUs, sugere suposto Ryzen falso",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Amazon CPU return scam delidding Ryzen",
-        "images": [
-          {
-            "anchor": "O Caso do Ryzen Suspeito",
-            "query_en": "AMD Ryzen processor CPU box"
-          },
-          {
-            "anchor": "Reações da Comunidade e Suspeita de Golpe",
-            "query_en": "Reddit website community forum interface"
-          },
-          {
-            "anchor": "O Processo de Delidding",
-            "query_en": "CPU delidding process hardware tool"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0d0664b8-5a65-4450-9ef3-8a46033cc920",
-      "title": "Analogue relanca consoles Super NT e Mega SG com suporte a controles sem fio e conexao USB-C",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Analogue Super NT Mega SG updated wireless USB-C",
-        "images": [
-          {
-            "anchor": "Novidades em conectividade e design",
-            "query_en": "Analogue Super NT Mega SG console"
-          },
-          {
-            "anchor": "Precos e disponibilidade",
-            "query_en": "Analogue retro gaming console box"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b85d61bb-8036-470b-b7b8-3e0db1b41bf1",
-      "title": "Aviso de Segurança: Convites de calendário tornam-se o novo vetor de phishing e burlam filtros de e-mail",
+      "id": "e7fb3f2d-895d-4ef8-a629-5e1d510a839d",
+      "title": "Fabricante do robô Eiliko deixa frota de 68 mil unidades vulnerável a controle remoto",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Google Calendar phishing scams cybersecurity warning",
+        "video_query_en": "Eiliko robot security flaw Energize Lab",
         "images": [
           {
-            "anchor": "O crescimento dos golpes por calendário",
-            "query_en": "Google Calendar interface cybersecurity threat"
+            "anchor": "Uma falha alarmante na robótica de consumo",
+            "query_en": "Eiliko desktop robot Energize Lab"
           },
           {
-            "anchor": "Por que os filtros tradicionais falham",
-            "query_en": "Phishing email cyber attack security warning"
+            "anchor": "13 milhões de conversas realizadas com os robôs da marca;",
+            "query_en": "Smart robot data privacy security breach"
           }
         ]
       }
     },
     {
-      "id": "9e1783f4-6e30-4749-9846-0ad7311f3b48",
-      "title": "Apple impõe novas regras na App Store contra aplicativos de IA focados em nudez",
+      "id": "9029a8e4-5731-44c0-9567-154ac8a77bb3",
+      "title": "TikTok suspende conta de documentário sobre Elon Musk citando conteúdo político",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple App Store AI deepfake nude apps restrictions",
+        "video_query_en": "Elon Musk documentary Bleecker Street TikTok ban",
         "images": [
           {
-            "anchor": "Novas obrigações para os desenvolvedores",
-            "query_en": "Apple developer website App Store guidelines"
+            "anchor": "A suspensão da conta no TikTok",
+            "query_en": "TikTok app logo on smartphone screen"
           },
           {
-            "anchor": "Punições severas para infrações",
-            "query_en": "Apple iPhone App Store security moderation"
+            "anchor": "Impacto na divulgação e estratégias de marketing",
+            "query_en": "Movie theater exterior with marquee"
+          },
+          {
+            "anchor": "Conexões corporativas e o conteúdo do filme",
+            "query_en": "Elon Musk speaking at an event"
+          },
+          {
+            "anchor": "A recepção da crítica especializada",
+            "query_en": "Film review critique cinema concept"
           }
         ]
       }
     },
     {
-      "id": "54a89ecf-4c39-49b7-94d4-3e5bff454cf3",
-      "title": "Sennheiser Accentum Clip: fones open-ear impressionantes, mas com uma grande ausência",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sennheiser Accentum Clip open earbuds review",
-        "images": [
-          {
-            "anchor": "## Sennheiser Accentum Clip: som incomparável",
-            "query_en": "Sennheiser Accentum Clip open earbuds sound driver"
-          },
-          {
-            "anchor": "## Tudo o mais que importa sobre os fones",
-            "query_en": "Sennheiser Accentum Clip open earbuds design case"
-          },
-          {
-            "anchor": "- Aplicativo Smart Control da Sennheiser",
-            "query_en": "Sennheiser Smart Control app interface"
-          },
-          {
-            "anchor": "- Controles",
-            "query_en": "Sennheiser Accentum Clip touch controls"
-          },
-          {
-            "anchor": "- Autonomia de bateria",
-            "query_en": "Sennheiser Accentum Clip charging case"
-          },
-          {
-            "anchor": "- Qualidade de chamadas e conectividade",
-            "query_en": "Person wearing open ear audio clip on earbuds"
-          },
-          {
-            "anchor": "## A realidade frustrante para o mercado americano",
-            "query_en": "Sennheiser audio products retail box package"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e6311342-9839-4d63-9a9d-0bbbf92ac704",
-      "title": "Desenvolvedores cancelam demonstração de jogo indie por medo de cópias por inteligência artificial",
+      "id": "141693c4-e817-4b6b-94b5-26b3facc6675",
+      "title": "Por que a década de 2000 foi a era de ouro definitiva para os jogos de ficção científica",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Drunken Goddess Reflux game AI copycats Steam",
+        "video_query_en": "greatest sci fi video games of the 2000s retrospective",
         "images": [
           {
-            "anchor": "Cancelamento da demonstração pública",
-            "query_en": "Steam video game digital storefront interface"
+            "anchor": "Metroid Prime (2002)",
+            "query_en": "Metroid Prime Gamecube key art"
           },
           {
-            "anchor": "Outros fatores e o cenário da Steam",
-            "query_en": "indie game development computer screen"
+            "anchor": "Star Wars: Knights Of The Old Republic (2003)",
+            "query_en": "Star Wars Knights of the Old Republic character Darth Revan"
+          },
+          {
+            "anchor": "Halo 2 (2004)",
+            "query_en": "Halo 2 Master Chief key art"
+          },
+          {
+            "anchor": "Half-Life 2 (2004)",
+            "query_en": "Half Life 2 Gordon Freeman city 17"
+          },
+          {
+            "anchor": "Portal (2007)",
+            "query_en": "Portal video game aperture science portal gun"
+          },
+          {
+            "anchor": "BioShock (2007)",
+            "query_en": "BioShock underwater city Rapture"
+          },
+          {
+            "anchor": "Mass Effect (2007)",
+            "query_en": "Mass Effect commander Shepard trilogy"
+          },
+          {
+            "anchor": "Dead Space (2008)",
+            "query_en": "Dead Space USG Ishimura Isaac Clarke"
+          },
+          {
+            "anchor": "Fallout 3 (2008)",
+            "query_en": "Fallout 3 Vault 101 Brotherhood of Steel"
+          },
+          {
+            "anchor": "Gears Of War 2 (2008)",
+            "query_en": "Gears of War 2 Marcus Fenix Lancer"
           }
         ]
       }
     },
     {
-      "id": "10db2e8d-7de5-4609-97ac-7afd0640a55f",
-      "title": "Violent Night 2 ganha novidades com David Harbour e Kristen Bell na NYCC 2026",
+      "id": "2947e480-18e9-4f35-bc57-441214287a3b",
+      "title": "A Maior Frase da História dos X-Men Continua Sendo o Melhor Diálogo da Marvel",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Violent Night 2 David Harbour Kristen Bell NYCC 2026 interview",
+        "video_query_en": "X Men Days of Future Past Professor X speech scene",
         "images": [
           {
-            "anchor": "Novidades na NYCC 2026",
-            "query_en": "New York Comic Con 2026 panel stage"
+            "anchor": "O Conselho do Professor Xavier para Si Mesmo",
+            "query_en": "James McAvoy Patrick Stewart Charles Xavier Days of Future Past"
           },
           {
-            "anchor": "David Harbour retorna como o protagonista.",
-            "query_en": "David Harbour actor"
-          },
-          {
-            "anchor": "Kristen Bell se junta ao elenco da sequência.",
-            "query_en": "Kristen Bell actress"
-          },
-          {
-            "anchor": "Tommy Wirkola assume novamente a direção.",
-            "query_en": "Tommy Wirkola director"
-          },
-          {
-            "anchor": "Kelly McCormick atua como produtora do projeto.",
-            "query_en": "Kelly McCormick producer"
-          },
-          {
-            "anchor": "Stakes elevados e novas acrobacias",
-            "query_en": "Violent Night action stunt scene"
+            "anchor": "A Aplicação da Frase a Outros Personagens da Marvel",
+            "query_en": "Doctor Strange in the Multiverse of Madness Illuminati Charles Xavier scene"
           }
         ]
       }
     },
     {
-      "id": "2c6c508a-083c-40e9-a66e-346f18f9b8d5",
-      "title": "Filme de Josh Brolin ressurge como sucesso global no streaming no momento ideal",
+      "id": "a848786e-2399-4702-b9f0-7eb121bd87ac",
+      "title": "Nova adaptação de Razão e Sensibilidade quebra recorde histórico de bilheteria de Jane Austen",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Only the Brave movie trailer Josh Brolin Joseph Kosinski",
+        "video_query_en": "Sense and Sensibility 2026 movie trailer box office",
         "images": [
           {
-            "anchor": "O ressurgimento de Only the Brave na HBO Max",
-            "query_en": "Only the Brave Josh Brolin Eric Marsh firefighter movie"
+            "anchor": "Elenco e Direção da Versão de 2026",
+            "query_en": "Daisy Edgar-Jones Sense and Sensibility 2026"
           },
           {
-            "anchor": "Conexão com o novo suspense Whalefall",
-            "query_en": "Whalefall movie Josh Brolin Austin Abrams"
+            "anchor": "Desempenho de Bilheteria e Recordes Históricos",
+            "query_en": "Sense and Sensibility movie theater audience box office"
+          },
+          {
+            "anchor": "Contexto Histórico das Adaptações de Jane Austen",
+            "query_en": "Pride and Prejudice 2005 Keira Knightley movie scene"
+          },
+          {
+            "anchor": "Média por Tela e Recepção do Público",
+            "query_en": "Rotten Tomatoes audience popcorn bucket score"
+          },
+          {
+            "anchor": "Projeções Futuras e Retorno Financeiro",
+            "query_en": "Cinema ticket counter box office earnings"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30fb84b6-6d0d-4f74-92e5-4a9b549aae34",
+      "title": "Thriller real de Mark Wahlberg será disponibilizado de graça para streaming",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Patriots Day Mark Wahlberg trailer",
+        "images": [
+          {
+            "anchor": "Estreia gratuita no Tubi",
+            "query_en": "Mark Wahlberg Patriots Day Boston Police"
+          },
+          {
+            "anchor": "Elenco de peso e direção",
+            "query_en": "Kevin Bacon John Goodman Patriots Day"
+          },
+          {
+            "anchor": "Kevin Bacon interpretando o agente especial do FBI Richard DesLauriers",
+            "query_en": "Kevin Bacon FBI agent Patriots Day"
+          },
+          {
+            "anchor": "John Goodman como o comissário de polícia Ed Davis",
+            "query_en": "John Goodman Commissioner Ed Davis Patriots Day"
+          },
+          {
+            "anchor": "Michelle Monaghan no papel de Carol Saunders, esposa de Tommy e enfermeira registrada",
+            "query_en": "Michelle Monaghan Patriots Day"
+          },
+          {
+            "anchor": "J.K. Simmons como o sargento da polícia de Watertown Jeff Pugliese",
+            "query_en": "JK Simmons Sergeant Jeff Pugliese Patriots Day"
+          },
+          {
+            "anchor": "Alexx Wolf vivendo Dzhokhar Tsarnaev",
+            "query_en": "Patriots Day Dzhokhar Tsarnaev"
+          },
+          {
+            "anchor": "Themo Melikidze interpretando Tamerlan Tsarnaev",
+            "query_en": "Patriots Day Tamerlan Tsarnaev"
+          },
+          {
+            "anchor": "Rachel Brosnahan como Jessica Kensky, que perdeu as pernas nos atentados da maratona",
+            "query_en": "Rachel Brosnahan Patriots Day"
+          },
+          {
+            "anchor": "Recepção da crítica e status de obra subestimada",
+            "query_en": "Mark Wahlberg Patriots Day action thriller"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dbccea34-8263-4b9f-afc7-063838ad6382",
+      "title": "Como The Mandalorian e a tecnologia Volume revolucionaram as séries de ficção científica",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Mandalorian The Volume filming technology explained",
+        "images": [
+          {
+            "anchor": "O impacto de The Mandalorian na ficção científica",
+            "query_en": "The Mandalorian Din Djarin Disney Plus"
+          },
+          {
+            "anchor": "Vantagens para atores e realismo visual",
+            "query_en": "The Volume LED screen stage filming Mandalorian"
+          },
+          {
+            "anchor": "O legado estético de Star Wars na televisão",
+            "query_en": "Star Wars live action television production Mandalorian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c82b9632-d0db-45fc-bc01-d3aa796d7e6a",
+      "title": "Pokémon revela redesign oficial das Aves Lendárias de Kanto para o aniversário de 30 anos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pokemon 30th Anniversary TCG legendary birds redesign",
+        "images": [
+          {
+            "anchor": "O novo visual das Aves Lendárias",
+            "query_en": "Pokemon Kanto legendary birds Articuno Zapdos Moltres"
+          },
+          {
+            "anchor": "A chegada ao Pokémon TCG",
+            "query_en": "Pokemon TCG 30th Anniversary set packs"
+          },
+          {
+            "anchor": "Sinergia e mecânicas de batalha",
+            "query_en": "Pokemon TCG legendary birds cards battle"
+          },
+          {
+            "anchor": "Variantes e coleções especiais",
+            "query_en": "Pokemon TCG 30th Celebration poster collection"
+          },
+          {
+            "anchor": "Impacto e recepção dos fãs",
+            "query_en": "Pokemon TCG card collector opening packs"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0286bcb9-6b12-4c98-b3cf-c9fd5ea041c8",
+      "title": "All 8 Gunsmoke Shows & Movies Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "ed011b22-1803-4c6a-a65d-026a3e614d87",
+      "title": "Marvel Zombies: A Real Motivo da Mudança de Formato",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Marvel Zombies MCU Halloween specials explained",
+        "images": [
+          {
+            "anchor": "O Novo Rumor de Marvel Zombies",
+            "query_en": "Marvel Zombies animated series MCU"
+          },
+          {
+            "anchor": "O Impacto dos Especiais de Halloween",
+            "query_en": "Marvel Zombies Halloween special undead heroes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9bda2c35-051e-4f67-acb3-ea2b5237a65d",
+      "title": "O Urso do Pó Branco vira sucesso de audiência na Netflix",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cocaine Bear Netflix streaming success",
+        "images": [
+          {
+            "anchor": "O sucesso recente na Netflix",
+            "query_en": "Cocaine Bear black bear tree"
+          },
+          {
+            "anchor": "Premissa e inspiração real",
+            "query_en": "Cocaine Bear movie scene Elizabeth Banks"
+          },
+          {
+            "anchor": "Elenco de destaque",
+            "query_en": "Keri Russell Alden Ehrenreich Cocaine Bear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d3d8ba33-9097-432e-8a20-4316101e0ad2",
+      "title": "Disney's The Last Of Us Meets Walking Dead Gets Official Update From Franchise Star",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "e0c4fac9-0d50-4f57-b3de-a77f13c790d5",
+      "title": "A Jornada para o Platina em Stray e a Experiência de Conquistar o Troféu de Velocidade",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Stray game speedrun platinum trophy guide",
+        "images": [
+          {
+            "anchor": "A Paixão Pelos Felinos e o Lançamento de Stray",
+            "query_en": "Stray game cat gameplay"
+          },
+          {
+            "anchor": "Explorando a Distopia sob a Perspetiva Felina",
+            "query_en": "Stray cyberpunk cat world"
+          },
+          {
+            "anchor": "Fugir dos Zurks pela primeira vez sem ser pego nenhuma vez, um obstáculo que gerou bastante frustração.",
+            "query_en": "Stray game Zurks chase"
+          },
+          {
+            "anchor": "Conquistar o troféu 'I am Speed', que exige terminar o jogo inteiro em menos de duas horas.",
+            "query_en": "Stray game platinum trophy"
+          },
+          {
+            "anchor": "O Desafio do Speedrun",
+            "query_en": "Stray cat running speedrun"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8acd591a-3179-4a78-8761-ff616d0a9f4b",
+      "title": "Mais de 35 novos jogos chegam ao PS5 e PlayStation Plus entre 19 e 25 de outubro",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PS5 games coming out next week October",
+        "images": [
+          {
+            "anchor": "Lançamentos de destaque para PS5",
+            "query_en": "Call of Duty Modern Warfare PS5 gameplay"
+          },
+          {
+            "anchor": "Jogos programados para 19 de outubro",
+            "query_en": "BeamNG drive PS5 gameplay"
+          },
+          {
+            "anchor": "Lançamentos do dia 20 de outubro",
+            "query_en": "Frankenstein Awakening of Horror PS5"
+          },
+          {
+            "anchor": "Novidades de 21 de outubro",
+            "query_en": "Hail to the Rainbow game"
+          },
+          {
+            "anchor": "Títulos do dia 22 de outubro",
+            "query_en": "Final Fantasy Resonance pixel art game"
+          },
+          {
+            "anchor": "Lançamentos de 23 e 25 de outubro",
+            "query_en": "Warrior Cats Clans of the Forest"
+          },
+          {
+            "anchor": "Atualizações do PlayStation Plus Extra e Premium",
+            "query_en": "Horizon Forbidden West PS5 gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9838b0a5-a824-43dc-8888-e92df385a2c2",
+      "title": "A capacidade de carga da picape elétrica Slate surpreende",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Slate electric truck towing and cargo capacity review",
+        "images": [
+          {
+            "anchor": "O desafio do mercado de elétricos e a chegada da Slate",
+            "query_en": "Slate compact electric pickup truck exterior"
+          },
+          {
+            "anchor": "As especificações de reboque e capacidade de carga",
+            "query_en": "Slate truck bed cargo space"
+          },
+          {
+            "anchor": "Comparação com concorrentes compactos e versatilidade",
+            "query_en": "Ford Maverick compact pickup truck"
+          },
+          {
+            "anchor": "Problemas de eficiência de bateria e atualizações opcionais",
+            "query_en": "Rivian R1T electric truck charging battery"
+          }
+        ]
+      }
+    },
+    {
+      "id": "50653b0a-f520-474e-9cbc-046444148267",
+      "title": "Estimativas de envio do iPhone Duo já são adiadas para 2027",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo foldable phone Apple preorders shipping",
+        "images": [
+          {
+            "anchor": "Prazos estendidos e impacto nas festas de fim de ano",
+            "query_en": "Apple iPhone Duo foldable smartphone box"
+          },
+          {
+            "anchor": "Variabilidade nas entregas e opções de retirada",
+            "query_en": "Apple Store shopping bags online pickup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a20e67d6-23d3-4123-9a27-bd3915f28a97",
+      "title": "O que realmente consome todo o espaço de armazenamento do seu celular Android",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to free up storage space on android phone",
+        "images": [
+          {
+            "anchor": "Gerenciando e removendo aplicativos",
+            "query_en": "android settings storage apps management"
+          },
+          {
+            "anchor": "O papel de imagens e vídeos",
+            "query_en": "google photos app interface backup"
+          },
+          {
+            "anchor": "Lidar com outros tipos de dados",
+            "query_en": "android phone storage settings duplicate files cache"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ff1a714-7e62-4045-a03c-b9b471d3f3ee",
+      "title": "Como usar o Android Auto fora do carro: transformando tablets antigos em painéis de produtividade",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Android Auto outside of car review tablet setup",
+        "images": [
+          {
+            "anchor": "O funcionamento básico do sistema e o papel dos tablets",
+            "query_en": "Android Auto tablet display on desk"
+          },
+          {
+            "anchor": "O que é necessário para a configuração sem carro",
+            "query_en": "Android tablet connected with USB cable"
+          },
+          {
+            "anchor": "Passo a passo para a instalação e conexões alternativas",
+            "query_en": "Open Headunit Android Auto app setup"
+          },
+          {
+            "anchor": "Vantagens em termos de foco e filtragem de distrações",
+            "query_en": "Android Auto Spotify interface on tablet"
+          },
+          {
+            "anchor": "Limitações e concessões da experiência",
+            "query_en": "Old Android tablet on kitchen counter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ef0cffe-9dff-44ad-9788-b85b86d37d95",
+      "title": "Vazamento de gameplay revela suposto jogo cancelado de Assassin's Creed na China Antiga",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Assassins Creed Destiny leaked gameplay ancient China",
+        "images": [
+          {
+            "anchor": "O Conteúdo do Vazamento e o Período Histórico",
+            "query_en": "Ancient China Qin Dynasty wall climbing stealth action"
+          },
+          {
+            "anchor": "O Futuro da Franquia na China Antiga",
+            "query_en": "Assassins Creed Jade mobile game artwork"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe141212-4ea8-4d20-b08c-a29b7098d9ba",
+      "title": "Replit encerra parceria com a Anthropic e define OpenAI como padrão, afirma CEO",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Replit CEO Amjad Masad TechCrunch Disrupt Anthropic OpenAI",
+        "images": [
+          {
+            "anchor": "Motivos da mudança e o papel da OpenAI",
+            "query_en": "OpenAI ChatGPT interface and code development"
+          },
+          {
+            "anchor": "Histórico da parceria e reações do mercado",
+            "query_en": "Anthropic Claude logo and artificial intelligence"
+          },
+          {
+            "anchor": "A Replit continua sendo agnóstica em relação aos modelos de inteligência artificial.",
+            "query_en": "Replit coding platform interface in browser"
+          },
+          {
+            "anchor": "Os usuários têm liberdade para escolher o Claude da Anthropic ou outros modelos compatíveis suportados.",
+            "query_en": "Developer coding on laptop screen with AI assistant"
+          },
+          {
+            "anchor": "A OpenAI tornou-se o parceiro preferencial para alimentar o Replit Agent devido a critérios de desempenho, economia e solidez da aliança.",
+            "query_en": "Amjad Masad speaking on stage at tech conference"
+          },
+          {
+            "anchor": "Crescimento empresarial e foco em segurança",
+            "query_en": "Enterprise software dashboard and business analytics"
+          },
+          {
+            "anchor": "Os agentes de inteligência artificial necessitam de um ambiente estruturado para operar com eficiência, comparado a um habitat adequado.",
+            "query_en": "Artificial intelligence automation workflow and data security"
+          },
+          {
+            "anchor": "Uma infraestrutura ideal exige boa orquestração, mecanismos eficientes de recuperação de erros, recursos sólidos de segurança, isolamento em sandboxing, controle de rede e gerenciamento rigoroso de identidade e autorização.",
+            "query_en": "Cybersecurity code protection and server safety"
+          },
+          {
+            "anchor": "Com todas essas barreiras e facilidades estruturadas, torna-se viável implantar ferramentas autônomas de IA de maneira segura e confiável.",
+            "query_en": "Software developer working in modern tech office"
           }
         ]
       }
@@ -332,279 +597,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "53171841-330e-41a2-8cfb-b864c58557f5",
-      "title": "Novo filme de Ridley Scott pode finalmente realizar sonho de carreira de quase 50 anos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ridley Scott upcoming western movie Freewalkers",
-        "images": [
-          {
-            "anchor": "A jornada rumo ao gênero de faroeste",
-            "query_en": "Ridley Scott director portrait"
-          },
-          {
-            "anchor": "Os detalhes por trás de Freewalkers",
-            "query_en": "Snowy Midwest landscape western cinematic"
-          },
-          {
-            "anchor": "Outras possibilidades e projetos futuros",
-            "query_en": "Classic western movie desert landscape"
-          }
-        ]
-      }
-    },
-    {
       "id": "15e7aee5-933c-4d93-aca6-e8bb153168d2",
       "title": "7 Small-Town Thrillers To Watch After Netflix's Below",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "2b571ef7-895e-4bbd-808b-c1d726fa88f7",
-      "title": "Invasão Zumbi chega a nova plataforma de streaming em outubro de 2026",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Train to Busan official trailer Peacock streaming",
-        "images": [
-          {
-            "anchor": "A chegada ao Peacock e o universo expandido",
-            "query_en": "Train to Busan zombie train scene"
-          },
-          {
-            "anchor": "Por que Invasão Zumbi é considerado um clássico moderno",
-            "query_en": "Train to Busan Gong Yoo and Kim Su-an"
-          },
-          {
-            "anchor": "Seok-woo",
-            "query_en": "Gong Yoo Train to Busan"
-          },
-          {
-            "anchor": "Sang-hwa",
-            "query_en": "Ma Dong-seok Train to Busan"
-          },
-          {
-            "anchor": "Seong-kyeong",
-            "query_en": "Jung Yu-mi Train to Busan"
-          },
-          {
-            "anchor": "Yong-guk e Jin-hee",
-            "query_en": "Choi Woo-shik Train to Busan"
-          },
-          {
-            "anchor": "Yong-suk",
-            "query_en": "Kim Eui-sung Train to Busan"
-          },
-          {
-            "anchor": "Train to Busan Presents: Peninsula",
-            "query_en": "Train to Busan Peninsula movie scene"
-          },
-          {
-            "anchor": "Seoul Station",
-            "query_en": "Seoul Station animated movie Yeon Sang-ho"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a2768cd8-dfad-4690-b19e-3ee9980fd1c8",
-      "title": "Bastidores de Resident Evil mostram como a cena mais assustadora foi criada",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Resident Evil movie maternity ward scene behind the scenes",
-        "images": [
-          {
-            "anchor": "O planejamento da cena na maternidade",
-            "query_en": "Resident Evil movie hospital scene storyboard"
-          },
-          {
-            "anchor": "O significado simbólico e o impacto emocional",
-            "query_en": "Austin Abrams Resident Evil movie"
-          }
-        ]
-      }
-    },
-    {
-      "id": "697762bc-58e4-4923-89a4-7fb4f5131ca2",
-      "title": "Invincible Ganha RPG de Mesa Oficial que Permite Substituir Mark",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Invincible tabletop RPG Free League Publishing overview",
-        "images": [
-          {
-            "anchor": "O RPG de Mesa Oficial de Invincible",
-            "query_en": "Free League Publishing Invincible tabletop RPG rulebook"
-          },
-          {
-            "anchor": "Opções de Personagens e Customização",
-            "query_en": "Invincible comic book characters superhero lineup"
-          },
-          {
-            "anchor": "A Experiência de Jogo e Preços",
-            "query_en": "Invincible animated series Mark Grayson Amazon Prime"
-          }
-        ]
-      }
-    },
-    {
-      "id": "20678848-bab9-4a0c-a825-835b7062f10c",
-      "title": "Jensen Ackles revela o verdadeiro motivo do cancelamento de Countdown no Prime Video",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Ackles Countdown Prime Video interview SPNVan",
-        "images": [
-          {
-            "anchor": "O sucesso de Countdown e a chegada de novos chefes",
-            "query_en": "Jensen Ackles Countdown Prime Video character"
-          },
-          {
-            "anchor": "- O ator afirmou que Countdown permaneceu no top 3 de audiência da plataforma durante todas as 10 semanas de exibição.",
-            "query_en": "Jensen Ackles acting in Countdown series"
-          },
-          {
-            "anchor": "Semelhanças com o novo projeto Rules of Prey",
-            "query_en": "Jensen Ackles Rules of Prey Amazon MGM Studios"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c4bfbcf0-bf1b-45db-8e65-ab1c686a6290",
-      "title": "Tulsa King: Quarta temporada da série de Taylor Sheridan estreia no topo do Paramount+",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tulsa King season 4 Paramount Plus trailer Sylvester Stallone",
-        "images": [
-          {
-            "anchor": "O sucesso contínuo do universo de Taylor Sheridan",
-            "query_en": "Taylor Sheridan creator portrait"
-          },
-          {
-            "anchor": "A liderança de Tulsa King no Paramount+",
-            "query_en": "Sylvester Stallone Tulsa King season 4 Dwight Manfredi"
-          },
-          {
-            "anchor": "O enredo e a recepção da nova temporada",
-            "query_en": "Tulsa King cast members Season 4 Paramount Plus"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e696631b-33f6-443b-8a4c-572b99aa18b8",
-      "title": "A aposta bilionária da SpaceX para desafiar as gigantes das telecomunicações",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SpaceX Starlink mobile carrier plan Walter Piecyk interview",
-        "images": [
-          {
-            "anchor": "A compra de espectro de baixa banda e o histórico da Nextel",
-            "query_en": "Nextel radio telecom tower equipment"
-          },
-          {
-            "anchor": "A necessidade de uma rede terrestre além do espaço",
-            "query_en": "Starlink satellite dish internet installation"
-          },
-          {
-            "anchor": "O alto custo e os desafios estruturais",
-            "query_en": "cell tower infrastructure telecommunications"
-          },
-          {
-            "anchor": "A relação com la T-Mobile e o cenário competitivo",
-            "query_en": "T-Mobile store telecom storefront"
-          },
-          {
-            "anchor": "O papel do ecossistema de Elon Musk e a alocação de capital",
-            "query_en": "Elon Musk SpaceX rocket launch pad"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f6704374-07ad-4cc6-a2ec-7ba87a55b078",
-      "title": "O impacto e as preferências tecnológicas de Jad Abumrad, criador do Radiolab",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jad Abumrad interview podcast sound design Radiolab",
-        "images": [
-          {
-            "anchor": "A trajetória recente e a rotina multifacetada",
-            "query_en": "Jad Abumrad speaking at conference"
-          },
-          {
-            "anchor": "Perspectivas tecnológicas e preferências culturais",
-            "query_en": "vintage Motorola flip phone"
-          }
-        ]
-      }
-    },
-    {
-      "id": "750a211a-0c9a-4550-ac29-5fb7b35c299f",
-      "title": "Pikmin 4 está com desconto de 20 dólares no Walmart antes de atualização para o Nintendo Switch 2",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Pikmin 4 Nintendo Switch gameplay review",
-        "images": [
-          {
-            "anchor": "A experiência de Pikmin 4",
-            "query_en": "Pikmin 4 gameplay dog companion"
-          },
-          {
-            "anchor": "A chegada do Nintendo Switch 2 e a atualização",
-            "query_en": "Nintendo Switch 2 console announcement"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dcaafbc9-a021-43c1-98c7-a404bc40230c",
-      "title": "Meta remove termos ambíguos que sugeriam uso de sites de notícias para treinar IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Meta updates terms to remove language about web scraping for AI training",
-        "images": [
-          {
-            "anchor": "A polêmica nos termos comerciais",
-            "query_en": "Meta corporate office building sign"
-          },
-          {
-            "anchor": "Resposta oficial e esclarecimentos",
-            "query_en": "smartphone displaying social media news feed"
-          }
-        ]
-      }
-    },
-    {
-      "id": "84c8e970-6b7d-4d3e-8075-7e799be042ad",
-      "title": "Elon Musk faz acordo em processos judiciais sobre sorteio de US$ 1 milhão para eleitores",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk 1 million voter giveaway lawsuit settlement",
-        "images": [
-          {
-            "anchor": "## O acordo e o fim dos processos judiciais",
-            "query_en": "Elon Musk courthouse lawsuit hearing Austin Texas"
-          },
-          {
-            "anchor": "## A revelação sobre a seleção dos premiados",
-            "query_en": "Elon Musk America PAC million dollar check giveaway"
-          },
-          {
-            "anchor": "## Acusações de coleta de dados pessoais",
-            "query_en": "Voter registration petition signing data privacy"
-          }
-        ]
-      }
     },
     {
       "id": "fe8a3bd6-fc65-4cbe-83eb-df16ecdb867a",
@@ -613,102 +609,136 @@
       "error": "Categoria inválida retornada pelo Gemini: Automóveis"
     },
     {
-      "id": "e443557e-32e5-4db0-a013-1ae1f2f8816c",
-      "title": "Por que os telefones da Xiaomi têm tantos anúncios e como bloqueá-los",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "how to block ads on xiaomi phones miui hyperos",
-        "images": [
-          {
-            "anchor": "Desativando anúncios principais nas configurações",
-            "query_en": "xiaomi smartphone settings screen interface"
-          },
-          {
-            "anchor": "Removendo propagandas em aplicativos nativos",
-            "query_en": "xiaomi miui app drawer interface"
-          },
-          {
-            "anchor": "Aplicativo Downloads",
-            "query_en": "xiaomi downloads app interface"
-          },
-          {
-            "anchor": "Aplicativo Temas",
-            "query_en": "xiaomi themes store app interface"
-          },
-          {
-            "anchor": "Aplicativo Música",
-            "query_en": "xiaomi music app interface"
-          },
-          {
-            "anchor": "Navegador Mi Browser",
-            "query_en": "xiaomi mi browser app interface"
-          },
-          {
-            "anchor": "Limpando os aplicativos de Segurança e Gerenciador de Arquivos",
-            "query_en": "xiaomi security app clean manager"
-          },
-          {
-            "anchor": "Ajustes finais de privacidade e notificações",
-            "query_en": "google android privacy settings menu"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a649e016-b3be-4c10-be55-c6f1d3451480",
-      "title": "Verizon cobrará US$ 10 por mês pelo recurso iPhone Handoff",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Verizon iPhone Handoff iOS 27 explanation",
-        "images": [
-          {
-            "anchor": "## Como funciona o iPhone Handoff",
-            "query_en": "Apple iPhone Handoff feature iOS"
-          },
-          {
-            "anchor": "## Configuração e alternância de dispositivos",
-            "query_en": "iPhone cellular settings eSIM setup"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e819d0c-fcb1-4034-af4f-30e221bec8b1",
-      "title": "Quantos watts sua caixa de som Bluetooth realmente precisa?",
+      "id": "a7636e38-7949-47da-a7eb-29c48ed60606",
+      "title": "Vale a pena usar Ethernet e Wi-Fi juntos na rede de casa?",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how many watts do you need bluetooth speaker explained",
+        "video_query_en": "Ethernet vs WiFi home network comparison performance",
         "images": [
           {
-            "anchor": "RMS vs. pico de potência em caixas de som",
-            "query_en": "bluetooth speaker internal drivers audio components"
+            "anchor": "Use Wi-Fi onde a conveniência é prioridade",
+            "query_en": "Modern home smart devices connected to wireless router"
           },
           {
-            "anchor": "Dobrar a potência não duplica o volume",
-            "query_en": "portable bluetooth speaker volume test decibels"
+            "anchor": "Entendendo os padrões de conexão sem fio",
+            "query_en": "Advanced Wi-Fi router broadcasting wireless signals"
           },
           {
-            "anchor": "Quantos watts você precisa em uma caixa de som Bluetooth?",
-            "query_en": "various sizes of bluetooth speakers outdoor indoor"
+            "anchor": "Conecte com cabo Ethernet para desempenho máximo",
+            "query_en": "Ethernet cable plugged into computer network port"
           },
           {
-            "anchor": "Modelos compactos (3W a 10W RMS)",
-            "query_en": "small mini bluetooth speaker on desk"
+            "anchor": "Noções básicas sobre os padrões de cabos e portas",
+            "query_en": "Network switch with connected ethernet cables"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2350f4d-f9e3-4e60-b993-21671262f58c",
+      "title": "Problemas comuns com a Amazon Alexa e como resolvê-los",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Alexa common problems and troubleshooting guide",
+        "images": [
+          {
+            "anchor": "Se a Alexa não entende você",
+            "query_en": "Amazon Alexa app voice settings"
           },
           {
-            "anchor": "Modelos intermediários (até 40W RMS)",
-            "query_en": "mid size portable bluetooth speaker"
+            "anchor": "Se a Alexa fala demais",
+            "query_en": "Amazon Echo smart speaker device settings"
           },
           {
-            "anchor": "Modelos para ambientes externos (40W a 100W RMS)",
-            "query_en": "soundcore boom outdoor bluetooth speaker"
+            "anchor": "Se a Alexa reativa com palavras aleatórias",
+            "query_en": "Amazon Echo Dot smart device"
           },
           {
-            "anchor": "Modelos de grande porte (80W a 200W RMS)",
-            "query_en": "large jbl boombox party speaker outdoor"
+            "anchor": "Se a Alexa toca áudio no alto-falante errado",
+            "query_en": "Amazon Echo Show smart display home"
+          },
+          {
+            "anchor": "Dicas para resolver falhas e lentidão",
+            "query_en": "Amazon Echo mute button red light"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c72c4252-fb34-4a94-90b2-55826ffb2f3b",
+      "title": "Por que existem locais borrados no Google Maps e como esconder sua casa",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "why are locations blurred on google maps street view",
+        "images": [
+          {
+            "anchor": "Motivos para o mascaramento de locais no Street View",
+            "query_en": "Google Maps Street View blurred location building"
+          },
+          {
+            "anchor": "Como solicitar ao Google o mascaramento da sua residência",
+            "query_en": "Google Maps report a problem interface screen"
+          },
+          {
+            "anchor": "Consequências e a irreversibilidade da medida",
+            "query_en": "blurred house on Google Maps Street View"
+          },
+          {
+            "anchor": "Como funciona a ocultação em outros serviços de mapeamento",
+            "query_en": "Apple Maps app interface on iPhone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d31b5d37-d5d4-4365-aad3-5e9adde61ca4",
+      "title": "Conheça o Auto Blocker: o recurso oculto dos celulares Samsung Galaxy que protege contra aplicativos maliciosos",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung Auto Blocker feature overview and guide",
+        "images": [
+          {
+            "anchor": "O o Samsung Auto Blocker e quais são suas funções?",
+            "query_en": "Samsung Galaxy security settings screen"
+          },
+          {
+            "anchor": "- Bloqueio de aplicativos de administração de dispositivos e perfis de trabalho",
+            "query_en": "Samsung smartphone security options menu"
+          },
+          {
+            "anchor": "Histórico e controle: como ativar e desativar o recurso",
+            "query_en": "Samsung One UI settings interface"
+          },
+          {
+            "anchor": "Você deve manter o Auto Blocker ativado?",
+            "query_en": "Samsung Galaxy phone safety and protection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e1c7a71-78d7-48e1-9f5e-6a4e036eb51e",
+      "title": "Novo portátil RG DDS da Anbernic custa quase o dobro do Nintendo 3DS original",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anbernic RG DDS handheld review gameplay",
+        "images": [
+          {
+            "anchor": "Especificações técnicas e desempenho",
+            "query_en": "Snapdragon G2 Gen 2 processor chip"
+          },
+          {
+            "anchor": "Sistema operacional e recursos modernos",
+            "query_en": "Android 16 interface operating system"
+          },
+          {
+            "anchor": "Inteligência artificial e disponibilidade",
+            "query_en": "Anbernic RG DDS handheld clamshell colors"
           }
         ]
       }
