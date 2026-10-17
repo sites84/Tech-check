@@ -1,840 +1,763 @@
 {
-  "updated_at": "2026-10-16T23:44:50.276Z",
+  "updated_at": "2026-10-17T04:37:11.487Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "e8bae97f-248d-4d4a-aba2-092e23437456",
-      "title": "Sumitomo e Hankyu testam sistema ferroviário econômico nas Filipinas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sumitomo Hankyu Philippine railway power saving test",
-        "images": [
-          {
-            "anchor": "O projeto piloto na linha LRT-1",
-            "query_en": "Manila LRT-1 railway line train station"
-          },
-          {
-            "anchor": "Impacto na economia de energia",
-            "query_en": "energy saving power equipment electrical substation"
-          },
-          {
-            "anchor": "Colaboração entre gigantes japonesas",
-            "query_en": "Sumitomo Corporation Tokyo office building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "51e0615e-6984-4405-a738-ecaee9118529",
-      "title": "Mr. Abe: Stephen Schwarzman (16)",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "2591d237-4710-4279-876b-e841cc7c6dba",
-      "title": "Intel garante que Casa Branca não vai interferir em seu negócio de semicondutores",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Intel semiconductor business White House stake Trump administration",
-        "images": [
-          {
-            "anchor": "O cenário de investimentos na Intel",
-            "query_en": "Intel headquarters building sign semiconductor"
-          },
-          {
-            "anchor": "A avaliação sobre a concorrência global",
-            "query_en": "Advanced semiconductor chip manufacturing cleanroom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c3ac967c-d830-4bef-8362-fd378a82750e",
-      "title": "Conjunto de keycaps ROG em miniatura chega a Akihabara por cerca de 27.500 ienes",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASUS ROG miniature keycaps Akihabara",
-        "images": [
-          {
-            "anchor": "Detalhes da coleção ROG em miniatura",
-            "query_en": "ASUS ROG miniature keycap set"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7806aff9-7c9c-4129-8913-838c87530b7d",
-      "title": "Japão é o destino gastronômico mais importante do mundo, aponta executivo da Trip.com",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Trip.com gourmet travel Japan restaurant ranking",
-        "images": [
-          {
-            "anchor": "O sucesso do Trip.Gourmet e a força do Japão",
-            "query_en": "Japanese gourmet food sushi restaurant Tokyo"
-          },
-          {
-            "anchor": "Estratégia de mercado e a entrada no setor",
-            "query_en": "Trip.com travel booking app interface mobile"
-          },
-          {
-            "anchor": "O impacto no turismo receptivo",
-            "query_en": "foreign tourists in Tokyo street Japan travel"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ee1d877d-cff2-45d6-81d4-e7719f329220",
-      "title": "A confusão continua: por que o padrão USB4 e os nomes como Gen 2 ainda intrigam os usuários",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "USB4 naming confusion explained",
-        "images": [
-          {
-            "anchor": "A promessa de universalidade e a realidade atual",
-            "query_en": "universal serial bus cables and ports"
-          },
-          {
-            "anchor": "O problema persistente com o USB4 e Gen 2",
-            "query_en": "USB4 type c cable connector"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6804bcc6-d91b-4037-8887-f68823d90b52",
-      "title": "Aplicativo MapQuest agora mostra a localização de leitores de placas de automóveis",
+      "id": "ef2b4bd2-ca9d-4060-ba68-083db4b2fe4b",
+      "title": "Prisão de jornalista japonês na Rússia gera especulações sobre possível troca de prisioneiros",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "MapQuest app license plate readers surveillance layer",
+        "video_query_en": "Russia Japan prisoner swap journalist detention",
         "images": [
           {
-            "anchor": "Fabricantes e abrangência do recurso",
-            "query_en": "Flock Safety automatic license plate reader camera on pole"
+            "anchor": "A detenção do repórter japonês",
+            "query_en": "Japan news media reporter press"
           },
           {
-            "anchor": "- Flock Safety",
-            "query_en": "Flock Safety surveillance camera"
-          },
-          {
-            "anchor": "- Motorola Solutions (Vigilant)",
-            "query_en": "Motorola Solutions Vigilant license plate reader camera"
-          },
-          {
-            "anchor": "- Genetec",
-            "query_en": "Genetec license plate recognition camera"
-          },
-          {
-            "anchor": "O contexto recente do MapQuest",
-            "query_en": "MapQuest navigation app interface on smartphone"
-          },
-          {
-            "anchor": "Polêmica e preocupações com a vigilância em massa",
-            "query_en": "Automated license plate reader traffic surveillance camera US"
-          },
-          {
-            "anchor": "Testando a novidade na prática",
-            "query_en": "MapQuest app map view surveillance option"
+            "anchor": "O caso do hacker russo e a Alemanha",
+            "query_en": "Cybersecurity hacking server computer"
           }
         ]
       }
     },
     {
-      "id": "85157872-f121-40ad-a6c9-a447db6730e9",
-      "title": "Nicolas Cage and Antonio Banderas to star in True Detective season 5",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "f90c6a6e-b357-4ea4-9786-c82b0e9a3b75",
-      "title": "Jogadores de Diablo 4 passam semanas procurando armadura perdida que estava oculta na nova atualização",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Diablo 4 Bovine armor set cow gloves patch",
-        "images": [
-          {
-            "anchor": "O mistério das luvas bovinas",
-            "query_en": "Diablo 4 Old Tristram cathedral"
-          },
-          {
-            "anchor": "O segredo revelado na atualização",
-            "query_en": "Diablo 4 cow level armor set"
-          },
-          {
-            "anchor": "Repercussão e opiniões da comunidade",
-            "query_en": "Diablo 4 character transmog armor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b0af60bb-5914-4c8d-b161-a22912569bf8",
-      "title": "Para ex-escritor da Valve, a visão de Gabe Newell para o Steam é surpreendente: \"É um MMO\"",
+      "id": "a5fb24e4-0a26-4d2a-ab5b-d113498b7228",
+      "title": "EUA realizam novas conversas secretas com governantes militares de Mianmar em Tóquio, dizem fontes",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chet Faliszek Valve Steam MMO Epic Games Store",
+        "video_query_en": "US Myanmar secret talks Tokyo",
         "images": [
           {
-            "anchor": "A Estrela Poliniana do Steam",
-            "query_en": "Steam store interface profile levels"
+            "anchor": "Reaproximação diplomática em Tóquio",
+            "query_en": "Tokyo cityscape government buildings"
           },
           {
-            "anchor": "Ferramentas de autoexpressão e comunidade",
-            "query_en": "Steam trading cards community market"
+            "anchor": "Objetivos e temas das negociações",
+            "query_en": "US diplomacy meetings negotiations"
           },
           {
-            "anchor": "Críticas à moderação e comparação com a Epic",
-            "query_en": "Epic Games Store launcher interface"
+            "anchor": "Detalhes do encontro recente",
+            "query_en": "Tokyo Japan diplomacy conference"
           }
         ]
       }
     },
     {
-      "id": "202850b2-9fa6-45ff-b09b-20e994850aa0",
-      "title": "Smart TV Toshiba de 75 polegadas com Mini-LED atinge menor preço histórico na Amazon",
+      "id": "288d1b58-7862-4888-a19a-b29923cd772d",
+      "title": "Primeira-ministra do Japão relata rotina exaustiva com maquiagem e tarefas domésticas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sanae Takaichi makeup and chores parliament Japan",
+        "images": [
+          {
+            "anchor": "O debate no parlamento japonês",
+            "query_en": "Japan parliament building Tokyo"
+          },
+          {
+            "anchor": "A carga horária invisível",
+            "query_en": "Sanae Takaichi speaking at podium"
+          },
+          {
+            "anchor": "Repercussão e reflexão política",
+            "query_en": "Japanese female politician speaking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a85e553-9af9-48ae-b17e-1d8545f1e389",
+      "title": "Ataques cibernéticos continuam ameaçando o Japão com novas revelações de vazamentos de dados",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan cyberattacks data breaches corporate security",
+        "images": [
+          {
+            "anchor": "O cenário de ameaças cibernéticas no Japão",
+            "query_en": "Cybersecurity defense operations center screens"
+          },
+          {
+            "anchor": "A resposta das empresas e o impacto nos consumidores",
+            "query_en": "Corporate data breach notification announcement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "26f7a6b3-bb02-4637-8a85-62077bd25ca0",
+      "title": "Nova porta-voz da Casa Branca é demitida após menos de uma semana no cargo",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "White House press secretary Katie Zacharia ousted Donald Trump",
+        "images": [
+          {
+            "anchor": "A saída relâmpago de Katie Zacharia",
+            "query_en": "White House press briefing room Washington"
+          },
+          {
+            "anchor": "Motivos da demissão e polêmicas",
+            "query_en": "Donald Trump press conference White House"
+          },
+          {
+            "anchor": "Acusações de ter fingido ser advogada antes de assumir o posto na Casa Branca.",
+            "query_en": "White House seal podium"
+          },
+          {
+            "anchor": "Realização de uma única coletiva de imprensa, que foi alvo de piadas e forte escrutínio público.",
+            "query_en": "White House reporters press briefing"
+          },
+          {
+            "anchor": "Acúmulo de distrações políticas para a administração do presidente Donald Trump em um momento delicado.",
+            "query_en": "West Wing White House exterior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "005d0a6f-584d-4c5a-81e3-767ee89a3d08",
+      "title": "Sudeste Asiático está no fogo cruzado entre blocos de inteligência artificial dos EUA e da China",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US China AI rivalry Southeast Asia technology blocs",
+        "images": [
+          {
+            "anchor": "O dilema estratégico das nações asiáticas",
+            "query_en": "Southeast Asia technology landscape and digital infrastructure"
+          },
+          {
+            "anchor": "Impactos na segurança e nas atividades empresariais",
+            "query_en": "business executives meeting in Singapore technology strategy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e0af2b5-aadb-480e-916b-32f69a82b9d0",
+      "title": "A repressão em Délhi fomenta a geração Z na defesa da democracia indiana",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "India youth protests New Delhi Modi government",
+        "images": [
+          {
+            "anchor": "O contexto dos protestos em Nova Délhi",
+            "query_en": "New Delhi protest Indian security personnel"
+          },
+          {
+            "anchor": "A mobilização e o papel da Geração Z",
+            "query_en": "Gen Z protesters India demonstration"
+          },
+          {
+            "anchor": "Enfrentamento direto: jovens ativistas saem às ruas para cobrar transparência e responsabilidade de órgãos governamentais.",
+            "query_en": "young Indian activists street protest"
+          },
+          {
+            "anchor": "Demissões exigidas: protestos focam diretamente figuras de alto escalão, como o chefe da comissão eleitoral.",
+            "query_en": "Election Commission of India building New Delhi"
+          },
+          {
+            "anchor": "Pressão governamental: reações e detenções policiais colocam o governo de Modi sob forte escrutínio público e internacional.",
+            "query_en": "Narendra Modi government protest police crackdown"
+          }
+        ]
+      }
+    },
+    {
+      "id": "782df7ea-5f21-4976-9be5-dfcfb8e869ff",
+      "title": "Da Inteligência Artificial à Super Inteligência: A nova agenda dos EUA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Donald Trump White House tech leaders Super Intelligence AI Accord",
+        "images": [
+          {
+            "anchor": "O Acordo da Casa Branca sobre Super Inteligência",
+            "query_en": "White House East Room tech leaders meeting Donald Trump"
+          },
+          {
+            "anchor": "A Força-Tarefa e o Papel do Governo",
+            "query_en": "US government technology regulation meeting Washington"
+          },
+          {
+            "anchor": "Desdobramentos globais e estratégias nacionais",
+            "query_en": "artificial intelligence global tech race United States"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5454f7d3-26d7-43dd-9c71-63dd876df192",
+      "title": "‘Safe landing’ a revamped Tesla Roadster | Explained",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Automóveis"
+    },
+    {
+      "id": "05f946d8-56c1-405c-9a53-7a50a6529020",
+      "title": "TECO visa crescimento em data centers de IA com armazenamento de energia e transformadores",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "TECO Electric and Machinery Energy Taiwan data center energy storage",
+        "images": [
+          {
+            "anchor": "Foco em Data Centers de Inteligência Artificial",
+            "query_en": "AI data center infrastructure electricity"
+          },
+          {
+            "anchor": "Soluções em Armazenamento e Transformadores",
+            "query_en": "power transformer energy storage system electrical equipment"
+          },
+          {
+            "anchor": "Estratégia do Grupo de Energia",
+            "query_en": "Energy Taiwan exhibition booth smart grid"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3fef3bb4-f855-4234-83d0-d3ddd5a082b1",
+      "title": "Tesla Roadster usa tecnologia de foguetes da SpaceX como produto de destaque para o império de IA física de Elon Musk",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tesla Roadster SpaceX rocket technology reveal McGregor Texas",
+        "images": [
+          {
+            "anchor": "A fusão entre Tesla e SpaceX",
+            "query_en": "Tesla Roadster next-generation vehicle"
+          },
+          {
+            "anchor": "O evento em McGregor",
+            "query_en": "SpaceX McGregor Texas test site"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10afa64f-ddd4-4563-a6d6-5a0e4a459e28",
+      "title": "Expansão de US$ 5,1 bilhões da Samsung Electro-Mechanics enfrenta gargalos no fornecimento de equipamentos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung Electro Mechanics semiconductor substrate production expansion AI servers",
+        "images": [
+          {
+            "anchor": "Posicionamento oficial e cronograma",
+            "query_en": "Samsung Electro-Mechanics headquarters building Seoul"
+          },
+          {
+            "anchor": "O mercado de servidores de IA",
+            "query_en": "AI server semiconductor chips manufacturing cleanroom"
+          },
+          {
+            "anchor": "Substratos de semicondutores",
+            "query_en": "advanced semiconductor substrate electronics manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f205a59-3679-4627-bccd-f4d0dd8b5446",
+      "title": "A investida da XPeng em Paris e a exportação de engenharia de IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "XPeng Paris Automotive Summit EV technology AI engineering",
+        "images": [
+          {
+            "anchor": "A expansão tecnológica em Paris",
+            "query_en": "XPeng electric vehicle Paris Automotive Summit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b882bfb-59b2-4e5e-9240-8a2ab732110e",
+      "title": "Taiwan Mask adquire TCK por US$ 4,75 milhões para focar na expansão de chips em Kyushu, no Japão",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Taiwan Mask TCK acquisition Kyushu semiconductor market",
+        "images": [
+          {
+            "anchor": "O contexto do polo de Kyushu",
+            "query_en": "Kyushu semiconductor manufacturing plant Japan"
+          },
+          {
+            "anchor": "Detalhes da transação e serviços envolvidos",
+            "query_en": "semiconductor equipment assembly engineering"
+          },
+          {
+            "anchor": "Valor da aquisição: US$ 4,75 milhões investidos pela Taiwan Mask Corporation.",
+            "query_en": "Taiwan Mask Corporation facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d855d3ae-b8a5-44bc-9095-2d727f5f2fcf",
+      "title": "CATL busca 70 GWh em pedidos de baterias de íon de sódio com avanço na Europa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "CATL sodium ion battery energy storage Europe",
+        "images": [
+          {
+            "anchor": "A aposta da CATL na tecnologia de íon de sódio na Europa",
+            "query_en": "CATL battery facility manufacturing"
+          },
+          {
+            "anchor": "Acordo estratégico e metas de expansão",
+            "query_en": "Energy storage system battery containers"
+          },
+          {
+            "anchor": "O impacto no mercado de armazenamento",
+            "query_en": "Sodium ion battery technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e9dd4226-f8b7-4d16-8956-8ee12bfe79c6",
+      "title": "E Ink Kaleido 4 dobra a gama de cores e aumenta o contraste em 50%",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "E Ink Kaleido 4 color e-paper display technology",
+        "images": [
+          {
+            "anchor": "O lançamento da nova tecnologia",
+            "query_en": "E Ink Holdings e-paper display technology"
+          },
+          {
+            "anchor": "Adoção pioneira pela Hanvon",
+            "query_en": "Hanvon smart e-paper notebook"
+          },
+          {
+            "anchor": "Evoluções técnicas do Kaleido 4",
+            "query_en": "E Ink color e-paper screen close up"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bffb74b3-8686-4213-b71e-461eed0e52c6",
+      "title": "Vazamento de Dados na BASE Afeta Cerca de 23,35 Milhões de Usuários com Exposição de Cartões de Crédito",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "data breach cybersecurity e-commerce security",
+        "images": [
+          {
+            "anchor": "Detalhes do Volume de Dados Vazados",
+            "query_en": "credit card security data breach concept"
+          },
+          {
+            "anchor": "Impacto e Repercussão no Setor",
+            "query_en": "cybersecurity warning data protection"
+          },
+          {
+            "anchor": "Medidas e Recomendações",
+            "query_en": "online banking security audit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99f2e0e5-3155-40b3-9652-96063aafc430",
+      "title": "3COINS lança bolsa anti-skimming por 1.100 ienes para proteger passaportes e cartões contra leitura de dados",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Toshiba Z670 Mini LED TV review",
+        "video_query_en": "3COINS anti skimming pouch review",
         "images": [
           {
-            "anchor": "Desconto histórico e valores da promoção",
-            "query_en": "Toshiba 75 inch TV living room"
+            "anchor": "Proteção contra leitura clandestina de dados",
+            "query_en": "anti skimming passport holder pouch"
           },
           {
-            "anchor": "Qualidade de imagem e recursos de áudio",
-            "query_en": "Toshiba Mini LED QLED TV display"
+            "anchor": "Design prático e organização interna",
+            "query_en": "small crossbody bag organized pockets"
           },
           {
-            "anchor": "Desempenho voltado para jogos de nova geração",
-            "query_en": "PS5 gaming on large 4K TV"
-          },
-          {
-            "anchor": "Plataforma Smart e integração com assistentes",
-            "query_en": "Fire TV smart interface remote"
+            "anchor": "Versatilidade de uso com alça ajustável",
+            "query_en": "adjustable strap neck pouch crossbody"
           }
         ]
       }
     },
     {
-      "id": "1e12e22a-336c-4ad1-bf53-217d353624a3",
-      "title": "Tudo sobre \"You Can See Everything\": Explicando o documentário de Nathan Fielder sobre Elizabeth Holmes",
-      "category": "Filmes, Séries e Animações",
+      "id": "1bee5af5-82d0-4fd1-b5b1-2874e398bc14",
+      "title": "Alguns iPhones conseguem silenciar o som da câmera frontal no iOS 27?",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "You Can See Everything Nathan Fielder documentary trailer",
+        "video_query_en": "iOS 27 iPhone camera shutter sound",
         "images": [
           {
-            "anchor": "Uma proposta real e inusitada",
-            "query_en": "Nathan Fielder documentary"
+            "anchor": "Como o fenômeno foi descoberto no iOS 27",
+            "query_en": "iPhone running iOS 27 front camera interface"
           },
           {
-            "anchor": "Polêmicas e momentos marcantes",
-            "query_en": "Elizabeth Holmes documentary You Can See Everything"
-          },
-          {
-            "anchor": "A atuação de Nathan Fielder",
-            "query_en": "Nathan Fielder You Can See Everything"
-          },
-          {
-            "anchor": "O envolvimento de Amanda Seyfried",
-            "query_en": "Amanda Seyfried The Dropout"
-          },
-          {
-            "anchor": "O final e a linha do tempo",
-            "query_en": "New York Film Festival You Can See Everything"
-          },
-          {
-            "anchor": "A grande questão: quem está mentindo?",
-            "query_en": "Elizabeth Holmes Nathan Fielder"
+            "anchor": "Atenção aos detalhes e avisos importantes",
+            "query_en": "Apple iPhone settings app display"
           }
         ]
       }
     },
     {
-      "id": "7d51fa9c-2f66-4d14-9db5-954e056f65c0",
-      "title": "A segurança de data centers é um problema real também para os Estados Unidos",
+      "id": "1bfb92f5-fa36-4def-8db3-3d4367ee3aa0",
+      "title": "Plataforma de viagens skyticket sofre vazamento de dados de cartões de crédito e corrige aviso inicial",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "data center security cybersecurity threats warfare",
+        "video_query_en": "skyticket data breach credit card leak",
         "images": [
           {
-            "anchor": "A importância crítica dos dados modernos",
-            "query_en": "modern data center servers interior"
+            "anchor": "A retificação do aviso inicial sobre os cartões",
+            "query_en": "cybersecurity warning data breach alert screen"
           },
           {
-            "anchor": "As três principais ameaças aos data centers americanos",
-            "query_en": "data center exterior security fence"
+            "anchor": "Extensão do impacto e números da falha",
+            "query_en": "credit card security online transaction fraud protection"
           },
           {
-            "anchor": "Vulnerabilidades e o desafio do fator humano",
-            "query_en": "cybersecurity expert working on computers"
+            "anchor": "O contexto de incidentes de dados no setor",
+            "query_en": "cyber security server room digital data protection"
           },
           {
-            "anchor": "A escala proporcionada pela inteligência artificial",
-            "query_en": "artificial intelligence cyber attack concept screen"
+            "anchor": "Próximos passos para os usuários afetados",
+            "query_en": "online banking security mobile app fraud alert"
           }
         ]
       }
     },
     {
-      "id": "f61e813b-edad-45a2-a12c-b08b67d53236",
-      "title": "Todos os 13 pontos de vista de Threshing Day classificados do pior para o melhor",
-      "category": "Filmes, Séries e Animações",
+      "id": "2ce8bc22-652b-455d-bb24-7b249abc5a8b",
+      "title": "Notebooks com Ryzen AI e telas de alta taxa de atualização entram em promoção na Amazon",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Fourth Wing Empyrean series Threshing Day Rebecca Yarros book discussion",
+        "video_query_en": "Amazon Prime Kanshasai laptop deals Ryzen AI",
         "images": [
           {
-            "anchor": "A complexidade de classificar as perspectivas",
-            "query_en": "Rebecca Yarros Fourth Wing Empyrean book covers and characters"
+            "anchor": "Mouse Computer mouse B5-A7A01SR",
+            "query_en": "Mouse Computer laptop B5"
           },
           {
-            "anchor": "13 a 10: As histórias iniciais do ranking",
-            "query_en": "Fantasy dragon artwork riders training academy"
+            "anchor": "Acer Swift Go 14 AI",
+            "query_en": "Acer Swift Go 14 AI OLED laptop"
           },
           {
-            "anchor": "Mira Sorrengail",
-            "query_en": "Green dragon fantasy creature concept art"
+            "anchor": "ASUS Vivobook 16 X1607CA",
+            "query_en": "ASUS Vivobook 16 laptop"
           },
           {
-            "anchor": "Garrick Tavis",
-            "query_en": "Brown scorpiontail dragon fantasy illustration"
+            "anchor": "ASUS Vivobook S16 M3607KA",
+            "query_en": "ASUS Vivobook S16 OLED"
           },
           {
-            "anchor": "Bodhi Durran",
-            "query_en": "Green swordtail dragon fantasy artwork"
-          },
-          {
-            "anchor": "Ridoc Gamlyn",
-            "query_en": "Fantasy cadet warrior preparing for battle"
-          },
-          {
-            "anchor": "9 a 6: Desenvolvimento de liderança e conflitos políticos",
-            "query_en": "Fantasy castle military academy training grounds"
-          },
-          {
-            "anchor": "Rhiannon Matthias",
-            "query_en": "Female fantasy warrior with sword and shield"
-          },
-          {
-            "anchor": "Dain Aetos",
-            "query_en": "Red swordtail dragon fantasy art"
-          },
-          {
-            "anchor": "Sawyer Henrick",
-            "query_en": "Determined fantasy cadet in training armor"
-          },
-          {
-            "anchor": "Aaric Graycastle",
-            "query_en": "Blue clubtail dragon fantasy illustration"
-          },
-          {
-            "anchor": "5 a 4: Carga emocional e laços profundos",
-            "query_en": "Emotional fantasy book characters moments"
-          },
-          {
-            "anchor": "Liam Mairi",
-            "query_en": "Red daggertail dragon fantasy art"
-          },
-          {
-            "anchor": "Xaden Riorson",
-            "query_en": "Blue daggertail dragon fantasy illustration"
+            "anchor": "Acer Aspire Spin 14",
+            "query_en": "Acer Aspire Spin 14 touchscreen laptop"
           }
         ]
       }
     },
     {
-      "id": "512b41bb-a1c9-4a48-b1f3-8d07ce5115b0",
-      "title": "A.I. Inteligência Artificial: O clássico de Steven Spielberg e Stanley Kubrick retorna ao streaming",
-      "category": "Filmes, Séries e Animações",
+      "id": "3bb740a7-6d67-45c8-8e57-4e3d1ee5bc13",
+      "title": "Amazon oferece descontos expressivos em estações de energia portátil e geradores solares",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AI Artificial Intelligence 2001 trailer Spielberg Kubrick",
+        "video_query_en": "Jackery Solar Generator 1000 New review and test",
         "images": [
           {
-            "anchor": "Uma releitura sombria e ambiciosa de Pinóquio",
-            "query_en": "Haley Joel Osment David AI Artificial Intelligence movie"
+            "anchor": "Jackery Solar Generator 1000 New 100W",
+            "query_en": "Jackery Solar Generator 1000 New solar panel"
           },
           {
-            "anchor": "David",
-            "query_en": "Haley Joel Osment as David AI Artificial Intelligence"
+            "anchor": "Anker Solix C1000 Gen 2 e C2000 Gen 2",
+            "query_en": "Anker Solix portable power station"
           },
           {
-            "anchor": "Professor Hobby",
-            "query_en": "William Hurt Professor Hobby AI Artificial Intelligence"
-          },
-          {
-            "anchor": "Monica Swinton",
-            "query_en": "Frances O Connor Monica Swinton AI Artificial Intelligence"
-          },
-          {
-            "anchor": "Gigolo Joe",
-            "query_en": "Jude Law Gigolo Joe AI Artificial Intelligence"
-          },
-          {
-            "anchor": "O envelhecimento da obra e sua relevância contemporânea",
-            "query_en": "AI Artificial Intelligence flooded Manhattan scene"
+            "anchor": "Dabbsson 600L e 2000L com baterias semi-sólidas",
+            "query_en": "Dabbsson portable power station battery"
           }
         ]
       }
     },
     {
-      "id": "6befa692-6832-4b6a-a3cc-a47cdfe7e160",
-      "title": "A evolução do rosto de Jason Voorhees em Sexta-Feira 13 sem a máscara",
-      "category": "Filmes, Séries e Animações",
+      "id": "1a22a488-c881-45cb-98d2-7e4533e1a0a7",
+      "title": "Memória DDR5 de 32 GB da CFD com quase 20 mil ienes de desconto na Amazon",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Friday the 13th every unmasked Jason Voorhees evolution",
+        "video_query_en": "CFD DDR5 32GB memory review Amazon Prime Kanshasai sale",
         "images": [
           {
-            "anchor": "1. O Jason Precursor em Sexta-Feira 13 Parte 2 (1981)",
-            "query_en": "Friday the 13th Part 2 unmasked Jason Voorhees sack"
+            "anchor": "Oferta em destaque na Amazon",
+            "query_en": "Amazon Japan Prime sale computer hardware packaging"
           },
           {
-            "anchor": "2. O Proto-Jason em Sexta-Feira 13 Parte 3 (1982)",
-            "query_en": "Friday the 13th Part 3 Jason Voorhees hockey mask"
+            "anchor": "Modelo: W5U5600CS-16GC46F",
+            "query_en": "CFD DDR5 RAM memory module sticks"
           },
           {
-            "anchor": "3. O Jason Definitivo em Sexta-Feira 13 Parte IV: O Capítulo Final (1984)",
-            "query_en": "Friday the 13th Part 4 unmasked Jason Voorhees"
-          },
-          {
-            "anchor": "4. O Falso Jason em Sexta-Feira 13 Parte V: Um Novo Começo (1985)",
-            "query_en": "Friday the 13th Part 5 Roy Burns unmasked"
-          },
-          {
-            "anchor": "5. O Jason Ressuscitado em Sexta-Feira 13 Parte VI: Jason Vive (1986)",
-            "query_en": "Friday the 13th Part 6 Jason Lives undead"
-          },
-          {
-            "anchor": "6. O Jason Zumbi em Sexta-Feira 13 Parte VII: A Matança Continua (1987)",
-            "query_en": "Friday the 13th Part 7 The New Blood unmasked Jason"
-          },
-          {
-            "anchor": "7. O Jason Escorregadio em Sexta-Feira 13 Parte VIII: Jason Ataque Nova York (1988)",
-            "query_en": "Friday the 13th Part 8 Jason Takes Manhattan unmasked"
-          },
-          {
-            "anchor": "8. O Jason Descongelado em Jason X (2001)",
-            "query_en": "Jason X unmasked Jason face autopsy"
-          },
-          {
-            "anchor": "9. O Jason de Volta às Origens no Reboot de 2009",
-            "query_en": "Friday the 13th 2009 reboot Jason Voorhees"
-          },
-          {
-            "anchor": "O Debate sobre o Melhor Visual Sem Máscara",
-            "query_en": "Kane Hodder Jason Voorhees unmasked face"
-          },
-          {
-            "anchor": "O Futuro da Franquia na Televisão e no Cinema",
-            "query_en": "Crystal Lake series Peacock Friday the 13th"
+            "anchor": "Desempenho e disponibilidade",
+            "query_en": "Modern computer motherboard with DDR5 RAM installed"
           }
         ]
       }
     },
     {
-      "id": "85b687b2-122f-4c8a-a2b3-c3309accea11",
-      "title": "Os 9 Melhores Animes Shōnen de Todos os Tempos Eleitos por Leitores",
+      "id": "654741fa-ffdc-4b28-8546-da4f8bd570e3",
+      "title": "Ergotron LX Pro e LX ganham descontos na Amazon durante o Prime Appreciation Festival",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ergotron LX Pro monitor arm review",
+        "images": [
+          {
+            "anchor": "Oferta do suporte LX Pro Monitor Arm",
+            "query_en": "Ergotron LX Pro monitor arm black"
+          },
+          {
+            "anchor": "LX Pro Preto",
+            "query_en": "Ergotron LX Pro black monitor mount"
+          },
+          {
+            "anchor": "LX Pro Alumínio",
+            "query_en": "Ergotron LX Pro aluminum monitor arm"
+          },
+          {
+            "anchor": "LX Pro Cinza",
+            "query_en": "Ergotron LX Pro gray monitor stand"
+          },
+          {
+            "anchor": "LX Pro Branco",
+            "query_en": "Ergotron LX Pro white monitor arm"
+          },
+          {
+            "anchor": "Promoção do modelo tradicional LX Monitor Arm",
+            "query_en": "Ergotron LX monitor arm"
+          },
+          {
+            "anchor": "LX Preto",
+            "query_en": "Ergotron LX black desk mount"
+          },
+          {
+            "anchor": "LX Branco",
+            "query_en": "Ergotron LX white monitor arm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "27c9cb84-b259-4100-843b-84abd025f9f1",
+      "title": "Amazon oferece descontos expressivos em leitores Kindle durante a Prime Kanshasai",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Kindle Scribe Colorsoft review and features",
+        "images": [
+          {
+            "anchor": "Kindle Scribe Colorsoft com grande desconto",
+            "query_en": "Amazon Kindle Scribe Colorsoft device"
+          },
+          {
+            "anchor": "Outros modelos da linha Kindle em promoção",
+            "query_en": "Amazon Kindle lineup e-reader"
+          },
+          {
+            "anchor": "Kindle Scribe Colorsoft 32GB por 84.980 ienes com desconto de 22.000 ienes",
+            "query_en": "Kindle Scribe Colorsoft 32GB"
+          },
+          {
+            "anchor": "Kindle Scribe Colorsoft 64GB por 93.980 ienes com desconto de 22.000 ienes",
+            "query_en": "Kindle Scribe Colorsoft 64GB"
+          },
+          {
+            "anchor": "Kindle Colorsoft de 7 polegadas com 16 GB por 29.980 ienes após desconto de 10.000 ienes",
+            "query_en": "Kindle Colorsoft 7 inch"
+          },
+          {
+            "anchor": "Kindle tradicional de 6 polegadas por 16.980 ienes com abatimento de 3.000 ienes",
+            "query_en": "Amazon Kindle 6 inch e-reader"
+          },
+          {
+            "anchor": "Kindle Scribe original de 11 polegadas com funções de anotação por 69.980 ienes após desconto de 20.000 ienes",
+            "query_en": "Amazon Kindle Scribe 11 inch"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db2aee66-bd1e-42de-87b8-d385e8d8c124",
+      "title": "The Wolf Among Us Remastered é adiado para o Nintendo Switch",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best shonen anime of all time screenrant readers poll",
+        "video_query_en": "The Wolf Among Us Remastered trailer gameplay",
         "images": [
           {
-            "anchor": "My Hero Academia",
-            "query_en": "My Hero Academia anime Izuku Midoriya Deku"
+            "anchor": "O anúncio do adiamento para o console da Nintendo",
+            "query_en": "Telltale Games logo studio"
           },
           {
-            "anchor": "Demon Slayer",
-            "query_en": "Demon Slayer anime Tanjiro Kamado"
+            "anchor": "Lançamento mantido nas demais plataformas",
+            "query_en": "The Wolf Among Us Sheriff Bigby Wolf"
           },
           {
-            "anchor": "Jujutsu Kaisen",
-            "query_en": "Jujutsu Kaisen anime Yuji Itadori Satoru Gojo"
-          },
-          {
-            "anchor": "JoJo's Bizarre Adventure",
-            "query_en": "JoJos Bizarre Adventure Jotaro Kujo"
-          },
-          {
-            "anchor": "Yu Yu Hakusho",
-            "query_en": "Yu Yu Hakusho anime Yusuke Urameshi"
-          },
-          {
-            "anchor": "Attack on Titan",
-            "query_en": "Attack on Titan anime Eren Yeager"
-          },
-          {
-            "anchor": "One Piece",
-            "query_en": "One Piece anime Monkey D Luffy"
-          },
-          {
-            "anchor": "Dragon Ball",
-            "query_en": "Dragon Ball anime Goku Super Saiyan"
-          },
-          {
-            "anchor": "Naruto",
-            "query_en": "Naruto anime Naruto Uzumaki"
+            "anchor": "O compromisso com a qualidade",
+            "query_en": "Nintendo Switch console handheld"
           }
         ]
       }
     },
     {
-      "id": "56c0a849-45a7-4aca-864d-abca68e3b969",
-      "title": "Por que adaptar Fallout para a TV foi um desafio muito maior do que The Last of Us",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Fallout Prime Video TV show analysis adaptation",
-        "images": [
-          {
-            "anchor": "O desafio de adaptar franquias dos videogames",
-            "query_en": "Fallout TV show post apocalyptic wasteland Amazon Prime"
-          },
-          {
-            "anchor": "As vantagens narrativas de The Last of Us",
-            "query_en": "The Last of Us TV show HBO Ellie and Joel"
-          },
-          {
-            "anchor": "A complexidade estrutural de Fallout",
-            "query_en": "Fallout TV show Lucy MacLean Vault Dwellers"
-          },
-          {
-            "anchor": "O sucesso do formato de coral na televisão",
-            "query_en": "Fallout series Maximus Brotherhood of Steel"
-          }
-        ]
-      }
-    },
-    {
-      "id": "806290a9-9552-41ab-81f7-76266c21fb03",
-      "title": "Quem pode viver Sagat em Street Fighter 2? Conheça 4 atores cotados para o papel",
+      "id": "3bcbc86a-7741-4276-b88e-d8fe93172fc6",
+      "title": "Presidente da Konami afirma que inteligência artificial não terá impacto significativo no desenvolvimento de jogos",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Street Fighter movie Sagat post credits scene and casting",
+        "video_query_en": "Konami president AI game development comments",
         "images": [
           {
-            "anchor": "O retorno de Sagat e o desafio da escalação",
-            "query_en": "Street Fighter movie Sagat character"
+            "anchor": "A visão de Hideki Hayakawa sobre a inteligência artificial",
+            "query_en": "Konami headquarters building Tokyo"
           },
           {
-            "anchor": "1. Alex 'Poatan' Pereira",
-            "query_en": "Alex Poatan Pereira UFC fighter"
+            "anchor": "O debate sobre a barreira de entrada",
+            "query_en": "Game developers working on computers"
           },
           {
-            "anchor": "2. Martyn Ford",
-            "query_en": "Martyn Ford actor physique"
-          },
-          {
-            "anchor": "3. Dwayne Johnson",
-            "query_en": "Dwayne The Rock Johnson Black Adam"
-          },
-          {
-            "anchor": "4. Dave Bautista",
-            "query_en": "Dave Bautista actor portrait"
+            "anchor": "Repercussão e perspectivas na indústria",
+            "query_en": "Video game development team working together"
           }
         ]
       }
     },
     {
-      "id": "bb78dbab-3f20-4a12-be73-9e4b5c7795c8",
-      "title": "Os 10 melhores jogos de terror cooperativo para jogar com amigos",
+      "id": "4dc0cb1d-1edc-4f97-9153-40fcc23ea6ed",
+      "title": "Como assistir a Strasbourg x PSG na Ligue 1 online e de graça",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Strasbourg vs PSG Ligue 1 live stream free CazéTV ExpressVPN",
+        "images": [
+          {
+            "anchor": "Quando acontece Strasbourg x PSG",
+            "query_en": "Stade de la Meinau Strasbourg stadium"
+          },
+          {
+            "anchor": "Como assistir a Strasbourg x PSG de graça",
+            "query_en": "CazéTV live stream studio"
+          },
+          {
+            "anchor": "Qual é a melhor VPN para acompanhar a Ligue 1",
+            "query_en": "ExpressVPN app running on smartphone and laptop"
+          }
+        ]
+      }
+    },
+    {
+      "id": "959dc252-647a-4073-9520-c82eeec889d3",
+      "title": "Como assistir a Real Betis x Barcelona pela La Liga de graça e de qualquer lugar",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Real Betis vs Barcelona La Liga preview live stream",
+        "images": [
+          {
+            "anchor": "Como assistir a Real Betis x Barcelona de graça",
+            "query_en": "Cazetech live stream football broadcast studio"
+          },
+          {
+            "anchor": "Melhores opções de VPN para o streaming",
+            "query_en": "ExpressVPN application running on smartphone and laptop"
+          },
+          {
+            "anchor": "- Assinar uma VPN adequada para streaming, sendo o ExpressVPN uma das principais recomendações.",
+            "query_en": "ExpressVPN logo and subscription screen"
+          },
+          {
+            "anchor": "- Baixar o aplicativo oficial da ferramenta escolhida para o dispositivo de sua preferência.",
+            "query_en": "VPN app download on smartphone screen"
+          },
+          {
+            "anchor": "- Abrir o aplicativo instalado e selecionar um servidor localizado no Brasil para estabelecer a conexão.",
+            "query_en": "VPN server list showing Brazil location"
+          },
+          {
+            "anchor": "- Acessar a plataforma da CazéTV no navegador ou aplicativo.",
+            "query_en": "Live sports streaming website on laptop"
+          },
+          {
+            "anchor": "- Assistir ao jogo entre Real Betis e Barcelona gratuitamente de qualquer lugar do mundo.",
+            "query_en": "Fans watching live football match on television"
+          },
+          {
+            "anchor": "- Servidores espalhados por 105 países, incluindo o Brasil.",
+            "query_en": "Global network map servers connection"
+          },
+          {
+            "anchor": "- Aplicativos intuitivos e fáceis de usar disponíveis nas principais plataformas, como iPhone, Android, Windows e Mac.",
+            "query_en": "Multiple devices showing mobile and desktop apps"
+          },
+          {
+            "anchor": "- Política rigorosa de não armazenamento de registros, garantindo a segurança dos dados do usuário.",
+            "query_en": "Cybersecurity digital shield data privacy"
+          },
+          {
+            "anchor": "- Velocidades de conexão elevadas e livres de limitações ou estrangulamentos.",
+            "query_en": "High speed internet connection fiber optic"
+          },
+          {
+            "anchor": "- Suporte para até 10 conexões simultâneas na mesma conta.",
+            "query_en": "Multiple connected devices smartphone laptop tablet"
+          },
+          {
+            "anchor": "- Garantia de reembolso de 30 dias para novos assinantes.",
+            "query_en": "Money back guarantee badge online service"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8ff89ad3-5906-43ad-9162-a2a74ec99a26",
+      "title": "DC Comics revela mapa oficial da nova base permanente da Supergirl",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best co op horror games to play with friends",
+        "video_query_en": "Supergirl Fortress of Solidarity DC Comics map",
         "images": [
           {
-            "anchor": "Phasmophobia",
-            "query_en": "Phasmophobia game ghost hunting equipment"
+            "anchor": "Uma estrutura gigantesca e multifuncional",
+            "query_en": "Supergirl Fortress of Solidarity crystal base map DC Comics"
           },
           {
-            "anchor": "Lethal Company",
-            "query_en": "Lethal Company game ship scrap"
+            "anchor": "Medbay",
+            "query_en": "Supergirl medical bay laboratory comics"
           },
           {
-            "anchor": "The Outlast Trials",
-            "query_en": "The Outlast Trials Murkoff Corporation gameplay"
+            "anchor": "Streaky's Tower",
+            "query_en": "Streaky the Supercat DC Comics"
           },
           {
-            "anchor": "R.E.P.O.",
-            "query_en": "REPO horror game co-op"
+            "anchor": "Astrometrics",
+            "query_en": "Supergirl astrometrics observatory space"
           },
           {
-            "anchor": "Content Warning",
-            "query_en": "Content Warning game spooktube"
-          },
-          {
-            "anchor": "Mimesis",
-            "query_en": "Mimesis horror game AI"
-          },
-          {
-            "anchor": "Sons Of The Forest",
-            "query_en": "Sons Of The Forest survival game cannibals"
-          },
-          {
-            "anchor": "Reanimal",
-            "query_en": "Reanimal game Little Nightmares creators"
-          },
-          {
-            "anchor": "Little Nightmares III",
-            "query_en": "Little Nightmares III co-op gameplay"
-          },
-          {
-            "anchor": "Resident Evil 5",
-            "query_en": "Resident Evil 5 Chris Redfield Sheva Alomar"
+            "anchor": "Novas descobertas e ameaças iminentes",
+            "query_en": "Reactron Supergirl DC Comics"
           }
         ]
       }
-    },
-    {
-      "id": "bb6c42e0-ac1e-4833-affd-314ec7b6b15a",
-      "title": "Segunda Temporada de Creature Commandos e Futuro das Animações da DC",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Peter Safran Creature Commandos season 2 DCU interview IGN",
-        "images": [
-          {
-            "anchor": "Atualizações sobre os Novos Projetos Animados da DC",
-            "query_en": "Peter Safran DC Studios interview"
-          },
-          {
-            "anchor": "O Avanço de Creature Commandos",
-            "query_en": "Creature Commandos animated series DC"
-          },
-          {
-            "anchor": "Elenco e Origens dos Personagens",
-            "query_en": "Creature Commandos cast characters"
-          },
-          {
-            "anchor": "The Bride",
-            "query_en": "The Bride Creature Commandos Indira Varma"
-          },
-          {
-            "anchor": "G.I. Robot e Weasel",
-            "query_en": "GI Robot Weasel Creature Commandos"
-          },
-          {
-            "anchor": "Doctor Phosphorus",
-            "query_en": "Doctor Phosphorus Creature Commandos Alan Tudyk"
-          },
-          {
-            "anchor": "Nina Mazursky",
-            "query_en": "Nina Mazursky Creature Commandos"
-          },
-          {
-            "anchor": "Eric Frankenstein",
-            "query_en": "Eric Frankenstein Creature Commandos David Harbour"
-          },
-          {
-            "anchor": "Rick Flag Sr.",
-            "query_en": "Rick Flag Sr Creature Commandos Frank Grillo"
-          },
-          {
-            "anchor": "Próximos Passos para o DCU",
-            "query_en": "James Gunn DCU slate animation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "16e4b1fe-a9c5-4315-93fc-42ea7d6476ab",
-      "title": "Os 3 melhores filmes para assistir no HBO Max neste fim de semana de outubro",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "HBO Max movies October 2026 trailer compilation",
-        "images": [
-          {
-            "anchor": "Supergirl (2026)",
-            "query_en": "Milly Alcock Supergirl movie 2026"
-          },
-          {
-            "anchor": "The Death of Robin Hood (2026)",
-            "query_en": "Hugh Jackman The Death of Robin Hood"
-          },
-          {
-            "anchor": "The Amateur (2025)",
-            "query_en": "Rami Malek The Amateur movie"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aac2323d-3532-4b2b-9432-f3b29e7ec700",
-      "title": "Atualização sobre A Torre Negra por Mike Flanagan anima fãs de Stephen King",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mike Flanagan The Dark Tower adaptation update Stephen King",
-        "images": [
-          {
-            "anchor": "O histórico de sucesso entre Mike Flanagan e Stephen King",
-            "query_en": "Mike Flanagan director Stephen King adaptation"
-          },
-          {
-            "anchor": "A estrutura e a ordem cronológica da adaptação",
-            "query_en": "The Dark Tower book series Stephen King"
-          },
-          {
-            "anchor": "Ordem dos livros",
-            "query_en": "The Gunslinger book cover Stephen King The Dark Tower"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b504432f-486a-4300-952b-e3ecf873e5bc",
-      "title": "Fim de semana de jogatina: descubra o que a equipe do Push Square vai jogar",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "PS Vita retro gaming classics gameplay",
-        "images": [
-          {
-            "anchor": "As escolhas da equipe para o descanso",
-            "query_en": "Control game physical disc edition"
-          },
-          {
-            "anchor": "Graham Banas",
-            "query_en": "Control game physical disc edition"
-          },
-          {
-            "anchor": "Jamie O_Neill",
-            "query_en": "PS Vita handheld console gaming"
-          },
-          {
-            "anchor": "Stephen Tailby",
-            "query_en": "Star Wars video games racing retro"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3001311a-08b5-4562-8fa6-218dbcec5541",
-      "title": "Artistas do Estúdio Húngaro DIGIC Discutem Carreiras e Próximos Projetos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "DIGIC studio animation VFX interview insights",
-        "images": [
-          {
-            "anchor": "A História e a Trajetória do Estúdio DIGIC",
-            "query_en": "DIGIC studio Budapest animation VFX office"
-          },
-          {
-            "anchor": "Carreira e Perspectivas dos Artistas",
-            "query_en": "animators working on digital VFX and 3D modeling"
-          },
-          {
-            "anchor": "O Futuro das Animações e Efeitos Visuais",
-            "query_en": "cinematic game trailer animation production process"
-          }
-        ]
-      }
-    },
-    {
-      "id": "72c6b27c-d02a-4f9b-bab2-05a56c0d62f5",
-      "title": "Análises Técnicas: Gaomon PD1561 V2, Foundry SmartRoto e Huion Kamvas Pro 24",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Gaomon PD1561 V2 Huion Kamvas Pro 24 review",
-        "images": [
-          {
-            "anchor": "Gaomon PD1561 V2",
-            "query_en": "Gaomon PD1561 V2 pen display"
-          },
-          {
-            "anchor": "Foundry SmartRoto",
-            "query_en": "Foundry SmartRoto software"
-          },
-          {
-            "anchor": "Huion Kamvas Pro 24",
-            "query_en": "Huion Kamvas Pro 24 drawing monitor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b91ef3a7-0d0e-410c-b831-f568817ff2b9",
-      "title": "Apple atualiza regras da App Store para proibir explicitamente aplicativos de IA do tipo \"nudify\"",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple App Store nudify AI apps policy update",
-        "images": [
-          {
-            "anchor": "Pressão pública e contexto regulatório",
-            "query_en": "Apple WWDC event building sign"
-          },
-          {
-            "anchor": "Novas exigências e combate a fraudes",
-            "query_en": "Apple App Store icon on iPhone screen"
-          },
-          {
-            "anchor": "Proteção contra exploração infantil e tráfico",
-            "query_en": "Smartphone security lock digital privacy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "29668c23-98aa-402e-a2a8-07f94b4369ea",
-      "title": "Replit rompe parceria com a Anthropic e migra foco para a OpenAI, aponta CEO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Replit CEO Amjad Masad TechCrunch Disrupt",
-        "images": [
-          {
-            "anchor": "## O fim da parceria com a Anthropic",
-            "query_en": "Amjad Masad Replit CEO speaking on stage"
-          },
-          {
-            "anchor": "## Motivos da migração e desempenho",
-            "query_en": "OpenAI ChatGPT coding interface screen"
-          },
-          {
-            "anchor": "## Divergências sobre a continuidade do uso",
-            "query_en": "Anthropic Claude AI logo and branding"
-          },
-          {
-            "anchor": "## Crescimento empresarial e foco em B2B",
-            "query_en": "TechCrunch Disrupt conference stage audience"
-          },
-          {
-            "anchor": "## A visão da empresa sobre segurança em IA",
-            "query_en": "AI coding agent software development dashboard"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fb8f9600-6139-4744-a763-250335f8c153",
-      "title": "Avatar: Seven Havens gifts us a perfect Halloween episode",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "61d49246-20fa-4473-b95c-95cd2dab938b",
-      "title": "Teachers are reaching their breaking point in the ChatGPT classroom",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Educação"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -891,24 +814,28 @@
       "error": "Gemini não retornou texto (sem conteúdo)."
     },
     {
-      "id": "aa8a1e8b-09a2-43b1-b0b9-94a9ae461ecf",
-      "title": "Para que servem os amplificadores e qual é a importância deles para o seu som?",
+      "id": "5f140e23-bd6d-4e40-8602-f954c22e8368",
+      "title": "Como o Mac Studio da Apple evoluiu ao longo dos anos?",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "what do sound amplifiers do sound system quality explained",
+        "video_query_en": "Apple Mac Studio evolution review M1 M2 M4 M5",
         "images": [
           {
-            "anchor": "Como os amplificadores melhoram o seu sistema de som",
-            "query_en": "home audio amplifier receiver audio system"
+            "anchor": "2022: O Mac mini que comeu o Mac Pro",
+            "query_en": "Apple Mac Studio 2022 M1 Ultra"
           },
           {
-            "anchor": "Escolhendo entre amplificadores transistorizados e valvulados",
-            "query_en": "vacuum tube audio amplifier hifi"
+            "anchor": "2023: Mesma caixa, o dobro da memória",
+            "query_en": "Apple Mac Studio 2023 M2 Ultra"
           },
           {
-            "anchor": "Alternativas mais econômicas para melhorar o som",
-            "query_en": "home theater speakers acoustic room treatment"
+            "anchor": "2025: Chips incompatíveis e um choque de preços",
+            "query_en": "Apple Mac Studio desk setup"
+          },
+          {
+            "anchor": "2026: Dois novos produtos M5",
+            "query_en": "Apple Mac Studio M5 Ultra aluminum desktop"
           }
         ]
       }
