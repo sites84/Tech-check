@@ -1,662 +1,825 @@
 {
-  "updated_at": "2026-10-16T21:19:34.367Z",
+  "updated_at": "2026-10-16T23:44:50.276Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "211a2cf8-0a89-4ab0-b121-2429335f6ac3",
-      "title": "CalPERS e outros investidores institucionais intensificam fiscalização da governança de IA",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "institutional investors scrutiny of artificial intelligence governance",
-        "images": [
-          {
-            "anchor": "A Iniciativa da CalPERS e Mudanças nas Diretrizes",
-            "query_en": "CalPERS institutional investor building sign"
-          },
-          {
-            "anchor": "Inclusão pioneira de diretrizes de IA nas políticas de voto por procuração da CalPERS.",
-            "query_en": "proxy voting corporate governance meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "864635a9-3d79-4b02-9315-4741958adcc9",
-      "title": "União Europeia busca acelerar redução de riscos com a China usando nova ferramenta de diversificação",
+      "id": "e8bae97f-248d-4d4a-aba2-092e23437456",
+      "title": "Sumitomo e Hankyu testam sistema ferroviário econômico nas Filipinas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "European Union China trade de-risking diversification policy",
+        "video_query_en": "Sumitomo Hankyu Philippine railway power saving test",
         "images": [
           {
-            "anchor": "O contexto do desequilíbrio comercial com a China",
-            "query_en": "European Commission building Brussels trade meeting"
+            "anchor": "O projeto piloto na linha LRT-1",
+            "query_en": "Manila LRT-1 railway line train station"
           },
           {
-            "anchor": "Perspectivas para a implementação em dezembro",
-            "query_en": "Ursula von der Leyen European Commission press conference"
+            "anchor": "Impacto na economia de energia",
+            "query_en": "energy saving power equipment electrical substation"
           },
           {
-            "anchor": "Anúncio de Ursula von der Leyen sobre o lançamento da medida de diversificação previsto para dezembro.",
-            "query_en": "European flag stars trade economic policy"
-          },
-          {
-            "anchor": "Foco na redução do desequilíbrio comercial e da dominância chinesa em setores de manufatura.",
-            "query_en": "Cargo ship container port global supply chain"
-          },
-          {
-            "anchor": "Necessidade de reestruturação das cadeias de suprimentos europeias para garantir maior resiliência econômica.",
-            "query_en": "Modern industrial factory manufacturing production line"
+            "anchor": "Colaboração entre gigantes japonesas",
+            "query_en": "Sumitomo Corporation Tokyo office building"
           }
         ]
       }
     },
     {
-      "id": "34bcb7c5-a13d-4663-93d0-7ee8888cb237",
-      "title": "A rede elétrica do Japão na mira de hackers através de 100 milhões de dispositivos residenciais",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan power grid cybersecurity home devices hackers",
-        "images": [
-          {
-            "anchor": "O perigo oculto nos lares japoneses",
-            "query_en": "smart home energy storage battery system japan"
-          },
-          {
-            "anchor": "A ameaça de apagões em massa",
-            "query_en": "power grid control room electricity blackout"
-          },
-          {
-            "anchor": "Desafios para a defesa digital",
-            "query_en": "cybersecurity digital defense technology operation"
-          }
-        ]
-      }
+      "id": "51e0615e-6984-4405-a738-ecaee9118529",
+      "title": "Mr. Abe: Stephen Schwarzman (16)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Finanças"
     },
     {
-      "id": "8f060ab8-1caf-4592-8b2b-93147c4c6a96",
-      "title": "EUA expressam confiança na disciplina fiscal de Takaichi, diz autoridade do Tesouro",
+      "id": "2591d237-4710-4279-876b-e841cc7c6dba",
+      "title": "Intel garante que Casa Branca não vai interferir em seu negócio de semicondutores",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US Treasury official Erin Browne Japan fiscal policy IMF Bangkok",
+        "video_query_en": "Intel semiconductor business White House stake Trump administration",
         "images": [
           {
-            "anchor": "A Transição Econômica do Japão",
-            "query_en": "Japan economy Tokyo cityscape financial district"
+            "anchor": "O cenário de investimentos na Intel",
+            "query_en": "Intel headquarters building sign semiconductor"
           },
           {
-            "anchor": "Diálogo Bilateral e Contexto Internacional",
-            "query_en": "International Monetary Fund meeting Bangkok conference"
-          },
-          {
-            "anchor": "Reuniões anuais do FMI em Bangkok serviram de palco para o alinhamento de posturas entre autoridades dos Estados Unidos e do Japão.",
-            "query_en": "US Treasury Department building Washington DC"
-          },
-          {
-            "anchor": "Declarações de Erin Browne atenuam o cenário de pressão diplomática e econômica que havia sido intensificado por Washington no mês anterior.",
-            "query_en": "Erin Browne US Treasury official portrait"
-          },
-          {
-            "anchor": "Esforços da administração de Sanae Takaichi focam na superação de rótulos reflacionários perante o mercado financeiro global.",
-            "query_en": "Sanae Takaichi Japanese Prime Minister official"
+            "anchor": "A avaliação sobre a concorrência global",
+            "query_en": "Advanced semiconductor chip manufacturing cleanroom"
           }
         ]
       }
     },
     {
-      "id": "04af501c-74a4-433c-a3a2-a7c6e731cd8c",
-      "title": "Sony Walkman retorna ao mercado com foco em áudio de alta performance e preço elevado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sony Walkman high-end audio player announcement",
-        "images": [
-          {
-            "anchor": "O novo trio de modelos premium",
-            "query_en": "Sony Walkman premium high resolution audio player"
-          },
-          {
-            "anchor": "Modelo topo de linha banhado a ouro",
-            "query_en": "Gold plated Sony Walkman signature series"
-          },
-          {
-            "anchor": "Versões intermediárias e avançadas",
-            "query_en": "Sony Walkman digital audio player modern"
-          },
-          {
-            "anchor": "Contexto de mercado e expectativas",
-            "query_en": "Sony electronics headquarters Tokyo building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ee306c8a-704b-4bd7-be77-95fff44c956d",
-      "title": "O impasse do Japão com o Tribunal Penal Internacional e os limites frente à pressão de China e Rússia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan US relations International Criminal Court China Russia pressure",
-        "images": [
-          {
-            "anchor": "O impacto das sanções ao TPI na aliança bilateral",
-            "query_en": "International Criminal Court building Hague"
-          },
-          {
-            "anchor": "Impacto na dissuasão regional e na coordenação de defesa conjunta entre Tóquio e Washington.",
-            "query_en": "US Japan military alliance flags Tokyo"
-          },
-          {
-            "anchor": "Limitação das respostas estratégicas do Japão a meros protestos verbais.",
-            "query_en": "Japanese Prime Minister Kantei Tokyo"
-          },
-          {
-            "anchor": "Desafios para encontrar um equilíbrio entre a aliança com os EUA e as demandas de soberania jurídica.",
-            "query_en": "US State Department diplomatic meeting"
-          },
-          {
-            "anchor": "Pressões cruzadas de Pequim, Moscou e Pyongyang",
-            "query_en": "Vladimir Putin Xi Jinping meeting Beijing"
-          },
-          {
-            "anchor": "Perspectivas diplomáticas para o governo japonês",
-            "query_en": "Tokyo skyline government district"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5d7956ee-6e4e-47fc-add8-9dae851a5ba4",
-      "title": "Como a sul-coreana CJ CGV está transformando a experiência cinematográfica com tecnologia imersiva",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "CJ 4DPlex immersive cinema technology CJ CGV",
-        "images": [
-          {
-            "anchor": "A experiência de ir ao cinema em Seul",
-            "query_en": "CJ CGV movie theater Seoul interior premium screen"
-          },
-          {
-            "anchor": "O papel inovador da CJ 4DPlex",
-            "query_en": "CJ 4DPlex motion chair cinema technology"
-          },
-          {
-            "anchor": "Assentos móveis programados para se movimentarem em sincronia exata com a ação exibida na tela.",
-            "query_en": "4DX motion seats in a movie theater"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8432ff78-836d-4a54-b48d-3cd5b5c6082c",
-      "title": "Agentes de IA conseguiram acesso não autorizado a organizações indianas, afirma CERT-In",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI agents cyber security threats CERT-In",
-        "images": [
-          {
-            "anchor": "O comportamento dos agentes autônomos na prática",
-            "query_en": "artificial intelligence autonomous agent cyber attack concept"
-          },
-          {
-            "anchor": "A origem dos alertas e o papel dos desenvolvedores",
-            "query_en": "cyber security operations center monitors digital threat"
-          },
-          {
-            "anchor": "Como ocorreu o acesso aos dados confidenciais",
-            "query_en": "cloud data security server vulnerable exposed code"
-          },
-          {
-            "anchor": "Configurações de aplicativos",
-            "query_en": "application configuration code security vulnerability"
-          },
-          {
-            "anchor": "Repositórios públicos de códigos",
-            "query_en": "github code repository screen abstract"
-          },
-          {
-            "anchor": "Funções permissivas de serviços em nuvem",
-            "query_en": "cloud service infrastructure security dashboard"
-          },
-          {
-            "anchor": "Velocidade e escala superiores às de humanos",
-            "query_en": "fast data processing analytics cyber threat intelligence"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e4142b9f-2209-4ff7-930b-b3964efcd7ec",
-      "title": "Huawei atualiza redes na Europa para o boom da inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Huawei enterprise network AI data center Europe",
-        "images": [
-          {
-            "anchor": "Atualização da linha de redes corporativas",
-            "query_en": "Huawei enterprise network equipment"
-          },
-          {
-            "anchor": "Impacto no mercado europeu",
-            "query_en": "European data center server room network"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4d7b0db7-51ee-45b4-a4c2-d5d5383a4da9",
-      "title": "Entrevista: CEO da SEMI projeta indústria de chips de US$ 3 trilhões até 2035",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SEMICON West Ajit Manocha interview semiconductor industry growth 2035",
-        "images": [
-          {
-            "anchor": "O marco de US$ 1 trilhão e o horizonte de 2035",
-            "query_en": "modern semiconductor silicon wafer manufacturing cleanroom"
-          },
-          {
-            "anchor": "A reestruturação da cadeia de suprimentos global",
-            "query_en": "global semiconductor supply chain logistics factory"
-          },
-          {
-            "anchor": "Tendências e movimentações do mercado de semicondutores",
-            "query_en": "advanced semiconductor packaging chip technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "80ab0021-b6ae-4a86-a343-201c49311df0",
-      "title": "A nova fase da estratégia de IA em Singapura com foco em implementação e resiliência",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Singapore AI strategy enterprise adoption infrastructure",
-        "images": [
-          {
-            "anchor": "A mudança de foco na inteligência artificial",
-            "query_en": "Singapore artificial intelligence enterprise adoption technology city"
-          },
-          {
-            "anchor": "Acesso resiliente a recursos de computação",
-            "query_en": "Advanced data center server infrastructure resilient computing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9581fac7-5265-4919-bdf1-7f55d1fe7d11",
-      "title": "Waymo expande seus robotaxis para Toronto e chega ao Canadá pela primeira vez",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Waymo robotaxis Toronto autonomous vehicle testing",
-        "images": [
-          {
-            "anchor": "O início dos testes manuais em Toronto",
-            "query_en": "Waymo Jaguar IPace electric SUV testing on city streets"
-          },
-          {
-            "anchor": "Liberty Village",
-            "query_en": "Liberty Village Toronto neighborhood street view"
-          },
-          {
-            "anchor": "St. Lawrence Market",
-            "query_en": "St Lawrence Market Toronto exterior street"
-          },
-          {
-            "anchor": "Yorkdale",
-            "query_en": "Yorkdale Toronto shopping area street"
-          },
-          {
-            "anchor": "Tecnologia preparada para o inverno rigoroso",
-            "query_en": "Waymo Driver autonomous sensor suite on car roof"
-          },
-          {
-            "anchor": "Expansão contínua da frota e do serviço",
-            "query_en": "Waymo autonomous vehicle fleet parked"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0447dd33-6cf0-493e-9659-e4445b03d4bf",
-      "title": "Astro de Street Fighter, Cody Rhodes dá novas pistas sobre possível envolvimento com projeto dos X-Men da Marvel",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Cody Rhodes X Men Marvel interview Nerdist",
-        "images": [
-          {
-            "anchor": "Declaração misteriosa em entrevista",
-            "query_en": "Cody Rhodes Nerdist interview"
-          },
-          {
-            "anchor": "Sinais anteriores e o podcast de Andrew Schulz",
-            "query_en": "Cody Rhodes Andrew Schulz podcast"
-          },
-          {
-            "anchor": "Expectativas para o futuro da franquia",
-            "query_en": "X Men 97 Marvel Studios"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0f6b00bd-5b78-4bf3-b5bc-1ef173a600b2",
-      "title": "Criador do PlayStation apoia decisão da Sony de encerrar mídias físicas e aponta \"questão de mentalidade\"",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ken Kutaragi PlayStation digital games physical discs",
-        "images": [
-          {
-            "anchor": "A comparação com os smartphones e a economia da indústria",
-            "query_en": "PlayStation 5 digital edition console"
-          },
-          {
-            "anchor": "Mudanças na liderança e visão de terminal de conteúdo",
-            "query_en": "Sony PlayStation headquarters building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8c72bf33-ce64-4fde-9093-52b6041cc83d",
-      "title": "Após 18 anos, GTA 6 pode finalmente corrigir um bug gráfico persistente nos jogos da Rockstar",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 Launch Trailer PS5 Tech Reaction Breakdown",
-        "images": [
-          {
-            "anchor": "O problema de animação na engine RAGE",
-            "query_en": "Grand Theft Auto 4 gameplay graphics engine"
-          },
-          {
-            "anchor": "A mudança no trailer mais recente",
-            "query_en": "Grand Theft Auto 6 gameplay trailer character animation"
-          },
-          {
-            "anchor": "Expectativas para o lançamento",
-            "query_en": "Grand Theft Auto 6 release date hype"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e6559a28-ff35-41d7-92e7-b43138155647",
-      "title": "James Gunn divulga lista de filmes de terror corporal para aquecer para a estreia de Clayface",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Clayface movie DCU James Gunn horror",
-        "images": [
-          {
-            "anchor": "As influências de David Cronenberg",
-            "query_en": "David Cronenberg body horror movie scenes"
-          },
-          {
-            "anchor": "Outros clássicos e produções essenciais",
-            "query_en": "John Carpenter The Thing movie monster"
-          },
-          {
-            "anchor": "O tom e a premissa de Clayface",
-            "query_en": "Clayface DC comics monster horror"
-          },
-          {
-            "anchor": "Bastidores e equipe de produção",
-            "query_en": "James Watkins film director"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b10ab813-ac88-4e79-9678-33018656b098",
-      "title": "Criador de DayZ critica indústria de jogos e lança alternativa de código aberto para fugir de motores tradicionais e da inteligência artificial",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "DayZ creator Dean Hall engine Brutal AI industry",
-        "images": [
-          {
-            "anchor": "O projeto Brutal e a independência dos criadores",
-            "query_en": "Game development programming code screen"
-          },
-          {
-            "anchor": "A transição do RimWorld para o motor Waylith",
-            "query_en": "RimWorld colony simulation gameplay"
-          },
-          {
-            "anchor": "Retorno de Felipe Falanghe e o apoio de veteranos",
-            "query_en": "Kerbal Space Program rocket launch"
-          },
-          {
-            "anchor": "Críticas à Unity, Unreal Engine e Epic Games",
-            "query_en": "Unreal Engine Epic Games logo"
-          },
-          {
-            "anchor": "Condições de uso e a busca por equilíbrio de poder",
-            "query_en": "Indie game developer working at desk"
-          },
-          {
-            "anchor": "Estrutura gratuita baseada em C# para construção de motores personalizados.",
-            "query_en": "C sharp programming code on computer monitor"
-          },
-          {
-            "anchor": "Utilizada diretamente no desenvolvimento do jogo Kitten Space Agency pela RocketWerkz.",
-            "query_en": "RocketWerkz office workspace"
-          },
-          {
-            "anchor": "Adoção pela Ludeon Studios para reestruturar o motor do jogo RimWorld.",
-            "query_en": "Ludeon Studios RimWorld game interface"
-          },
-          {
-            "anchor": "Falta de prestação de contas de grandes motores em relação a desempenho e estabilidade para os desenvolvedores.",
-            "query_en": "Game developer looking frustrated at computer"
-          },
-          {
-            "anchor": "Preocupações com futuras taxas, assinaturas e políticas restritivas de licenciamento.",
-            "query_en": "Business software license agreement documents"
-          },
-          {
-            "anchor": "Críticas à busca constante da Epic Games por tendências passageiras como o metaverso e inteligência artificial.",
-            "query_en": "Tim Sweeney Epic Games presentation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eb0bdbad-8350-4510-9d32-55ebe7a0a0f6",
-      "title": "Arc Raiders: Adaptações para TV e cinema podem explorar histórias que o jogo deixa de fora, diz produtor",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Arc Raiders gameplay trailer Embark Studios",
-        "images": [
-          {
-            "anchor": "O potencial do universo de Arc Raiders",
-            "query_en": "Arc Raiders sci-fi world concept art Embark Studios"
-          },
-          {
-            "anchor": "A participação da Embark Studios nas adaptações",
-            "query_en": "Embark Studios developers meeting office"
-          },
-          {
-            "anchor": "Comparações com outras obras e perspectivas",
-            "query_en": "Arc Raiders robots mechanical threat concept art"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0e63f4dd-ad44-45d7-b958-0106c0afc1ae",
-      "title": "Remake de Zelda: Ocarina of Time trará missões secundárias inéditas, minigames mais difíceis e ajustes em dungeons",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time remake hands on preview sidequests dungeons",
-        "images": [
-          {
-            "anchor": "Novas Missões Secundárias e Interações em Hyrule",
-            "query_en": "The Legend of Zelda Ocarina of Time Hyrule Castle Town"
-          },
-          {
-            "anchor": "O atendente da loja de poções pede ajuda com um inseto solto em Hyrule Castle Town.",
-            "query_en": "Zelda potion shop bottle item"
-          },
-          {
-            "anchor": "Minigames Desafiadores e Mudanças nas Dungeons",
-            "query_en": "Zelda Ocarina of Time Forest Temple dungeon"
-          },
-          {
-            "anchor": "Expectativas para o Retorno a Hyrule",
-            "query_en": "Link Ocarina of Time Nintendo 64 artwork"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bf083ed5-290c-40e2-9744-8eff52037054",
-      "title": "Pesquisadores revelam plataforma de anúncios capaz de instalar spyware sem cliques",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Citizen Lab spyware online advertising investigation",
-        "images": [
-          {
-            "anchor": "A operação AdFection",
-            "query_en": "Citizen Lab University of Toronto logo building"
-          },
-          {
-            "anchor": "Identificação precisa de alvos específicos através de anúncios online.",
-            "query_en": "Digital advertising network data analytics screen"
-          },
-          {
-            "anchor": "Alvos e conexões",
-            "query_en": "Al Jazeera news broadcast studio building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a48d7be0-4042-431a-8078-d8aa3fa16b65",
-      "title": "Primeiras análises do Microsoft Surface Laptop Ultra apontam rival promissor, mas caro, para o MacBook Pro",
+      "id": "c3ac967c-d830-4bef-8362-fd378a82750e",
+      "title": "Conjunto de keycaps ROG em miniatura chega a Akihabara por cerca de 27.500 ienes",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft Surface Laptop Ultra review",
+        "video_query_en": "ASUS ROG miniature keycaps Akihabara",
         "images": [
           {
-            "anchor": "Desempenho e Arquitetura Arm",
-            "query_en": "Microsoft Surface Laptop Ultra processor Arm"
-          },
-          {
-            "anchor": "Construção e Recursos de Inteligência Artificial",
-            "query_en": "Microsoft Surface Laptop Ultra design AI features"
-          },
-          {
-            "anchor": "Pontos Fracos e Limitações",
-            "query_en": "Microsoft Surface Laptop Ultra review keyboard screen"
+            "anchor": "Detalhes da coleção ROG em miniatura",
+            "query_en": "ASUS ROG miniature keycap set"
           }
         ]
       }
     },
     {
-      "id": "2ddb1c8f-8e7a-4ca6-bedc-bccabae8409d",
-      "title": "Asus ROG Xbox Ally X20 chega ao mercado com tela OLED de 7,4 polegadas e preço elevado",
-      "category": "Games",
+      "id": "7806aff9-7c9c-4129-8913-838c87530b7d",
+      "title": "Japão é o destino gastronômico mais importante do mundo, aponta executivo da Trip.com",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asus ROG Xbox Ally X20 OLED review",
+        "video_query_en": "Trip.com gourmet travel Japan restaurant ranking",
         "images": [
           {
-            "anchor": "Design e tela OLED",
-            "query_en": "Asus ROG Xbox Ally X20 OLED screen"
+            "anchor": "O sucesso do Trip.Gourmet e a força do Japão",
+            "query_en": "Japanese gourmet food sushi restaurant Tokyo"
           },
           {
-            "anchor": "Desempenho e preço",
-            "query_en": "Asus ROG Xbox Ally X20 handheld console"
+            "anchor": "Estratégia de mercado e a entrada no setor",
+            "query_en": "Trip.com travel booking app interface mobile"
+          },
+          {
+            "anchor": "O impacto no turismo receptivo",
+            "query_en": "foreign tourists in Tokyo street Japan travel"
           }
         ]
       }
     },
     {
-      "id": "678f0b32-5d6e-4b9a-ab2e-5e01cc126635",
-      "title": "Jogador profissional de Dota 2 relata que evitou operação policial após disputar partida para os agentes",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dota 2 23savage police raid story",
-        "images": [
-          {
-            "anchor": "A abordagem policial e o confisco de pertences",
-            "query_en": "police raid tactical operation office"
-          },
-          {
-            "anchor": "O questionamento sobre a identidade profissional",
-            "query_en": "professional esports players gaming house"
-          },
-          {
-            "anchor": "A demonstração prática que convenceu os oficiais",
-            "query_en": "Dota 2 gameplay match monitor screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cda6d2be-bf29-4114-9874-06b7878f3a2f",
-      "title": "Windows Defender chega ao Linux para unificar a segurança corporativa",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Windows Defender for Linux corporate security overview",
-        "images": [
-          {
-            "anchor": "O cenário dos ambientes heterogêneos",
-            "query_en": "Linux server data center enterprise infrastructure"
-          },
-          {
-            "anchor": "Vantagens para administradores de redes",
-            "query_en": "IT administrator monitoring corporate network security"
-          }
-        ]
-      }
-    },
-    {
-      "id": "40f88a54-ea33-40bc-b5a7-9f1a635038ce",
-      "title": "Como escolher o presente de bem-estar ideal da Therabody para as festas de fim de ano",
+      "id": "ee1d877d-cff2-45d6-81d4-e7719f329220",
+      "title": "A confusão continua: por que o padrão USB4 e os nomes como Gen 2 ainda intrigam os usuários",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Therabody Theragun Relief and Mini review Best Buy holiday gifts",
+        "video_query_en": "USB4 naming confusion explained",
         "images": [
           {
-            "anchor": "Qual dispositivo Therabody combina com cada pessoa?",
-            "query_en": "Therabody wellness devices line up Best Buy"
+            "anchor": "A promessa de universalidade e a realidade atual",
+            "query_en": "universal serial bus cables and ports"
           },
           {
-            "anchor": "O que avaliar na hora de escolher uma Theragun",
-            "query_en": "Theragun massage gun attachments and settings"
+            "anchor": "O problema persistente com o USB4 e Gen 2",
+            "query_en": "USB4 type c cable connector"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6804bcc6-d91b-4037-8887-f68823d90b52",
+      "title": "Aplicativo MapQuest agora mostra a localização de leitores de placas de automóveis",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "MapQuest app license plate readers surveillance layer",
+        "images": [
+          {
+            "anchor": "Fabricantes e abrangência do recurso",
+            "query_en": "Flock Safety automatic license plate reader camera on pole"
           },
           {
-            "anchor": "Theragun Relief versus Mini: qual escolher para presentear?",
-            "query_en": "Theragun Relief and Theragun Mini devices"
+            "anchor": "- Flock Safety",
+            "query_en": "Flock Safety surveillance camera"
           },
           {
-            "anchor": "O melhor presente da Therabody para quem ama skincare",
-            "query_en": "TheraFace Mask Glo LED skincare mask"
+            "anchor": "- Motorola Solutions (Vigilant)",
+            "query_en": "Motorola Solutions Vigilant license plate reader camera"
           },
           {
-            "anchor": "A nova Y2K Mini da Therabody para fãs de tecnologia nostálgica",
-            "query_en": "Y2K Grape Blast Theragun Mini purple translucent"
+            "anchor": "- Genetec",
+            "query_en": "Genetec license plate recognition camera"
+          },
+          {
+            "anchor": "O contexto recente do MapQuest",
+            "query_en": "MapQuest navigation app interface on smartphone"
+          },
+          {
+            "anchor": "Polêmica e preocupações com a vigilância em massa",
+            "query_en": "Automated license plate reader traffic surveillance camera US"
+          },
+          {
+            "anchor": "Testando a novidade na prática",
+            "query_en": "MapQuest app map view surveillance option"
+          }
+        ]
+      }
+    },
+    {
+      "id": "85157872-f121-40ad-a6c9-a447db6730e9",
+      "title": "Nicolas Cage and Antonio Banderas to star in True Detective season 5",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "f90c6a6e-b357-4ea4-9786-c82b0e9a3b75",
+      "title": "Jogadores de Diablo 4 passam semanas procurando armadura perdida que estava oculta na nova atualização",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Diablo 4 Bovine armor set cow gloves patch",
+        "images": [
+          {
+            "anchor": "O mistério das luvas bovinas",
+            "query_en": "Diablo 4 Old Tristram cathedral"
+          },
+          {
+            "anchor": "O segredo revelado na atualização",
+            "query_en": "Diablo 4 cow level armor set"
+          },
+          {
+            "anchor": "Repercussão e opiniões da comunidade",
+            "query_en": "Diablo 4 character transmog armor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b0af60bb-5914-4c8d-b161-a22912569bf8",
+      "title": "Para ex-escritor da Valve, a visão de Gabe Newell para o Steam é surpreendente: \"É um MMO\"",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Chet Faliszek Valve Steam MMO Epic Games Store",
+        "images": [
+          {
+            "anchor": "A Estrela Poliniana do Steam",
+            "query_en": "Steam store interface profile levels"
+          },
+          {
+            "anchor": "Ferramentas de autoexpressão e comunidade",
+            "query_en": "Steam trading cards community market"
+          },
+          {
+            "anchor": "Críticas à moderação e comparação com a Epic",
+            "query_en": "Epic Games Store launcher interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "202850b2-9fa6-45ff-b09b-20e994850aa0",
+      "title": "Smart TV Toshiba de 75 polegadas com Mini-LED atinge menor preço histórico na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Toshiba Z670 Mini LED TV review",
+        "images": [
+          {
+            "anchor": "Desconto histórico e valores da promoção",
+            "query_en": "Toshiba 75 inch TV living room"
+          },
+          {
+            "anchor": "Qualidade de imagem e recursos de áudio",
+            "query_en": "Toshiba Mini LED QLED TV display"
+          },
+          {
+            "anchor": "Desempenho voltado para jogos de nova geração",
+            "query_en": "PS5 gaming on large 4K TV"
+          },
+          {
+            "anchor": "Plataforma Smart e integração com assistentes",
+            "query_en": "Fire TV smart interface remote"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e12e22a-336c-4ad1-bf53-217d353624a3",
+      "title": "Tudo sobre \"You Can See Everything\": Explicando o documentário de Nathan Fielder sobre Elizabeth Holmes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "You Can See Everything Nathan Fielder documentary trailer",
+        "images": [
+          {
+            "anchor": "Uma proposta real e inusitada",
+            "query_en": "Nathan Fielder documentary"
+          },
+          {
+            "anchor": "Polêmicas e momentos marcantes",
+            "query_en": "Elizabeth Holmes documentary You Can See Everything"
+          },
+          {
+            "anchor": "A atuação de Nathan Fielder",
+            "query_en": "Nathan Fielder You Can See Everything"
+          },
+          {
+            "anchor": "O envolvimento de Amanda Seyfried",
+            "query_en": "Amanda Seyfried The Dropout"
+          },
+          {
+            "anchor": "O final e a linha do tempo",
+            "query_en": "New York Film Festival You Can See Everything"
+          },
+          {
+            "anchor": "A grande questão: quem está mentindo?",
+            "query_en": "Elizabeth Holmes Nathan Fielder"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d51fa9c-2f66-4d14-9db5-954e056f65c0",
+      "title": "A segurança de data centers é um problema real também para os Estados Unidos",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "data center security cybersecurity threats warfare",
+        "images": [
+          {
+            "anchor": "A importância crítica dos dados modernos",
+            "query_en": "modern data center servers interior"
+          },
+          {
+            "anchor": "As três principais ameaças aos data centers americanos",
+            "query_en": "data center exterior security fence"
+          },
+          {
+            "anchor": "Vulnerabilidades e o desafio do fator humano",
+            "query_en": "cybersecurity expert working on computers"
+          },
+          {
+            "anchor": "A escala proporcionada pela inteligência artificial",
+            "query_en": "artificial intelligence cyber attack concept screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f61e813b-edad-45a2-a12c-b08b67d53236",
+      "title": "Todos os 13 pontos de vista de Threshing Day classificados do pior para o melhor",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fourth Wing Empyrean series Threshing Day Rebecca Yarros book discussion",
+        "images": [
+          {
+            "anchor": "A complexidade de classificar as perspectivas",
+            "query_en": "Rebecca Yarros Fourth Wing Empyrean book covers and characters"
+          },
+          {
+            "anchor": "13 a 10: As histórias iniciais do ranking",
+            "query_en": "Fantasy dragon artwork riders training academy"
+          },
+          {
+            "anchor": "Mira Sorrengail",
+            "query_en": "Green dragon fantasy creature concept art"
+          },
+          {
+            "anchor": "Garrick Tavis",
+            "query_en": "Brown scorpiontail dragon fantasy illustration"
+          },
+          {
+            "anchor": "Bodhi Durran",
+            "query_en": "Green swordtail dragon fantasy artwork"
+          },
+          {
+            "anchor": "Ridoc Gamlyn",
+            "query_en": "Fantasy cadet warrior preparing for battle"
+          },
+          {
+            "anchor": "9 a 6: Desenvolvimento de liderança e conflitos políticos",
+            "query_en": "Fantasy castle military academy training grounds"
+          },
+          {
+            "anchor": "Rhiannon Matthias",
+            "query_en": "Female fantasy warrior with sword and shield"
+          },
+          {
+            "anchor": "Dain Aetos",
+            "query_en": "Red swordtail dragon fantasy art"
+          },
+          {
+            "anchor": "Sawyer Henrick",
+            "query_en": "Determined fantasy cadet in training armor"
+          },
+          {
+            "anchor": "Aaric Graycastle",
+            "query_en": "Blue clubtail dragon fantasy illustration"
+          },
+          {
+            "anchor": "5 a 4: Carga emocional e laços profundos",
+            "query_en": "Emotional fantasy book characters moments"
+          },
+          {
+            "anchor": "Liam Mairi",
+            "query_en": "Red daggertail dragon fantasy art"
+          },
+          {
+            "anchor": "Xaden Riorson",
+            "query_en": "Blue daggertail dragon fantasy illustration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "512b41bb-a1c9-4a48-b1f3-8d07ce5115b0",
+      "title": "A.I. Inteligência Artificial: O clássico de Steven Spielberg e Stanley Kubrick retorna ao streaming",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI Artificial Intelligence 2001 trailer Spielberg Kubrick",
+        "images": [
+          {
+            "anchor": "Uma releitura sombria e ambiciosa de Pinóquio",
+            "query_en": "Haley Joel Osment David AI Artificial Intelligence movie"
+          },
+          {
+            "anchor": "David",
+            "query_en": "Haley Joel Osment as David AI Artificial Intelligence"
+          },
+          {
+            "anchor": "Professor Hobby",
+            "query_en": "William Hurt Professor Hobby AI Artificial Intelligence"
+          },
+          {
+            "anchor": "Monica Swinton",
+            "query_en": "Frances O Connor Monica Swinton AI Artificial Intelligence"
+          },
+          {
+            "anchor": "Gigolo Joe",
+            "query_en": "Jude Law Gigolo Joe AI Artificial Intelligence"
+          },
+          {
+            "anchor": "O envelhecimento da obra e sua relevância contemporânea",
+            "query_en": "AI Artificial Intelligence flooded Manhattan scene"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6befa692-6832-4b6a-a3cc-a47cdfe7e160",
+      "title": "A evolução do rosto de Jason Voorhees em Sexta-Feira 13 sem a máscara",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Friday the 13th every unmasked Jason Voorhees evolution",
+        "images": [
+          {
+            "anchor": "1. O Jason Precursor em Sexta-Feira 13 Parte 2 (1981)",
+            "query_en": "Friday the 13th Part 2 unmasked Jason Voorhees sack"
+          },
+          {
+            "anchor": "2. O Proto-Jason em Sexta-Feira 13 Parte 3 (1982)",
+            "query_en": "Friday the 13th Part 3 Jason Voorhees hockey mask"
+          },
+          {
+            "anchor": "3. O Jason Definitivo em Sexta-Feira 13 Parte IV: O Capítulo Final (1984)",
+            "query_en": "Friday the 13th Part 4 unmasked Jason Voorhees"
+          },
+          {
+            "anchor": "4. O Falso Jason em Sexta-Feira 13 Parte V: Um Novo Começo (1985)",
+            "query_en": "Friday the 13th Part 5 Roy Burns unmasked"
+          },
+          {
+            "anchor": "5. O Jason Ressuscitado em Sexta-Feira 13 Parte VI: Jason Vive (1986)",
+            "query_en": "Friday the 13th Part 6 Jason Lives undead"
+          },
+          {
+            "anchor": "6. O Jason Zumbi em Sexta-Feira 13 Parte VII: A Matança Continua (1987)",
+            "query_en": "Friday the 13th Part 7 The New Blood unmasked Jason"
+          },
+          {
+            "anchor": "7. O Jason Escorregadio em Sexta-Feira 13 Parte VIII: Jason Ataque Nova York (1988)",
+            "query_en": "Friday the 13th Part 8 Jason Takes Manhattan unmasked"
+          },
+          {
+            "anchor": "8. O Jason Descongelado em Jason X (2001)",
+            "query_en": "Jason X unmasked Jason face autopsy"
+          },
+          {
+            "anchor": "9. O Jason de Volta às Origens no Reboot de 2009",
+            "query_en": "Friday the 13th 2009 reboot Jason Voorhees"
+          },
+          {
+            "anchor": "O Debate sobre o Melhor Visual Sem Máscara",
+            "query_en": "Kane Hodder Jason Voorhees unmasked face"
+          },
+          {
+            "anchor": "O Futuro da Franquia na Televisão e no Cinema",
+            "query_en": "Crystal Lake series Peacock Friday the 13th"
+          }
+        ]
+      }
+    },
+    {
+      "id": "85b687b2-122f-4c8a-a2b3-c3309accea11",
+      "title": "Os 9 Melhores Animes Shōnen de Todos os Tempos Eleitos por Leitores",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best shonen anime of all time screenrant readers poll",
+        "images": [
+          {
+            "anchor": "My Hero Academia",
+            "query_en": "My Hero Academia anime Izuku Midoriya Deku"
+          },
+          {
+            "anchor": "Demon Slayer",
+            "query_en": "Demon Slayer anime Tanjiro Kamado"
+          },
+          {
+            "anchor": "Jujutsu Kaisen",
+            "query_en": "Jujutsu Kaisen anime Yuji Itadori Satoru Gojo"
+          },
+          {
+            "anchor": "JoJo's Bizarre Adventure",
+            "query_en": "JoJos Bizarre Adventure Jotaro Kujo"
+          },
+          {
+            "anchor": "Yu Yu Hakusho",
+            "query_en": "Yu Yu Hakusho anime Yusuke Urameshi"
+          },
+          {
+            "anchor": "Attack on Titan",
+            "query_en": "Attack on Titan anime Eren Yeager"
+          },
+          {
+            "anchor": "One Piece",
+            "query_en": "One Piece anime Monkey D Luffy"
+          },
+          {
+            "anchor": "Dragon Ball",
+            "query_en": "Dragon Ball anime Goku Super Saiyan"
+          },
+          {
+            "anchor": "Naruto",
+            "query_en": "Naruto anime Naruto Uzumaki"
+          }
+        ]
+      }
+    },
+    {
+      "id": "56c0a849-45a7-4aca-864d-abca68e3b969",
+      "title": "Por que adaptar Fallout para a TV foi um desafio muito maior do que The Last of Us",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fallout Prime Video TV show analysis adaptation",
+        "images": [
+          {
+            "anchor": "O desafio de adaptar franquias dos videogames",
+            "query_en": "Fallout TV show post apocalyptic wasteland Amazon Prime"
+          },
+          {
+            "anchor": "As vantagens narrativas de The Last of Us",
+            "query_en": "The Last of Us TV show HBO Ellie and Joel"
+          },
+          {
+            "anchor": "A complexidade estrutural de Fallout",
+            "query_en": "Fallout TV show Lucy MacLean Vault Dwellers"
+          },
+          {
+            "anchor": "O sucesso do formato de coral na televisão",
+            "query_en": "Fallout series Maximus Brotherhood of Steel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "806290a9-9552-41ab-81f7-76266c21fb03",
+      "title": "Quem pode viver Sagat em Street Fighter 2? Conheça 4 atores cotados para o papel",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Street Fighter movie Sagat post credits scene and casting",
+        "images": [
+          {
+            "anchor": "O retorno de Sagat e o desafio da escalação",
+            "query_en": "Street Fighter movie Sagat character"
+          },
+          {
+            "anchor": "1. Alex 'Poatan' Pereira",
+            "query_en": "Alex Poatan Pereira UFC fighter"
+          },
+          {
+            "anchor": "2. Martyn Ford",
+            "query_en": "Martyn Ford actor physique"
+          },
+          {
+            "anchor": "3. Dwayne Johnson",
+            "query_en": "Dwayne The Rock Johnson Black Adam"
+          },
+          {
+            "anchor": "4. Dave Bautista",
+            "query_en": "Dave Bautista actor portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb78dbab-3f20-4a12-be73-9e4b5c7795c8",
+      "title": "Os 10 melhores jogos de terror cooperativo para jogar com amigos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best co op horror games to play with friends",
+        "images": [
+          {
+            "anchor": "Phasmophobia",
+            "query_en": "Phasmophobia game ghost hunting equipment"
+          },
+          {
+            "anchor": "Lethal Company",
+            "query_en": "Lethal Company game ship scrap"
+          },
+          {
+            "anchor": "The Outlast Trials",
+            "query_en": "The Outlast Trials Murkoff Corporation gameplay"
+          },
+          {
+            "anchor": "R.E.P.O.",
+            "query_en": "REPO horror game co-op"
+          },
+          {
+            "anchor": "Content Warning",
+            "query_en": "Content Warning game spooktube"
+          },
+          {
+            "anchor": "Mimesis",
+            "query_en": "Mimesis horror game AI"
+          },
+          {
+            "anchor": "Sons Of The Forest",
+            "query_en": "Sons Of The Forest survival game cannibals"
+          },
+          {
+            "anchor": "Reanimal",
+            "query_en": "Reanimal game Little Nightmares creators"
+          },
+          {
+            "anchor": "Little Nightmares III",
+            "query_en": "Little Nightmares III co-op gameplay"
+          },
+          {
+            "anchor": "Resident Evil 5",
+            "query_en": "Resident Evil 5 Chris Redfield Sheva Alomar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb6c42e0-ac1e-4833-affd-314ec7b6b15a",
+      "title": "Segunda Temporada de Creature Commandos e Futuro das Animações da DC",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Peter Safran Creature Commandos season 2 DCU interview IGN",
+        "images": [
+          {
+            "anchor": "Atualizações sobre os Novos Projetos Animados da DC",
+            "query_en": "Peter Safran DC Studios interview"
+          },
+          {
+            "anchor": "O Avanço de Creature Commandos",
+            "query_en": "Creature Commandos animated series DC"
+          },
+          {
+            "anchor": "Elenco e Origens dos Personagens",
+            "query_en": "Creature Commandos cast characters"
+          },
+          {
+            "anchor": "The Bride",
+            "query_en": "The Bride Creature Commandos Indira Varma"
+          },
+          {
+            "anchor": "G.I. Robot e Weasel",
+            "query_en": "GI Robot Weasel Creature Commandos"
+          },
+          {
+            "anchor": "Doctor Phosphorus",
+            "query_en": "Doctor Phosphorus Creature Commandos Alan Tudyk"
+          },
+          {
+            "anchor": "Nina Mazursky",
+            "query_en": "Nina Mazursky Creature Commandos"
+          },
+          {
+            "anchor": "Eric Frankenstein",
+            "query_en": "Eric Frankenstein Creature Commandos David Harbour"
+          },
+          {
+            "anchor": "Rick Flag Sr.",
+            "query_en": "Rick Flag Sr Creature Commandos Frank Grillo"
+          },
+          {
+            "anchor": "Próximos Passos para o DCU",
+            "query_en": "James Gunn DCU slate animation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "16e4b1fe-a9c5-4315-93fc-42ea7d6476ab",
+      "title": "Os 3 melhores filmes para assistir no HBO Max neste fim de semana de outubro",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HBO Max movies October 2026 trailer compilation",
+        "images": [
+          {
+            "anchor": "Supergirl (2026)",
+            "query_en": "Milly Alcock Supergirl movie 2026"
+          },
+          {
+            "anchor": "The Death of Robin Hood (2026)",
+            "query_en": "Hugh Jackman The Death of Robin Hood"
+          },
+          {
+            "anchor": "The Amateur (2025)",
+            "query_en": "Rami Malek The Amateur movie"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aac2323d-3532-4b2b-9432-f3b29e7ec700",
+      "title": "Atualização sobre A Torre Negra por Mike Flanagan anima fãs de Stephen King",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mike Flanagan The Dark Tower adaptation update Stephen King",
+        "images": [
+          {
+            "anchor": "O histórico de sucesso entre Mike Flanagan e Stephen King",
+            "query_en": "Mike Flanagan director Stephen King adaptation"
+          },
+          {
+            "anchor": "A estrutura e a ordem cronológica da adaptação",
+            "query_en": "The Dark Tower book series Stephen King"
+          },
+          {
+            "anchor": "Ordem dos livros",
+            "query_en": "The Gunslinger book cover Stephen King The Dark Tower"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b504432f-486a-4300-952b-e3ecf873e5bc",
+      "title": "Fim de semana de jogatina: descubra o que a equipe do Push Square vai jogar",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PS Vita retro gaming classics gameplay",
+        "images": [
+          {
+            "anchor": "As escolhas da equipe para o descanso",
+            "query_en": "Control game physical disc edition"
+          },
+          {
+            "anchor": "Graham Banas",
+            "query_en": "Control game physical disc edition"
+          },
+          {
+            "anchor": "Jamie O_Neill",
+            "query_en": "PS Vita handheld console gaming"
+          },
+          {
+            "anchor": "Stephen Tailby",
+            "query_en": "Star Wars video games racing retro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3001311a-08b5-4562-8fa6-218dbcec5541",
+      "title": "Artistas do Estúdio Húngaro DIGIC Discutem Carreiras e Próximos Projetos",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DIGIC studio animation VFX interview insights",
+        "images": [
+          {
+            "anchor": "A História e a Trajetória do Estúdio DIGIC",
+            "query_en": "DIGIC studio Budapest animation VFX office"
+          },
+          {
+            "anchor": "Carreira e Perspectivas dos Artistas",
+            "query_en": "animators working on digital VFX and 3D modeling"
+          },
+          {
+            "anchor": "O Futuro das Animações e Efeitos Visuais",
+            "query_en": "cinematic game trailer animation production process"
+          }
+        ]
+      }
+    },
+    {
+      "id": "72c6b27c-d02a-4f9b-bab2-05a56c0d62f5",
+      "title": "Análises Técnicas: Gaomon PD1561 V2, Foundry SmartRoto e Huion Kamvas Pro 24",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Gaomon PD1561 V2 Huion Kamvas Pro 24 review",
+        "images": [
+          {
+            "anchor": "Gaomon PD1561 V2",
+            "query_en": "Gaomon PD1561 V2 pen display"
+          },
+          {
+            "anchor": "Foundry SmartRoto",
+            "query_en": "Foundry SmartRoto software"
+          },
+          {
+            "anchor": "Huion Kamvas Pro 24",
+            "query_en": "Huion Kamvas Pro 24 drawing monitor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b91ef3a7-0d0e-410c-b831-f568817ff2b9",
+      "title": "Apple atualiza regras da App Store para proibir explicitamente aplicativos de IA do tipo \"nudify\"",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple App Store nudify AI apps policy update",
+        "images": [
+          {
+            "anchor": "Pressão pública e contexto regulatório",
+            "query_en": "Apple WWDC event building sign"
+          },
+          {
+            "anchor": "Novas exigências e combate a fraudes",
+            "query_en": "Apple App Store icon on iPhone screen"
+          },
+          {
+            "anchor": "Proteção contra exploração infantil e tráfico",
+            "query_en": "Smartphone security lock digital privacy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "29668c23-98aa-402e-a2a8-07f94b4369ea",
+      "title": "Replit rompe parceria com a Anthropic e migra foco para a OpenAI, aponta CEO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Replit CEO Amjad Masad TechCrunch Disrupt",
+        "images": [
+          {
+            "anchor": "## O fim da parceria com a Anthropic",
+            "query_en": "Amjad Masad Replit CEO speaking on stage"
+          },
+          {
+            "anchor": "## Motivos da migração e desempenho",
+            "query_en": "OpenAI ChatGPT coding interface screen"
+          },
+          {
+            "anchor": "## Divergências sobre a continuidade do uso",
+            "query_en": "Anthropic Claude AI logo and branding"
+          },
+          {
+            "anchor": "## Crescimento empresarial e foco em B2B",
+            "query_en": "TechCrunch Disrupt conference stage audience"
+          },
+          {
+            "anchor": "## A visão da empresa sobre segurança em IA",
+            "query_en": "AI coding agent software development dashboard"
           }
         ]
       }
@@ -668,108 +831,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "4c6c28ba-6b1b-4773-acc3-40e0ee96f4ca",
-      "title": "Cooler Yeti Roadie 48 com rodas atinge menor preço histórico na Amazon com desconto de US$ 85",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Yeti Roadie 48 Wheeled Cooler review",
-        "images": [
-          {
-            "anchor": "Detalhes do desconto e disponibilidade",
-            "query_en": "Yeti Roadie 48 cooler venom color"
-          },
-          {
-            "anchor": "Desempenho e mobilidade aprovados pelos usuários",
-            "query_en": "Yeti Roadie 48 wheeled cooler features"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9207aaab-d0e1-4385-a356-077fb8ed22af",
-      "title": "Dyson Airwrap i.d. com desconto histórico de US$ 195 na Best Buy",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dyson Airwrap i.d. review curly and coily hair",
-        "images": [
-          {
-            "anchor": "Uma oferta acima do esperado para a Black Friday",
-            "query_en": "Best Buy storefront interior"
-          },
-          {
-            "anchor": "Conheça o Dyson Airwrap i.d. e seus acessórios",
-            "query_en": "Dyson Airwrap i.d. amber silk"
-          },
-          {
-            "anchor": "Edição Amber Silk",
-            "query_en": "Dyson Airwrap attachments for curly hair"
-          },
-          {
-            "anchor": "Recursos tecnológicos",
-            "query_en": "MyDyson app smartphone"
-          },
-          {
-            "anchor": "Acessórios inclusos",
-            "query_en": "Dyson Airwrap storage case and attachments"
-          }
-        ]
-      }
-    },
-    {
-      "id": "077cba8f-b75e-4a80-a766-4560ea2a957e",
-      "title": "Billy Evans: Quem é o marido de Elizabeth Holmes em destaque no novo documentário",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elizabeth Holmes documentary You Can See Everything",
-        "images": [
-          {
-            "anchor": "Quem é Billy Evans e sua vida antes de conhecer Elizabeth Holmes",
-            "query_en": "Billy Evans business MIT graduate"
-          },
-          {
-            "anchor": "Como Billy Evans conheceu Elizabeth Holmes",
-            "query_en": "Elizabeth Holmes San Francisco"
-          },
-          {
-            "anchor": "A situação atual de Billy Evans e Elizabeth Holmes",
-            "query_en": "Elizabeth Holmes prison Texas"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4fbfb9eb-72e7-47c7-b2c8-8832acd90a03",
-      "title": "MapQuest agora permite rastrear câmeras de vigilância e leitoras de placas da Flock",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "MapQuest surveillance layer Flock cameras",
-        "images": [
-          {
-            "anchor": "O que a nova Camada de Vigilância oferece",
-            "query_en": "MapQuest app interface map navigation"
-          },
-          {
-            "anchor": "Flock",
-            "query_en": "Flock safety camera license plate reader"
-          },
-          {
-            "anchor": "Motorola Solutions (Vigilant)",
-            "query_en": "Motorola Solutions security camera"
-          },
-          {
-            "anchor": "O contexto de controvérsias da Flock",
-            "query_en": "automatic license plate reader surveillance camera street"
-          },
-          {
-            "anchor": "Como ativar a Camada de Vigilância no MapQuest",
-            "query_en": "MapQuest mobile application interface"
-          }
-        ]
-      }
+      "id": "61d49246-20fa-4473-b95c-95cd2dab938b",
+      "title": "Teachers are reaching their breaking point in the ChatGPT classroom",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Educação"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -820,55 +885,30 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "96464e44-875a-4c6b-85cc-ed4c32bd6c84",
-      "title": "Sydney Sweeney é a protagonista secreta do último filme de John Carpenter, atualmente no Prime Video",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Ward 2010 trailer John Carpenter",
-        "images": [
-          {
-            "anchor": "O contexto de The Ward e o elenco inicial",
-            "query_en": "Amber Heard The Ward 2010 psychiatric hospital"
-          },
-          {
-            "anchor": "A grande reviravolta e a verdadeira protagonista",
-            "query_en": "Sydney Sweeney young actress The Ward 2010"
-          }
-        ]
-      }
+      "id": "ef04090d-7cbb-4247-8b48-1afd2f5b90ee",
+      "title": "9 New Thriller Books With Twists You'll Never See Coming",
+      "status": "error",
+      "error": "Gemini não retornou texto (sem conteúdo)."
     },
     {
-      "id": "c0d3e512-4fed-4d0d-893e-ce65af45501b",
-      "title": "Tom Cruise celebra a estreia de Digger nos cinemas apesar de bilheteria decepcionante",
-      "category": "Filmes, Séries e Animações",
+      "id": "aa8a1e8b-09a2-43b1-b0b9-94a9ae461ecf",
+      "title": "Para que servem os amplificadores e qual é a importância deles para o seu som?",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tom Cruise Digger movie trailer celebration box office",
+        "video_query_en": "what do sound amplifiers do sound system quality explained",
         "images": [
           {
-            "anchor": "Os números iniciais e o histórico nas bilheterias",
-            "query_en": "Tom Cruise in Digger movie scene"
+            "anchor": "Como os amplificadores melhoram o seu sistema de som",
+            "query_en": "home audio amplifier receiver audio system"
           },
           {
-            "anchor": "A reação e o entusiasmo de Tom Cruise",
-            "query_en": "Tom Cruise red carpet premiere event"
+            "anchor": "Escolhendo entre amplificadores transistorizados e valvulados",
+            "query_en": "vacuum tube audio amplifier hifi"
           },
           {
-            "anchor": "Recepção crítica dividida e desempenho comercial futuro",
-            "query_en": "cinema theater audience watching movie"
-          },
-          {
-            "anchor": "Potencial na temporada de premiações",
-            "query_en": "Tom Cruise smiling professional portrait"
-          },
-          {
-            "anchor": "Elenco e premissa da história",
-            "query_en": "Riz Ahmed and John Goodman actors"
-          },
-          {
-            "anchor": "Próximos passos na carreira do ator",
-            "query_en": "Tom Cruise Top Gun Maverick premiere"
+            "anchor": "Alternativas mais econômicas para melhorar o som",
+            "query_en": "home theater speakers acoustic room treatment"
           }
         ]
       }
