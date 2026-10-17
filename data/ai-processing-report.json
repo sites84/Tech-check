@@ -1,691 +1,845 @@
 {
-  "updated_at": "2026-10-17T09:30:26.311Z",
+  "updated_at": "2026-10-17T13:50:10.250Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "9d7d18c2-e8b9-4171-adf1-4cc63131e2d5",
-      "title": "Rússia utiliza exército de bots para impulsionar vídeos falsos nas eleições dos EUA",
+      "id": "a9929db5-4e18-4d8c-ad83-a1df3b1aa9bb",
+      "title": "Guerra na Ucrânia: Elon Musk teria proposto a Donald Trump limitar velocidade do Starshield",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elon Musk Starshield Ukraine Donald Trump",
+        "images": [
+          {
+            "anchor": "O contexto do Starshield e a atuação na Ucrânia",
+            "query_en": "Starshield satellite SpaceX in space"
+          },
+          {
+            "anchor": "Implicações políticas e estratégicas",
+            "query_en": "Elon Musk and Donald Trump meeting"
+          },
+          {
+            "anchor": "Atuação do Starshield nas frentes de batalha ucranianas",
+            "query_en": "Ukraine military communication satellite dish"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6c704fc9-7539-4344-b15d-461dbd04737d",
+      "title": "Tribunal alemão considera ilegal taxa de 55 euros da Ryanair no balcão de check-in",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ryanair check in fee court ruling Germany",
+        "images": [
+          {
+            "anchor": "A decisão do Tribunal Regional de Cottbus",
+            "query_en": "Landgericht Cottbus courthouse exterior building"
+          },
+          {
+            "anchor": "Impacto para os passageiros e regras de embarque",
+            "query_en": "Ryanair check in desk at airport terminal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b88fdc28-fa04-402e-b047-ea7c66c26ac9",
+      "title": "Bitkom e GFF defendem limites legais claros para agências de inteligência alemãs sobre falhas de segurança",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Russia disinformation bots US midterm elections AI video",
+        "video_query_en": "German intelligence security vulnerabilities law Bitkom GFF",
         "images": [
           {
-            "anchor": "Operação russa de desinformação com foco nas eleições",
-            "query_en": "social media bots disinformation cyber operation"
+            "anchor": "A exigência por transparência e regulação",
+            "query_en": "cybersecurity software vulnerability digital defense"
           },
           {
-            "anchor": "Atribuição e investigações de pesquisadores",
-            "query_en": "cybersecurity research analysis data screen"
-          },
-          {
-            "anchor": "Antibot4Navalny",
-            "query_en": "fake news disinformation analysis warning symbol"
-          },
-          {
-            "anchor": "Graphika",
-            "query_en": "network graph data visualization cybersecurity"
-          },
-          {
-            "anchor": "dTeam",
-            "query_en": "digital research intelligence analysis report"
+            "anchor": "O papel da Bitkom e da GFF",
+            "query_en": "digital policy press conference technology association Germany"
           }
         ]
       }
     },
     {
-      "id": "7bbfffa4-25c5-4e95-8e34-4eea319a1e4e",
-      "title": "Trump isenta novas sanções à Rússia em meio à queda nas relações com a Ucrânia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Donald Trump waives Russia sanctions Ukraine Volodymyr Zelenskyy",
-        "images": [
-          {
-            "anchor": "Assinatura da Ordem Executiva e Impacto Diplomático",
-            "query_en": "Donald Trump white house press conference"
-          },
-          {
-            "anchor": "Apelo de Volodymyr Zelenskyy por Financiamento na Europa",
-            "query_en": "Volodymyr Zelenskyy European Union leaders meeting"
-          },
-          {
-            "anchor": "A Legislação por Trás da Autoridade Presidencial",
-            "query_en": "US Capitol building Washington DC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "39b6e25f-3d8a-459b-9736-eb0139ae46a3",
-      "title": "Coreia do Norte afirma ter testado sistema de torpedo assistido por inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "North Korea AI torpedo test state media",
-        "images": [
-          {
-            "anchor": "O anúncio do novo sistema de armas",
-            "query_en": "North Korea missile test military equipment"
-          },
-          {
-            "anchor": "Contexto de tensão na península",
-            "query_en": "North Korea submarine cruise missile launch"
-          },
-          {
-            "anchor": "Análise geopolítica e laços internacionais",
-            "query_en": "North Korea military parade weapons technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "94828861-c262-43e3-8483-04ad0cc4dfe8",
-      "title": "SoftBank avalia compra da Allied Universal, gigante americana de segurança, em negócio multibilionário",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SoftBank Allied Universal acquisition security firm AI robots",
-        "images": [
-          {
-            "anchor": "O interesse estratégico do SoftBank",
-            "query_en": "SoftBank Tokyo headquarters building"
-          },
-          {
-            "anchor": "Detalhes financeiros da potencial transação",
-            "query_en": "financial district skyscrapers New York"
-          },
-          {
-            "anchor": "Histórico e acionistas atuais da empresa",
-            "query_en": "Allied Universal security guard uniform"
-          },
-          {
-            "anchor": "Warburg Pincus",
-            "query_en": "Warburg Pincus office building"
-          },
-          {
-            "anchor": "La Caisse",
-            "query_en": "CDPQ La Caisse de depot et placement du Quebec Montreal"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3c09f9d2-b176-4f62-9437-22a73523bb2b",
-      "title": "O governador do Banco do Japão afirma não tolerar inflação subjacente acima de 2%",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bank of Japan Kazuo Ueda interest rates inflation",
-        "images": [
-          {
-            "anchor": "Sinais claros de política monetária",
-            "query_en": "Kazuo Ueda Bank of Japan governor speech"
-          },
-          {
-            "anchor": "Expectativas para a próxima reunião",
-            "query_en": "Bank of Japan headquarters Tokyo building"
-          },
-          {
-            "anchor": "O rumo dos juros no Japão",
-            "query_en": "Japanese Yen currency banknotes"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e611acd4-6b91-4a6e-8db8-e7d0881d8e49",
-      "title": "Takaichi faz oferenda ritual ao Santuário Yasukuni",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Takaichi Yasukuni Shrine ritual offering",
-        "images": [
-          {
-            "anchor": "A oferenda ritual no Santuário Yasukuni",
-            "query_en": "Yasukuni Shrine Tokyo Japan"
-          },
-          {
-            "anchor": "Expectativas sobre a visita presencial",
-            "query_en": "Japanese Prime minister office Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0c04ee49-bd25-4c8d-90ca-661c5693c2fe",
-      "title": "O boom das exportações de frango da China ganha força no mercado global",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China chicken export Wintop Food poultry industry",
-        "images": [
-          {
-            "anchor": "A expansão do frango chinês no exterior",
-            "query_en": "Chinese chicken processing plant interior"
-          },
-          {
-            "anchor": "Motivos do sucesso comercial",
-            "query_en": "poultry nuggets and chicken products packaging"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e993f8c-1550-41f5-839a-fa88f93b17b6",
-      "title": "FMI elogia plano temporário do Japão para corte de impostos sobre alimentos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "IMF official Japan tax cut plan consumption tax",
-        "images": [
-          {
-            "anchor": "Apoio internacional à economia japonesa",
-            "query_en": "IMF building headquarters Washington DC"
-          },
-          {
-            "anchor": "Detalhes do programa de benefícios",
-            "query_en": "Tokyo grocery store food pricing Japan"
-          },
-          {
-            "anchor": "Alerta sobre a dívida pública",
-            "query_en": "Japan economy Tokyo financial district buildings"
-          }
-        ]
-      }
-    },
-    {
-      "id": "49d51145-a4a7-450e-a0c2-466e0b5dc8b1",
-      "title": "Governo japonês intensificará conscientização de jovens sobre os Territórios do Norte",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan Northern Territories dispute school trips social media",
-        "images": [
-          {
-            "anchor": "Novas diretrizes para a juventude",
-            "query_en": "Yasuhiro Hanashi Japanese minister"
-          },
-          {
-            "anchor": "Estratégias de engajamento e comunicação",
-            "query_en": "Japanese school trip students sightseeing"
-          },
-          {
-            "anchor": "Cooperação internacional",
-            "query_en": "Japanese Ministry of Foreign Affairs building Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b643d4c6-af86-44f8-a955-1ac24b1c0316",
-      "title": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "ce01f17c-9202-4774-bb40-2b42c9be8bfc",
-      "title": "Taiwan aposta em marmitas ricas em proteínas com a alta da obesidade",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Taiwan healthy bento boxes high protein diet",
-        "images": [
-          {
-            "anchor": "O crescimento de redes especializadas em Taipei",
-            "query_en": "Taipei restaurant street scene lunch time"
-          },
-          {
-            "anchor": "A resposta das grandes redes e do comércio",
-            "query_en": "Taiwan convenience store interior product shelf"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6a81a50d-70e2-4fd4-a7be-84a18d3d66f2",
-      "title": "Saudi finance minister says Middle East economies divided by crisis",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
-    },
-    {
-      "id": "1ef57e4c-eabd-4211-afb2-49de18cc25f2",
-      "title": "Meta nega viés político no Brasil após decisão da Justiça Eleitoral",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Meta political bias Brazil electoral court Lula",
-        "images": [
-          {
-            "anchor": "Ação judicial e o contexto internacional",
-            "query_en": "Brazilian electoral court building Brasilia"
-          },
-          {
-            "anchor": "A defesa da Meta e as explicações técnicas",
-            "query_en": "Meta logo headquarters Menlo Park California"
-          },
-          {
-            "anchor": "Uma falha técnica global congelou a contagem de visualizações em vídeos do Instagram Reels em mais de 100 países, enquanto a distribuição de conteúdos permaneceu normal.",
-            "query_en": "Instagram Reels app interface smartphone"
-          },
-          {
-            "anchor": "Outro problema técnico interrompeu brevemente a criação de anúncios a partir de publicações já existentes no Instagram em uma de suas ferramentas por um único dia.",
-            "query_en": "Instagram app advertising tools interface"
-          },
-          {
-            "anchor": "Vazamento de comunicações e o debate regulatório",
-            "query_en": "Folha de S. Paulo newspaper office Sao Paulo"
-          },
-          {
-            "anchor": "Precedentes globais e o estudo da UFRJ",
-            "query_en": "Federal University of Rio de Janeiro campus"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cb2a3ee5-d3b4-4fdc-8eed-a01a64b52648",
-      "title": "Ucrânia negocia com SpaceX e Pentagono para remover limite de velocidade no Starshield",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ukraine Starshield speed limit SpaceX Pentagon",
-        "images": [
-          {
-            "anchor": "O impacto da restrição nos drones ucranianos",
-            "query_en": "Ukrainian military drone in operation"
-          },
-          {
-            "anchor": "Tensões políticas e deterioração de relações",
-            "query_en": "White House exterior Washington DC"
-          },
-          {
-            "anchor": "O papel crucial do Starshield na estratégia de defesa",
-            "query_en": "SpaceX Starlink satellite terminal dish"
-          },
-          {
-            "anchor": "A busca por alternativas e os próximos desafios tecnológicos",
-            "query_en": "Satellite communication network dish antenna"
-          }
-        ]
-      }
-    },
-    {
-      "id": "528fbce7-e866-424c-a070-ab78298a564b",
-      "title": "Como o Tesla Roadster pode voar? Entenda os detalhes da apresentação de Elon Musk",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tesla Roadster flying stunts presentation Waco Texas Elon Musk",
-        "images": [
-          {
-            "anchor": "Como o Tesla Roadster pode voar? Entenda os detalhes da apresentação de Elon Musk",
-            "query_en": "Tesla Roadster prototype launch event Waco Texas"
-          },
-          {
-            "anchor": "As manobras de voo e acrobacias",
-            "query_en": "Tesla Roadster stunt flying ramp loop"
-          },
-          {
-            "anchor": "O sistema de propulsão",
-            "query_en": "Elon Musk Tesla Roadster thrusters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "39c0f1d9-d447-48ed-b8f8-19194cd4b3de",
-      "title": "Anthropic propõe projeto de lei federal para regular inteligência artificial nos Estados Unidos",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic AI regulation proposal US lawmakers",
-        "images": [
-          {
-            "anchor": "Detalhes das obrigações para desenvolvedores",
-            "query_en": "Anthropic AI safety testing development"
-          },
-          {
-            "anchor": "O cenário político e econômico em Washington",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Incidentes de segurança e o contexto governamental",
-            "query_en": "artificial intelligence safety security code"
-          },
-          {
-            "anchor": "Previsões legais e reações da comunidade jurídica",
-            "query_en": "lawmakers meeting discussing policy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "470621db-efec-4587-9324-c103f50b2134",
-      "title": "A Armadilha Chinesa: O Dilema das Montadoras Europeias no Salão de Paris",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Paris Motor Show European automakers China competition",
-        "images": [
-          {
-            "anchor": "O Dilema do Setor Automotivo Europeu",
-            "query_en": "European electric cars automotive industry Paris"
-          },
-          {
-            "anchor": "Forte dependência de componentes e matérias-primas essenciais vindas da China",
-            "query_en": "electric vehicle battery manufacturing supply chain"
-          },
-          {
-            "anchor": "Os Desafios no Salão de Paris",
-            "query_en": "Paris Motor Show exhibition floor cars"
-          }
-        ]
-      }
-    },
-    {
-      "id": "206529c2-2548-464b-84a0-5691b33641d4",
-      "title": "Defense Radar analisa a militarização do espaço e sistemas de armas na órbita terrestre",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Defense Radar military technology space weapons Golem",
-        "images": [
-          {
-            "anchor": "O formato Defense Radar e a tecnologia militar",
-            "query_en": "military technology defense radar space systems"
-          },
-          {
-            "anchor": "Sistemas de armas no espaço próximo à Terra",
-            "query_en": "earth orbit space weapons military satellite"
-          }
-        ]
-      }
-    },
-    {
-      "id": "382cd654-c1ad-46a2-ac95-2313155afdd1",
-      "title": "Segurança no Android: Ferramentas essenciais para proteger seu smartphone contra malware",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Android malware protection tools security guide",
-        "images": [
-          {
-            "anchor": "O perigo do malware no Android",
-            "query_en": "Android smartphone security threat malware warning"
-          },
-          {
-            "anchor": "Ferramentas de proteção e detecção",
-            "query_en": "smartphone antivirus mobile security app screen"
-          },
-          {
-            "anchor": "Boas práticas para o uso diário",
-            "query_en": "person using secure smartphone safety settings"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37c2de8e-77cd-47d0-ace1-d7c6f3ee4909",
-      "title": "Projetor inteligente com suporte a 4K e recursos avançados entra em oferta na Amazon",
+      "id": "51970e8d-68de-41e9-9c1a-3b575b30a409",
+      "title": "Apple: O iPad mini 8 pode chegar mais cedo do que o esperado com possíveis novos preços",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "smart projector 4k dolby audio review",
+        "video_query_en": "Apple iPad mini 8 release rumors news",
         "images": [
           {
-            "anchor": "Recursos de imagem e projeção",
-            "query_en": "smart 4k projector setup in living room"
+            "anchor": "Surpresas no horizonte da Apple",
+            "query_en": "Apple logo storefront"
           },
           {
-            "anchor": "Som e entretenimento integrado",
-            "query_en": "smart projector playing movies Netflix"
+            "anchor": "Detalhes sobre o lançamento e preços",
+            "query_en": "iPad mini device"
           },
           {
-            "anchor": "- Suporte a resolução 4K para projeções detalhadas",
-            "query_en": "4k projection quality screen close up"
+            "anchor": "iPad mini 8",
+            "query_en": "Apple iPad mini tablet"
           }
         ]
       }
     },
     {
-      "id": "08a9f11b-4e80-4163-90cb-a45b5587f2f3",
-      "title": "Estudo revela que chatbots de inteligência artificial compartilham dados de conversas com a indústria publicitária",
-      "category": "Segurança",
+      "id": "beea7f78-4a32-4360-bd7f-ddd18bac993e",
+      "title": "Estudo testa asfalto com plástico e aponta redução na liberação de partículas",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AI chatbots sharing data with advertisers privacy study",
+        "video_query_en": "plastic asphalt road tests particle emissions",
         "images": [
           {
-            "anchor": "O impacto nos principais assistentes do mercado",
-            "query_en": "artificial intelligence chatbot user privacy data security"
+            "anchor": "Contexto do estudo sobre asfalto plástico",
+            "query_en": "asphalt road construction site"
           },
           {
-            "anchor": "ChatGPT",
-            "query_en": "OpenAI ChatGPT interface on computer screen"
+            "anchor": "Os resultados dos testes laboratoriais",
+            "query_en": "laboratory material testing machine"
           },
           {
-            "anchor": "Claude",
-            "query_en": "Anthropic Claude AI logo and interface"
+            "anchor": "Redução na liberação de partículas",
+            "query_en": "microscopic plastic particles analysis"
           },
           {
-            "anchor": "Gemini",
-            "query_en": "Google Gemini artificial intelligence branding"
+            "anchor": "Condições de teste",
+            "query_en": "road pavement abrasion testing"
           },
           {
-            "anchor": "O funcionamento do rastreamento digital",
-            "query_en": "data privacy tracking protection digital security"
-          },
-          {
-            "anchor": "Resposta da indústria e medidas de controle",
-            "query_en": "data protection regulation cybersecurity compliance"
+            "anchor": "Limitações da pesquisa",
+            "query_en": "scientific laboratory research data"
           }
         ]
       }
     },
     {
-      "id": "08573906-9f08-48e0-8419-57ff4d8a6ce2",
-      "title": "Falhas em óculos Ray-Ban Meta geram gravações sem comando",
-      "category": "Segurança",
+      "id": "4e7aa890-8e27-4e67-b1d6-bd5b55519507",
+      "title": "Cody Wilson apresenta arma de fogo projetada por inteligência artificial",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Ray Ban Meta smart glasses privacy recording issue",
+        "video_query_en": "Cody Wilson AI designed firearm 3D print",
         "images": [
           {
-            "anchor": "O problema com as gravações indesejadas",
-            "query_en": "Ray Ban Meta smart glasses wearable tech"
+            "anchor": "O novo marco de Cody Wilson com inteligência artificial",
+            "query_en": "Cody Wilson presentation technology"
           },
           {
-            "anchor": "A resposta da Meta sobre o incidente",
-            "query_en": "Meta corporate office technology"
+            "anchor": "O precedente histórico de 2012",
+            "query_en": "3D printed gun 2012 Cody Wilson"
           },
           {
-            "anchor": "Desafios para a privacidade em wearables",
-            "query_en": "data privacy cybersecurity digital surveillance"
+            "anchor": "A interseção entre tecnologias emergentes e armamentos",
+            "query_en": "artificial intelligence technology concept"
           }
         ]
       }
     },
     {
-      "id": "9a56808d-270d-45c9-8032-29ede7461cee",
-      "title": "Apple anuncia o novo display inteligente HomeView, mas lançamento no Japão permanece sem definição",
+      "id": "9b5ff66a-b34d-447c-afa0-513a802e7a29",
+      "title": "iPhone Duo: Prazos de entrega do smartphone dobrável da Apple são adiados para 2027",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple HomeView smart display announcement",
+        "video_query_en": "Apple foldable iPhone Duo release date delay 2027",
         "images": [
           {
-            "anchor": "Disponibilidade restrita ao mercado de língua inglesa",
-            "query_en": "Apple HomeView smart display English market"
+            "anchor": "Prazos de entrega estendidos",
+            "query_en": "Apple iPhone foldable smartphone pre-order"
           },
           {
-            "anchor": "O ecossistema de casa inteligente da Apple",
-            "query_en": "Apple smart home ecosystem devices HomeView"
+            "anchor": "O impacto no mercado",
+            "query_en": "Apple storefront announcement display"
           }
         ]
       }
     },
     {
-      "id": "d8450863-b043-450b-aea8-bfd05bc6893d",
-      "title": "Serviço de suporte a e-commerce ShopServe sofre vazamento de dados de 23,35 milhões de pessoas no Japão",
+      "id": "90d3a4d0-1c72-41d3-acf8-36371f52e488",
+      "title": "Piloto de F-22 assume controle de drone de combate Fury em marco para aviação militar",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "F-22 Raptor controlling Fury combat drone",
+        "images": [
+          {
+            "anchor": "O avanço da colaboração aérea",
+            "query_en": "F-22 Raptor jet flight"
+          },
+          {
+            "anchor": "Desafios tecnológicos e operacionais",
+            "query_en": "military drone control system cockpit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e9f54014-56e5-4fff-b43d-33cc7bb3575a",
+      "title": "Google Pixel Watch 4 com LTE entra em oferta promocional com grande economia frente à nova geração",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Pixel Watch 4 LTE review smartwatch",
+        "images": [
+          {
+            "anchor": "Economia expressiva em relação à nova geração",
+            "query_en": "Google Pixel Watch smartwatch display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "88184b3d-9cd4-4f6c-afcb-b6f8e51ee125",
+      "title": "Plano da TSMC para chips de 3nm em Kumamoto recebe aprovação e US$ 4,1 bilhões em subsídios do Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "ecommerce data breach cyber security news",
+        "video_query_en": "TSMC Kumamoto fab 3nm Japan METI",
         "images": [
           {
-            "anchor": "Detalhes sobre os dados comprometidos",
-            "query_en": "credit card data breach cybersecurity concept"
+            "anchor": "Mudança estratégica para nós de 3 nanômetros",
+            "query_en": "TSMC 3nm semiconductor wafer"
           },
           {
-            "anchor": "Resposta da empresa e investigações",
-            "query_en": "cybersecurity server room digital security investigation"
+            "anchor": "Apoio financeiro governamental massivo",
+            "query_en": "Japan Ministry of Economy Trade and Industry building METI"
+          },
+          {
+            "anchor": "O ecossistema de semicondutores em Kyushu",
+            "query_en": "Kumamoto Japan industrial area landscape"
           }
         ]
       }
     },
     {
-      "id": "b43c32c7-1a77-4a0e-9bde-1ee44aa732f6",
-      "title": "As operadoras japonesas traçam a estratégia de infraestrutura para a era da inteligência artificial",
-      "category": "Internet",
+      "id": "712c2cd6-1091-4f05-aa62-19931fdb85f9",
+      "title": "Mouse Computer e iiyama marcam presença na Amazon Prime Kanshasai com descontos em PCs e monitores",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NTT Docomo KDDI Softbank Rakuten CEATEC AI infrastructure",
+        "video_query_en": "Mouse Computer gaming PC review",
         "images": [
           {
-            "anchor": "O novo foco em uplink, baixa latência e eficiência energética",
-            "query_en": "5G network infrastructure low latency telecom tower"
+            "anchor": "Marcas e produtos em destaque na campanha",
+            "query_en": "iiyama monitor gaming setup"
           },
           {
-            "anchor": "Aplicações de IA na gestão de redes e o caminho para o 6G",
-            "query_en": "artificial intelligence network control base station 6G"
+            "anchor": "Computadores da marca mouse, focados em produtividade, uso corporativo e tarefas cotidianas.",
+            "query_en": "Mouse Computer desktop pc"
+          },
+          {
+            "anchor": "Desktops e notebooks da marca G-Tune, projetados especificamente para jogos de alto desempenho.",
+            "query_en": "G-Tune gaming PC"
+          },
+          {
+            "anchor": "Monitores da marca iiyama, conhecidos por sua precisão de cores e opções variadas de taxas de atualização.",
+            "query_en": "iiyama computer display monitor"
+          },
+          {
+            "anchor": "Descontos e o mercado de hardware",
+            "query_en": "Amazon Prime Kanshasai sale boxes"
           }
         ]
       }
     },
     {
-      "id": "d18d4315-1f32-44eb-8e1b-be1fbc7b452d",
-      "title": "Amazon oferece descontos de até 7 mil ienes em dispositivos Fire TV durante o Festival de Agradecimento Prime",
-      "category": "Internet",
+      "id": "a3408456-e9fc-4d67-aeab-28140a558f09",
+      "title": "ASUS oferece descontos expressivos em notebooks durante a Amazon Prime Kanshasai",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Fire TV Stick 4K Max review and features",
+        "video_query_en": "ASUS laptop review Amazon sale deals",
         "images": [
           {
-            "anchor": "Fire TV Stick 4K Max",
-            "query_en": "Amazon Fire TV Stick 4K Max device"
+            "anchor": "Ofertas em destaque na campanha",
+            "query_en": "ASUS laptop on wooden desk modern workspace"
           },
           {
-            "anchor": "Outros modelos da linha Fire TV Stick",
-            "query_en": "Amazon Fire TV Stick 4K remote control"
-          },
-          {
-            "anchor": "Fire TV Cube e combos de áudio",
-            "query_en": "Amazon Fire TV Cube media player"
+            "anchor": "Prazo e disponibilidade das promoções",
+            "query_en": "shopping online laptop credit card e-commerce"
           }
         ]
       }
     },
     {
-      "id": "f54e0880-239c-4847-b383-f310061062a9",
-      "title": "Sonic Racing: CrossWorlds recebe o pacote de conteúdo final do primeiro ano",
+      "id": "6a6e1dea-a170-4b3b-ad6b-7d86c419408c",
+      "title": "PFU realiza promoção da linha HHKB com descontos a partir de 23.560 ienes na Amazon Japão",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PFU Happy Hacking Keyboard HHKB review",
+        "images": [
+          {
+            "anchor": "Detalhes da Promoção e Preços da Linha HHKB",
+            "query_en": "Happy Hacking Keyboard HHKB on desk"
+          },
+          {
+            "anchor": "Vantagens dos Teclados Compactos para Digitação Longa",
+            "query_en": "person typing on mechanical keyboard ergonomic"
+          },
+          {
+            "anchor": "Impacto da Oferta no Mercado de Periféricos",
+            "query_en": "computer keyboard box unboxing retail"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30b8e39b-0b3f-4b53-be0e-93345f5015a2",
+      "title": "Placas de vídeo MSI e SAPPHIRE entram em promoção com descontos de até 34 mil ienes na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "MSI GeForce RTX 5060 review gaming performance",
+        "images": [
+          {
+            "anchor": "MSI GeForce RTX 5060 8G VENTUS 2X OC V1",
+            "query_en": "MSI GeForce RTX 5060 VENTUS 2X graphics card"
+          },
+          {
+            "anchor": "MSI GeForce RTX 5080 16G GAMING TRIO OC",
+            "query_en": "MSI GeForce RTX 5080 GAMING TRIO graphics card"
+          },
+          {
+            "anchor": "SAPPHIRE PULSE AMD Radeon RX 9070 GRE OC",
+            "query_en": "SAPPHIRE PULSE AMD Radeon graphics card"
+          },
+          {
+            "anchor": "Informações importantes sobre as ofertas",
+            "query_en": "Amazon prime sale electronics shopping event"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bcfb262f-e408-40e6-ad67-786099139114",
+      "title": "DeepSeek lança o modelo DeepSeek-V4.1-Flash-1017 com desempenho superior ao Claude Opus 5 em programação",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DeepSeek V4.1 Flash 1017 AI model benchmarks",
+        "images": [
+          {
+            "anchor": "Arquitetura e Parâmetros do Novo Modelo",
+            "query_en": "DeepSeek AI model server architecture neural network"
+          },
+          {
+            "anchor": "Desempenho e Comparativo com a Concorrência",
+            "query_en": "AI benchmark performance chart data analysis"
+          },
+          {
+            "anchor": "Ecossistema, APIs e Recomendações de Uso",
+            "query_en": "Hugging Face AI code repository interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "98689cad-92d2-4cd2-b119-b345473fdbd9",
+      "title": "Call of Duty no Switch 2 traz duas opções diferentes de upscaling",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sonic Racing CrossWorlds Avatar Legends Pack gameplay",
+        "video_query_en": "Call of Duty Modern Warfare 4 Switch 2 DLSS analysis",
         "images": [
           {
-            "anchor": "O Pacote Avatar Legends",
-            "query_en": "Sonic Racing CrossWorlds Aang Katara"
+            "anchor": "O lançamento e a campanha antecipada",
+            "query_en": "Call of Duty Modern Warfare 4 campaign gameplay"
           },
           {
-            "anchor": "Festival e Próximos Passos",
-            "query_en": "Sonic Racing CrossWorlds gameplay track"
+            "anchor": "As duas opções de upscaling",
+            "query_en": "Nintendo Switch 2 graphics settings menu"
           }
         ]
       }
     },
     {
-      "id": "199e2e83-6462-47ca-9a08-bbf78df444f6",
-      "title": "Coral Island confirma chegada ao Nintendo Switch 2 no inverno de 2026",
+      "id": "d29c1a75-93bb-4a3d-90fe-1103c62cd400",
+      "title": "Countdown Zelda: Ocarina Of Time Dungeon Crawl: explorando o Templo do Fogo",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Coral Island Switch 2 announcement trailer gameplay",
+        "video_query_en": "Zelda Ocarina of Time Fire Temple playthrough",
         "images": [
           {
-            "anchor": "O anúncio oficial para o novo console",
-            "query_en": "Coral Island coastal farming simulation game"
+            "anchor": "Redescobrindo o Templo do Fogo",
+            "query_en": "Zelda Ocarina of Time Fire Temple entrance"
           },
           {
-            "anchor": "Uma experiência inspirada em clássicos",
-            "query_en": "Coral Island underwater Merfolk Kingdom gameplay"
+            "anchor": "Eficiência e fluxo de progressão",
+            "query_en": "Darunia Zelda Ocarina of Time"
           },
           {
-            "anchor": "A chegada da atualização 1.4 Kids Grow Up",
-            "query_en": "Coral Island farming simulator characters and farm"
+            "anchor": "Enigmas, o Martelo Megaton e o confronto com Volvagia",
+            "query_en": "Megaton Hammer Zelda Ocarina of Time"
+          },
+          {
+            "anchor": "Reflexões para o futuro",
+            "query_en": "Volvagia boss fight Zelda Ocarina of Time"
           }
         ]
       }
     },
     {
-      "id": "91e97c4a-f42a-4771-89cb-6799ff81982f",
-      "title": "Surpresa: Aspyr estaria preparando uma remasterização de Shrek 2",
-      "category": "Games",
+      "id": "bdf52521-3f09-4ad7-bd2b-95167e65e855",
+      "title": "Especialista em segurança residencial testa quatro dispositivos essenciais para proteger a varanda",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Shrek 2 Remastered Aspyr announcement trailer leak",
+        "video_query_en": "home security devices porch doorbell smart lock",
         "images": [
           {
-            "anchor": "Detalhes do Vazamento e Trailer",
-            "query_en": "Shrek 2 game 2004 promotional art GameCube"
+            "anchor": "Uma fechadura inteligente para controlar o acesso de qualquer lugar",
+            "query_en": "smart door lock keypad installation"
           },
           {
-            "anchor": "Melhorias e Modo Cooperativo",
-            "query_en": "Shrek 2 multiplayer gameplay action adventure"
+            "anchor": "Yale’s latest Assure lock ($260)",
+            "query_en": "Yale Assure smart lock"
           },
           {
-            "anchor": "Gráficos melhorados em relação ao título original de 2004",
-            "query_en": "Shrek 2 video game character model"
+            "anchor": "August’s easy retrofit ($109)",
+            "query_en": "August smart lock retrofit"
           },
           {
-            "anchor": "Inclusão de novos recursos inéditos",
-            "query_en": "Aspyr Media logo gaming"
+            "anchor": "Schlage’s ultimate upgrade ($395)",
+            "query_en": "Schlage smart deadbolt lock"
           },
           {
-            "anchor": "Suporte a modo cooperativo para até quatro jogadores",
-            "query_en": "Four player co-op video game controller"
+            "anchor": "Uma campainha com vídeo para alertas inteligentes sobre acontecimentos",
+            "query_en": "video doorbell wireless porch camera"
           },
           {
-            "anchor": "Opções de jogo tanto no modo local quanto online",
-            "query_en": "Xbox Store digital storefront interface"
+            "anchor": "Google Nest’s compact, universal battery model ($180)",
+            "query_en": "Google Nest battery video doorbell"
           },
           {
-            "anchor": "Expectativas de Lançamento e Plataformas",
-            "query_en": "Xbox console modern gaming setup"
+            "anchor": "Tapo’s 4K beast with local video storage ($220)",
+            "query_en": "Tapo 4K video doorbell"
+          },
+          {
+            "anchor": "Blink’s ultra-affordable doorbell ($80)",
+            "query_en": "Blink video doorbell"
+          },
+          {
+            "anchor": "Uma caixa de entregas para proteger pacotes contra furtos e intempéries",
+            "query_en": "smart delivery box porch package protection"
+          },
+          {
+            "anchor": "Yale’s sturdy smart box ($335)",
+            "query_en": "Yale smart delivery box"
+          },
+          {
+            "anchor": "Hyve’s sleek pod ($297)",
+            "query_en": "Hyve delivery pod package box"
+          },
+          {
+            "anchor": "Uma lâmpada inteligente para iluminação potente e automatizada",
+            "query_en": "smart LED light bulb wifi outdoor"
+          },
+          {
+            "anchor": "GE Cync’s four-quadrant Dynamic Effect floodlight bulb ($21)",
+            "query_en": "GE Cync dynamic effect floodlight bulb"
+          },
+          {
+            "anchor": "Wiz’s highly affordable standard-sized bulb 2-pack ($22)",
+            "query_en": "Wiz smart bulb standard"
+          },
+          {
+            "anchor": "Ecosmart’s durable, extra-large floodlight bulb 2-pack ($14)",
+            "query_en": "Ecosmart large floodlight bulb"
           }
         ]
       }
     },
     {
-      "id": "9fb33622-2683-434f-80f2-3c274a1ebc56",
-      "title": "Cult of the Lamb é confirmado para o Switch 2 com opção de atualização gratuita",
+      "id": "37d981f3-a4e0-4aea-a2ce-22d43387f3c7",
+      "title": "Conheça o LibreOffice: A Alternativa Gratuita ao Microsoft 365 para Windows, Mac e Linux",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LibreOffice review features and comparison to Microsoft 365",
+        "images": [
+          {
+            "anchor": "Os aplicativos disponíveis na suíte",
+            "query_en": "LibreOffice Writer application interface screenshot"
+          },
+          {
+            "anchor": "Writer",
+            "query_en": "LibreOffice Writer text editor logo and screen"
+          },
+          {
+            "anchor": "Calc",
+            "query_en": "LibreOffice Calc spreadsheet software interface"
+          },
+          {
+            "anchor": "Impress",
+            "query_en": "LibreOffice Impress presentation software"
+          },
+          {
+            "anchor": "Draw",
+            "query_en": "LibreOffice Draw diagram tool interface"
+          },
+          {
+            "anchor": "Base",
+            "query_en": "LibreOffice Base database application"
+          },
+          {
+            "anchor": "Math",
+            "query_en": "LibreOffice Math formula editor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dce7069e-0dd3-45c6-ac09-a2820ba6aa84",
+      "title": "Sim, você provavelmente está pagando mais pelo plano de celular: para onde vai o seu dinheiro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US cellular carriers raising phone plan fees and prices",
+        "images": [
+          {
+            "anchor": "Aumento constante de taxas e impostos",
+            "query_en": "US mobile phone carrier store front"
+          },
+          {
+            "anchor": "Fim dos planos legados e migrações forçadas",
+            "query_en": "smartphone user checking phone bill app"
+          },
+          {
+            "anchor": "A erosão das garantias de preço",
+            "query_en": "person analyzing smartphone pricing plan contracts"
+          },
+          {
+            "anchor": "O cenário de longo prazo e alternativas para economizar",
+            "query_en": "prepaid mobile phone sim cards and retail packages"
+          }
+        ]
+      }
+    },
+    {
+      "id": "219a8b27-24e1-4084-aefb-ff369702af45",
+      "title": "Disneyland e Disney World: Novas Áreas, Atrações, Espectáculos e Planos para 2026 e Anos Seguintes",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Disneyland and Disney World new lands and rides preview D23",
+        "images": [
+          {
+            "anchor": "Duas Novas Atrações no Avengers Campus",
+            "query_en": "Avengers Campus Disneyland California Adventure ride concept art"
+          },
+          {
+            "anchor": "Villains Land no Disney World",
+            "query_en": "Villains Land Magic Kingdom Disney World concept art"
+          },
+          {
+            "anchor": "Monstropolis no Hollywood Studios em 2027",
+            "query_en": "Monstropolis Hollywood Studios Monsters Inc coaster concept art"
+          },
+          {
+            "anchor": "Primeira Antevisão de Piston Peak",
+            "query_en": "Piston Peak Cars Land Magic Kingdom model"
+          },
+          {
+            "anchor": "Nova Atração de Coco no California Adventure",
+            "query_en": "Coco ride California Adventure concept art"
+          },
+          {
+            "anchor": "Tropical Americas Land no Animal Kingdom",
+            "query_en": "Tropical Americas Land Animal Kingdom Disney World concept art"
+          },
+          {
+            "anchor": "Soarin’ Across America de Costa a Costa",
+            "query_en": "Soarin Across America Epcot California Adventure"
+          },
+          {
+            "anchor": "Presença de Bluey nos Parques e Novidades no Star Wars Galaxy’s Edge",
+            "query_en": "Bluey stage show Disneyland Fantasyland Theatre"
+          },
+          {
+            "anchor": "Outras Novidades e Expansões Futuras",
+            "query_en": "Disney Cruise Line ship Disney Believe concept art"
+          }
+        ]
+      }
+    },
+    {
+      "id": "73d11bac-9fe2-4b77-9df4-698e832584da",
+      "title": "Remaster de Shrek 2: O Jogo é revelado por vazamento na Xbox Store e traz de volta clássico da infância",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Cult of the Lamb Nintendo Switch 2 announcement trailer",
+        "video_query_en": "Shrek 2 The Game gameplay overview",
         "images": [
           {
-            "anchor": "A chegada ao novo console da Nintendo",
-            "query_en": "Cult of the Lamb gameplay Nintendo Switch"
+            "anchor": "O retorno inesperado de um clássico dos videogames",
+            "query_en": "Shrek 2 The Game gameplay PS2"
           },
           {
-            "anchor": "Condições de atualização e preço",
-            "query_en": "Massive Monster Cult of the Lamb artwork"
+            "anchor": "O que esperar das melhorias visuais e dos novos recursos",
+            "query_en": "Shrek 2 game characters lineup"
           },
           {
-            "anchor": "Histórico e recepção do jogo",
-            "query_en": "Cult of the Lamb cute lamb character art"
+            "anchor": "Histórico da desenvolvedora e o contexto de lançamento",
+            "query_en": "Aspyr logo developer office"
+          },
+          {
+            "anchor": "Nostalgia e o retorno da franquia Shrek aos cinemas",
+            "query_en": "Shrek movie poster DreamWorks"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e3300c93-ebb4-4a02-98eb-1da48745c2ff",
+      "title": "Como a abordagem japonesa aos negócios ajudou a Bloober Team a garantir exclusivo para o Switch 2",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bloober Team Switch 2 horror game Onyx The Dark Grip interview",
+        "images": [
+          {
+            "anchor": "A guinada na reputação da Bloober Team",
+            "query_en": "Bloober Team Silent Hill 2 remake"
+          },
+          {
+            "anchor": "- Onyx: The Dark Grip é um jogo de terror psicológico em 2.5D construído inteiramente para o modo portátil do Switch 2.",
+            "query_en": "Nintendo Switch 2 handheld console"
+          },
+          {
+            "anchor": "Inovação em nichos e a mentalidade de negócios",
+            "query_en": "Nintendo GameCube horror games"
+          },
+          {
+            "anchor": "Uma visão de longo prazo inspirada em Satoru Iwata",
+            "query_en": "Satoru Iwata Nintendo Direct"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2b19c39-45ff-4ffc-b899-c39fc5357125",
+      "title": "Escrita de GTA: Vice City era terrível, mas Ray Liotta salvou o jogo, diz Dan Houser",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Dan Houser IGN interview GTA Vice City Ray Liotta",
+        "images": [
+          {
+            "anchor": "O roteiro e a atuação",
+            "query_en": "GTA Vice City Tommy Vercetti Ray Liotta"
+          },
+          {
+            "anchor": "Como aconteceu a colaboração",
+            "query_en": "Dan Houser Rockstar Games co-founder"
+          },
+          {
+            "anchor": "Jantar inicial",
+            "query_en": "Ray Liotta young actor portrait"
+          },
+          {
+            "anchor": "Primeiras sessões em Nova York",
+            "query_en": "Recording studio microphone voice acting session"
+          },
+          {
+            "anchor": "Sessões finais em Los Angeles",
+            "query_en": "Los Angeles city skyline sunset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "710cd2e6-d441-4e5d-ac6c-901a71b764ee",
+      "title": "Marvel Rivals promete punições mais rígidas contra o problema de toxicidade e discursos de ódio no chat",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Marvel Rivals toxic speech moderation NetEase penalties",
+        "images": [
+          {
+            "anchor": "A importância da comunicação saudável no jogo",
+            "query_en": "Marvel Rivals gameplay hero shooter team match"
+          },
+          {
+            "anchor": "Insultos e ofensas verbais no chat de texto ou de voz",
+            "query_en": "video game chat toxic player communication warning"
+          },
+          {
+            "anchor": "Escalada nas punições e novas medidas",
+            "query_en": "NetEase Games logo development studio office"
+          },
+          {
+            "anchor": "A repercussão na comunidade e os desafios futuros",
+            "query_en": "Marvel Rivals community discussion gaming forum"
+          }
+        ]
+      }
+    },
+    {
+      "id": "08e9fe73-9954-48d5-8a8c-0a6677ed100c",
+      "title": "Diretor de Cyberpunk: Edgerunners usou \"câmera virtual\" em Cyberpunk 2077 para encontrar os melhores cenários da segunda temporada",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cyberpunk Edgerunners season 2 Night City virtual camera Studio Trigger",
+        "images": [
+          {
+            "anchor": "A paixão do Studio Trigger pelo universo do jogo",
+            "query_en": "Studio Trigger Cyberpunk Edgerunners anime art"
+          },
+          {
+            "anchor": "O comportamento do diretor Kai Ikarashi e o novato Roman",
+            "query_en": "Cyberpunk 2077 Night City streets virtual photography"
+          },
+          {
+            "anchor": "O que esperar da segunda temporada e novos personagens",
+            "query_en": "Cyberpunk Edgerunners season 2 Netflix"
+          },
+          {
+            "anchor": "Weak Kingsley",
+            "query_en": "Cyberpunk Edgerunners characters cyberpunk art"
+          },
+          {
+            "anchor": "Roman",
+            "query_en": "Cyberpunk 2077 Night City character concept"
+          },
+          {
+            "anchor": "Talia",
+            "query_en": "Cyberpunk futuristic anime character"
+          },
+          {
+            "anchor": "D.",
+            "query_en": "Cyberpunk Edgerunners style artwork"
+          }
+        ]
+      }
+    },
+    {
+      "id": "199e9784-36d3-4aab-bec8-c89d47adfb29",
+      "title": "Desenvolvedores de Castlevania: Belmont's Curse admitem orgulho de personagens atraentes e criam piada sobre premiação",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Castlevania Belmont's Curse gameplay trailer Evil Empire",
+        "images": [
+          {
+            "anchor": "A recepção dos fãs e as artes criativas",
+            "query_en": "Castlevania Belmonts Curse characters artwork"
+          },
+          {
+            "anchor": "Uma escolha deliberada de design",
+            "query_en": "Castlevania Belmonts Curse game design gothic"
+          },
+          {
+            "anchor": "O sucesso inesperado de Trevor Belmont",
+            "query_en": "Trevor Belmont Castlevania Belmonts Curse"
+          },
+          {
+            "anchor": "Histórias novas e conexão emocional",
+            "query_en": "Evil Empire developers Castlevania"
+          },
+          {
+            "anchor": "A recepção da crítica especializada",
+            "query_en": "Castlevania Belmonts Curse Metroidvania review"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6fb2c7f8-8476-4536-bae8-30a56ec2ebdf",
+      "title": "Como assistir Wisconsin vs. UCLA online e de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Wisconsin vs UCLA college football live stream highlights",
+        "images": [
+          {
+            "anchor": "O Grande Confronto: Wisconsin vs. UCLA",
+            "query_en": "Wisconsin Badgers college football team action"
+          },
+          {
+            "anchor": "Detalhes da Partida e Transmissão",
+            "query_en": "Rose Bowl stadium Pasadena California football"
+          },
+          {
+            "anchor": "Melhores Serviços de Streaming para Futebol Americano",
+            "query_en": "College football live streaming services on TV"
+          },
+          {
+            "anchor": "ESPN Unlimited",
+            "query_en": "ESPN sports streaming app interface"
+          },
+          {
+            "anchor": "Fox One",
+            "query_en": "Fox Sports broadcast logo stadium"
+          },
+          {
+            "anchor": "FuboTV",
+            "query_en": "FuboTV live sports streaming interface"
+          },
+          {
+            "anchor": "Hulu + Live TV",
+            "query_en": "Hulu live TV streaming service"
+          },
+          {
+            "anchor": "Sling Orange & Blue",
+            "query_en": "Sling TV sports package app"
+          },
+          {
+            "anchor": "YouTube TV",
+            "query_en": "YouTube TV live sports interface"
+          },
+          {
+            "anchor": "Como Assistir de Qualquer Lugar do Mundo",
+            "query_en": "VPN app on smartphone for streaming"
+          }
+        ]
+      }
+    },
+    {
+      "id": "533106bb-b19a-48ab-a466-99bb34811170",
+      "title": "As melhores pequenas lembranças e presentes compactos para o Natal de 2026",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best holiday stocking stuffers gift guide",
+        "images": [
+          {
+            "anchor": "Ideias compactas e marcantes para todos",
+            "query_en": "small christmas gifts stocking stuffers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "15701494-f06f-492c-8685-aaae6470b029",
+      "title": "Coleções Ultra-Premium de 30 Anos do Pokémon TCG entram em pré-venda na Amazon",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pokemon TCG 30th Anniversary Ultra-Premium Collection",
+        "images": [
+          {
+            "anchor": "O Conteúdo das Edições Ultra-Premium",
+            "query_en": "Pokemon TCG 30th Anniversary Ultra-Premium Collection"
+          },
+          {
+            "anchor": "Pokémon TCG 30th Celebration Ultra-Premium Collection Day (Espeon)",
+            "query_en": "Pokemon TCG Espeon ex promo card"
+          },
+          {
+            "anchor": "Pokémon TCG 30th Celebration Ultra-Premium Collection Night (Umbreon)",
+            "query_en": "Pokemon TCG Umbreon ex promo card"
+          },
+          {
+            "anchor": "Análise de Preços e Valores na Amazon",
+            "query_en": "Pokemon TCG booster packs collection boxes"
           }
         ]
       }
@@ -745,47 +899,10 @@
       "error": "Gemini não retornou texto (sem conteúdo)."
     },
     {
-      "id": "88ea24b5-3215-4b77-9f56-7f4160606248",
-      "title": "Qual é a diferença entre capacidade de bateria e vida útil?",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "difference between battery capacity and battery life explained",
-        "images": [
-          {
-            "anchor": "## Fatores que influenciam a capacidade e a duração",
-            "query_en": "smartphone battery capacity indicator"
-          },
-          {
-            "anchor": "## O desempenho no mundo real e a eficiência geral",
-            "query_en": "laptop battery draining performance gaming"
-          },
-          {
-            "anchor": "## Como prolongar a vida útil e cuidar da saúde da bateria",
-            "query_en": "smartphone battery health settings menu"
-          },
-          {
-            "anchor": "- O Google Pixel 8a e outros dispositivos da linha Pixel",
-            "query_en": "Google Pixel 8a smartphone"
-          },
-          {
-            "anchor": "- O modelo estadunidense do iPhone 18 Pro",
-            "query_en": "iPhone Pro smartphone battery"
-          },
-          {
-            "anchor": "- O tamanho da tela exerce forte influência, pois um iPad",
-            "query_en": "Apple iPad screen display"
-          },
-          {
-            "anchor": "- A temperatura do ambiente impacta diretamente o rendimento",
-            "query_en": "smartphone overheating in summer sun"
-          },
-          {
-            "anchor": "- A eficiência do hardware e do sistema operacional",
-            "query_en": "Apple silicon MacBook laptop"
-          }
-        ]
-      }
+      "id": "bc6b3781-19fe-4614-97a3-a0ed7e17451f",
+      "title": "Firefly’s 50-Episode Syfy Replacement Is The Best Space Western Of The Last 15 Years",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
