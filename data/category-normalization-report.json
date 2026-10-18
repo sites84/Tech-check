@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:33:04.757Z",
+  "updated_at": "2026-10-17T22:28:25.740Z",
   "fixed": [
     {
       "id": "0f77ae96-8adf-49b9-996c-40e72c05f063",
@@ -254,12 +254,6 @@
       "to": "Games"
     },
     {
-      "id": "3da9b768-003f-4b2c-a187-30ffffb89fca",
-      "title": "Google Play traz novidades com foco em IA Studio e descoberta de games",
-      "from": [],
-      "to": "Games"
-    },
-    {
       "id": "2eb739ec-9e08-4c9a-93c2-87203bb1cb3d",
       "title": "The best speeder type to use in Star Wars Galactic Racer",
       "from": [],
@@ -486,6 +480,12 @@
       "title": "4 RPGs Perfect For Fallout Fans",
       "from": [],
       "to": "Games"
+    },
+    {
+      "id": "ae2a3914-85db-45f6-8bab-f2ed454ee59f",
+      "title": "Xbox's new division will focus on TV and movie adaptations of its biggest franchises",
+      "from": [],
+      "to": "Games"
     }
   ],
   "unresolved": [
@@ -590,12 +590,6 @@
     {
       "id": "79d22d9d-83d9-4fc6-9299-f1a4ca55fbc4",
       "title": "Apple&#8217;s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "ee1d877d-cff2-45d6-81d4-e7719f329220",
-      "title": "A confusão continua: por que o padrão USB4 e os nomes como Gen 2 ainda intrigam os usuários",
       "existing": [],
       "sources": []
     },
@@ -1676,12 +1670,6 @@
       "sources": []
     },
     {
-      "id": "9644cc54-1941-41d6-8b23-c92b1e7a959b",
-      "title": "Novatek supera NT$ 30 bilhões em receita trimestral impulsionada por celulares e chips de IA",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "8a0ca7d9-478c-4d7a-929f-4f6b1c324fb0",
       "title": "Aion 2 Factions: Best Faction to choose, Elyos or Asmodians",
       "existing": [],
@@ -1722,12 +1710,6 @@
     {
       "id": "615306af-911a-44da-8030-206de6002b34",
       "title": "Dark Pictures Dev&#039;s Layoffs Have Begun, Over 70 Staff Reportedly Let Go",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "c46d096f-09ca-411d-84e1-244094982d91",
-      "title": "A fundação do Blackstone: As origens da parceria entre Stephen Schwarzman e Pete Peterson",
       "existing": [],
       "sources": []
     },
@@ -3456,12 +3438,6 @@
       "sources": []
     },
     {
-      "id": "f7cf6223-f7b8-471b-8970-2662f0b89099",
-      "title": "It's Officially The End Of An Era For The Last Of Us",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "d7c559be-d986-455d-90ce-4d31cff16c7e",
       "title": "Anthropic changes usage policy to ban model abuse and election interference",
       "existing": [],
@@ -3542,12 +3518,6 @@
     {
       "id": "33d9113a-6962-47f4-8e28-3c71f1833d02",
       "title": "The director of Fjord takes the &#8216;risky position&#8217; of moderator",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "faaaf086-1995-4b11-a902-149dd7cf6b45",
-      "title": "Empresas de Defesa da Hanwha Renovam Apoio a Associações da Aliança Coreia-EUA",
       "existing": [],
       "sources": []
     },
@@ -4074,12 +4044,6 @@
       "sources": []
     },
     {
-      "id": "97b10509-811e-4481-b692-c7374cc13085",
-      "title": "Samsung Electronics exibe ecossistema de inteligência artificial na KES 2026",
-      "existing": [],
-      "sources": []
-    },
-    {
       "id": "84ee3abd-6d2a-4d6a-9002-ee431f4d3d64",
       "title": "It appears .agent and .agi are about to be the hot new domains",
       "existing": [],
@@ -4437,6 +4401,38 @@
       "sources": [
         "TechCrunch"
       ]
+    },
+    {
+      "id": "15d3fa4c-9b61-48ff-8f32-ad931bd12d98",
+      "title": "Sony is still selling tons of discs: Marvel's Wolverine launch sales were reportedly 35% physical",
+      "existing": [],
+      "sources": [
+        "GamesRadar+"
+      ]
+    },
+    {
+      "id": "d438789d-3103-42d1-a16a-746e3d3787da",
+      "title": "Careful out there: latest GTA 6 leak has major story spoilers",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "fa904f83-30df-44ac-9854-a0347b144ad9",
+      "title": "Prime Video Officially Finds The Next Epic Fantasy Series To Rival The Witcher & LOTR",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "7237cf6c-6089-417f-b873-2bfa0bae2d10",
+      "title": "Singapura testa aplicativo de namoro que oferece apenas um par por vez e elimina o swipe",
+      "existing": [],
+      "sources": []
+    },
+    {
+      "id": "b0daef9a-b0b8-4638-b589-a727bac3b416",
+      "title": "Apple's touchscreen MacBook could arrive later this month",
+      "existing": [],
+      "sources": []
     }
   ]
 }
