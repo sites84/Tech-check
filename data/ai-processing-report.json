@@ -1,815 +1,713 @@
 {
-  "updated_at": "2026-10-18T23:21:36.553Z",
+  "updated_at": "2026-10-19T01:27:53.547Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "8ec5d4fb-2381-486c-a7b4-2321877a7ece",
-      "title": "Zelenskyy afirma que Trump pressiona a Ucrânia a se render à Rússia",
+      "id": "c2c04884-e2b9-4f23-9334-0d6a1d025705",
+      "title": "Yokohama elege novo prefeito após escândalo de assédio moral",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Volodymyr Zelenskyy Donald Trump US Ukraine war Patriot missiles",
+        "video_query_en": "Yokohama mayor election news",
         "images": [
           {
-            "anchor": "Tensões crescentes entre Kiev e Washington",
-            "query_en": "Volodymyr Zelenskyy speaking at a press conference"
+            "anchor": "O contexto da eleição em Yokohama",
+            "query_en": "Yokohama city hall Japan"
           },
           {
-            "anchor": "A proposta envolvendo refinarias russas e mísseis Patriot",
-            "query_en": "Patriot missile defense system battery deployed"
-          },
-          {
-            "anchor": "O impasse sobre as exigências",
-            "query_en": "Donald Trump speaking to reporters"
+            "anchor": "A renúncia de Takeharu Yamanaka",
+            "query_en": "Takeharu Yamanaka Yokohama mayor"
           }
         ]
       }
     },
     {
-      "id": "385f5e49-2bbe-4c93-8edc-9b385b825dc9",
-      "title": "Investidores do Japão se preparam para o mercado de ações dos EUA funcionando 23 horas por dia",
+      "id": "4b1b9746-89e8-45bc-a03c-5edee89058b1",
+      "title": "Comandante da Flydubai relata ter bloqueado golpes de machado em ataque de co-piloto",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US stock market 23 hour trading Japan investors",
+        "video_query_en": "Flydubai cockpit incident interview Capt Smit Machchhar",
         "images": [
           {
-            "anchor": "A chegada do pregão quase contínuo para o mercado americano",
-            "query_en": "Tokyo stock exchange trading floor Japan"
+            "anchor": "O susto inicial a bordo",
+            "query_en": "Flydubai airplane in flight"
           },
           {
-            "anchor": "Repercussão entre investidores de varejo e institucionais",
-            "query_en": "Japanese retail investors trading stocks"
-          },
-          {
-            "anchor": "Compradores e vendedores do varejo recebem com entusiasmo as horas adicionais de negociação, enxergando nelas maior liberdade e conveniência para gerenciar suas posições e capital.",
-            "query_en": "retail investor looking at smartphone stock chart"
-          },
-          {
-            "anchor": "Investidores institucionais adotam uma postura mais cautelosa, dedicando tempo para ponderar cuidadosamente os custos e os benefícios operacionais envolvidos na manutenção de mesas ativas por um período tão prolongado.",
-            "query_en": "financial institutional traders desk Tokyo"
-          },
-          {
-            "anchor": "Contexto global e perspectivas de mercado",
-            "query_en": "Wall Street New York stock exchange building exterior"
+            "anchor": "A luta pelo controle da aeronave",
+            "query_en": "commercial airline pilot in cockpit"
           }
         ]
       }
     },
     {
-      "id": "e2ef6f47-36ee-4e78-bc49-5505bc5e1835",
-      "title": "Japan's regional banks log record growth in property lending",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "7098868e-ee2a-4728-bd8a-4ae93c47d24c",
-      "title": "Edgcomb: A Lição de Humildade e o Marco na História de Stephen Schwarzman e da Blackstone",
+      "id": "742b5363-c9ac-4c07-a5b6-678189df2abd",
+      "title": "Papa Leão promete retorno gradual às atividades após cirurgia de câncer de pulmão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Stephen Schwarzman Blackstone history interview",
+        "video_query_en": "Pope Leo lung cancer surgery St Peters Square",
         "images": [
           {
-            "anchor": "A Sombra de Edgcomb no Escritório",
-            "query_en": "Stephen Schwarzman office desk"
+            "anchor": "O primeiro evento público após a cirurgia",
+            "query_en": "St Peters Square Vatican crowds"
           },
           {
-            "anchor": "A Reestruturação dos Processos de Investimento",
-            "query_en": "Blackstone investment meeting board room"
+            "anchor": "Detalhes do procedimento médico",
+            "query_en": "Vatican Apostolic Palace window"
+          },
+          {
+            "anchor": "Mensagem aos fiéis e próximos passos",
+            "query_en": "Pope addressing pilgrims Vatican"
           }
         ]
       }
     },
     {
-      "id": "19b3580b-4762-4311-9fe0-9f6d7002efdb",
-      "title": "SK On desenvolve novo processo de fabricação para baterias LFP com foco na redução de custos",
+      "id": "6d15a3d1-f318-4284-9fe0-0d5b96cb16b2",
+      "title": "Anthropic planeja destinar 5% de suas ações para novo fundo de benefício público",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SK On LFP battery manufacturing process carbon nanotube powder",
+        "video_query_en": "Anthropic AI public benefit fund Claude",
         "images": [
           {
-            "anchor": "A Substituição dos Materiais",
-            "query_en": "SK On LFP battery cathode manufacturing"
+            "anchor": "O anúncio do fundo e o compromisso da empresa",
+            "query_en": "Anthropic AI office building sign"
           },
           {
-            "anchor": "Próximos Passos e Avaliação Comercial",
-            "query_en": "SK On electric vehicle battery factory"
+            "anchor": "Estrutura e expansão futura do fundo",
+            "query_en": "corporate stock shares growth graph"
+          },
+          {
+            "anchor": "Contexto de mercado e governança corporativa",
+            "query_en": "business stock market initial public offering bell"
           }
         ]
       }
     },
     {
-      "id": "a425b1ec-569d-4645-9ec3-701649edb727",
-      "title": "TNE Korea define o preço de sua oferta pública inicial em 15.300 wons por ação",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "TNE Korea IPO KOSDAQ stock market",
-        "images": [
-          {
-            "anchor": "Detalhes da faixa de preço e captação",
-            "query_en": "South Korea stock exchange KOSDAQ trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fcf596cb-df3a-4369-ae61-ac4c577d9881",
-      "title": "Coway Life Solution Expands Benefits for Active Seniors",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Coway Life Solution senior care partnership Sinor",
-        "images": [
-          {
-            "anchor": "Parceria estratégica para o público sênior",
-            "query_en": "active senior care elderly lifestyle"
-          },
-          {
-            "anchor": "Acordo com a Sinor",
-            "query_en": "business memorandum of understanding agreement"
-          },
-          {
-            "anchor": "Serviços de recasamento para clientes de meia-idade e idosos",
-            "query_en": "middle aged seniors matchmaking service"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8a53a187-ef60-469e-a2f5-c9632b2b55de",
-      "title": "Doosan Enerbility promove CFO Park Sang-hyun e anuncia novo COO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Doosan Enerbility corporate news",
-        "images": [
-          {
-            "anchor": "Promoção na Diretoria Financeira",
-            "query_en": "Doosan Enerbility building office"
-          },
-          {
-            "anchor": "Nova Liderança na Operação",
-            "query_en": "Corporate executive meeting"
-          },
-          {
-            "anchor": "Park Sang-hyun: Promovido de presidente para vice-presidente",
-            "query_en": "corporate executive businessman portrait"
-          },
-          {
-            "anchor": "Song Yong-jin: Nomeado como o novo diretor de operações",
-            "query_en": "business executive in meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5e38d779-bd9e-419a-9af3-92d80f3bc897",
-      "title": "Nvidia Afirma que Escassez de Placas de Vídeo para Consumidores Está Fora do Seu Controle",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia consumer GPU shortages memory supply",
-        "images": [
-          {
-            "anchor": "Declaração Oficial em Seul",
-            "query_en": "COEX Seoul building exterior"
-          },
-          {
-            "anchor": "O Motivo da Escassez",
-            "query_en": "Nvidia graphics processing unit GPU hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "526e8278-eef3-4106-9338-7104ba20a081",
-      "title": "A expansão do modelo Donki: Don Quijote compra Toys \"R\" Us e Olympic para revitalizar varejistas em crise",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Don Quijote PPIH business strategy retail Japan",
-        "images": [
-          {
-            "anchor": "O desafio da reestruturação no varejo japonês",
-            "query_en": "Japanese retail store shopping mall Tokyo"
-          },
-          {
-            "anchor": "Toys \"R\" Us e o mercado de brinquedos",
-            "query_en": "Toys \"R\" Us store retail Japan"
-          },
-          {
-            "anchor": "Olympic e os supermercados da região metropolitana",
-            "query_en": "Japanese supermarket grocery store interior Tokyo"
-          },
-          {
-            "anchor": "Lições de casos anteriores e o futuro das marcas",
-            "query_en": "Don Quijote store exterior neon signs Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d17ef04d-b730-4a05-89fe-99d70f09dd9e",
-      "title": "[ITmedia ビジネスオンライン] AI台頭も「SEOは死んでいない」 これからの“買われる企業”の条件、サイバーエージェントが明かす",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Interoperability"
-    },
-    {
-      "id": "58592a42-d622-4f28-97b4-f6c46eabe413",
-      "title": "A nova aposta da Rakus: Conheça o 'ASURACORE', o sistema que mira em rivais como o kintone e busca os 100 bilhões de ienes",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rakus ASURACORE enterprise software business strategy",
-        "images": [
-          {
-            "anchor": "A lacuna entre o SaaS e o desenvolvimento terceirizado",
-            "query_en": "enterprise software cloud computing dashboard interface"
-          },
-          {
-            "anchor": "O papel da Inteligência Artificial e dos diretores",
-            "query_en": "artificial intelligence business technology team meeting"
-          },
-          {
-            "anchor": "Estratégia de expansão e meta financeira",
-            "query_en": "business growth corporate strategy presentation office"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c564cef0-3042-4c7e-92b2-63ba88350923",
-      "title": "改札もコンビニもAI質問も手首で。スマートウォッチは今ここまで来た",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "smartwatch features review 2026 apple watch pixel watch",
-        "images": [
-          {
-            "anchor": "スマートウォッチの区分と利用できるスマートフォンを整理",
-            "query_en": "various smartwatches and smartbands lined up"
-          },
-          {
-            "anchor": "手首をかざすだけで改札も買い物も完結",
-            "query_en": "smartwatch contactless payment at ticket gate"
-          },
-          {
-            "anchor": "荷物で手が塞がっていても目的地にたどり着けるナビ機能",
-            "query_en": "smartwatch turn by turn navigation on wrist"
-          },
-          {
-            "anchor": "タイマーやリマインダーも話しかけるだけ。Geminiも使える",
-            "query_en": "using voice assistant on smartwatch"
-          },
-          {
-            "anchor": "通知の確認から返信、ちょっとした操作はスマホイらず",
-            "query_en": "reading notifications and replying on smartwatch"
-          },
-          {
-            "anchor": "無呼吸検出からAIコーチングまで、進化するスマートウォッチの睡眠管理",
-            "query_en": "smartwatch sleep tracking and health data graph"
-          },
-          {
-            "anchor": "日常の計測や緊急時の通報、いつも身に着けているからできること",
-            "query_en": "smartwatch heart rate and ECG measurement"
-          },
-          {
-            "anchor": "スポーツやワークアウトのパートナー",
-            "query_en": "person running and tracking workout on smartwatch"
-          },
-          {
-            "anchor": "買う前に押さえておきたい現行ラインナップ",
-            "query_en": "latest smartwatch lineup apple watch pixel watch galaxy watch"
-          },
-          {
-            "anchor": "Apple Watch Series 12",
-            "query_en": "Apple Watch Series smartwatch"
-          },
-          {
-            "anchor": "Apple Watch SE 3",
-            "query_en": "Apple Watch SE model"
-          },
-          {
-            "anchor": "Apple Watch Ultra 4",
-            "query_en": "Apple Watch Ultra rugged smartwatch"
-          },
-          {
-            "anchor": "Pixel Watch 5",
-            "query_en": "Google Pixel Watch"
-          },
-          {
-            "anchor": "Galaxy Watch9",
-            "query_en": "Samsung Galaxy Watch"
-          },
-          {
-            "anchor": "Galaxy Watch Ultra2",
-            "query_en": "Samsung Galaxy Watch Ultra"
-          }
-        ]
-      }
-    },
-    {
-      "id": "16c2e72b-e87b-47f0-b595-71c2c1c3f3c9",
-      "title": "Lenovo Tab Plus Gen 2: Tablet com 9 alto-falantes supera MacBook Pro em volume",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Lenovo Tab Plus Gen 2 review speaker test",
-        "images": [
-          {
-            "anchor": "Sound que impressiona e supera notebooks",
-            "query_en": "Lenovo Tab Plus Gen 2 JBL speakers back design"
-          },
-          {
-            "anchor": "Desempenho e especificações técnicas",
-            "query_en": "Lenovo Tab Plus Gen 2 12.1 inch display"
-          },
-          {
-            "anchor": "Uso diário, vídeos e jogos",
-            "query_en": "Lenovo Tab Plus Gen 2 gaming test"
-          },
-          {
-            "anchor": "Considerations finais sobre o modelo",
-            "query_en": "Lenovo Tab Plus Gen 2 kickstand"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7c1a72ec-360e-40d8-9982-3d05f0c2446f",
-      "title": "NVIDIA RTX Spark em testes: Arm atinge até 1,8x mais fps em Marvel Rivals",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NVIDIA RTX Spark Arm Marvel Rivals gameplay review",
-        "images": [
-          {
-            "anchor": "Compatibilidade e o Desafio dos Anticheats",
-            "query_en": "ASUS ProArt P16 laptop NVIDIA RTX Spark"
-          },
-          {
-            "anchor": "Anybrain",
-            "query_en": "ARC Raiders gameplay PC"
-          },
-          {
-            "anchor": "BattlEye",
-            "query_en": "Rainbow Six Siege tactical gameplay"
-          },
-          {
-            "anchor": "Denuvo/Irdeto Denuvo Anti-Cheat",
-            "query_en": "Dead by Daylight gameplay survivors"
-          },
-          {
-            "anchor": "Embark Elytra",
-            "query_en": "THE FINALS multiplayer shooter game"
-          },
-          {
-            "anchor": "Epic Games Easy Anti-Cheat",
-            "query_en": "Fortnite battle royale gameplay"
-          },
-          {
-            "anchor": "Gaijin Viking",
-            "query_en": "War Thunder air and ground combat"
-          },
-          {
-            "anchor": "HoYoverse HoYoKProtect",
-            "query_en": "Zenless Zero Zero action game character"
-          },
-          {
-            "anchor": "INCA Internet nProtect GameGuard",
-            "query_en": "HELLDIVERS 2 action shooter gameplay"
-          },
-          {
-            "anchor": "Microsoft/Mojang",
-            "query_en": "Minecraft Bedrock Edition gameplay"
-          },
-          {
-            "anchor": "NetEase Games NetEase Game Security",
-            "query_en": "Marvel Rivals heroes gameplay action"
-          },
-          {
-            "anchor": "Nexon Nexon Game Security",
-            "query_en": "MapleStory MMORPG gameplay"
-          },
-          {
-            "anchor": "Roblox/Byfron Hyperion",
-            "query_en": "Roblox creative platform virtual world"
-          },
-          {
-            "anchor": "The Indie Stone",
-            "query_en": "Project Zomboid survival game"
-          },
-          {
-            "anchor": "Valve VAC",
-            "query_en": "Counter Strike 2 tactical shooter"
-          },
-          {
-            "anchor": "Wellbia XIGNCODE3",
-            "query_en": "Black Desert Online fantasy MMORPG"
-          },
-          {
-            "anchor": "Desempenho Prático: 3DMark e Marvel Rivals",
-            "query_en": "3DMark benchmark software testing screen"
-          },
-          {
-            "anchor": "Desempenho em Outros Títulos e Conclusão",
-            "query_en": "Cyberpunk 2077 futuristic city gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "32db1c2e-8c14-4cfc-b591-2e3b734116c3",
-      "title": "Assinatura vitalícia do aplicativo PDF Expert para Mac está com desconto",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "PDF Expert for Mac review and features",
-        "images": [
-          {
-            "anchor": "Ferramentas de edição e revisão de texto",
-            "query_en": "PDF Expert editing tools Mac"
-          },
-          {
-            "anchor": "Organização e conversão de arquivos",
-            "query_en": "PDF Expert merge split convert pages"
-          },
-          {
-            "anchor": "Recursos avançados de OCR e segurança",
-            "query_en": "PDF Expert OCR scan recognition"
-          }
-        ]
-      }
-    },
-    {
-      "id": "14d8e0ce-2e78-4ae0-9c3d-8685a0a87919",
-      "title": "Microsoft Project Professional 2024 com licença perpétua está em oferta por US$ 39,97",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft Project Professional 2024 features review",
-        "images": [
-          {
-            "anchor": "Organização de Tarefas e Cronogramas",
-            "query_en": "Microsoft Project Gantt chart interface"
-          },
-          {
-            "anchor": "Flexibilidade e Análise de Cenários",
-            "query_en": "Project management timeline software screen"
-          },
-          {
-            "anchor": "Relatórios e Recursos de Integração",
-            "query_en": "Microsoft Project reporting dashboard"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6136abee-b1e4-4c38-ae51-bc59c23d931e",
-      "title": "DC's Clayface Movie Could Fix Batman's Lack Of Original Live-Action Villains",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "52928a9b-9086-43aa-ac33-98f6852fc04e",
-      "title": "HBO Deserves Kudos For Successfully Adapting A 3-Book \"Anti-Narnia\" Fantasy Saga",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "2d247711-218e-4914-aeb9-42b1c1fb7d28",
-      "title": "A icônica cena de Goodfellas e seu único rival na história do cinema policial",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Goodfellas Copacabana one shot scene comparison Touch of Evil",
-        "images": [
-          {
-            "anchor": "A famosa caminhada no Copacabana em Os Bons Companheiros",
-            "query_en": "Goodfellas Copacabana scene Ray Liotta"
-          },
-          {
-            "anchor": "O plano-sequência de três minutos mostra Ray Liotta no papel de Henry Hill como um verdadeiro rei, conduzindo Karen através das cozinhas até o salão principal.",
-            "query_en": "Ray Liotta Lorraine Bracco Goodfellas Copacabana"
-          },
-          {
-            "anchor": "O clássico A Marca da Maldade e seu plano-sequência rival",
-            "query_en": "Touch of Evil 1958 opening scene Orson Welles"
-          }
-        ]
-      }
-    },
-    {
-      "id": "699caf88-77a4-4e05-9b36-03549288ee39",
-      "title": "As 20 melhores séries de terror e suspense de todos os tempos, segundo o Screen Rant",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "best horror tv shows of all time ranked",
-        "images": [
-          {
-            "anchor": "Stranger Things",
-            "query_en": "Stranger Things cast season 1"
-          },
-          {
-            "anchor": "Tales From The Crypt",
-            "query_en": "Tales from the Crypt Crypt Keeper"
-          },
-          {
-            "anchor": "American Horror Story",
-            "query_en": "American Horror Story Twisty the Clown"
-          },
-          {
-            "anchor": "Alfred Hitchcock Presents",
-            "query_en": "Alfred Hitchcock Presents intro"
-          },
-          {
-            "anchor": "The Exorcist",
-            "query_en": "The Exorcist TV series scene"
-          },
-          {
-            "anchor": "The Walking Dead",
-            "query_en": "The Walking Dead Rick Grimes"
-          },
-          {
-            "anchor": "Thriller",
-            "query_en": "Thriller TV show Boris Karloff"
-          },
-          {
-            "anchor": "It (1990)",
-            "query_en": "It 1990 miniseries Pennywise Tim Curry"
-          },
-          {
-            "anchor": "The Last Of Us",
-            "query_en": "The Last of Us HBO Joel and Ellie"
-          },
-          {
-            "anchor": "The Addams Family",
-            "query_en": "The Addams Family 1964 cast"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1fb50773-8b06-4ce6-8ee7-7c23dd11ad30",
-      "title": "Os 5 Maiores Jogos de Fantasia Lançados na Década de 2000",
+      "id": "f9defc1c-cd92-4419-8c94-277424821413",
+      "title": "New York Knicks se preparam para hastear bandeira de campeões no início da nova temporada da NBA",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "greatest fantasy games of the 2000s retrospective",
+        "video_query_en": "New York Knicks championship banner ceremony NBA",
         "images": [
           {
-            "anchor": "World of Warcraft",
-            "query_en": "World of Warcraft classic gameplay characters"
+            "anchor": "A Grande Conquista dos Knicks",
+            "query_en": "New York Knicks arena championship banner"
           },
           {
-            "anchor": "Final Fantasy 10",
-            "query_en": "Final Fantasy X ps2 gameplay cinematic"
-          },
-          {
-            "anchor": "Dragon Age: Origins",
-            "query_en": "Dragon Age Origins combat tactical view"
-          },
-          {
-            "anchor": "The Legend of Zelda: The Wind Waker",
-            "query_en": "The Legend of Zelda The Wind Waker sailing Link"
-          },
-          {
-            "anchor": "The Elder Scrolls 3: Morrowind",
-            "query_en": "The Elder Scrolls III Morrowind Vvardenfell landscape"
+            "anchor": "Campanha Dominante nos Playoffs",
+            "query_en": "New York Knicks playoff game action"
           }
         ]
       }
     },
     {
-      "id": "68b16ddd-52d6-4e7d-bae1-7f73722d5519",
-      "title": "As mudanças confirmadas em As Crônicas de Nárnia: O Sobrinho do Mago e o que elas significam",
-      "category": "Filmes, Séries e Animações",
+      "id": "a70b1e7d-6155-44cd-8ce8-2c8a180cfd9e",
+      "title": "Alagamentos testam as ambições de crescimento de Ho Chi Minh City",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The Chronicles of Narnia The Magicians Nephew trailer changes analysis",
+        "video_query_en": "Ho Chi Minh City flooding infrastructure drainage",
         "images": [
           {
-            "anchor": "O Sobrinho do Mago muda totalmente sua ambientação temporal",
-            "query_en": "Greta Gerwig The Chronicles of Narnia set filming 1950s"
+            "anchor": "O impacto das enchentes no polo econômico",
+            "query_en": "Ho Chi Minh City street flooding traffic"
           },
           {
-            "anchor": "Jadis e o mundo de Charn estão irreconhecíveis",
-            "query_en": "Jadis White Witch Chronicles of Narnia book art"
+            "anchor": "Desafios para a expansão e o desenvolvimento",
+            "query_en": "Ho Chi Minh City urban development traffic"
           },
           {
-            "anchor": "Os poderes mágicos de Jadis em Londres",
-            "query_en": "The Magicians Nephew London scene Jadis"
-          },
-          {
-            "anchor": "O Bosque Entre os Mundos ganha um aspecto mais selvagem",
-            "query_en": "Wood Between the Worlds Chronicles of Narnia concept art"
-          },
-          {
-            "anchor": "A criação de Nárnia é retratada de forma inovadora",
-            "query_en": "Aslan singing Narnia into creation"
+            "anchor": "Necessidade de reformas estruturais urgentes",
+            "query_en": "Ho Chi Minh City drainage infrastructure construction"
           }
         ]
       }
     },
     {
-      "id": "a6a30330-f16d-4263-974b-82deb32e9a43",
-      "title": "As 5 Melhores Séries de Fantasia no Prime Video com Duas ou Mais Temporadas",
-      "category": "Filmes, Séries e Animações",
+      "id": "6f36274e-411a-4de0-adf1-7d01056ee6b0",
+      "title": "Oasis Management avalia convocar assembleia para reformular conselho da Nidec",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best fantasy series on prime video",
+        "video_query_en": "Oasis Management Nidec board meeting activist investor",
         "images": [
           {
-            "anchor": "Undone",
-            "query_en": "Undone prime video animation"
+            "anchor": "A posição da Oasis Management na Nidec",
+            "query_en": "Nidec electric motor factory Japan"
           },
           {
-            "anchor": "Carnival Row",
-            "query_en": "Carnival Row Orlando Bloom Cara Delevingne"
+            "anchor": "O contexto de crise e escândalos contábeis",
+            "query_en": "Tokyo Stock Exchange building Japan"
           },
           {
-            "anchor": "The Wheel Of Time",
-            "query_en": "The Wheel of Time prime video series"
-          },
-          {
-            "anchor": "The Rings Of Power",
-            "query_en": "The Rings of Power prime video"
-          },
-          {
-            "anchor": "Good Omens",
-            "query_en": "Good Omens David Tennant Michael Sheen"
+            "anchor": "Desafios de governança e liderança",
+            "query_en": "Corporate board room meeting business"
           }
         ]
       }
     },
     {
-      "id": "5c45913b-7b00-4f02-840c-25b5a0d362ca",
-      "title": "2026's 174-Minute Masterpiece Is Officially The Highest-Rated Movie In History",
-      "category": "Filmes, Séries e Animações",
+      "id": "ee3cb946-0492-4181-9951-604ee663e7bd",
+      "title": "Taiwan busca cooperação internacional em novo plano quinquenal de computação quântica",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "You Can See Everything documentary Nathan Fielder trailer review",
+        "video_query_en": "Taiwan quantum computing research NSTC",
         "images": [
           {
-            "anchor": "Uma parceria inusitada nos bastidores",
-            "query_en": "Nathan Fielder director portrait"
+            "anchor": "O Novo Marco para a Tecnologia Quântica em Taiwan",
+            "query_en": "quantum computer laboratory equipment"
           },
           {
-            "anchor": "O fenômeno no Letterboxd e recordes históricos",
-            "query_en": "Letterboxd app interface movie rating"
-          },
-          {
-            "anchor": "Harakiri, que registrava média de 4,7",
-            "query_en": "Harakiri 1962 movie poster"
-          },
-          {
-            "anchor": "The Human Condition III: A Soldier's Prayer, com média de 4,7",
-            "query_en": "The Human Condition III A Soldiers Prayer movie"
-          },
-          {
-            "anchor": "12 Angry Men, alcançando 4,6",
-            "query_en": "12 Angry Men 1957 movie scene"
-          },
-          {
-            "anchor": "Come and See, também com 4,6",
-            "query_en": "Come and See 1985 movie still"
-          },
-          {
-            "anchor": "Recepção crítica e aprovação unânime",
-            "query_en": "Elizabeth Holmes court courtroom sketch"
-          },
-          {
-            "anchor": "O desempenho estrondoso nas bilheterias",
-            "query_en": "cinema box office ticket counter"
-          },
-          {
-            "anchor": "Panorama do mercado cinematográfico no fim de semana",
-            "query_en": "movie theater auditorium audience"
+            "anchor": "A Importância das Parcerias Globais",
+            "query_en": "quantum technology international conference science"
           }
         ]
       }
     },
     {
-      "id": "fea3e736-9050-4b73-9bea-f1765154ddc8",
-      "title": "Os 10 melhores quadrinhos de The Far Side com animais, classificados",
-      "category": "Filmes, Séries e Animações",
+      "id": "a94db565-9739-4d12-9e9e-bc3909d3fad2",
+      "title": "TelePIX avança em contratos globais e mira lançamento espacial em 2027",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Gary Larson The Far Side classic animal comics analysis",
+        "video_query_en": "TelePIX South Korea space AI satellite optical payload",
         "images": [
           {
-            "anchor": "10. Bummer of a Birthmark, Hal",
-            "query_en": "Gary Larson deer bullseye birthmark comic"
+            "anchor": "Desenvolvimento de cargas úteis ópticas",
+            "query_en": "optical satellite payload space technology"
           },
           {
-            "anchor": "9. O Rancho do Frango Desossado",
-            "query_en": "Gary Larson boneless chicken ranch comic"
-          },
-          {
-            "anchor": "8. Apenas um Pouco de sopro e estardalhaço",
-            "query_en": "Gary Larson pigs big bad wolf phone comic"
-          },
-          {
-            "anchor": "7. Alguém aqui não comeu a lição de casa?",
-            "query_en": "Gary Larson dog classroom eat homework comic"
-          },
-          {
-            "anchor": "6. A vaca que dominou o toque e fuga",
-            "query_en": "Gary Larson cow ding dong ditch doorbell comic"
-          },
-          {
-            "anchor": "5. E agora Edgar se foi",
-            "query_en": "Gary Larson penguins polar bear disguise comic"
-          },
-          {
-            "anchor": "4. O rebanho cheio de lobos",
-            "query_en": "Gary Larson wolves in sheep clothing comic"
-          },
-          {
-            "anchor": "3. O primeiro microscópio do mundo",
-            "query_en": "Gary Larson first microscope caveman mammoth comic"
-          },
-          {
-            "anchor": "2. O inferno dos cachorros",
-            "query_en": "Gary Larson dog hell mailman comic"
-          },
-          {
-            "anchor": "1. Ele mordeu o chefão",
-            "query_en": "Gary Larson he bit the godfather mafia dog comic"
+            "anchor": "Planos para 2027",
+            "query_en": "satellite launch rocket in space"
           }
         ]
       }
     },
     {
-      "id": "7b72511d-442d-448d-86ca-9fb4a7758bd3",
-      "title": "Nicolas Cage Finds His Spider-Noir Replacement In New HBO Series",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "0c28be2d-3e59-41a1-a0ac-69f82fc21ef0",
-      "title": "Filme live-action de Street Fighter fatura mais de US$ 50 milhões no fim de semana de estreia",
-      "category": "Filmes, Séries e Animações",
+      "id": "dccaafe9-a360-4076-abe0-46d9ba11a5b0",
+      "title": "Terceirização de energia solar espacial ganha força enquanto Taiwan mira concorrentes da SpaceX",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Street Fighter live action movie box office opening weekend",
+        "video_query_en": "low Earth orbit satellites solar cells aerospace technology",
         "images": [
           {
-            "anchor": "Expectativas de bilheteria e orçamento",
-            "query_en": "Street Fighter live action movie poster"
+            "anchor": "O crescimento do mercado de satélites em órbita baixa",
+            "query_en": "low Earth orbit satellite in space"
           },
           {
-            "anchor": "Bastidores e recepção do público",
-            "query_en": "Street Fighter movie audience reaction"
+            "anchor": "Novas oportunidades para a indústria taiwanesa",
+            "query_en": "solar panels manufacturing technology Taiwan"
           }
         ]
       }
     },
     {
-      "id": "1ca887de-4e6a-462b-bda0-830d770f5ff5",
-      "title": "Policial de Savannah é demitida após compartilhar acesso a sistema de placas com marido agente do ICE",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Savannah police officer fired Flock safety system ICE agent",
-        "images": [
-          {
-            "anchor": "Investigação e demissão na polícia de Savannah",
-            "query_en": "Savannah police department badge patrol car"
-          },
-          {
-            "anchor": "Buscas não autorizadas e perfil dos alvos",
-            "query_en": "Flock safety automated license plate reader camera"
-          },
-          {
-            "anchor": "Divergências internas e desdobramentos",
-            "query_en": "US Immigration and Customs Enforcement ICE building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5fe449b7-f202-4e72-86ea-651dada4b743",
-      "title": "Tudo sobre o Image Playground da Apple: o que é e como usar",
+      "id": "259e3855-ae9d-4bb2-acf3-886e306db5dc",
+      "title": "ByteDance Seed cria departamento de segurança em IA e inicia recrutamento global",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple Image Playground app review and how to use",
+        "video_query_en": "ByteDance AI research Seed safety department recruitment",
         "images": [
           {
-            "anchor": "O que é o Apple Image Playground?",
-            "query_en": "Apple Image Playground app interface on iPhone"
+            "anchor": "Expansão e Recrutamento Global",
+            "query_en": "ByteDance office building Beijing"
           },
           {
-            "anchor": "Como utilizar o aplicativo?",
-            "query_en": "Apple Image Playground generation screen and styles menu"
+            "anchor": "Pequim",
+            "query_en": "Beijing skyline tech district"
+          },
+          {
+            "anchor": "Xangai",
+            "query_en": "Shanghai technology hub"
+          },
+          {
+            "anchor": "San Jose",
+            "query_en": "San Jose California Silicon Valley"
+          },
+          {
+            "anchor": "Foco em Riscos e Alinhamento",
+            "query_en": "Artificial intelligence safety research concept"
           }
         ]
       }
+    },
+    {
+      "id": "e1387c53-ddcc-403b-9d6e-93f91b8d53f1",
+      "title": "Aposta da União Europeia em preços mínimos de importação de veículos elétricos corre o risco de repetir erros do setor solar",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "EU minimum import prices electric vehicles solar China trade policy",
+        "images": [
+          {
+            "anchor": "O retorno das barreiras comerciais e dos preços mínimos",
+            "query_en": "EU trade policy electric vehicles container ship port"
+          },
+          {
+            "anchor": "Lições não aprendidas com a energia solar",
+            "query_en": "solar panels photovoltaic farm green energy"
+          },
+          {
+            "anchor": "Impacto no mercado de energia solar fotovoltaica e o uso de barreiras comerciais históricas",
+            "query_en": "solar energy trade barriers industry"
+          },
+          {
+            "anchor": "Restrições atuais de importação aplicadas a novos veículos de energia",
+            "query_en": "electric vehicles import restrictions port logistics"
+          },
+          {
+            "anchor": "Estratégias de governos ocidentais para proteger mercados locais da concorrência chinesa",
+            "query_en": "European Union flag trade policy meeting"
+          },
+          {
+            "anchor": "Perspectivas para a indústria automotiva e tecnológica",
+            "query_en": "modern electric vehicle assembly line automotive factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b90cf02-7e79-4f39-a986-5dec830667f0",
+      "title": "Lite-On exibe tecnologia de energia de 800VDC em evento da Nvidia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lite-On Nvidia MGX OCP Global Summit 2026 power technology",
+        "images": [
+          {
+            "anchor": "O papel da Lite-On no ecossistema da Nvidia",
+            "query_en": "Nvidia MGX Ecosystem Ceremony OCP Global Summit 2026"
+          },
+          {
+            "anchor": "Tecnologias em destaque no OCP Global Summit 2026",
+            "query_en": "Lite-On 800VDC Power Rack OCP exhibition"
+          },
+          {
+            "anchor": "Power Rack de 800VDC, projetado para suportar as necessidades de alta potência da infraestrutura de inteligência artificial de nova geração.",
+            "query_en": "Lite-On Power Rack 800VDC AI infrastructure"
+          },
+          {
+            "anchor": "Power Brick de 800V para 50V, evidenciando a capacidade da empresa em conversão e gerenciamento eficiente de energia para servidores modernos.",
+            "query_en": "Lite-On 800V to 50V Power Brick server technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "217a2d75-ae30-41b1-a4aa-a910c783e6a4",
+      "title": "Demanda por equipamentos de semicondutores cresce enquanto riscos contêm bolha de IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "semiconductor equipment demand 12 inch fab SEMI outlook",
+        "images": [
+          {
+            "anchor": "Fatores de contenção e equilíbrio de mercado",
+            "query_en": "semiconductor manufacturing cleanroom wafer fab"
+          },
+          {
+            "anchor": "O impacto das restrições externas",
+            "query_en": "silicon wafer manufacturing equipment semiconductor industry"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a7b1836f-5eac-4e76-9d7d-907f91fee64e",
+      "title": "Aposta da Tata em semicondutores na Índia enfrenta desafios de execução e expansão de mercado",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "India semiconductor ecosystem Tata Dholera fab manufacturing",
+        "images": [
+          {
+            "anchor": "O panorama dos semicondutores na Índia",
+            "query_en": "India semiconductor technology manufacturing electronics"
+          },
+          {
+            "anchor": "Desafios para a fábrica da Tata em Dholera",
+            "query_en": "Tata semiconductor manufacturing plant Dholera India"
+          },
+          {
+            "anchor": "Crescimento do ecossistema e investimentos em IA",
+            "query_en": "artificial intelligence hardware semiconductor infrastructure India"
+          }
+        ]
+      }
+    },
+    {
+      "id": "05079ba8-5a61-42d0-bd8f-436a15cc9ad8",
+      "title": "Aposta da Nvidia em memória HBM personalizada faz Samsung adotar processo de 3nm da TSMC",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia custom HBM Samsung TSMC 3nm",
+        "images": [
+          {
+            "anchor": "A mudança de postura da Samsung",
+            "query_en": "Samsung semiconductor manufacturing facility cleanroom"
+          },
+          {
+            "anchor": "Uma parceria inédita na fabricação de HBM",
+            "query_en": "TSMC wafer fabrication cleanroom technology"
+          },
+          {
+            "anchor": "O impacto do design personalizado",
+            "query_en": "Nvidia advanced AI chip hardware architecture"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6ed60e10-985f-4e89-b5ed-38b9bcc283dd",
+      "title": "Câmera de segurança EufyCam C35 com suporte a magnetismo entra em promoção com 20% de desconto na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "EufyCam C35 security camera review features",
+        "images": [
+          {
+            "anchor": "Facilidade de instalação com suporte magnético",
+            "query_en": "EufyCam security camera magnetic mount installation"
+          },
+          {
+            "anchor": "Qualidade de imagem 2K e visão noturna colorida",
+            "query_en": "security camera night vision color 2K resolution"
+          },
+          {
+            "anchor": "Durabilidade contra intempéries com certificação IP67",
+            "query_en": "outdoor security camera IP67 waterproof weatherproof"
+          }
+        ]
+      }
+    },
+    {
+      "id": "85682f25-c889-4a4a-8693-267576c3bdd7",
+      "title": "Headphone (1) da Nothing com design transparente está em promoção com 25% de desconto por 29.800 ienes",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nothing Headphone 1 review design sound",
+        "images": [
+          {
+            "anchor": "Design transparente e identidade visual única",
+            "query_en": "Nothing Headphone 1 transparent design"
+          },
+          {
+            "anchor": "Qualidade sonora supervisionada pela KEF",
+            "query_en": "KEF audio brand equipment"
+          },
+          {
+            "anchor": "Bateria de longa duração para uso prolongado",
+            "query_en": "wireless headphone battery life"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be210ca5-1815-4ab7-b95e-d17445939685",
+      "title": "[ITmedia PC USER] 大容量データを即座に持ち運べる「UGREEN 外付け SSD 40Gbps 1TB」がセールで34％オフの3万6374円に",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Computers"
+    },
+    {
+      "id": "2af6a4c5-00ab-4325-a6ca-b20e5eb83521",
+      "title": "Creative Pebble em Oferta: Caixa de Som para PC com Design Esférico Recebe 15% de Desconto na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Creative Pebble PC speaker review and sound test",
+        "images": [
+          {
+            "anchor": "Características do Design e Desempenho Sonoro",
+            "query_en": "Creative Pebble PC speakers spherical design"
+          },
+          {
+            "anchor": "Corpo com design esférico e arredondado que otimiza o espaço na mesa",
+            "query_en": "Creative Pebble speakers on desk setup"
+          },
+          {
+            "anchor": "Disponibilidade da Promoção",
+            "query_en": "Creative Pebble speaker box packaging"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b0b7eaf9-72b7-49ff-affe-6869008674dd",
+      "title": "Anker PowerConf em promoção: speakerphone para reuniões com 36% de desconto na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anker PowerConf speakerphone review and features",
+        "images": [
+          {
+            "anchor": "Detalhes da Oferta e Desconto",
+            "query_en": "Amazon Japan package delivery box e-commerce"
+          },
+          {
+            "anchor": "Recursos Principais do Anker PowerConf",
+            "query_en": "Anker PowerConf speakerphone device"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1561dfab-d47c-4aad-ab1e-8784934a3724",
+      "title": "MSI PRO MP251W E2: Monitor Comercial de 24,5 Polegadas com 120Hz em Promoção",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "MSI PRO MP251W E2 review monitor",
+        "images": [
+          {
+            "anchor": "Detalhes do Desconto e Preço Promocional",
+            "query_en": "Amazon Japan package delivery box ecommerce"
+          },
+          {
+            "anchor": "Especificações e Recursos Técnicos",
+            "query_en": "MSI PRO MP251W E2 monitor screen"
+          },
+          {
+            "anchor": "Posicionamento no Mercado",
+            "query_en": "modern office desk setup dual monitor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "df5e9880-e525-4238-80f6-61728c8e9f17",
+      "title": "Teclado Esquerdo Razer Tartarus V2 com 42% de Desconto na Amazon",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Razer Tartarus V2 review gameplay",
+        "images": [
+          {
+            "anchor": "Recursos e Funcionalidades para Jogadores",
+            "query_en": "Razer Tartarus V2 keypad gaming setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7275a24d-a274-4e51-8d7e-51a2a57b9b2c",
+      "title": "Notebook de 16 polegadas com recursos de IA da HP é ofertado com desconto de 32% em promoção na Amazon japonesa",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HP OmniBook 16 review features",
+        "images": [
+          {
+            "anchor": "Detalhes da Promoção e Redução de Preço",
+            "query_en": "Amazon Japan online shopping website interface"
+          },
+          {
+            "anchor": "Especificações Técnicas e Desempenho",
+            "query_en": "HP OmniBook laptop open on desk"
+          },
+          {
+            "anchor": "Processador Intel Core Ultra 5 225U, projetado para equilibrar desempenho multitarefa e autonomia de bateria.",
+            "query_en": "Intel Core Ultra processor chip close up"
+          },
+          {
+            "anchor": "16GB de memória RAM, capacidade considerada adequada para multitarefa fluida e execução de aplicativos modernos.",
+            "query_en": "Laptop motherboard memory RAM slots"
+          },
+          {
+            "anchor": "Tela de 16 polegadas, oferecendo maior espaço de visualização para planilhas, documentos e consumo de multimídia.",
+            "query_en": "Large 16 inch laptop screen display"
+          },
+          {
+            "anchor": "Posicionamento no Mercado Atual",
+            "query_en": "Modern silver laptop computer on wooden table"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f277319c-8391-4c43-a7f2-41de97401152",
+      "title": "Ted Lasso: Jason Sudeikis traz atualização desanimadora sobre a quinta temporada",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ted Lasso season 4 5 Jason Sudeikis interview update",
+        "images": [
+          {
+            "anchor": "A situação dos bastidores e a falta de uma sala de roteiristas",
+            "query_en": "Jason Sudeikis Ted Lasso season 4"
+          },
+          {
+            "anchor": "O que diz Brendan Hunt e o final da quarta temporada",
+            "query_en": "Brendan Hunt Ted Lasso Coach Beard"
+          },
+          {
+            "anchor": "A Treinadora Alice Chilton, interpretada por Tanya Reynolds, assumiu o cargo de nova gerente principal do Lady Greyhounds.",
+            "query_en": "Tanya Reynolds Ted Lasso Alice Chilton"
+          },
+          {
+            "anchor": "Ted Lasso tornou-se gerente assistente para ficar mais próximo e presente na vida de seu filho, Henry, vivido por Grant Feely.",
+            "query_en": "Jason Sudeikis Ted Lasso season 4"
+          },
+          {
+            "anchor": "Rebecca Welton, papel de Hannah Waddingham, garantiu a retenção da maioria acionária do A.F.C. Richmond com a ajuda de Mae, interpretada por Annette Badland.",
+            "query_en": "Hannah Waddingham Rebecca Welton Ted Lasso"
+          },
+          {
+            "anchor": "O trio de torcedores assumiu o comando do pub Crown & Anchor, pertencente a Mae.",
+            "query_en": "Annette Badland Mae Ted Lasso"
+          },
+          {
+            "anchor": "Roy Kent, interpretado por Brett Goldstein, aceitou a posição de gerente principal no Chelsea.",
+            "query_en": "Brett Goldstein Roy Kent Ted Lasso"
+          },
+          {
+            "anchor": "Keeley Jones, vivida por Juno Temple e atualmente grávida, mudou-se para o Chelsea junto com Roy.",
+            "query_en": "Juno Temple Keeley Jones Ted Lasso"
+          },
+          {
+            "anchor": "Fatores que mantêm a esperança de renovação",
+            "query_en": "Ted Lasso season 4 cast Apple TV"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ece8903a-fdee-4043-b0b1-358c1bb04298",
+      "title": "5 Best New Disney+ Series To Binge-Watch This Week (October 19–23, 2026)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries"
+    },
+    {
+      "id": "7ff13902-ace9-46f5-ab99-f51f5f315601",
+      "title": "Good Heavens!: Novo RPG de mundo aberto mistura visual de Adventure Time com jogabilidade de Stardew Valley",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Good Heavens game early access gameplay trailer",
+        "images": [
+          {
+            "anchor": "Uma proposta visual e temática única",
+            "query_en": "Good Heavens game art style Adventure Time aesthetic"
+          },
+          {
+            "anchor": "Exploração e sobrevivência em Xant-Rar",
+            "query_en": "Good Heavens open world RPG island exploration"
+          },
+          {
+            "anchor": "Combate, cooperação e mecânicas de sobrevivência",
+            "query_en": "Good Heavens game co-op action combat"
+          },
+          {
+            "anchor": "Exploração de biomas misteriosos e construção de bases.",
+            "query_en": "Good Heavens base building crafting survival"
+          },
+          {
+            "anchor": "Domínio de seis árvores tecnológicas distintas.",
+            "query_en": "Good Heavens tech tree menu interface"
+          },
+          {
+            "anchor": "Reconstrução de cidades caídas e suporte a um deus desajeitado.",
+            "query_en": "Good Heavens town management settlement"
+          },
+          {
+            "anchor": "Suporte para partidas solo ou cooperativas online para até 8 jogadores.",
+            "query_en": "Good Heavens multiplayer co-op gameplay"
+          },
+          {
+            "anchor": "Recepção positiva no Steam e o futuro do jogo",
+            "query_en": "Good Heavens Steam reviews positive early access"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c079a3c-c8ee-4e56-ad88-a1244f541cca",
+      "title": "As tirinhas mais dolorosas de Snoopy que provam que Peanuts sempre foi muito além da comédia",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Peanuts Snoopy sad comic strips analysis",
+        "images": [
+          {
+            "anchor": "Um dia chuvoso e melancólico",
+            "query_en": "Snoopy sad rainy day comic strip"
+          },
+          {
+            "anchor": "O significado profundo da casinha de Snoopy",
+            "query_en": "Snoopy doghouse highway Peanuts comic"
+          },
+          {
+            "anchor": "A importância dos humanos na vida dos cães",
+            "query_en": "Snoopy hugging Charlie Brown Peanuts"
+          },
+          {
+            "anchor": "O incêndio da casinha de Snoopy",
+            "query_en": "Snoopy doghouse fire comic strip"
+          },
+          {
+            "anchor": "Reflexões sobre o amadurecimento",
+            "query_en": "Snoopy looking at the moon Peanuts"
+          },
+          {
+            "anchor": "O susto com Olaf e a dor invisível",
+            "query_en": "Olaf and Snoopy Peanuts comic strip"
+          },
+          {
+            "anchor": "Solidão e o Dia das Mães",
+            "query_en": "Snoopy sad Mothers day Peanuts comic"
+          },
+          {
+            "anchor": "O fim de um noivado",
+            "query_en": "Snoopy rejected marriage proposal Peanuts"
+          },
+          {
+            "anchor": "A árvore cortada de Woodstock",
+            "query_en": "Snoopy and Woodstock tree cut down comic"
+          },
+          {
+            "anchor": "A saudade eterna da família",
+            "query_en": "Snoopy missing family Peanuts comic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "36ad0d51-b762-4975-ab00-3701c2f8b3eb",
+      "title": "Astro da série Marshals esclarece planos sobre o futuro romântico de Kayce Dutton",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Marshals Luke Grimes Ash Santos interview Yellowstone Kayce Andrea",
+        "images": [
+          {
+            "anchor": "A dinâmica entre Kayce e Andrea Cruz",
+            "query_en": "Ash Santos Luke Grimes Marshals TV show"
+          },
+          {
+            "anchor": "A despedida de Monica e o peso do luto",
+            "query_en": "Kelsey Asbille Monica Dutton Yellowstone"
+          },
+          {
+            "anchor": "O futuro amoroso e o sucesso de audiência",
+            "query_en": "Luke Grimes Kayce Dutton Marshals CBS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4893b580-4654-44cd-9466-b0196c56eec8",
+      "title": "5 Best New Apple TV Series To Binge-Watch This Week (October 19–23, 2026)",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
