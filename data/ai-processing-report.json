@@ -1,719 +1,812 @@
 {
-  "updated_at": "2026-10-18T20:52:38.797Z",
+  "updated_at": "2026-10-18T23:21:36.553Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "c52d052f-2d91-4d35-a9d1-3f15c5be0875",
-      "title": "Subaru planeja lançar veículos definidos por software no final da década",
+      "id": "8ec5d4fb-2381-486c-a7b4-2321877a7ece",
+      "title": "Zelenskyy afirma que Trump pressiona a Ucrânia a se render à Rússia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Subaru software defined vehicles future technology",
+        "video_query_en": "Volodymyr Zelenskyy Donald Trump US Ukraine war Patriot missiles",
         "images": [
           {
-            "anchor": "Modernização e redução do tempo de desenvolvimento",
-            "query_en": "Subaru electric vehicle prototype digital design"
+            "anchor": "Tensões crescentes entre Kiev e Washington",
+            "query_en": "Volodymyr Zelenskyy speaking at a press conference"
           },
           {
-            "anchor": "Estratégia para o futuro da marca",
-            "query_en": "Subaru car manufacturing plant Japan"
+            "anchor": "A proposta envolvendo refinarias russas e mísseis Patriot",
+            "query_en": "Patriot missile defense system battery deployed"
+          },
+          {
+            "anchor": "O impasse sobre as exigências",
+            "query_en": "Donald Trump speaking to reporters"
           }
         ]
       }
     },
     {
-      "id": "fe3a2f7c-0d32-4020-a3fb-d400179d402f",
-      "title": "Japan to allow 'Taiwan' as place of origin in some national records",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Política"
-    },
-    {
-      "id": "cfdbea64-3cb2-48f9-9e34-3709afffdbd0",
-      "title": "Os riscos da governança independente de Sanae Takaichi no Japão",
+      "id": "385f5e49-2bbe-4c93-8edc-9b385b825dc9",
+      "title": "Investidores do Japão se preparam para o mercado de ações dos EUA funcionando 23 horas por dia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sanae Takaichi Japan politics prime minister",
+        "video_query_en": "US stock market 23 hour trading Japan investors",
         "images": [
           {
-            "anchor": "Popularidade baseada na falta de alternativas",
-            "query_en": "Japanese politics public opinion poll"
+            "anchor": "A chegada do pregão quase contínuo para o mercado americano",
+            "query_en": "Tokyo stock exchange trading floor Japan"
           },
           {
-            "anchor": "O desafio da gestão de crises",
-            "query_en": "Japanese parliament building Tokyo politics"
+            "anchor": "Repercussão entre investidores de varejo e institucionais",
+            "query_en": "Japanese retail investors trading stocks"
+          },
+          {
+            "anchor": "Compradores e vendedores do varejo recebem com entusiasmo as horas adicionais de negociação, enxergando nelas maior liberdade e conveniência para gerenciar suas posições e capital.",
+            "query_en": "retail investor looking at smartphone stock chart"
+          },
+          {
+            "anchor": "Investidores institucionais adotam uma postura mais cautelosa, dedicando tempo para ponderar cuidadosamente os custos e os benefícios operacionais envolvidos na manutenção de mesas ativas por um período tão prolongado.",
+            "query_en": "financial institutional traders desk Tokyo"
+          },
+          {
+            "anchor": "Contexto global e perspectivas de mercado",
+            "query_en": "Wall Street New York stock exchange building exterior"
           }
         ]
       }
     },
     {
-      "id": "35af9903-62bc-4b5e-bf04-a3093d966c4a",
-      "title": "Japão lança a primeira missão da história rumo a Marte projetada para retornar à Terra",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "JAXA Martian Moons Exploration MMX launch Phobos",
-        "images": [
-          {
-            "anchor": "Origem dos Mistérios Marcianos",
-            "query_en": "Phobos moon Mars surface space"
-          },
-          {
-            "anchor": "Cooperação Internacional e Instrumentos Avançados",
-            "query_en": "JAXA spacecraft model space exploration"
-          },
-          {
-            "anchor": "O Desafio do Pouso e a Coleta do Solo",
-            "query_en": "Honeybee Robotics sampler space mission"
-          },
-          {
-            "anchor": "Módulos e o Retorno à Terra",
-            "query_en": "space capsule return to Earth desert landing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a79e06ff-f689-4626-affd-faece526977f",
-      "title": "Anthropic apresenta proposta de lei de segurança de IA ao Congresso dos EUA",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic AI safety bill Congress regulation",
-        "images": [
-          {
-            "anchor": "O que o projeto de lei proposto prevê",
-            "query_en": "Anthropic AI Claude model safety"
-          },
-          {
-            "anchor": "Incidentes recentes e o cenário regulatório atual",
-            "query_en": "Artificial intelligence safety research lab"
-          },
-          {
-            "anchor": "O panorama político em Washington e na indústria",
-            "query_en": "US Capitol building Washington DC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "460be504-9e0b-4679-8ade-b2e799e34742",
-      "title": "O que é Ninku? Entenda o novo crossover de Naruto",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ninku Naruto crossover anime special explained",
-        "images": [
-          {
-            "anchor": "Os bastidores do especial e o Studio Pierrot",
-            "query_en": "Studio Pierrot Naruto anime production"
-          },
-          {
-            "anchor": "As origens de Ninku nos anos 90",
-            "query_en": "Ninku Koji Kiriyama Shonen Jump manga"
-          },
-          {
-            "anchor": "A influência direta na criação de Naruto",
-            "query_en": "Fuusuke Ninku anime character"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5cc8e1b8-e3d5-4c61-9839-e2cc6eb07aa0",
-      "title": "New Pirate Series Based On 143-Year-Old Book Is The Worst Thing To Happen To Pirates Since Scurvy",
+      "id": "e2ef6f47-36ee-4e78-bc49-5505bc5e1835",
+      "title": "Japan's regional banks log record growth in property lending",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Categoria inválida retornada pelo Gemini: Finanças"
     },
     {
-      "id": "265c1eba-7445-435c-8b19-d6c302a6c5f1",
-      "title": "Clássico da NBC, a série policial Columbo agora está disponível de graça no Tubi",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Columbo TV series overview Peter Falk Tubi",
-        "images": [
-          {
-            "anchor": "A chegada de Columbo ao Tubi",
-            "query_en": "Columbo TV series detective Peter Falk trench coat"
-          },
-          {
-            "anchor": "O estilo único de Peter Falk e o apelo moderno",
-            "query_en": "Peter Falk as Lieutenant Columbo smoking cigar"
-          },
-          {
-            "anchor": "Organização dos episódios e a fase da ABC",
-            "query_en": "Columbo classic TV show scene NBC ABC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "11b4113b-0275-41eb-ba6d-509a73485320",
-      "title": "Thriller de ação de Liam Neeson será disponibilizado gratuitamente no streaming",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "A Walk Among the Tombstones trailer Liam Neeson",
-        "images": [
-          {
-            "anchor": "Uma trajetória marcada por papéis intensos",
-            "query_en": "Liam Neeson action thriller movie"
-          },
-          {
-            "anchor": "Detalhes da produção e chegada ao streaming",
-            "query_en": "A Walk Among the Tombstones movie poster"
-          },
-          {
-            "anchor": "A chegada ao Tubi em novembro",
-            "query_en": "Tubi streaming service logo app"
-          },
-          {
-            "anchor": "Equipe de peso nos bastidores e elenco",
-            "query_en": "Scott Frank director"
-          },
-          {
-            "anchor": "- Liam Neeson no papel do protagonista Matthew Scudder",
-            "query_en": "Liam Neeson A Walk Among the Tombstones"
-          },
-          {
-            "anchor": "- Dan Stevens interpretando o personagem Kenny Kristo",
-            "query_en": "Dan Stevens actor portrait"
-          },
-          {
-            "anchor": "- David Harbour integrando o elenco da trama",
-            "query_en": "David Harbour actor"
-          },
-          {
-            "anchor": "- Boyd Holbrook participando do desenvolvimento da história",
-            "query_en": "Boyd Holbrook actor"
-          },
-          {
-            "anchor": "- Brian Bradley atuando ao lado de Neeson",
-            "query_en": "Brian Astro Bradley actor"
-          },
-          {
-            "anchor": "A trama e o perfil do protagonista",
-            "query_en": "Liam Neeson detective movie"
-          },
-          {
-            "anchor": "Recepção de crítica e bilheteria",
-            "query_en": "A Walk Among the Tombstones scene"
-          },
-          {
-            "anchor": "Uma abordagem diferente na carreira de Neeson",
-            "query_en": "Liam Neeson dramatic role"
-          }
-        ]
-      }
-    },
-    {
-      "id": "af559450-ddef-4599-9af9-13feacc5f296",
-      "title": "Netflix's New Western Is Taking On Taylor Sheridan At His Own Game",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "2e2776b8-78f9-46b9-b298-9b401d131c7e",
-      "title": "8 Alan Moore Comics That Prove Watchmen Isn’t His Only Magnum Opus",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Quadrinhos"
-    },
-    {
-      "id": "6998822e-4508-4040-b3e4-a32f56cef540",
-      "title": "10 Greatest Dystopian K-Dramas, Ranked",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "11c65592-3122-4e6f-8773-1ecdc137f1e7",
-      "title": "Todos os 16 personagens do filme de Street Fighter de 2026 classificados por poder",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Street Fighter 2026 movie trailer gameplay analysis",
-        "images": [
-          {
-            "anchor": "Uma abordagem diferente e um elenco gigantesco",
-            "query_en": "Street Fighter 2026 movie cast lineup"
-          },
-          {
-            "anchor": "Do 16º ao 10º lugar: Os desafiantes menos afortunados e lutadores peculiares",
-            "query_en": "Street Fighter movie characters in tournament"
-          },
-          {
-            "anchor": "16. Joe",
-            "query_en": "Alex Volkanovski Street Fighter movie"
-          },
-          {
-            "anchor": "15. Dan Hibiki",
-            "query_en": "Andrew Schulz Street Fighter movie"
-          },
-          {
-            "anchor": "14. Juli",
-            "query_en": "Rayna Vallandingham Street Fighter"
-          },
-          {
-            "anchor": "13. Cammy",
-            "query_en": "Mel Jarnson Cammy Street Fighter movie"
-          },
-          {
-            "anchor": "12. Guile",
-            "query_en": "Cody Rhodes Guile Street Fighter movie"
-          },
-          {
-            "anchor": "11. Vega",
-            "query_en": "Orville Peck Vega Street Fighter movie"
-          },
-          {
-            "anchor": "10. E. Honda",
-            "query_en": "Hirooki Goto E Honda Street Fighter movie"
-          },
-          {
-            "anchor": "Do 9º ao 7º lugar: Forças brutas e técnicos formidáveis",
-            "query_en": "Street Fighter movie action scene fighting"
-          },
-          {
-            "anchor": "9. Balrog",
-            "query_en": "50 Cent Balrog Street Fighter movie"
-          },
-          {
-            "anchor": "8. Dhalsim",
-            "query_en": "Vidyut Jammwal Dhalsim Street Fighter movie"
-          },
-          {
-            "anchor": "7. Zangief",
-            "query_en": "Olivier Richters Zangief Street Fighter movie"
-          }
-        ]
-      }
-    },
-    {
-      "id": "46ebe5c4-cd88-4db9-8271-720bb3f36755",
-      "title": "7 Personagens dos Filmes de Super-Heróis Mais Fortes que o Sorte (Sentry)",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "MCU Sentry power levels compared to strongest superheroes",
-        "images": [
-          {
-            "anchor": "Shazam",
-            "query_en": "Zachary Levi Shazam Fury of the Gods lightning"
-          },
-          {
-            "anchor": "Feiticeira Escarlate",
-            "query_en": "Elizabeth Olsen Scarlet Witch Doctor Strange Multiverse of Madness"
-          },
-          {
-            "anchor": "Jean Grey",
-            "query_en": "Sophie Turner Jean Grey Phoenix Dark Phoenix"
-          },
-          {
-            "anchor": "Martian Manhunter",
-            "query_en": "Harry Lennix Martian Manhunter Zack Snyders Justice League"
-          },
-          {
-            "anchor": "Superman",
-            "query_en": "Henry Cavill Superman Man of Steel flight"
-          },
-          {
-            "anchor": "Odin",
-            "query_en": "Anthony Hopkins Odin Thor Ragnarok"
-          },
-          {
-            "anchor": "Doctor Manhattan",
-            "query_en": "Billy Crudup Doctor Manhattan Watchmen blue"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e5a0211a-8f34-4375-bfdf-42b03e016af9",
-      "title": "Every Upcoming Game Of Thrones Spinoff Explained (Confirmed & In Development)",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "89b84dba-ecba-4f5d-bd98-30ef86f73b87",
-      "title": "Mulher é presa na Filadélfia após bloquear a passagem de robô de entrega da Uber",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Philadelphia delivery robot blocked arrested protest",
-        "images": [
-          {
-            "anchor": "## O incidente na Filadélfia",
-            "query_en": "Philadelphia downtown street autonomous delivery robot"
-          },
-          {
-            "anchor": "## Motivações do protesto",
-            "query_en": "protest sign against automation jobs"
-          },
-          {
-            "anchor": "## Ação policial e repercussão",
-            "query_en": "police officers on street downtown Philadelphia"
-          },
-          {
-            "anchor": "## O contexto dos robôs de entrega",
-            "query_en": "Uber delivery robot on sidewalk"
-          },
-          {
-            "anchor": "- O protesto recorrente de Carolyn Marvin bloqueando autonomamente o avanço dos dispositivos.",
-            "query_en": "person standing in front of delivery robot"
-          },
-          {
-            "anchor": "- Casos de vandalismo contra a frota automatizada, incluindo um robô que foi derrubado a chutes em Center City no início deste ano.",
-            "query_en": "delivery robot sidewalk Philadelphia"
-          },
-          {
-            "anchor": "## Preocupações trabalhistas",
-            "query_en": "delivery workers protesting automation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6345d7c8-3b08-4629-a3e9-a7e2ffd25919",
-      "title": "Mister Organ: o novo documentário que funciona como um verdadeiro filme de terror psicológico",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mister Organ David Farrier documentary trailer",
-        "images": [
-          {
-            "anchor": "O início da investigação e a polêmica das braçadeiras de estacionamento",
-            "query_en": "Bashford Antiques Ponsonby Auckland street"
-          },
-          {
-            "anchor": "A figura excêntrica e perigosa de Michael Organ",
-            "query_en": "David Farrier journalist Mister Organ"
-          },
-          {
-            "anchor": "A escalada do assédio e o clima de terror psicológico",
-            "query_en": "Mister Organ documentary psychological horror scene"
-          },
-          {
-            "anchor": "Onde assistir à obra",
-            "query_en": "Kanopy streaming service app interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "352d0ae3-4b95-4a3f-ae63-3370b2250f31",
-      "title": "Como a picape Slate recebe atualizações de software sem central multimídia integrada",
+      "id": "7098868e-ee2a-4728-bd8a-4ae93c47d24c",
+      "title": "Edgcomb: A Lição de Humildade e o Marco na História de Stephen Schwarzman e da Blackstone",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Slate electric truck overview software updates",
+        "video_query_en": "Stephen Schwarzman Blackstone history interview",
         "images": [
           {
-            "anchor": "Uma abordagem de minimalismo máximo na Slate",
-            "query_en": "Slate electric truck exterior minimal design"
+            "anchor": "A Sombra de Edgcomb no Escritório",
+            "query_en": "Stephen Schwarzman office desk"
           },
           {
-            "anchor": "Alto-falantes",
-            "query_en": "car speakers audio system aftermarket"
-          },
-          {
-            "anchor": "Suporte para iPad para simular uma central multimídia tradicional",
-            "query_en": "tablet mount in car dashboard"
-          },
-          {
-            "anchor": "Kit que transforma a picape em um utilitário esportivo de cinco lugares",
-            "query_en": "modular SUV conversion kit vehicle"
-          },
-          {
-            "anchor": "Módulo telemático que habilita o destravamento de portas por aplicativo",
-            "query_en": "smartphone car app unlocking doors"
-          },
-          {
-            "anchor": "Como funcionam as atualizações de software",
-            "query_en": "smartphone plugged into car dashboard USB"
-          },
-          {
-            "anchor": "Privacidade e dados do usuário",
-            "query_en": "driver using smartphone inside minimalist electric truck"
+            "anchor": "A Reestruturação dos Processos de Investimento",
+            "query_en": "Blackstone investment meeting board room"
           }
         ]
       }
     },
     {
-      "id": "d5d08a2c-0c9f-46aa-93d4-23f5ea19ade4",
-      "title": "Para que serve o botão de estrela no controle remoto do Roku?",
+      "id": "19b3580b-4762-4311-9fe0-9f6d7002efdb",
+      "title": "SK On desenvolve novo processo de fabricação para baterias LFP com foco na redução de custos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK On LFP battery manufacturing process carbon nanotube powder",
+        "images": [
+          {
+            "anchor": "A Substituição dos Materiais",
+            "query_en": "SK On LFP battery cathode manufacturing"
+          },
+          {
+            "anchor": "Próximos Passos e Avaliação Comercial",
+            "query_en": "SK On electric vehicle battery factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a425b1ec-569d-4645-9ec3-701649edb727",
+      "title": "TNE Korea define o preço de sua oferta pública inicial em 15.300 wons por ação",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "TNE Korea IPO KOSDAQ stock market",
+        "images": [
+          {
+            "anchor": "Detalhes da faixa de preço e captação",
+            "query_en": "South Korea stock exchange KOSDAQ trading floor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fcf596cb-df3a-4369-ae61-ac4c577d9881",
+      "title": "Coway Life Solution Expands Benefits for Active Seniors",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Coway Life Solution senior care partnership Sinor",
+        "images": [
+          {
+            "anchor": "Parceria estratégica para o público sênior",
+            "query_en": "active senior care elderly lifestyle"
+          },
+          {
+            "anchor": "Acordo com a Sinor",
+            "query_en": "business memorandum of understanding agreement"
+          },
+          {
+            "anchor": "Serviços de recasamento para clientes de meia-idade e idosos",
+            "query_en": "middle aged seniors matchmaking service"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a53a187-ef60-469e-a2f5-c9632b2b55de",
+      "title": "Doosan Enerbility promove CFO Park Sang-hyun e anuncia novo COO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Doosan Enerbility corporate news",
+        "images": [
+          {
+            "anchor": "Promoção na Diretoria Financeira",
+            "query_en": "Doosan Enerbility building office"
+          },
+          {
+            "anchor": "Nova Liderança na Operação",
+            "query_en": "Corporate executive meeting"
+          },
+          {
+            "anchor": "Park Sang-hyun: Promovido de presidente para vice-presidente",
+            "query_en": "corporate executive businessman portrait"
+          },
+          {
+            "anchor": "Song Yong-jin: Nomeado como o novo diretor de operações",
+            "query_en": "business executive in meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e38d779-bd9e-419a-9af3-92d80f3bc897",
+      "title": "Nvidia Afirma que Escassez de Placas de Vídeo para Consumidores Está Fora do Seu Controle",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia consumer GPU shortages memory supply",
+        "images": [
+          {
+            "anchor": "Declaração Oficial em Seul",
+            "query_en": "COEX Seoul building exterior"
+          },
+          {
+            "anchor": "O Motivo da Escassez",
+            "query_en": "Nvidia graphics processing unit GPU hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "526e8278-eef3-4106-9338-7104ba20a081",
+      "title": "A expansão do modelo Donki: Don Quijote compra Toys \"R\" Us e Olympic para revitalizar varejistas em crise",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Don Quijote PPIH business strategy retail Japan",
+        "images": [
+          {
+            "anchor": "O desafio da reestruturação no varejo japonês",
+            "query_en": "Japanese retail store shopping mall Tokyo"
+          },
+          {
+            "anchor": "Toys \"R\" Us e o mercado de brinquedos",
+            "query_en": "Toys \"R\" Us store retail Japan"
+          },
+          {
+            "anchor": "Olympic e os supermercados da região metropolitana",
+            "query_en": "Japanese supermarket grocery store interior Tokyo"
+          },
+          {
+            "anchor": "Lições de casos anteriores e o futuro das marcas",
+            "query_en": "Don Quijote store exterior neon signs Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d17ef04d-b730-4a05-89fe-99d70f09dd9e",
+      "title": "[ITmedia ビジネスオンライン] AI台頭も「SEOは死んでいない」 これからの“買われる企業”の条件、サイバーエージェントが明かす",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Interoperability"
+    },
+    {
+      "id": "58592a42-d622-4f28-97b4-f6c46eabe413",
+      "title": "A nova aposta da Rakus: Conheça o 'ASURACORE', o sistema que mira em rivais como o kintone e busca os 100 bilhões de ienes",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Rakus ASURACORE enterprise software business strategy",
+        "images": [
+          {
+            "anchor": "A lacuna entre o SaaS e o desenvolvimento terceirizado",
+            "query_en": "enterprise software cloud computing dashboard interface"
+          },
+          {
+            "anchor": "O papel da Inteligência Artificial e dos diretores",
+            "query_en": "artificial intelligence business technology team meeting"
+          },
+          {
+            "anchor": "Estratégia de expansão e meta financeira",
+            "query_en": "business growth corporate strategy presentation office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c564cef0-3042-4c7e-92b2-63ba88350923",
+      "title": "改札もコンビニもAI質問も手首で。スマートウォッチは今ここまで来た",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "smartwatch features review 2026 apple watch pixel watch",
+        "images": [
+          {
+            "anchor": "スマートウォッチの区分と利用できるスマートフォンを整理",
+            "query_en": "various smartwatches and smartbands lined up"
+          },
+          {
+            "anchor": "手首をかざすだけで改札も買い物も完結",
+            "query_en": "smartwatch contactless payment at ticket gate"
+          },
+          {
+            "anchor": "荷物で手が塞がっていても目的地にたどり着けるナビ機能",
+            "query_en": "smartwatch turn by turn navigation on wrist"
+          },
+          {
+            "anchor": "タイマーやリマインダーも話しかけるだけ。Geminiも使える",
+            "query_en": "using voice assistant on smartwatch"
+          },
+          {
+            "anchor": "通知の確認から返信、ちょっとした操作はスマホイらず",
+            "query_en": "reading notifications and replying on smartwatch"
+          },
+          {
+            "anchor": "無呼吸検出からAIコーチングまで、進化するスマートウォッチの睡眠管理",
+            "query_en": "smartwatch sleep tracking and health data graph"
+          },
+          {
+            "anchor": "日常の計測や緊急時の通報、いつも身に着けているからできること",
+            "query_en": "smartwatch heart rate and ECG measurement"
+          },
+          {
+            "anchor": "スポーツやワークアウトのパートナー",
+            "query_en": "person running and tracking workout on smartwatch"
+          },
+          {
+            "anchor": "買う前に押さえておきたい現行ラインナップ",
+            "query_en": "latest smartwatch lineup apple watch pixel watch galaxy watch"
+          },
+          {
+            "anchor": "Apple Watch Series 12",
+            "query_en": "Apple Watch Series smartwatch"
+          },
+          {
+            "anchor": "Apple Watch SE 3",
+            "query_en": "Apple Watch SE model"
+          },
+          {
+            "anchor": "Apple Watch Ultra 4",
+            "query_en": "Apple Watch Ultra rugged smartwatch"
+          },
+          {
+            "anchor": "Pixel Watch 5",
+            "query_en": "Google Pixel Watch"
+          },
+          {
+            "anchor": "Galaxy Watch9",
+            "query_en": "Samsung Galaxy Watch"
+          },
+          {
+            "anchor": "Galaxy Watch Ultra2",
+            "query_en": "Samsung Galaxy Watch Ultra"
+          }
+        ]
+      }
+    },
+    {
+      "id": "16c2e72b-e87b-47f0-b595-71c2c1c3f3c9",
+      "title": "Lenovo Tab Plus Gen 2: Tablet com 9 alto-falantes supera MacBook Pro em volume",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Roku remote star button features and guide",
+        "video_query_en": "Lenovo Tab Plus Gen 2 review speaker test",
         "images": [
           {
-            "anchor": "Tudo o que o botão de estrela do Roku pode fazer",
-            "query_en": "Roku remote control close up star button"
+            "anchor": "Sound que impressiona e supera notebooks",
+            "query_en": "Lenovo Tab Plus Gen 2 JBL speakers back design"
           },
           {
-            "anchor": "Na tela inicial",
-            "query_en": "Roku TV home screen interface"
+            "anchor": "Desempenho e especificações técnicas",
+            "query_en": "Lenovo Tab Plus Gen 2 12.1 inch display"
           },
           {
-            "anchor": "Ao assistir a algum conteúdo",
-            "query_en": "Roku video streaming sidebar menu options"
+            "anchor": "Uso diário, vídeos e jogos",
+            "query_en": "Lenovo Tab Plus Gen 2 gaming test"
           },
           {
-            "anchor": "Como atalho de acessibilidade",
-            "query_en": "Roku streaming device accessibility settings menu"
-          },
-          {
-            "anchor": "Roku TV",
-            "query_en": "Roku TV screen interface"
-          },
-          {
-            "anchor": "Roku Streambar e Streambar Pro",
-            "query_en": "Roku Streambar soundbar device"
-          },
-          {
-            "anchor": "Roku Smart Soundbar",
-            "query_en": "Roku Smart Soundbar audio device"
-          },
-          {
-            "anchor": "Roku Express e Express+",
-            "query_en": "Roku Express streaming player device"
-          },
-          {
-            "anchor": "Roku Express 4K e 4K+",
-            "query_en": "Roku Express 4K streaming box"
-          },
-          {
-            "anchor": "Roku Streaming Stick e Streaming Stick+",
-            "query_en": "Roku Streaming Stick remote device"
-          },
-          {
-            "anchor": "Roku Streaming Stick 4K e 4K+",
-            "query_en": "Roku Streaming Stick 4K device"
-          },
-          {
-            "anchor": "Roku Premiere e Premiere+",
-            "query_en": "Roku Premiere 4K streaming player"
-          },
-          {
-            "anchor": "Roku Ultra e Ultra LT",
-            "query_en": "Roku Ultra streaming media player"
+            "anchor": "Considerations finais sobre o modelo",
+            "query_en": "Lenovo Tab Plus Gen 2 kickstand"
           }
         ]
       }
     },
     {
-      "id": "77b918d2-b63f-4661-ad04-fab44009b5c0",
-      "title": "Após cinco anos, Inscryption finalmente será lançado para dispositivos móveis",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Inscryption mobile announcement Daniel Mullins",
-        "images": [
-          {
-            "anchor": "O futuro do jogo e a posição sobre novos conteúdos",
-            "query_en": "Inscryption gameplay card game creepy atmosphere"
-          },
-          {
-            "anchor": "Próximos passos do estúdio",
-            "query_en": "Daniel Mullins Games developer Twitch stream"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f3ee0adf-7c00-4382-bb99-9bdf76ba21d2",
-      "title": "Documentário sobre Elizabeth Holmes, 'You Can See Everything', bate recorde de bilheteria",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "You Can See Everything Elizabeth Holmes documentary trailer",
-        "images": [
-          {
-            "anchor": "Detalhes da Exibição e Recepção da Crítica",
-            "query_en": "documentary movie theater audience screening"
-          },
-          {
-            "anchor": "O Caso Theranos e a Abordagem Inovadora",
-            "query_en": "Elizabeth Holmes court trial Theranos"
-          },
-          {
-            "anchor": "Impacto no Mercado de Filmes Tecnológicos",
-            "query_en": "cinema box office movie tickets"
-          },
-          {
-            "anchor": "- \"The Social Reckoning\":",
-            "query_en": "Aaron Sorkin film director"
-          },
-          {
-            "anchor": "- \"Musk\":",
-            "query_en": "Alex Gibney documentary filmmaker"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f4722fa9-4126-4b78-ae0b-08b3a705060d",
-      "title": "Anthropic anuncia compromisso de destinar 5% de suas ações a um fundo de benefício público",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic public benefit fund AI shares",
-        "images": [
-          {
-            "anchor": "Compromisso acionário e expansão do fundo",
-            "query_en": "Anthropic office building tech company"
-          },
-          {
-            "anchor": "Contexto e impactos no mercado de trabalho",
-            "query_en": "Dario Amodei Anthropic CEO"
-          },
-          {
-            "anchor": "Governança e próximos passos",
-            "query_en": "artificial intelligence technology abstract concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "79fe1029-089f-49a7-a84c-95dba1ead27e",
-      "title": "Criador de Cyberpunk: Edgerunners define o final da primeira temporada como um final feliz",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Cyberpunk Edgerunners creator interview season 1 and 2",
-        "images": [
-          {
-            "anchor": "A polêmica visão sobre o desfecho da primeira temporada",
-            "query_en": "Cyberpunk Edgerunners anime Netflix Lucy David"
-          },
-          {
-            "anchor": "Relembrando a tragédia em Night City",
-            "query_en": "Cyberpunk Edgerunners Adam Smasher Rebecca David"
-          },
-          {
-            "anchor": "Perspectivas para a segunda temporada",
-            "query_en": "Cyberpunk Edgerunners season 2 Night City"
-          },
-          {
-            "anchor": "Weak Kingsley",
-            "query_en": "Cyberpunk Edgerunners character art edgerunner"
-          },
-          {
-            "anchor": "D.",
-            "query_en": "Cyberpunk Nomad aesthetic futuristic desert"
-          },
-          {
-            "anchor": "Talia",
-            "query_en": "Cyberpunk chrome cyberware anime character"
-          },
-          {
-            "anchor": "Roman",
-            "query_en": "Cyberpunk city street neon night photography"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a93e38b0-ce21-4f00-8691-8ee7f5b897a3",
-      "title": "NBC & Dick Wolf Officially Break Their Promise To Fix Law & Order: SVU's Glaring Cast Mistake",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "c3176d49-06c9-44b8-8523-ebbdc1c97bf8",
-      "title": "Nova série de Sherlock Holmes ganha atualização animadora sobre a 2ª temporada",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Death of Sherlock Holmes series Rafe Spall interview Deadline",
-        "images": [
-          {
-            "anchor": "Uma abordagem inédita para um clássico de 139 anos",
-            "query_en": "Sherlock Holmes Reichenbach Falls dramatic landscape"
-          },
-          {
-            "anchor": "Detalhes da produção e elenco",
-            "query_en": "Rafe Spall actor portrait press"
-          },
-          {
-            "anchor": "- Deleila Piasko",
-            "query_en": "Deleila Piasko actress portrait"
-          },
-          {
-            "anchor": "- Thomas Kaschel",
-            "query_en": "Thomas Kaschel actor portrait"
-          },
-          {
-            "anchor": "- Christian Koerner",
-            "query_en": "Christian Koerner actor portrait"
-          },
-          {
-            "anchor": "Perspectivas futuras e outros projetos do ator",
-            "query_en": "Rafe Spall Harry Potter Lucius Malfoy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "34c30db5-19b1-4ae9-bb09-df003b9a2132",
-      "title": "Por que Friends teve apenas um episódio de Halloween e Seinfeld nenhum",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Friends Halloween episode Seinfeld background analysis",
-        "images": [
-          {
-            "anchor": "A influência de Seinfeld e a fórmula das comédias",
-            "query_en": "Seinfeld main cast comedy television show"
-          },
-          {
-            "anchor": "O único episódio de Halloween em Friends",
-            "query_en": "Friends season 8 Halloween episode costumes"
-          },
-          {
-            "anchor": "Seinfeld e a ausência total do Dia das Bruxas",
-            "query_en": "Seinfeld cast holiday episode"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a82075c5-7e27-42b2-83ba-8b1fdced8a29",
-      "title": "6 Fantasy Shows Better Than A Knight Of The Seven Kingdoms",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "8abfa8b0-bc2b-4432-a00d-cc6bf61f6d3c",
-      "title": "Peter Krause's New Crime Drama Steals 9-1-1's Biggest Hook",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "c6b4baa6-c768-4f1f-87ff-a2fa57dc464a",
-      "title": "What Really Happened To River Cartwright In Slow Horses",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "f9a68e29-8f74-4e38-a23c-249e171280fa",
-      "title": "O melhor gadget que comprei este ano foi um espumador de leite",
+      "id": "7c1a72ec-360e-40d8-9982-3d05f0c2446f",
+      "title": "NVIDIA RTX Spark em testes: Arm atinge até 1,8x mais fps em Marvel Rivals",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Zulay Kitchen milk frother review",
+        "video_query_en": "NVIDIA RTX Spark Arm Marvel Rivals gameplay review",
         "images": [
           {
-            "anchor": "A descoberta do espumador portátil",
-            "query_en": "handheld milk frother making coffee foam"
+            "anchor": "Compatibilidade e o Desafio dos Anticheats",
+            "query_en": "ASUS ProArt P16 laptop NVIDIA RTX Spark"
           },
           {
-            "anchor": "A origem do topo de creme",
-            "query_en": "iced coffee with cream top cold foam"
+            "anchor": "Anybrain",
+            "query_en": "ARC Raiders gameplay PC"
           },
           {
-            "anchor": "Experimentos caseiros e receitas",
-            "query_en": "cold brew coffee with coconut ube cold foam"
+            "anchor": "BattlEye",
+            "query_en": "Rainbow Six Siege tactical gameplay"
+          },
+          {
+            "anchor": "Denuvo/Irdeto Denuvo Anti-Cheat",
+            "query_en": "Dead by Daylight gameplay survivors"
+          },
+          {
+            "anchor": "Embark Elytra",
+            "query_en": "THE FINALS multiplayer shooter game"
+          },
+          {
+            "anchor": "Epic Games Easy Anti-Cheat",
+            "query_en": "Fortnite battle royale gameplay"
+          },
+          {
+            "anchor": "Gaijin Viking",
+            "query_en": "War Thunder air and ground combat"
+          },
+          {
+            "anchor": "HoYoverse HoYoKProtect",
+            "query_en": "Zenless Zero Zero action game character"
+          },
+          {
+            "anchor": "INCA Internet nProtect GameGuard",
+            "query_en": "HELLDIVERS 2 action shooter gameplay"
+          },
+          {
+            "anchor": "Microsoft/Mojang",
+            "query_en": "Minecraft Bedrock Edition gameplay"
+          },
+          {
+            "anchor": "NetEase Games NetEase Game Security",
+            "query_en": "Marvel Rivals heroes gameplay action"
+          },
+          {
+            "anchor": "Nexon Nexon Game Security",
+            "query_en": "MapleStory MMORPG gameplay"
+          },
+          {
+            "anchor": "Roblox/Byfron Hyperion",
+            "query_en": "Roblox creative platform virtual world"
+          },
+          {
+            "anchor": "The Indie Stone",
+            "query_en": "Project Zomboid survival game"
+          },
+          {
+            "anchor": "Valve VAC",
+            "query_en": "Counter Strike 2 tactical shooter"
+          },
+          {
+            "anchor": "Wellbia XIGNCODE3",
+            "query_en": "Black Desert Online fantasy MMORPG"
+          },
+          {
+            "anchor": "Desempenho Prático: 3DMark e Marvel Rivals",
+            "query_en": "3DMark benchmark software testing screen"
+          },
+          {
+            "anchor": "Desempenho em Outros Títulos e Conclusão",
+            "query_en": "Cyberpunk 2077 futuristic city gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32db1c2e-8c14-4cfc-b591-2e3b734116c3",
+      "title": "Assinatura vitalícia do aplicativo PDF Expert para Mac está com desconto",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PDF Expert for Mac review and features",
+        "images": [
+          {
+            "anchor": "Ferramentas de edição e revisão de texto",
+            "query_en": "PDF Expert editing tools Mac"
+          },
+          {
+            "anchor": "Organização e conversão de arquivos",
+            "query_en": "PDF Expert merge split convert pages"
+          },
+          {
+            "anchor": "Recursos avançados de OCR e segurança",
+            "query_en": "PDF Expert OCR scan recognition"
+          }
+        ]
+      }
+    },
+    {
+      "id": "14d8e0ce-2e78-4ae0-9c3d-8685a0a87919",
+      "title": "Microsoft Project Professional 2024 com licença perpétua está em oferta por US$ 39,97",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft Project Professional 2024 features review",
+        "images": [
+          {
+            "anchor": "Organização de Tarefas e Cronogramas",
+            "query_en": "Microsoft Project Gantt chart interface"
+          },
+          {
+            "anchor": "Flexibilidade e Análise de Cenários",
+            "query_en": "Project management timeline software screen"
+          },
+          {
+            "anchor": "Relatórios e Recursos de Integração",
+            "query_en": "Microsoft Project reporting dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6136abee-b1e4-4c38-ae51-bc59c23d931e",
+      "title": "DC's Clayface Movie Could Fix Batman's Lack Of Original Live-Action Villains",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "52928a9b-9086-43aa-ac33-98f6852fc04e",
+      "title": "HBO Deserves Kudos For Successfully Adapting A 3-Book \"Anti-Narnia\" Fantasy Saga",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "2d247711-218e-4914-aeb9-42b1c1fb7d28",
+      "title": "A icônica cena de Goodfellas e seu único rival na história do cinema policial",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Goodfellas Copacabana one shot scene comparison Touch of Evil",
+        "images": [
+          {
+            "anchor": "A famosa caminhada no Copacabana em Os Bons Companheiros",
+            "query_en": "Goodfellas Copacabana scene Ray Liotta"
+          },
+          {
+            "anchor": "O plano-sequência de três minutos mostra Ray Liotta no papel de Henry Hill como um verdadeiro rei, conduzindo Karen através das cozinhas até o salão principal.",
+            "query_en": "Ray Liotta Lorraine Bracco Goodfellas Copacabana"
+          },
+          {
+            "anchor": "O clássico A Marca da Maldade e seu plano-sequência rival",
+            "query_en": "Touch of Evil 1958 opening scene Orson Welles"
+          }
+        ]
+      }
+    },
+    {
+      "id": "699caf88-77a4-4e05-9b36-03549288ee39",
+      "title": "As 20 melhores séries de terror e suspense de todos os tempos, segundo o Screen Rant",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best horror tv shows of all time ranked",
+        "images": [
+          {
+            "anchor": "Stranger Things",
+            "query_en": "Stranger Things cast season 1"
+          },
+          {
+            "anchor": "Tales From The Crypt",
+            "query_en": "Tales from the Crypt Crypt Keeper"
+          },
+          {
+            "anchor": "American Horror Story",
+            "query_en": "American Horror Story Twisty the Clown"
+          },
+          {
+            "anchor": "Alfred Hitchcock Presents",
+            "query_en": "Alfred Hitchcock Presents intro"
+          },
+          {
+            "anchor": "The Exorcist",
+            "query_en": "The Exorcist TV series scene"
+          },
+          {
+            "anchor": "The Walking Dead",
+            "query_en": "The Walking Dead Rick Grimes"
+          },
+          {
+            "anchor": "Thriller",
+            "query_en": "Thriller TV show Boris Karloff"
+          },
+          {
+            "anchor": "It (1990)",
+            "query_en": "It 1990 miniseries Pennywise Tim Curry"
+          },
+          {
+            "anchor": "The Last Of Us",
+            "query_en": "The Last of Us HBO Joel and Ellie"
+          },
+          {
+            "anchor": "The Addams Family",
+            "query_en": "The Addams Family 1964 cast"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1fb50773-8b06-4ce6-8ee7-7c23dd11ad30",
+      "title": "Os 5 Maiores Jogos de Fantasia Lançados na Década de 2000",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "greatest fantasy games of the 2000s retrospective",
+        "images": [
+          {
+            "anchor": "World of Warcraft",
+            "query_en": "World of Warcraft classic gameplay characters"
+          },
+          {
+            "anchor": "Final Fantasy 10",
+            "query_en": "Final Fantasy X ps2 gameplay cinematic"
+          },
+          {
+            "anchor": "Dragon Age: Origins",
+            "query_en": "Dragon Age Origins combat tactical view"
+          },
+          {
+            "anchor": "The Legend of Zelda: The Wind Waker",
+            "query_en": "The Legend of Zelda The Wind Waker sailing Link"
+          },
+          {
+            "anchor": "The Elder Scrolls 3: Morrowind",
+            "query_en": "The Elder Scrolls III Morrowind Vvardenfell landscape"
+          }
+        ]
+      }
+    },
+    {
+      "id": "68b16ddd-52d6-4e7d-bae1-7f73722d5519",
+      "title": "As mudanças confirmadas em As Crônicas de Nárnia: O Sobrinho do Mago e o que elas significam",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Chronicles of Narnia The Magicians Nephew trailer changes analysis",
+        "images": [
+          {
+            "anchor": "O Sobrinho do Mago muda totalmente sua ambientação temporal",
+            "query_en": "Greta Gerwig The Chronicles of Narnia set filming 1950s"
+          },
+          {
+            "anchor": "Jadis e o mundo de Charn estão irreconhecíveis",
+            "query_en": "Jadis White Witch Chronicles of Narnia book art"
+          },
+          {
+            "anchor": "Os poderes mágicos de Jadis em Londres",
+            "query_en": "The Magicians Nephew London scene Jadis"
+          },
+          {
+            "anchor": "O Bosque Entre os Mundos ganha um aspecto mais selvagem",
+            "query_en": "Wood Between the Worlds Chronicles of Narnia concept art"
+          },
+          {
+            "anchor": "A criação de Nárnia é retratada de forma inovadora",
+            "query_en": "Aslan singing Narnia into creation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a6a30330-f16d-4263-974b-82deb32e9a43",
+      "title": "As 5 Melhores Séries de Fantasia no Prime Video com Duas ou Mais Temporadas",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best fantasy series on prime video",
+        "images": [
+          {
+            "anchor": "Undone",
+            "query_en": "Undone prime video animation"
+          },
+          {
+            "anchor": "Carnival Row",
+            "query_en": "Carnival Row Orlando Bloom Cara Delevingne"
+          },
+          {
+            "anchor": "The Wheel Of Time",
+            "query_en": "The Wheel of Time prime video series"
+          },
+          {
+            "anchor": "The Rings Of Power",
+            "query_en": "The Rings of Power prime video"
+          },
+          {
+            "anchor": "Good Omens",
+            "query_en": "Good Omens David Tennant Michael Sheen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c45913b-7b00-4f02-840c-25b5a0d362ca",
+      "title": "2026's 174-Minute Masterpiece Is Officially The Highest-Rated Movie In History",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "You Can See Everything documentary Nathan Fielder trailer review",
+        "images": [
+          {
+            "anchor": "Uma parceria inusitada nos bastidores",
+            "query_en": "Nathan Fielder director portrait"
+          },
+          {
+            "anchor": "O fenômeno no Letterboxd e recordes históricos",
+            "query_en": "Letterboxd app interface movie rating"
+          },
+          {
+            "anchor": "Harakiri, que registrava média de 4,7",
+            "query_en": "Harakiri 1962 movie poster"
+          },
+          {
+            "anchor": "The Human Condition III: A Soldier's Prayer, com média de 4,7",
+            "query_en": "The Human Condition III A Soldiers Prayer movie"
+          },
+          {
+            "anchor": "12 Angry Men, alcançando 4,6",
+            "query_en": "12 Angry Men 1957 movie scene"
+          },
+          {
+            "anchor": "Come and See, também com 4,6",
+            "query_en": "Come and See 1985 movie still"
+          },
+          {
+            "anchor": "Recepção crítica e aprovação unânime",
+            "query_en": "Elizabeth Holmes court courtroom sketch"
+          },
+          {
+            "anchor": "O desempenho estrondoso nas bilheterias",
+            "query_en": "cinema box office ticket counter"
+          },
+          {
+            "anchor": "Panorama do mercado cinematográfico no fim de semana",
+            "query_en": "movie theater auditorium audience"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fea3e736-9050-4b73-9bea-f1765154ddc8",
+      "title": "Os 10 melhores quadrinhos de The Far Side com animais, classificados",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Gary Larson The Far Side classic animal comics analysis",
+        "images": [
+          {
+            "anchor": "10. Bummer of a Birthmark, Hal",
+            "query_en": "Gary Larson deer bullseye birthmark comic"
+          },
+          {
+            "anchor": "9. O Rancho do Frango Desossado",
+            "query_en": "Gary Larson boneless chicken ranch comic"
+          },
+          {
+            "anchor": "8. Apenas um Pouco de sopro e estardalhaço",
+            "query_en": "Gary Larson pigs big bad wolf phone comic"
+          },
+          {
+            "anchor": "7. Alguém aqui não comeu a lição de casa?",
+            "query_en": "Gary Larson dog classroom eat homework comic"
+          },
+          {
+            "anchor": "6. A vaca que dominou o toque e fuga",
+            "query_en": "Gary Larson cow ding dong ditch doorbell comic"
+          },
+          {
+            "anchor": "5. E agora Edgar se foi",
+            "query_en": "Gary Larson penguins polar bear disguise comic"
+          },
+          {
+            "anchor": "4. O rebanho cheio de lobos",
+            "query_en": "Gary Larson wolves in sheep clothing comic"
+          },
+          {
+            "anchor": "3. O primeiro microscópio do mundo",
+            "query_en": "Gary Larson first microscope caveman mammoth comic"
+          },
+          {
+            "anchor": "2. O inferno dos cachorros",
+            "query_en": "Gary Larson dog hell mailman comic"
+          },
+          {
+            "anchor": "1. Ele mordeu o chefão",
+            "query_en": "Gary Larson he bit the godfather mafia dog comic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7b72511d-442d-448d-86ca-9fb4a7758bd3",
+      "title": "Nicolas Cage Finds His Spider-Noir Replacement In New HBO Series",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "0c28be2d-3e59-41a1-a0ac-69f82fc21ef0",
+      "title": "Filme live-action de Street Fighter fatura mais de US$ 50 milhões no fim de semana de estreia",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Street Fighter live action movie box office opening weekend",
+        "images": [
+          {
+            "anchor": "Expectativas de bilheteria e orçamento",
+            "query_en": "Street Fighter live action movie poster"
+          },
+          {
+            "anchor": "Bastidores e recepção do público",
+            "query_en": "Street Fighter movie audience reaction"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ca887de-4e6a-462b-bda0-830d770f5ff5",
+      "title": "Policial de Savannah é demitida após compartilhar acesso a sistema de placas com marido agente do ICE",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Savannah police officer fired Flock safety system ICE agent",
+        "images": [
+          {
+            "anchor": "Investigação e demissão na polícia de Savannah",
+            "query_en": "Savannah police department badge patrol car"
+          },
+          {
+            "anchor": "Buscas não autorizadas e perfil dos alvos",
+            "query_en": "Flock safety automated license plate reader camera"
+          },
+          {
+            "anchor": "Divergências internas e desdobramentos",
+            "query_en": "US Immigration and Customs Enforcement ICE building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5fe449b7-f202-4e72-86ea-651dada4b743",
+      "title": "Tudo sobre o Image Playground da Apple: o que é e como usar",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple Image Playground app review and how to use",
+        "images": [
+          {
+            "anchor": "O que é o Apple Image Playground?",
+            "query_en": "Apple Image Playground app interface on iPhone"
+          },
+          {
+            "anchor": "Como utilizar o aplicativo?",
+            "query_en": "Apple Image Playground generation screen and styles menu"
           }
         ]
       }
