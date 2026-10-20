@@ -1,676 +1,749 @@
 {
-  "updated_at": "2026-10-20T11:49:36.892Z",
+  "updated_at": "2026-10-20T17:34:34.905Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "d0d60fd2-ea0f-48a2-9a1a-168ce51e823a",
-      "title": "A diplomacia dos pandas da China está perdendo o seu encanto",
-      "category": "Ciência",
+      "id": "778dc322-dfde-4a46-b362-85cc83881115",
+      "title": "Aumento nos preços dos combustíveis impulsiona extrema-direita na Europa em meio a protestos",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China panda diplomacy soft power analysis",
+        "video_query_en": "Europe far right fuel price protests elections",
         "images": [
           {
-            "anchor": "## O retorno da diplomacia dos pandas",
-            "query_en": "Xi Jinping giant panda zoo"
+            "anchor": "O cenário de protestos na Europa",
+            "query_en": "European farmers tractor protest fuel prices"
           },
           {
-            "anchor": "## Manipulação e exploração por trás dos animais",
-            "query_en": "giant panda bamboo forest China"
-          },
-          {
-            "anchor": "- Um dos principais habitats naturais dos pandas é a região de Wolong, localizada na borda íngreme do Planalto Tibetano.",
-            "query_en": "Wolong National Nature Reserve panda habitat"
+            "anchor": "Impacto econômico e repercussões políticas",
+            "query_en": "European politics far right election protest"
           }
         ]
       }
     },
     {
-      "id": "2dec3c9f-140b-49b1-b421-7d19776b971f",
-      "title": "Ferramenta de IA chinesa é usada em ataques cibernéticos contra empresas japonesas",
+      "id": "01d65a9b-dd38-4d54-8eeb-4519c31dea80",
+      "title": "Japão avalia transferir lançamentos do foguete H3 para o setor privado para competir com a SpaceX",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan H3 rocket launch Mitsubishi Heavy Industries SpaceX",
+        "images": [
+          {
+            "anchor": "O contexto da transição com a Mitsubishi Heavy Industries",
+            "query_en": "Mitsubishi Heavy Industries H3 rocket"
+          },
+          {
+            "anchor": "Perspectivas para a indústria espacial japonesa",
+            "query_en": "Japan space program H3 rocket launch"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da74af67-5bf4-4ed0-a0bd-99824d316684",
+      "title": "Toyota vai fabricar picape Hilux movida a hidrogênio na Tailândia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Toyota hydrogen powered Hilux pickup Thailand",
+        "images": [
+          {
+            "anchor": "Produção voltada para exportação",
+            "query_en": "Toyota factory in Thailand production line"
+          },
+          {
+            "anchor": "Austrália",
+            "query_en": "Toyota Hilux pickup truck Australia road"
+          },
+          {
+            "anchor": "Nova Zelândia",
+            "query_en": "Toyota vehicle transport New Zealand"
+          },
+          {
+            "anchor": "Europa e outros mercados selecionados",
+            "query_en": "Toyota hydrogen fuel cell car Europe"
+          },
+          {
+            "anchor": "A estratégia de energia limpa da Toyota",
+            "query_en": "Toyota hydrogen fuel cell technology engine"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2f63c35e-6dd3-4964-82eb-f3b1436635c4",
+      "title": "Thales vê no Japão grandes oportunidades de expansão e parcerias estratégicas no setor de defesa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Thales CEO Patrice Caine defense industry Japan",
+        "images": [
+          {
+            "anchor": "Oportunidades e parcerias no Japão",
+            "query_en": "Japan defense industry military equipment"
+          },
+          {
+            "anchor": "Radares avançados",
+            "query_en": "Thales radar military technology"
+          },
+          {
+            "anchor": "Sistemas de sonar",
+            "query_en": "naval sonar system defense technology"
+          },
+          {
+            "anchor": "Tecnologias de suporte operacional",
+            "query_en": "military operational support technology"
+          },
+          {
+            "anchor": "Iniciativas conjuntas de defesa",
+            "query_en": "defense partnership meeting business"
+          },
+          {
+            "anchor": "Cenário global de investimentos",
+            "query_en": "global defense investment industry"
+          },
+          {
+            "anchor": "Contexto regional e movimentações estratégicas",
+            "query_en": "Indo Pacific security defense strategy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2df01ace-e100-42b5-9cc2-d2a5fe6aabed",
+      "title": "Partido do primeiro-ministro do Japão acelera debate sobre corte de impostos sobre alimentos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan parliament food tax cut debate Sanae Takaichi",
+        "images": [
+          {
+            "anchor": "Detalhes das deliberações parlamentares",
+            "query_en": "Japanese parliament building Tokyo Diet"
+          },
+          {
+            "anchor": "Contexto político e econômico",
+            "query_en": "Sanae Takaichi Prime Minister of Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "275c3761-91ef-4402-ac98-7aa2bebd9328",
+      "title": "Instabilidade francesa e riscos de dívida em IA direcionam investidores para títulos japoneses ultralongos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japanese government bonds JGB auction market trends",
+        "images": [
+          {
+            "anchor": "O impacto da turbulência na Europa e o fator IA",
+            "query_en": "French political unrest protests Paris streets"
+          },
+          {
+            "anchor": "O reflexo no mercado de títulos do Japão",
+            "query_en": "Tokyo stock exchange financial district buildings Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1bbd134-e066-43f3-ba5c-07a7247c2aee",
+      "title": "AMD Afirma que Controle em Tempo Real e Confiabilidade São Cruciais para a IA Física",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AMD physical AI real-time control reliability robotics",
+        "images": [
+          {
+            "anchor": "As Demandas dos Fabricantes de Robôs",
+            "query_en": "Salil Raje AMD robotics physical AI"
+          },
+          {
+            "anchor": "O controle em tempo real é apontado como uma necessidade indispensável para operações físicas seguras e precisas.",
+            "query_en": "real-time robot control industrial automation AI"
+          },
+          {
+            "anchor": "A confiabilidade em nível de sistema garante que robôs e dispositivos autônomos operem de maneira contínua e previsível em ambientes dinâmicos.",
+            "query_en": "reliable autonomous robot system hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e49f8749-6b38-458b-b3fb-2a9b5c5625e8",
+      "title": "CEO da Shinsung E&G Empresta 2 Bilhões de Wons para Adquirir Ações do Fundador",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Shinsung E&G corporate stock transaction business news",
+        "images": [
+          {
+            "anchor": "Movimentação Acionária na Shinsung E&G",
+            "query_en": "Shinsung E&G corporate office building"
+          },
+          {
+            "anchor": "Detalhes da Negociação entre Pai e Filha",
+            "query_en": "business executive meeting corporate leadership"
+          },
+          {
+            "anchor": "Utilização de Empréstimo Caucionado por Ações",
+            "query_en": "stock market trading financial documents"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bdd98c9-5e39-4e7f-a3ce-e88d6aa14f63",
+      "title": "Chaves privadas comprometidas da Emuhdra ameaçam a segurança de conexões TLS na web",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chinese AI tool cyberattacks Japanese companies cybersecurity",
+        "video_query_en": "TLS encryption web certificates security vulnerabilities",
         "images": [
           {
-            "anchor": "A descoberta da ameaça",
-            "query_en": "Cybersecurity data breach digital security concept"
+            "anchor": "O risco para conexões TLS e certificados digitais",
+            "query_en": "digital security lock certificate encryption"
           },
           {
-            "anchor": "Conexões internacionais",
-            "query_en": "Global cybersecurity network threat analysis"
-          },
-          {
-            "anchor": "O cenário de segurança no Japão",
-            "query_en": "Tokyo business district modern corporate security"
+            "anchor": "Oito chaves privadas da Emuhdra foram identificadas como vulneráveis.",
+            "query_en": "cybersecurity server secure connection data"
           }
         ]
       }
     },
     {
-      "id": "69cb63ae-a955-4e7e-a28c-70e2ec260425",
-      "title": "‘Two Cigarettes, Three Nights’ explores messy emotions and moral compromises",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "id": "d9d175c0-0f58-49b5-8ade-8cc12ad3fe52",
+      "title": "Xodus Nexus: Aplicativo recriado traz o Xbox Game Pass para o Linux e Steam Deck",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xbox Game Pass on Steam Deck Linux",
+        "images": [
+          {
+            "anchor": "O foco no Steam Deck e no SteamOS",
+            "query_en": "Steam Deck running SteamOS"
+          },
+          {
+            "anchor": "Desafios e expectativas na integração",
+            "query_en": "Linux gaming setup screen"
+          }
+        ]
+      }
     },
     {
-      "id": "258b92af-fc9c-4a4d-acec-f4f14b51510f",
-      "title": "Parlamento japonês debate corte no imposto de consumo sobre alimentos proposto por Sanae Takaichi",
+      "id": "788b8734-4ce7-40c9-aa9b-cafeb7131b0d",
+      "title": "Fanttik A10 Pro: Medidor a laser com trena digital atinge menor preço na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fanttik A10 Pro laser measure review",
+        "images": [
+          {
+            "anchor": "A proposta versátil do Fanttik A10 Pro",
+            "query_en": "Fanttik A10 Pro laser distance meter"
+          },
+          {
+            "anchor": "Combinação de laser e trena tradicional",
+            "query_en": "digital tape measure and laser"
+          },
+          {
+            "anchor": "Oferta atual na Amazon",
+            "query_en": "Amazon package delivery box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6cbec2e6-c8f9-4b61-ae3b-e127ed5da504",
+      "title": "BMW encerra programa de indenizações antes do prazo devido à alta procura",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan parliament consumption tax debate Sanae Takaichi",
+        "video_query_en": "BMW factory production and corporate updates",
         "images": [
           {
-            "anchor": "Detalhes da proposta do governo",
-            "query_en": "Japan national Diet building Tokyo"
+            "anchor": "O motivo do encerramento antecipado",
+            "query_en": "BMW manufacturing plant building exterior"
           },
           {
-            "anchor": "A reação e as alternativas da oposição",
-            "query_en": "Japanese politicians in parliament"
+            "anchor": "Impacto na estrutura de pessoal",
+            "query_en": "BMW workers inside an industrial facility"
+          },
+          {
+            "anchor": "Forte interesse dos colaboradores nas condições oferecidas",
+            "query_en": "BMW car assembly line workers"
           }
         ]
       }
     },
     {
-      "id": "889dbcc2-2163-49b6-93b5-8ecb61395067",
-      "title": "Coreia do Sul retira funcionários da embaixada em Kiev após impasse sobre prisioneiros norte-coreanos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea embassy staff Ukraine North Korea prisoners",
-        "images": [
-          {
-            "anchor": "A escalada do conflito diplomático",
-            "query_en": "South Korea embassy building"
-          },
-          {
-            "anchor": "Motivos para a retirada da equipe",
-            "query_en": "Park Doo-soon Foreign Ministry spokesperson"
-          }
-        ]
-      }
-    },
-    {
-      "id": "61d26488-0ef7-4166-93f6-54e555fec85f",
-      "title": "Ataque deliberado contra parlamentar na Austrália acende alerta para violência política e extremismo digital",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Australia political violence online echo chambers Helen Haines",
-        "images": [
-          {
-            "anchor": "O ataque em área rural e a repercussão nacional",
-            "query_en": "Australian Parliament House Canberra"
-          },
-          {
-            "anchor": "Alertas anteriores das autoridades de segurança",
-            "query_en": "Australian Federal Police officers"
-          },
-          {
-            "anchor": "Intensificação de processos por ameaças de violência política",
-            "query_en": "Australian courtroom gavel"
-          },
-          {
-            "anchor": "Alerta das agências de segurança sobre câmaras de eco digitais",
-            "query_en": "smartphone social media echo chamber"
-          },
-          {
-            "anchor": "Crescimento de teorias da conspiração e ressentimentos na internet",
-            "query_en": "cyber security intelligence screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de30dbcd-bd3d-4441-81e8-a650438e7a55",
-      "title": "Indonésia investiga queda de suposto fragmento de foguete chinês em plantação",
+      "id": "fc144d86-a880-4e9b-a960-56eaa4d265c1",
+      "title": "Energia solar na África: Testes revelam alta eficiência e desafios em campo",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chinese rocket debris Indonesia Kalimantan",
+        "video_query_en": "solar power plant north africa photovoltaic test field",
         "images": [
           {
-            "anchor": "Descoberta na Indonésia",
-            "query_en": "Indonesian Borneo palm oil plantation"
+            "anchor": "O potencial fotovoltaico no norte da África",
+            "query_en": "solar panels desert north africa photovoltaic"
           },
           {
-            "anchor": "Relato do trabalhador",
-            "query_en": "rocket debris discovered in field"
+            "anchor": "Desafios operacionais e desgaste dos equipamentos",
+            "query_en": "dust on solar panels desert maintenance"
+          },
+          {
+            "anchor": "Resultados de rendimento e perspectivas",
+            "query_en": "large scale solar farm aerial view desert"
           }
         ]
       }
     },
     {
-      "id": "afe846b3-ee2e-4fc1-b8eb-b5259b85d3c0",
-      "title": "Panasonic acelera planos para transformar janelas em painéis solares",
-      "category": "Empresas",
+      "id": "da8e51f4-7845-46f8-bcc0-121ee3df32a7",
+      "title": "Amazon oferece desconto em rádio da internet com WLAN, Bluetooth e DAB+",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Panasonic perovskite solar cells window glass",
+        "video_query_en": "internet radio with wlan bluetooth dab review",
         "images": [
           {
-            "anchor": "Detalhes da produção e cronograma",
-            "query_en": "Panasonic factory Nagahama Shiga"
-          },
-          {
-            "anchor": "Comercialização inicial e personalização",
-            "query_en": "Panasonic Osaka development site"
-          },
-          {
-            "anchor": "Foco em janelas e paredes externas para aproveitamento de superfícies verticais.",
-            "query_en": "transparent solar panel window building facade"
-          },
-          {
-            "anchor": "O contexto japonês e a tecnologia de perovskita",
-            "query_en": "perovskite solar cell thin film transparent"
+            "anchor": "Conectividade e Recursos Modernos",
+            "query_en": "modern internet radio wlan bluetooth dab"
           }
         ]
       }
     },
     {
-      "id": "0d1ee5d2-b804-4797-a83f-e8b02437a3a7",
-      "title": "Irã prolonga negociações com os EUA para influenciar eleições de meio de mandato",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Iran US talks stalemate midterm elections",
-        "images": [
-          {
-            "anchor": "A estratégia de Teerã nas negociações",
-            "query_en": "Iran flag and government building Tehran"
-          },
-          {
-            "anchor": "O temor de novos ataques militares",
-            "query_en": "US military aircraft carrier deployment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c33e46c9-77db-4d58-b6c7-664b1a048348",
-      "title": "Surto de sarampo em Bangladesh serve de alerta global para quedas na vacinação",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bangladesh measles outbreak WHO warning children vaccination",
-        "images": [
-          {
-            "anchor": "Uma crise sem precedentes em Bangladesh",
-            "query_en": "Bangladesh medical center healthcare public health"
-          },
-          {
-            "anchor": "Impacto devastador entre crianças pequenas",
-            "query_en": "child vaccination health clinic pediatric care"
-          },
-          {
-            "anchor": "Mais de 200.000 casos suspeitos relatados desde meados de março até 9 de outubro",
-            "query_en": "measles rash child symptoms medical examination"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bdb480ad-4020-4cc0-86b4-d1fca56b63cf",
-      "title": "Missão do Japão à lua Fobos de Marte: 5 coisas que você precisa saber",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan MMX Mars moon Phobos mission JAXA H3 rocket",
-        "images": [
-          {
-            "anchor": "O início da missão em direção a Marte",
-            "query_en": "H3 rocket Tanegashima Space Center Japan launch"
-          },
-          {
-            "anchor": "Objetivos e cronograma de retorno",
-            "query_en": "JAXA MMX probe Phobos Mars moon sample return"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c8340f7a-41bc-4d09-b082-31d359ecc0f1",
-      "title": "Zipair Tokyo estreia rota para Kuala Lumpur e expande presença na Malásia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Zipair Tokyo Kuala Lumpur flight launch Narita",
-        "images": [
-          {
-            "anchor": "Estratégia e preços competitivos",
-            "query_en": "Zipair Tokyo airplane parked at Narita International Airport"
-          },
-          {
-            "anchor": "Foco em conexões intercontinentais",
-            "query_en": "Kuala Lumpur city skyline Malaysia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d45c647b-b66e-4cad-be19-8be7efa63e77",
-      "title": "Boom da inteligência artificial na Ásia beneficia empresários e não consumidores, apontam economistas",
+      "id": "49110853-4288-46db-b5cc-9226bd6cbcb6",
+      "title": "Gerente da Google descarta preocupações da Europa sobre hegemonia americana em inteligência artificial",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asia AI economic impact business owners consumers economists",
+        "video_query_en": "Kent Walker Google Financial Times artificial intelligence Europe",
         "images": [
           {
-            "anchor": "O impacto econômico e a concentração de riqueza",
-            "query_en": "Business of Luxury Summit Bangkok panel discussion"
+            "anchor": "A visão da Google sobre a inteligência artificial na Europa",
+            "query_en": "Google office Europe technology hub"
           },
           {
-            "anchor": "Pipat Luengnaruemitchai, diretor-gerente e economista-chefe do Kiatnakin Phatra Financial Group",
-            "query_en": "Pipat Luengnaruemitchai economist"
+            "anchor": "O debate sobre a soberania tecnológica e o mercado global",
+            "query_en": "European Union flag technology Brussels"
           },
           {
-            "anchor": "Louise Loo, economista-chefe para a Ásia na Oxford Economics",
-            "query_en": "Louise Loo Oxford Economics"
-          },
-          {
-            "anchor": "Dan Wang, diretor para a China na Eurasia Group",
-            "query_en": "Dan Wang Eurasia Group"
-          },
-          {
-            "anchor": "Desafios para a distribuição de benefícios",
-            "query_en": "AI technology economic boom Asia cityscape"
+            "anchor": "Cooperação internacional como alternativa à corrida isolada por modelos fundamentais.",
+            "query_en": "Global technology partnership meeting business"
           }
         ]
       }
     },
     {
-      "id": "55c0d20e-f6ea-448f-976e-adc40b1f9a93",
-      "title": "Montadora chinesa Chery planeja lançamento de veículo híbrido no Japão em meio a barreiras comerciais",
+      "id": "92c99896-09e3-47e0-b668-a61213ea641c",
+      "title": "Carregador USB compacto de 100W da Baseus com 3 portas e visor está em oferta na Amazon por menos de 42 euros",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Baseus PicoGo Pro AH22 100W charger review",
+        "images": [
+          {
+            "anchor": "Caraterísticas e desempenho do Baseus PicoGo Pro AH22",
+            "query_en": "Baseus PicoGo Pro AH22 100W USB charger"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c7929ac-54a1-4196-a02e-1a5a01eb5f8b",
+      "title": "Investimento de 16 bilhões de euros da Amazon na Alemanha gera dúvidas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chery hybrid vehicle launch Japan Omoda",
+        "video_query_en": "Amazon cloud logistics investment Germany Friedrich Merz",
         "images": [
           {
-            "anchor": "A estratégia de expansão e o mercado japonês",
-            "query_en": "Chery Omoda car model exhibition"
+            "anchor": "O anúncio bilionário e a encenação política",
+            "query_en": "Amazon logistics center Germany warehouse"
           },
           {
-            "anchor": "Introdução planejada da marca Omoda no Japão.",
-            "query_en": "Chery Omoda SUV exterior"
+            "anchor": "A opacidade nos números divulgados",
+            "query_en": "Amazon AWS data center cloud computing"
           },
           {
-            "anchor": "O impacto das barreiras comerciais internacionais",
-            "query_en": "Wuhu China industrial skyline Chery"
-          },
-          {
-            "anchor": "Concorrência e os próximos passos da Chery",
-            "query_en": "Chinese electric vehicles in Japan autoshow"
+            "anchor": "Promessa de 16 bilhões de euros em investimentos gerais.",
+            "query_en": "Amazon corporate office building Europe"
           }
         ]
       }
     },
     {
-      "id": "e44dd392-8fa7-4f0b-8da7-8af91370543e",
-      "title": "Polaris vai lançar fundo de crédito privado de US$ 630 milhões no Japão",
-      "category": "Empresas",
+      "id": "77fb872f-9e93-4457-8896-bcaa03d4d84b",
+      "title": "Uso de agentes de inteligência artificial para tarefas de escritório com Claude",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Polaris Capital Group private credit fund Japan",
+        "video_query_en": "Claude AI agents office workflows workshop",
         "images": [
           {
-            "anchor": "O contexto do crédito privado no Japão",
-            "query_en": "Tokyo financial district skyscrapers modern architecture"
+            "anchor": "O potencial dos agentes de IA no ambiente corporativo",
+            "query_en": "AI office assistant workflow automation"
           },
           {
-            "anchor": "Perfil dos investidores e expectativas",
-            "query_en": "Japanese business people meeting in corporate office"
+            "anchor": "Estruturação de dados brutos e documentos textuais",
+            "query_en": "document data structuring software interface"
+          },
+          {
+            "anchor": "Preparação de relatórios recorrentes e minutas",
+            "query_en": "business reports preparation computer screen"
+          },
+          {
+            "anchor": "Criação de fluxos de trabalho controláveis e seguros",
+            "query_en": "secure automated workflow software dashboard"
+          },
+          {
+            "anchor": "Integração de assistentes virtuais em rotinas administrativas",
+            "query_en": "virtual assistant integration office desk"
+          },
+          {
+            "anchor": "Capacitação e workshops especializados",
+            "query_en": "online workshop coding training professional"
           }
         ]
       }
     },
     {
-      "id": "f99419d0-b965-4e3e-a209-a63f5a174adf",
-      "title": "SK Nexilis desenvolve folha de cobre revestida com carbono para ânodos de silício",
-      "category": "Empresas",
+      "id": "de82c88f-5ab1-4181-8436-6d02fdc38d87",
+      "title": "Musk e Anthropic testam modelos rivais para compartilhar a riqueza da inteligência artificial com o público",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SK Nexilis carbon coated copper foil silicon anode",
+        "video_query_en": "Elon Musk Anthropic AI wealth distribution infrastructure",
         "images": [
           {
-            "anchor": "Detalhes da nova tecnologia",
-            "query_en": "SK Nexilis copper foil battery manufacturing"
+            "anchor": "O impacto revolucionário da inteligência artificial",
+            "query_en": "artificial intelligence futuristic technology data center"
           },
           {
-            "anchor": "Próximos passos da empresa",
-            "query_en": "SKC factory technology development"
+            "anchor": "Modelos rivais de distribuição de riqueza",
+            "query_en": "Elon Musk tech presentation corporate event"
+          },
+          {
+            "anchor": "Obstáculos e tendências na infraestrutura de IA",
+            "query_en": "AI infrastructure power data center servers"
           }
         ]
       }
     },
     {
-      "id": "eb50bfd8-4901-4087-aaff-b59b3b5b993c",
-      "title": "Doosan Enerbility e LIG D&A firmam parceria para desenvolver motores de mísseis nacionais",
-      "category": "Empresas",
+      "id": "2ad0af55-ed3f-4eb6-91ed-df49faf020ca",
+      "title": "Mattel aposta em estúdio próprio de jogos e expansão no Roblox para engajar fãs",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Doosan Enerbility LIG D&A missile engines defense partnership",
+        "video_query_en": "Mattel Game Studios Roblox and NetEase interview",
         "images": [
           {
-            "anchor": "Detalhes da Parceria",
-            "query_en": "Doosan Enerbility office building Bundang Doosan Tower"
+            "anchor": "Uma nova estrutura para a evolução digital",
+            "query_en": "Mattel Digital Studios logo and branding"
           },
           {
-            "anchor": "Doosan Enerbility: empresa responsável pelo anúncio e participante da assinatura do memorando.",
-            "query_en": "Doosan Enerbility logo and corporate building"
+            "anchor": "Phase 10",
+            "query_en": "Phase 10 card game mobile"
+          },
+          {
+            "anchor": "Estrutura de talentos e o equilíbrio entre desenvolvimento interno e parcerias",
+            "query_en": "Hot Wheels Unleashed gameplay action"
+          },
+          {
+            "anchor": "Critérios para parcerias e recepção de propostas",
+            "query_en": "Masters of the Universe video game artwork"
+          },
+          {
+            "anchor": "A experiência no Roblox e a importância da comunidade",
+            "query_en": "Roblox gameplay virtual world experience"
+          },
+          {
+            "anchor": "O aprendizado com a NetEase e a visão de longo prazo",
+            "query_en": "Mattel headquarters office building"
           }
         ]
       }
     },
     {
-      "id": "2dc16ed3-ebac-4c0a-ba12-415ab28c1311",
-      "title": "Boeing solicita à Hanwha Systems o desenvolvimento de visores OLED para jatos de combate",
-      "category": "Empresas",
+      "id": "37d179fe-f9a5-4359-805a-d78344b4031b",
+      "title": "Griffin Gaming Partners e Entertainment 360 lançam a HITpoint Entertainment para adaptações de jogos",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Hanwha Systems fighter jet OLED displays Boeing",
+        "video_query_en": "video game adaptations film television Griffin Gaming Partners",
         "images": [
           {
-            "anchor": "A transição tecnológica na aviação de defesa",
-            "query_en": "fighter jet cockpit display OLED technology"
+            "anchor": "A proposta da HITpoint Entertainment",
+            "query_en": "video game film adaptation hollywood studio"
           },
           {
-            "anchor": "O movimento da indústria e o interesse global",
-            "query_en": "Boeing and Lockheed Martin defense technology"
+            "anchor": "A experiência dos fundadores e parcerias",
+            "query_en": "Peter Levin Griffin Gaming Partners"
           },
           {
-            "anchor": "Boeing",
-            "query_en": "Boeing fighter jet cockpit"
+            "anchor": "O olhar da Entertainment 360",
+            "query_en": "Entertainment 360 talent management Hollywood"
           },
           {
-            "anchor": "Hanwha Systems",
-            "query_en": "Hanwha Systems defense exhibition display"
-          },
-          {
-            "anchor": "Lockheed Martin",
-            "query_en": "Lockheed Martin fighter jet cockpit"
+            "anchor": "Foco em grandes franquias e estúdios independentes",
+            "query_en": "indie video game development studio"
           }
         ]
       }
     },
     {
-      "id": "4b24357a-78b7-4344-9320-8dc96e697c4b",
-      "title": "Samsung vai lançar seus primeiros fones clip-on Galaxy Buds On no dia 27 de outubro",
+      "id": "e8873ae4-2d18-4821-9923-3ebefd724711",
+      "title": "As avaliações de Final Fantasy Resonance foram reveladas pela Square Enix",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Final Fantasy Resonance review Nintendo Switch 2 gameplay",
+        "images": [
+          {
+            "anchor": "As avaliações de Final Fantasy Resonance foram reveladas pela Square Enix",
+            "query_en": "Square Enix logo game development"
+          },
+          {
+            "anchor": "A recepção da crítica especializada",
+            "query_en": "Final Fantasy Resonance gameplay battle"
+          },
+          {
+            "anchor": "Uma nova experiência clássica baseada em elementos de títulos móveis anteriores",
+            "query_en": "Final Fantasy mobile game interface"
+          },
+          {
+            "anchor": "Celebração profunda do legado histórico da franquia Square Enix",
+            "query_en": "Classic Final Fantasy characters artwork"
+          },
+          {
+            "anchor": "Experiência recomendada para fãs dos sistemas de combate em turnos do passado",
+            "query_en": "Turn based RPG combat menu screen"
+          },
+          {
+            "anchor": "Conexões com o passado da franquia",
+            "query_en": "Nintendo Switch 2 console handheld"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9803be16-98d8-4bb1-8ccc-3e345d09d95e",
+      "title": "Dez anos do anúncio do Nintendo Switch: relembre a revelação do console",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nintendo Switch reveal trailer 2016",
+        "images": [
+          {
+            "anchor": "Uma década de história nos videogames",
+            "query_en": "Nintendo Switch original console reveal"
+          },
+          {
+            "anchor": "O estilo da revelação e a recepção do público",
+            "query_en": "Nintendo Switch trailer rooftop party scene"
+          },
+          {
+            "anchor": "Jogos apresentados e o lançamento oficial",
+            "query_en": "The Legend of Zelda Breath of the Wild Nintendo Switch"
+          },
+          {
+            "anchor": "Curiosidades e o sumiço do trailer oficial",
+            "query_en": "Nintendo Switch box and hardware 2017"
+          }
+        ]
+      }
+    },
+    {
+      "id": "04fe35f5-10c2-4b96-97e2-6d7834a3ba3f",
+      "title": "RPG em pixel art Drova vai ganhar sequência no Switch 2 no próximo ano",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Drova II Torn Lands trailer Switch 2",
+        "images": [
+          {
+            "anchor": "Novidades na jogabilidade e no combate",
+            "query_en": "Drova Forsaken Kin pixel art gameplay"
+          },
+          {
+            "anchor": "Lançamento e expectativas futuras",
+            "query_en": "Just2D Deck13 Drova 2 artwork"
+          }
+        ]
+      }
+    },
+    {
+      "id": "50f5f7be-4eca-46be-ad64-bac1079492e9",
+      "title": "Primeiras impressões de Call of Duty: Modern Warfare 4 DMZ",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Call of Duty Modern Warfare 4 DMZ gameplay",
+        "images": [
+          {
+            "anchor": "Os Três Pilares de Modern Warfare 4",
+            "query_en": "Call of Duty Modern Warfare 4 menu modes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "35297fd9-46ce-4427-8391-80449cbd3d6c",
+      "title": "Conheça o TechPulse: O novo aplicativo de notícias e vídeos criado e curado por pessoas reais",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "TechPulse app CNET PCMag Mashable",
+        "images": [
+          {
+            "anchor": "Uma nova experiência para substituir o aplicativo clássico",
+            "query_en": "TechPulse app CNET newsroom"
+          },
+          {
+            "anchor": "Foco em curadoria humana e personalização",
+            "query_en": "smartphone app dashboard custom feed"
+          },
+          {
+            "anchor": "O desenvolvimento baseado em pesquisas com leitores",
+            "query_en": "people reading tech news on mobile phone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa11a06f-5398-46c3-8786-d4656b19b76d",
+      "title": "O Impacto Ambiental dos Data Centers de Inteligência Artificial e a Reação das Comunidades",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "data centers ai energy consumption climate change Paris Marx",
+        "images": [
+          {
+            "anchor": "A Segurança e o Poder das Big Techs",
+            "query_en": "Microsoft data center exterior security fence"
+          },
+          {
+            "anchor": "Demandas em Escala Extrema",
+            "query_en": "AI servers inside hyperscale data center"
+          },
+          {
+            "anchor": "O Conflito comas Metas Climáticas",
+            "query_en": "industrial power plant data center emissions"
+          },
+          {
+            "anchor": "Consequências Locais e Globais",
+            "query_en": "community protest data center Memphis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfe154ec-1f19-4a06-94ef-13d3de78f31e",
+      "title": "TextNow lança Moto G Play adaptado para crianças por US$ 150 e plano mensal acessível",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung Galaxy Buds On clip-on wireless earbuds launch",
+        "video_query_en": "TextNow Yello Moto G Play kids phone review",
         "images": [
           {
-            "anchor": "Design e Conforto",
-            "query_en": "Samsung open-ear wireless earbuds design"
+            "anchor": "Recursos de segurança e controle parental",
+            "query_en": "Parental control smartphone app interface safety"
+          },
+          {
+            "anchor": "Interface e aplicativos disponíveis",
+            "query_en": "Moto G Play blue smartphone front view"
+          },
+          {
+            "anchor": "Snake",
+            "query_en": "Classic Snake mobile game retro"
+          },
+          {
+            "anchor": "Mines",
+            "query_en": "Minesweeper classic puzzle game"
+          },
+          {
+            "anchor": "Tic-Tac-Toe",
+            "query_en": "Tic tac toe game paper drawing"
+          },
+          {
+            "anchor": "Especificações de hardware e desempenho",
+            "query_en": "Motorola Moto G Play smartphone back camera"
+          },
+          {
+            "anchor": "Disponibilidade e o mercado de celulares infantis",
+            "query_en": "TextNow website logo mobile service"
           }
         ]
       }
     },
     {
-      "id": "f18ea1e7-6b82-4681-b602-c0a674099f4d",
-      "title": "Axcelis inicia expansão expressiva de fábrica em Pyeongtaek para hub asiático",
-      "category": "Empresas",
+      "id": "20f2ed52-5dbc-4ce5-b156-254bc6cf8cbf",
+      "title": "GameSir lança novas edições de controles móveis inspiradas em Fortnite com opções translúcidas",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Axcelis Pyeongtaek plant expansion semiconductor ion implantation",
+        "video_query_en": "GameSir G8 Plus mobile controller review",
         "images": [
           {
-            "anchor": "O início das obras em Pyeongtaek",
-            "query_en": "Axcelis Pyeongtaek groundbreaking ceremony"
+            "anchor": "Novos designs e opções de cores",
+            "query_en": "GameSir mobile controller translucent design"
           },
           {
-            "anchor": "Transformação em hub de manufatura asiático",
-            "query_en": "Axcelis semiconductor manufacturing equipment"
+            "anchor": "Conheça o GameSir G8 Plus",
+            "query_en": "GameSir G8 Plus controller"
           },
           {
-            "anchor": "Aumento drástico na capacidade de produção",
-            "query_en": "Axcelis ion implantation equipment factory"
+            "anchor": "Conheça o GameSir X5 Lite",
+            "query_en": "GameSir X5 Lite mobile controller"
+          },
+          {
+            "anchor": "Disponibilidade e expectativas",
+            "query_en": "GameSir gaming controller setup"
           }
         ]
       }
     },
     {
-      "id": "410e9398-a4fa-4839-8f1d-20b08f75a1a3",
-      "title": "Lucro Operacional de Nove Meses da LS Eco Energy Supera Projeção Completa",
-      "category": "Empresas",
+      "id": "b5b7284e-45fd-49ef-837a-e2f66e973280",
+      "title": "Tamanho do arquivo do remake de The Legend of Zelda: Ocarina of Time é revelado e impressiona",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LS Eco Energy financial results 2025",
+        "video_query_en": "The Legend of Zelda Ocarina of Time remake Switch 2 trailer",
         "images": [
           {
-            "anchor": "Desempenho do Terceiro Trimestre",
-            "query_en": "LS Eco Energy financial performance graph"
+            "anchor": "O tamanho do remake de Ocarina of Time",
+            "query_en": "Nintendo Switch 2 console games display"
           },
           {
-            "anchor": "Resultados Acumulados e Projeções",
-            "query_en": "LS Eco Energy corporate building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "36dc27f7-5e47-467f-81e7-2ed02fe5440a",
-      "title": "Altera mira o mercado de IA física com FPGAs para o sensor bridge da Nvidia",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Altera FPGA Nvidia Holoscan Sensor Bridge physical AI",
-        "images": [
-          {
-            "anchor": "Estratégia no setor de IA física",
-            "query_en": "Lee Nam-hoon Altera semiconductor conference"
+            "anchor": "Comparação com o cartucho clássico de 1998",
+            "query_en": "Nintendo 64 cartridge Ocarina of Time"
           },
           {
-            "anchor": "Robótica",
-            "query_en": "physical AI robotics autonomous vehicles FPGA"
+            "anchor": "O novo recordista da era Switch",
+            "query_en": "The Legend of Zelda Breath of the Wild Nintendo Switch"
           },
           {
-            "anchor": "Veículos autônomos",
-            "query_en": "Nvidia Holoscan Sensor Bridge autonomous systems"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ac9ef1c7-e5d9-4946-bd0d-a73200a99e69",
-      "title": "Samsung planeja migrar modems móveis para 2nm após aprovação do M2700",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Samsung semiconductor manufacturing 2nm technology",
-        "images": [
-          {
-            "anchor": "A evolução para o processo de 2 nanômetros",
-            "query_en": "Samsung semiconductor cleanroom wafer"
+            "anchor": "Breath of the Wild Nintendo Switch 2 Edition: Anterior detentor do recorde principal da era moderna, com 24GB.",
+            "query_en": "Breath of the Wild Nintendo Switch gameplay"
           },
           {
-            "anchor": "Testes bem-sucedidos do M2700 pela MX",
-            "query_en": "Samsung mobile processor chip"
+            "anchor": "Tears of the Kingdom Nintendo Switch 2 Edition: Ocupava o segundo lugar entre os principais títulos, com 20GB.",
+            "query_en": "Tears of the Kingdom Link Nintendo Switch"
           },
           {
-            "anchor": "Reorganização da capacidade de produção de 4nm",
-            "query_en": "Samsung factory microchip production"
-          }
-        ]
-      }
-    },
-    {
-      "id": "43092766-52d6-4237-ba51-490f2725cb7a",
-      "title": "LIG D&A Enfrenta Possível Proibição de Licitação Após Acusações de Corrupção em Aquisições de Defesa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea defense procurement corruption LIG D&A DAPA",
-        "images": [
-          {
-            "anchor": "Contexto e Envolvimento de Projetos Bilionários",
-            "query_en": "South Korea defense military building Seoul"
+            "anchor": "The Legend of Zelda: Link's Awakening remake e Echoes of Wisdom: Jogos menores que se mantêm na faixa dos 5GB.",
+            "query_en": "Zelda Echoes of Wisdom Nintendo Switch"
           },
           {
-            "anchor": "Próximos Passos e Reunião do Comitê",
-            "query_en": "South Korea government meeting conference room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c8e87586-7028-4c22-8572-fb0df57d1aea",
-      "title": "Coway Oferece Aluguel de Purificadores de Água e Bidês por 10.000 Wones por Mês",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Coway water purifier rental promotion",
-        "images": [
-          {
-            "anchor": "Detalhes da Campanha e Prazos",
-            "query_en": "Coway corporate office Seoul"
-          },
-          {
-            "anchor": "Produtos Elegíveis na Promoção",
-            "query_en": "Coway Icon Water Purifier"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4eb7b70e-3cd4-44c0-9f92-610c90aa1b7c",
-      "title": "Apple anuncia evento 'Pro and Tell' para a próxima semana e alimenta expectativas sobre novos MacBooks",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple event announcement pro and tell macbook pro",
-        "images": [
-          {
-            "anchor": "O teaser misterioso e a tradição da empresa",
-            "query_en": "Apple logo animation minimalist event teaser"
-          },
-          {
-            "anchor": "Expectativas em torno do MacBook Pro e contexto de mercado",
-            "query_en": "MacBook Pro OLED display modern laptop workspace"
-          },
-          {
-            "anchor": "Histórico recente de lançamentos da Apple",
-            "query_en": "Apple HomeView smart home AI device"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d6c620c4-8dd2-424d-ae1c-bed6ea0e8e60",
-      "title": "Balanços de SpaceX e Tesla testam ambições de Elon Musk em inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SpaceX Tesla earnings merger Elon Musk AI spending",
-        "images": [
-          {
-            "anchor": "Expectativas para a SpaceX",
-            "query_en": "SpaceX rocket launch Starlink satellite"
-          },
-          {
-            "anchor": "Resultados e desafios da Tesla",
-            "query_en": "Tesla electric vehicle factory production line"
-          },
-          {
-            "anchor": "Cenário de fusão e tecnologia integrada",
-            "query_en": "Elon Musk silhouette Tesla logo SpaceX"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8f09087e-6952-4413-bf67-f0672cd51297",
-      "title": "EUA proíbem o uso da inteligência artificial chinesa DeepSeek em sistemas de TI governamentais",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US government ban Chinese AI DeepSeek security risks",
-        "images": [
-          {
-            "anchor": "Medidas drásticas contra a DeepSeek nos Estados Unidos",
-            "query_en": "US Department of Homeland Security building Washington DC"
-          },
-          {
-            "anchor": "Riscos de segurança e vazamento de dados apontados pelo DHS",
-            "query_en": "cybersecurity threat analysis screen code"
-          },
-          {
-            "anchor": "Histórico de restrições e panorama estadual",
-            "query_en": "US government office laptop computer security"
-          },
-          {
-            "anchor": "O contexto mais amplo de restrições tecnológicas da administração Trump",
-            "query_en": "Federal Communications Commission FCC seal building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3de94e00-192e-4d17-9522-a516f67b1fa1",
-      "title": "Netflix enfrenta desafios para manter engajamento dos usuários",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Netflix business challenges user engagement and leadership changes",
-        "images": [
-          {
-            "anchor": "Mudanças na liderança e reestruturação de pessoal",
-            "query_en": "Netflix corporate office logo"
-          },
-          {
-            "anchor": "Impacto nas assinaturas e no mercado",
-            "query_en": "Netflix mobile app download smartphone"
-          },
-          {
-            "anchor": "Aposta em eventos ao vivo e concorrência acirrada",
-            "query_en": "Ted Sarandos Netflix CEO"
-          },
-          {
-            "anchor": "Insatisfação dos assinantes",
-            "query_en": "Person watching Netflix on TV"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0530e2ff-25fc-47a4-b593-4616d3d381e8",
-      "title": "Fechadura inteligente com reconhecimento facial e venoso em promoção na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Switchbot smart lock facial recognition review",
-        "images": [
-          {
-            "anchor": "Detalhes da oferta e recursos da fechadura Switchbot",
-            "query_en": "Switchbot smart lock product"
-          },
-          {
-            "anchor": "Reconhecimento facial para identificação rápida e sem contato ao se aproximar da porta.",
-            "query_en": "smart lock facial recognition scanner"
-          },
-          {
-            "anchor": "Leitura de veias da mão, oferecendo um método alternativo de alta segurança baseado em padrões vasculares.",
-            "query_en": "palm vein scanner smart lock"
-          },
-          {
-            "anchor": "Leitor de impressão digital integrado para acesso prático e imediato.",
-            "query_en": "fingerprint scanner smart door lock"
-          },
-          {
-            "anchor": "Suporte a códigos numéricos personalizados para moradores e visitantes temporários.",
-            "query_en": "digital keypad smart lock"
-          },
-          {
-            "anchor": "Conectividade NFC para uso de cartões ou dispositivos compatíveis.",
-            "query_en": "NFC smart card door lock"
-          },
-          {
-            "anchor": "Tecnologias de acesso e conveniência",
-            "query_en": "modern smart home door lock installation"
+            "anchor": "Hyrule Warriors: Age of Imprisonment: O único jogo da franquia como um todo que supera o novo remake, registrando 43.5GB.",
+            "query_en": "Hyrule Warriors Age of Imprisonment gameplay"
           }
         ]
       }
@@ -730,36 +803,20 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "853aad53-51fb-4c70-bb0f-1ee64510f4f5",
-      "title": "Como assistir à partida amistosa entre Estados Unidos e México de graça online",
-      "category": "Internet",
+      "id": "05759afa-cc76-4294-839b-00cb3d74b7d7",
+      "title": "Cadeira Herman Miller Sayl recebe desconto de mais de 20 mil ienes na Amazon",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "USA vs Mexico soccer rivalry match highlights",
+        "video_query_en": "Herman Miller Sayl chair review",
         "images": [
           {
-            "anchor": "Contexto das equipes para o amistoso",
-            "query_en": "USA vs Mexico soccer players on field"
+            "anchor": "Desconto especial na Amazon para a cadeira Herman Miller Sayl",
+            "query_en": "Amazon website interface"
           },
           {
-            "anchor": "Data, horário e local do confronto",
-            "query_en": "State Farm Stadium exterior architecture"
-          },
-          {
-            "anchor": "Como assistir à partida de graça",
-            "query_en": "TV Azteca logo broadcast studio"
-          },
-          {
-            "anchor": "Passo a passo para acompanhar o jogo",
-            "query_en": "Person using VPN app on smartphone"
-          },
-          {
-            "anchor": "Vantagens do uso de VPNs e garantias de reembolso",
-            "query_en": "Cybersecurity VPN network connection map"
-          },
-          {
-            "anchor": "Opções de planos da ExpressVPN",
-            "query_en": "ExpressVPN application interface on laptop"
+            "anchor": "Novo preço e condições da oferta",
+            "query_en": "Herman Miller Sayl chair"
           }
         ]
       }
