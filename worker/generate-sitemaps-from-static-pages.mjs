@@ -1,5 +1,6 @@
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join, relative, sep } from 'node:path';
+import { apiAll } from './supabase-pagination.mjs';
 
 const SUPABASE_URL = process.env.SUPABASE_URL;
 const KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -94,7 +95,7 @@ function renderSitemap(list, withImages) {
 }
 async function main() {
   const [articles, htmlFiles] = await Promise.all([
-    api('articles?status=eq.review&select=id,title,slug,summary,original_url,cached_image_url,image_url,published_at,created_at&order=published_at.desc.nullslast,created_at.desc&limit=1000'),
+    apiAll(SUPABASE_URL,H,'articles?status=eq.review&select=id,title,slug,summary,original_url,cached_image_url,image_url,published_at,created_at&order=published_at.desc.nullslast,created_at.desc'),
     walk('.')
   ]);
   const uniqueArticles = [], duplicateIds = [];

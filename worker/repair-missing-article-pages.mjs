@@ -1,4 +1,5 @@
 import { mkdir, access, writeFile } from 'node:fs/promises';
+import { apiAll } from './supabase-pagination.mjs';
 
 const SUPABASE_URL = process.env.SUPABASE_URL;
 const KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -12,8 +13,7 @@ function markdown(value=''){const lines=String(value).replace(/\r\n?/g,'\n').tri
 function dateText(value){if(!value)return'Agora';const d=new Date(value);if(Number.isNaN(d.getTime()))return'Agora';return new Intl.DateTimeFormat('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit'}).format(d);}
 async function exists(path){try{await access(path);return true}catch{return false}}
 async function main(){
- const articles=await api('articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc&limit=1000');
- const links=await api('article_categories?select=article_id,category_id'); const categories=await api('categories?select=id,name'); const sources=await api('article_sources?select=article_id,source_title,source_url');
+ const [articles,links,categories,sources]=await Promise.all([apiAll(SUPABASE_URL,headers,'articles?status=eq.review&select=id,title,slug,summary,content,why_it_matters,future_outlook,image_url,cached_image_url,original_url,published_at,created_at,updated_at&order=published_at.desc.nullslast,created_at.desc'),apiAll(SUPABASE_URL,headers,'article_categories?select=article_id,category_id'),api('categories?select=id,name'),apiAll(SUPABASE_URL,headers,'article_sources?select=article_id,source_title,source_url')]);
  const categoryMap=new Map(categories.map(x=>[x.id,x.name])); const articleCategory=new Map(links.map(x=>[x.article_id,categoryMap.get(x.category_id)||'Tecnologia'])); const sourceMap=new Map(sources.map(x=>[x.article_id,x]));
  await mkdir('noticias',{recursive:true}); const used=new Set(articles.map(a=>String(a.slug||'').trim()).filter(Boolean)); let created=0,existing=0,failed=0,slugCreated=0;
  for(const a of articles){try{
