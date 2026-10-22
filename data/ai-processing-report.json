@@ -1,685 +1,809 @@
 {
-  "updated_at": "2026-10-22T09:51:42.175Z",
+  "updated_at": "2026-10-22T15:54:53.746Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "dc32464d-70e2-47e3-b661-d00b63a694b1",
-      "title": "An estranged mother and daughter face the music in ‘Echoes of Motherhood’",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "15a491b8-df2a-4bac-9b66-9cb56c5b6d09",
-      "title": "Falhas críticas no PHP tiram do ar sites de bancos, empresas e ministérios no Japão",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "PHP vulnerabilities Japan websites security update",
-        "images": [
-          {
-            "anchor": "Impacto na infraestrutura digital do Japão",
-            "query_en": "Japan government building Tokyo"
-          },
-          {
-            "anchor": "Ação urgente do governo e da primeira-ministra",
-            "query_en": "Sanae Takaichi Prime Minister Japan"
-          },
-          {
-            "anchor": "Suspensão de serviços em ministérios federais",
-            "query_en": "Japanese ministry building Tokyo"
-          },
-          {
-            "anchor": "O Ministério da Saúde, Trabalho e Bem-Estar",
-            "query_en": "Ministry of Health Labor and Welfare Japan"
-          },
-          {
-            "anchor": "O Ministério das Finanças",
-            "query_en": "Ministry of Finance Japan building"
-          },
-          {
-            "anchor": "Alerta global de autoridades internacionais",
-            "query_en": "Cybersecurity warning server room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "919a5937-606f-4b58-93be-f88ab12634a8",
-      "title": "Preço do petróleo sobe após ataques fatais na Arábia Saudita intensificarem temores de desabastecimento",
+      "id": "593c78c2-67b3-4bf7-a1eb-3ba9eb0ffe1e",
+      "title": "TSMC busca alternativas a equipamentos para escapar do controle da China sobre terras raras",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "oil prices saudi arabia attacks middle east supply fears",
+        "video_query_en": "TSMC rare earths factory equipment alternative supply chain China",
         "images": [
           {
-            "anchor": "O avanço nas cotações internacionais",
-            "query_en": "oil refinery saudi arabia industrial facility"
+            "anchor": "A busca por alternativas na cadeia de suprimentos",
+            "query_en": "TSMC semiconductor manufacturing cleanroom factory"
           },
           {
-            "anchor": "Detalhes dos ataques e medidas diplomáticas",
-            "query_en": "saudi aramco facility sign"
+            "anchor": "O papel crítico das terras raras na automação",
+            "query_en": "industrial automation factory machinery motors robotics"
           },
           {
-            "anchor": "Um ataque com drone na instalação de Shaybah, operada pela Saudi Aramco, resultando na morte de duas pessoas. Apesar da gravidade do impacto, as operações no local não foram afetadas.",
-            "query_en": "shaybah oil field saudi arabia"
+            "anchor": "Maquinários encontrados em fábricas altamente automatizadas, como as unidades operadas pela própria TSMC.",
+            "query_en": "advanced semiconductor wafer fabrication equipment cleanroom"
           },
           {
-            "anchor": "Um ataque direcionado ao Aeroporto Internacional Rei Fahd, localizado em Dammam, na Arábia Saudita, que deixou uma pessoa morta.",
-            "query_en": "king fahd international airport dammam"
+            "anchor": "Motores de precisão que exigem alta performance e durabilidade.",
+            "query_en": "industrial servo motor high precision automation machinery"
           },
           {
-            "anchor": "O contexto do conflito e o fluxo de exportações",
-            "query_en": "oil tanker ship at sea middle east"
+            "anchor": "Sistemas robóticos e de movimentação de materiais no chão de fábrica.",
+            "query_en": "factory automation robotic arm semiconductor manufacturing"
           }
         ]
       }
     },
     {
-      "id": "cdda9105-4c70-4be1-8eab-fa55fe928a46",
-      "title": "A resiliência de Taiwan deve ser construída antes de uma crise",
+      "id": "c2eb7000-87af-4d42-9adb-83f9dd51d8db",
+      "title": "Japão avalia ampliar definição de gastos de segurança para inflar orçamento de defesa, dizem fontes",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Taiwan resilience society military readiness China conflict",
+        "video_query_en": "Japan defense spending security budget 3.5 percent GDP",
         "images": [
           {
-            "anchor": "O foco tradicional na defesa militar",
-            "query_en": "Taiwan military exercises missiles drones"
+            "anchor": "O contexto da pressão internacional e fiscal",
+            "query_en": "Japanese government building Tokyo Diet"
           },
           {
-            "anchor": "O desafio da pressão prolongada",
-            "query_en": "Taiwan society defense crisis"
+            "anchor": "Áreas estratégicas na mira do governo",
+            "query_en": "artificial intelligence satellite technology infrastructure"
           },
           {
-            "anchor": "Lições para o cenário global",
-            "query_en": "global geopolitics hybrid warfare"
+            "anchor": "A busca pela meta de 3,5% do PIB",
+            "query_en": "Japan Self Defense Forces military equipment"
           }
         ]
       }
     },
     {
-      "id": "d5a335a1-bb37-41ef-9aba-478f32c6770b",
-      "title": "Liberte, egalite, misere ? Why France is burning",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Mundo"
-    },
-    {
-      "id": "8aa85e28-092a-4697-a618-92d0552a7a03",
-      "title": "Valor de mercado da SoftBank cai pela metade após pico impulsionado por temores sobre inteligência artificial",
+      "id": "1a895c30-40ff-4061-b973-b82a61b11679",
+      "title": "Expectativas de mulheres em relação à primeira-ministra do Japão, Sanae Takaichi, dão lugar à frustração após um ano",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SoftBank market value drops AI investment concerns",
+        "video_query_en": "Sanae Takaichi Japan prime minister women approval rating",
         "images": [
           {
-            "anchor": "A queda expressiva no valor de mercado da SoftBank",
-            "query_en": "SoftBank Tokyo headquarters building sign"
+            "anchor": "O início de uma nova fase política no Japão",
+            "query_en": "Sanae Takaichi Japan prime minister portrait"
           },
           {
-            "anchor": "Perda de posições no ranking empresarial japonês",
-            "query_en": "Tokyo Stock Exchange trading floor charts"
+            "anchor": "A queda nos índices de aprovação governamental",
+            "query_en": "Tokyo political press conference Japan"
           },
           {
-            "anchor": "O impacto dos riscos de financiamento na indústria",
-            "query_en": "Artificial intelligence data center servers"
+            "anchor": "Queda inicial",
+            "query_en": "Japanese women voters polling station"
+          },
+          {
+            "anchor": "Situação atual",
+            "query_en": "Jiji Press opinion poll Tokyo"
+          },
+          {
+            "anchor": "O impacto nas expectativas do eleitorado jovem e independente",
+            "query_en": "Young voters in Tokyo Japan"
           }
         ]
       }
     },
     {
-      "id": "5f392182-050d-4725-b4b8-4eba98419e80",
-      "title": "Agência Nacional de Polícia investiga uso irregular de CNHs antigas em Kanagawa",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan police drivers license investigation NPA Kanagawa",
-        "images": [
-          {
-            "anchor": "Investigação sobre o uso de carteiras de motorista vencidas",
-            "query_en": "Japan police headquarters building Tokyo"
-          },
-          {
-            "anchor": "Reação da Agência Nacional de Polícia e abrangência nacional",
-            "query_en": "Japanese police officer press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0dc6611e-aa83-4894-a264-3535f5916fbe",
-      "title": "Maior federação sindical do Japão busca aumento salarial de 6% para 2027",
+      "id": "5450f0ab-d6dd-4fa7-a8b8-cbc43706a4e9",
+      "title": "Grandes bancos do Japão decidem ficar de fora da terceira rodada de investimentos nos EUA",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan labor union wage hike negotiations Rengo",
+        "video_query_en": "Japan megabanks US investment semiconductor plant",
         "images": [
           {
-            "anchor": "O anúncio da Rengo e o cenário econômico",
-            "query_en": "Japanese business district Tokyo street economy"
+            "anchor": "Decisão dos megabancos japoneses",
+            "query_en": "Japanese bank building Tokyo financial district"
           },
           {
-            "anchor": "Detalhes da composição do reajuste",
-            "query_en": "Japanese workers in office meeting negotiation"
+            "anchor": "O desafio da captação de recursos em dólar",
+            "query_en": "US dollar banknotes currency finance"
           },
           {
-            "anchor": "O calendário das negociações",
-            "query_en": "Tokyo corporate building spring season"
+            "anchor": "Alternativas de financiamento para o projeto",
+            "query_en": "Semiconductor manufacturing plant construction site"
           }
         ]
       }
     },
     {
-      "id": "800399f3-075d-4b63-9eb6-88daa85c83c8",
-      "title": "‘In my DNA’: Why Osaka’s high-risk danjiri festivals refuse to slow down",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
-    },
-    {
-      "id": "26e8791d-05b0-41f7-a0bc-80459042688a",
-      "title": "Falhas de segurança em PHP detectadas por inteligência artificial causam interrupções e alertas na Ásia",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "cybersecurity php vulnerabilities artificial intelligence Asia",
-        "images": [
-          {
-            "anchor": "O impacto das falhas no PHP",
-            "query_en": "PHP programming language security code screen"
-          },
-          {
-            "anchor": "Sega",
-            "query_en": "Sega corporate building Tokyo Japan"
-          },
-          {
-            "anchor": "All Nippon Airways",
-            "query_en": "All Nippon Airways airplane Boeing"
-          },
-          {
-            "anchor": "MUFG Bank",
-            "query_en": "MUFG Bank branch Tokyo"
-          },
-          {
-            "anchor": "A atuação da inteligência artificial nas ameaças",
-            "query_en": "artificial intelligence cybersecurity threat detection interface"
-          },
-          {
-            "anchor": "Resposta de governos e empresas",
-            "query_en": "government cybersecurity warning press conference Asia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "01bf8662-2c48-4b5d-b62b-1362e389fb58",
-      "title": "Moderna busca parcerias na China apesar de tensões geopolíticas, afirma CEO",
+      "id": "1a889250-c4c2-4496-aeda-79d00a90a7c0",
+      "title": "PLD apresenta proposta de compromisso para corte de cadeiras na Câmara Baixa",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Moderna CEO Stephane Bancel interview China partnerships mRNA",
+        "video_query_en": "Japan LDP lower house seat cut election system reform",
         "images": [
           {
-            "anchor": "Discussões em andamento na Grande China",
-            "query_en": "Stephane Bancel Moderna CEO interview"
+            "anchor": "Uma nova tentativa de acordo político",
+            "query_en": "Japanese parliament building Tokyo Diet"
           },
           {
-            "anchor": "Foco em novas terapias e combate ao câncer",
-            "query_en": "mRNA cancer vaccine laboratory research"
+            "anchor": "O histórico do projeto e a parceria de coalizão",
+            "query_en": "Liberal Democratic Party Japan headquarters"
           },
           {
-            "anchor": "O avanço da tecnologia de mRNA para além das vacinas contra a COVID-19.",
-            "query_en": "mRNA vaccine production laboratory equipment"
-          },
-          {
-            "anchor": "A busca por parcerias locais voltadas para o desenvolvimento de tratamentos inovadores.",
-            "query_en": "biotech research laboratory scientists collaborating"
-          },
-          {
-            "anchor": "O foco em combater o câncer e outras doenças graves utilizando a plataforma de biotecnologia da empresa.",
-            "query_en": "oncology research medical laboratory scientist"
-          },
-          {
-            "anchor": "O contexto do mercado farmacêutico global",
-            "query_en": "pharmaceutical research facility exterior modern building"
+            "anchor": "Expectativas e próximos passos",
+            "query_en": "Japanese politician press conference Tokyo"
           }
         ]
       }
     },
     {
-      "id": "ab0a2c08-1f93-475f-a0c8-5defc5562874",
-      "title": "A pesca de krill e a mudança na ordem geopolítica na Antártica",
+      "id": "1517fb24-457f-4054-b402-f3a2fe7812d8",
+      "title": "Políticos no Reino Unido usam grupos focais gerados por inteligência artificial para testar mensagens",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI focus groups political polling UK",
+        "images": [
+          {
+            "anchor": "Empresas e custos da tecnologia",
+            "query_en": "artificial intelligence data analytics dashboard"
+          },
+          {
+            "anchor": "Reações e adoção política",
+            "query_en": "British Parliament politician talking"
+          },
+          {
+            "anchor": "Startups como Electric Twin e Artificial Societies apostam na criação de personas virtuais.",
+            "query_en": "synthetic data artificial intelligence visualization"
+          },
+          {
+            "anchor": "Empresas de pesquisa mais consolidadas, como GWI e Toluna, também estão desenvolvendo soluções baseadas em dados de grupos focais reais e pesquisas tradicionais.",
+            "query_en": "market research focus group data screen"
+          },
+          {
+            "anchor": "A Synthetic Respondents, sediada em Londres, cobra cerca de 16 dólares por projeto, valor que a empresa aponta como sendo mil vezes menor que o custo de uma pesquisa de grupo focal tradicional.",
+            "query_en": "London financial district skyline"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5dfc970-ad6d-4822-bc2c-a1bbf7060e92",
+      "title": "A reação republicana contra a política russa cria novos desafios para Trump no Congresso",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Donald Trump Russia policy Congress backlash",
+        "images": [
+          {
+            "anchor": "Reações e o cenário político em Washington",
+            "query_en": "US Capitol building Washington DC politics"
+          },
+          {
+            "anchor": "Alterações nas sanções econômicas e diplomáticas",
+            "query_en": "Russian diesel exports economic sanctions"
+          },
+          {
+            "anchor": "Pressão sobre Kiev e restrições tecnológicas",
+            "query_en": "Volodymyr Zelenskyy Ukraine military communications"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5de8df86-a3d0-45d3-854e-ce78abbdadc7",
+      "title": "A bagagem política de Elon Musk ameaça fusão entre SpaceX e Tesla",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elon Musk SpaceX Tesla merger political baggage",
+        "images": [
+          {
+            "anchor": "O retorno dos boatos de fusão",
+            "query_en": "Elon Musk Tesla SpaceX logos headquarters"
+          },
+          {
+            "anchor": "Conflitos de interesse entre Washington e Pequim",
+            "query_en": "SpaceX rocket launch and Tesla factory China"
+          }
+        ]
+      }
+    },
+    {
+      "id": "62fc0805-df7c-41dc-b0e8-ae1d5575c2bf",
+      "title": "Japão adota sistema de reembolso de impostos pós-partida a partir de novembro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan tax free shopping post departure refund system",
+        "images": [
+          {
+            "anchor": "Mudança no sistema de isenção",
+            "query_en": "Tokyo international airport customs inspection"
+          },
+          {
+            "anchor": "Como funciona atualmente",
+            "query_en": "tax free shopping in Japan Tokyo"
+          },
+          {
+            "anchor": "O novo modelo de reembolso",
+            "query_en": "Japan customs departure lobby airport"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bcdca2e-262f-4669-bec7-998073924043",
+      "title": "Quase todos os recifes de corais correm risco de colapso em 50 anos, alerta IUCN",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Antarctica krill fishing and international relations Hobart meeting",
+        "video_query_en": "coral reefs collapse iucn climate change",
         "images": [
           {
-            "anchor": "O encontro em Hobart",
-            "query_en": "Hobart Australia Antarctic marine living resources meeting city view"
+            "anchor": "O Alerta Global da IUCN",
+            "query_en": "IUCN conference Yerevan Armenia"
           },
           {
-            "anchor": "A importância do krill e a geopolítica",
-            "query_en": "Antarctic krill fishing ship in the Southern Ocean"
+            "anchor": "Classificação Crítica",
+            "query_en": "critically endangered shallow water coral reefs"
           },
           {
-            "anchor": "Austrália",
-            "query_en": "Australian flag and landscape"
+            "anchor": "O Impacto do Aquecimento dos Oceanos",
+            "query_en": "ocean warming coral bleaching event"
           },
           {
-            "anchor": "China",
-            "query_en": "China Antarctic research and fishing presence"
+            "anchor": "Aumento da temperatura global dos oceanos",
+            "query_en": "global ocean temperature rise coral stress"
           },
           {
-            "anchor": "Perspectivas para a governança global",
-            "query_en": "Antarctica landscape ice mountains ocean"
+            "anchor": "Maior frequência de eventos de branqueamento",
+            "query_en": "coral bleaching marine heatwave damage"
+          },
+          {
+            "anchor": "Intensidade elevada de danos aos ecossistemas marinhos",
+            "query_en": "damaged coral reef ecosystem underwater"
           }
         ]
       }
     },
     {
-      "id": "fb710b12-d084-4408-b3e7-1658b166759d",
-      "title": "Pakistan trails India, Bangladesh, Nepal in battle against hunger",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
+      "id": "44856a3a-e382-448a-afd4-7c90c2626cb7",
+      "title": "A tecnologia no topo do esporte: o duelo das gigantes asiáticas e os desafios do setor na Ásia",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Asian baseball tech innovations and data centers AI boom",
+        "images": [
+          {
+            "anchor": "O beisebol asiático e as equipes corporativas",
+            "query_en": "professional baseball stadium in Asia corporate teams"
+          },
+          {
+            "anchor": "Wei Chuan Dragons versus CTBC Brothers na Taiwan Series, com o Taipei Dome sediando partidas decisivas da Chinese Professional Baseball League (CPBL).",
+            "query_en": "Taipei Dome baseball stadium Taiwan"
+          },
+          {
+            "anchor": "Kia Tigers e Samsung Lions na Coreia do Sul, avançando rumo à Korean Series após eliminarem adversários na fase preliminar.",
+            "query_en": "Jamsil Stadium Seoul baseball"
+          },
+          {
+            "anchor": "Fukuoka SoftBank Hawks e Yokohama DeNA Baystars na disputa da Japan Series, marcando um reencontro da final de 2024.",
+            "query_en": "SoftBank Hawks baseball game Japan"
+          },
+          {
+            "anchor": "A transformação tecnológica do esporte",
+            "query_en": "baseball automated ball strike system technology"
+          },
+          {
+            "anchor": "A investida de empresas chinesas no mercado japonês",
+            "query_en": "CEATEC tech trade show Tokyo exhibition"
+          },
+          {
+            "anchor": "LimX Dynamics, startup de robótica de IA incorporada baseada em Shenzhen, estreou na CEATEC em Tóquio e prepara a abertura de uma subsidiária e um showroom no centro da cidade até o final do mês.",
+            "query_en": "humanoid robot robotics technology exhibition"
+          },
+          {
+            "anchor": "Shenzhen Grepow Battery, representada pela gerente de desenvolvimento de negócios globais Sophie Guo, relatou dificuldades e lentidão na tomada de decisões por parte de clientes japoneses devido ao clima político tenso.",
+            "query_en": "lithium battery manufacturing technology factory"
+          },
+          {
+            "anchor": "O custo humano e ambiental da corrida de IA na China",
+            "query_en": "large scale data center construction China"
+          },
+          {
+            "anchor": "A estagnação na reciclagem de baterias de veículos elétricos",
+            "query_en": "electric vehicle lithium ion battery recycling plant"
+          },
+          {
+            "anchor": "Ascend Elements, startup americana de reciclagem de baterias, entrou com pedido de proteção contra falência sob o Capítulo 11 após queda na lucratividade e corte de subsídios governamentais.",
+            "query_en": "battery recycling facility industrial plant"
+          },
+          {
+            "anchor": "Li-Cycle, empresa canadense de reciclagem, também recorreu à proteção contra falência no ano anterior.",
+            "query_en": "lithium recycling facility machinery"
+          },
+          {
+            "anchor": "JX Advanced Metals, do Japão, adiou para 2030 sua meta de comercialização para a recuperação eficiente de lítio.",
+            "query_en": "metal recycling industrial facility Japan"
+          },
+          {
+            "anchor": "BASF, conglomerado químico alemão, suspendeu a construção de instalações de reciclagem planejadas na Espanha e no Canadá.",
+            "query_en": "chemical plant industrial manufacturing facility"
+          },
+          {
+            "anchor": "O impacto da inteligência artificial no ensino superior",
+            "query_en": "university campus lecture hall students higher education"
+          }
+        ]
+      }
     },
     {
-      "id": "3483ba5a-ab46-4661-a3f9-b2e2bf8455ab",
-      "title": "Malásia ganha destaque com a entrada da SkyeChip em projeto de memória de IA apoiado pelo SoftBank no Japão",
+      "id": "2c020878-99a4-4cb8-b86f-0b9a78c49416",
+      "title": "Índia busca vantagem competitiva sobre rivais em negociação de acordo comercial com os Estados Unidos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SoftBank AI memory semiconductor project Japan",
+        "video_query_en": "India US trade deal negotiations Trump",
         "images": [
           {
-            "anchor": "A expansão da SkyeChip no ecossistema japonês",
-            "query_en": "semiconductor chip design Penang Malaysia"
+            "anchor": "A busca por espaço no mercado norte-americano",
+            "query_en": "India exports US market trade container port"
           },
           {
-            "anchor": "O impacto regional e os próximos passos",
-            "query_en": "SoftBank Tokyo headquarters building"
+            "anchor": "O contexto político e diplomático",
+            "query_en": "S Jaishankar Marco Rubio meeting India US"
+          },
+          {
+            "anchor": "Perspectivas para o comércio bilateral",
+            "query_en": "New Delhi India cityscape government buildings"
           }
         ]
       }
     },
     {
-      "id": "f78862a8-945c-45ec-a336-7412753dc9f6",
-      "title": "Daiichi Life aposta no ouro para proteger investimentos contra riscos de mercado",
+      "id": "2bb9b133-361b-4180-bc76-abc91ce3e9f9",
+      "title": "Liquidadores da Evergrande planejam primeiro pagamento com menos de 1% das reivindicações recuperadas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Daiichi Life gold investment inflation market risks",
+        "video_query_en": "China Evergrande liquidators payout recovery",
         "images": [
           {
-            "anchor": "Detalhes da estratégia de alocação em ouro",
-            "query_en": "Daiichi Life building Tokyo headquarters financial district"
+            "anchor": "Cenário de Recuperação e Desafios",
+            "query_en": "China Evergrande residential buildings Beijing"
           },
           {
-            "anchor": "Motivações e o cenário de riscos globais",
-            "query_en": "gold bullion bars financial market safe haven"
+            "anchor": "Investigações e Ações dos Liquidadores",
+            "query_en": "Hong Kong corporate liquidators office"
           }
         ]
       }
     },
     {
-      "id": "72ce10a5-8aeb-4e69-868b-c70f7529e8c4",
-      "title": "Banco do Japão deve manter taxa em 1,25% na próxima reunião",
+      "id": "b60ea238-e57a-429c-babd-a5f2a36d3981",
+      "title": "A dependência energética mantém as relações entre Japão e Rússia por um fio",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bank of Japan interest rate policy meeting Kazuo Ueda",
+        "video_query_en": "Japan Russia relations energy trade LNG",
         "images": [
           {
-            "anchor": "Decisão de Política Monetária",
-            "query_en": "Bank of Japan headquarters Tokyo building"
+            "anchor": "O contexto das negociações energéticas e diplomáticas",
+            "query_en": "Japan Prime Minister Sanae Takaichi Vladimir Putin energy"
           },
           {
-            "anchor": "Contexto Inflacionário",
-            "query_en": "Kazuo Ueda Bank of Japan governor press conference"
+            "anchor": "Desafios na geopolítica e sanções econômicas",
+            "query_en": "LNG tanker ship energy trade Russia Japan"
           }
         ]
       }
     },
     {
-      "id": "b6ffc9fa-02c6-4475-a238-0eba2d2f9248",
-      "title": "Banco Central das Filipinas eleva taxa básica de juros para 5,5% para conter inflação",
+      "id": "6e26b9ed-df56-4917-a36c-419f543ae641",
+      "title": "Nippon Steel vai investir US$ 3 bilhões em fábrica da U.S. Steel para modernizar maquinário de 90 anos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Philippines central bank interest rate inflation economy",
+        "video_query_en": "Nippon Steel U.S. Steel Mon Valley works investment",
         "images": [
           {
-            "anchor": "Impacto do Choque Global de Energia",
-            "query_en": "Manila financial district skyline Philippines economy"
+            "anchor": "Modernização de equipamentos centenários",
+            "query_en": "Nippon Steel factory industrial hardware manufacturing"
+          },
+          {
+            "anchor": "Instalação de um novo laminador a quente (hot roller) na planta de Mon Valley Works.",
+            "query_en": "hot strip mill steel rolling plant"
+          },
+          {
+            "anchor": "Incorporação das tecnologias mais recentes desenvolvidas pela empresa japonesa.",
+            "query_en": "modern steel manufacturing technology automation"
+          },
+          {
+            "anchor": "Substituição de componentes de hardware que operam há nove décadas no local.",
+            "query_en": "historic steel mill heavy machinery industrial equipment"
+          },
+          {
+            "anchor": "Estratégia de expansão e compromissos assumidos",
+            "query_en": "Nippon Steel industrial plant exterior production line"
           }
         ]
       }
     },
     {
-      "id": "40c0dfb5-7c3a-4706-942d-1a3eec565333",
-      "title": "Primeira greve da história no setor de semicondutores de Taiwan atinge fábrica da Micron",
+      "id": "395b281c-4189-4759-81ba-27a64dc6c9c9",
+      "title": "Japão articula investimentos de US$ 6 bilhões do setor privado em Bangladesh",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Micron chip workers strike Taiwan semiconductor industry",
+        "video_query_en": "Japan Bangladesh economic investment relations",
         "images": [
           {
-            "anchor": "O histórico conflito trabalhista na indústria de chips de Taiwan",
-            "query_en": "Micron Technology facility Taoyuan Taiwan exterior"
+            "anchor": "Detalhes da articulação econômica",
+            "query_en": "Bangladesh infrastructure and energy development"
           },
           {
-            "anchor": "A disputa sobre bônus e a bonificação por lucros da inteligência artificial",
-            "query_en": "Micron semiconductor memory chips silicon wafer"
+            "anchor": "Setor automotivo, visando expandir a cadeia de suprimentos e a presença industrial na região.",
+            "query_en": "Automotive industry manufacturing plant Asia"
           },
           {
-            "anchor": "O impacto da paralisação e o contexto estratégico da Micron",
-            "query_en": "Micron technology sign building corporate office"
+            "anchor": "Setor de energia, com foco no desenvolvimento e estabilização do fornecimento local.",
+            "query_en": "Energy power plant infrastructure Bangladesh"
+          },
+          {
+            "anchor": "Contexto geopolítico e estratégico",
+            "query_en": "Tokyo Japan government building cityscape"
+          },
+          {
+            "anchor": "Próximos passos diplomáticos",
+            "query_en": "Prime Minister summit meeting international relations"
           }
         ]
       }
     },
     {
-      "id": "8200774e-b5a8-4689-8c29-bcaa72cd97d9",
-      "title": "Meta enfrenta ação coletiva na Austrália por supostos danos a crianças",
+      "id": "cdea5305-2a9c-48e0-86dd-62e96abbe33e",
+      "title": "Subaru vai trazer de volta o sedã esportivo WRX com câmbio manual para o Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Meta class action lawsuit Australia social media harm children",
+        "video_query_en": "Subaru WRX manual sports sedan Japan",
         "images": [
           {
-            "anchor": "Detalhes da Ação Coletiva",
-            "query_en": "Meta Facebook Instagram logo smartphone screen"
+            "anchor": "O contexto do fim da linha para os manuais no Japão",
+            "query_en": "Subaru WRX manual transmission interior"
           },
           {
-            "anchor": "Sigilo Processual e Contexto Regulatório",
-            "query_en": "Australian Federal Court building Sydney"
+            "anchor": "O sucesso da edição limitada de abril",
+            "query_en": "Subaru WRX sports sedan Japan"
           },
           {
-            "anchor": "Histórico Jurídico Global da Meta",
-            "query_en": "Mark Zuckerberg Meta CEO smartphone presentation"
+            "anchor": "O futuro dos esportivos tradicionais",
+            "query_en": "Subaru manual 6 speed sports car"
           }
         ]
       }
     },
     {
-      "id": "91ae63d6-955f-41df-8c7a-3b81cd8b09fe",
-      "title": "Vazamento de chaves de segurança web da eMudhra: o que significa para os usuários da internet?",
+      "id": "ccc4385a-3ec0-4a61-9bd7-e49f1f8d358f",
+      "title": "Itochu planeja adquirir unidade de vendas da Hitachi Construction Machinery em Taiwan",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Itochu Hitachi Construction Machinery Taiwan semiconductor construction",
+        "images": [
+          {
+            "anchor": "O contexto do mercado de máquinas e infraestrutura",
+            "query_en": "Hitachi Construction Machinery excavator heavy equipment"
+          },
+          {
+            "anchor": "Movimentações recentes do setor industrial",
+            "query_en": "Itochu corporate headquarters Tokyo Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "354b9b2c-7e8c-4bd8-bdde-613dd81092e6",
+      "title": "Nvidia Investe na Cadeia de Suprimentos de IA para Expandir Capacidade de Produção",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia AI supply chain investment production capacity",
+        "images": [
+          {
+            "anchor": "Movimentações na Cadeia de Suprimentos",
+            "query_en": "Nvidia data center chips artificial intelligence hardware"
+          },
+          {
+            "anchor": "Áreas Prioritárias de Investimento",
+            "query_en": "semiconductor manufacturing silicon wafer cleanroom"
+          },
+          {
+            "anchor": "Substratos de empacotamento de semicondutores",
+            "query_en": "semiconductor packaging substrates microchip"
+          },
+          {
+            "anchor": "Serviços de testes especializados",
+            "query_en": "microchip testing semiconductor laboratory equipment"
+          },
+          {
+            "anchor": "Óptica co-empacotada",
+            "query_en": "co-packaged optics fiber optic networking component"
+          }
+        ]
+      }
+    },
+    {
+      "id": "67c416c0-4ff7-4010-949c-0dd79e0d7445",
+      "title": "Presidente da Applied Materials Korea, Park Kwang-sun, recebe Medalha de Serviço Industrial",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Applied Materials Korea Semiconductor Day",
+        "images": [
+          {
+            "anchor": "Reconhecimento no Setor de Semicondutores",
+            "query_en": "Park Kwang-sun Applied Materials Korea"
+          },
+          {
+            "anchor": "A Cerimônia do Dia do Semicondutor",
+            "query_en": "Semiconductor Day ceremony South Korea"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b33a3ceb-f162-4b5a-ab9f-01d715c2284f",
+      "title": "Youngwoo DSP conquista contrato de 4,6 bilhões de wons com a Samsung Display",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Youngwoo DSP Samsung Display equipment manufacturing factory",
+        "images": [
+          {
+            "anchor": "O novo contrato com a Samsung Display",
+            "query_en": "Samsung Display manufacturing facility interior"
+          },
+          {
+            "anchor": "Equipamentos para a fábrica no Vietnã",
+            "query_en": "Samsung factory in Vietnam electronics"
+          },
+          {
+            "anchor": "Tecnologias empregadas pela Youngwoo DSP",
+            "query_en": "Optical inspection display manufacturing equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ea38bab3-6dd9-4694-8dbb-fdc516b4f886",
+      "title": "General Motors planeja adotar baterias LMR em sua quarta geração de plataforma de veículos elétricos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "General Motors EV battery strategy GM Forward event",
+        "images": [
+          {
+            "anchor": "O Anúncio da Nova Estratégia Tecnológica",
+            "query_en": "General Motors electric vehicle logo"
+          },
+          {
+            "anchor": "Detalhes do Evento GM Forward",
+            "query_en": "General Motors event New York"
+          },
+          {
+            "anchor": "A Quarta Geração de Veículos Elétricos",
+            "query_en": "GM electric vehicle platform battery"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab1be897-8714-46d5-9204-f2c84f419aeb",
+      "title": "Hana Technology se prepara para enviar equipamentos de baterias para a Agratas, da Tata Group, em novembro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hana Technology battery equipment manufacturing",
+        "images": [
+          {
+            "anchor": "O início dos envios em novembro",
+            "query_en": "battery manufacturing equipment factory"
+          },
+          {
+            "anchor": "A expectativa de melhora financeira",
+            "query_en": "corporate financial performance charts"
+          },
+          {
+            "anchor": "A carteira de pedidos da empresa",
+            "query_en": "industrial automation machinery assembly"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8360d622-ea58-42c7-8638-c4b8f57f71b1",
+      "title": "Nvidia apresenta a arquitetura OpenShell para monitoramento de agentes de IA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia OpenShell architecture GTC 2026 Berlin",
+        "images": [
+          {
+            "anchor": "O papel de uma arquitetura de referência",
+            "query_en": "data center server infrastructure technology"
+          },
+          {
+            "anchor": "Contexto da revelação no GTC 2026 Berlin",
+            "query_en": "Nvidia GTC conference presentation event"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c61e8a38-ce83-4e7f-938e-fccaefc10465",
+      "title": "Wacker e Moyuum fecham parceria para o desenvolvimento conjunto de bicos de mamadeira de silicone",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Wacker Moyuum silicone baby bottle nipples partnership",
+        "images": [
+          {
+            "anchor": "Detalhes da Parceria",
+            "query_en": "baby bottle nipples silicone manufacturing"
+          },
+          {
+            "anchor": "- Wacker Chemicals Korea:",
+            "query_en": "Wacker Chemie chemical laboratory facility"
+          },
+          {
+            "anchor": "- Moyuum:",
+            "query_en": "baby care products bottles brand"
+          },
+          {
+            "anchor": "- Acordo:",
+            "query_en": "business memorandum of understanding signing ceremony"
+          },
+          {
+            "anchor": "- Local:",
+            "query_en": "Pangyo South Korea modern business district"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc2c5b6f-f614-4fec-8aed-d612054da88d",
+      "title": "KAI e Força Aérea da Coreia do Sul Fortalecem Cooperação com Operadores de Aeronaves",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Korea Aerospace Industries KAI aircraft cooperation",
+        "images": [
+          {
+            "anchor": "Encontro Internacional em Sacheon",
+            "query_en": "Korea Aerospace Industries KAI Sacheon facility"
+          },
+          {
+            "anchor": "Objetivos dos Grupos de Trabalho",
+            "query_en": "South Korean Air Force aircraft maintenance"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5bfd491a-8ca6-4487-a5fe-2b18a7afb7e7",
+      "title": "Hanwha Aerospace expõe motores de aeronaves e drones no Sacheon Airshow 2026",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hanwha Aerospace Sacheon Airshow drone aircraft engines",
+        "images": [
+          {
+            "anchor": "Participação no Sacheon Airshow 2026",
+            "query_en": "Sacheon Airshow airfield South Korea"
+          },
+          {
+            "anchor": "Exibição de Tecnologias Aeroespaciais",
+            "query_en": "Hanwha Aerospace exhibition aerospace technology"
+          },
+          {
+            "anchor": "Motores de aeronaves desenvolvidos com tecnologia nacional e parceiros locais",
+            "query_en": "Hanwha Aerospace aircraft engine"
+          },
+          {
+            "anchor": "Sistemas de drones modernos voltados para aplicações estratégicas e industriais",
+            "query_en": "Hanwha Aerospace drone technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "67c6a8e1-4846-4954-a4c0-0a4040142eda",
+      "title": "Lucro Operacional da LG Display no Terceiro Trimestre Cai 42% na Comparação Anual",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Display Q3 earnings financial results OLED shipments",
+        "images": [
+          {
+            "anchor": "Resultados Financeiros e Desempenho Trimestral",
+            "query_en": "LG Display corporate building headquarters Seoul"
+          },
+          {
+            "anchor": "Fatores de Pressão Econômica e Custos",
+            "query_en": "OLED display manufacturing panel technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99eb7ce9-b8a7-4255-80e4-c9aef1185e06",
+      "title": "O que é o PHP e por que a linguagem enfrenta uma crise de segurança",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "emudhra security key leak explained",
+        "video_query_en": "PHP security vulnerabilities explained server risk",
         "images": [
           {
-            "anchor": "O incidente com a eMudhra",
-            "query_en": "cyber security firewall interface protection concept"
+            "anchor": "## O que aconteceu com o PHP",
+            "query_en": "server rack security digital data"
           },
           {
-            "anchor": "Como funciona a segurança baseada em certificados",
-            "query_en": "digital certificate ssl security lock icon"
+            "anchor": "## O que é o PHP",
+            "query_en": "programming code on computer screen"
           },
           {
-            "anchor": "Riscos e implicações para os usuários",
-            "query_en": "man in the middle attack cybersecurity concept"
+            "anchor": "## O que deu errado na linguagem",
+            "query_en": "computer memory architecture diagram"
+          },
+          {
+            "anchor": "## Por que a situação é grave",
+            "query_en": "cybersecurity server hacker threat"
+          },
+          {
+            "anchor": "## Há quanto tempo o problema era conhecido",
+            "query_en": "software development team meeting code review"
+          },
+          {
+            "anchor": "## O que acontece agora",
+            "query_en": "software update installation loading bar"
+          },
+          {
+            "anchor": "## Como proceder diante da crise",
+            "query_en": "system administrator monitoring servers"
+          },
+          {
+            "anchor": "## O panorama geral da segurança web",
+            "query_en": "internet network nodes global connection"
           }
         ]
       }
     },
     {
-      "id": "9adb0281-bdf3-4396-a5c5-e8827d9b7b69",
-      "title": "Meta é condenada a pagar US$ 25 bilhões ao Novo México no caso Cambridge Analytica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Meta Cambridge Analytica New Mexico $25 billion penalty",
-        "images": [
-          {
-            "anchor": "O contexto histórico do escândalo da Cambridge Analytica",
-            "query_en": "Facebook Cambridge Analytica data scandal logo"
-          },
-          {
-            "anchor": "O impacto no Novo México e a visão oficial",
-            "query_en": "New Mexico state flag capitol building"
-          },
-          {
-            "anchor": "Outros processos e acordos recentes envolvendo a Meta",
-            "query_en": "Mark Zuckerberg testimony smartphone social media"
-          }
-        ]
-      }
-    },
-    {
-      "id": "74a5cdbc-5c14-46f7-a39f-71f78e8fced4",
-      "title": "eBay anuncia corte de cerca de 1.000 vagas e atinge 9% de sua força de trabalho",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "eBay layoffs 1000 jobs workforce cuts",
-        "images": [
-          {
-            "anchor": "Novo corte de pessoal no eBay",
-            "query_en": "eBay office San Jose California building"
-          },
-          {
-            "anchor": "Contexto das demissões e histórico recente",
-            "query_en": "eBay logo corporate sign"
-          },
-          {
-            "anchor": "Desempenho financeiro e movimentações de mercado",
-            "query_en": "Depop clothing resale app fashion"
-          },
-          {
-            "anchor": "O eBay enfrentou vários anos difíceis marcados por receitas quase estagnadas.",
-            "query_en": "ecommerce website shopping online"
-          },
-          {
-            "anchor": "A empresa conseguiu retornar ao crescimento ao longo de 2025.",
-            "query_en": "business growth stock market chart"
-          },
-          {
-            "anchor": "Houve uma aceleração no ritmo de crescimento durante o primeiro semestre deste ano.",
-            "query_en": "digital marketplace laptop screen"
-          },
-          {
-            "anchor": "Em julho, o grupo assumiu o controle do site de revenda de roupas Depop por 1,2 bilhão de dólares, uma estratégia para capitalizar o forte crescimento do mercado de vestuário de segunda mão.",
-            "query_en": "secondhand clothing rack vintage fashion"
-          },
-          {
-            "anchor": "No início de maio, a varejista de videogames GameStop fez uma oferta pública de aquisição não solicitada que avaliava o eBay em 55,5 bilhões de dólares.",
-            "query_en": "GameStop store front retail video games"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ae6eb4f3-c4cf-4283-ba83-291d24ab9795",
-      "title": "O vazamento de chaves de segurança da eMudhra: o que se sabe até agora",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "eMudhra web security key leak explained",
-        "images": [
-          {
-            "anchor": "## O que é a eMudhra e sua importância",
-            "query_en": "eMudhra Bengaluru office building"
-          },
-          {
-            "anchor": "- Em 2015, tornou-se a primeira Provedora de Serviços de Assinatura Eletrônica da Índia.",
-            "query_en": "digital signature certificate security token"
-          },
-          {
-            "anchor": "- Até o período de 2022 a 2023, a empresa já havia emitido mais de 60 milhões de certificados.",
-            "query_en": "digital certificate SSL security padlock browser"
-          },
-          {
-            "anchor": "- Sua base de clientes inclui grandes nomes como Infosys, TCS, Bharti AXA Life Insurance Company, Larsen & Toubro Infotech e Hindalco Industries.",
-            "query_en": "corporate office building India tech"
-          },
-          {
-            "anchor": "- A eMudhra destaca-se por ser a única autoridade de certificação raiz indiana a contar com confiança em nível global.",
-            "query_en": "cybersecurity lock digital certificate root CA"
-          },
-          {
-            "anchor": "## Relação com órgãos governamentais e impactos",
-            "query_en": "government website security certificate warning"
-          },
-          {
-            "anchor": "## Resposta da empresa e investigação oficial",
-            "query_en": "stock market crash down red arrow finance"
-          },
-          {
-            "anchor": "## Contexto de outro incidente com o State Bank of India",
-            "query_en": "State Bank of India building branch"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fb72ec70-a9a2-499c-85f0-0ae633949674",
-      "title": "Carros elétricos alcançam 22,7% de participação de mercado na União Europeia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "electric vehicles market share European Union sales",
-        "images": [
-          {
-            "anchor": "O impacto da mudança no setor automotivo",
-            "query_en": "electric cars charging station Europe"
-          },
-          {
-            "anchor": "Veículos elétricos alcançam 22,7% de participação de mercado na União Europeia",
-            "query_en": "electric vehicle sales chart Europe"
-          },
-          {
-            "anchor": "Carros a gasolina registram queda de cerca de 19% nos novos emplacamentos",
-            "query_en": "gasoline car fuel station Europe"
-          },
-          {
-            "anchor": "Automóveis a diesel também apresentam retração de aproximadamente 19%",
-            "query_en": "diesel car traffic Europe"
-          },
-          {
-            "anchor": "Desafios e perspectivas futuras",
-            "query_en": "modern electric car manufacturing assembly line"
-          }
-        ]
-      }
-    },
-    {
-      "id": "66507703-6ecf-4f20-b3df-880fb525ea80",
-      "title": "Apple Watch SE 3 está em promoção na Amazon",
+      "id": "e2ca6fb9-4dd4-42e0-870a-2d34e3718208",
+      "title": "Oppo lança Find X10 Pro Max, Find X10, Pad Mini e Enco X4 na Índia",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple Watch SE 3 review and features",
+        "video_query_en": "Oppo Find X10 Pro Max launch features specs",
         "images": [
           {
-            "anchor": "Versatilidade e Recursos de Saúde",
-            "query_en": "Apple Watch SE health monitoring features"
+            "anchor": "Oppo Find X10 Pro Max",
+            "query_en": "Oppo Find X10 Pro Max smartphone design"
           },
           {
-            "anchor": "Ofertas e Disponibilidade na Amazon",
-            "query_en": "Amazon package delivery and online shopping"
-          }
-        ]
-      }
-    },
-    {
-      "id": "83624029-b037-4a78-a954-f3830b3aaf8c",
-      "title": "O impacto econômico de GTA 6 e os custos potenciais para os Estados Unidos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 release economic impact analytics",
-        "images": [
-          {
-            "anchor": "As projeções econômicas e o custo do lançamento",
-            "query_en": "Grand Theft Auto 6 logo concept art"
+            "anchor": "Oppo Find X10",
+            "query_en": "Oppo Find X10 smartphone display"
           },
           {
-            "anchor": "O fenômeno cultural de Grand Theft Auto",
-            "query_en": "Rockstar Games office exterior"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6bb4c6a7-2428-4f78-ad8f-f0b48e60c173",
-      "title": "Microsoft testa menu oculto para mover a barra de tarefas no Windows 11",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Windows 11 hidden taskbar position menu",
-        "images": [
-          {
-            "anchor": "Novas posições e comportamento atual",
-            "query_en": "Windows 11 taskbar settings menu"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aacf7cd5-0249-495e-9a83-55918192628d",
-      "title": "Primeiros testes do iPhone Duo revelam elogios à tela e pontos de crítica",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "iPhone Duo first reviews display and critique",
-        "images": [
-          {
-            "anchor": "O grande destaque para a tela",
-            "query_en": "iPhone Duo display screen smartphone"
+            "anchor": "Oppo Enco X4",
+            "query_en": "Oppo Enco X4 wireless earbuds case"
           },
           {
-            "anchor": "Pontos de crítica e aspectos a melhorar",
-            "query_en": "Apple iPhone smartphone design details"
+            "anchor": "Oppo Pad Mini",
+            "query_en": "Oppo Pad Mini tablet lavender"
           },
           {
-            "anchor": "Repercussão no mercado de smartphones",
-            "query_en": "iPhone Duo review tester smartphone"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a43edaef-ac6b-4c24-a50a-2cd622dab42e",
-      "title": "Baterias Eneloop em oferta temporária na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Panasonic Eneloop rechargeable batteries review Amazon deal",
-        "images": [
-          {
-            "anchor": "Detalhes da Promoção e Disponibilidade",
-            "query_en": "Panasonic Eneloop AA and AAA rechargeable batteries package"
-          },
-          {
-            "anchor": "Contexto da Oferta no Golem",
-            "query_en": "Amazon website shopping interface on computer screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "62de6f05-beb6-4baf-8b2a-fda03b158b40",
-      "title": "Tesla registra queda de 43% nos lucros e aumento nos custos de pesquisa no terceiro trimestre",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tesla third quarter financial results research costs drop",
-        "images": [
-          {
-            "anchor": "Queda acentuada nos lucros e receita estagnada",
-            "query_en": "Tesla electric vehicle financial report earnings"
-          },
-          {
-            "anchor": "Crescimento expressivo nos custos de pesquisa",
-            "query_en": "Tesla research and development laboratory technology"
-          },
-          {
-            "anchor": "Custos de pesquisa e desenvolvimento",
-            "query_en": "Tesla engineering research electric car innovation"
-          },
-          {
-            "anchor": "Novos investimentos",
-            "query_en": "Tesla factory production line technology investment"
+            "anchor": "Preços e Disponibilidade",
+            "query_en": "Oppo India store launch lineup"
           }
         ]
       }
@@ -727,62 +851,70 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "2a7ba56d-ecd6-49e7-b33c-ad5bcdffe8b6",
-      "title": "Steam Otaumu Seeru Kaisaichuu: Nippon Jikan 10-gatsu 9-ka Gozen 2-ji Made",
-      "category": "Games",
+      "id": "06e22f0b-1d5d-4929-b17a-0e1c3a85c30a",
+      "title": "Elon Musk e Jensen Huang preveem que a China fechará lacuna de litografia até 2030",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Steam Autumn Sale PC gaming platform",
+        "video_query_en": "ASML EUV lithography machine manufacturing advanced semiconductors",
         "images": [
           {
-            "anchor": "Detalhes da Promoção e Prazos",
-            "query_en": "Steam store interface digital games"
+            "anchor": "Os planos de expansão da ASML",
+            "query_en": "ASML cleanroom semiconductor manufacturing facility EUV lithography"
           },
           {
-            "anchor": "Impacto para a Comunidade de Jogadores",
-            "query_en": "PC gamer playing video games on computer"
+            "anchor": "O avanço da China em litografia indígena",
+            "query_en": "Advanced semiconductor manufacturing cleanroom technology equipment"
+          },
+          {
+            "anchor": "Incertezas de longo prazo no cenário global",
+            "query_en": "Global semiconductor supply chain microchips technology"
           }
         ]
       }
     },
     {
-      "id": "4fc044d3-6994-49ce-860b-904adf86280d",
-      "title": "Conexões e Mobilidade Econômica: O Que Define Crianças Pobres que se Tornam Adultos Bem-Sunerados?",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Harvard Stanford social capital economic mobility study Nature",
-        "images": [
-          {
-            "anchor": "O Estudo Publicado na Revista Nature",
-            "query_en": "Nature magazine scientific journal academic paper"
-          },
-          {
-            "anchor": "A Importância do Capital Social",
-            "query_en": "Social network connection data visualization"
-          },
-          {
-            "anchor": "Compreendendo os Fatores de Sucesso",
-            "query_en": "Economic mobility and career success concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "505adcce-797a-4f8b-a796-b37034b7d692",
-      "title": "Elon Musk confirma negociações com a TSMC para o projeto de fábrica de chips Terafab no Texas",
+      "id": "a03e5315-fd55-466b-888d-cbc60b79b3ce",
+      "title": "Synopsys transforma modelos de negócios em EDA e IP com foco em inteligência artificial",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Elon Musk TSMC Terafab Texas chip factory",
+        "video_query_en": "Synopsys EDA semiconductor IP artificial intelligence business model",
         "images": [
           {
-            "anchor": "O anúncio das conversas entre Terafab e TSMC",
-            "query_en": "Elon Musk Tesla SpaceX chip manufacturing"
+            "anchor": "Novos modelos de receita baseados em consumo e resultados",
+            "query_en": "Synopsys semiconductor design EDA artificial intelligence"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d188f42d-0926-4fe5-bb9b-1ec8212793aa",
+      "title": "PCs com Inteligência Artificial atingem 65% do canal de notebooks na Europa, mas o que atrai compradores?",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI PCs market share Europe notebook sales trend",
+        "images": [
+          {
+            "anchor": "O avanço dos computadores com IA na Europa",
+            "query_en": "AI laptop notebook hardware technology display"
           },
           {
-            "anchor": "O papel da TSMC no cenário americano",
-            "query_en": "TSMC semiconductor fabrication facility Texas"
+            "anchor": "Integração de capacidades de processamento de IA diretamente no hardware.",
+            "query_en": "advanced computer processor chip microchip technology"
+          },
+          {
+            "anchor": "Ampla adoção por parte dos principais fabricantes do mercado de PCs.",
+            "query_en": "modern notebook computer on desk office workspace"
+          },
+          {
+            "anchor": "Participação expressiva de 65% no canal de distribuição de notebooks na Europa.",
+            "query_en": "European retail technology store laptop display"
+          },
+          {
+            "anchor": "O dilema da motivação de compra",
+            "query_en": "business person using modern AI laptop computer"
           }
         ]
       }
