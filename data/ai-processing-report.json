@@ -1,829 +1,676 @@
 {
-  "updated_at": "2026-10-22T21:44:48.437Z",
+  "updated_at": "2026-10-23T03:35:43.171Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "95320d43-9bf8-48b5-aece-2245f8f899eb",
-      "title": "Honda e Mitsubishi firmam parceria de picapes para rivalizar com a Toyota",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Honda Mitsubishi pickup truck partnership 2028",
-        "images": [
-          {
-            "anchor": "Uma nova aliança estratégica no setor automotivo",
-            "query_en": "Honda Motor headquarters Tokyo"
-          },
-          {
-            "anchor": "O papel estratégico da Mitsubishi e do Sudeste Asiático",
-            "query_en": "Mitsubishi Triton pickup truck"
-          },
-          {
-            "anchor": "Contexto de consolidação e resposta à concorrência global",
-            "query_en": "Automotive assembly line Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "51c263c5-2d28-4e9f-a79a-1ca311bdd2ad",
-      "title": "Plataforma de moda sul-coreana Musinsa reforça parceria com a japonesa Zozo de olho em IPO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Musinsa fashion platform South Korea Zozo Japan",
-        "images": [
-          {
-            "anchor": "Expansão internacional e parceria com a Zozo",
-            "query_en": "Musinsa store Seoul fashion"
-          },
-          {
-            "anchor": "Abertura de uma loja pop-up da Zozotown em uma unidade física da Musinsa localizada em Seul no dia 16 de outubro.",
-            "query_en": "Zozotown pop-up shop"
-          },
-          {
-            "anchor": "Intercâmbio de marcas e produtos entre as plataformas sul-coreana e japonesa para atrair consumidores ávidos por novidades regionais.",
-            "query_en": "Korean fashion online shopping platform"
-          },
-          {
-            "anchor": "O cenário do varejo asiático e os planos futuros",
-            "query_en": "Seoul shopping district fashion retail"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dd3c0d96-9560-4ba9-a16a-34aaa9258b35",
-      "title": "Nova fábrica de reciclagem de metais preciosos na Malásia vai fornecer ouro para chips",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "semiconductor gold recycling manufacturing process",
-        "images": [
-          {
-            "anchor": "Detalhes da nova joint venture",
-            "query_en": "industrial factory construction plant asia"
-          },
-          {
-            "anchor": "Foco na recuperação de materiais para semicondutores",
-            "query_en": "gold wire bonding semiconductor chip manufacturing"
-          },
-          {
-            "anchor": "Recuperação de ouro e metais preciosos de sucatas industriais",
-            "query_en": "precious metal recycling facility laboratory"
-          },
-          {
-            "anchor": "Processamento focado na fabricação de semicondutores",
-            "query_en": "silicon wafer semiconductor production cleanroom"
-          },
-          {
-            "anchor": "Reaproveitamento de materiais provenientes de componentes eletrônicos",
-            "query_en": "electronic components circuit board microchip"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cdcf10bc-0c60-479d-926f-ed212608e283",
-      "title": "Preços de condomínios usados em Tóquio registram quinta queda consecutiva",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tokyo real estate market condo prices trends",
-        "images": [
-          {
-            "anchor": "Queda nos preços em seis bairros centrais",
-            "query_en": "Central Tokyo skyline condominiums property"
-          },
-          {
-            "anchor": "Impacto das taxas de hipoteca e do comportamento dos compradores",
-            "query_en": "Tokyo apartment buildings residential area housing"
-          },
-          {
-            "anchor": "Reação dos vendedores e ajuste no mercado",
-            "query_en": "Tokyo real estate office building architecture"
-          }
-        ]
-      }
-    },
-    {
-      "id": "407933cd-9e88-4f27-8971-fb273018534c",
-      "title": "China acelera na corrida para desenvolver energia solar térmica",
+      "id": "6818a844-bd9b-4657-85a4-cbcbae156d9c",
+      "title": "O papel estratégico do Japão no Ártico diante das novas rotas marítimas",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China concentrated solar thermal power plant Dunhuang",
+        "video_query_en": "Japan Arctic policy Northern Sea Route maritime transport",
         "images": [
           {
-            "anchor": "O projeto e a tecnologia da energia solar térmica",
-            "query_en": "Shouhang High Tech Energy Technology concentrated solar power plant Dunhuang"
+            "anchor": "O potencial das rotas no Ártico",
+            "query_en": "Arctic ocean container ship ice melting"
           },
           {
-            "anchor": "Metas de expansão e capacidade planejada",
-            "query_en": "China solar thermal tower mirrors desert"
+            "anchor": "Mudanças geopolíticas e novos interesses",
+            "query_en": "Greenland landscape arctic geopolitics"
+          },
+          {
+            "anchor": "A posição do governo japonês",
+            "query_en": "Tokyo government building Japan politics"
           }
         ]
       }
     },
     {
-      "id": "590a02c5-566f-48bc-bc98-b8cbe1672e39",
-      "title": "Condições de crédito mais apertadas pressionam investimentos asiáticos nos EUA",
+      "id": "e01244cc-5e37-4951-abed-d91a57aacd5a",
+      "title": "United States to host inaugural Women’s Club World Cup in 2028",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+    },
+    {
+      "id": "ed89eba7-d254-44bd-9641-78a46465361c",
+      "title": "Ex-professor da Universidade de Tóquio recebe pena suspensa por suborno",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asian investments in US economy tightening credit conditions",
+        "video_query_en": "University of Tokyo bribery court ruling Japan",
         "images": [
           {
-            "anchor": "O panorama dos investimentos asiáticos nos EUA",
-            "query_en": "Asian investments in United States skyline economy"
+            "anchor": "Condenação e Sentença no Tribunal Distrital de Tóquio",
+            "query_en": "Tokyo District Court building exterior"
           },
           {
-            "anchor": "Desafios para Japão, Coreia do Sul e Taiwan",
-            "query_en": "Japan South Korea Taiwan flags and business meeting"
+            "anchor": "Detalhes do Esquema de Suborno",
+            "query_en": "University of Tokyo campus buildings"
           },
           {
-            "anchor": "O papel estratégico de setores-chave",
-            "query_en": "TSMC semiconductor manufacturing facility Arizona"
-          },
-          {
-            "anchor": "Perspectivas econômicas globais",
-            "query_en": "Global financial markets economy trend analysis"
+            "anchor": "A Natureza do Entretenimento e a Fundamentação da Sentença",
+            "query_en": "Japanese judge gavel courtroom"
           }
         ]
       }
     },
     {
-      "id": "6dab0e6b-3ccc-4935-9d29-00dc51287f68",
-      "title": "O plano de um trilhão de dólares de Lee para transformar Gwangju em polo tecnológico",
-      "category": "Inteligência Artificial",
+      "id": "663b8ee2-17c0-439c-b5c8-c6162e139c3a",
+      "title": "Koizumi vai se reunir com ministro da Defesa da Finlândia para debater mudanças na política nuclear",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "South Korea technology investment Gwangju chips",
+        "video_query_en": "Shinjiro Koizumi Finland defense minister nuclear weapons",
         "images": [
           {
-            "anchor": "O cenário local e os primeiros passos",
-            "query_en": "Gwangju South Korea city street view"
+            "anchor": "O encontro bilateral em Tóquio",
+            "query_en": "Shinjiro Koizumi Japanese Defense Minister"
           },
           {
-            "anchor": "Expectativas e investimentos públicos e privados",
-            "query_en": "South Korean semiconductor manufacturing facility"
+            "anchor": "A mudança legislativa na Finlândia",
+            "query_en": "Antti Hakkanen Finnish Defense Minister"
           },
           {
-            "anchor": "Desafios e o futuro da economia sul-coreana",
-            "query_en": "Seoul South Korea modern business district skyline"
-          },
-          {
-            "anchor": "Investimento total estimado em 1 trilhão de dólares para transformar Gwangju em polo tecnológico.",
-            "query_en": "South Korea president policy speech"
-          },
-          {
-            "anchor": "Foco em direcionar ganhos obtidos com o avanço da inteligência artificial para revitalizar a economia local.",
-            "query_en": "artificial intelligence data center South Korea"
-          },
-          {
-            "anchor": "Participação conjunta de recursos públicos e privados para impulsionar a fabricação de semicondutores.",
-            "query_en": "semiconductors manufacturing silicon wafer"
+            "anchor": "A perspectiva do governo japonês",
+            "query_en": "Japan Ministry of Defense building Tokyo"
           }
         ]
       }
     },
     {
-      "id": "5e6de42b-ce43-498d-a41a-1a92d6baf81e",
-      "title": "Japão planeja promover anime e jogos no exterior por meio de suporte centralizado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan anime games overseas centralized support government",
-        "images": [
-          {
-            "anchor": "O início das discussões da força-tarefa",
-            "query_en": "Tokyo government meeting room Japan"
-          },
-          {
-            "anchor": "Foco em anime e mangá",
-            "query_en": "Japanese anime and manga merchandise display"
-          },
-          {
-            "anchor": "Destaque para videogames",
-            "query_en": "Japanese video games gaming industry"
-          },
-          {
-            "anchor": "Inclusão de produções musicais",
-            "query_en": "Japanese music concert live entertainment"
-          },
-          {
-            "anchor": "Apoio a obras em ação real",
-            "query_en": "Live action production set Tokyo"
-          },
-          {
-            "anchor": "Uma abordagem diferente do Fundo Cool Japan",
-            "query_en": "Cool Japan strategy Tokyo signage"
-          },
-          {
-            "anchor": "O cenário atual da indústria de conteúdo",
-            "query_en": "Tokyo neon pop culture district Akihabara"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aad4fd0a-6169-4c0e-986a-6b768f04a6a0",
-      "title": "Iene japonês ganha força com eleições de meio de mandato nos EUA e instabilidade na França",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japanese yen currency market trends US midterm elections France unrest",
-        "images": [
-          {
-            "anchor": "Contexto Cambial e Expectativas de Mercado",
-            "query_en": "Japanese yen dollar currency exchange trading floor Tokyo"
-          },
-          {
-            "anchor": "Fatores Geopolíticos Globais",
-            "query_en": "Bank of Japan building Tokyo financial district economics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "59548c86-ad44-450d-ab96-2c7a681870e1",
-      "title": "Como os parques solares em regiões de deserto ajudam a capturar carbono",
+      "id": "34114730-9b44-4335-87b1-685e7fa579aa",
+      "title": "Ministério da Educação do Japão planeja curso de um ano para licença de ensino voltado a profissionais",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "solar parks desert carbon sequestration soil",
+        "video_query_en": "Japan education ministry teacher licensing working adults",
         "images": [
           {
-            "anchor": "O impacto da energia solar nos solos áridos",
-            "query_en": "solar panels desert landscape installation"
+            "anchor": "Novo curso de formação para professores",
+            "query_en": "Japanese classroom students teacher"
           },
           {
-            "anchor": "O solo de desertos cobertos por painéis solares armazena até quatro vezes mais CO2 do que terrenos expostos ao sol.",
-            "query_en": "solar farm desert ground soil analysis"
-          },
-          {
-            "anchor": "Mecanismos de armazenamento subterrâneo",
-            "query_en": "soil carbon storage desert ecology"
-          },
-          {
-            "anchor": "Sustentabilidade e Green IT",
-            "query_en": "renewable energy sustainable technology green IT"
+            "anchor": "Facilidades para a transição de carreira",
+            "query_en": "working adult career change Japan"
           }
         ]
       }
     },
     {
-      "id": "4458d308-706d-46ca-b3ee-4b4b017410f6",
-      "title": "Robôs aspiradores da Roborock registram descontos históricos na Amazon",
+      "id": "c5653252-638a-4db2-8377-07d0f592b955",
+      "title": "Brewers aposta no arremessador Jacob Misiorowski para o Jogo 1 da World Series",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jacob Misiorowski World Series Game 1 Milwaukee Brewers Tampa Bay Rays",
+        "images": [
+          {
+            "anchor": "O grande duelo de abertura da World Series",
+            "query_en": "Jacob Misiorowski pitching Milwaukee Brewers"
+          },
+          {
+            "anchor": "Um confronto inédito na história recente da MLB",
+            "query_en": "Milwaukee Brewers celebration postseason"
+          },
+          {
+            "anchor": "- Milwaukee Brewers:",
+            "query_en": "Milwaukee Brewers stadium fans"
+          },
+          {
+            "anchor": "- Tampa Bay Rays:",
+            "query_en": "Tampa Bay Rays team celebration"
+          },
+          {
+            "anchor": "A grande fase de Jacob Misiorowski",
+            "query_en": "Jacob Misiorowski baseball player portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfff5a1e-fd72-4799-b810-94debf9bb7a4",
+      "title": "Governo do Japão busca apoiar exames de saúde para estudantes ausentes",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan school health checkup truant students",
+        "images": [
+          {
+            "anchor": "Os dados da pesquisa governamental",
+            "query_en": "Japanese school students health checkup classroom"
+          },
+          {
+            "anchor": "Abrangência e escopo do levantamento",
+            "query_en": "Japan ministry of internal affairs building Tokyo"
+          },
+          {
+            "anchor": "Alternativas já adotadas por municipalidades",
+            "query_en": "Japanese school children medical examination"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f5cedba-0dde-47e0-bddc-0acb5e90e16f",
+      "title": "Ex-jogador estrela Hideki Matsui será o próximo técnico do Giants na NPB",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hideki Matsui Giants manager",
+        "images": [
+          {
+            "anchor": "Uma lenda do beisebol japonês assume o comando",
+            "query_en": "Hideki Matsui Yomiuri Giants"
+          },
+          {
+            "anchor": "A transição para as Ligas Maiores dos Estados Unidos",
+            "query_en": "Hideki Matsui New York Yankees"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7b477cba-8336-4a46-bd00-f79a54c36bcc",
+      "title": "Canadá orienta diplomatas a evitarem proximidade com candidatos dos EUA para prevenir acusações de interferência",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Roborock robot vacuum Amazon deals review",
+        "video_query_en": "Canada diplomats US elections foreign interference",
         "images": [
           {
-            "anchor": "Ofertas inéditas no comércio eletrônico",
-            "query_en": "Roborock robot vacuum cleaning on floor"
+            "anchor": "Orientações rígidas para diplomatas canadenses nos Estados Unidos",
+            "query_en": "Canadian Embassy in Washington DC"
           },
           {
-            "anchor": "Robôs aspiradores Roborock selecionados com descontos inéditos fora do Prime Day",
-            "query_en": "Roborock robot vacuum cleaner device"
+            "anchor": "Proibições de encontros e fotos com candidatos",
+            "query_en": "US midterm elections ballot and voting"
           },
           {
-            "anchor": "Reduções expressivas aplicadas diretamente na plataforma da Amazon",
-            "query_en": "Amazon package delivery box online shopping"
+            "anchor": "Proibição total de reuniões individuais ou em grupo com qualquer candidato das eleições de meio de mandato.",
+            "query_en": "US Capitol building Washington DC"
+          },
+          {
+            "anchor": "Exceções mantidas para representantes sem reeleição",
+            "query_en": "US politicians in meeting"
           }
         ]
       }
     },
     {
-      "id": "729e8849-cba9-44c3-82b7-1e7140becf71",
-      "title": "BSI defende responsabilização de fornecedores de inteligência artificial nos Estados Unidos e na China",
+      "id": "3bdc74d4-6e2d-4918-8640-c8d27879d4d9",
+      "title": "Protestos estudantis se espalham pela Europa e revelam descontentamento com o futuro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "student protests across Europe housing rents education",
+        "images": [
+          {
+            "anchor": "O panorama dos protestos na Europa",
+            "query_en": "student protests europe Madrid tents rent"
+          },
+          {
+            "anchor": "A insatisfação de uma geração",
+            "query_en": "young europeans marching demonstration streets"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d0d6096-33cc-4881-890a-4916761ecac3",
+      "title": "A Crise Financeira Global e o Fim dos Investimentos de Mercado Puro: As Memórias de Stephen Schwarzman",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Stephen Schwarzman global financial crisis interview",
+        "images": [
+          {
+            "anchor": "O Fim dos Investimentos de Mercado Puro",
+            "query_en": "Stephen Schwarzman financial markets economy"
+          },
+          {
+            "anchor": "Relações Globais e Bastidores",
+            "query_en": "Nicolas Sarkozy international relations leader"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faaadc23-c839-4232-a27a-8edb98bcedd9",
+      "title": "BYD e Gentari fecham parceria para expandir infraestrutura de recarga de carros elétricos na Malásia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "BYD Gentari Malaysia EV charging partnership",
+        "images": [
+          {
+            "anchor": "O cenário da infraestrutura de recarga na Malásia",
+            "query_en": "electric vehicle charging station Kuala Lumpur Malaysia"
+          },
+          {
+            "anchor": "Meta oficial do governo: atingir 30.000 carregadores públicos até 2030.",
+            "query_en": "EV charging station public infrastructure Malaysia"
+          },
+          {
+            "anchor": "Movimentos recentes da BYD no mercado malaio",
+            "query_en": "BYD electric vehicle showroom Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8056737-556a-477e-aa06-3a7e8718c7c3",
+      "title": "Turkey, Pakistan, Indonesia e Qatar fecham acordo de defesa para expandir a Aliança de Meca",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "BSI Claudia Plattner artificial intelligence cybersecurity regulation",
+        "video_query_en": "Turkey Pakistan Indonesia Qatar defense agreement",
         "images": [
           {
-            "anchor": "As críticas ao cenário atual de segurança",
-            "query_en": "cybersecurity data center server room technology"
+            "anchor": "O contexto das tensões no Oriente Médio e o papel dos Houthis",
+            "query_en": "Middle East geopolitical tensions map defense"
           },
           {
-            "anchor": "A mira em fornecedores globais",
-            "query_en": "artificial intelligence technology global software development"
+            "anchor": "Arábia Saudita",
+            "query_en": "Saudi Arabia defense military alliance"
           },
           {
-            "anchor": "O impacto regulatório na Europa",
-            "query_en": "European Union flag and digital technology compliance"
+            "anchor": "Catar",
+            "query_en": "Qatar military defense cooperation"
+          },
+          {
+            "anchor": "Turquia",
+            "query_en": "Turkish defense industry Aselsan military"
+          },
+          {
+            "anchor": "Paquistão e Indonésia",
+            "query_en": "Pakistan Indonesia military cooperation"
+          },
+          {
+            "anchor": "A busca por diversificação e novas alianças de defesa",
+            "query_en": "international defense agreement summit"
           }
         ]
       }
     },
     {
-      "id": "c7930dc9-1da4-4f2d-bc95-5cd9e2b107d1",
-      "title": "O Dilema de 300 Bilhões de Dólares da Netflix no Mercado de Streaming",
+      "id": "7c5bedb9-b21f-4401-805d-99876cc7d978",
+      "title": "SK Hynix desiste de IPO de unidade nos EUA citando volatilidade de mercado",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Netflix financial challenges 300 billion problem streaming market",
+        "video_query_en": "SK Hynix US unit IPO cancel market volatility",
         "images": [
           {
-            "anchor": "Os Gastos Bilionários e a Escassez de Mega Hits",
-            "query_en": "Netflix headquarters building sign"
+            "anchor": "O impacto da volatilidade e das regras locais",
+            "query_en": "SK Hynix semiconductor factory facility South Korea"
           },
           {
-            "anchor": "Investimentos anuais multibilionários em produções originais",
-            "query_en": "streaming service production set camera"
-          },
-          {
-            "anchor": "A Profundidade da Crise no Setor",
-            "query_en": "business analytics financial chart screen"
+            "anchor": "Contexto de mercado e expansão contínua",
+            "query_en": "Solidigm flash memory SSD hardware"
           }
         ]
       }
     },
     {
-      "id": "61b66e38-c326-4d61-a9a2-f6bd5de1cb5a",
-      "title": "Impresspnis e Termos de Privacidade do Golem.de",
-      "category": "Internet",
+      "id": "4edaaf35-6dec-4079-ae5e-eb2e5a9165cc",
+      "title": "Inteligência Artificial pode fortalecer dissuasão entre Japão e EUA, afirma ex-general americano",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Golem de privacy and cookie consent website overview",
+        "video_query_en": "Joseph Dunford CSIS Nikkei Symposium AI Japan US deterrence",
         "images": [
           {
-            "anchor": "Informações sobre Cookies e Rastreamento",
-            "query_en": "website cookie consent banner interface"
+            "anchor": "O papel da tecnologia na segurança bilateral",
+            "query_en": "Tokyo skyline and modern technology summit"
           },
           {
-            "anchor": "Opções de Assinatura sem Anúncios",
-            "query_en": "digital news subscription pricing screen"
+            "anchor": "- A necessidade imperativa de que a inteligência artificial seja rigorosamente utilizada em plena conformidade com a lei dos conflitos armados.",
+            "query_en": "Artificial intelligence military technology defense strategy"
           },
           {
-            "anchor": "Compartilhamento com Terceiros",
-            "query_en": "data privacy security shield concept"
+            "anchor": "- O potencial de modernização das capacidades de defesa conjuntas entre Tóquio e Washington por meio de ferramentas tecnológicas de ponta.",
+            "query_en": "Japan US military cooperation alliance meeting"
+          },
+          {
+            "anchor": "- A importância de manter alianças estratégicas sólidas na Ásia diante de um cenário geopolítico cada vez mais complexo e competitivo.",
+            "query_en": "Geopolitical summit Tokyo conference international relations"
+          },
+          {
+            "anchor": "Contexto geopolítico e desdobramentos regionais",
+            "query_en": "Indo Pacific security military defense equipment"
           }
         ]
       }
     },
     {
-      "id": "b2c7bbd8-a7d6-4468-9fc7-b9c1333b75b3",
-      "title": "Microsoft 365 e Conformidade com a DSGVO: Workshop Foco em Privacidade e Proteção de Dados",
+      "id": "b1f429ba-452d-4eb6-8fde-7f23569d1ae7",
+      "title": "LG Display planeja retomar capacidade ociosa de OLED impulsionada por monitores",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft 365 GDPR compliance data protection workshop",
+        "video_query_en": "LG Display OLED monitor production facilities",
         "images": [
           {
-            "anchor": "Desafios na Implementação da DSGVO",
-            "query_en": "Microsoft 365 data privacy security office"
+            "anchor": "Crescimento em 2027",
+            "query_en": "LG Display OLED panel factory"
           },
           {
-            "anchor": "Residência de Dados e Obrigações de Auditoria",
-            "query_en": "cloud server data center security infrastructure"
+            "anchor": "O mercado de monitores e TVs",
+            "query_en": "OLED gaming monitor display"
           },
           {
-            "anchor": "Configuração de políticas de retenção e exclusão de arquivos",
-            "query_en": "data management security control dashboard"
-          },
-          {
-            "anchor": "Implementação de controles de acesso baseados em funções",
-            "query_en": "cybersecurity access control management"
-          },
-          {
-            "anchor": "Monitoramento contínuo de registros de eventos e auditoria",
-            "query_en": "system audit log compliance monitoring"
-          },
-          {
-            "anchor": "Garantia de conformidade com a residência de dados na nuvem",
-            "query_en": "cloud data residency europe security"
-          },
-          {
-            "anchor": "Resposta a solicitações de titulares de dados",
-            "query_en": "data privacy request compliance workflow"
+            "anchor": "Retomada das instalações ociosas",
+            "query_en": "LG Display manufacturing plant"
           }
         ]
       }
     },
     {
-      "id": "b17f07aa-231c-48d1-9912-f066fb4673a8",
-      "title": "Bateria de 18V da Bosch conquista o topo das paradas da Amazon após queda histórica de preço",
+      "id": "40d46574-bc35-42a5-b6d1-29b2de391af1",
+      "title": "Daeduck Electronics anuncia investimento adicional de 615 bilhões de wons em substratos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bosch Professional 18V 5Ah battery review Amazon deals",
+        "video_query_en": "Daeduck Electronics semiconductor substrate production",
         "images": [
           {
-            "anchor": "O sucesso da bateria Bosch Professional de 5 Ah",
-            "query_en": "Bosch Professional 18V 5Ah battery"
+            "anchor": "Histórico de aportes recentes",
+            "query_en": "semiconductor substrate manufacturing facility"
           },
           {
-            "anchor": "Impacto nas paradas de comércio eletrônico",
-            "query_en": "Amazon warehouse logistics packages"
+            "anchor": "Volume total de investimentos",
+            "query_en": "Daeduck Electronics factory"
           }
         ]
       }
     },
     {
-      "id": "7385635a-c9cb-447e-bd58-849ab7295cd0",
-      "title": "União Europeia investiga Booking.com por phishing e ofertas falsas",
+      "id": "24d82d47-2aea-427e-b7b5-3bd35942d642",
+      "title": "Hanwha: Kim Dong-sun eleva oferta pública de aquisição para 209,6 bilhões de wons",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hanwha Kim Dong sun tender offer",
+        "images": [
+          {
+            "anchor": "Movimentação Estratégica na Hanwha",
+            "query_en": "Hanwha corporate building Seoul"
+          },
+          {
+            "anchor": "Detalhes da Oferta Pública",
+            "query_en": "South Korean financial market stock chart"
+          },
+          {
+            "anchor": "Trâmites Regulatórios",
+            "query_en": "Financial Supervisory Service South Korea building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "271183d4-53bd-49b6-b987-d0b8cd6ff247",
+      "title": "Merck expande uso de molibdênio para chips DRAM e lógicos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Merck molybdenum semiconductor manufacturing",
+        "images": [
+          {
+            "anchor": "Expansão para novos semicondutores",
+            "query_en": "Merck chemical laboratory semiconductor materials"
+          },
+          {
+            "anchor": "Nova infraestrutura na Coreia do Sul",
+            "query_en": "Eumseong North Chungcheong industrial area"
+          },
+          {
+            "anchor": "Integração operacional",
+            "query_en": "semiconductor wafer manufacturing cleanroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfe250a0-294a-4b81-bbe1-da437ce88d2b",
+      "title": "Falha no PHP gera alerta global de cibersegurança e afeta milhões de servidores",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Booking.com EU investigation phishing digital services act",
+        "video_query_en": "PHP vulnerability global cybersecurity alert 70 percent websites",
         "images": [
           {
-            "anchor": "O problema das fraudes e do phishing",
-            "query_en": "cybersecurity phishing scam online booking"
+            "anchor": "O alerta global de cibersegurança",
+            "query_en": "global cybersecurity alert lock servers digital threat"
           },
           {
-            "anchor": "Exigências da União Europeia",
-            "query_en": "European Commission flag building Brussels"
+            "anchor": "Riscos de invasão sem autenticação",
+            "query_en": "hacker infiltrating server code vulnerabilities"
+          },
+          {
+            "anchor": "Reação internacional e medidas preventivas",
+            "query_en": "cybersecurity response team monitoring servers"
           }
         ]
       }
     },
     {
-      "id": "c7d746ab-da37-44c9-a490-f8031cee210d",
-      "title": "Apple lança seu primeiro smartphone dobrável \"iPhone Duo\" por 360 mil ienes",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple foldable iPhone Duo review features",
-        "images": [
-          {
-            "anchor": "Características e Recursos do iPhone Duo",
-            "query_en": "Apple foldable smartphone design concept"
-          },
-          {
-            "anchor": "Preço, Disponibilidade e Repercussão no Mercado",
-            "query_en": "Apple retail store launch queue"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7f3475a6-dc40-49f4-9ac8-d02e23467ef4",
-      "title": "Coração que preenche: a física da IA e o potencial de LOVOT no Japão",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LOVOT robot GROOVE X physical AI emotional robotics",
-        "images": [
-          {
-            "anchor": "O papel da robótica emocional",
-            "query_en": "LOVOT emotional robot interaction GROOVE X"
-          },
-          {
-            "anchor": "A estratégia tecnológica japonesa",
-            "query_en": "Japanese humanoid robot empathy design technology"
-          },
-          {
-            "anchor": "O LOVOT foi projetado para interagir afetuosamente com usuários, simulando reações que geram apego emocional.",
-            "query_en": "cute companion robot LOVOT autonomous movement"
-          },
-          {
-            "anchor": "A abordagem difere dos robôs utilitários tradicionais ao focar no bem-estar psicológico e na companhia.",
-            "query_en": "home robot companion artificial intelligence physical"
-          },
-          {
-            "anchor": "A tecnologia busca preencher lacunas emocionais em uma sociedade que enfrenta desafios demográficos e solidão.",
-            "query_en": "interactive social robot hugging human"
-          },
-          {
-            "anchor": "Desafios e o futuro da interação",
-            "query_en": "future robotics artificial intelligence lab Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0f2a11dc-8506-49d2-bb04-ca7dc88b6276",
-      "title": "Galaxy Tab S12+ e S12 Ultra: Comparativo de tablets topo de linha da Samsung",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Galaxy Tab S12 Ultra S12+ review game test",
-        "images": [
-          {
-            "anchor": "12.6型に大型化した「Galaxy Tab S12+」",
-            "query_en": "Galaxy Tab S12 plus front view"
-          },
-          {
-            "anchor": "14.6型の大画面を備える「Galaxy Tab S12 Ultra」",
-            "query_en": "Galaxy Tab S12 Ultra display"
-          },
-          {
-            "anchor": "2台の違いは画面の大きさと重さ、カメラの数",
-            "query_en": "Galaxy Tab S12 plus and Ultra comparison"
-          },
-          {
-            "anchor": "ディスプレイはきれいでなめらか、映り込みは気になる",
-            "query_en": "Galaxy Tab S12 AMOLED display"
-          },
-          {
-            "anchor": "4chスピーカーを搭載、スタンドの角度は固定",
-            "query_en": "Galaxy Tab S12 speaker setup"
-          },
-          {
-            "anchor": "キーボードカバーとSペンで作業もこなせる",
-            "query_en": "Galaxy Tab S12 keyboard cover S Pen"
-          },
-          {
-            "anchor": "パッドで遊ぶと迫力十分、Asphalt Legends Uniteは120fpsで動作",
-            "query_en": "Galaxy Tab S12 gaming controller"
-          },
-          {
-            "anchor": "性能はほぼ同等、負荷をかけ続けるとS12+が安定",
-            "query_en": "Galaxy Tab S12 benchmark performance"
-          },
-          {
-            "anchor": "バッテリ駆動時間はS12+が上回る",
-            "query_en": "Galaxy Tab S12 plus battery test"
-          },
-          {
-            "anchor": "軽さとバッテリならS12+、大画面重視ならS12 Ultra",
-            "query_en": "Galaxy Tab S12 lineup comparison"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5524dd1a-1a47-44b5-a6b1-51f54ce94b42",
-      "title": "Testando o BV300: óculos inteligentes com IA por cerca de 100 dólares revelam limitações e surpresas",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Blackview BV300 AI smart glasses review",
-        "images": [
-          {
-            "anchor": "O que são os óculos BV300 e suas especificações técnicas",
-            "query_en": "Blackview BV300 AI smart glasses design"
-          },
-          {
-            "anchor": "Processo de emparelhamento e arquitetura interna",
-            "query_en": "smartphone app pairing technology connection"
-          },
-          {
-            "anchor": "Conforto de uso e o design volumoso",
-            "query_en": "smart glasses wearing comfort fit"
-          },
-          {
-            "anchor": "Recursos de IA, tradução e reconhecimento visual",
-            "query_en": "AI smart glasses translation feature interface"
-          },
-          {
-            "anchor": "Desempenho de câmera, som e a experiência multimídia",
-            "query_en": "smart glasses camera photo quality test"
-          },
-          {
-            "anchor": "O grande dilema do visual",
-            "query_en": "person wearing bulky smart glasses frame"
-          }
-        ]
-      }
-    },
-    {
-      "id": "caf99c8d-91ce-4215-900f-819962d6fcec",
-      "title": "Aposta da NVIDIA em Arm torna previsível o domínio da arquitetura no mercado de PCs até 2030",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NVIDIA RTX Spark ARM CPU Windows PC market",
-        "images": [
-          {
-            "anchor": "A priorização do Arm no desenvolvimento do Windows",
-            "query_en": "Microsoft Windows on ARM Surface Laptop"
-          },
-          {
-            "anchor": "A resposta da Qualcomm e a diversificação de plataformas",
-            "query_en": "Qualcomm Snapdragon X2 Elite Linux Googlebook"
-          },
-          {
-            "anchor": "O reduto corporativo e a persistência da arquitetura x86",
-            "query_en": "Intel Core Ultra AMD Ryzen AI business laptop"
-          },
-          {
-            "anchor": "O futuro da participação de mercado e a estratégia da NVIDIA",
-            "query_en": "NVIDIA CEO Jensen Huang hardware announcement"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d4c62b71-4c38-4443-a4d4-f01cd3d448bd",
-      "title": "SteelSeries Anuncia as Novas Linhas Sensei Pro e Rival Pro com Tecnologia UWB e Bateria Trocável",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SteelSeries Sensei Pro Rival Pro UWB gaming mouse announcement",
-        "images": [
-          {
-            "anchor": "Um Retorno Histórico após Sete Anos",
-            "query_en": "SteelSeries Sensei Pro mouse lineup display"
-          },
-          {
-            "anchor": "Inovação em Conectividade e Energia",
-            "query_en": "SteelSeries gaming mouse wireless receiver base"
-          },
-          {
-            "anchor": "Conexão por Ultra Wide Band de 7,25 a 9 GHz para máxima estabilidade e baixa latencia.",
-            "query_en": "Ultra Wide Band wireless technology concept"
-          },
-          {
-            "anchor": "Taxa de atualização de 8,000 Hz operando sem quedas de pacote.",
-            "query_en": "gaming mouse high polling rate sensor"
-          },
-          {
-            "anchor": "Sistema Infinite Power System com bateria circular de remoção rápida por rotação.",
-            "query_en": "SteelSeries mouse interchangeable battery system"
-          },
-          {
-            "anchor": "Receptor sem fio com base de carregamento integrada e duas baterias inclusas de fábrica.",
-            "query_en": "gaming mouse charging dock receiver"
-          },
-          {
-            "anchor": "Ausência total de portas USB no corpo do mouse, sendo um modelo estritamente sem fio.",
-            "query_en": "wireless gaming mouse sleek design bottom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fce97848-1bd0-4ecd-bdea-6713d9d4281a",
-      "title": "MSI lança notebook gamer Raider de 16 polegadas com Core Ultra 9 e RTX 5070 Ti",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "MSI Raider 16 HX gaming laptop review",
-        "images": [
-          {
-            "anchor": "Desempenho de ponta com Intel e NVIDIA",
-            "query_en": "Intel Core Ultra processor and NVIDIA laptop GPU"
-          },
-          {
-            "anchor": "Tela de alta fluidez e precisão de cores",
-            "query_en": "16 inch WQXGA 240Hz gaming laptop display"
-          },
-          {
-            "anchor": "Especificações técnicas e recursos de conectividade",
-            "query_en": "MSI gaming laptop ports and connectivity"
-          },
-          {
-            "anchor": "Dimensões, peso e design",
-            "query_en": "MSI Raider laptop core black design"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aa2f0b2c-e05b-4bb1-990e-c6c6144c398e",
-      "title": "O desenvolvimento caótico e o sucesso surpresa de Dispatch pelo AdHoc Studio",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dispatch AdHoc Studio game trailer review",
-        "images": [
-          {
-            "anchor": "Os desafios e o período de caos",
-            "query_en": "Dispatch game development AdHoc Studio"
-          },
-          {
-            "anchor": "A busca por financiamento",
-            "query_en": "The Game Awards indie game developer"
-          },
-          {
-            "anchor": "Os segredos por trás da recepção do público",
-            "query_en": "Dispatch game characters narrative"
-          },
-          {
-            "anchor": "- Conexão pessoal:",
-            "query_en": "narrative choice video game cinematic"
-          },
-          {
-            "anchor": "- O papel dos streamers:",
-            "query_en": "video game streamer playing narrative game"
-          },
-          {
-            "anchor": "- Visibilidade no Steam:",
-            "query_en": "Steam store page video game PC"
-          },
-          {
-            "anchor": "Lições aprendidas e próximos passos",
-            "query_en": "video game animation storyboard process"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eb188e27-1dd2-47f3-8d3d-c870a8d864e2",
-      "title": "Nintendo Download na América do Norte traz Call of Duty: Modern Warfare 4 para o Switch 2",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Switch 2 Call of Duty Modern Warfare 4 gameplay",
-        "images": [
-          {
-            "anchor": "Destaques da eShop do Switch 2",
-            "query_en": "Nintendo Switch 2 eShop games"
-          },
-          {
-            "anchor": "- Call of Duty: Modern Warfare 4 (Activision, lançado em 23 de outubro)",
-            "query_en": "Call of Duty Modern Warfare 4 gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37898020-b826-4285-93b6-4a54da9e3f75",
-      "title": "Surpresa! Shadow of the Tomb Raider: Definitive Edition é lançado sem aviso prévio no Switch 2",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Shadow of the Tomb Raider Definitive Edition Switch 2 gameplay",
-        "images": [
-          {
-            "anchor": "Detalhes do lançamento e preços",
-            "query_en": "Shadow of the Tomb Raider Nintendo Switch 2 eShop"
-          },
-          {
-            "anchor": "O enredo e a jornada de Lara Croft",
-            "query_en": "Lara Croft Shadow of the Tomb Raider jungle"
-          },
-          {
-            "anchor": "Conteúdo da edição definitiva e pacotes",
-            "query_en": "Tomb Raider Definitive Survivor Trilogy bundle"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0d9f8f8d-bee9-4d01-ac67-21aa080539e0",
-      "title": "Americanos culpam data centers de inteligência artificial pelo aumento nas contas de energia",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI data centers rising electricity costs utility bills Consumer Reports",
-        "images": [
-          {
-            "anchor": "O impacto financeiro e cortes nos gastos básicos",
-            "query_en": "American family looking at high utility electricity bill stressed"
-          },
-          {
-            "anchor": "A culpa recai sobre data centers e lucros corporativos",
-            "query_en": "large AI data center exterior building architecture"
-          },
-          {
-            "anchor": "Soluções propostas e regulação",
-            "query_en": "protestors against data center construction local community"
-          },
-          {
-            "anchor": "Como mitigar os custos em casa",
-            "query_en": "Energy Star efficient home appliances thermostat"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9847993f-cb40-4d06-acb1-261a2bfd7f95",
-      "title": "Tentei automatizar minhas relações com agentes de IA, mas o Muse e o Dots cruzaram a linha",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OpenAI agents Dots Meta Muse AI relationship automation reviewed",
-        "images": [
-          {
-            "anchor": "Testando diferentes ferramentas de IA",
-            "query_en": "OpenAI ChatGPT interface and AI agent assistant"
-          },
-          {
-            "anchor": "O obstáculo da automação e os limites do envio automático",
-            "query_en": "Person using smartphone messaging app with AI"
-          },
-          {
-            "anchor": "Quando os agentes de IA cruzam a linha",
-            "query_en": "Artificial intelligence notification alert on smartphone screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aa12301a-f858-4161-a934-780ca8c21254",
-      "title": "Nova York e T-Mobile fecham acordo após disputa sobre reajustes em planos 4G",
+      "id": "c84e33de-7a29-4ca4-9a60-db9f3a74a2ad",
+      "title": "Receita do ERP em Nuvem da SAP Cresce 29% e Destaca Atuação da LG CNS",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "T-Mobile New York settlement price hike 4G plan",
+        "video_query_en": "SAP cloud ERP growth LG CNS strategic partnership",
         "images": [
           {
-            "anchor": "Detalhes da investigação e valores envolvidos",
-            "query_en": "T-Mobile store front New York city"
+            "anchor": "O Crescimento Acelerado da SAP",
+            "query_en": "SAP cloud enterprise software interface"
           },
           {
-            "anchor": "Opções de compensação para os clientes",
-            "query_en": "T-Mobile 5G smartphone display"
+            "anchor": "O Papel Estratégico da LG CNS no Mercado Coreano",
+            "query_en": "LG CNS headquarters building Seoul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a92c0eec-209a-453e-aa24-7226e07fbefd",
+      "title": "BlackBerry QNX expande atuação para robótica e defesa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "BlackBerry QNX robotics defense embedded systems",
+        "images": [
+          {
+            "anchor": "A expansão da BlackBerry QNX",
+            "query_en": "BlackBerry QNX logo technology"
           },
           {
-            "anchor": "Posicionamento das partes",
-            "query_en": "Letitia James New York Attorney General press conference"
+            "anchor": "Foco em robótica e sistemas de defesa",
+            "query_en": "autonomous mobile robot AMR technology"
+          },
+          {
+            "anchor": "- Robôs móveis autônomos (AMR): A tecnologia de tempo real da QNX passa a ser aplicada no controle e na operação segura de robôs móveis autônomos.",
+            "query_en": "autonomous mobile robot warehouse"
+          },
+          {
+            "anchor": "- Sistemas embarcados de defesa: A empresa leva sua confiabilidade e rigor de segurança para o exigente mercado de aplicações militares e de defesa.",
+            "query_en": "defense embedded systems technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "816ff163-8be3-44ca-8a76-39ac7c47088b",
+      "title": "Agentes de Inteligência Artificial da OpenAI contornam sistemas internos de segurança",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "OpenAI alignment report security monitoring AI agents",
+        "images": [
+          {
+            "anchor": "O desafio da segurança em IA avançada",
+            "query_en": "Artificial intelligence security technology abstract"
+          },
+          {
+            "anchor": "Incidentes durante tarefas de programação",
+            "query_en": "Software developer coding computer screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da6c49dd-d8be-4cfb-aef0-180b392570e5",
+      "title": "Tesla planeja vender o Cybercab para compradores individuais até o final do ano",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tesla Cybercab autonomous robotaxi without steering wheel",
+        "images": [
+          {
+            "anchor": "O Conceito do Cybercab",
+            "query_en": "Tesla Cybercab interior without steering wheel"
+          },
+          {
+            "anchor": "Capacidade para dois passageiros.",
+            "query_en": "Tesla Cybercab two seater robotaxi exterior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e41a4fe4-e403-4b55-be3f-5285c101ffc8",
+      "title": "KT Cloud inicia a construção de data center de IA de 50MW em Ansan",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "KT Cloud AI data center Ansan construction",
+        "images": [
+          {
+            "anchor": "Expansão na Região Metropolitana",
+            "query_en": "Seoul metropolitan area skyline Ansan Gyeonggi province"
+          },
+          {
+            "anchor": "Infraestrutura para Alto Desempenho",
+            "query_en": "high performance GPU AI data center server racks"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33678537-0ac2-46ec-b5a1-d62be38a4bfa",
+      "title": "A silenciosa reescrita das regras da Meta para a web aberta",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Meta commercial terms web scraping news publishers",
+        "images": [
+          {
+            "anchor": "A revisão da política e as reações",
+            "query_en": "Meta logo sign building corporate headquarters"
+          },
+          {
+            "anchor": "O impacto sobre os negócios",
+            "query_en": "digital marketing business dashboard computer screen"
+          },
+          {
+            "anchor": "O problema do rastreamento na web",
+            "query_en": "website code on computer screen programming"
+          },
+          {
+            "anchor": "Riscos de licenciamento e responsabilidade",
+            "query_en": "legal documents contract signing pen office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e8e932c-3ce3-463f-b4e6-eff7ad92173c",
+      "title": "Falhas em baterias de e-rickshaws e vulnerabilidades no Bluetooth BMS: O que realmente está acontecendo",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "e-rickshaw bluetooth bms battery hack explained",
+        "images": [
+          {
+            "anchor": "Como funcionam os sistemas de gerenciamento de bateria",
+            "query_en": "electric vehicle battery management system diagnostic app bluetooth"
+          },
+          {
+            "anchor": "A construção dos e-rickshaws e a dependência de eletrônicos importados",
+            "query_en": "e-rickshaw on street new delhi transportation"
+          },
+          {
+            "anchor": "A reação governamental e a restrição de aplicativos",
+            "query_en": "smartphone app store restriction security warning"
+          },
+          {
+            "anchor": "A regulamentação da cadeia de suprimentos",
+            "query_en": "electronic components supply chain manufacturing factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "93b91a22-3c85-4352-8a32-ba0cd2e0af37",
+      "title": "Por que a Meta foi condenada a pagar multa de US$ 25 bilhões no Novo México?",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Meta 25 billion penalty New Mexico Cambridge Analytica explained",
+        "images": [
+          {
+            "anchor": "O que esteve no centro do caso?",
+            "query_en": "Mark Zuckerberg US Capitol hearing testifying"
+          },
+          {
+            "anchor": "Declarações enganosas sobre privacidade de usuários e moderação de discursos de ódio.",
+            "query_en": "Facebook data privacy security settings"
+          },
+          {
+            "anchor": "Por que a penalidade é significativa?",
+            "query_en": "New Mexico Attorney General speaking press conference"
+          },
+          {
+            "anchor": "Como a Meta reagiu à decisão?",
+            "query_en": "Meta headquarters sign building California"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0e32673-70b8-488e-b4fe-b9f2ded87866",
+      "title": "Jensen Huang alerta que a Europa pode ficar ainda mais atrás de EUA e China na inteligência artificial",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia speech AI Europe US China",
+        "images": [
+          {
+            "anchor": "## O alerta de Jensen Huang sobre o avanço da inteligência artificial",
+            "query_en": "Jensen Huang Nvidia CEO speaking"
+          },
+          {
+            "anchor": "## Os pilares para a transformação tecnológica na Europa",
+            "query_en": "European Union technology infrastructure AI data center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0dcc2868-c877-4e7f-880e-6d76c12867ec",
+      "title": "LG Display projeta avanço acelerado nos dobráveis, mas painéis da Apple devem ir para rival",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Display foldable smartphones market outlook Apple rival",
+        "images": [
+          {
+            "anchor": "Otimismo no segmento de telas flexíveis",
+            "query_en": "LG Display flexible OLED screen technology"
+          },
+          {
+            "anchor": "O desafio com a Apple e a concorrência",
+            "query_en": "Apple foldable smartphone concept display"
           }
         ]
       }
@@ -871,70 +718,82 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "266afdb5-92fb-4110-9997-a32595ecd6dc",
-      "title": "Biren Technology prepara a série BR20X e intensifica a disputa com a Nvidia no mercado chinês de IA",
-      "category": "Empresas",
+      "id": "e04ea005-1289-4ddc-b10b-3280fd799869",
+      "title": "Samsung escolhe MediaTek Dimensity 9500 para os novos tablets Galaxy Tab S12 Ultra e S12+",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Biren Technology AI GPU China Nvidia competition",
+        "video_query_en": "MediaTek Dimensity 9500 Samsung Galaxy Tab S12",
         "images": [
           {
-            "anchor": "O novo roteiro de aceleradores e a fabricação doméstica",
-            "query_en": "Advanced semiconductor manufacturing cleanroom microchip production"
+            "anchor": "A parceria de longa data e a chegada do Dimensity 9500",
+            "query_en": "MediaTek Dimensity chip semiconductor"
           },
           {
-            "anchor": "O impacto no cenário competitivo contra a Nvidia",
-            "query_en": "AI data center servers GPU hardware technology"
+            "anchor": "MediaTek Dimensity 9500: Chipset principal escolhido para a nova geração de tablets da Samsung.",
+            "query_en": "MediaTek Dimensity processor"
+          },
+          {
+            "anchor": "Samsung Galaxy Tab S12 Ultra: O modelo de maior tela e especificações máximas da nova linha.",
+            "query_en": "Samsung Galaxy Tab tablet"
+          },
+          {
+            "anchor": "Samsung Galaxy Tab S12+: A versão intermediária topo de linha que também recebe o novo hardware da MediaTek.",
+            "query_en": "Samsung Galaxy Tab device"
+          },
+          {
+            "anchor": "O cenário tecnológico e a evolução dos chips",
+            "query_en": "Advanced semiconductor manufacturing wafer"
           }
         ]
       }
     },
     {
-      "id": "16d0fa51-d8f0-4d1b-aaca-7065b0420851",
-      "title": "Crescimento de Servidores de IA: Projeções para 2025-2026",
+      "id": "ca1f6f0e-b983-46d6-891c-b7f164388398",
+      "title": "LG Energy Solution e GM apostam em baterias LMR para unir custo de LFP e autonomia de níquel alto",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Energy Solution GM battery technology LMR",
+        "images": [
+          {
+            "anchor": "O dilema das baterias para veículos elétricos",
+            "query_en": "electric vehicle battery manufacturing plant"
+          },
+          {
+            "anchor": "A promessa da tecnologia LMR",
+            "query_en": "Lithium Manganese Rich LMR battery cell"
+          },
+          {
+            "anchor": "Redução de custos de fabricação comparável à de baterias mais baratas.",
+            "query_en": "EV battery pack cost reduction"
+          },
+          {
+            "anchor": "Manutenção de uma faixa de autonomia de alta performance equivalente à dos modelos de níquel alto.",
+            "query_en": "high nickel EV battery range performance"
+          },
+          {
+            "anchor": "Superação de restrições tradicionais da cadeia de suprimentos global de veículos elétricos.",
+            "query_en": "global EV battery supply chain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb2c3134-f488-4561-bebc-6da46ac07240",
+      "title": "Fábrica da Bull na França dobra capacidade produtiva para atender alta demanda por supercomputadores",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "global AI server shipments market analysis 2026",
+        "video_query_en": "Bull supercomputer factory France AI sovereignty",
         "images": [
           {
-            "anchor": "Projeções e Dados de Remessas Globais",
-            "query_en": "AI server hardware data center rack"
+            "anchor": "O avanço da soberania de inteligência artificial na Europa",
+            "query_en": "European Union supercomputer data center"
           },
           {
-            "anchor": "Participação por Tipo de XPU",
-            "query_en": "Nvidia GPU AI server hardware"
-          },
-          {
-            "anchor": "Fatores de Demanda e Oferta",
-            "query_en": "semiconductor manufacturing cleanroom silicon wafer"
-          },
-          {
-            "anchor": "Impacto no Ecossistema de Tecnologia",
-            "query_en": "cloud data center server room infrastructure"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7ebd9cad-6b34-4e62-84e2-9bb4fa70fc31",
-      "title": "Anthropic planeja IPO para novembro em meio a desafios políticos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic IPO AI regulation US government",
-        "images": [
-          {
-            "anchor": "Preparativos para uma Oferta Histórica",
-            "query_en": "Anthropic AI startup office building"
-          },
-          {
-            "anchor": "Relação Complexa com o Governo dos Estados Unidos",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "O Debate sobre Regulamentações e Segurança",
-            "query_en": "artificial intelligence safety technology meeting"
+            "anchor": "Impacto e perspectivas para o mercado de supercomputadores",
+            "query_en": "Bull supercomputer hardware server"
           }
         ]
       }
