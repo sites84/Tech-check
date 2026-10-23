@@ -1,682 +1,764 @@
 {
-  "updated_at": "2026-10-23T09:36:54.952Z",
+  "updated_at": "2026-10-23T15:39:38.405Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "b2459ed8-d17e-4a93-a32b-f99a665aad2c",
-      "title": "Shigeru Miyamoto é o primeiro criador de jogos a receber a Ordem da Cultura do Japão",
+      "id": "395bd0ab-2107-4b9f-924f-a153f20dfad7",
+      "title": "The Japan Times e News2u Holdings emitem terceiro relatório sobre incidente de ransomware e risco de vazamento de dados",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Japan Times ransomware incident security report",
+        "images": [
+          {
+            "anchor": "Contexto do incidente e medidas tomadas",
+            "query_en": "server room cybersecurity warning"
+          },
+          {
+            "anchor": "Avaliação de riscos e transparência",
+            "query_en": "data leak warning press release"
+          },
+          {
+            "anchor": "Próximos passos e orientações",
+            "query_en": "cybersecurity incident response plan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "43fba656-d711-4434-a551-4b3676802f14",
+      "title": "Atualização sobre incidente de ransomware: The Japan Times e News2u divulgam terceiro relatório",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ransomware investigation digital forensics corporate security",
+        "images": [
+          {
+            "anchor": "Contexto do incidente de segurança",
+            "query_en": "cyber security server room data breach"
+          },
+          {
+            "anchor": "Resultados preliminares da investigação",
+            "query_en": "digital forensics data analysis cyber attack"
+          }
+        ]
+      }
+    },
+    {
+      "id": "694c77e0-e313-4441-b53d-03011e02c47e",
+      "title": "Japan calls for more support amid rising youth suicides",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+    },
+    {
+      "id": "a817489e-55b2-4b93-8ea6-705bcfb78bb5",
+      "title": "Prefeituras japonesas apresentam turismo e culinária em Nova York para atrair visitantes norte-americanos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan tourism promotion New York governors association",
+        "images": [
+          {
+            "anchor": "Um esforço conjunto para atrair visitantes dos Estados Unidos",
+            "query_en": "New York City skyline Manhattan street"
+          },
+          {
+            "anchor": "Toyama",
+            "query_en": "Toyama Japan landscape traditional scenery"
+          },
+          {
+            "anchor": "Shizuoka",
+            "query_en": "Shizuoka Japan Mt Fuji green tea fields"
+          },
+          {
+            "anchor": "Mie",
+            "query_en": "Mie prefecture Japan traditional culture shrine"
+          },
+          {
+            "anchor": "Nagano",
+            "query_en": "Nagano Japan mountains nature tourism"
+          },
+          {
+            "anchor": "Miyagi, situada na região nordeste do país",
+            "query_en": "Miyagi prefecture Japan coast scenery"
+          },
+          {
+            "anchor": "Chiba",
+            "query_en": "Chiba Japan coast view landscape"
+          },
+          {
+            "anchor": "Foco em agências de viagem e na mídia norte-americana",
+            "query_en": "Travel agency presentation meeting room"
+          },
+          {
+            "anchor": "O contexto demográfico por trás da iniciativa",
+            "query_en": "Tokyo Japan crowded street population"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4163437b-e847-4b34-a529-b97ea0a4a3ba",
+      "title": "Governo do Japão cobra reforço estrutural no setor de energia em novo livro branco",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan energy white paper supply structure",
+        "images": [
+          {
+            "anchor": "Respostas rápidas em crises globais",
+            "query_en": "Japan crude oil reserves storage tanks"
+          },
+          {
+            "anchor": "Desafios na cadeia de suprimentos",
+            "query_en": "oil tankers sea transport supply chain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ad32b00-5c5a-4618-be83-47d06f03478d",
+      "title": "Bancos regionais do Japão negociam fusão para formar o maior grupo do oeste do país",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan regional banks merger Kansai Shiga Bank Senshu Ikeda",
+        "images": [
+          {
+            "anchor": "Contexto e Movimentações do Setor",
+            "query_en": "Japanese banking district Osaka Kansai financial hub"
+          },
+          {
+            "anchor": "Detalhes das Instituições Envolvidas",
+            "query_en": "Shiga Bank building Japan regional bank branch"
+          },
+          {
+            "anchor": "Shiga Bank",
+            "query_en": "Shiga Bank exterior Japan"
+          },
+          {
+            "anchor": "Senshu Ikeda Holdings",
+            "query_en": "Senshu Ikeda Bank Osaka building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b925ddcb-6ae0-4a6b-9584-7c19dbbd1808",
+      "title": "JFE Steel da Japão construirá grande alto-forno na Índia com parceiro local",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "JFE Steel JSW Steel India blast furnace project",
+        "images": [
+          {
+            "anchor": "Expansão e Dobro da Produção",
+            "query_en": "modern steel plant blast furnace industrial"
+          },
+          {
+            "anchor": "Parceria Estratégica com a JSW Steel",
+            "query_en": "JSW Steel industrial facility India"
+          },
+          {
+            "anchor": "JFE Steel: fornecimento de tecnologia avançada e know-how de engenharia japonesa para a construção do alto-forno.",
+            "query_en": "JFE Steel logo corporate office Japan"
+          },
+          {
+            "anchor": "JSW Steel: parceria local com conhecimento profundo do mercado indiano e capacidade operacional na região.",
+            "query_en": "JSW Steel plant operations India"
+          },
+          {
+            "anchor": "Nova planta: alto-forno de grande porte planejado para operar na siderúrgica conjunta.",
+            "query_en": "huge industrial blast furnace steelworks"
+          },
+          {
+            "anchor": "Contexto Global do Setor Siderúrgico",
+            "query_en": "global steel industry heavy manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b77d72ae-58ad-4eab-8ed1-8d99843ab75a",
+      "title": "Empresa japonesa de carros compartilhados ofrecerá US$ 19 a usuários após vazamento de dados",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Park24 Times Car data breach Japan cybersecurity",
+        "images": [
+          {
+            "anchor": "Detalhes da violação de dados",
+            "query_en": "Times Car sharing service Japan vehicle fleet"
+          },
+          {
+            "anchor": "Impacto na base de clientes",
+            "query_en": "Tokyo street mobility parking service Park24"
+          }
+        ]
+      }
+    },
+    {
+      "id": "64e1683c-e4aa-4554-bc9a-980c3ebe3347",
+      "title": "Meta adia novos termos comerciais após críticas de editoras e anunciantes",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Meta commercial terms delay publishers advertisers",
+        "images": [
+          {
+            "anchor": "O contexto das reclamações e o papel das autoridades antitruste",
+            "query_en": "European Union flag and European Commission building antitrust"
+          },
+          {
+            "anchor": "A justificativa oficial da empresa",
+            "query_en": "Meta logo sign building office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "64e217de-9217-4bcd-af03-813140700b58",
+      "title": "Conselho da UE quer flexibilizar proteção de dados para treinamento de inteligência artificial",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "EU Council AI data training privacy regulation",
+        "images": [
+          {
+            "anchor": "O impacto do Dados Omnibus na inteligência artificial",
+            "query_en": "European Union flag and technology digital data"
+          },
+          {
+            "anchor": "Próximos passos regulatórios",
+            "query_en": "European Council building Brussels"
+          }
+        ]
+      }
+    },
+    {
+      "id": "64877772-5be4-4e06-af60-8f387641b58c",
+      "title": "Sistema de Pagamento GNU Taler Planeja Chegada ao Mercado Alemão",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GNU Taler payment system privacy German market",
+        "images": [
+          {
+            "anchor": "Os Desafios Regulatórios e Financeiros",
+            "query_en": "BaFin German financial regulatory authority building"
+          },
+          {
+            "anchor": "As Características do GNU Taler",
+            "query_en": "GNU Taler digital payment software privacy concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5df731e-2a75-47d6-afa9-5e0b57afb665",
+      "title": "A Busca por Alternativas às Grandes Redes Sociais na Alemanha",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "social media alternatives whatsapp x germany market",
+        "images": [
+          {
+            "anchor": "O Cenário das Redes Sociais na Alemanha",
+            "query_en": "german social media market smartphone"
+          },
+          {
+            "anchor": "As Alternativas e o Mercado de Nicho",
+            "query_en": "alternative messaging apps privacy smartphone"
+          },
+          {
+            "anchor": "WhatsApp",
+            "query_en": "whatsapp app logo smartphone screen"
+          },
+          {
+            "anchor": "X",
+            "query_en": "x social media app logo twitter"
+          },
+          {
+            "anchor": "O Papel da Privacidade e dos Dados",
+            "query_en": "data privacy security internet protection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "110c13a2-e5ff-4c93-a7b9-959c3a93e022",
+      "title": "Avanço na biorrobótica: músculo biohíbrido é capaz de saltar, nadar e caminhar",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "biohybrid muscle robot jumping swimming walking",
+        "images": [
+          {
+            "anchor": "O desenvolvimento do tecido muscular cultivado",
+            "query_en": "cultivated muscle tissue laboratory biotechnology"
+          },
+          {
+            "anchor": "Estratégia inovadora que aumenta drasticamente a mobilidade do tecido muscular cultivado.",
+            "query_en": "biohybrid robotic muscle movement"
+          },
+          {
+            "anchor": "Aplicações potenciais em robótica biohíbrida",
+            "query_en": "biohybrid robot lab"
+          },
+          {
+            "anchor": "Próximos passos na pesquisa",
+            "query_en": "tissue engineering research laboratory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eff5a6f9-41cf-4f18-897d-b6fea44f3d12",
+      "title": "Jensen Huang e a cultura do Vale do Silício reveladas em relatos curiosos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia interview business philosophy",
+        "images": [
+          {
+            "anchor": "Declarações surpreendentes do CEO",
+            "query_en": "Jensen Huang Nvidia CEO speaking"
+          },
+          {
+            "anchor": "Habitos de sono reduzidos que chamam a atencao da industria",
+            "query_en": "Nvidia corporate office and technology setup"
+          },
+          {
+            "anchor": "O choque cultural entre Alemanha e Silicon Valley",
+            "query_en": "Silicon Valley technology campus architecture"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2f89ee45-893c-48bb-90fe-63c41f54f3fa",
+      "title": "Anúncio destaca mouse vertical ergonômico com seis botões e preço acessível na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "budget vertical mouse review ergonomic wireless bluetooth",
+        "images": [
+          {
+            "anchor": "Recursos técnicos e especificações do modelo",
+            "query_en": "vertical ergonomic computer mouse with buttons"
+          },
+          {
+            "anchor": "Opções de conectividade e usabilidade",
+            "query_en": "wireless bluetooth vertical mouse on desk"
+          },
+          {
+            "anchor": "Contexto da divulgação e disponibilidade",
+            "query_en": "online shopping amazon hardware package"
+          }
+        ]
+      }
+    },
+    {
+      "id": "22a1b83a-df90-45a5-815c-3be49a49dd09",
+      "title": "Carregador ultrarrápido: Chery apresenta tecnologia que vai a 97% em minutos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Chery megawatt charger electric car fast charging",
+        "images": [
+          {
+            "anchor": "O desempenho da nova tecnologia da Chery",
+            "query_en": "Chery electric vehicle charging station China"
+          },
+          {
+            "anchor": "O cenário competitivo no mercado chinês",
+            "query_en": "Electric car fast charger megawatt station"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7940e7a3-9be1-4e45-95fd-bb112fe823c7",
+      "title": "Coros Dura 2 Solar: Novo computador de bicicleta traz tela maior e navegação avançada",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Coros Dura 2 Solar bike computer review",
+        "images": [
+          {
+            "anchor": "Tela ampliada de 3,5 polegadas e novos controles",
+            "query_en": "Coros Dura 2 Solar bike computer screen display"
+          },
+          {
+            "anchor": "Navegação aprimorada e foco em autonomia",
+            "query_en": "Coros bike computer navigation maps solar charging"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d11d9543-0b87-49fe-adb7-2dd03eaa9572",
+      "title": "Crescimento expressivo nos custos de energia impulsiona expansão de baterias na Alemanha",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "battery storage expansion germany renewable energy",
+        "images": [
+          {
+            "anchor": "Fatores impulsionadores e medidas futuras",
+            "query_en": "solar energy battery storage system germany"
+          },
+          {
+            "anchor": "Impacto no mercado e perspectivas",
+            "query_en": "renewable energy battery storage infrastructure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0400f90f-bd65-4635-a31c-749efa4428ec",
+      "title": "Spotify endurece regras e vai combater o compartilhamento não autorizado de contas no plano familiar",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Spotify family plan account sharing restriction",
+        "images": [
+          {
+            "anchor": "As regras originais do plano familiar",
+            "query_en": "Spotify family subscription plan app interface"
+          },
+          {
+            "anchor": "O requisito obrigatório de residência compartilhada, determinando que todos os participantes vivam exatamente no mesmo endereço.",
+            "query_en": "Spotify family plan requirements"
+          },
+          {
+            "anchor": "O limite máximo de até seis contas individuais vinculadas à mesma assinatura mensal.",
+            "query_en": "Spotify mobile app playing music"
+          },
+          {
+            "anchor": "A verificação periódica de endereço por parte do sistema para assegurar que os usuários continuem cumprindo o requisito de moradia.",
+            "query_en": "Spotify logo on smartphone screen"
+          },
+          {
+            "anchor": "O impacto do compartilhamento irregular",
+            "query_en": "Person using Spotify on mobile phone"
+          },
+          {
+            "anchor": "Como a fiscalização deve funcionar",
+            "query_en": "Spotify premium music streaming application"
+          },
+          {
+            "anchor": "Pedidos esporádicos de confirmação de endereço para validar se os membros do grupo continuam na mesma casa.",
+            "query_en": "Spotify account settings screen"
+          },
+          {
+            "anchor": "Análise de metadados de conexão para detectar divergências geográficas expressivas entre os integrantes da mesma assinatura.",
+            "query_en": "Digital music streaming technology"
+          },
+          {
+            "anchor": "Notificações de alerta enviadas aos administradores das contas quando o sistema identifica possíveis violações das diretrizes de residência.",
+            "query_en": "Spotify playlist interface on device"
+          },
+          {
+            "anchor": "Próximos passos para os assinantes",
+            "query_en": "User listening to music with headphones"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8bb539c3-a0ba-4458-89b0-9784d173e04b",
+      "title": "NTT Realiza Grande Feito na Comunicação Espacial com Teste de Baixa Órbita e MIMO",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NTT JAXA satellite communication MIMO low Earth orbit",
+        "images": [
+          {
+            "anchor": "O Avanço da Comunicação Via Satélite no Japão",
+            "query_en": "NTT satellite communication space technology"
+          },
+          {
+            "anchor": "Resultados do Experimento em Órbita",
+            "query_en": "JAXA small demonstration satellite in orbit"
+          },
+          {
+            "anchor": "O experimento confirmou que o uso da tecnologia MIMO em órbita terrestre baixa consegue ampliar a capacidade de comunicação em até aproximadamente 2,67 vezes quando comparado aos métodos tradicionais de antena única.",
+            "query_en": "satellite antenna MIMO technology space"
+          },
+          {
+            "anchor": "A infraestrutura testada integrou com sucesso equipamentos de transmissão de dados otimizados para dispositivos IoT, permitindo o tráfego eficiente de informações em ambientes espaciais desafiadores.",
+            "query_en": "IoT satellite communication hardware"
+          },
+          {
+            "anchor": "A demonstração validou a estabilidade e a robustez dos componentes operando em condições orbitais reais, fornecendo dados cruciais para o desenvolvimento de futuros serviços de rede integrada.",
+            "query_en": "space orbit satellite solar panels technology"
+          },
+          {
+            "anchor": "Impacto para Áreas Sem Cobertura Terrestre",
+            "query_en": "mountain ocean remote area satellite connectivity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "78d2cb93-f553-486c-bf59-0910210b6ef4",
+      "title": "GPD WIN Max 3 chega ao Japão em 25 de dezembro pela Tenku",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GPD WIN Max 3 hands on review Ryzen AI Max",
+        "images": [
+          {
+            "anchor": "Principais Características e Hardware",
+            "query_en": "GPD WIN Max 3 mini laptop hardware"
+          },
+          {
+            "anchor": "Expectativa de Mercado",
+            "query_en": "GPD WIN Max 3 handheld gaming pc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "535ff5f8-1ac3-4f15-a742-8c6f9c37e1c5",
+      "title": "Google brilha em testes com o iPhone Duo, mas dispositivo ainda deixa espaço para evoluções",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo review YouTube performance",
+        "images": [
+          {
+            "anchor": "## A chegada do iPhone Duo ao mercado",
+            "query_en": "Apple foldable smartphone concept"
+          },
+          {
+            "anchor": "## A experiência com o YouTube e serviços Google",
+            "query_en": "YouTube app running on smartphone"
+          },
+          {
+            "anchor": "## Desafios de adaptação e o cenário dos aplicativos",
+            "query_en": "Mobile app development interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f5545867-3864-4016-9b9d-b13dbf7d596e",
+      "title": "Times Car anuncia pagamento de indenização de 3.000 ienes a vítimas de vazamento de dados após incidente cibernético",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Times Car security incident data breach Japan",
+        "images": [
+          {
+            "anchor": "Impacto Financeiro e Custos com Resposta ao Incidente",
+            "query_en": "Times Car shared car service Japan"
+          },
+          {
+            "anchor": "Detalhes do Incidente e Ações da Empresa",
+            "query_en": "cybersecurity data breach incident response"
+          },
+          {
+            "anchor": "Repercussão no Setor",
+            "query_en": "car sharing service app smartphone Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3bf9a35c-5fa2-452a-9e19-0505a2ca0178",
+      "title": "Call of Duty: Modern Warfare 4 conquista crítica especializada e marca retorno à boa fase da franquia",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Call of Duty Modern Warfare 4 gameplay review",
+        "images": [
+          {
+            "anchor": "Campanha e narrativa",
+            "query_en": "Call of Duty Modern Warfare 4 campaign story"
+          },
+          {
+            "anchor": "Mecânicas de jogo e inovação",
+            "query_en": "Call of Duty Modern Warfare 4 gameplay combat"
+          },
+          {
+            "anchor": "Modos multiplayer e o modo DMZ",
+            "query_en": "Call of Duty Modern Warfare 4 multiplayer DMZ mode"
+          },
+          {
+            "anchor": "Versão para consoles Nintendo",
+            "query_en": "Call of Duty Modern Warfare Nintendo console handheld"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1bb82b7-5cea-4674-a9e1-7c668f1b670c",
+      "title": "Capcom sofre violação de dados que compromete mais de 11,7 milhões de contas Capcom ID",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Capcom data breach Capcom ID hacked",
+        "images": [
+          {
+            "anchor": "## O incidente de segurança na Capcom",
+            "query_en": "Capcom corporate logo building"
+          },
+          {
+            "anchor": "## Detalhes sobre as senhas e o acesso",
+            "query_en": "cybersecurity password security lock concept"
+          },
+          {
+            "anchor": "## Resposta de emergência e impacto nas lojas",
+            "query_en": "Street Fighter 6 gameplay screen"
+          },
+          {
+            "anchor": "## Dados expostos e a situação financeira",
+            "query_en": "Monster Hunter game artwork"
+          },
+          {
+            "anchor": "## Conclusão das investigações e histórico anterior",
+            "query_en": "Resident Evil game logo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ac8ad8d-4ebd-4354-a131-31074ab65ec9",
+      "title": "Shigeru Miyamoto, veterano da Nintendo, vai receber a Ordem da Cultura do Japão",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Shigeru Miyamoto Order of Culture award Japan Nintendo",
+        "images": [
+          {
+            "anchor": "Um marco histórico para os jogos eletrônicos",
+            "query_en": "Shigeru Miyamoto Nintendo creator"
+          },
+          {
+            "anchor": "A cerimônia e o prestígio da comenda",
+            "query_en": "Emperor of Japan formal ceremony"
+          },
+          {
+            "anchor": "O agradecimento e o histórico de honrarias",
+            "query_en": "Shigeru Miyamoto smiling at event"
+          },
+          {
+            "anchor": "Precedentes na indústria de games",
+            "query_en": "Yuji Horii game developer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b48b4672-6cae-4456-a307-35a42c1209a3",
+      "title": "GameMaker vai disponibilizar seu runtime GMRT gratuitamente para uso comercial a partir de janeiro de 2027",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GameMaker GMRT free commercial use 2027",
+        "images": [
+          {
+            "anchor": "Detalhes da gratuidade e plataformas suportadas",
+            "query_en": "GameMaker software interface 2D development"
+          },
+          {
+            "anchor": "Compatibilidade com o runtime GMS2 e regras para consoles",
+            "query_en": "GameMaker game development console export"
+          },
+          {
+            "anchor": "O contexto da decisão e o impacto para criadores independentes",
+            "query_en": "Russell Kay GameMaker head"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b0619029-7133-48be-93fa-4e94d3e8969a",
+      "title": "O Fim da BioWare: Uma Crônica Trágica de Má Gestão na Indústria de Games",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "BioWare closure history and downfall analysis",
+        "images": [
+          {
+            "anchor": "O Peso do Histórico e o Fim de uma Era",
+            "query_en": "Dragon Age Inquisition BioWare game"
+          },
+          {
+            "anchor": "Baldur's Gate e Neverwinter Nights",
+            "query_en": "Baldur Gate original 1998 game BioWare"
+          },
+          {
+            "anchor": "Knights of the Old Republic",
+            "query_en": "Star Wars Knights of the Old Republic game"
+          },
+          {
+            "anchor": "Jade Empire e Mass Effect",
+            "query_en": "Mass Effect game BioWare"
+          },
+          {
+            "anchor": "Dragon Age: Inquisition",
+            "query_en": "Dragon Age Inquisition gameplay"
+          },
+          {
+            "anchor": "Uma Trajetória de Interferências e Perseguição de Tendências",
+            "query_en": "Anthem game BioWare"
+          },
+          {
+            "anchor": "O Legado Final de Dragon Age: The Veilguard",
+            "query_en": "Dragon Age The Veilguard gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c5f958ce-4c67-4d95-adf6-fccae75f9cd9",
+      "title": "Coleção Legacy Cartridges de Sonic da iam8bit: Belas, mas valem o preço?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iam8bit Sonic Legacy Cartridges review Sega Genesis",
+        "images": [
+          {
+            "anchor": "Detalhes que encantam os colecionadores",
+            "query_en": "iam8bit Sonic Legacy Cartridges packaging Sega Genesis"
+          },
+          {
+            "anchor": "Conteúdos internos e manuais caprichados",
+            "query_en": "Sonic 1 and Sonic 2 instruction manuals iam8bit"
+          },
+          {
+            "anchor": "A polêmica loteria das variantes translúcidas",
+            "query_en": "iam8bit Sonic translucent light up cartridge Chaos Emerald"
+          },
+          {
+            "anchor": "Uma alternativa válida para fãs dedicados",
+            "query_en": "Sonic Legacy Cartridges collection iam8bit display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4db9f834-ed6a-4f57-92dc-8160304f7e80",
+      "title": "Shigeru Miyamoto se torna o primeiro desenvolvedor de jogos a receber a prestigiada Ordem da Cultura do Japão",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
         "video_query_en": "Shigeru Miyamoto Order of Culture Japan",
         "images": [
           {
-            "anchor": "Uma trajetória brilhante na Nintendo",
-            "query_en": "Shigeru Miyamoto Nintendo headquarters Kyoto"
+            "anchor": "Uma Honraria Histórica do Imperador",
+            "query_en": "Emperor of Japan Culture Day ceremony"
           },
           {
-            "anchor": "O impacto global dos jogos",
-            "query_en": "Shigeru Miyamoto Mario and Zelda"
-          }
-        ]
-      }
-    },
-    {
-      "id": "87a56178-860a-405a-946a-aaa6542687d9",
-      "title": "China ordena resgate total após terremoto de magnitude 7 no Tibete deixar mortos e feridos",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tibet earthquake magnitude 7 rescue operation",
-        "images": [
-          {
-            "anchor": "Operação de resgate em larga escala",
-            "query_en": "Tibet earthquake rescue workers night"
-          },
-          {
-            "anchor": "Cenas de destruição e pânico",
-            "query_en": "collapsed houses Tibet earthquake aftermath"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4b43e9dd-0471-4f55-bcfc-168ffdc10a9b",
-      "title": "Escritor japonês Ryu Murakami morre aos 74 anos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ryu Murakami Japanese novelist author news",
-        "images": [
-          {
-            "anchor": "O falecimento de Ryu Murakami",
-            "query_en": "Japanese book publisher office Tokyo"
-          },
-          {
-            "anchor": "A estreia marcante com Almost Transparent Blue",
-            "query_en": "Japanese literature book award ceremony"
-          },
-          {
-            "anchor": "Legado e alcance global",
-            "query_en": "translated books on library shelf"
-          }
-        ]
-      }
-    },
-    {
-      "id": "423a0b81-ca86-4aee-ad9b-22e746e1fef0",
-      "title": "Japão debate estratégias para evacuar milhares de turistas estrangeiros em caso de erupção do Monte Fuji",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mount Fuji eruption evacuation plan tourists Japan",
-        "images": [
-          {
-            "anchor": "O desafio do turismo e do vulcanismo",
-            "query_en": "Mount Fuji active volcano landscape Japan"
-          },
-          {
-            "anchor": "A visão das lideranças locais e os riscos operacionais",
-            "query_en": "Fujikawaguchiko town Yamanashi Prefecture Japan"
-          },
-          {
-            "anchor": "Representantes de governos locais debateram a integração de protocolos de emergência.",
-            "query_en": "disaster preparedness meeting Japan officials"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f990a6b5-07c5-471f-9463-63b0c99bea79",
-      "title": "Inflação no Japão supera a marca de 2% pela primeira vez em 2026",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan inflation rate September Bank of Japan interest rates",
-        "images": [
-          {
-            "anchor": "O cenário da inflação japonesa em setembro",
-            "query_en": "Tokyo shopping street Japan economy inflation"
-          },
-          {
-            "anchor": "Pressão sobre o Banco do Japão",
-            "query_en": "Bank of Japan building Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e2d53bd7-30ce-4420-bcae-9c1eabc4ba31",
-      "title": "Crescimento econômico na Índia impulsiona boom da alta gastronomia e atrai escolas de culinária francesa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "French cooking schools in India fine dining boom",
-        "images": [
-          {
-            "anchor": "O novo cenário da gastronomia na Índia",
-            "query_en": "Indian fine dining restaurant luxury"
-          },
-          {
-            "anchor": "A ambição da nova geração de chefs",
-            "query_en": "French culinary school student cooking class"
-          },
-          {
-            "anchor": "Há dez ou quinze anos, eram muito poucos os jovens que sonhavam em seguir a carreira de chef.",
-            "query_en": "young Indian chef training kitchen"
-          },
-          {
-            "anchor": "Com o surgimento e a popularização das redes sociais, os estudantes de hoje demonstram ambições muito maiores nessa profissão.",
-            "query_en": "pastry chef making dessert fine dining"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a83d3cdd-c4f0-4e7c-9c2a-383be521da6d",
-      "title": "Irmãos bilionários brasileiros surgem como opositores de Flávio Bolsonaro no segundo turno presidencial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Brazilian presidential election runoff Flavio Bolsonaro Moreira Salles",
-        "images": [
-          {
-            "anchor": "Fortuna e atuação política dos irmãos Moreira Salles",
-            "query_en": "Itau Unibanco Sao Paulo building"
-          },
-          {
-            "anchor": "Críticas contundentes ao candidato",
-            "query_en": "Flavio Bolsonaro campaign Brazil"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1deb9fa3-bb30-4c2c-ad6f-87f2ed6be7ff",
-      "title": "Kushima recebe briefing do Ministério da Indústria sobre pesquisa de lixo nuclear",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan nuclear waste disposal site survey literature survey",
-        "images": [
-          {
-            "anchor": "Reunião em Kushima",
-            "query_en": "Kushima city Miyazaki prefecture Japan landscape"
-          },
-          {
-            "anchor": "O processo e outras localidades",
-            "query_en": "Nuclear waste management facility Japan"
-          },
-          {
-            "anchor": "Pesquisa de literatura",
-            "query_en": "Geological map research documents"
-          },
-          {
-            "anchor": "Suttsu e Kamoenai",
-            "query_en": "Suttsu Hokkaido Japan coastal town"
-          },
-          {
-            "anchor": "Genkai e Minamitorishima",
-            "query_en": "Genkai Saga prefecture Japan"
-          },
-          {
-            "anchor": "Hitachiomiya",
-            "query_en": "Hitachiomiya Ibaraki prefecture Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3618c4f0-cc44-426a-a292-bb61ba89a780",
-      "title": "‘The Potentials’ unpacks the dilemmas of a manga assistant in middle age",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "32ea9b7e-81a6-44f0-bcaa-6d9ba5e72803",
-      "title": "Doações políticas de Elon Musk ultrapassam US$ 445 milhões antes das eleições de meio de mandato",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk political donations America PAC US midterm elections",
-        "images": [
-          {
-            "anchor": "O avanço das doações de Elon Musk",
-            "query_en": "Elon Musk speaking at podium"
-          },
-          {
-            "anchor": "A movimentação financeira do America PAC",
-            "query_en": "US Federal Election Commission building Washington DC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "72a65a34-bbea-4dec-94b1-4eaca5222bad",
-      "title": "Governo do Japão cobra plataformas de redes sociais para conter desoneração e desinformação em eleições",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan social media misinformation election guidelines",
-        "images": [
-          {
-            "anchor": "Diretrizes e o impacto na monetização de postagens",
-            "query_en": "Japan government press conference Tokyo"
-          },
-          {
-            "anchor": "O cenário político e tecnológico no Japão",
-            "query_en": "Tokyo digital city skyline smartphone social media"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2fc3ebe9-a176-46cf-934b-2c3265a6a3fa",
-      "title": "Boom de data centers de IA na Ásia enfrenta choque de realidade nos mercados públicos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Asia AI data center market IPO reality check",
-        "images": [
-          {
-            "anchor": "O ceticismo dos investidores e os impactos na Austrália",
-            "query_en": "Modern data center server room technology"
-          },
-          {
-            "anchor": "Retrações em outros mercados estratégicos",
-            "query_en": "Stock market trading floor financial charts"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3a6275dc-7260-4d28-a85a-ec09982a8c38",
-      "title": "Japão vai reorganizar pesquisas de defesa com foco em IA e segurança cibernética",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan defense minister artificial intelligence cybersecurity",
-        "images": [
-          {
-            "anchor": "O anúncio do Ministro da Defesa",
-            "query_en": "Shinjiro Koizumi Japanese defense minister speaking"
-          },
-          {
-            "anchor": "Objetivos da reestruturação tecnológica",
-            "query_en": "artificial intelligence cybersecurity military defense technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fce0c096-9cb0-44bf-8d22-ddfd15006a23",
-      "title": "Eleição no Brasil impacta corrida por terras raras em meio à busca do Ocidente por alternativas à China",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Brazil rare earth minerals supply chain critical minerals",
-        "images": [
-          {
-            "anchor": "O cenário político e as visões de investimento",
-            "query_en": "Brazilian presidential election debate candidates"
-          },
-          {
-            "anchor": "A corrida global por minerais críticos",
-            "query_en": "rare earth elements mining facility"
-          },
-          {
-            "anchor": "Desafios ambientais e diplomacia de recursos",
-            "query_en": "Amazon rainforest landscape Brazil conservation"
-          },
-          {
-            "anchor": "O papel do Brasil no comércio internacional",
-            "query_en": "cargo ship port in Brazil global trade"
-          }
-        ]
-      }
-    },
-    {
-      "id": "344663e7-e5d6-44eb-a311-c97d7b9ed948",
-      "title": "O que realmente diferencia as startups do Vale do Silício e da Ásia?",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Silicon Valley startups vs Asia tech ecosystem",
-        "images": [
-          {
-            "anchor": "A evolução das startups na Ásia",
-            "query_en": "Southeast Asia tech startups Grab Bangkok"
-          },
-          {
-            "anchor": "O tamanho da aposta e a mentalidade de escala",
-            "query_en": "Silicon Valley venture capital tech investment"
-          },
-          {
-            "anchor": "O potencial de transformação na Ásia",
-            "query_en": "Asia semiconductor manufacturing artificial intelligence"
-          },
-          {
-            "anchor": "Movimentos recentes no mercado asiático",
-            "query_en": "South Korea semiconductor factory Gwangju Samsung"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e72a3f1-5ff1-464d-a892-57d3451156b4",
-      "title": "Investors turn to JGBs as a safe haven as stock risks rise",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
-    },
-    {
-      "id": "207dab27-1cc0-4e2e-af29-b3e03567a528",
-      "title": "Acordo de Defesa entre Turquia, Paquistão, Indonésia e Catar Complementa a Aliança de Meca",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Turkey Pakistan Indonesia Qatar defense pact",
-        "images": [
-          {
-            "anchor": "O Contexto das Tensões e Ameaças Regionais",
-            "query_en": "Middle East geopolitical tensions defense meeting"
-          },
-          {
-            "anchor": "Implicações Estratégicas Globais",
-            "query_en": "military defense exhibition tech hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "27d85d61-505c-46a9-b09b-15eec8f72b9f",
-      "title": "A 'equipe nacional' da China entra em ação para resgatar o mercado de ações diante de sinais de baixa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China stock market intervention state owned investment funds national team",
-        "images": [
-          {
-            "anchor": "A intervenção dos fundos estatais",
-            "query_en": "Shanghai financial district Lujiazui electronic board stock prices"
-          },
-          {
-            "anchor": "Pressões macroeconômicas e o setor de inteligência artificial",
-            "query_en": "China stock market bearish trend financial analysts trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "57933567-5d3c-430e-9bc6-3ec727be5c11",
-      "title": "Apple aposta no iPhone Duo para revolucionar o mercado de dobráveis com o início das vendas",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple iPhone Duo foldable phone review launch",
-        "images": [
-          {
-            "anchor": "A recepção inicial do mercado e as filas nas lojas",
-            "query_en": "Apple Jingan store queue iPhone Duo launch"
-          },
-          {
-            "anchor": "Avaliações iniciais e desafios de usabilidade",
-            "query_en": "Apple iPhone Duo folded hinge design"
-          },
-          {
-            "anchor": "John Gruber, autor do blog Daring Fireball, afirmou que o aparelho parece um protótipo extremamente polido, e não um produto finalizado que desejaria comprar e carregar no dia a dia.",
-            "query_en": "John Gruber tech commentator"
-          },
-          {
-            "anchor": "Marques Brownlee, conhecido como MKBHD, pontuou em sua análise no YouTube que para o usuário comum focado em mensagens, redes sociais e navegação básica o aparelho provavelmente não é indicado, mas ressaltou que para quem tem orçamento livre e busca novidades, o telefone é muito divertido após o período de aprendizado e adaptação à ausência de identificação facial.",
-            "query_en": "Marques Brownlee MKBHD studio"
-          },
-          {
-            "anchor": "Disponibilidade limitada e o panorama competitivo",
-            "query_en": "Apple iPhone Duo foldable vs Samsung Z Fold"
-          },
-          {
-            "anchor": "Perspectivas e projeções da IDC para a categoria",
-            "query_en": "Apple iPhone Duo display foldable market IDC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dea83f7c-53ec-4306-bf7b-7cbb28a5e41d",
-      "title": "Mark Zuckerberg faz acordo com a Meta para pagar possível imposto sobre bilionários",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mark Zuckerberg Meta billionaire tax California",
-        "images": [
-          {
-            "anchor": "Detalhes do acordo acionário",
-            "query_en": "Mark Zuckerberg Meta CEO"
-          },
-          {
-            "anchor": "O impacto da tributação na Califórnia",
-            "query_en": "California state capitol building"
-          },
-          {
-            "anchor": "Estratégias divergentes entre os bilionários",
-            "query_en": "Google co-founder Sergey Brin"
-          },
-          {
-            "anchor": "Remuneração e expansão de infraestrutura de inteligência artificial",
-            "query_en": "Meta AI infrastructure data center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "368045c8-c8c3-4d70-9f1e-a7d6211d68ef",
-      "title": "Microsoft desenvolve ferramenta de inteligência artificial que diagnostica pacientes passo a passo",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft AI diagnostic tool medical research",
-        "images": [
-          {
-            "anchor": "O funcionamento do orchestrator clínico",
-            "query_en": "Microsoft AI technology health research data center"
-          },
-          {
-            "anchor": "Comparação com modelos tradicionais",
-            "query_en": "doctor examining patient medical data screen"
-          },
-          {
-            "anchor": "Desempenho e testes práticos",
-            "query_en": "medical diagnostic center hospital room"
-          },
-          {
-            "anchor": "Custo-benefício e próximos passos",
-            "query_en": "hospital emergency waiting room medical triage"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a63d5039-cf31-40c3-844b-bd60d5ef4a5a",
-      "title": "Meta é condenada a pagar multa de US$ 25 bilhões em caso de privacidade ligado à Cambridge Analytica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Meta Cambridge Analytica New Mexico 25 billion penalty explained",
-        "images": [
-          {
-            "anchor": "Por que a Meta recebeu essa penalidade bilionária?",
-            "query_en": "Meta headquarters building Dublin Grand Canal Square"
-          },
-          {
-            "anchor": "O recurso polêmico de compartilhamento de amigos",
-            "query_en": "Facebook app interface smartphone screen privacy settings"
-          },
-          {
-            "anchor": "O escândalo da Cambridge Analytica",
-            "query_en": "Mark Zuckerberg US Senate testimony technology hearing"
-          },
-          {
-            "anchor": "Resposta inicial do Facebook e investigações internas",
-            "query_en": "Data privacy security code on computer screen"
-          },
-          {
-            "anchor": "O veredito do tribunal do Novo México",
-            "query_en": "New Mexico court building gavel justice system"
-          },
-          {
-            "anchor": "A resposta oficial da Meta",
-            "query_en": "Meta corporate logo sign office building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "23ee0de6-17c8-4889-ab80-7fcee3731bc2",
-      "title": "A bagagem política de Elon Musk ameaça futuro da fusão entre SpaceX e Tesla",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk SpaceX Tesla merger political risks",
-        "images": [
-          {
-            "anchor": "Riscos geopolíticos e segurança nacional",
-            "query_en": "Elon Musk SpaceX Tesla merger Washington politics"
-          },
-          {
-            "anchor": "O impacto da dependência de Xangai",
-            "query_en": "Tesla Shanghai factory China manufacturing hub"
-          },
-          {
-            "anchor": "Barreiras regulatórias globais e inteligência artificial",
-            "query_en": "SpaceX and Tesla artificial intelligence technology integration"
-          }
-        ]
-      }
-    },
-    {
-      "id": "82cfb843-062d-401f-af41-680b12dfc108",
-      "title": "Remessas de smartphones na Índia caem ao menor nível em uma década no terceiro trimestre de 2026",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "India smartphone shipments Q3 2026 Counterpoint Research",
-        "images": [
-          {
-            "anchor": "Impacto no mercado de massa",
-            "query_en": "Indian smartphone market retail store crowded"
-          },
-          {
-            "anchor": "Desempenho das principais marcas",
-            "query_en": "Samsung smartphone display store India"
-          },
-          {
-            "anchor": "- Samsung: Liderou o mercado indiano no terceiro trimestre de 2026 com 17% de participação, impulsionada pelo volume de vendas da linha Galaxy A.",
-            "query_en": "Samsung Galaxy smartphone retail display"
-          },
-          {
-            "anchor": "- Vivo: Ocupou a segunda posição com 16% de participação de mercado, mantendo o bom ritmo de vendas através da linha Y.",
-            "query_en": "Vivo smartphone store India"
-          },
-          {
-            "anchor": "- Oppo: Ficou na terceira colocação, registrando uma fatia de 12% do mercado de smartphones no país.",
-            "query_en": "Oppo smartphone retail store"
-          },
-          {
-            "anchor": "- Xiaomi: Ocupou a quarta posição, também registrando 12% de participação nas remessas do período.",
-            "query_en": "Xiaomi smartphone store India"
-          },
-          {
-            "anchor": "O cenário dos processadores",
-            "query_en": "MediaTek chipset semiconductor technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f204c6f9-0b83-4b79-b207-8db0862204c0",
-      "title": "Fitbit Air: o rastreador sem tela focado em saúde e inteligência artificial",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Fitbit Air screenless health tracker review",
-        "images": [
-          {
-            "anchor": "O retorno da simplicidade no formato vestível",
-            "query_en": "Fitbit Air screenless fitness tracker"
-          },
-          {
-            "anchor": "Design compacto e conforto superior",
-            "query_en": "Fitbit Air woven band pebble sensor"
-          },
-          {
-            "anchor": "Aplicativo Google Health e integração com o Gemini",
-            "query_en": "Google Health app dashboard health metrics"
-          },
-          {
-            "anchor": "Desempenho no monitoramento e autonomia de bateria",
-            "query_en": "Fitbit Air charging cable and sensor module"
-          },
-          {
-            "anchor": "Considerações finais",
-            "query_en": "Fitbit Air worn on wrist health monitoring"
-          }
-        ]
-      }
-    },
-    {
-      "id": "239490d6-5b86-4e34-addf-791cf42e8c9f",
-      "title": "Airbnb estabelece novas regras para impedir que anfitriões obriguem hóspedes a faxinar",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Airbnb new rules cleaning chores hosts guests",
-        "images": [
-          {
-            "anchor": "O conflito entre anfitriões e hóspedes",
-            "query_en": "Airbnb rental property interior living room"
-          },
-          {
-            "anchor": "As novas diretrizes de limpeza do Airbnb",
-            "query_en": "Airbnb app logo smartphone screen"
-          },
-          {
-            "anchor": "Reações divididas na comunidade",
-            "query_en": "People using smartphones frustrated discussion"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5b34bfef-e8a3-49a6-b12c-dec1232a881a",
-      "title": "Trailer de Mass Effect 5 é vazado e revela detalhes do próximo jogo da Bioware e Electronic Arts",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mass Effect 5 leaked trailer Bioware Electronic Arts",
-        "images": [
-          {
-            "anchor": "O vazamento e a confirmação de autenticidade",
-            "query_en": "Bioware studio logo game development"
-          },
-          {
-            "anchor": "O que o material revela sobre a jogabilidade e os visuais",
-            "query_en": "Mass Effect sci-fi spaceship concept art"
-          },
-          {
-            "anchor": "O envolvimento da Bioware e da Electronic Arts",
-            "query_en": "Electronic Arts headquarters building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d2ee4d2a-f4e4-4e19-abe1-edcc65cfa369",
-      "title": "Anzeige: American Express Platinum Card - Luxus oder gutes Investment?",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Unternehmen"
-    },
-    {
-      "id": "e9f50c38-8514-4cca-88ba-bbebcb0cc368",
-      "title": "Hackintosh reloaded: macOS roda em notebook Windows com Snapdragon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Snapintosh macOS running on Snapdragon Windows laptop",
-        "images": [
-          {
-            "anchor": "O projeto Snapintosh",
-            "query_en": "Snapdragon laptop Windows hardware"
-          },
-          {
-            "anchor": "As limitações e a necessidade de um Mac host",
-            "query_en": "Apple MacBook computer workspace"
-          },
-          {
-            "anchor": "O futuro dos Hackintoshes em arquitetura ARM",
-            "query_en": "ARM processor chip technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "75092df6-449d-4d3d-bae1-61dac2706b61",
-      "title": "Pesquisa de Fusão Nuclear Explora Híbrido entre Tokamak e Stellarator",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "nuclear fusion tokamak stellarator hybrid research",
-        "images": [
-          {
-            "anchor": "Cooperação entre Centros de Pesquisa",
-            "query_en": "nuclear fusion research laboratory"
-          },
-          {
-            "anchor": "O Conceito Híbrido",
-            "query_en": "tokamak stellarator fusion reactor design"
+            "anchor": "A Reação e a Modéstia de Miyamoto",
+            "query_en": "Shigeru Miyamoto press conference"
           },
           {
-            "anchor": "Locais de Experimentos",
-            "query_en": "plasma physics laboratory equipment"
+            "anchor": "O Reconhecimento dos Games como Cultura",
+            "query_en": "Shigeru Miyamoto Nintendo games"
           }
         ]
       }
@@ -724,70 +806,62 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "c3807dc2-d629-4d84-bfbb-9e2913b0b9f8",
-      "title": "Apple desenvolve câmera inteligente para casa com foco em descrições em texto em vez de vídeo",
-      "category": "Empresas",
+      "id": "8325bb80-9318-464e-b902-08d1ca2b215c",
+      "title": "Chef de drones da Ucrânia alerta para o risco de perda de controle sobre armas com inteligência artificial",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple smart home camera text description privacy concept",
+        "video_query_en": "Ukraine drone commander artificial intelligence autonomous weapons warning",
         "images": [
           {
-            "anchor": "O conceito de monitoramento baseado em texto",
-            "query_en": "Apple smart home privacy concept technology"
+            "anchor": "O alerta de Robert Brovdi",
+            "query_en": "Robert Brovdi ukraine drone commander"
           },
           {
-            "anchor": "Desafios e implicações para el mercado",
-            "query_en": "smart home security camera privacy discussion"
+            "anchor": "Os perigos da automação bélica",
+            "query_en": "military autonomous drone artificial intelligence technology"
+          },
+          {
+            "anchor": "Contexto e repercussões na tecnologia militar",
+            "query_en": "modern military technology control room screens"
           }
         ]
       }
     },
     {
-      "id": "27232abe-0354-485a-8e53-f80b6693e518",
-      "title": "Volkswagen escolhe Wayve em vez de Nvidia para sistemas de direção autônoma",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Volkswagen Wayve autonomous driving Nvidia",
-        "images": [
-          {
-            "anchor": "A guinada para a inteligência artificial britânica",
-            "query_en": "Wayve autonomous driving artificial intelligence car"
-          },
-          {
-            "anchor": "Parceria estratégica com a Wayve para software de condução autônoma",
-            "query_en": "Wayve logo startup autonomous vehicle"
-          },
-          {
-            "anchor": "Descarte da tecnologia da Nvidia para esta frente de desenvolvimento",
-            "query_en": "Nvidia automotive technology chip"
-          },
-          {
-            "anchor": "Foco em soluções avançadas de inteligência artificial aplicadas ao setor automotivo",
-            "query_en": "Volkswagen autonomous car technology"
-          },
-          {
-            "anchor": "Desafios na estratégia de software",
-            "query_en": "Volkswagen factory car software development"
-          }
-        ]
-      }
-    },
-    {
-      "id": "331bdad7-762d-4cbc-b49d-d7aec5ff597f",
-      "title": "Bundeswehr plane criar seu primeiro regimento de drones sob comando de Boris Pistorius",
+      "id": "71e4f949-6bab-4717-89b6-084f1c513d4e",
+      "title": "Apple planeia endurecer o acesso total ao disco em macOS devido ao avanço de agentes de inteligência artificial",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bundeswehr drone regiment Boris Pistorius",
+        "video_query_en": "Apple macOS Full Disk Access security AI agents",
         "images": [
           {
-            "anchor": "Estrutura e Efetivo do Novo Regimento",
-            "query_en": "Bundeswehr soldiers military equipment"
+            "anchor": "Os riscos trazidos pelos agentes de inteligência artificial",
+            "query_en": "Artificial intelligence security risk abstract technology"
           },
           {
-            "anchor": "O Impacto Tecnológico nas Forças Armadas",
-            "query_en": "military reconnaissance drone technology"
+            "anchor": "O impacto no ecossistema macOS",
+            "query_en": "Apple MacBook macOS settings security interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0f931d87-b477-4f64-8a82-90f03acbafee",
+      "title": "Inteligência Artificial: Gemini ganha acesso ao Google Wallet nos Estados Unidos",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Gemini Google Wallet integration",
+        "images": [
+          {
+            "anchor": "Integração com o Google Wallet",
+            "query_en": "Google Wallet app interface on smartphone"
+          },
+          {
+            "anchor": "Disponibilidade Inicial",
+            "query_en": "Google Gemini artificial intelligence logo"
           }
         ]
       }
