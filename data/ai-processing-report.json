@@ -1,688 +1,698 @@
 {
-  "updated_at": "2026-10-23T21:37:03.797Z",
+  "updated_at": "2026-10-24T03:38:51.087Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "db8f8a5b-4030-4019-b13b-bb438436eb2c",
-      "title": "Japão avalia reclassificar energia e IA como gastos de defesa sob pressão de Trump",
+      "id": "62446b25-9b3f-4dde-8699-b1300860f3f7",
+      "title": "Um dos ryokans mais famosos do Japão planeja expansão global",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Gora Kadan ryokan Hakone luxury hotel",
+        "images": [
+          {
+            "anchor": "A transição e os novos desafios do setor",
+            "query_en": "Gora Kadan ryokan Hakone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "af28928b-594c-4072-9c4a-d65533af8aa9",
+      "title": "Farmers to tourists: Gifu’s rural festivals court new crowds to survive",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+    },
+    {
+      "id": "98f23be9-cacc-4eb6-b702-bf3a640c0e41",
+      "title": "Japão planeja simular ataques cibernéticos com inteligência artificial após falhas globais na linguagem PHP",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan defense spending AI energy US pressure",
+        "video_query_en": "Japan cyberattack simulation PHP vulnerability",
         "images": [
           {
-            "anchor": "Pressão dos Estados Unidos e o Orçamento de Defesa",
-            "query_en": "Japan US defense meeting Tokyo"
+            "anchor": "O impacto das falhas no PHP ao redor do mundo",
+            "query_en": "cybersecurity warning digital security screen"
           },
           {
-            "anchor": "O Papel da Inteligência Artificial e da Energia",
-            "query_en": "Japan artificial intelligence technology defense research"
+            "anchor": "A resposta do governo do Japão",
+            "query_en": "Japanese government building Tokyo"
           },
           {
-            "anchor": "Inteligência artificial",
-            "query_en": "Artificial intelligence cybersecurity technology center Japan"
-          },
-          {
-            "anchor": "Energia",
-            "query_en": "Japan energy infrastructure power plant Tokyo"
-          },
-          {
-            "anchor": "Assistência ao desenvolvimento",
-            "query_en": "Japanese international development assistance meeting Asia"
+            "anchor": "Interrupções em serviços no Japão",
+            "query_en": "SoftBank store Tokyo mobile carrier"
           }
         ]
       }
     },
     {
-      "id": "558343d5-32cb-422f-be04-177648e3dd46",
-      "title": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "15da6161-e12c-4f5f-abcd-3c25affe0bf8",
-      "title": "Meta lança assistente de IA Muse no Japão e garante que ferramenta será livre de anúncios",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Meta Muse personal AI agent Japan launch",
-        "images": [
-          {
-            "anchor": "O lançamento do Muse no Japão",
-            "query_en": "Tokyo tech skyline Japan technology"
-          },
-          {
-            "anchor": "O agente pessoal de IA Muse estreou oficialmente no mercado japonês.",
-            "query_en": "artificial intelligence assistant technology concept"
-          },
-          {
-            "anchor": "A estratégia de modelos abertos e a concorrência",
-            "query_en": "Meta artificial intelligence research lab"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c6f5f5f7-2d2a-4c2f-bb06-adf6905254a5",
-      "title": "Japão e Micronésia reafirmam cooperação por um Indo-Pacífico livre e aberto",
+      "id": "1f68b048-7989-4e96-9bcb-5a8eb9471e3a",
+      "title": "Revisão da Lei da Casa Imperial entra em vigor no Japão com novos desafios",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Micronesia relations Indo Pacific meeting Tokyo",
+        "video_query_en": "Japan revised Imperial House Law",
         "images": [
           {
-            "anchor": "Encontro de Líderes em Tóquio",
-            "query_en": "Japanese Prime Minister meeting Micronesia President Wesley Simina Tokyo"
+            "anchor": "Mudança na Legislação Imperial",
+            "query_en": "Imperial Palace Tokyo"
           },
           {
-            "anchor": "Cooperação Marítima e Projetos de Infraestrutura",
-            "query_en": "cargo passenger ship Pacific islands maritime transport"
+            "anchor": "Principais Alterações nas Regras",
+            "query_en": "Japanese imperial family"
           },
           {
-            "anchor": "- Exploração e planejamento do fornecimento de um navio misto de carga e passageiros.",
-            "query_en": "cargo passenger ship in Pacific ocean"
+            "anchor": "Descendentes masculinos por linha paterna de antigos ramos da família imperial agora podem ser adotados para dentro da Casa Imperial.",
+            "query_en": "Japanese imperial flag"
+          },
+          {
+            "anchor": "Mulheres que fazem parte da família imperial ganharam o direito de continuar integrando a realeza mesmo após o casamento.",
+            "query_en": "Japanese royal wedding"
+          },
+          {
+            "anchor": "Desafios e Questões Pendentes",
+            "query_en": "Tokyo government building"
           }
         ]
       }
     },
     {
-      "id": "6e5e9922-9177-4c1d-8403-79c37fc3f429",
-      "title": "Falhas de segurança no PHP geram abordagens opostas entre Japão e Estados Unidos",
+      "id": "1ee87365-4fdb-4683-95f7-a86b443bc887",
+      "title": "Governo do Japão inicia revisão de subsídios à gasolina diante de custos fiscais crescentes",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan gasoline subsidies review Sanae Takaichi",
+        "images": [
+          {
+            "anchor": "Instrução direta da primeira-ministra",
+            "query_en": "Sanae Takaichi prime minister office Japan"
+          },
+          {
+            "anchor": "Pressão política e preocupações fiscais",
+            "query_en": "Japanese Diet building Tokyo politics"
+          },
+          {
+            "anchor": "Flexibilidade para o futuro do programa",
+            "query_en": "gas station prices Japan yen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eff5a0f8-fed5-4e27-92fb-cc280c52b812",
+      "title": "Dois alpinistas japoneses morrem em pico remoto do Himalaia no Nepal",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Himalayas mountain climbing rescue Nepal",
+        "images": [
+          {
+            "anchor": "A Expedição ao Gangapurna West",
+            "query_en": "Gangapurna Himalayan mountain peak Nepal"
+          },
+          {
+            "anchor": "Perda de Contato e Resgate",
+            "query_en": "Himalayan mountaineering expedition tent snow"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1119a7a2-3ee0-40cd-b3fa-c34ff2d93818",
+      "title": "Aging Japanese village turns to Peru in search of new residents",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+    },
+    {
+      "id": "d6784f20-0d36-457f-83b6-b68e5f476f3f",
+      "title": "Manga ganha destaque na cena artística de Nova York com valorização de obras originais",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "manga exhibition new york brooklyn museum one piece",
+        "images": [
+          {
+            "anchor": "Exibições de destaque e valorização de mercado",
+            "query_en": "manga artwork exhibition new york"
+          },
+          {
+            "anchor": "Obras originais de mangá sendo leiloadas por valores muito acima das previsões de mercado",
+            "query_en": "original manga art auction"
+          },
+          {
+            "anchor": "Exposição de painéis coloridos de mangás de sucesso mundial no Brooklyn Museum em Nova York",
+            "query_en": "One Piece color panel Brooklyn Museum"
+          },
+          {
+            "anchor": "Crescimento expressivo da base de fãs no Ocidente impulsionando o reconhecimento artístico",
+            "query_en": "manga fans reading in New York"
+          },
+          {
+            "anchor": "A expansão global da cultura pop japonesa",
+            "query_en": "Japanese pop culture exhibition New York"
+          },
+          {
+            "anchor": "Obras de arte em feiras e galerias voltadas para o público colecionador de alta renda",
+            "query_en": "art gallery with Japanese manga"
+          },
+          {
+            "anchor": "Reconhecimento institucional de mangakás como artistas contemporâneos de relevo",
+            "query_en": "manga artist original drawing table"
+          },
+          {
+            "anchor": "Integração de elementos da cultura pop japonesa em exposições de arte moderna no exterior",
+            "query_en": "modern art museum interior New York"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cee838a3-4ef1-4cd4-9d47-a888ce1c5ede",
+      "title": "Larry: Stephen Schwarzman (23) - Reflexões sobre a separação e o surgimento da BlackRock",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Stephen Schwarzman Larry Fink BlackRock history",
+        "images": [
+          {
+            "anchor": "A relação com a BlackRock e seu líder",
+            "query_en": "Larry Fink BlackRock CEO"
+          },
+          {
+            "anchor": "Larry Fink",
+            "query_en": "Larry Fink portrait"
+          },
+          {
+            "anchor": "BlackRock",
+            "query_en": "BlackRock headquarters building"
+          },
+          {
+            "anchor": "Reflexões sobre caminhos divergentes",
+            "query_en": "financial district skyscrapers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "306f72aa-29e6-41e5-8f73-382385de3242",
+      "title": "Aliança mais forte entre EUA e Japão é essencial para a dissuasão, afirma alto oficial dos Estados Unidos",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "PHP security vulnerabilities websites offline Japan United States",
+        "video_query_en": "US Japan alliance deterrence China North Korea Mt Fuji Dialogue",
         "images": [
           {
-            "anchor": "Abordagem cautelosa no Japão",
-            "query_en": "Japanese corporate office computer screen cybersecurity"
+            "anchor": "A importância da dissuasão conjunta",
+            "query_en": "US and Japan defense cooperation flags military meeting"
           },
           {
-            "anchor": "A estratégia americana de continuidade",
-            "query_en": "Silicon Valley software engineers working on code servers"
+            "anchor": "O contexto das ameaças regionais e tecnológicas",
+            "query_en": "Japan military defense technology cyberspace"
+          },
+          {
+            "anchor": "A reafirmação da parceria entre líderes governamentais, incluindo menções à primeira-ministra Takaichi e conversas de alto escalão às vésperas de cúpulas internacionais de grande relevância.",
+            "query_en": "Japan Prime Minister political meeting international summit"
+          },
+          {
+            "anchor": "A avaliação de medidas por parte do governo japonês para reclassificar setores estratégicos, como energia e inteligência artificial, dentro dos orçamentos de defesa, impulsionada por pressões de aliados ocidentais.",
+            "query_en": "Japan defense budget meeting technology artificial intelligence"
+          },
+          {
+            "anchor": "A realização de exercícios militares conjuntos entre Japão e Estados Unidos, que têm posicionado lançadores avançados de mísseis em regiões de linha de frente na Ásia.",
+            "query_en": "US Japan joint military drills missile launcher"
+          },
+          {
+            "anchor": "O debate contínuo sobre a governança de pesquisas científicas e tecnológicas com foco em ciberespaço e novas tecnologias de dissuasão.",
+            "query_en": "Cybersecurity defense research laboratory technology"
+          },
+          {
+            "anchor": "Perspectivas para a segurança regional",
+            "query_en": "Asia Pacific security map geopolitics defense"
           }
         ]
       }
     },
     {
-      "id": "bacf9653-5285-4285-8b08-b53a8709cfc0",
-      "title": "Mitsubishi Materials vai multiplicar por seis a produção de sensores térmicos devido à demanda por IA",
+      "id": "da9d2093-4302-4d13-b476-ffe479bebf77",
+      "title": "Antigo complexo químico notório no Japão atrai turistas após o anoitecer",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Yokkaichi industrial night cruise Japan",
+        "images": [
+          {
+            "anchor": "A produção no Complexo Industrial Kasumi",
+            "query_en": "Kasumi Industrial Complex Yokkaichi night"
+          },
+          {
+            "anchor": "Benzeno",
+            "query_en": "industrial chemical plant pipes night"
+          },
+          {
+            "anchor": "O passado e o presente da região",
+            "query_en": "Yokkaichi industrial waterfront Mie prefecture"
+          }
+        ]
+      }
+    },
+    {
+      "id": "afba93e6-b35c-405c-acf6-d81d6f9ba2dd",
+      "title": "Mulheres australianas trazem novas vozes para o indie pop",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Australian indie pop female artists music scene",
+        "images": [
+          {
+            "anchor": "A diversidade de estilos na nova cena australiana",
+            "query_en": "Australian indie pop singer live performance"
+          },
+          {
+            "anchor": "Juice Webster",
+            "query_en": "Juice Webster singer songwriter"
+          },
+          {
+            "anchor": "Gypsy Lee",
+            "query_en": "Gypsy Lee musician portrait"
+          },
+          {
+            "anchor": "Heleina Zara",
+            "query_en": "Heleina Zara pop singer"
+          },
+          {
+            "anchor": "nabii",
+            "query_en": "nabii indie pop artist"
+          },
+          {
+            "anchor": "Cruzando fronteiras musicais e geográficas",
+            "query_en": "indie pop music concert stage lights"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c489166-bf56-424c-be3b-a5ab3ae1ab01",
+      "title": "Fábrica da LGES na Polônia se aproxima do ponto de equilíbrio com retomada da utilização",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Mitsubishi Materials thermal sensor optical transceivers AI demand",
+        "video_query_en": "LG Energy Solution Wroclaw Poland plant electric vehicles energy storage",
         "images": [
           {
-            "anchor": "O papel dos termistores na infraestrutura de IA",
-            "query_en": "Mitsubishi Materials thermistor optical transceiver component"
+            "anchor": "Fatores da Recuperação e Demanda Europeia",
+            "query_en": "LG Energy Solution Wroclaw Poland factory production line"
           },
           {
-            "anchor": "Expansão na planta da Tailândia",
-            "query_en": "Thailand manufacturing industrial plant Asia"
+            "anchor": "Crescimento expressivo na demanda por veículos elétricos no continente europeu.",
+            "query_en": "Electric vehicle charging station Europe electric cars"
           },
           {
-            "anchor": "Movimentos recentes na cadeia de suprimentos",
-            "query_en": "semiconductor and optical supply chain Asia"
+            "anchor": "Expectativas para o Futuro Financeiro",
+            "query_en": "Energy storage system battery containers industrial facility"
           }
         ]
       }
     },
     {
-      "id": "990b4bfc-0138-4089-a133-b00c4e662ee1",
-      "title": "A ascensão automotiva da China impulsiona a guinada da indústria alemã para o setor de armas",
+      "id": "56287076-751b-4a27-b41f-a3dff3fd455f",
+      "title": "AIDC inaugura o maior microrrede industrial de Taiwan com capacidade de armazenamento de 9MW/54MWh",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Volkswagen factory Osnabrueck military defense conversion China auto competition",
+        "video_query_en": "AIDC microgrid energy storage Taiwan industrial",
         "images": [
           {
-            "anchor": "O cenário na fábrica da Volkswagen em Osnabrueck",
-            "query_en": "Volkswagen factory Osnabrueck Germany"
+            "anchor": "Detalhes do Projeto e Capacidade",
+            "query_en": "Aerospace Industrial Development Corporation facility Taichung"
           },
           {
-            "anchor": "A pressão competitiva chinesa e a reação europeia",
-            "query_en": "Chinese electric vehicles displayed in Europe trade show"
+            "anchor": "Impactos Operacionais e Sustentabilidade",
+            "query_en": "industrial energy storage microgrid system"
           }
         ]
       }
     },
     {
-      "id": "845e18c9-f35d-41b4-9269-3319fa31ec00",
-      "title": "Trump declara que conversará com Musk caso o Starlink da Ucrânia não seja corrigido",
+      "id": "205a5335-5f31-4c96-93cd-e0419d47fc84",
+      "title": "Bosch planeja transformar divisão automotiva em subsidiária independente para enfrentar concorrentes asiáticos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Donald Trump Elon Musk Starlink Ukraine White House",
+        "video_query_en": "Bosch Mobility spin off automotive business restructuring",
         "images": [
           {
-            "anchor": "Declarações na Casa Branca",
-            "query_en": "Donald Trump speaking to reporters White House Oval Office"
+            "anchor": "Reestruturação estratégica na gigante alemã",
+            "query_en": "Bosch corporate headquarters building Germany"
           },
           {
-            "anchor": "Defesa de Elon Musk e relações políticas",
-            "query_en": "Elon Musk White House meeting Donald Trump"
+            "anchor": "Pressão competitiva vinda da Ásia",
+            "query_en": "Electric vehicle manufacturing assembly line Asia"
           }
         ]
       }
     },
     {
-      "id": "b1dc56de-fa18-4548-a321-51e0e0cf2625",
-      "title": "Mini-PC Acemagic K1 com Ryzen e 16 GB de RAM entra em promoção na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Acemagic K1 Ryzen Mini PC review",
-        "images": [
-          {
-            "anchor": "Desconto no Acemagic K1",
-            "query_en": "Acemagic K1 Mini PC"
-          },
-          {
-            "anchor": "Contexto da Oferta",
-            "query_en": "Amazon delivery package box"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a5be4335-3383-4d3d-90c4-a99f215b44b7",
-      "title": "Economia na Ásia: O que as startups do Vale do Silício fazem de diferente",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Silicon Valley vs Asia tech startups Akito Tanaka Nikkei Asia",
-        "images": [
-          {
-            "anchor": "Diferenças entre ecossistemas tecnológicos",
-            "query_en": "Asia tech startup ecosystem city skyline"
-          },
-          {
-            "anchor": "O papel do Vale do Silício",
-            "query_en": "Silicon Valley tech company headquarters California"
-          },
-          {
-            "anchor": "Perspectivas para o setor econômico",
-            "query_en": "business analytics meeting tech economy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "131b9b3d-eee0-4f9e-b40a-148106148f9d",
-      "title": "Anzeige: Camping-Powerbank mit 90.000 mAh f�r unter 40 Euro",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Eletrônicos"
-    },
-    {
-      "id": "8749a1cc-9d64-4cda-8d82-ac2ad33d2f80",
-      "title": "Ação promocional na Amazon oferece duas baterias compatíveis com Makita por cerca de 43 euros",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Makita compatible batteries Amazon review",
-        "images": [
-          {
-            "anchor": "Oferta limitada de baterias compatíveis na Amazon",
-            "query_en": "Makita compatible batteries Amazon"
-          },
-          {
-            "anchor": "Contexto da divulgação e avisos de cookies",
-            "query_en": "Amazon online shopping website interface"
-          },
-          {
-            "anchor": "Kit com duas baterias compatíveis com Makita",
-            "query_en": "power tool batteries pack"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0a4037cd-b326-4b8c-874d-a51a6eddd828",
-      "title": "Nova Estratégia Ártica da União Europeia Propõe Cabo Submarino Transpolar contra Ameaças Híbridas",
+      "id": "682d4e33-9d98-42cf-b8cb-c2fa8ac51d5d",
+      "title": "SpaceX expande infraestrutura terrestre do Starlink para concorrer com operadoras móveis",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "EU Arctic strategy undersea cables telecommunications",
+        "video_query_en": "SpaceX Starlink terrestrial mobile infrastructure",
         "images": [
           {
-            "anchor": "O Projeto do Cabo Pan-Ártico",
-            "query_en": "Arctic ocean underwater fiber optic cable map"
+            "anchor": "A transição para infraestrutura terrestre",
+            "query_en": "SpaceX Starlink satellite dish"
           },
           {
-            "anchor": "Proteção contra Ameaças Híbridas",
-            "query_en": "subsea communication cables security control room"
+            "anchor": "Impacto no mercado de telecomunicações",
+            "query_en": "telecommunication tower mobile network"
           }
         ]
       }
     },
     {
-      "id": "e46a677e-9fa7-4d72-a993-3f5df19b5bdc",
-      "title": "[ITmedia News] タイムズカー、3000円の見舞金支払いへ 免許証画像漏えいの146万件対象 55億円の特損計上",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: 企業"
+      "id": "e9a46848-7b34-40a3-b435-9dc4ba77ff13",
+      "title": "Nvidia descarta temor de excesso de oferta de memória e mantém porta aberta para a CXMT",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia Jensen Huang GTC Berlin memory supply CXMT",
+        "images": [
+          {
+            "anchor": "A visão de Jensen Huang sobre o mercado de memórias",
+            "query_en": "Jensen Huang speaking at GTC conference"
+          },
+          {
+            "anchor": "Possibilidade de cooperação com a CXMT",
+            "query_en": "ChangXin Memory Technologies CXMT facility"
+          }
+        ]
+      }
     },
     {
-      "id": "3bfb539d-358b-46b5-81d8-170d8c73339d",
-      "title": "Desafios de adaptação do iPhone Duo: aplicativos populares e o problema das tarjas pretas",
+      "id": "52a9ba2d-f04b-4474-9517-7d6bb4f7f6dd",
+      "title": "Mercado de hardware traz novidades com fonte de 1650W e adaptador com fans Noctua",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Thermaltake 1650W power supply Noctua fan adapter",
+        "images": [
+          {
+            "anchor": "Nova fonte Thermaltake de 1650W",
+            "query_en": "Thermaltake high wattage power supply unit"
+          },
+          {
+            "anchor": "Adaptador WireView Pro II com fans Noctua",
+            "query_en": "Thermal Grizzly WireView Noctua fan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b63a416-5e91-4c07-b1f4-848c44048aa8",
+      "title": "Anthropic e AISI revelam relatórios sobre Claude Mythos 5 e ações contra desenvolvedores",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anthropic AI safety report Claude cybersecurity evaluation",
+        "images": [
+          {
+            "anchor": "Incidentes de ataques cibernéticos a desenvolvedores reais",
+            "query_en": "cybersecurity ethical hacking code security evaluation"
+          },
+          {
+            "anchor": "Avaliação de risco e revisão dos métodos de teste",
+            "query_en": "artificial intelligence safety testing and regulation lab"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ee6f5f6-f966-410e-a8be-cb765ff1a446",
+      "title": "もうプロンプトは書かない：Claude Codeの生みの親が明かす「ループエンジニアリング」の衝撃とAIの新時代",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Boris Cherny Claude Code loop engineering AI",
+        "images": [
+          {
+            "anchor": "人間は指示する役から退く：ループエンジニアリングの到来",
+            "query_en": "AI coding tool software development workspace"
+          },
+          {
+            "anchor": "莫大なトークン消費と暴走リスクが抱える課題",
+            "query_en": "AI server data center glowing lights"
+          },
+          {
+            "anchor": "コーディングから全ビジネスへ広がる影響",
+            "query_en": "futuristic business office AI automation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "46fe3106-9a59-4ab4-91cb-be17a8f9dd21",
+      "title": "Zepirion lança bolsa organizadora fina e compacta com gancho S de aço inoxidável e capacidade de 30kg",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iPhone Duo review folding smartphone apps optimization",
+        "video_query_en": "zepirion gadget pouch review",
         "images": [
           {
-            "anchor": "O desafio dos aplicativos populares e as tarjas pretas",
-            "query_en": "iPhone Duo folding screen black borders apps"
+            "anchor": "Conheça a nova bolsa organizadora de gadgets da zepirion",
+            "query_en": "zepirion gadget pouch black"
           },
           {
-            "anchor": "O impacto na experiência de uso diário",
-            "query_en": "iPhone Duo internal display smartphone user experience"
+            "anchor": "Resistência surpreendente com o mosquetão S em aço inoxidável",
+            "query_en": "stainless steel s carabiner hook"
+          },
+          {
+            "anchor": "Organização interna e praticidade para o cotidiano",
+            "query_en": "tech organizer pouch loaded with cables and power bank"
           }
         ]
       }
     },
     {
-      "id": "d240a5c6-1d00-4d54-ac7a-78f3ed5f2bb6",
-      "title": "Transforme um computador antigo em um NAS de alto desempenho com o TrueNAS Community Edition",
+      "id": "2e7470aa-845d-43f5-b53f-e7da9b9d7ee5",
+      "title": "Testando o cabo USB Type-C para HDMI de 1100 ienes da Daiso com um smartphone na TV",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Daiso USB Type C to HDMI cable review smartphone TV",
+        "images": [
+          {
+            "anchor": "Especificações técnicas e proposta do cabo",
+            "query_en": "USB Type C to HDMI cable product"
+          },
+          {
+            "anchor": "Teste prático com o Galaxy S25",
+            "query_en": "Galaxy S25 smartphone connected to monitor"
+          },
+          {
+            "anchor": "Vale a pena investir no acessório?",
+            "query_en": "cheap HDMI cable for smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c084922a-fe8f-4875-aa01-ebed023fc166",
+      "title": "A evolução da Siri AI e o futuro da experiência com o iPhone",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple Siri AI iOS features and multi app integration",
+        "images": [
+          {
+            "anchor": "O funcionamento integrado da nova Siri AI",
+            "query_en": "Apple iPhone running Siri AI interface"
+          },
+          {
+            "anchor": "Desafios pendentes e limitações iniciais",
+            "query_en": "iPhone screen showing settings and app notifications"
+          },
+          {
+            "anchor": "Perspectivas para a experiência do usuário",
+            "query_en": "Person using modern smartphone with voice assistant"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3accf387-0669-49fc-b54f-f58b89a9c50f",
+      "title": "Amazon oferece desconto de 1.280 ienes em SSD stick de 500 GB da Buffalo",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TrueNAS Community Edition setup guide network attached storage",
+        "video_query_en": "Buffalo stick SSD review",
         "images": [
           {
-            "anchor": "## O conceito de servidor de arquivos e NAS",
-            "query_en": "Network Attached Storage device setup"
-          },
-          {
-            "anchor": "## A proposta do sistema operacional TrueNAS",
-            "query_en": "TrueNAS operating system interface dashboard"
-          },
-          {
-            "anchor": "## Vantagens de reutilizar hardwares",
-            "query_en": "reused old desktop computer server hardware"
+            "anchor": "Desconto no SSD da Buffalo",
+            "query_en": "Buffalo stick SSD"
           }
         ]
       }
     },
     {
-      "id": "280f01dd-b751-44c3-ab61-75a9ae604748",
-      "title": "O incômodo arquivo oculto do Mac que irrita usuários do Windows e como eliminá-lo",
+      "id": "3e655aa2-565d-4184-83e2-16a20b585314",
+      "title": "Carregador de 67W da Anker com três portas registra queda de preço na Amazon",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how to delete ds store files mac windows",
+        "video_query_en": "Anker Prime Wall Charger 67W review",
         "images": [
           {
-            "anchor": "O problema dos arquivos ocultos entre sistemas",
-            "query_en": "macbook connected to windows pc"
+            "anchor": "Especificações técnicas e desempenho",
+            "query_en": "Anker Prime Wall Charger ports"
           },
           {
-            "anchor": "O famoso arquivo .DS_Store",
-            "query_en": "macos finder folder view"
-          },
-          {
-            "anchor": "Por que isso incomoda no Windows",
-            "query_en": "windows file explorer hidden files"
-          },
-          {
-            "anchor": "Métodos para a limpeza eficiente",
-            "query_en": "mac terminal command line"
+            "anchor": "Design compacto e tecnologias integradas",
+            "query_en": "Anker GaNPrime charger size comparison"
           }
         ]
       }
     },
     {
-      "id": "fd33eae0-0ebc-418b-a349-5186bb22b5c7",
-      "title": "Countdown de Zelda: Ocarina of Time: explorando o Templo da Água",
+      "id": "ba22df86-5088-4afc-a008-c2a89815dfb1",
+      "title": "Resumo de classificação indicativa do remake de The Legend of Zelda: Ocarina of Time para Switch 2 é publicado pela ESRB",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time Water Temple gameplay",
+        "video_query_en": "The Legend of Zelda Ocarina of Time Switch 2 ESRB rating",
         "images": [
           {
-            "anchor": "O dilema das Botas de Ferro e o design inteligente",
-            "query_en": "Zelda Ocarina of Time Water Temple central room"
+            "anchor": "Detalhes da Classificação e do Conteúdo",
+            "query_en": "The Legend of Zelda Ocarina of Time Switch 2 gameplay"
           },
           {
-            "anchor": "A progressão e a ajuda de Ruto",
-            "query_en": "Princess Ruto Water Temple Ocarina of Time"
+            "anchor": "Combates e Inimigos",
+            "query_en": "Link fighting enemies Ocarina of Time"
           },
           {
-            "anchor": "O combate contra Dark Link e o confronto final contra Morpha",
-            "query_en": "Dark Link Water Temple Ocarina of Time"
-          },
-          {
-            "anchor": "Perspectivas para o remake e próximos passos",
-            "query_en": "Nintendo Switch 2 Zelda Ocarina of Time"
+            "anchor": "Comparações com Versões Anteriores",
+            "query_en": "The Legend of Zelda Ocarina of Time 3D Nintendo 3DS"
           }
         ]
       }
     },
     {
-      "id": "553cff3e-534d-48c3-93ca-b9afbd3bce00",
-      "title": "7 aplicativos para iPhone Duo que aproveitam ao máximo o novo telefone dobrável da Apple",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "iPhone Duo foldable phone apps review",
-        "images": [
-          {
-            "anchor": "Netflix",
-            "query_en": "Netflix app running on foldable smartphone screen"
-          },
-          {
-            "anchor": "NYT Cooking",
-            "query_en": "NYT Cooking app on foldable phone display"
-          },
-          {
-            "anchor": "Fantastical",
-            "query_en": "Fantastical calendar app on foldable device"
-          },
-          {
-            "anchor": "Edits by Instagram",
-            "query_en": "video editing timeline app on foldable phone"
-          },
-          {
-            "anchor": "TikTok e Instagram",
-            "query_en": "social media split screen on foldable phone"
-          },
-          {
-            "anchor": "Toastie",
-            "query_en": "mobile game sandwich maker on foldable screen"
-          },
-          {
-            "anchor": "A experiência de tela dividida com múltiplos aplicativos",
-            "query_en": "split screen multitasking on foldable smartphone"
-          }
-        ]
-      }
-    },
-    {
-      "id": "767d73df-2c16-457a-8679-a96d69f83af9",
-      "title": "Prime Video anuncia Fallout Shelter: The Experiment, nova série de competição inspirada na franquia",
-      "category": "Filmes, Séries e Animações",
+      "id": "a7a2352f-dcfc-43e0-b0ac-b7a3a2166614",
+      "title": "Prime Video Anuncia 'Fallout Shelter: The Experiment', Série Competitiva Inspirada no Universo dos Jogos",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
         "video_query_en": "Fallout Shelter The Experiment Prime Video announcement",
         "images": [
           {
-            "anchor": "Detalhes de lançamento e formato",
-            "query_en": "Pip Boy Fallout Vault Boy animation"
+            "anchor": "Datas de Lançamento e Formato da Temporada",
+            "query_en": "Fallout Shelter The Experiment Prime Video"
           },
           {
-            "anchor": "Dinâmica do reality show e o prêmio milionário",
-            "query_en": "Vault Tec shelter fallout apocalypse"
+            "anchor": "A Dinâmica do Jogo e o Grande Prêmio",
+            "query_en": "Vault-Tec Vault Boy Fallout Prime Video"
           },
           {
-            "anchor": "Coincidências de datas e o Fallout Day",
-            "query_en": "Fallout wasteland post apocalyptic setting"
+            "anchor": "Coincidências de Datas e Conexões com a Franquia",
+            "query_en": "Pip-Boy Fallout series Prime Video"
           },
           {
-            "anchor": "Parcerias globais e comemorações da franquia",
-            "query_en": "Nuka Cola Fallout merchandise drink"
+            "anchor": "Parcerias Globais e Comemorações Especiais",
+            "query_en": "Nuka Cola Fallout Jones Soda"
+          },
+          {
+            "anchor": "Perspectivas Futuras para o Universo Fallout",
+            "query_en": "Fallout Bethesda Game Studios"
           }
         ]
       }
     },
     {
-      "id": "ababa8ac-5d6d-4cf3-bd97-c99d47ebbfff",
-      "title": "Bancos alertam contra o uso de agentes de IA com acesso a contas bancárias",
-      "category": "Segurança",
+      "id": "68c12bbd-6e73-4e16-9a47-bc2d06ad6472",
+      "title": "O iPhone Duo foi colocado na máquina de testes de dobráveis do CNET",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AI agents bank account security risks Charles Schwab Wells Fargo",
+        "video_query_en": "iPhone Duo foldable phone testing CNET",
         "images": [
           {
-            "anchor": "Os riscos de dar controle financeiro à IA",
-            "query_en": "artificial intelligence financial risk banking data security"
+            "anchor": "Como funciona a máquina Fold-a-Phone",
+            "query_en": "foldable phone testing machine mechanical rig"
           },
           {
-            "anchor": "A dificuldade de identificação e as barreiras dos bancos",
-            "query_en": "bank building exterior mobile banking security"
+            "anchor": "Componentes e segurança do equipamento",
+            "query_en": "industrial stepper motor robotic arm lab equipment"
           },
           {
-            "anchor": "Como proteger suas finanças e limitar o acesso de bots",
-            "query_en": "person checking smartphone banking app security settings"
-          },
-          {
-            "anchor": "Ative a autenticação de dois fatores imediatamente para reforçar a segurança dos dados financeiros.",
-            "query_en": "two factor authentication smartphone security code"
-          },
-          {
-            "anchor": "Revise com frequência as permissões concedidas a agentes de IA em aplicativos e sites.",
-            "query_en": "app permissions settings on smartphone screen"
-          },
-          {
-            "anchor": "Restrinja o acesso das ferramentas apenas ao que for estritamente necessário para a tarefa proposta.",
-            "query_en": "cybersecurity lock icon digital privacy protection"
-          },
-          {
-            "anchor": "Exija que o assistente solicite permissão explícita antes de interagir com novos dados ou recursos.",
-            "query_en": "user prompt authorization security notification mobile"
-          },
-          {
-            "anchor": "Utilize IA apenas para tarefas simples, como perguntas básicas, planejamento inicial ou sugestões de leitura, mantendo o controle manual sobre a movimentação de dinheiro.",
-            "query_en": "person using personal finance app on laptop"
+            "anchor": "O impacto da chegada da Apple ao mercado de dobráveis",
+            "query_en": "Apple iPhone Duo foldable smartphone"
           }
         ]
       }
     },
     {
-      "id": "615bb5d2-afe3-450b-9060-b521a98e4fe5",
-      "title": "Final Fantasy Resonance registra a segunda maior estreia da Square Enix para um RPG de turnos no Steam",
-      "category": "Games",
+      "id": "592f0bf9-dd81-4f61-9765-22087dec49de",
+      "title": "YouTube libera criação de feeds de vídeo personalizados no aplicativo móvel",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Final Fantasy Resonance Steam launch HD-2D gameplay",
+        "video_query_en": "YouTube custom video feeds mobile app feature",
         "images": [
           {
-            "anchor": "A chegada de Final Fantasy Resonance",
-            "query_en": "Final Fantasy Resonance HD-2D game art Square Enix"
+            "anchor": "Como funciona o novo menu horizontal e os feeds personalizados",
+            "query_en": "YouTube mobile app home screen menu interface"
           },
           {
-            "anchor": "Desempenho no Steam",
-            "query_en": "Steam platform logo interface gaming"
+            "anchor": "O Subs exibe conteúdos dos canais aos quais o usuário está inscrito.",
+            "query_en": "YouTube subscriptions tab mobile"
           },
           {
-            "anchor": "Perspectivas e o futuro da franquia",
-            "query_en": "Square Enix game development console setup"
+            "anchor": "Criando e modificando feeds personalizados",
+            "query_en": "Person using smartphone with YouTube app"
+          },
+          {
+            "anchor": "Limitações, requisitos e disponibilidade",
+            "query_en": "YouTube logo on smartphone screen"
           }
         ]
       }
     },
     {
-      "id": "36c5a49e-9ff3-4ff4-9247-391b388e698c",
-      "title": "Fãs da BioWare imploram para a criadora de Palworld comprar a franquia Mass Effect da EA",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "BioWare closure Mass Effect Palworld developer reaction",
-        "images": [
-          {
-            "anchor": "Os apelos dos fãs e a resposta da Pocketpair",
-            "query_en": "Palworld developer Pocketpair logo office"
-          },
-          {
-            "anchor": "A complexidade de comprar propriedades intelectuais",
-            "query_en": "Mass Effect game cover art BioWare"
-          },
-          {
-            "anchor": "A realidade do mercado e o futuro da franquia",
-            "query_en": "Electronic Arts EA corporate building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7a29670e-dd50-430b-aefc-15948eb7b65e",
-      "title": "Tim Sweeney compartilha postagem de 2000 em que classificou o fim da Looking Glass Studios como \"economicamente realista\"",
+      "id": "89b57a11-ffb7-47d5-86e1-c2b83be177af",
+      "title": "O iPod da Apple completa 25 anos e celebra legado com easter egg nostálgico",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tim Sweeney Epic Games interview economic realism",
+        "video_query_en": "Apple original iPod 2001 click wheel review history",
         "images": [
           {
-            "anchor": "A repercussão de uma declaração antiga de Tim Sweeney",
-            "query_en": "Tim Sweeney Epic Games CEO"
+            "anchor": "O impacto cultural e o marco tecnológico",
+            "query_en": "first generation apple ipod white earphones 2001"
           },
           {
-            "anchor": "A defesa do CEO da Epic Games",
-            "query_en": "Epic Games headquarters office"
+            "anchor": "As lembranças de Tony Fadell e o retorno da nostalgia",
+            "query_en": "tony fadell apple ipod designer"
           },
           {
-            "anchor": "Paralelos históricos e o destino de estúdios tradicionais",
-            "query_en": "BioWare studio logo building"
+            "anchor": "Alternativas para entusiastas e o mercado atual",
+            "query_en": "modern portable digital audio player mp3"
           },
           {
-            "anchor": "A visão de mercado e a seleção natural na indústria",
-            "query_en": "video game industry business analytics"
+            "anchor": "DAP Neo da Fosi Audio: um tocador moderno vendido por 80 dólares.",
+            "query_en": "fosi audio dap neo mp3 player"
+          },
+          {
+            "anchor": "Shanling M0s: citado entre os melhores tocadores de MP3.",
+            "query_en": "shanling m0s portable music player"
+          },
+          {
+            "anchor": "HiBy R4: dispositivo baseado no Android que figura entre os favoritos do setor.",
+            "query_en": "hiby r4 android audio player"
           }
         ]
       }
-    },
-    {
-      "id": "3dbf037a-2a5b-45fc-a8fb-fab904da63d0",
-      "title": "Veterano da Rockstar relembra os bastidores caóticos de GTA 3 e os desafios de desenvolvimento há 25 anos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 3 development history Obbe Vermeij Rockstar",
-        "images": [
-          {
-            "anchor": "Os problemas técnicos e a montagem de última hora",
-            "query_en": "Grand Theft Auto 3 gameplay classic PS2 open world"
-          },
-          {
-            "anchor": "A gênese caótica e o cancelamento de GTA 2.5",
-            "query_en": "Rockstar North Edinburgh development office retro"
-          },
-          {
-            "anchor": "Desenvolvimento orgânico e foco na diversão",
-            "query_en": "GTA 3 Claude character Rockstar Games"
-          },
-          {
-            "anchor": "A realidade da jornada de trabalho e o ceticismo inicial",
-            "query_en": "GTA 3 E3 2001 presentation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ac65e800-c8d2-412a-8d78-cf5c4b3fd221",
-      "title": "Designer de Zelda: Ocarina of Time revela que Navi deveria ser uma \"garota fofa\"",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time Navi design history Nintendo 64",
-        "images": [
-          {
-            "anchor": "A ideia original de Yoshiaki Koizumi",
-            "query_en": "Yoshiaki Koizumi Nintendo developer portrait"
-          },
-          {
-            "anchor": "Yoshiaki Koizumi",
-            "query_en": "Yoshiaki Koizumi Nintendo 64 era"
-          },
-          {
-            "anchor": "Fada tradicional",
-            "query_en": "The Legend of Zelda Ocarina of Time Navi fairy"
-          },
-          {
-            "anchor": "O nascimento do sistema de Z-targeting",
-            "query_en": "Zelda Ocarina of Time Nintendo 64 gameplay Z targeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4e099953-5351-4e3e-b235-bb4a2a8b468d",
-      "title": "Factorio 2.1: Última grande atualização do simulador de sucesso no Steam é lançada oficialmente",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Factorio 2.1 update gameplay trailer",
-        "images": [
-          {
-            "anchor": "As novidades da atualização 2.1",
-            "query_en": "Factorio elevated rails and base building gameplay"
-          },
-          {
-            "anchor": "O fim de um ciclo de desenvolvimento",
-            "query_en": "Factorio rocket launch and factory management"
-          },
-          {
-            "anchor": "Uma lenda do Steam construída sem descontos",
-            "query_en": "Factorio Steam page and positive reviews"
-          },
-          {
-            "anchor": "Próximos passos da desenvolvedora",
-            "query_en": "Wube Software team working on video game"
-          }
-        ]
-      }
-    },
-    {
-      "id": "502e0f19-7e12-4d4f-b27d-6a8e84e2cd23",
-      "title": "Tim Sweeney critica exigência da Valve sobre uso de IA na Steam e chama política de \"aborrecida\"",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tim Sweeney Epic Games AI disclosures Steam Valve controversy",
-        "images": [
-          {
-            "anchor": "A polêmica em torno das declarações de inteligência artificial na Steam",
-            "query_en": "Steam logo storefront video game digital platform"
-          },
-          {
-            "anchor": "O histórico de críticas e o apoio no setor",
-            "query_en": "Tim Sweeney Epic Games CEO portrait"
-          },
-          {
-            "anchor": "O posicionamento e as ações recentes da Epic Games",
-            "query_en": "Epic Games Launcher software interface"
-          },
-          {
-            "anchor": "O cenário nas plataformas e os desafios da indústria",
-            "query_en": "Unreal Engine logo game development"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6bfc7e98-cae4-497a-8f02-fc4c78aeb1cc",
-      "title": "Streamer de Arc Raiders é banido por hardware após questionar publicamente o motivo de não ter sido punido por uso de aimbot",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Arc Raiders gameplay aimbot ban developer response",
-        "images": [
-          {
-            "anchor": "O desafio público e a repercussão",
-            "query_en": "Arc Raiders game logo poster"
-          },
-          {
-            "anchor": "A confirmação do banimento e a defesa",
-            "query_en": "Twitch streamer setup glowing RGB lights"
-          },
-          {
-            "anchor": "A resposta da Embark Studios",
-            "query_en": "Embark Studios developer office workspace"
-          },
-          {
-            "anchor": "Reformas no sistema anti-traça",
-            "query_en": "Cybersecurity software code screen hacker defense"
-          },
-          {
-            "anchor": "Reações da comunidade",
-            "query_en": "Gaming community celebration esports arena crowd"
-          }
-        ]
-      }
-    },
-    {
-      "id": "28084bd1-52a5-40ad-97cb-f7dc1212ce43",
-      "title": "After Wednesday ends, Jenna Ortega will \"probably be off the TV for a while\"",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -727,54 +737,94 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "3d394a49-1592-4a6b-a918-a2e79f897715",
-      "title": "Carregador Anker de 140W com quatro portas atinge novo preço mínimo em oferta antecipada",
-      "category": "Smartphones",
+      "id": "5210d339-d167-40b1-b0d5-f59489ab8be5",
+      "title": "Spec Kit: Nova ferramenta separa especificações do código na engenharia de software com inteligência artificial",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anker 140W 4 port charger review",
+        "video_query_en": "Spec Kit software development AI agents",
         "images": [
           {
-            "anchor": "Detalhes da oferta e disponibilidade",
-            "query_en": "Anker 140W charger box and promotion"
+            "anchor": "O conceito por trás do Spec Kit",
+            "query_en": "software specification architecture diagram"
           },
           {
-            "anchor": "Especificações e recursos do carregador Anker",
-            "query_en": "Anker 140W 4 port USB charger display"
+            "anchor": "Testando a metodologia na prática",
+            "query_en": "coding on laptop with artificial intelligence"
+          },
+          {
+            "anchor": "Definição clara dos requisitos funcionais e estruturais da aplicação.",
+            "query_en": "software requirements document on computer screen"
+          },
+          {
+            "anchor": "Utilização de agentes de inteligência artificial para traduzir a especificação em um plano de projeto estruturado.",
+            "query_en": "AI project planning interface"
+          },
+          {
+            "anchor": "Geração automatizada de tarefas sequenciais para orientar o desenvolvimento.",
+            "query_en": "kanban board software development tasks"
+          },
+          {
+            "anchor": "Criação do código-fonte com base nas orientações previamente validadas.",
+            "query_en": "source code editor programming screen"
+          },
+          {
+            "anchor": "Vantagens do desenvolvimento orientado por especificações",
+            "query_en": "software developer reviewing code"
           }
         ]
       }
     },
     {
-      "id": "d48898bf-d5a4-4717-b8ce-b613bf38782f",
-      "title": "Os desafios e problemas enfrentados pelo programa do caça F-35",
-      "category": "Ciência",
+      "id": "f1ff856f-c3a6-4af2-82f7-9d58253ce1fa",
+      "title": "Bitchat é removido da App Store da Índia a pedido do governo, afirma Jack Dorsey",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "F 35 fighter jet program issues defense radar",
+        "video_query_en": "Jack Dorsey Bitchat removed India App Store",
         "images": [
           {
-            "anchor": "Detalhes do projeto F-35",
-            "query_en": "F 35 fighter jet in flight"
+            "anchor": "O aviso oficial da Apple",
+            "query_en": "Apple App Store logo on iPhone screen"
+          },
+          {
+            "anchor": "O enquadramento legal e o histórico de pressões",
+            "query_en": "New Delhi India government building exterior"
+          },
+          {
+            "anchor": "Os riscos apontados pelo Centro de Coordenação de Cibercrimes",
+            "query_en": "Cybersecurity digital data network abstract"
           }
         ]
       }
     },
     {
-      "id": "7875ccc2-1b3f-495b-bf96-b5a1cd826929",
-      "title": "Soberania Digital: Funcionários da UE criticam teste do Element Pro como backup para o Teams",
-      "category": "Empresas",
+      "id": "f81aa25a-f1f8-4f57-8c62-ebcc9476a6fe",
+      "title": "Astra e os novos limites da inteligência artificial: avanços e preocupações de segurança",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "European Commission digital sovereignty Microsoft Teams Element Pro",
+        "video_query_en": "OpenAI GPT-6 Astra launch safety concerns",
         "images": [
           {
-            "anchor": "O descontentamento interno na Comissão Europeia",
-            "query_en": "European Commission building Brussels office"
+            "anchor": "A chegada da era da Inteligência General Artificial",
+            "query_en": "OpenAI logo headquarters office building"
           },
           {
-            "anchor": "Os desafios da soberania digital na prática",
-            "query_en": "Element Pro secure messenger software interface"
+            "anchor": "Alinhamento e concorrência no setor",
+            "query_en": "Artificial intelligence software interface code"
+          },
+          {
+            "anchor": "Cancelamento de atualização e falhas de segurança",
+            "query_en": "Cybersecurity warning screen computer digital threat"
+          },
+          {
+            "anchor": "Atividades não sancionadas e relatórios oficiais",
+            "query_en": "AI security testing data cyberattack simulation"
+          },
+          {
+            "anchor": "O futuro do desenvolvimento tecnológico",
+            "query_en": "Sam Altman OpenAI CEO technology conference"
           }
         ]
       }
