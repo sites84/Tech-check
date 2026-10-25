@@ -1,702 +1,818 @@
 {
-  "updated_at": "2026-10-25T03:47:34.130Z",
+  "updated_at": "2026-10-25T09:49:49.421Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "d1b7a638-2ada-4cb8-a64b-f3529a78cbe0",
-      "title": "James Suckling’s Great Wines World Tokyo marks its third edition",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Estilo de Vida"
-    },
-    {
-      "id": "d6cedf91-3d40-4301-9f9f-0ac1a3156b09",
-      "title": "Kumaji, o cão resgatado que transborda alegria e busca um novo lar no Japão",
+      "id": "f9637d69-fe60-4191-a374-b774755851cf",
+      "title": "Famosa por preços baixos, rede de restaurantes Saizeriya aumenta valores no Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "dog adoption ARK Kansai Japan rescue dog",
+        "video_query_en": "Saizeriya restaurant price hike Japan",
         "images": [
           {
-            "anchor": "Conheça Kumaji",
-            "query_en": "friendly rescue dog waiting for adoption"
+            "anchor": "Um marco na história da rede",
+            "query_en": "Saizeriya restaurant exterior Japan"
           },
           {
-            "anchor": "Adaptação e Personalidade",
-            "query_en": "happy mixed breed dog jumping with joy"
-          },
-          {
-            "anchor": "Atividades Favoritas",
-            "query_en": "dog looking out car window happily"
+            "anchor": "Fatores por trás da decisão",
+            "query_en": "Saizeriya Italian food dishes menu"
           }
         ]
       }
     },
     {
-      "id": "e8e70d87-3f13-4f58-8017-83c034373bb2",
-      "title": "O impacto do calor extremo na Europa: 50 mil mortes e prejuízo bilionário no PIB",
+      "id": "a638b92f-4b4c-44d1-b860-e15423b47326",
+      "title": "A realidade por trás dos livros: a ficção japonesa sobre livrarias ganha tons mais sérios",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japanese bookstore fiction reality",
+        "images": [
+          {
+            "anchor": "O Fenômeno das Livrarias Aconchegantes",
+            "query_en": "independent bookstore in Tokyo"
+          },
+          {
+            "anchor": "O Contraste com a Realidade Japonesa",
+            "query_en": "busy Tokyo street salarymen"
+          },
+          {
+            "anchor": "Trabalho intenso e jornadas exaustivas que marcam a rotina de muitos profissionais no país asiático.",
+            "query_en": "Japanese office worker corporate stress"
+          },
+          {
+            "anchor": "Novas Perspectivas na Literatura",
+            "query_en": "modern Japanese book store interior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "144f11de-b839-49e6-95b8-d6b423f6c6ec",
+      "title": "A dramática caçada a urso em cidade japonesa pode ser um sinal do futuro",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Europe extreme summer heat deaths climate change study",
+        "video_query_en": "bear incident in Japanese city Utsunomiya",
         "images": [
           {
-            "anchor": "O impacto devastador do calor nas cidades europeias",
-            "query_en": "European city heatwave summer temperature"
+            "anchor": "O incidente em Utsunomiya",
+            "query_en": "Japanese city urban area"
           },
           {
-            "anchor": "As descobertas científicas sobre as mortes e o clima",
-            "query_en": "Imperial College London scientists research"
-          },
-          {
-            "anchor": "Impacto humano: Cerca de 50 mil mortes registradas em áreas urbanas europeias.",
-            "query_en": "hot summer day europe crowd city"
-          },
-          {
-            "anchor": "O reflexo na economia da União Europa",
-            "query_en": "European Union flag and financial district"
+            "anchor": "Um sinal para o futuro",
+            "query_en": "wild bear in Japan"
           }
         ]
       }
     },
     {
-      "id": "aa5e7f22-fe0a-4156-917d-5699f50a6b72",
-      "title": "Kim Jong Un realiza visita surpresa à China para fortalecer laços econômicos e comemorar aniversário histórico",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kim Jong Un visit China Dandong",
-        "images": [
-          {
-            "anchor": "Uma visita surpresa na fronteira",
-            "query_en": "Kim Jong Un Dandong border city China"
-          },
-          {
-            "anchor": "Mensagens e alianças históricas",
-            "query_en": "Wang Huning China official"
-          },
-          {
-            "anchor": "Transmissão de saudações",
-            "query_en": "Kim Jong Un meeting Chinese official"
-          },
-          {
-            "anchor": "Contexto histórico",
-            "query_en": "Korean War memorial China North Korea"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ed62d585-33ba-4b94-8a72-bc2cb9c99e9e",
-      "title": "Trump defende tarifas em comício e anuncia planos da Audi para fábrica nos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Donald Trump Audi factory US plant rally tariff speech",
-        "images": [
-          {
-            "anchor": "O anúncio da Audi",
-            "query_en": "Audi car factory United States"
-          },
-          {
-            "anchor": "Defesa das tarifas",
-            "query_en": "Donald Trump rally speech economy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ae933bf6-750b-4930-9282-bb2fe90522e9",
-      "title": "Quedas de lucros transformam derrocada de US$ 3,5 trilhões na bolsa da China em uma armadilha",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China stock market crash 3.5 trillion CSI 300 bear market",
-        "images": [
-          {
-            "anchor": "## O pessimismo toma conta do mercado chinês",
-            "query_en": "Shanghai stock exchange building trading floor china"
-          },
-          {
-            "anchor": "## Perdas bilionárias e entrada em 'bear market'",
-            "query_en": "China stock market red numbers falling graph"
-          },
-          {
-            "anchor": "- CSI 300 Index: entrou oficialmente em bear market após intensificação das perdas na última semana.",
-            "query_en": "CSI 300 index stock market chart falling"
-          },
-          {
-            "anchor": "- Índice de tecnologia em Hong Kong: aproxima-se perigosamente de apagar todos os ganhos acumulados desde o amplo pacote de apoio ao crescimento lançado por Pequim dois anos atrás.",
-            "query_en": "Hong Kong skyline financial district stock exchange"
-          },
-          {
-            "anchor": "## Impacto nos lucros corporativos e setores afetados",
-            "query_en": "Electric vehicle manufacturing line china"
-          },
-          {
-            "anchor": "- Setor bancário: enfrenta forte pressão sobre as margens e a rentabilidade devido ao cenário macroeconômico.",
-            "query_en": "Chinese currency yuan banknotes financial charts"
-          },
-          {
-            "anchor": "- Fabricantes de carros elétricos: sofrem com a concorrência acirrada e o esmagamento das margens de lucro.",
-            "query_en": "Modern electric cars production line in China"
-          },
-          {
-            "anchor": "- Desenvolvedores de modelos de inteligência artificial: também registram impactos severos em seus resultados financeiros em meio à dinâmica atual do mercado.",
-            "query_en": "Artificial intelligence server room technology data center"
-          },
-          {
-            "anchor": "## A postura do governo de Pequim",
-            "query_en": "Beijing skyline government buildings china"
-          }
-        ]
-      }
-    },
-    {
-      "id": "57caea37-e305-48f3-a1e6-d9704e735fd6",
-      "title": "Respostas mencionando cidadãos estrangeiros disparam na conta de Sanae Takaichi no X",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanae Takaichi X social media foreign citizens Japan",
-        "images": [
-          {
-            "anchor": "Crescimento nas menções a estrangeiros",
-            "query_en": "Sanae Takaichi official portrait Japan prime minister"
-          },
-          {
-            "anchor": "Comentários repetitivos e desconectados",
-            "query_en": "Smartphone showing X social media app"
-          },
-          {
-            "anchor": "Contexto demográfico no Japão",
-            "query_en": "Tokyo cityscape busy street Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "638b91e9-fdd1-4842-b209-5ec1b4479daf",
-      "title": "Falha de segurança em PHP descoberta por IA expõe o peso do 'débito técnico'",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI cyber capabilities PHP software vulnerability Michael Daniel",
-        "images": [
-          {
-            "anchor": "Uma corrida contra o tempo na segurança digital",
-            "query_en": "cybersecurity server room digital protection"
-          },
-          {
-            "anchor": "O papel da inteligência artificial na descoberta",
-            "query_en": "artificial intelligence code analysis screen"
-          },
-          {
-            "anchor": "Especialistas avaliam o impacto no cenário global",
-            "query_en": "cyber threat alliance cybersecurity expert interview"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f61b4b70-8d74-421f-93a2-a00bb44e9d81",
-      "title": "Ami Nakai captures second consecutive title at Grand Prix de France",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "fcb870e8-0621-4204-b155-2b1e79ea4e7a",
-      "title": "GMO pede ao governo do Japão medidas de ciberdefesa ativa após ataque",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GMO Internet cyberattack active cyberdefense Japan",
-        "images": [
-          {
-            "anchor": "O pedido de ciberdefesa ativa",
-            "query_en": "Japanese government building Tokyo cyber security"
-          },
-          {
-            "anchor": "Impacto nos servidores de câmbio FX",
-            "query_en": "server room data center technology"
-          },
-          {
-            "anchor": "Compensação aos usuários afetados",
-            "query_en": "financial trading office computer screens"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e4fa7c1e-12bf-4064-b745-1bfb8327e097",
-      "title": "A sucessão de Stephen Schwarzman na Blackstone e o futuro da liderança corporativa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Stephen Schwarzman Blackstone succession Jon Gray",
-        "images": [
-          {
-            "anchor": "O planejamento da sucessão na Blackstone",
-            "query_en": "Stephen Schwarzman Blackstone corporate headquarters"
-          },
-          {
-            "anchor": "O papel de Jon Gray na organização",
-            "query_en": "Jon Gray Blackstone president"
-          },
-          {
-            "anchor": "Jon Gray atua como presidente e diretor de operações da Blackstone desde 2018.",
-            "query_en": "Jon Gray Blackstone COO"
-          },
-          {
-            "anchor": "A longevidade na liderança corporativa",
-            "query_en": "Blackstone office building New York"
-          }
-        ]
-      }
-    },
-    {
-      "id": "817cb650-ce9e-4ed4-a8e4-8053e37c9ec4",
-      "title": "China exorta EUA a interromper expansão de restrições de investimentos externos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US China investment restrictions outbound biotech high performance computing",
-        "images": [
-          {
-            "anchor": "A Reação Oficial de Pequim",
-            "query_en": "Beijing China commerce ministry building sign"
-          },
-          {
-            "anchor": "- Oposição formal do governo chinês à ampliação das restrições pelo Tesouro dos EUA",
-            "query_en": "US and China flags side by side international relations"
-          },
-          {
-            "anchor": "- Classificação das novas regras de biotecnologia e computação como medidas discriminatórias",
-            "query_en": "Biotechnology research laboratory high tech equipment"
-          },
-          {
-            "anchor": "- Alerta sobre prejuízos iminentes para as relações econômicas bilaterais entre as duas potências",
-            "query_en": "Global economic trade shipping container port"
-          },
-          {
-            "anchor": "- Acusação de que a proposta contraria o entendimento direto alcançado entre os presidentes dos dois países",
-            "query_en": "White House Washington DC security barrier flags"
-          },
-          {
-            "anchor": "O Programa de Segurança dos Estados Unidos",
-            "query_en": "US Department of the Treasury building Washington DC"
-          },
-          {
-            "anchor": "- Programa de segurança para investimentos externos gerido pelo Departamento do Tesouro dos EUA",
-            "query_en": "US dollar currency capital investment financial district"
-          },
-          {
-            "anchor": "- Inclusão da biotecnologia como novo setor restrito na pauta de investimentos",
-            "query_en": "DNA sequencing biotechnology research facility"
-          },
-          {
-            "anchor": "- Expansão das regras para computação de alto desempenho e sistemas hipersônicos",
-            "query_en": "Supercomputer server rack high performance computing"
-          },
-          {
-            "anchor": "- Restrições prévias já existentes envolvendo semicondutores, tecnologias quânticas e inteligência artificial",
-            "query_en": "Advanced semiconductor silicon computer chip"
-          },
-          {
-            "anchor": "Consequências e Possíveis Respostas",
-            "query_en": "International trade negotiations summit meeting room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "edec722e-f2e5-43a4-aa7a-800f19b944a3",
-      "title": "Coalizão liderada pela Arábia Saudita intercepta mísseis lançados pelos Houthis",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Saudi coalition intercepts missiles Houthis Yemen",
-        "images": [
-          {
-            "anchor": "Os Alvos e as Ações dos Houthis",
-            "query_en": "Houthi military spokesperson Yahya Saree press conference"
-          },
-          {
-            "anchor": "Resposta da Coalizão e Queda de Detritos",
-            "query_en": "Saudi Civil Defense operations debris"
-          },
-          {
-            "anchor": "Desdobramentos em Aden e Fim da Trégua",
-            "query_en": "Aden port Yemen coastline"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fb67ca2c-a6f1-45a2-94fc-f90b1e835f66",
-      "title": "Footloose in Davao: Cracking open the Philippines' 'durian city'",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Viagens"
-    },
-    {
-      "id": "dda7cbcf-a3d2-4542-bec8-75155f9e86b3",
-      "title": "Novo aeroporto internacional de Sydney abre as portas para passageiros na Austrália",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Western Sydney International Airport opens to passengers",
-        "images": [
-          {
-            "anchor": "A inauguração do novo marco da aviação australiana",
-            "query_en": "Western Sydney International Airport exterior terminal"
-          },
-          {
-            "anchor": "Vantagens operacionais e flexibilidade de horários",
-            "query_en": "Western Sydney International Airport runway control tower"
-          },
-          {
-            "anchor": "Primeiros voos e declarações oficiais",
-            "query_en": "Jetstar plane at Western Sydney International Airport"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2b629339-aee9-44a7-bb24-d5735a70c71c",
-      "title": "Bananas com pontas vermelhas da Austrália tornam-se a primeira exportação ecorgânica do país",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Australian ecoganic bananas red tipped farming",
-        "images": [
-          {
-            "anchor": "O novo método de cultivo e as características do produto",
-            "query_en": "ecoganic banana plantation Australia"
-          },
-          {
-            "anchor": "Frutas mais doces em comparação com as variedades convencionais disponíveis no mercado.",
-            "query_en": "red-tipped ecoganic bananas wax"
-          },
-          {
-            "anchor": "Expansão para o mercado internacional e exportação para o Japão",
-            "query_en": "exporting bananas to Japan port"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a5ff2823-4769-4fe7-95a5-5c0ad1d8204c",
-      "title": "Turistas sul-coreanos impulsionam pequena cidade japonesa em busca de resort de golfe",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korean golfers Japan resort Nakagawa Tochigi",
-        "images": [
-          {
-            "anchor": "O Fenômeno em Nakagawa e o Impacto no Turismo",
-            "query_en": "Nakagawa Tochigi countryside landscape Japan"
-          },
-          {
-            "anchor": "Desafios na Infraestrutura de Transporte",
-            "query_en": "Japanese countryside local transportation bus train station"
-          },
-          {
-            "anchor": "O crescimento acelerado do turismo gerou desafios de transporte na região.",
-            "query_en": "Golf resort hotel exterior Japan"
-          },
-          {
-            "anchor": "A infraestrutura de deslocamento local precisa se adaptar para absorver o fluxo contínuo de visitantes vindos de Tóquio e de outras localidades.",
-            "query_en": "Golfers playing on green course Japan"
-          },
-          {
-            "anchor": "Há uma demanda crescente por soluções de mobilidade que conectem eficientemente os campos de golfe, hotéis e as áreas centrais da cidade.",
-            "query_en": "Hotel Bato Uguisu no Mori Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d9048bdd-754f-4b4d-bb3b-799692a99d24",
-      "title": "Pressionada por EVs chineses no Sudeste Asiático, Mitsubishi Motors faz guinada arriscada",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mitsubishi Motors electric vehicles Chinese competition Southeast Asia",
-        "images": [
-          {
-            "anchor": "O avanço da concorrência chinesa no Sudeste Asiático",
-            "query_en": "Mitsubishi XForce car Southeast Asia"
-          },
-          {
-            "anchor": "Os desafios da guinada para os mercados maduros",
-            "query_en": "Mitsubishi Motors dealership United States"
-          },
-          {
-            "anchor": "Foco na expansão da participação de mercado nos Estados Unidos.",
-            "query_en": "Mitsubishi dealership US showroom"
-          },
-          {
-            "anchor": "Aumento dos esforços comerciais no mercado interno do Japão.",
-            "query_en": "Mitsubishi Motors headquarters Tokyo Japan"
-          },
-          {
-            "anchor": "Reestruturação de portfólio para se diferenciar em regiões altamente competitivas.",
-            "query_en": "Mitsubishi SUV lineup car show"
-          }
-        ]
-      }
-    },
-    {
-      "id": "486f62df-4695-41a0-b098-65cf0242af58",
-      "title": "O impacto da falência de fornecedores de equipamentos de bateria e os desafios do setor",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "battery equipment manufacturer bankruptcy supply chain LG",
-        "images": [
-          {
-            "anchor": "Os bastidores da indústria de baterias",
-            "query_en": "battery manufacturing equipment factory"
-          },
-          {
-            "anchor": "A relação com gigantes do setor",
-            "query_en": "LG Energy Solution battery facility"
-          },
-          {
-            "anchor": "Os riscos da cadeia de suprimentos",
-            "query_en": "industrial battery supply chain logistics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5b520d22-1fa5-4020-8d3b-2384bedc1db8",
-      "title": "Hyosung Heavy Industries planeja desenvolver tecnologia HVDC de 2GW até 2027",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hyosung Heavy Industries HVDC transmission technology",
-        "images": [
-          {
-            "anchor": "O Anúncio da Tecnologia HVDC",
-            "query_en": "Hyosung Heavy Industries HVDC system"
-          },
-          {
-            "anchor": "Reunião Estratégica em Seul",
-            "query_en": "Korea Chamber of Commerce and Industry Seoul"
-          }
-        ]
-      }
-    },
-    {
-      "id": "34a766d0-de2f-4da9-95fe-6eabe04d7ef6",
-      "title": "Coway conquista o Bronze no Good Design Awards 2026 com a BEREX R7 Stretching Motion Bed",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Coway BEREX Stretching Motion Bed Good Design Awards",
-        "images": [
-          {
-            "anchor": "O reconhecimento no Good Design Awards 2026",
-            "query_en": "Coway BEREX R7 Stretching Motion Bed"
-          },
-          {
-            "anchor": "Detalhes sobre a competição de design",
-            "query_en": "Good Design Awards South Korea trophy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de88ccd2-0829-43be-a820-c36ba7e68367",
-      "title": "Hanwha Power conquista aprovação inicial para navio porta-contêineres movido a bateria",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Power battery powered container ship ABS approval",
-        "images": [
-          {
-            "anchor": "O anúncio da Hanwha Power",
-            "query_en": "Hanwha Power container ship design"
-          },
-          {
-            "anchor": "Papel da American Bureau of Shipping",
-            "query_en": "American Bureau of Shipping ship design standards"
-          }
-        ]
-      }
-    },
-    {
-      "id": "53e23999-8c60-4f7b-aba7-98cc9971116e",
-      "title": "Funcionários da Hanwha Vision removem plantas invasoras no córrego em Seongnam",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Vision volunteer cleanup Seongnam",
-        "images": [
-          {
-            "anchor": "Ação de voluntariado ambiental",
-            "query_en": "Hanwha Vision volunteers cleaning stream"
-          },
-          {
-            "anchor": "Esforço concentrado e resultados obtidos",
-            "query_en": "volunteers removing invasive plants stream Korea"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0b7fba8f-bd8b-40bf-8d20-cb0a653d51f4",
-      "title": "HD Hyundai fecha acordo para criar joint venture de construção naval nos Estados Unidos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "HD Hyundai Kiewit shipbuilding joint venture US shipyard",
-        "images": [
-          {
-            "anchor": "Parceria estratégica com a Kiewit",
-            "query_en": "HD Hyundai corporate building Seoul"
-          },
-          {
-            "anchor": "Cronograma e planos para o estaleiro inteligente",
-            "query_en": "Modern smart shipyard technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f20f21d3-1504-4bfc-b56a-046821e06877",
-      "title": "Schneider Electric Lança Módulo de Energia de 2.5MW para Data Centers de Inteligência Artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Schneider Electric 2.5MW Power Module AI Data Centers Nvidia",
-        "images": [
-          {
-            "anchor": "O Novo Módulo de Energia da Schneider Electric",
-            "query_en": "Schneider Electric power module data center"
-          },
-          {
-            "anchor": "Parceria e Integração com a Nvidia",
-            "query_en": "Nvidia GB300 NVL72 server system"
-          },
-          {
-            "anchor": "Alta Densidade de Potência",
-            "query_en": "data center rack power density"
-          },
-          {
-            "anchor": "Módulos de energia pré-fabricados de nova geração",
-            "query_en": "prefabricated power module electrical equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "75e409e6-99f8-4764-b772-a36e4af48baa",
-      "title": "PNT vai expor equipamentos roll-to-roll em feiras de telas e filmes na China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "PNT roll to roll equipment display manufacturing",
-        "images": [
-          {
-            "anchor": "Estratégia de expansão no mercado chinês",
-            "query_en": "industrial roll to roll manufacturing machine factory"
-          },
-          {
-            "anchor": "Participação em feiras do setor em 2026",
-            "query_en": "technology exhibition booth display exhibition hall"
-          },
-          {
-            "anchor": "C-TOUCH & DISPLAY SHENZHEN 2026",
-            "query_en": "touch screen display exhibition convention center"
-          },
-          {
-            "anchor": "FILM & TAPE EXPO 2026",
-            "query_en": "functional film industrial manufacturing exhibition"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e5422813-9b77-4af0-8115-48e69305f5eb",
-      "title": "SM Kukil é escolhida como licitante preferencial para aquisição da Daejin Machinery",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SM Group Daejin Machinery acquisition battery equipment",
-        "images": [
-          {
-            "anchor": "O anúncio da SM Group",
-            "query_en": "SM Group corporate building office"
-          },
-          {
-            "anchor": "Perfil da Daejin Machinery",
-            "query_en": "automated battery module manufacturing factory"
-          },
-          {
-            "anchor": "Importância para a LG Energy Solution",
-            "query_en": "LG Energy Solution energy storage system battery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "58949f54-b991-4576-876e-c2276296f4dc",
-      "title": "CIS Chemical recebe comenda do Ministério de Comércio, Indústria e Recursos da Coreia do Sul",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "CIS Chemical MOTIR Minister Commendation battery minerals South Korea",
-        "images": [
-          {
-            "anchor": "Reconhecimento na Indústria de Economia Circular",
-            "query_en": "South Korea industry circular economy Ministry of Trade Industry and Resources"
-          },
-          {
-            "anchor": "Tecnologias para Minerais de Baterias",
-            "query_en": "battery mineral refining recycling technology laboratory"
-          },
-          {
-            "anchor": "O Evento de Premiação",
-            "query_en": "South Korean government award ceremony minister commendation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5bd9ac19-ea2d-4323-a7ce-d9b4dd6b087e",
-      "title": "Vazamento de dados no portal da censura cinematográfica na Índia expõe centenas de aplicativos e documentos sensíveis",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Central Board of Film Certification data breach e-Cinepramaan",
-        "images": [
-          {
-            "anchor": "Origem da falha no portal e-Cinepramaan",
-            "query_en": "CBFC e-Cinepramaan portal interface"
-          },
-          {
-            "anchor": "Documentos comerciais e criativos expostos",
-            "query_en": "film shooting scripts and distribution agreements"
-          }
-        ]
-      }
-    },
-    {
-      "id": "602217fc-ae6f-4164-9631-c27fc895a67e",
-      "title": "Moonshot AI contrata em Singapura e sinaliza estratégia de monetização internacional",
+      "id": "4f265fd0-89e8-4aef-a771-a4453c7fc9f2",
+      "title": "A desmotivação profissional chega à Índia e a inteligência artificial pode agravar a situação",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Moonshot AI Singapore international expansion strategy",
+        "video_query_en": "artificial intelligence quiet quitting workplace engagement india",
         "images": [
           {
-            "anchor": "A expansão internacional da Moonshot AI",
-            "query_en": "Singapore skyline corporate business district"
+            "anchor": "O cenário atual de engajamento corporativo",
+            "query_en": "corporate office workers India workplace stress"
+          }
+        ]
+      }
+    },
+    {
+      "id": "821ea7ce-751a-4794-8984-8f3918c57d88",
+      "title": "Brewers viram placar sobre os Rays e ampliam vantagem na World Series",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Milwaukee Brewers Tampa Bay Rays World Series Game 2 highlights",
+        "images": [
+          {
+            "anchor": "Uma virada memorável em Milwaukee",
+            "query_en": "Milwaukee Brewers baseball stadium night game"
           },
           {
-            "anchor": "O modelo de negócios dos desenvolvedores chineses",
-            "query_en": "artificial intelligence data center server room"
+            "anchor": "O momento decisivo no sétimo inning",
+            "query_en": "Brice Turang baseball player batting"
+          },
+          {
+            "anchor": "Rumo a St. Petersburg para o Jogo 3",
+            "query_en": "Tropicana Field St Petersburg Florida baseball stadium"
+          }
+        ]
+      }
+    },
+    {
+      "id": "342b3e2a-5e8e-462a-8242-111ac207acda",
+      "title": "Oposição no Japão exige explicações de Sanae Takaichi sobre projeto de corte de impostos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sanae Takaichi consumption tax cut debate opposition",
+        "images": [
+          {
+            "anchor": "O debate televisivo e as exigências da oposição",
+            "query_en": "Japanese parliament building Tokyo politics"
+          },
+          {
+            "anchor": "Críticas à falta de transparência e números específicos",
+            "query_en": "Yasuhiro Nakagawa Komeito party Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b1aefa65-82fb-4789-b17d-c0d16860e2c6",
+      "title": "Fuzileiro naval dos EUA é indiciado por latrocínio em Okinawa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US Marine Okinawa murder case news",
+        "images": [
+          {
+            "anchor": "O indiciamento do militar norte-americano",
+            "query_en": "Naha District Public Prosecutors Office Okinawa"
+          },
+          {
+            "anchor": "Detalhes do crime segundo a acusação",
+            "query_en": "Naha city Okinawa Japan hotel street"
+          },
+          {
+            "anchor": "Posicionamento oficial da promotoria",
+            "query_en": "US Marine Corps Air Station Futenma gate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a6b60e07-1aae-40ed-a979-046f6191c04b",
+      "title": "How this long-term resident avoids the annoying tourist label in Japan",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+    },
+    {
+      "id": "306a0a90-f2ae-4ed1-9f2c-4c4c7c8ae860",
+      "title": "O que a Ásia pode fazer para evitar pontos de inflexão climáticos cruciais?",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Global Tipping Points Conference Malaysia climate change",
+        "images": [
+          {
+            "anchor": "A Conferência Global de Pontos de Inflexão na Malásia",
+            "query_en": "Global Tipping Points Conference Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9865ddcd-5c95-4af0-ad1c-7adfe6d7c0f2",
+      "title": "China's fifth plenum, Jio listing on Indian bourses, BOJ meeting",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Negócios"
+    },
+    {
+      "id": "7e4d16e5-6bb2-4c07-a59f-8aae63d0aea9",
+      "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
+    },
+    {
+      "id": "2c887a21-3d95-4f5a-9d8e-141609f92ba1",
+      "title": "Fabricante japonesa de salgadinhos Kameda Seika deixa a Índia e direciona foco para a América do Norte",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Kameda Seika rice crackers market strategy North America India",
+        "images": [
+          {
+            "anchor": "O Desafio de Conquistar o Consumidor Indiano",
+            "query_en": "Indian market retail consumer shopping"
+          },
+          {
+            "anchor": "Mudança de Rota Estratégica para a América do Norte",
+            "query_en": "North America business expansion corporate strategy"
+          },
+          {
+            "anchor": "Perspectivas Futuras na Ásia do Sul",
+            "query_en": "Japanese rice crackers snack food production"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2e8a0c55-481e-4aef-ac12-1a65e8156d81",
+      "title": "Oportunidades no setor de tecnologia: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "IT jobs data analytics software development operations",
+        "images": [
+          {
+            "anchor": "Áreas de atuação e novas vagas",
+            "query_en": "IT professionals working in data analytics and software development"
+          },
+          {
+            "anchor": "Data Analytics",
+            "query_en": "Data analytics dashboard graphs and charts"
+          },
+          {
+            "anchor": "Desenvolvimento e CI/CD",
+            "query_en": "Software development code on computer screen"
+          },
+          {
+            "anchor": "IT-Security",
+            "query_en": "Cybersecurity digital shield data protection"
+          },
+          {
+            "anchor": "Operations Management",
+            "query_en": "IT operations management server room monitors"
+          },
+          {
+            "anchor": "Perspectivas na carreira de TI",
+            "query_en": "Professional IT worker in modern office environment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d8bbe6b9-0d01-4c82-b4de-035b8524ad11",
+      "title": "Legendárias Batalhas contra Chefes: Desvendando o Combate contra Dragões nos Videogames",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "epic dragon boss fights in video games history",
+        "images": [
+          {
+            "anchor": "A Fasinação pelos Dragões nos Jogos",
+            "query_en": "fantasy dragon boss fight video game"
+          },
+          {
+            "anchor": "O Que Define um Bom Combate",
+            "query_en": "massive dragon enemy action RPG game"
+          },
+          {
+            "anchor": "O Legado nos RPGs e Aventura",
+            "query_en": "World of Warcraft dragon boss encounter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "44ec3369-da48-4da0-90ac-7306ae052ef7",
+      "title": "Boa documentação de software não precisa explicar cada clique",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "software documentation best practices ux design",
+        "images": [
+          {
+            "anchor": "O papel dos conceitos na documentação moderna",
+            "query_en": "software documentation UX concepts"
+          },
+          {
+            "anchor": "Desafios para redatores técnicos e designers de UX",
+            "query_en": "technical writer and UX designer collaboration"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e5fd6895-23cd-4275-a346-90335f8f0330",
+      "title": "Teste de resistência de JerryRigEverything revela vulnerabilidades do iPhone Duo a areia",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "JerryRigEverything iPhone durability test sand",
+        "images": [
+          {
+            "anchor": "O teste de resistência do canal JerryRigEverything",
+            "query_en": "JerryRigEverything YouTube channel logo smartphone test"
+          },
+          {
+            "anchor": "O impacto fatal da areia e das unhas",
+            "query_en": "iPhone screen scratched by sand durability test"
+          }
+        ]
+      }
+    },
+    {
+      "id": "734e4e01-5a9a-43f3-af29-f99a1c95d0b6",
+      "title": "Bomba de ar elétrica mais popular está em oferta na Amazon",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "amazon electric air pump review",
+        "images": [
+          {
+            "anchor": "Detalhes da oferta na plataforma",
+            "query_en": "amazon website online shopping interface"
+          },
+          {
+            "anchor": "Funcionalidade e praticidade do equipamento",
+            "query_en": "electric portable air pump for tires"
+          },
+          {
+            "anchor": "Considerações sobre a compra",
+            "query_en": "online shopping delivery package"
+          }
+        ]
+      }
+    },
+    {
+      "id": "53309b45-88c4-4d87-9604-85009539fca5",
+      "title": "Call of Duty: Modern Warfare 4 recebe nova atualização no Switch 2 com patch notes detalhadas",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Call of Duty Modern Warfare 4 gameplay update patch",
+        "images": [
+          {
+            "anchor": "Detalhes globais e melhorias de interface",
+            "query_en": "Call of Duty Modern Warfare 4 menu interface"
+          },
+          {
+            "anchor": "Ajustes em armas e equipamentos",
+            "query_en": "Call of Duty Modern Warfare 4 gunsmith weapon customization"
+          },
+          {
+            "anchor": "Atualizações focadas no Multiplayer",
+            "query_en": "Call of Duty Modern Warfare 4 multiplayer gameplay map"
+          },
+          {
+            "anchor": "Correções e ajustes no modo DMZ",
+            "query_en": "Call of Duty Modern Warfare 4 DMZ mode gameplay"
+          },
+          {
+            "anchor": "Questões conhecidas e contexto no Switch 2",
+            "query_en": "Nintendo Switch 2 console hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b7d9ae2b-2447-4fda-90cd-32bd5e426399",
+      "title": "Franquia Tomb Raider celebra 30 anos com surpresas no Switch 2 e trailer especial da Aspyr",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tomb Raider 30th anniversary trailer Aspyr",
+        "images": [
+          {
+            "anchor": "Chegada surpresa ao Switch 2",
+            "query_en": "Shadow of the Tomb Raider Definitive Edition gameplay"
+          },
+          {
+            "anchor": "O legado de trinta anos e promoções",
+            "query_en": "Lara Croft classic Tomb Raider 1996"
+          },
+          {
+            "anchor": "O futuro da franquia",
+            "query_en": "Crystal Dynamics Tomb Raider game development"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a035a843-3331-4131-acb9-81e4f6ef7193",
+      "title": "Darkest Dungeon II ganha edição dedicada para o Nintendo Switch 2 com melhorias técnicas",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Darkest Dungeon II Nintendo Switch 2 Edition",
+        "images": [
+          {
+            "anchor": "Detalhes de preço e opções de atualização",
+            "query_en": "Darkest Dungeon II Nintendo Switch"
+          },
+          {
+            "anchor": "Novidades técnicas e recursos da nova versão",
+            "query_en": "Darkest Dungeon II gameplay combat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "56d055ca-4f06-4bfe-bfc3-55694a78d053",
+      "title": "Donos do iPhone Duo vão notar melhorias visuais em aplicativos em breve",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo foldable review app display scaling",
+        "images": [
+          {
+            "anchor": "O desafio dos dobráveis e a experiência anterior com o Android",
+            "query_en": "Samsung Galaxy Z Fold foldable screen apps"
+          },
+          {
+            "anchor": "A vantagem de um design unificado e o fator proporção",
+            "query_en": "Apple iPhone Duo foldable smartphone screen"
+          },
+          {
+            "anchor": "Lembranças da adaptação aos novos formatos de tela",
+            "query_en": "Apple iPhone X notch screen transition"
+          }
+        ]
+      }
+    },
+    {
+      "id": "501198dd-28d2-42b9-87f1-16d2aaba9774",
+      "title": "Doug Cockle gravou todas as falas de Geralt no primeiro The Witcher em apenas 8 dias",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Doug Cockle The Witcher 1 recording voice lines Gameology",
+        "images": [
+          {
+            "anchor": "Os bastidores intensos do primeiro The Witcher",
+            "query_en": "The Witcher 1 Geralt of Rivia original game CD Projekt Red"
+          },
+          {
+            "anchor": "Um mundo de fantasia desconhecido",
+            "query_en": "Doug Cockle voice actor The Witcher interview"
+          },
+          {
+            "anchor": "O Senhor dos Anéis",
+            "query_en": "The Lord of the Rings fantasy book cover"
+          },
+          {
+            "anchor": "O Hobbit",
+            "query_en": "The Hobbit book vintage edition"
+          },
+          {
+            "anchor": "A Trilogia dos Espadachins / The Dragonriders of Pern",
+            "query_en": "Dragonriders of Pern fantasy novel"
+          },
+          {
+            "anchor": "Conan, o Bárbaro",
+            "query_en": "Conan the Barbarian classic book illustration"
+          },
+          {
+            "anchor": "Uma maratona de gravações e o sacrifício vocal",
+            "query_en": "recording studio microphone voice acting session"
+          },
+          {
+            "anchor": "O futuro da voz de Geralt",
+            "query_en": "The Witcher 4 CD Projekt Red announcement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20677c83-d09b-4f6c-b350-d441764700e8",
+      "title": "Filme de Elden Ring pela A24 deve ter o maior orçamento da história do estúdio, alcançando US$ 200 milhões",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elden Ring movie A24 $200 million budget Alex Garland",
+        "images": [
+          {
+            "anchor": "Detalhes financeiros e a escalada do orçamento",
+            "query_en": "Wall Street Journal logo newspaper finance"
+          },
+          {
+            "anchor": "Comparação com outras produções da A24",
+            "query_en": "Civil War movie Alex Garland still"
+          },
+          {
+            "anchor": "- Marty Supreme: o longa estrelado por Timothée Chalamet, lançado no ano passado, exigiu um investimento de aproximadamente US$ 70 milhões.",
+            "query_en": "Timothee Chalamet filming"
+          },
+          {
+            "anchor": "- Civil War: o filme dirigido por Alex Garland contou com um teto de gastos estimado em US$ 50 milhões.",
+            "query_en": "Kirsten Dunst Civil War movie"
+          },
+          {
+            "anchor": "Expectativas de mercado e o sucesso do jogo",
+            "query_en": "Elden Ring game art landscape"
+          },
+          {
+            "anchor": "Elenco, equipe criativa e cronograma",
+            "query_en": "Kit Connor actor portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "80f6d3bf-6110-4425-9b40-95be19e85daf",
+      "title": "Dicas e respostas do Hurdle para 25 de outubro de 2026",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hurdle game gameplay and tips",
+        "images": [
+          {
+            "anchor": "Como funciona o Hurdle",
+            "query_en": "Word puzzle game interface"
+          },
+          {
+            "anchor": "Respostas do dia 25 de outubro de 2026",
+            "query_en": "Daily word game puzzle"
+          },
+          {
+            "anchor": "Hurdle Palavra 1",
+            "query_en": "AHOLD word puzzle clue"
+          },
+          {
+            "anchor": "Hurdle Palavra 2",
+            "query_en": "TUBER potato vegetable"
+          },
+          {
+            "anchor": "Hurdle Palavra 3",
+            "query_en": "MOUSE small rodent"
+          },
+          {
+            "anchor": "Hurdle Palavra 4",
+            "query_en": "PLEAT clothing fold"
+          },
+          {
+            "anchor": "Final Hurdle",
+            "query_en": "EXUDE word puzzle answer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "041963ea-115d-4194-aae9-4ff928ffaaa7",
+      "title": "Como assistir a Miami Dolphins contra New York Jets na NFL online e de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Miami Dolphins vs New York Jets NFL highlights",
+        "images": [
+          {
+            "anchor": "O momento das equipes na temporada",
+            "query_en": "NFL football game stadium match"
+          },
+          {
+            "anchor": "Quando e onde acontece o jogo",
+            "query_en": "MetLife Stadium NFL game"
+          },
+          {
+            "anchor": "Como assistir à partida de graça",
+            "query_en": "streaming live sport mobile phone laptop"
+          },
+          {
+            "anchor": "Transmissão gratuita na TVNZ",
+            "query_en": "TVNZ television logo streaming"
+          },
+          {
+            "anchor": "Restrição geográfica da Nova Zelândia",
+            "query_en": "New Zealand landscape flag"
+          },
+          {
+            "anchor": "Uso de uma VPN",
+            "query_en": "VPN cybersecurity software app on screen"
+          },
+          {
+            "anchor": "Por que o ExpressVPN é indicado para a NFL",
+            "query_en": "ExpressVPN app streaming device"
+          },
+          {
+            "anchor": "Servidores globais",
+            "query_en": "global network servers technology"
+          },
+          {
+            "anchor": "Compatibilidade ampla",
+            "query_en": "smartphone tablet laptop devices"
+          },
+          {
+            "anchor": "Privacidade e segurança",
+            "query_en": "cybersecurity lock online data protection"
+          },
+          {
+            "anchor": "Desempenho de conexão",
+            "query_en": "fast internet connection speed test"
+          },
+          {
+            "anchor": "Conexões simultâneas",
+            "query_en": "multiple devices connected internet"
+          },
+          {
+            "anchor": "Garantia de reembolso",
+            "query_en": "money back guarantee badge sign"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ee183d3-cd29-4f18-b40b-be6ce4cfc349",
+      "title": "iPad de 11 polegadas da Apple com chip A16 está com desconto de US$ 50 na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple iPad 11 inch A16 review",
+        "images": [
+          {
+            "anchor": "Desconto antecipado na Amazon",
+            "query_en": "Amazon warehouse delivery package delivery"
+          },
+          {
+            "anchor": "Desempenho e versatilidade para o dia a dia",
+            "query_en": "Apple iPad 11 inch running apps"
+          },
+          {
+            "anchor": "Especificações técnicas e recursos",
+            "query_en": "Apple iPad Liquid Retina display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b637b7c-783c-4e28-a1f3-4eb9783078e1",
+      "title": "Como assistir Manchester United x Bournemouth na Premier League de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Manchester United vs Bournemouth Premier League preview",
+        "images": [
+          {
+            "anchor": "Contexto da partida e momento das equipes",
+            "query_en": "Old Trafford stadium Manchester United"
+          },
+          {
+            "anchor": "Quando e onde acontece o jogo",
+            "query_en": "Manchester United players training"
+          },
+          {
+            "anchor": "Como assistir à transmissão gratuita",
+            "query_en": "CazéTV studio broadcast"
+          },
+          {
+            "anchor": "Utilizando VPNs com garantia de reembolso",
+            "query_en": "ExpressVPN app on smartphone"
+          },
+          {
+            "anchor": "Vantagens do ExpressVPN para o futebol internacional",
+            "query_en": "VPN servers global network map"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a2568f75-13a8-4e5b-b195-64439e753c79",
+      "title": "Como assistir a Barcelona x Real Madrid ao vivo e de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Barcelona vs Real Madrid La Liga live stream free CazéTV",
+        "images": [
+          {
+            "anchor": "Contexto das equipes na temporada",
+            "query_en": "Camp Nou stadium Barcelona"
+          },
+          {
+            "anchor": "Quando acontece a partida",
+            "query_en": "El Clasico Barcelona Real Madrid match"
+          },
+          {
+            "anchor": "Como assistir ao jogo de graça",
+            "query_en": "CazeTV logo broadcast"
+          },
+          {
+            "anchor": "Passo a passo para a transmissão internacional",
+            "query_en": "VPN app on smartphone screen"
+          },
+          {
+            "anchor": "Opções e recursos da ExpressVPN",
+            "query_en": "ExpressVPN logo and interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "161390b9-130a-434d-b9fe-e4e48a8add69",
+      "title": "As melhores comédias disponíveis para streaming na Netflix",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best comedies on netflix trailer compilation",
+        "images": [
+          {
+            "anchor": "23. Cora Bora",
+            "query_en": "Megan Stalter Cora Bora movie"
+          },
+          {
+            "anchor": "22. Paddington in Peru",
+            "query_en": "Paddington in Peru movie cast"
+          },
+          {
+            "anchor": "21. Nonnas",
+            "query_en": "Nonnas movie Vince Vaughn"
+          },
+          {
+            "anchor": "20. Heart Eyes",
+            "query_en": "Heart Eyes movie horror comedy"
+          },
+          {
+            "anchor": "19. Cunk on Life",
+            "query_en": "Philomena Cunk Cunk on Life Diane Morgan"
+          },
+          {
+            "anchor": "18. Beverly Hills Cop: Axel F",
+            "query_en": "Beverly Hills Cop Axel F Eddie Murphy"
+          },
+          {
+            "anchor": "17. Between Two Ferns: The Movie",
+            "query_en": "Between Two Ferns The Movie Zach Galifianakis"
+          },
+          {
+            "anchor": "16. Do Revenge",
+            "query_en": "Do Revenge Netflix movie Camila Mendes Maya Hawke"
+          },
+          {
+            "anchor": "15. Always Be My Maybe",
+            "query_en": "Always Be My Maybe Ali Wong Randall Park"
+          },
+          {
+            "anchor": "14. Dolemite Is My Name",
+            "query_en": "Dolemite Is My Name Eddie Murphy"
+          },
+          {
+            "anchor": "13. The Polka King",
+            "query_en": "The Polka King Jack Black"
+          },
+          {
+            "anchor": "12. The Mitchells vs. The Machines",
+            "query_en": "The Mitchells vs The Machines Netflix"
+          },
+          {
+            "anchor": "11. Glass Onion: A Knives Out Mystery",
+            "query_en": "Glass Onion A Knives Out Mystery Daniel Craig"
+          },
+          {
+            "anchor": "10. The Forty-Year-Old Version",
+            "query_en": "The Forty-Year-Old Version Radha Blank"
+          },
+          {
+            "anchor": "9. Vampires vs. the Bronx",
+            "query_en": "Vampires vs the Bronx movie"
+          },
+          {
+            "anchor": "8. The Breaker Upperers",
+            "query_en": "The Breaker Upperers movie"
+          },
+          {
+            "anchor": "7. The Thursday Murder Club",
+            "query_en": "The Thursday Murder Club Netflix movie"
+          },
+          {
+            "anchor": "6. Hit Man",
+            "query_en": "Hit Man Glen Powell Adria Arjona"
+          },
+          {
+            "anchor": "5. Wallace & Gromit: Vengeance Most Fowl",
+            "query_en": "Wallace and Gromit Vengeance Most Fowl"
+          },
+          {
+            "anchor": "4. Oh, Hi!",
+            "query_en": "Oh Hi movie Molly Gordon"
+          },
+          {
+            "anchor": "3. KPop Demon Hunters",
+            "query_en": "KPop Demon Hunters Netflix animation"
+          },
+          {
+            "anchor": "2. Triangle of Sadness",
+            "query_en": "Triangle of Sadness movie"
+          },
+          {
+            "anchor": "1. Eurovision Song Contest: The Story of Fire Saga",
+            "query_en": "Eurovision Song Contest The Story of Fire Saga Will Ferrell"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d3e77751-33b3-45f1-b565-53f1e4538e31",
+      "title": "Como assistir à partida entre 49ers e Falcons na NFL ao vivo e de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "San Francisco 49ers vs Atlanta Falcons NFL highlights",
+        "images": [
+          {
+            "anchor": "O contexto da partida e as expectativas",
+            "query_en": "NFL American football game action stadium"
+          },
+          {
+            "anchor": "Data e local do confronto",
+            "query_en": "Mercedes Benz Stadium Atlanta Falcons"
+          },
+          {
+            "anchor": "Como assistir à transmissão ao vivo de graça",
+            "query_en": "streaming live sports on laptop and mobile"
+          },
+          {
+            "anchor": "Passo a passo para acessar a transmissão",
+            "query_en": "VPN app running on smartphone screen"
+          },
+          {
+            "anchor": "Vantagens e utilização de ferramentas de VPN",
+            "query_en": "ExpressVPN logo and software interface"
           }
         ]
       }
@@ -750,111 +866,71 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "be07b135-9bbd-4321-8e2e-e83d51be628d",
-      "title": "Fim de uma era: vários conjuntos de LEGO da Nintendo vão se aposentar em breve",
+      "id": "2a39c4a2-653c-448d-865f-0da3efc9486d",
+      "title": "Jogadores de Red Dead Redemption 2 já podem explorar o México por completo com novo mod",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LEGO Nintendo sets retiring and upcoming releases",
+        "video_query_en": "Red Dead Redemption 2 Mexico mod Nuevo Paraiso gameplay",
         "images": [
           {
-            "anchor": "A evolução das coleções conjuntas",
-            "query_en": "LEGO Super Mario sets collection display"
+            "anchor": "Uma releitura do México em 1907",
+            "query_en": "Red Dead Redemption 2 Mexico landscape mod"
           },
           {
-            "anchor": "Conjuntos que se despedem do catálogo oficial",
-            "query_en": "LEGO Animal Crossing sets collection"
+            "anchor": "Três regiões detalhadas",
+            "query_en": "Red Dead Redemption Mexico map"
           },
           {
-            "anchor": "Tom Nook and Flying Present da franquia Animal Crossing",
-            "query_en": "LEGO Animal Crossing Tom Nook and Flying Present set"
+            "anchor": "Diez Coronas",
+            "query_en": "Red Dead Redemption Diez Coronas Mexico"
           },
           {
-            "anchor": "Stargazing with Celeste da franquia Animal Crossing",
-            "query_en": "LEGO Animal Crossing Stargazing with Celeste set"
+            "anchor": "Perdido",
+            "query_en": "Red Dead Redemption Perdido region"
           },
           {
-            "anchor": "Blathers's Museum Collection da franquia Animal Crossing",
-            "query_en": "LEGO Animal Crossing Blathers Museum Collection set"
+            "anchor": "Punta Orgullo",
+            "query_en": "Red Dead Redemption Punta Orgullo"
           },
           {
-            "anchor": "Goldie's Cosy House da franquia Animal Crossing",
-            "query_en": "LEGO Animal Crossing Goldies Cosy House set"
-          },
-          {
-            "anchor": "Adventures with Interactive LEGO Luigi da franquia Mario Bros.",
-            "query_en": "LEGO Adventures with Interactive LEGO Luigi set"
-          },
-          {
-            "anchor": "Adventures with Interactive LEGO Peach da franquia Mario Bros.",
-            "query_en": "LEGO Adventures with Interactive LEGO Peach set"
-          },
-          {
-            "anchor": "Interactive LEGO Mario & Standard Kart da franquia Mario Bros.",
-            "query_en": "LEGO Interactive LEGO Mario and Standard Kart set"
-          },
-          {
-            "anchor": "Shy Guy & P-Wing da franquia Mario Bros.",
-            "query_en": "LEGO Shy Guy and P-Wing set"
-          },
-          {
-            "anchor": "O futuro reserva novas aventuras",
-            "query_en": "LEGO Mario new sets upcoming release"
-          },
-          {
-            "anchor": "Mario's Pipe Jump da franquia Mario Bros.",
-            "query_en": "LEGO Marios Pipe Jump set"
-          },
-          {
-            "anchor": "Mario's Beach Adventures da franquia Mario Bros.",
-            "query_en": "LEGO Marios Beach Adventures set"
-          },
-          {
-            "anchor": "Fire Luigi vs. Koopa Troopa Battle da franquia Mario Bros.",
-            "query_en": "LEGO Fire Luigi vs Koopa Troopa Battle set"
-          },
-          {
-            "anchor": "Yoshi at Mario's House da franquia Mario Bros.",
-            "query_en": "LEGO Yoshi at Marios House set"
-          },
-          {
-            "anchor": "Bowser's Rumbling Race da franquia Mario Bros.",
-            "query_en": "LEGO Bowsers Rumbling Race set"
-          },
-          {
-            "anchor": "Luigi & Bowser Jr.'s Race da franquia Mario Bros.",
-            "query_en": "LEGO Luigi and Bowser Jrs Race set"
-          },
-          {
-            "anchor": "Fire Mario & Bowser's Castle da franquia Mario Bros.",
-            "query_en": "LEGO Fire Mario and Bowsers Castle set"
-          },
-          {
-            "anchor": "Racing with Mario da franquia Mario Bros.",
-            "query_en": "LEGO Racing with Mario set"
+            "anchor": "Atividades e novidades na fronteira esquecida",
+            "query_en": "Red Dead Redemption 2 Arthur Morgan gameplay"
           }
         ]
       }
     },
     {
-      "id": "fb6f3cd3-0555-4ee0-b308-70e980dfa664",
-      "title": "A ambiciosa obra-prima de ficção científica da Netflix que marcou o streaming",
-      "category": "Filmes, Séries e Animações",
+      "id": "14e9f30c-92ea-4b25-9ead-9473c7549e80",
+      "title": "Star Trek: Lower Decks Fluxx chega em outubro para celebrar o sexagésimo aniversário da franquia",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The OA Netflix sci fi series analysis",
+        "video_query_en": "Star Trek Lower Decks Fluxx card game overview",
         "images": [
           {
-            "anchor": "Uma abordagem única para conceitos clássicos da ficção científica",
-            "query_en": "The OA Netflix sci fi dimensional travel"
+            "anchor": "Star Trek Fluxx Retorna às Lojas",
+            "query_en": "Star Trek Fluxx card game boxes Looney Labs"
           },
           {
-            "anchor": "Dança, filosofia e a recusa ao cancelamento criativo",
-            "query_en": "Brit Marling The OA movements dance"
+            "anchor": "A fronteira mais engraçada",
+            "query_en": "Star Trek Lower Decks characters animated series"
           },
           {
-            "anchor": "O legado e a integridade dos criadores",
-            "query_en": "The OA Prairie Johnson Netflix"
+            "anchor": "Personagens icônicos",
+            "query_en": "Boimler Mariner Rutherford Tendi Star Trek Lower Decks"
+          },
+          {
+            "anchor": "Elementos memoráveis",
+            "query_en": "Star Trek Lower Decks USS Cerritos bridge crew"
+          },
+          {
+            "anchor": "Inimigos e perigos",
+            "query_en": "Star Trek Lower Decks Badgey Pakleds"
+          },
+          {
+            "anchor": "Detalhes de Jogabilidade e Especificações",
+            "query_en": "Looney Labs Fluxx card game tabletop gameplay"
           }
         ]
       }
