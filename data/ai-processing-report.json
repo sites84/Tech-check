@@ -1,703 +1,804 @@
 {
-  "updated_at": "2026-10-25T15:52:21.330Z",
+  "updated_at": "2026-10-25T21:54:57.390Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "aa0b4ca8-8adb-41c5-87e1-bb15c49cc2b7",
-      "title": "Israel está forte o suficiente para seguir sozinho?",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Israel elections Benjamin Netanyahu Itamar Ben Gvir",
-        "images": [
-          {
-            "anchor": "O peso de lideranças populistas em Israel",
-            "query_en": "Benjamin Netanyahu Israeli Prime Minister"
-          },
-          {
-            "anchor": "As falhas de segurança e o impacto de 7 de outubro",
-            "query_en": "Itamar Ben Gvir Israel"
-          }
-        ]
-      }
-    },
-    {
-      "id": "54c077b7-c935-48cf-b50c-e0cf69809d3a",
-      "title": "Japão enfrenta escassez de professores de japonês para trabalhadores estrangeiros",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan foreign workers Japanese language teacher shortage",
-        "images": [
-          {
-            "anchor": "## O panorama da escassez no Japão",
-            "query_en": "Tokyo Japan cityscape modern buildings"
-          },
-          {
-            "anchor": "## O novo sistema de acolhimento de trabalhadores",
-            "query_en": "Japanese language classroom students studying"
-          },
-          {
-            "anchor": "## Detalhes da pesquisa governamental",
-            "query_en": "Japanese government official press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1c00fefd-7676-4adb-8133-89a525a2efb0",
-      "title": "Gabinete de Sanae Takaichi mantém 62% de aprovação apesar de controvérsia ministerial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanae Takaichi Japan cabinet approval rating Nikkei poll",
-        "images": [
-          {
-            "anchor": "A controvérsia e as críticas públicas",
-            "query_en": "Japanese Prime Minister Sanae Takaichi press conference Tokyo"
-          },
-          {
-            "anchor": "Contexto político e desafios futuros",
-            "query_en": "Japanese Diet building Tokyo politics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e8b9d351-1785-4c45-a8c9-fcd207bbc410",
-      "title": "Restrição do Starlink: Elon Musk faz críticas indiretas à Ucrânia",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk Starlink Ukraine restriction Golem news",
-        "images": [
-          {
-            "anchor": "O envolvimento do Starlink no conflito",
-            "query_en": "Starlink satellite dish in operation"
-          },
-          {
-            "anchor": "A declaração na rede social",
-            "query_en": "Elon Musk speaking at an event"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de8644b4-d357-4211-ada2-fff21b8f9e48",
-      "title": "Local Wikipedia: Nova ferramenta busca artigos enciclopédicos próximos ao usuário",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Local Wikipedia location based search engine",
-        "images": [
-          {
-            "anchor": "O conceito da Local Wikipedia",
-            "query_en": "Wikipedia website interface search"
-          },
-          {
-            "anchor": "O que é possível encontrar",
-            "query_en": "historic city walking tourism landmark"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5e6b77d3-6545-45f7-8dec-39f607df4255",
-      "title": "Dinamarca encerra teste com Collabora e mantém Microsoft Office nas autoridades",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Collabora Office open source software government test",
-        "images": [
-          {
-            "anchor": "O papel do Collabora no setor público",
-            "query_en": "Collabora Office software interface"
-          },
-          {
-            "anchor": "Compatibilidade total com formatos de arquivos complexos",
-            "query_en": "open source office suite documents"
-          },
-          {
-            "anchor": "O futuro da soberania digital na Europa",
-            "query_en": "European Union digital sovereignty technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "42cc2862-6cc4-4e44-87d9-068ed4596b85",
-      "title": "Audi planeia construção de nova fábrica de SUV nos Estados Unidos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Audi new SUV factory United States Georgia investment",
-        "images": [
-          {
-            "anchor": "Impacto na produção e nos locais de fabrico",
-            "query_en": "Audi car factory production line Germany"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3766c46c-e369-4f1b-b601-a20070ffcf69",
-      "title": "Volkswagen avalia novos cortes de postos de trabalho e debate sobre financiamento público",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Volkswagen restructuring job cuts Germany",
-        "images": [
-          {
-            "anchor": "O cenário de reestruturação na Volkswagen",
-            "query_en": "Volkswagen factory in Germany"
-          },
-          {
-            "anchor": "O debate sobre transferências e recursos públicos",
-            "query_en": "Volkswagen corporate headquarters sign"
-          }
-        ]
-      }
-    },
-    {
-      "id": "58ee2a33-b865-4a98-af42-bb21845bb96c",
-      "title": "Google enfrenta suspensão de projeto de data center na Finlândia após desmatamento irregular",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google data center Finland environment forest",
-        "images": [
-          {
-            "anchor": "A expansão da infraestrutura e o incidente ambiental na Finlândia",
-            "query_en": "Finnish forest landscape nature"
-          },
-          {
-            "anchor": "Consequências para a fauna e impacto nas comunidades locais",
-            "query_en": "wolf in nature winter finland"
-          },
-          {
-            "anchor": "Próximos passos legais e a postura corporativa",
-            "query_en": "Google corporate building office"
-          },
-          {
-            "anchor": "A remoção de 250 mil árvores sem autorização prévia.",
-            "query_en": "deforestation cut trees forest"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7592388f-6114-41b6-a478-0a40941592bd",
-      "title": "China quer mitigar perdas de empregos por IA com avaliações de risco obrigatórias",
+      "id": "c38c83a0-0289-4b34-a813-cc061d22327e",
+      "title": "SoftBank planeja investimento de US$ 50 bilhões em inteligência artificial na Malásia, diz primeiro-ministro",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China AI workplace regulation risk assessment automation",
+        "video_query_en": "SoftBank AI investment Malaysia Masayoshi Son",
         "images": [
           {
-            "anchor": "Novas regras de proteção ao trabalhador",
-            "query_en": "Artificial intelligence workplace automation worker protection"
+            "anchor": "Detalhes da conversa e articulação regional",
+            "query_en": "Kuala Lumpur Malaysia skyline and technology data center"
+          },
+          {
+            "anchor": "O contexto global de investimentos do SoftBank",
+            "query_en": "SoftBank headquarters Tokyo building"
+          },
+          {
+            "anchor": "Emissões recordes de títulos de alta renda e títulos de varejo no Japão para financiar apostas de peso, como investimentos na OpenAI.",
+            "query_en": "OpenAI office building sign"
+          },
+          {
+            "anchor": "Articulação de braços operacionais, como a SB Energy, para realizar o trabalho de base necessário para a corrida de inteligência artificial liderada por Masayoshi Son.",
+            "query_en": "Masayoshi Son SoftBank CEO presentation"
+          },
+          {
+            "anchor": "Parcerias com empresas de telecomunicação e tecnologia, como a NTT, para explorar sistemas de cibersegurança baseados em inteligência artificial que mantenham a soberania e a segurança dos dados.",
+            "query_en": "NTT office building Tokyo Japan"
+          },
+          {
+            "anchor": "Busca por novos modelos de financiamento para centros de dados de inteligência artificial, utilizando garantias baseadas em unidades de processamento gráfico e outros mecanismos financeiros inovadores.",
+            "query_en": "AI data center servers GPU rack"
+          },
+          {
+            "anchor": "Desafios do mercado de inteligência artificial na Ásia",
+            "query_en": "Modern data center server room interior"
           }
         ]
       }
     },
     {
-      "id": "834138a7-ed83-4e29-befd-5875f9b1f946",
-      "title": "OpenAI anuncia segundo dia consecutivo de reset de limites de uso no ChatGPT e Codex",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OpenAI ChatGPT Codex limits update Thibault Sottiaux",
-        "images": [
-          {
-            "anchor": "O anúncio na rede social",
-            "query_en": "OpenAI office building exterior sign"
-          },
-          {
-            "anchor": "Detalhes sobre o funcionamento do reset",
-            "query_en": "ChatGPT interface running code on computer screen"
-          },
-          {
-            "anchor": "O contexto do plano de 28 dias",
-            "query_en": "Software developer working late at night with multiple monitors"
-          },
-          {
-            "anchor": "Novidades do décimo oitavo dia",
-            "query_en": "Linux Foundation logo and server room background"
-          }
-        ]
-      }
-    },
-    {
-      "id": "96a58cb0-eb8c-48f8-bf58-c454114b699f",
-      "title": "Box Art Brawl: Analisando as capas de Avenging Spirit para Game Boy",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Avenging Spirit Game Boy gameplay",
-        "images": [
-          {
-            "anchor": "A chegada de Avenging Spirit aos sistemas modernos",
-            "query_en": "Avenging Spirit Game Boy cartridge"
-          },
-          {
-            "anchor": "Os concorrentes do duelo de capas",
-            "query_en": "Avenging Spirit box art comparison"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8ae1783a-5ec6-4ad3-8596-5123cd1ad893",
-      "title": "I Caved to the TikTok Trend of Cooking Bacon in Water. Here’s How It Went",
+      "id": "b8310bc4-1ca1-4f97-94c8-2ef62ee8f50a",
+      "title": "Nuremberg at 80: Japan's role in the unfinished fight against aggression",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Estilo de Vida"
+      "error": "Categoria inválida retornada pelo Gemini: Política"
     },
     {
-      "id": "2150125d-242c-4652-b2bd-aed265b70352",
-      "title": "Ninja MultiPot XL: vale a pena comprar o novo eletrodoméstico de cozinha?",
+      "id": "09571d18-cc5d-4fcf-bb61-a1e94194b405",
+      "title": "Da Confiança ao Crescimento: O Novo Capítulo nas Relações entre Japão e Reino Unido",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Ninja MultiPot XL review kitchen appliance",
+        "video_query_en": "Japan UK relations economic partnership business diplomacy",
         "images": [
           {
-            "anchor": "Funções de grelhar, saltear e sopas",
-            "query_en": "Ninja MultiPot XL cooking in kitchen"
+            "anchor": "Cooperação Financeira e Parcerias Estratégicas",
+            "query_en": "London financial district skyline finance"
           },
           {
-            "anchor": "Desempenho no cozimento lento",
-            "query_en": "Ninja MultiPot XL slow cooker meat"
+            "anchor": "Investimentos em plantas industriais e tecnologia automotiva, como os projetos da Nissan no Reino Unido.",
+            "query_en": "Nissan car manufacturing plant UK assembly line"
           },
           {
-            "anchor": "Para quem o Ninja MultiPot XL é indicado?",
-            "query_en": "Ninja MultiPot XL countertop appliance"
+            "anchor": "Colaboração em programas de defesa de alta tecnologia, a exemplo do caça avançado GCAP em parceria com a Itália.",
+            "query_en": "GCAP fighter jet defense project model"
           },
           {
-            "anchor": "Espaços limitados",
-            "query_en": "Ninja kitchen appliances on countertop"
+            "anchor": "Alinhamento em políticas econômicas internacionais e regulação de mercados globais.",
+            "query_en": "business leaders meeting handshake international conference"
           },
           {
-            "anchor": "Grandes porções",
-            "query_en": "Ninja MultiPot XL dual zone pots"
+            "anchor": "Preparação para Desastres e Desafios Globais",
+            "query_en": "modern resilient infrastructure city planning disaster preparedness"
           },
           {
-            "anchor": "Economia na linha Ninja",
-            "query_en": "Ninja PossibleCooker multicooker"
+            "anchor": "Compartilhamento de tecnologias avançadas de mitigação de terremotos e eventos climáticos extremos.",
+            "query_en": "earthquake engineering structure testing facility Japan"
+          },
+          {
+            "anchor": "Desenvolvimento conjunto de estratégias de segurança cibernética e proteção de cadeias de suprimentos.",
+            "query_en": "cybersecurity digital command center screens technology"
+          },
+          {
+            "anchor": "Cooperação em agendas ambientais, sociais e de governança (ESG) alinhadas às metas globais de sustentabilidade.",
+            "query_en": "renewable energy green technology sustainability investment"
           }
         ]
       }
     },
     {
-      "id": "565fc848-2258-4cb2-93ef-25c5e7c62f71",
-      "title": "Após 7 anos de desenvolvimento, o DLC de Katana Zero agora tem o tamanho de uma sequência completa",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Katana Zero DLC official teaser trailer",
-        "images": [
-          {
-            "anchor": "Uma longa espera com novos ares para Katana Zero",
-            "query_en": "Katana Zero pixel art action game gameplay"
-          },
-          {
-            "anchor": "O crescimento monumental do projeto",
-            "query_en": "Justin Stander Katana Zero developer"
-          },
-          {
-            "anchor": "Comparações e evoluções no escopo",
-            "query_en": "Katana Zero combat sword action"
-          }
-        ]
-      }
-    },
-    {
-      "id": "707b23db-6a16-40fb-b20a-715bb2f47c39",
-      "title": "Como Mass Effect 2 encontrou sua verdadeira identidade no pessoal e no íntimo",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mass Effect 2 retrospective review analysis",
-        "images": [
-          {
-            "anchor": "A transformação drástica na jogabilidade e no combate",
-            "query_en": "Commander Shepard Mass Effect 2 combat"
-          },
-          {
-            "anchor": "Mecânicas de dano refinadas e controle tático",
-            "query_en": "Mass Effect 2 combat power wheel HUD"
-          },
-          {
-            "anchor": "O foco no drama humano e na equipe excêntrica",
-            "query_en": "Mass Effect 2 crew characters lineup"
-          },
-          {
-            "anchor": "Moralidade complexa e escolhas impactantes",
-            "query_en": "Mass Effect 2 conversation wheel choice"
-          }
-        ]
-      }
-    },
-    {
-      "id": "447de186-2e6b-46cc-9381-a319e7307a28",
-      "title": "Comcast perde 144 mil clientes de banda larga e planeja demissões para usar IA no atendimento",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Comcast Q3 2026 financial results broadband layoffs AI customer service",
-        "images": [
-          {
-            "anchor": "Desempenho financeiro e queda de receita",
-            "query_en": "Comcast corporate headquarters building"
-          },
-          {
-            "anchor": "Perda de assinantes na banda larga",
-            "query_en": "Comcast broadband internet router equipment"
-          },
-          {
-            "anchor": "Reestruturação e automação com inteligência artificial",
-            "query_en": "Artificial intelligence customer service chatbot agent"
-          }
-        ]
-      }
-    },
-    {
-      "id": "452fa70e-e0a0-4617-add0-427385efa710",
-      "title": "Papéis de parede do Windows Insider da Microsoft teriam sido criados em um Mac",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft Windows Insider wallpapers Mac Photoshop",
-        "images": [
-          {
-            "anchor": "Uma descoberta curiosa nos metadados",
-            "query_en": "image file metadata properties menu computer screen"
-          },
-          {
-            "anchor": "A ligação com o ecossistema da Apple",
-            "query_en": "Adobe Photoshop running on Apple Mac computer"
-          },
-          {
-            "anchor": "A resposta da Microsoft",
-            "query_en": "Microsoft Windows Insider logo and branding"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9d3322d7-3e6b-4f0e-a342-e304009404d6",
-      "title": "Ferramenta multi-IA oferece acesso vitalício por US$ 29,97 com mais de 50 modelos integrados",
+      "id": "6a7e6f05-c4a3-4ef0-ae47-ee24c2f83acd",
+      "title": "Quedas nas ações de inteligência artificial geram alerta para a estratégia de autossuficiência da China",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AskAnyModel AI Pro review multi AI comparison platform",
+        "video_query_en": "China AI stock market self reliance technology strategy",
         "images": [
           {
-            "anchor": "Como funciona a plataforma integrada",
-            "query_en": "browser based AI chatbot interface multi model workspace"
+            "anchor": "Desafios para a rentabilidade do setor",
+            "query_en": "artificial intelligence stock market chart decline"
           },
           {
-            "anchor": "Vantagens da comparação lado a lado",
-            "query_en": "split screen AI response comparison coding text"
-          },
-          {
-            "anchor": "Estrutura de uso e créditos mensais",
-            "query_en": "subscription pricing dashboard analytics UI"
-          },
-          {
-            "anchor": "Geração de imagens e transição de contexto",
-            "query_en": "AI image generation tool creative dashboard"
-          },
-          {
-            "anchor": "Facilidade de uso e atualizações contínuas",
-            "query_en": "software updates web browser interface productivity"
+            "anchor": "O impacto na estratégia de independência tecnológica",
+            "query_en": "Shanghai stock exchange building financial district"
           }
         ]
       }
     },
     {
-      "id": "5b2752f6-7a2a-4e70-be58-5890aff87564",
-      "title": "Plano Familiar do AdGuard com licença vitalícia é ofertado por US$ 14,97",
+      "id": "6193c426-7ad1-4576-8a2f-6cd442741292",
+      "title": "Desafios de Usar Galaxy Z Fold8 e iPhone Duo como Dispositivos Principais",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Galaxy Z Fold review foldable phone display optimization",
+        "images": [
+          {
+            "anchor": "Os Desafios do Galaxy Z Fold8",
+            "query_en": "Galaxy Z Fold foldable smartphone open display"
+          },
+          {
+            "anchor": "O Cenário do iPhone Duo",
+            "query_en": "iPhone dual screen smartphone display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2dc5f5c-e61e-4ca7-b567-a2405d7d2dad",
+      "title": "macOS 27 traz recursos avançados ao Finder, widgets e Siri AI",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "macOS 27 new features Finder widgets",
+        "images": [
+          {
+            "anchor": "Sugestão automática de nomes para arquivos e pastas",
+            "query_en": "macOS Finder automatic file naming feature"
+          },
+          {
+            "anchor": "Ajuste automático da largura nas colunas do Finder",
+            "query_en": "macOS column view Finder settings"
+          },
+          {
+            "anchor": "Cole imagens e textos diretamente no Finder",
+            "query_en": "macOS desktop paste image text clipping"
+          },
+          {
+            "anchor": "Novos tamanhos verticais para widgets na mesa",
+            "query_en": "macOS desktop widgets vertical size"
+          },
+          {
+            "anchor": "Atualização de widgets em tempo real e ajustes de design",
+            "query_en": "macOS system settings appearance Liquid Glass"
+          }
+        ]
+      }
+    },
+    {
+      "id": "286904a6-d5c6-4db5-a0cd-165a1dddcff1",
+      "title": "Como criar um videoclipe com IA e código sem usar geração de vídeos",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Remotion React framework motion graphics code tutorial",
+        "images": [
+          {
+            "anchor": "Introdução à criação de vídeos com código e IA",
+            "query_en": "Halloween motion graphics animation design"
+          },
+          {
+            "anchor": "Como funciona o Remotion na prática",
+            "query_en": "React code editor screen programming"
+          },
+          {
+            "anchor": "Exemplos fundamentais de animação",
+            "query_en": "Digital counter number animation graphics"
+          },
+          {
+            "anchor": "A importância de um sistema de peças reutilizáveis",
+            "query_en": "UI component library design system"
+          },
+          {
+            "anchor": "O processo de criação de um videoclipe de Halloween",
+            "query_en": "AI music video production interface"
+          },
+          {
+            "anchor": "Considerações sobre o uso e licenciamento",
+            "query_en": "Software source code on computer screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0a2016d6-407d-4bab-ae26-1488e5c32f3e",
+      "title": "Inovação no Ubuntu: motor de inferência Strata e XeStrata rodam LLMs gigantes em placas Intel Arc",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Intel Arc B580 LLM inference benchmark Strata XeStrata",
+        "images": [
+          {
+            "anchor": "O cenário de preços e a alternativa do Intel Arc B580",
+            "query_en": "Intel Arc B580 graphics card hardware"
+          },
+          {
+            "anchor": "Configuração do ambiente de testes no Ubuntu",
+            "query_en": "Ubuntu desktop operating system interface"
+          },
+          {
+            "anchor": "Instalação e compilação do Strata",
+            "query_en": "Docker container command line interface linux"
+          },
+          {
+            "anchor": "Configuração inicial e parâmetros do modelo",
+            "query_en": "AI language model terminal benchmark interface"
+          },
+          {
+            "anchor": "A surpresa do XeStrata e o ganho de desempenho",
+            "query_en": "Intel Arc GPU benchmark performance graph"
+          },
+          {
+            "anchor": "Considerations sobre a tendência de otimização de software",
+            "query_en": "Computer hardware components RAM and motherboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d898717-c61d-4e3e-82c0-182e6e5ec7a6",
+      "title": "PC Mais Caros: Por que os Mini PCs de 10 Milhões de... Quero dizer, 10 Mil Yen (100 Milhões? 100 Mil Yen) são a Solução",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GMKtec NucBox K17 mini PC review performance test",
+        "images": [
+          {
+            "anchor": "O Custo Elevado do Hardware e a Tendência de Redução de Capacidade",
+            "query_en": "mini PC hardware components motherboard RAM SSD"
+          },
+          {
+            "anchor": "Desempenho Real em Tarefas Diárias",
+            "query_en": "mini PC office work multitasking setup"
+          },
+          {
+            "anchor": "Desempenho Gráfico e Eficiência de Resfriamento",
+            "query_en": "mini PC cooling fan heatsink disassembly"
+          },
+          {
+            "anchor": "Conectividade, Portas e Possibilidades de Expansão",
+            "query_en": "mini PC back ports HDMI USB4 Ethernet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d45d0e0-b005-43e2-80e2-7240ccb43623",
+      "title": "Análise do INZONE Buds: fone sem fio da Sony focado em FPS e áudio de alta precisão",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sony INZONE Buds review gaming wireless earbuds",
+        "images": [
+          {
+            "anchor": "Design e conexão sem fio de baixa latência",
+            "query_en": "Sony INZONE Buds glas purple wireless gaming earbuds case"
+          },
+          {
+            "anchor": "Qualidade sonora e cancelamento de ruído",
+            "query_en": "Sony INZONE Buds ergonomic design ear tips"
+          },
+          {
+            "anchor": "Personalização avançada com o INZONE Hub",
+            "query_en": "INZONE Hub software equalizer settings gaming PC"
+          },
+          {
+            "anchor": "Detalhes de conectividade e restrições do LE Audio",
+            "query_en": "USB Type-C wireless transciever for gaming headset"
+          },
+          {
+            "anchor": "Cores, preços e especificações principais",
+            "query_en": "Sony INZONE Buds three color options white black purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d927776-4aec-471e-9b5c-fa23fa9d9544",
+      "title": "Trinta anos depois, estou finalmente aprendendo a tocar ocarina — e você também deveria",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Legend of Zelda ocarina tutorial playing guide",
+        "images": [
+          {
+            "anchor": "1. A melhor ocarina é aquela que você já tem",
+            "query_en": "ceramic 12 hole sweet potato ocarina"
+          },
+          {
+            "anchor": "2. Mas em breve você vai querer другой",
+            "query_en": "Night By Noble ocarina matte black"
+          },
+          {
+            "anchor": "3. A ocarina tem um esquema de controles e um nariz",
+            "query_en": "fingering ocarina technique hands"
+          },
+          {
+            "anchor": "4. Você pode ser um herói da ocarina agora mesmo",
+            "query_en": "ocarina tab sheet music notes"
+          },
+          {
+            "anchor": "5. A Canção do Tempo é fácil de tocar e mágica de ouvir",
+            "query_en": "The Legend of Zelda ocarina instrument"
+          },
+          {
+            "anchor": "6. A Luta de Zelda é um pouco mais difícil, mas vale a pena",
+            "query_en": "Zelda Lullaby ocarina performance"
+          },
+          {
+            "anchor": "7. A Balada dos Gales e a conexão com o universo Zelda",
+            "query_en": "The Wind Waker ocarina item"
+          },
+          {
+            "anchor": "8. Dica rápida: a ocarina deve estar próxima e visível",
+            "query_en": "ocarina resting on wooden desk table"
+          },
+          {
+            "anchor": "9. Músculos de jogos podem ser músculos de aprendizado?",
+            "query_en": "person playing video game controller focused"
+          },
+          {
+            "anchor": "10. O Tema de Fi e outros heróis da ocarina",
+            "query_en": "Skyward Sword ocarina performance"
+          },
+          {
+            "anchor": "11. Origens e influências culturais do instrumento",
+            "query_en": "traditional clay ocarina instrument close up"
+          },
+          {
+            "anchor": "12. O legado duradouro do som de Hyrule",
+            "query_en": "The Legend of Zelda Ocarina of Time promotional art"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5a6dae5-05fb-451b-9fa5-b2679fd96ab6",
+      "title": "Inteligência Artificial continuará revelando falhas críticas de software por anos, alerta CEO da Cloudflare",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AdGuard Family Plan review ad blocking and parental controls",
+        "video_query_en": "Cloudflare CEO Matthew Prince AI software vulnerabilities interview Reuters",
         "images": [
           {
-            "anchor": "Proteção abrangente para múltiplos dispositivos",
-            "query_en": "AdGuard app running on multiple devices smartphone and laptop"
+            "anchor": "Alerta sobre vulnerabilidades em softwares essenciais",
+            "query_en": "Cloudflare logo and office building"
           },
           {
-            "anchor": "Ferramentas de segurança e controle familiar",
-            "query_en": "Parental control internet safety digital security family"
+            "anchor": "Comparações com falhas recentes no PHP",
+            "query_en": "PHP programming language code on computer screen"
           },
           {
-            "anchor": "Detalhes da oferta promocional",
-            "query_en": "AdGuard logo software security protection"
+            "anchor": "Impacto em portais governamentais que precisaram lidar com as brechas de segurança.",
+            "query_en": "government website security server room"
+          },
+          {
+            "anchor": "Afetação direta de plataformas de jogos como a loja GOG.",
+            "query_en": "video game online store interface"
+          },
+          {
+            "anchor": "Consequências severas para uma vasta gama de sites menores que utilizam o PHP.",
+            "query_en": "web developer coding software security"
+          },
+          {
+            "anchor": "O papel transformador da inteligência artificial na segurança",
+            "query_en": "artificial intelligence cybersecurity software analysis"
           }
         ]
       }
     },
     {
-      "id": "6087d909-9966-448c-8ee3-cadb40a219aa",
-      "title": "Como assistir a Packers x Lions na NFL de graça",
-      "category": "Games",
+      "id": "24b09d7e-732a-4408-80c2-75e55891ea10",
+      "title": "Nova política de privacidade do Google introduz exceção para uso de dados do Gmail e Photos em anúncios",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Green Bay Packers vs Detroit Lions NFL matchup highlights analysis",
+        "video_query_en": "Google privacy policy update Gmail Photos ads",
         "images": [
           {
-            "anchor": "Quando será a partida entre Packers e Lions?",
-            "query_en": "Ford Field stadium NFL game field"
+            "anchor": "Detalhes da alteração nos termos",
+            "query_en": "Google privacy policy update document"
           },
           {
-            "anchor": "Como assistir a Packers x Lions de graça",
-            "query_en": "TVNZ streaming service logo interface"
-          },
-          {
-            "anchor": "Qual é a melhor VPN para a NFL?",
-            "query_en": "ExpressVPN app running on smartphone device"
+            "anchor": "O impacto para os usuários",
+            "query_en": "Google Gmail and Photos app on smartphone"
           }
         ]
       }
     },
     {
-      "id": "914104e9-b56d-491f-86d5-e3bb78f27cea",
-      "title": "Novo aplicativo do Instagram para Apple TV traz Reels, vídeos longos e transmissões ao vivo",
-      "category": "Empresas",
+      "id": "83c5e12c-de07-4e3b-817f-a661dfef75cd",
+      "title": "Google vincula automaticamente o número de telefone a todas as contas conectadas e preocupa usuários",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Instagram app on Apple TV smart TV",
+        "video_query_en": "Google phone number verification Android privacy setting",
         "images": [
           {
-            "anchor": "Histórico e expansão para smart TVs",
-            "query_en": "Apple TV device living room"
+            "anchor": "O impacto prático da nova configuração",
+            "query_en": "Android smartphone settings privacy Google account"
           },
           {
-            "anchor": "Novos formatos e adaptação de vídeo",
-            "query_en": "Instagram app on television screen"
+            "anchor": "Justificativas e benefícios apontados",
+            "query_en": "Android phone backup and recovery settings"
           },
           {
-            "anchor": "Concorrência direta com o YouTube",
-            "query_en": "Smart TV streaming video apps"
+            "anchor": "Interesses comerciais da empresa",
+            "query_en": "Google targeted advertising digital marketing"
           },
           {
-            "anchor": "Vídeos de longa duração",
-            "query_en": "Person watching video on smart TV"
-          },
-          {
-            "anchor": "Estratégia da Meta para o mercado",
-            "query_en": "Meta office and technology branding"
+            "anchor": "Como desativar o recurso no Android",
+            "query_en": "Android settings menu smartphone display"
           }
         ]
       }
     },
     {
-      "id": "5d35c8a7-2ccf-42d4-a6be-bdb7eb11a58b",
-      "title": "Como Star Wars Battlefront II resgatou o potencial desperdiçado da Capitã Phasma",
-      "category": "Games",
+      "id": "aa24e6f6-67c9-49a3-a376-7c6f232ec8c0",
+      "title": "Pensilvânia aprova lei para regulamentar anúncios gerados por inteligência artificial",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Star Wars Battlefront 2 Captain Phasma gameplay and hero showcase",
+        "video_query_en": "Pennsylvania AI deceptive advertising act law Josh Shapiro",
         "images": [
           {
-            "anchor": "O destino melancólico da Capitã Phasma nos cinemas",
-            "query_en": "Gwendoline Christie Captain Phasma Star Wars The Last Jedi"
+            "anchor": "O objetivo da nova legislação",
+            "query_en": "artificial intelligence advertising signboard digital marketing"
           },
           {
-            "anchor": "A redenção nas mecânicas de Star Wars Battlefront II",
-            "query_en": "Star Wars Battlefront 2 Captain Phasma villain unit gameplay"
-          },
-          {
-            "anchor": "O confronto final e o futuro da franquia",
-            "query_en": "Star Wars Battlefront 2 Finn versus Captain Phasma"
+            "anchor": "Críticas e desafios de interpretação",
+            "query_en": "law court gavel legal document justice"
           }
         ]
       }
     },
     {
-      "id": "1d3c9d92-7533-4d68-b7dc-b3797cf3f014",
-      "title": "Os 6 melhores livros de Stephen King segundo a avaliação dos leitores no Goodreads",
+      "id": "aa2e23c0-9425-47a2-900c-6d393895d5e7",
+      "title": "Atores de 'Tudo em Família' se reencontram em novas fotos de bastidores após 21 anos",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Stephen King best books Goodreads ranking",
+        "video_query_en": "The Family Stone cast reunion set photos behind the scenes",
         "images": [
           {
-            "anchor": "O impacto cultural e os critérios de avaliação",
-            "query_en": "Stephen King portrait author"
+            "anchor": "O reencontro nas ruas de Nova York",
+            "query_en": "Sarah Jessica Parker Luke Wilson The Family Stone set photos Brooklyn"
           },
           {
-            "anchor": "Obras notáveis fora da lista principal",
-            "query_en": "The Green Mile book Stephen King"
+            "anchor": "Dinâmicas de relacionamentos e o retorno do elenco",
+            "query_en": "Claire Danes Dermot Mulroney The Family Stone movie"
           }
         ]
       }
     },
     {
-      "id": "20f5c8de-6764-4239-bfb5-4a73d4ce453a",
-      "title": "Clayface's Body Horror Draws Divided Reactions For R-Rated Batman Movie",
+      "id": "083754e7-cf8c-4f85-9c6d-8b11ffe61c8c",
+      "title": "A escalação de Josh Hutcherson como Senhor Milagre pode ser a arma secreta do novo DCU",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Josh Hutcherson Mister Miracle DC Universe analysis",
+        "images": [
+          {
+            "anchor": "Os anúncios recentes e o papel de Josh Hutcherson",
+            "query_en": "Josh Hutcherson actor portrait"
+          },
+          {
+            "anchor": "A experiência com grandes franquias",
+            "query_en": "Josh Hutcherson Hunger Games Peeta Mellark"
+          },
+          {
+            "anchor": "Passagem marcante por franquias de grande sucesso baseadas em material impresso.",
+            "query_en": "Josh Hutcherson movies"
+          },
+          {
+            "anchor": "Histórico de atuação em Jogos Vorazes interpretando Peeta Mellark, um dos protagonistas.",
+            "query_en": "Josh Hutcherson Jennifer Lawrence Hunger Games Catching Fire"
+          },
+          {
+            "anchor": "Experiência prévia em produções de grande escala e apelo mundial junto ao público.",
+            "query_en": "Josh Hutcherson red carpet event"
+          },
+          {
+            "anchor": "Onde o Senhor Milagre pode aparecer no cinema",
+            "query_en": "DC Universe Superman movie David Corenswet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49d9c484-b016-4d77-a470-1622624aaf6b",
+      "title": "2 Years Later, The Greatest X-Men Quote Of The Decade Is One Of The Best In Marvel History",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "07c22376-66a3-4c09-ae59-5a2b5d0d50b6",
-      "title": "Clayface lidera as bilheterias nos Estados Unidos após disputa acirrada com documentário de Elizabeth Holmes",
+      "id": "0dd66f6a-bcfc-4e1a-893a-8d49777f570c",
+      "title": "As 10 Maiores Paródias de O Silêncio dos Inocentes no Cinema e na TV",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Clayface movie box office You Can See Everything",
+        "video_query_en": "The Silence of the Lambs best parodies and references in movies and TV",
         "images": [
           {
-            "anchor": "A Disputa pelo Primeiro Lugar",
-            "query_en": "Clayface DC movie still"
+            "anchor": "National Lampoon's Loaded Weapon (1993)",
+            "query_en": "National Lampoon Loaded Weapon Hannibal Leecher F Murray Abraham"
           },
           {
-            "anchor": "Desempenho Financeiro e Orçamentos",
-            "query_en": "You Can See Everything documentary Elizabeth Holmes"
+            "anchor": "American Dad!: \"Roy Rogers McFreely\" (2009)",
+            "query_en": "American Dad Roy Rogers McFreely Roger Smith spotlight"
           },
           {
-            "anchor": "Outros Lançamentos e Desempenho das Demais Obras",
-            "query_en": "Wildwood Laika stop motion movie"
+            "anchor": "The Silence Of The Hams (1994)",
+            "query_en": "The Silence of the Hams Billy Zane Ezio Greggio"
+          },
+          {
+            "anchor": "Clerks II (2006)",
+            "query_en": "Clerks II Jay Silent Bob Silence of the Lambs dance"
+          },
+          {
+            "anchor": "Family Guy: \"Stew-Roids\" (2009)",
+            "query_en": "Family Guy Stew-Roids Chris Buffalo Bill dance"
+          },
+          {
+            "anchor": "South Park: \"Toilet Paper\" (2003)",
+            "query_en": "South Park Toilet Paper Josh Myers cell"
+          },
+          {
+            "anchor": "Robot Chicken: \"Helga's Secret\" (2017)",
+            "query_en": "Robot Chicken Helga Secret Arnold Silence of the Lambs"
+          },
+          {
+            "anchor": "The Office: \"Stress Relief\" (2009)",
+            "query_en": "The Office Stress Relief Dwight CPR dummy mask"
+          },
+          {
+            "anchor": "The Comic Strip Presents: \"Gregory: Diary Of A Nutcase\" (1993)",
+            "query_en": "The Comic Strip Presents Gregory Diary of a Nutcase"
+          },
+          {
+            "anchor": "French And Saunders: \"Silence Of The Lambs\" (1993)",
+            "query_en": "French and Saunders Silence of the Lambs parody"
           }
         ]
       }
     },
     {
-      "id": "cf24ffcc-3397-4f82-9b7a-6423d591f98d",
-      "title": "Novo filme de terror da Blumhouse é removido de centenas de cinemas antes do Halloween",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Other Mommy movie trailer Jessica Chastain",
-        "images": [
-          {
-            "anchor": "Detalhes da produção e recepção crítica",
-            "query_en": "Jessica Chastain Other Mommy movie"
-          },
-          {
-            "anchor": "Desempenho nas bilheterias e concorrência",
-            "query_en": "Clayface DC Studios movie"
-          },
-          {
-            "anchor": "Lucratividade e o cenário financeiro",
-            "query_en": "Blumhouse horror movie theater audience"
-          },
-          {
-            "anchor": "Ficha técnica e próximos passos",
-            "query_en": "Rob Savage director"
-          }
-        ]
-      }
+      "id": "a1a80e7f-6043-4814-8d9b-8bc2a1320a76",
+      "title": "Taylor Sheridan's 5-Part Crime Thriller Has Just 8 Episodes To Prove The Critics Wrong",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "f16780f2-c9d4-4b71-95e5-8d93d5160e94",
-      "title": "O novo visual irreconhecível de Dwayne Johnson em Lizard Music e seu maior teste como ator",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dwayne Johnson Lizard Music Chicken Man movie",
-        "images": [
-          {
-            "anchor": "A trajetória de Dwayne Johnson e a transição para novos gêneros",
-            "query_en": "Dwayne Johnson The Smashing Machine movie"
-          },
-          {
-            "anchor": "O visual surpreendente em Lizard Music",
-            "query_en": "Dwayne Johnson behind the scenes set photos"
-          },
-          {
-            "anchor": "O projeto",
-            "query_en": "Dwayne Johnson actor portrait"
-          },
-          {
-            "anchor": "A identidade do personagem",
-            "query_en": "Chicken with a person close up"
-          },
-          {
-            "anchor": "As primeiras reações",
-            "query_en": "Variety magazine logo or movie set"
-          },
-          {
-            "anchor": "Um teste inédito para a versatilidade de The Rock",
-            "query_en": "Dwayne Johnson Jumanji movie still"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0a26eba9-fb49-4601-b3b4-746270b34802",
-      "title": "Apple TV Is The New HBO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple TV streaming strategy and Emmy success HBO comparison",
-        "images": [
-          {
-            "anchor": "A maior força da HBO tornou-se menos especial na era do streaming",
-            "query_en": "HBO classic prestige television era"
-          },
-          {
-            "anchor": "Apple TV evoluiu do poder das estrelas para a originalidade inovadora",
-            "query_en": "Apple TV original sci fi shows Severance Silo"
-          },
-          {
-            "anchor": "As maiores apostas criativas do Apple TV estão se tornando suas maiores vitórias",
-            "query_en": "Apple TV Emmy Awards celebration success"
-          },
-          {
-            "anchor": "Netflix quis ser a HBO, depois tentou ser tudo",
-            "query_en": "Netflix original series streaming interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ecec234a-0421-4c60-af7e-6a01be234e0c",
-      "title": "Os 10 Vilões Mais Destrutivos da História dos Quadrinhos da DC",
+      "id": "4e42d758-efa9-4b34-8a4b-99f799853b43",
+      "title": "Fallout 4 ganha nova expansão oficial com dungeon e assentamento",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "most destructive villains in dc comics history",
+        "video_query_en": "Fallout 4 The Unmarked Vault mod gameplay",
         "images": [
           {
-            "anchor": "Doomsday",
-            "query_en": "superman vs doomsday dc comics"
+            "anchor": "A espera por novos títulos da franquia",
+            "query_en": "Fallout 4 game cover art wasteland"
           },
           {
-            "anchor": "Mongul",
-            "query_en": "dc villain mongul superman"
+            "anchor": "Conheça The Unmarked Vault",
+            "query_en": "Fallout 4 Vault door interior concept"
           },
           {
-            "anchor": "Darkseid",
-            "query_en": "darkseid dc comics"
+            "anchor": "Recursos inclusos na expansão",
+            "query_en": "Fallout 4 settlement building vault reactor"
           },
           {
-            "anchor": "The Batman Who Laughs",
-            "query_en": "the batman who laughs dc comics"
+            "anchor": "Requisitos e preço para jogar",
+            "query_en": "Fallout 4 vault dweller combat power armor"
           },
           {
-            "anchor": "Nekron",
-            "query_en": "nekron dc comics blackest night"
+            "anchor": "Outras novidades no horizonte de Fallout",
+            "query_en": "Fallout television series prime video cast"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d37a8d7c-bd0e-4e72-ae2b-77a84acac745",
+      "title": "O aguardado reencontro entre Batman e Bane em Dark Knights of Steel II termina em vitória esmagadora",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Dark Knights of Steel II Batman Bane fight",
+        "images": [
+          {
+            "anchor": "O passado entre Bruce e o Flagelo do Rei",
+            "query_en": "Dark Knights of Steel Bruce Wayne Bane"
           },
           {
-            "anchor": "Trigon",
-            "query_en": "trigon dc comics teen titans"
+            "anchor": "Um confronto anticlimático na edição número 4",
+            "query_en": "Dark Knights of Steel II comic book"
           },
           {
-            "anchor": "Imperiex",
-            "query_en": "imperiex dc comics superman"
+            "anchor": "Mudanças no vilão e os próximos passos da trama",
+            "query_en": "DC Comics Dark Knights of Steel characters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1c01da0-72d4-440d-93ac-6c88a3243b18",
+      "title": "After 75 Episodes, Fire Country Still Hasn’t Learned From Repeated Bode Mistake",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "6d446f44-32c3-42dd-b390-875208e3faec",
+      "title": "Every Version Of Batman In DC TV Shows, Ranked",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "0ffa2fc0-4a55-4631-91cc-15b3950ded2e",
+      "title": "Willem Dafoe revela que seu novo filme de terror, Werwulf, promete transformar o gênero",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Willem Dafoe Werwulf Robert Eggers interview horror movie",
+        "images": [
+          {
+            "anchor": "Enredo e Elenco de Peso",
+            "query_en": "Willem Dafoe actor portrait gothic horror"
           },
           {
-            "anchor": "Perpetua",
-            "query_en": "perpetua justice league dc comics"
+            "anchor": "Uma Abordagem Incomum para Lobisomens",
+            "query_en": "Robert Eggers director gothic style"
           },
           {
-            "anchor": "Mandrakk",
-            "query_en": "mandrakk monitor dc comics"
+            "anchor": "Experiência Visual e Reações do Elenco",
+            "query_en": "Werwulf movie dark gothic atmosphere"
           },
           {
-            "anchor": "Anti-Monitor",
-            "query_en": "anti monitor crisis on infinite earths dc comics"
+            "anchor": "O Histórico de Parcerias com Robert Eggers",
+            "query_en": "Willem Dafoe and Robert Pattinson The Lighthouse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "740a1c0e-6cd4-4204-83ce-40d73cc37011",
+      "title": "iPhone Duo: Preços, especificações, problemas de durabilidade e análise completa do primeiro dobrável da Apple",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo review folding design specs durability",
+        "images": [
+          {
+            "anchor": "Lançamento, disponibilidade e filas de espera",
+            "query_en": "Apple Store iPhone Duo launch queue customers"
+          },
+          {
+            "anchor": "Design, dimensões e materiais estruturais",
+            "query_en": "iPhone Duo folded titanium design"
+          },
+          {
+            "anchor": "Controles físicos e acessórios dedicados",
+            "query_en": "iPhone Duo Camera Control button and case"
+          },
+          {
+            "anchor": "Preocupações com durabilidade e problemas na tela",
+            "query_en": "iPhone Duo inner display fold crease crack"
+          },
+          {
+            "anchor": "Autenticação, biometria e câmeras sob a tela",
+            "query_en": "iPhone Duo Touch ID side button sensor"
+          },
+          {
+            "anchor": "Sistema de câmeras duplo e recursos avançados",
+            "query_en": "iPhone Duo dual rear cameras 48MP"
+          },
+          {
+            "anchor": "Desempenho do processador A20 Pro e arquitetura térmica",
+            "query_en": "Apple A20 Pro processor vapor chamber cooling"
+          },
+          {
+            "anchor": "Conectividade e recursos sem fio",
+            "query_en": "iPhone Duo USB-C port and eSIM"
+          },
+          {
+            "anchor": "Bateria, autonomia e carregamento",
+            "query_en": "iPhone Duo dual battery MagSafe charging"
+          },
+          {
+            "anchor": "Preços e comparações com a linha Pro",
+            "query_en": "iPhone Duo compared to iPhone 18 Pro Max"
+          },
+          {
+            "anchor": "Software, multitarefa e suporte ao Apple Pencil",
+            "query_en": "iPhone Duo Split View multitasking iOS 27"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d2b757f-2737-44b5-ac58-518fdf08c1cc",
+      "title": "Apple prepara seu último grande evento do ano com expectativa para MacBook Pro com tela sensível ao toque",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple Pro and Tell event MacBook Pro touchscreen M6 iMac",
+        "images": [
+          {
+            "anchor": "O que esperar do evento Pro and Tell",
+            "query_en": "Apple MacBook Pro event announcement"
+          },
+          {
+            "anchor": "Touchscreen MacBook Pro",
+            "query_en": "Touchscreen MacBook Pro OLED Dynamic Island"
+          },
+          {
+            "anchor": "M6 iMac",
+            "query_en": "Apple iMac M6 chip colorful"
+          },
+          {
+            "anchor": "M6 MacBook Pro",
+            "query_en": "Apple MacBook Pro laptop"
+          },
+          {
+            "anchor": "iPad mini",
+            "query_en": "Apple iPad mini OLED"
+          },
+          {
+            "anchor": "Sem keynote tradicional",
+            "query_en": "Apple press release website update"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e44e2eb-1aa5-487d-82e3-b49db3adf7b4",
+      "title": "A guerra da Sony contra os jailbreaks no PS5 gera nova onda de críticas na internet",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PS5 jailbreak firmware update controversy",
+        "images": [
+          {
+            "anchor": "O contexto das atualizações e dos hacks",
+            "query_en": "PS5 console dashboard and physical games"
+          },
+          {
+            "anchor": "Uma prática antiga com novos protestos",
+            "query_en": "PlayStation 5 console system update screen"
+          },
+          {
+            "anchor": "O impacto nas redes e no mercado",
+            "query_en": "PS5 console next gen gaming setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7c0e1b8e-c3b5-4e9e-b9c6-7b14ea56d467",
+      "title": "Shenmue 3 Enhanced é adiado para o início de 2027 no PlayStation 5",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Shenmue 3 PS5 gameplay trailer",
+        "images": [
+          {
+            "anchor": "A Confirmação Oficial do Adiamento",
+            "query_en": "Shenmue 3 Ryo Hazuki PlayStation 5"
+          },
+          {
+            "anchor": "Melhorias e Novidades da Versão Enhanced",
+            "query_en": "Shenmue 3 enhanced edition gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9040ad19-a0fd-4185-96b3-3fb313ba040e",
+      "title": "Instagram lança aplicativo oficial para Apple TV e amplia expansão nas salas de estar",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Instagram for Apple TV app update",
+        "images": [
+          {
+            "anchor": "O futuro do conteúdo e das telas grandes",
+            "query_en": "Apple TV remote and interface"
           }
         ]
       }
@@ -751,78 +852,41 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "93e3b074-4761-4e2e-aaa2-84b9777aa5a3",
-      "title": "Marvel Confirma o Motivo Trágico por Trás da Natureza Vilanesca do Duende Verde",
+      "id": "7bb50071-673c-4c4b-b163-45b20cbb8234",
+      "title": "Absolute Green Lantern Prepara o Terreno para o Retorno de um Personagem Surreal da DC",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Green Goblin Harry Osborn Marvel Comics Explained",
+        "video_query_en": "Absolute Green Lantern DC Comics review",
         "images": [
           {
-            "anchor": "Requiem for a Goblin e o Adeus a Harry Osborn",
-            "query_en": "Harry Osborn Green Goblin comic book art"
+            "anchor": "O Universo Absoluto e a Reimaginação dos Lanternas Verdes",
+            "query_en": "Green Lantern comic book art DC"
           },
           {
-            "anchor": "O Ciclo da Raiva e o Legado dos Osborn",
-            "query_en": "Norman Osborn Green Goblin comic book"
+            "anchor": "A Aparição dos Alienígenas Amarelos",
+            "query_en": "Animal Man DC comics artwork"
           },
           {
-            "anchor": "O luto de Peter",
-            "query_en": "Peter Parker Spider Man sad comic"
+            "anchor": "Aparição marcante no espelho refletindo atrás de Paul Kirk na prévia da edição #19.",
+            "query_en": "Paul Kirk Manhunter DC comics"
           },
           {
-            "anchor": "Manifestações psicológicas",
-            "query_en": "Green Goblin ghost hallucination comic"
+            "anchor": "Conexões Psicodélicas e o Mistério de Paul Kirk",
+            "query_en": "Grant Morrison Animal Man comic panels"
           },
           {
-            "anchor": "O peso do passado",
-            "query_en": "Harry Osborn childhood trauma marvel"
-          },
-          {
-            "anchor": "A Sabedoria de Mary Jane e o Significado do Duende Verde",
-            "query_en": "Mary Jane Watson Spider Man comic art"
-          },
-          {
-            "anchor": "O papel do alter ego",
-            "query_en": "Green Goblin mask formula marvel comics"
-          },
-          {
-            "anchor": "A permanência da morte de Harry",
-            "query_en": "Harry Osborn death Spider Man"
-          },
-          {
-            "anchor": "A escolha final",
-            "query_en": "Spider Man and Harry Osborn friendship"
+            "anchor": "O Arquivo Manhunter e o Futuro da Trama",
+            "query_en": "DC Comics Green Lantern yellow aliens"
           }
         ]
       }
     },
     {
-      "id": "c4ea2283-8264-404b-b456-d24c70a0b828",
-      "title": "John Wick Terá Sua História de Origem Oficialmente Expandida em Novo Jogo da Saber Interactive",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "John Wick Saber Interactive game trailer analysis",
-        "images": [
-          {
-            "anchor": "As Maiores Lacunas na História do Baba Yaga",
-            "query_en": "John Wick movie action scene Keanu Reeves"
-          },
-          {
-            "anchor": "Colaboração Oficial e Envolvimento de Chad Stahelski e Keanu Reeves",
-            "query_en": "Keanu Reeves Chad Stahelski John Wick"
-          },
-          {
-            "anchor": "Jogabilidade Focada no Estilo Gun-Fu e Plataformas",
-            "query_en": "John Wick gun fu action combat"
-          },
-          {
-            "anchor": "Janela de Lançamento e Previsões",
-            "query_en": "Saber Interactive logo development studio"
-          }
-        ]
-      }
+      "id": "a6475ce4-0d76-4714-8461-e60abd80b386",
+      "title": "David Tennant Undertakes One Of His Harshest Roles Yet In BBC's Hit Crime Series",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
