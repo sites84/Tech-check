@@ -1,728 +1,683 @@
 {
-  "updated_at": "2026-10-27T22:16:17.681Z",
+  "updated_at": "2026-10-28T04:18:09.505Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "71ee8175-a919-43ff-8791-eeedf281679b",
-      "title": "BYD cria pistas de teste públicas para promover a cultura automotiva na China",
+      "id": "e6540fd2-8b00-412b-9652-cf5d6e2f328d",
+      "title": "Chefes de defesa do Japão e dos Estados Unidos discutem produção de munições e estratégia de negação",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "BYD test track public driving experience China",
+        "video_query_en": "US Japan defense ministers meeting munitions production strategy",
         "images": [
           {
-            "anchor": "O Centro Automotivo em Shaoxing",
-            "query_en": "BYD automotive experience center Shaoxing test track"
+            "anchor": "Reunião de alta cúpula entre Japão e Estados Unidos",
+            "query_en": "US and Japan defense chiefs meeting"
           },
           {
-            "anchor": "Objetivos e Contexto de Mercado",
-            "query_en": "BYD electric vehicle driving test track China"
+            "anchor": "Foco em munições e capacidade industrial",
+            "query_en": "military munitions production factory"
           },
           {
-            "anchor": "O projeto em Shaoxing destaca-se por reunir seis percursos distintos.",
-            "query_en": "BYD offroad racing track facility China"
+            "anchor": "Estratégia de negação e cooperação futura",
+            "query_en": "US Japan military alliance training"
           }
         ]
       }
     },
     {
-      "id": "5046526b-ffbf-47fb-91d8-5f477c75f02f",
-      "title": "Hospital ligado à Samsung planeja introduzir robôs humanoides em salas de cirurgia",
+      "id": "7e6f7d86-751f-4418-8340-a22c56f3e913",
+      "title": "Dois homens são acusados no Reino Unido por incidente em base da RAF ligado ao Irã",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "RAF Fairford security incident Iran National Security Act",
+        "images": [
+          {
+            "anchor": "O comparecimento ao tribunal",
+            "query_en": "London court building UK justice"
+          },
+          {
+            "anchor": "O contexto da base da RAF Fairford",
+            "query_en": "RAF Fairford military base England"
+          },
+          {
+            "anchor": "Repercussão internacional e investigações",
+            "query_en": "British police security investigation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "229502bd-cd4e-492d-963d-5200c1bc6198",
+      "title": "Ministério da Agricultura do Japão planeja recompra de arroz para reabastecer estoques",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan rice stockpiles agriculture ministry",
+        "images": [
+          {
+            "anchor": "Recompra de arroz e segurança alimentar",
+            "query_en": "Japanese rice fields agriculture"
+          },
+          {
+            "anchor": "Mudanças no período de armazenamento",
+            "query_en": "Rice storage warehouse Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c13ddbb-f81f-4f88-9faa-a9dd6fe571a4",
+      "title": "Empresas japonesas de transporte marítimo e energia unem forças para promover navios movidos a amônia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ammonia powered ships Japan shipping companies",
+        "images": [
+          {
+            "anchor": "As empresas envolvidas na aliança estratégica",
+            "query_en": "Nippon Yusen cargo ship ocean"
+          },
+          {
+            "anchor": "Foco na construção e operação de navios",
+            "query_en": "Imabari Shipbuilding shipyard Japan"
+          },
+          {
+            "anchor": "Desenvolvimento de cadeias de suprimento de amônia",
+            "query_en": "ammonia fuel marine logistics energy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "647c45f4-b0e4-4715-a1a3-8bbcbdf04e63",
+      "title": "Iniciativa do governo holandês de substituir cargos públicos por inteligência artificial desafia tecnologia e sociedade",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung Medical Center humanoid surgical assistant robots demonstration",
+        "video_query_en": "Dutch government artificial intelligence civil servant job cuts",
         "images": [
           {
-            "anchor": "A chegada dos robôs humanoides aos centros cirúrgicos",
-            "query_en": "humanoid surgical robot in operating room"
+            "anchor": "O ambicioso plano de eficiência na Holanda",
+            "query_en": "Netherlands government building architecture Amsterdam"
           },
           {
-            "anchor": "O contexto de escassez de pessoal médico",
-            "query_en": "Samsung Medical Center hospital building Seoul"
+            "anchor": "Áreas afetadas e isenções previstas",
+            "query_en": "Dutch police officers on duty Netherlands"
           },
           {
-            "anchor": "A demonstração oficial e o avanço da inteligência artificial física",
-            "query_en": "AI surgical assistant robot demonstration"
+            "anchor": "Comparação internacional e impacto proporcional",
+            "query_en": "Elon Musk Washington DC federal government"
           }
         ]
       }
     },
     {
-      "id": "59e73d04-a7fd-484f-83ab-c2dcec7555c3",
-      "title": "Japan banks, fintech step up digital currency push for trade settlements",
+      "id": "b2078bf9-be28-48ce-8fcf-9dc2bc2b2215",
+      "title": "Arsenal manger laments ‘very sad day’ after Fleetwood stuns Premier League giant in League Cup",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
     },
     {
-      "id": "141e309c-cefc-4e47-8f04-a56976d45c97",
-      "title": "HP e Asus transferem parte da produção de PCs de volta para a China devido a aumentos de custos impulsionados por IA",
-      "category": "Computadores",
+      "id": "45a0d522-2711-45b3-862f-f67d60b4a345",
+      "title": "Hillary Clinton visita o Museu Memorial da Paz em Hiroshima",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "HP and Asus PC manufacturing shift to China supply chain AI cost",
+        "video_query_en": "Hillary Clinton Hiroshima Peace Memorial Museum visit",
         "images": [
           {
-            "anchor": "O retorno parcial à China",
-            "query_en": "factory manufacturing personal computers assembling line"
+            "anchor": "Uma visita em caráter privado a Hiroshima",
+            "query_en": "Hiroshima Peace Memorial Museum exterior"
           },
           {
-            "anchor": "O impacto da inteligência artificial nos custos",
-            "query_en": "artificial intelligence computer hardware chip components"
-          },
-          {
-            "anchor": "Novos parceiros e fabricantes contratados",
-            "query_en": "modern electronics manufacturing facility assembly plant"
+            "anchor": "Acompanhamento e declarações oficiais",
+            "query_en": "Hillary Clinton speaking publicly"
           }
         ]
       }
     },
     {
-      "id": "34dfac8a-c85e-4c45-95f8-1459adfd8d4e",
-      "title": "Takeda lança medicamento inovador para narcolepsia após 15 anos de pesquisa",
+      "id": "56734b55-66a2-423d-b0fa-e7fb70cff361",
+      "title": "Grupos de direitos humanos criticam candidatura de diplomata dos Emirados Árabes Unidos a líder da ONU",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Takeda narcolepsy drug Orzeyful development",
+        "video_query_en": "UN Secretary General race UAE diplomat Lana Nusseibeh",
         "images": [
           {
-            "anchor": "O início da jornada científica no Japão",
-            "query_en": "Shonan Health Innovation Park Fujisawa Japan"
+            "anchor": "O contexto da candidatura na ONU",
+            "query_en": "United Nations headquarters flag building New York"
           },
           {
-            "anchor": "Impacto no mercado farmacêutico global",
-            "query_en": "Takeda Pharmaceutical headquarters Tokyo"
-          },
-          {
-            "anchor": "O Orzeyful diferencia-se por mirar a causa raiz da narcolepsia e não apenas os sintomas.",
-            "query_en": "narcolepsy treatment medication research"
+            "anchor": "O impacto na corrida pela liderança",
+            "query_en": "UN Security Council chamber meeting room"
           }
         ]
       }
     },
     {
-      "id": "91e1a07c-fcb5-4cae-90f8-5f51bc9caf96",
-      "title": "A Inteligência Artificial revive as fitas magnéticas e a Fujifilm anuncia sua maior expansão em duas décadas",
+      "id": "445b827b-fad1-4352-bf2f-2dcda661fd33",
+      "title": "Indústria de criptomoedas investe US$ 176 milhões nas eleições de meio de mandato nos EUA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "crypto industry spending US midterms elections",
+        "images": [
+          {
+            "anchor": "A estratégia de longo prazo do setor cripto",
+            "query_en": "cryptocurrency bitcoin concept digital assets washington dc"
+          },
+          {
+            "anchor": "Seleção rigorosa de candidatos com chances reais",
+            "query_en": "united states capitol building washington dc congress"
+          }
+        ]
+      }
+    },
+    {
+      "id": "781712a7-7e05-4217-a4d2-c7c159ca8f3e",
+      "title": "A Era da Inteligência Artificial na Moda: Substituição de Rostos e Clones Digitais",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Fujifilm magnetic tape AI data storage production increase",
+        "video_query_en": "AI fashion models digital twins impact on industry",
         "images": [
           {
-            "anchor": "O papel essencial das fitas magnéticas no ecossistema atual",
-            "query_en": "magnetic tape data storage backup server room"
+            "anchor": "A Promessa da Redução de Custos",
+            "query_en": "AI generated fashion models retail website"
           },
           {
-            "anchor": "Estratégia de investimento da Fujifilm",
-            "query_en": "Fujifilm corporate building Tokyo Japan"
+            "anchor": "O Impacto na Indústria de Modelos",
+            "query_en": "fashion model professional digital twin AI threat"
           },
           {
-            "anchor": "Quintuplicação da capacidade de produção",
-            "query_en": "magnetic tape cartridges data center archive"
+            "anchor": "Investigação e Acordos Comerciais",
+            "query_en": "fashion photo shoot backstage professional models"
           },
           {
-            "anchor": "Maior expansão em duas décadas",
-            "query_en": "Fujifilm manufacturing plant technology"
+            "anchor": "Entrevistas com 15 diretores de agências de modelos para avaliar o impacto real no mercado.",
+            "query_en": "modeling agency director meeting office"
           },
           {
-            "anchor": "Foco em dados críticos",
-            "query_en": "enterprise data center server racks backup"
+            "anchor": "Revisão de mais de uma dezena de contratos confidenciais de ensaios fotográficos.",
+            "query_en": "fashion contract agreement signing paperwork"
+          },
+          {
+            "anchor": "Análise de termos propostos por marcas renomadas.",
+            "query_en": "luxury fashion brand boutique storefront"
           }
         ]
       }
     },
     {
-      "id": "9626491f-1c68-4991-b7b6-a363a1f1c12f",
-      "title": "A ascensão da Índia sobre o Japão e o alerta para ambas as nações",
+      "id": "f943e7c3-943c-41dc-b1d7-9f4cfd0f3b21",
+      "title": "Com menos crianças na China, laticínios repensam o leite para adultos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "India economy surpassing Japan Narendra Modi Sanae Takaichi",
+        "video_query_en": "China falling birth rate milk market dairy industry",
         "images": [
           {
-            "anchor": "O cenário político e econômico entre Nova Delhi e Tóquio",
-            "query_en": "Narendra Modi and Sanae Takaichi meeting New Delhi"
+            "anchor": "Novos produtos para o público maduro",
+            "query_en": "Yili powdered milk supermarket China elderly nutrition"
           },
           {
-            "anchor": "Os desafios de Narendra Modi na Índia",
-            "query_en": "Narendra Modi speaking India economy"
-          },
-          {
-            "anchor": "A missão de Sanae Takaichi no Japão",
-            "query_en": "Sanae Takaichi Prime Minister of Japan"
-          },
-          {
-            "anchor": "Reflexões de especialistas sobre o futuro asiático",
-            "query_en": "Tokyo skyline and business district Japan"
+            "anchor": "A resposta do mercado internacional e concorrentes",
+            "query_en": "Meiji dairy products supermarket China"
           }
         ]
       }
     },
     {
-      "id": "f13b4ea6-9f72-40b4-a63e-8dea57fa266c",
-      "title": "EUA planejam suspender isenção de vistos para cidadãos chineses em território no Pacífico",
+      "id": "0eabd6ad-7664-440c-a64a-58fc405c1e4e",
+      "title": "Eleições nos EUA: Resistência de eleitores contra data centers eleva riscos para fornecedores asiáticos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US China tensions Pacific islands Northern Mariana Islands visa waiver",
+        "video_query_en": "US data center protests local community opposition artificial intelligence",
         "images": [
           {
-            "anchor": "Motivos da suspensão e o contexto estratégico",
-            "query_en": "US Department of Homeland Security Washington DC seal"
+            "anchor": "O impacto nas comunidades locais e protestos",
+            "query_en": "protest against data center construction united states"
           },
           {
-            "anchor": "Impacto regional e tensões no Pacífico",
-            "query_en": "Northern Mariana Islands landscape Pacific ocean"
+            "anchor": "Consumo massivo de eletricidade, que pressiona e ameaça a estabilidade das redes elétricas locais.",
+            "query_en": "data center power grid infrastructure energy consumption"
+          },
+          {
+            "anchor": "Demanda colossal por recursos hídricos necessários para a refrigeração constante dos servidores.",
+            "query_en": "data center cooling system water usage infrastructure"
+          },
+          {
+            "anchor": "Impactos sonoros contínuos gerados pelos sistemas de ventilação e resfriamento das grandes instalações.",
+            "query_en": "large industrial data center cooling fans exterior"
+          },
+          {
+            "anchor": "Desvalorização imobiliária e alteração drástica na paisagem de comunidades rurais e suburbanas.",
+            "query_en": "suburban neighborhood near large industrial data center building"
+          },
+          {
+            "anchor": "Ceticismo público em relação aos benefícios reais gerados por essas estruturas para os moradores locais.",
+            "query_en": "local community town hall meeting residents protesting"
+          },
+          {
+            "anchor": "Consequências para a cadeia de suprimentos na Ásia",
+            "query_en": "asian semiconductor manufacturing factory cleanroom electronics"
           }
         ]
       }
     },
     {
-      "id": "ef53e84c-ce3f-4b34-a307-778892e03266",
-      "title": "Grupo educacional japonês Gakken retorna à Índia com foco em valores morais",
+      "id": "8ee16ea3-60cf-46ba-9c49-bc86c3bbe4ab",
+      "title": "ShopBack planeja entrada no Japão no próximo ano com foco em parceria com empresas locais",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Gakken education group Japan India return",
+        "video_query_en": "ShopBack cashback app business strategy Japan",
         "images": [
           {
-            "anchor": "A parceria local e a adaptação do conteúdo",
-            "query_en": "classroom educational materials students india"
+            "anchor": "A Estratégia de Entrada no Mercado Japonês",
+            "query_en": "Tokyo business district commercial buildings Japan"
           },
           {
-            "anchor": "O retorno estratégico ao mercado indiano",
-            "query_en": "tokyo japan business building exterior"
+            "anchor": "Fornecimento de tecnologia de cashback para empresas locais",
+            "query_en": "mobile payment smartphone shopping tech"
           },
           {
-            "anchor": "Desenvolvimento conjunto de materiais didáticos com uma empresa indiana",
-            "query_en": "indian school children classroom learning"
+            "anchor": "Contexto e Perspectivas da Região",
+            "query_en": "Singapore skyline business financial district"
           }
         ]
       }
     },
     {
-      "id": "c13db706-71e9-47e4-b691-063ea4f5f139",
-      "title": "A trajetória de Stephen Schwarzman: relações diplomáticas e conexões globais",
+      "id": "0059e87a-c602-4cfc-b3a0-2c014ec3cfbf",
+      "title": "Chefes de defesa da ASEAN e do Quad colocam as Filipinas à prova diplomática",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Stephen Schwarzman diplomacy Donald Trump Xi Jinping",
+        "video_query_en": "ASEAN and Quad defense chiefs meeting Philippines Cebu",
         "images": [
           {
-            "anchor": "Relações históricas com lideranças americanas",
-            "query_en": "Stephen Schwarzman Donald Trump"
+            "anchor": "O contexto das reuniões em Cebu",
+            "query_en": "Cebu Philippines skyline and government buildings"
           },
           {
-            "anchor": "Atuação na diplomacia entre Estados Unidos e China",
-            "query_en": "Stephen Schwarzman Xi Jinping"
+            "anchor": "Desafios de segurança regional e internacional",
+            "query_en": "South China Sea naval vessels patrol"
           },
           {
-            "anchor": "O legado de uma carreira multifacetada",
-            "query_en": "Stephen Schwarzman portrait"
+            "anchor": "Reunião de dois dias realizada em Cebu, nas Filipinas.",
+            "query_en": "Philippine defense official meeting international delegates"
+          },
+          {
+            "anchor": "Presença de chefes de defesa da ASEAN e de parceiros-chave.",
+            "query_en": "ASEAN defense ministers summit meeting"
+          },
+          {
+            "anchor": "Participação de autoridades de alto escalão dos Estados Unidos, Índia, Japão e Austrália (Quad).",
+            "query_en": "Quad alliance foreign ministers meeting flags"
+          },
+          {
+            "anchor": "Foco nos debates voltado para as tensões no Mar do Sul da China e para o conflito no Oriente Médio.",
+            "query_en": "Geopolitical summit conference room tables"
           }
         ]
       }
     },
     {
-      "id": "ed7d08d5-fe7c-4dc3-a7d9-b6bb58742257",
-      "title": "Termômetro inteligente com higigrômetro da Govee está em oferta na Amazon por 11,39 euros",
-      "category": "Smartphones",
+      "id": "33e7dc80-14eb-4d70-9f46-970c066c6694",
+      "title": "A economia dos fãs no Japão cresce enquanto falências de agências de talentos atingem recorde",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Govee smart thermometer hygrometer bluetooth review",
+        "video_query_en": "Japan fandom economy oshikatsu talent agencies",
         "images": [
           {
-            "anchor": "Oferta de dispositivo inteligente na Amazon",
-            "query_en": "Govee smart thermometer hygrometer Amazon"
+            "anchor": "A transformação digital da fama e do estrelato",
+            "query_en": "Tokyo digital content creators fans Japan"
           },
           {
-            "anchor": "Funcionalidades de medição e conectividade",
-            "query_en": "Govee thermometer bluetooth smartphone app"
+            "anchor": "O impacto econômico e a expansão do mercado",
+            "query_en": "Japan pop culture merchandise store fans"
           },
           {
-            "anchor": "Contexto de navegação e avisos do site de origem",
-            "query_en": "Golem de website interface"
+            "anchor": "Crescimento do mercado oshikatsu avaliado em US$ 26 bilhões.",
+            "query_en": "Japanese idol merchandise event Tokyo"
           }
         ]
       }
     },
     {
-      "id": "51d99161-4acc-4a7b-be63-9c758ba8c5fb",
-      "title": "Pendrive 2 em 1 de 128 GB da Orico é ofertado por menos de 22 euros na Amazon",
-      "category": "Computadores",
+      "id": "6f10c62f-0082-4b43-84d9-e26ce97cd1bb",
+      "title": "Lucro trimestral da SK Hynix dispara sete vezes impulsionado por alta demanda de chips de memória",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Orico dual USB C USB A flash drive review",
+        "video_query_en": "SK Hynix quarterly profit memory demand AI",
         "images": [
           {
-            "anchor": "Dupla conectividade para múltiplos dispositivos",
-            "query_en": "Orico dual USB C and USB A flash drive"
+            "anchor": "O impacto da inteligência artificial no mercado de chips",
+            "query_en": "SK Hynix semiconductor factory cleanroom"
           },
           {
-            "anchor": "Conector USB-C para smartphones modernos, tablets e notebooks recentes",
-            "query_en": "USB C flash drive connected to smartphone"
-          },
-          {
-            "anchor": "Conector USB-A tradicional para computadores convencionais, centrais multimídia e consoles",
-            "query_en": "USB flash drive plugged into computer"
-          },
-          {
-            "anchor": "Capacidade e aplicação prática",
-            "query_en": "portable USB memory stick 128GB"
+            "anchor": "Perspectivas do mercado de semicondutores",
+            "query_en": "Advanced memory chips silicon wafer AI"
           }
         ]
       }
     },
     {
-      "id": "bd866773-3093-48e7-90d9-1652354623c7",
-      "title": "O que o prospecto de IPO da Anthropic revela sobre suas finanças e riscos",
+      "id": "94203e85-920b-4579-ac51-bd6a7942e478",
+      "title": "Sri Lanka's anti-corruption drive puts Rajapaksa dynasty in dock",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Política"
+    },
+    {
+      "id": "9990f1c1-02ff-4248-b626-c02f0d4e3229",
+      "title": "Intel anuncia a aquisição da empresa de software quântico Classiq",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Intel acquires quantum computing software company Classiq",
+        "images": [
+          {
+            "anchor": "O anúncio da aquisição",
+            "query_en": "Intel logo and headquarters"
+          },
+          {
+            "anchor": "Estrutura de integração",
+            "query_en": "Quantum computing hardware processor"
+          },
+          {
+            "anchor": "O papel da Classiq",
+            "query_en": "Classiq quantum software platform"
+          }
+        ]
+      }
+    },
+    {
+      "id": "58605849-7717-498d-aabd-3df9f4265dfa",
+      "title": "Receita trimestral da LG Innotek supera 6 trilhões de wons, mas lucro operacional cai pela metade",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Innotek financial results third quarter revenue profit",
+        "images": [
+          {
+            "anchor": "Impacto cambial e queda nos lucros",
+            "query_en": "LG Innotek corporate building office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6fc3c672-bf48-4655-a8fa-c8581d80325f",
+      "title": "HyperAccel contrata ex-executivo da Samsung Securities como novo diretor financeiro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HyperAccel semiconductor fabless startup AI chips",
+        "images": [
+          {
+            "anchor": "A Trajetória de Junyeon Kim",
+            "query_en": "Samsung Securities office building Seoul"
+          },
+          {
+            "anchor": "O Papel da HyperAccel no Mercado",
+            "query_en": "artificial intelligence semiconductor microchip hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "74fd534b-c307-42ac-b639-ee959d1ea6dc",
+      "title": "Doosan investirá 399,2 bilhões de wons em fábrica de laminados para módulos ópticos em Gimje",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Doosan optical module CCL plant Gimje AI data center investment",
+        "images": [
+          {
+            "anchor": "Detalhes do Investimento e Localização",
+            "query_en": "Doosan factory facility industrial plant Gimje"
+          },
+          {
+            "anchor": "- Local da expansão: Planta de Gimje",
+            "query_en": "copper clad laminate CCL electronic material manufacturing"
+          },
+          {
+            "anchor": "Impacto na Cadeia de Suprimentos",
+            "query_en": "optical modules for AI data centers fiber optics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d09bead-b2b4-4c8b-9cc3-64dd62e2b449",
+      "title": "Chips&Media Registra Crescimento Geral no Terceiro Trimestre Impulsionado por Receitas de Licenciamento",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Chips Media semiconductor IP third quarter results AI chips robotics",
+        "images": [
+          {
+            "anchor": "Impulsionamento por Licenciamento de IA e Robótica",
+            "query_en": "artificial intelligence chip semiconductor technology abstract"
+          },
+          {
+            "anchor": "Receita consolidada de 7,162 bilhões divulgada no balanço trimestral",
+            "query_en": "financial results business growth report graph"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79958390-f952-46e9-8b45-c9278eb80e73",
+      "title": "Hanwha Semitech Mira o Mercado Chinês com Montadoras de Chips Mais Rápidas e Precisas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hanwha Semitech chip mounter SMT NEPCON Asia",
+        "images": [
+          {
+            "anchor": "Participação na NEPCON Asia 2026",
+            "query_en": "NEPCON Asia exhibition Shenzhen trade show"
+          },
+          {
+            "anchor": "O Papel da NEPCON Asia",
+            "query_en": "SMT manufacturing electronics assembly technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f480a83d-7d33-4270-af06-a24464ad1d18",
+      "title": "CEO da Samsung Display se encontra com executivo sênior da Applied Materials",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung Display OLED technology manufacturing Applied Materials",
+        "images": [
+          {
+            "anchor": "Encontro de Lideranças no Setor de Telas",
+            "query_en": "Samsung Display office building corporate"
+          },
+          {
+            "anchor": "Possíveis Temas e Tecnologias em Pauta",
+            "query_en": "OLED display technology manufacturing equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b445bc7-7b43-41e3-a109-f080cbd662ff",
+      "title": "APS anuncia a incorporação de sua subsidiária integral UPI",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "APS corporate merger business restructuring",
+        "images": [
+          {
+            "anchor": "Reestruturação societária na APS",
+            "query_en": "corporate headquarters office building business merger"
+          },
+          {
+            "anchor": "Cronograma e próximas etapas",
+            "query_en": "business calendar planning strategy meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b2e676c-fdb9-4162-b2ff-f703bfd54a1d",
+      "title": "Grundfos aposta em eficiência de bombas e reuso de água para apoiar o Net Zero",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Grundfos pump energy efficiency net zero industrial future",
+        "images": [
+          {
+            "anchor": "O compromisso da Grundfos com a sustentabilidade industrial",
+            "query_en": "Grundfos industrial pump system"
+          },
+          {
+            "anchor": "O evento Grundfos Net Zero Industrial Future 2026",
+            "query_en": "Novotel Ambassador Suwon hotel building"
+          },
+          {
+            "anchor": "Soluções focadas no futuro da indústria",
+            "query_en": "Grundfos water treatment and pump technology"
+          },
+          {
+            "anchor": "Eficiência de bombas para reduzir o desperdício de energia elétrica.",
+            "query_en": "industrial water pump energy efficient"
+          },
+          {
+            "anchor": "Reuso de água para diminuir a pegada hídrica das fábricas.",
+            "query_en": "industrial water reuse facility"
+          },
+          {
+            "anchor": "Práticas industriais alinhadas com as metas globais de net zero.",
+            "query_en": "sustainable manufacturing net zero factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71f695dc-b5a9-4f60-b03b-ec1e64245bec",
+      "title": "SMC Korea e Fastech Unem Forças para Apresentar Solução Integrada de Controle de Movimento",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SMC Korea Fastech integrated motion control automation technology",
+        "images": [
+          {
+            "anchor": "Uma Nova Parceria na Automação Industrial",
+            "query_en": "industrial automation factory floor motion control"
+          },
+          {
+            "anchor": "Como Funciona o Sistema Integrado",
+            "query_en": "electric actuator industrial automation system"
+          },
+          {
+            "anchor": "O controlador da Fastech atua como o cérebro da operação, sendo responsável por calcular e emitir os comandos exatos referentes à posição, à velocidade e à força necessária para cada eixo de movimento.",
+            "query_en": "motion controller industrial automation"
+          },
+          {
+            "anchor": "Os atuadores elétricos da SMC Korea funcionam como os executores de alta precisão, recebendo as diretrizes do controlador e convertendo imediatamente esses parâmetros em ações mecânicas no chão de fábrica.",
+            "query_en": "electric actuator industrial equipment"
+          },
+          {
+            "anchor": "Perspectivas para o Mercado de Automação",
+            "query_en": "advanced manufacturing industrial technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "20334ca4-f92c-400e-9636-c4597630ec87",
+      "title": "O provador virtual do ChatGPT leva a experiência de compras direto para o celular na temporada de festas",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic IPO prospectus Financial Times analysis",
+        "video_query_en": "ChatGPT Virtual Try On OpenAI shopping feature demonstration",
         "images": [
           {
-            "anchor": "Compromissos financeiros robustos e obrigações bilionárias",
-            "query_en": "Anthropic financial growth data servers"
+            "anchor": "A chegada da Inteligência Artificial Generativa e o lançamento do ChatGPT",
+            "query_en": "OpenAI ChatGPT virtual try on mobile phone interface"
           },
           {
-            "anchor": "Dinâmicas de poder e governança incomuns",
-            "query_en": "corporate governance boardroom meeting business"
+            "anchor": "O que a imagem sabe e quais são os limites",
+            "query_en": "AI generated fashion try on on smartphone screen"
           },
           {
-            "anchor": "Riscos existenciais e o futuro da inteligência artificial",
-            "query_en": "artificial intelligence ethical risk futuristic technology"
+            "anchor": "Cuidados com representatividade e inspirações no WhatsApp",
+            "query_en": "Person using phone to browse fashion items on chat"
           },
           {
-            "anchor": "Perspectivas para o mercado de tecnologia",
-            "query_en": "stock market IPO bell ringing finance"
+            "anchor": "Vestindo-se para o momento festivo e casamentos",
+            "query_en": "Traditional Indian wedding attire silk saree shopping online"
+          },
+          {
+            "anchor": "Organização de favoritos e atualizações de produtos",
+            "query_en": "Mobile shopping app interface with saved clothes and folders"
           }
         ]
       }
     },
     {
-      "id": "81a78e7c-c879-4828-899f-4b449ff3cb57",
-      "title": "Partido Verde alemão exige responsabilidade civil para empresas de Inteligência Artificial e gestão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "German Green party artificial intelligence regulation liability",
-        "images": [
-          {
-            "anchor": "Responsabilidade Civil e Gestão",
-            "query_en": "artificial intelligence corporate governance liability meeting"
-          },
-          {
-            "anchor": "Fortalecimento de Órgãos Estatais",
-            "query_en": "government technology regulation office building berlin"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6d9af125-c441-40ac-aaeb-3cf9d18a0f37",
-      "title": "Golem.de anuncia workshop online sobre o uso de agentes de IA em tarefas de escritório",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI agents for office tasks Claude workshop",
-        "images": [
-          {
-            "anchor": "O papel dos agentes de IA no escritório moderno",
-            "query_en": "AI assistant working in office environment"
-          },
-          {
-            "anchor": "Estrutura do treinamento online",
-            "query_en": "Online workshop on artificial intelligence training"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3776f166-d4cf-40ae-bf1e-b73111ce02f6",
-      "title": "Canivete suíço Victorinox com 33 funções é encontrado com desconto expressivo na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Victorinox Swiss Army Knife 33 functions review",
-        "images": [
-          {
-            "anchor": "Conheça o Victorinox Swiss Classic e suas 33 funções",
-            "query_en": "Victorinox Swiss Classic pocket knife"
-          },
-          {
-            "anchor": "Condições de oferta e disponibilidade",
-            "query_en": "Amazon package delivery box"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aa7a7c7b-407d-41d5-9ed3-3440e33118e3",
-      "title": "Novo MacBook Pro de 14 polegadas chega ao mercado equipado com o processador Apple M6",
+      "id": "ee03dde9-9e48-43fe-97f2-2128992ed794",
+      "title": "Apple anuncia novos MacBook Pro e iMac com chip M6 e foco em inteligência artificial local",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple MacBook Pro 14 inch M6 review and features",
+        "video_query_en": "Apple M6 MacBook Pro and iMac launch",
         "images": [
           {
-            "anchor": "Novidades do MacBook Pro com Apple M6",
-            "query_en": "Apple M6 chip processor inside MacBook Pro"
+            "anchor": "Preços, disponibilidade e pré-vendas globais",
+            "query_en": "Apple M6 MacBook Pro box and retail store"
           },
           {
-            "anchor": "Autonomia e Disponibilidade",
-            "query_en": "Apple MacBook Pro 14 inch open on a desk"
+            "anchor": "- MacBook Pro de 14 polegadas com chip M6: com preço inicial fixado em 1.999 dólares.",
+            "query_en": "Apple 14 inch MacBook Pro M6"
+          },
+          {
+            "anchor": "- iMac com chip M6: com preço inicial a partir de 1.499 dólares.",
+            "query_en": "Apple iMac M6 desktop computer"
+          },
+          {
+            "anchor": "Desempenho avançado no MacBook Pro com M6",
+            "query_en": "Apple MacBook Pro M6 open display"
+          },
+          {
+            "anchor": "O novo iMac e o salto em inteligência artificial",
+            "query_en": "Apple iMac M6 front view"
           }
         ]
       }
     },
     {
-      "id": "5adcecd1-9094-4cc9-8821-1df31e362a42",
-      "title": "M6-iMac: Apple traz Inteligência Artificial avançada para os computadores de mesa",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple iMac M6 review features",
-        "images": [
-          {
-            "anchor": "Foco em Inteligência Artificial Local",
-            "query_en": "Apple M6 chip processor silicon"
-          },
-          {
-            "anchor": "Design e Cores Vibrantes",
-            "query_en": "colorful Apple iMac desktop computer"
-          },
-          {
-            "anchor": "Desempenho e Eficiência Energética",
-            "query_en": "Apple iMac workspace setup performance"
-          }
-        ]
-      }
-    },
-    {
-      "id": "385cb7da-a883-4afa-942c-10b0aa1780d2",
-      "title": "Lista de ricos da China: Bilionários da inteligência artificial lideram o ranking enquanto cúpula do partido permanece oculta",
+      "id": "927e073a-8913-42dc-a988-13de192c1a38",
+      "title": "OpenAI planeja comprar chips de IA do Google, aponta relatório",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China Hurun Report billionaires artificial intelligence tech",
+        "video_query_en": "OpenAI plans to buy Google AI chips report analysis",
         "images": [
           {
-            "anchor": "O avanço dos bilionários de inteligência artificial",
-            "query_en": "artificial intelligence technology business China city"
+            "anchor": "Uma parceria inusitada entre concorrentes",
+            "query_en": "Google Cloud and OpenAI partnership technology"
           },
           {
-            "anchor": "A opacidade da elite política e o uso de redes familiares",
-            "query_en": "Beijing government buildings modern skyline China"
+            "anchor": "Corrida de infraestrutura e o mercado de chips",
+            "query_en": "Google TPU AI chip hardware"
           },
           {
-            "anchor": "Estratégias de ocultação baseadas em familiares próximos",
-            "query_en": "wealthy Chinese business family meeting corporate"
-          },
-          {
-            "anchor": "Ausência de dados oficiais sobre os ativos da liderança partidária",
-            "query_en": "Great Hall of the People Beijing interior meeting"
-          },
-          {
-            "anchor": "Contraste acentuado entre a exposição dos bilionários de tecnologia e o sigilo político",
-            "query_en": "Shanghai financial district skyscrapers tech economy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "92824cca-a0d5-4500-8b43-d1569c2c4bd4",
-      "title": "Microsoft testa Project Pantheon: a nova função de IA do Windows que aposta no modelo manual",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft Windows AI feature Project Pantheon Recall comparison",
-        "images": [
-          {
-            "anchor": "Como funciona a abordagem multimodal do Project Pantheon",
-            "query_en": "Microsoft Windows operating system AI interface"
-          },
-          {
-            "anchor": "O contraste com o legado do Recall",
-            "query_en": "Microsoft Windows screen privacy security concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4fa0dc9a-3950-4808-849c-22f8b73672ca",
-      "title": "Google DeepMind revela o Genie 4 com suporte a Gemini e geração em tempo real",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google DeepMind Genie 4 virtual world generation AI",
-        "images": [
-          {
-            "anchor": "Principais melhorias e recursos do Genie 4",
-            "query_en": "Google DeepMind AI virtual world simulation graphic"
-          },
-          {
-            "anchor": "Qualidade de imagem aprimorada para maior fidelidade visual nos ambientes gerados",
-            "query_en": "advanced AI 3D rendering virtual environment"
-          },
-          {
-            "anchor": "Física computacional avançada para interações realistas dentro do mundo virtual",
-            "query_en": "physics engine simulation computer graphics"
-          },
-          {
-            "anchor": "Geração paralela e simultânea de áudio, incluindo sons de fundo e conversas",
-            "query_en": "AI audio generation waveform sound design"
-          },
-          {
-            "anchor": "Suporte a movimentos corporais e expressões naturais de personagens na simulação",
-            "query_en": "AI character motion capture virtual simulation"
-          },
-          {
-            "anchor": "Controle dinâmico do ambiente por meio de comandos de texto fornecidos pelo usuário",
-            "query_en": "text to 3D environment generation user interface"
-          },
-          {
-            "anchor": "Integração com Gemini e disponibilidade",
-            "query_en": "Google Gemini AI logo technology interface"
-          },
-          {
-            "anchor": "O impacto dos modelos de mundo na computação",
-            "query_en": "futuristic data center artificial intelligence computing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dfa6d052-c7f6-41a9-a9f2-0a1e043ff265",
-      "title": "Oracle adere ao TPU da Google e acelera movimento de diversificação além das GPUs",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Oracle AI World 2026 Google TPU OCI",
-        "images": [
-          {
-            "anchor": "Os desafios financeiros da era dos modelos de inteligência artificial",
-            "query_en": "AI data center GPU servers rack"
-          },
-          {
-            "anchor": "A estratégia da OCI e a chegada dos TPUs da Google",
-            "query_en": "Google Cloud TPU accelerator hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6815e6dd-2e9d-4830-84ad-3f0b6cfdd661",
-      "title": "Elecom combina dock de 8 portas e dispositivo de mão em um único acessório inovador",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elecom docking station review",
-        "images": [
-          {
-            "anchor": "Design e construção geral",
-            "query_en": "Elecom docking station desktop setup"
-          },
-          {
-            "anchor": "Recursos de conectividade e hub",
-            "query_en": "USB Type C docking station ports back view"
-          },
-          {
-            "anchor": "Controles de mão e personalização",
-            "query_en": "macro pad dial knob shortcut device"
-          },
-          {
-            "anchor": "Problemas de usabilidade e limitações",
-            "query_en": "USB Type C cable connected to computer dock"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b5b9cec1-834e-49e3-9c35-c809210a792b",
-      "title": "Sanwa Supply lança dock USB Type-C com display integrado para monitorar energia e resolução",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanwa Supply USB Type C dock display 400-VGA032",
-        "images": [
-          {
-            "anchor": "Recursos visuais e monitoramento em tempo real",
-            "query_en": "USB Type C docking station with LCD display screen"
-          },
-          {
-            "anchor": "Capacidade de carga e distribuição de energia",
-            "query_en": "multiport USB C charger power delivery brick"
-          },
-          {
-            "anchor": "Desempenho gráfico e conectividade expandida",
-            "query_en": "dual 4K 60Hz HDMI USB C dock"
-          },
-          {
-            "anchor": "Portas e especificações técnicas",
-            "query_en": "Sanwa Supply USB Type C docking station back ports"
-          }
-        ]
-      }
-    },
-    {
-      "id": "73ff9ca4-49a2-4dec-9910-7bcebc3207fb",
-      "title": "Nintendo Indie World: Expectativas e Apostas da Equipe para a Nova Apresentação",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Indie World Showcase trailer 2026",
-        "images": [
-          {
-            "anchor": "As Apostas de Jim Norman",
-            "query_en": "Jim Norman Nintendo Life editor"
-          },
-          {
-            "anchor": "Esoteric Ebb",
-            "query_en": "Esoteric Ebb gameplay Raw Fury"
-          },
-          {
-            "anchor": "Witchbrook",
-            "query_en": "Witchbrook game preview"
-          },
-          {
-            "anchor": "Vikings on Trampolines",
-            "query_en": "Vikings on Trampolines D Pad Studios"
-          },
-          {
-            "anchor": "Baby Steps",
-            "query_en": "Baby Steps game Devolver Digital"
-          },
-          {
-            "anchor": "Signet City e Apple Crumble",
-            "query_en": "Citizen Sleeper Jump Over the Age"
-          },
-          {
-            "anchor": "As Escolhas de Mai Ladyman",
-            "query_en": "Mai Ladyman Nintendo Life"
-          },
-          {
-            "anchor": "Esoteric Ebb e Cassette Beasts 2002",
-            "query_en": "Cassette Beasts game"
-          },
-          {
-            "anchor": "R.E.P.O.",
-            "query_en": "REPO game indie"
-          },
-          {
-            "anchor": "Stardew Valley e The Haunted Chocolatier",
-            "query_en": "The Haunted Chocolatier ConcernedApe"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c55a3337-2099-48bb-aa76-657b8a186c3b",
-      "title": "Portal Nintendo Life convida leitores a compartilharem memórias de The Legend of Zelda: Ocarina of Time",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Legend of Zelda Ocarina of Time gameplay memories",
-        "images": [
-          {
-            "anchor": "O impacto de Ocarina of Time ao longo das décadas",
-            "query_en": "Nintendo 64 controller and Zelda Ocarina of Time cartridge"
-          },
-          {
-            "anchor": "Como participar e enviar sua memória",
-            "query_en": "Link playing Ocarina of Time Nintendo 64"
-          },
-          {
-            "anchor": "O procedimento para envio da mensagem",
-            "query_en": "Person writing on laptop computer gaming community"
-          }
-        ]
-      }
-    },
-    {
-      "id": "68a7f093-ca35-4bec-82fc-5b656966e3ec",
-      "title": "Como o CNET Gera Receita: Guia Explica Fontes de Renda e Transparência Editorial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "CNET revenue model and editorial independence explained",
-        "images": [
-          {
-            "anchor": "Princípios Fundamentais de Integridade",
-            "query_en": "journalism ethics and editorial independence newsroom"
-          },
-          {
-            "anchor": "Fontes de Receita e Divulgações",
-            "query_en": "digital media revenue models online advertising"
-          },
-          {
-            "anchor": "O Papel da Equipe Humana",
-            "query_en": "tech journalists reviewing products in laboratory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a0ea28c1-8f74-49cb-ae6f-24275c42f9c3",
-      "title": "Aviso crítico de PHP acende alerta para vulnerabilidades na infraestrutura da web",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "PHP vulnerabilities web security AI threats",
-        "images": [
-          {
-            "anchor": "Escassez de segurança no PHP",
-            "query_en": "cybersecurity code warning screen"
-          },
-          {
-            "anchor": "Operadores de sites podem ignorar o problema",
-            "query_en": "website server data center administration"
-          },
-          {
-            "anchor": "Frustração para os usuários da web",
-            "query_en": "frustrated user looking at computer screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "20a3a301-eb46-4962-836a-8010a88bd669",
-      "title": "A nova picape elétrica acessível da Ford trará carregamento bidirecional integrado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ford Fathom electric truck bidirectional charging",
-        "images": [
-          {
-            "anchor": "Ford Fathom e a Plataforma EV Universal",
-            "query_en": "Ford electric vehicle platform chassis"
-          },
-          {
-            "anchor": "O sistema não é totalmente isento de hardware residencial",
-            "query_en": "Ford home energy charging station hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d9254b6d-9d6d-46ad-a772-dd314930978b",
-      "title": "Apple Creator Studio traz MotionVFX e assistentes de inteligência artificial para assinantes",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple Creator Studio AI updates MotionVFX Logic Pro",
-        "images": [
-          {
-            "anchor": "Novidades em edição de vídeo e áudio",
-            "query_en": "Apple Final Cut Pro editing software interface Mac"
-          },
-          {
-            "anchor": "Atualizações em design e aplicativos corporativos",
-            "query_en": "Apple Pixelmator Pro generative fill software"
-          },
-          {
-            "anchor": "Disponibilidade e modelos de assinatura",
-            "query_en": "Apple MacBook Pro creative studio workspace"
+            "anchor": "Impacto financeiro e estratégias de hardware",
+            "query_en": "Broadcom custom AI chip technology"
           }
         ]
       }
@@ -776,43 +731,47 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "4a6f7471-1126-44c0-a0e1-d5ed189fa6fe",
-      "title": "AirPods Pro 3 entram em promoção por US$ 179 na Amazon no October Prime Day",
+      "id": "536f170a-2eb9-43a1-82ff-d6dbdb626432",
+      "title": "iPad Mini ganha desconto de 100 dólares na Amazon antes do Prime Big Deal Days",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple AirPods Pro 3 review features",
+        "video_query_en": "Apple iPad Mini review 2024 features",
         "images": [
           {
-            "anchor": "Desconto inédito no October Prime Day",
-            "query_en": "Amazon Prime Day sale shopping concept"
+            "anchor": "Detalhes dos modelos em promoção",
+            "query_en": "iPad Mini 2024 display design"
           },
           {
-            "anchor": "Comparativo com gerações anteriores e concorrentes internos",
-            "query_en": "Apple AirPods lineup comparison"
+            "anchor": "Contexto de preços e avaliação do produto",
+            "query_en": "Apple iPad Mini device"
           }
         ]
       }
     },
     {
-      "id": "f52528e2-421f-4620-8276-97a2706632e9",
-      "title": "MacBook Air M5 com desconto de US$ 200 na Amazon durante o Prime Day",
+      "id": "08b987cc-30a5-4461-938d-7186d8a9828e",
+      "title": "A história do Cr-48: O laptop esquecido da Google que deu origem aos Chromebooks",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple MacBook Air M5 review and discounts",
+        "video_query_en": "Google Cr 48 Chromebook history Version History podcast",
         "images": [
           {
-            "anchor": "O modelo de 13 polegadas",
-            "query_en": "13 inch Apple MacBook Air M5 laptop"
+            "anchor": "O podcast Version History e os convidados especiais",
+            "query_en": "Marques Brownlee Nilay Patel podcast"
           },
           {
-            "anchor": "O modelo de 15 polegadas",
-            "query_en": "15 inch Apple MacBook Air M5 laptop"
+            "anchor": "A temporada focada em tecnologia escolar",
+            "query_en": "One Laptop Per Child XO 1 laptop"
           },
           {
-            "anchor": "Desempenho e experiência de uso",
-            "query_en": "Apple MacBook Air M5 keyboard and screen display"
+            "anchor": "Outros meios e reconhecimento da série",
+            "query_en": "Version History podcast logo"
+          },
+          {
+            "anchor": "Referências históricas sobre o Cr-48",
+            "query_en": "Google Cr 48 laptop Chrome OS"
           }
         ]
       }
