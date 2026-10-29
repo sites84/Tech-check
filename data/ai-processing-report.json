@@ -1,813 +1,743 @@
 {
-  "updated_at": "2026-10-28T17:00:50.788Z",
+  "updated_at": "2026-10-28T22:48:31.194Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "0f59aa65-5b44-482a-aa62-973d4dc5d1e3",
-      "title": "Takaichi e Merz selam acordo para reforçar segurança econômica e cooperação tecnológica",
+      "id": "92dd2970-ded2-4639-8529-2339c03c46d2",
+      "title": "Japan has mastered the red carpet. Almost.",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "61950760-d907-4c0c-8440-2d3109aa90f1",
+      "title": "Takaichi pressiona Merz para incluir o Japão em subsídios de veículos elétricos na Europa",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Friedrich Merz Sanae Takaichi meeting Tokyo",
+        "video_query_en": "Japan EU electric vehicles subsidies Takaichi Merz",
         "images": [
           {
-            "anchor": "Encontro histórico em Tóquio",
-            "query_en": "Friedrich Merz Sanae Takaichi Tokyo"
+            "anchor": "Encontro de líderes em Tóquio",
+            "query_en": "Sanae Takaichi Friedrich Merz Tokyo summit"
           },
           {
-            "anchor": "Declarações conjuntas e preocupações globais",
-            "query_en": "German Chancellor Friedrich Merz press conference"
-          },
-          {
-            "anchor": "Posicionamento diplomático implícito",
-            "query_en": "Japanese Prime Minister Sanae Takaichi official meeting"
+            "anchor": "O impacto para as montadoras japonesas",
+            "query_en": "Japanese electric vehicles Toyota Europe"
           }
         ]
       }
     },
     {
-      "id": "da2162ac-0533-4243-9f97-4d13cfc9e83d",
-      "title": "Turquia lança compromisso sobre inteligência artificial e mudanças climáticas para a COP31",
-      "category": "Inteligência Artificial",
+      "id": "8c7855f6-d887-4b1c-aef2-4cf4dc87853e",
+      "title": "Expectativa de retorno da Toshiba à bolsa atrai fundos e vai além da Kioxia",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AI climate change COP31 data centers",
+        "video_query_en": "Toshiba relisting Kioxia hedge funds stock market",
         "images": [
           {
-            "anchor": "A repercussão entre especialistas",
-            "query_en": "climate summit conference hall Antalya Turkey"
+            "anchor": "O novo foco dos investidores internacionais",
+            "query_en": "Tokyo stock exchange building exterior financial district"
           },
           {
-            "anchor": "- O Compromisso de IA de Antália eleva os dois lados da história climática da inteligência artificial, segundo Evan Tachovsky, diretor de dados e IA do World Resources Institute, uma organização sem fins lucrativos voltada para o clima.",
-            "query_en": "artificial intelligence data center servers green energy"
+            "anchor": "A transformação corporativa e novos mercados",
+            "query_en": "Toshiba corporate headquarters building Tokyo"
           },
           {
-            "anchor": "- A iniciativa aponta na direção correta de acordo com a avaliação de especialistas, embora falhe por carecer de mecanismos de responsabilidade que consigam guiar os países e as empresas de tecnologia para um caminho melhor, conforme apontado por Tachovsky.",
-            "query_en": "united nations climate change conference sign name"
+            "anchor": "O contexto do mercado de semicondutores",
+            "query_en": "Kioxia semiconductor memory chips manufacturing"
+          },
+          {
+            "anchor": "Oportunidades criadas pela venda da participação na Kioxia Holdings.",
+            "query_en": "Kioxia logo corporate building"
+          },
+          {
+            "anchor": "Expectativa em torno da futura alocação de capital pela gerência da Toshiba.",
+            "query_en": "Hedge fund investor looking at financial charts"
+          },
+          {
+            "anchor": "Interesse redobrado de fundos de hedge estrangeiros no mercado japonês.",
+            "query_en": "Tokyo financial district skyscrapers at twilight"
+          },
+          {
+            "anchor": "Aposta nos antigos parceiros e acionistas da empresa como veículo de investimento.",
+            "query_en": "Business handshake financial agreement Tokyo"
+          },
+          {
+            "anchor": "Investimentos estratégicos no setor de discos rígidos e armazenamento avançado.",
+            "query_en": "Hard disk drive storage components server room"
+          },
+          {
+            "anchor": "Tentativa de capturar a demanda impulsionada pelo avanço global da inteligência artificial.",
+            "query_en": "Artificial intelligence server infrastructure data center"
+          },
+          {
+            "anchor": "Mudanças estruturais na esteira da venda de ativos históricos e de participações.",
+            "query_en": "Corporate business meeting Tokyo modern office"
           }
         ]
       }
     },
     {
-      "id": "a03096b5-f2a3-4a68-8a0e-7f950b336e6d",
-      "title": "Terremoto de magnitude 5,4 atinge Tóquio e províncias vizinhas sem deixar alerta de tsunami",
+      "id": "d2442225-bda7-442e-96f5-ae308bcf0b16",
+      "title": "Japão avalia aumento de imposto corporativo para financiar expansão de defesa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan corporate tax defense spending",
+        "images": [
+          {
+            "anchor": "O debate sobre o financiamento militar",
+            "query_en": "Japan parliament Tokyo government"
+          },
+          {
+            "anchor": "Repercussão na comunidade empresarial",
+            "query_en": "Japanese business leaders corporate office Tokyo"
+          },
+          {
+            "anchor": "- O risco de desaceleração na tendência de crescimento dos investimentos privados.",
+            "query_en": "Tokyo stock exchange financial district"
+          },
+          {
+            "anchor": "Contexto das políticas de defesa e economia",
+            "query_en": "Japan Self-Defense Forces equipment defense"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45df1b03-ce51-455f-8eef-1572df90b652",
+      "title": "Análise: Xi Jinping afasta ex-prefeito influente em meio a advertências a autoridades econômicas aposentadas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xi Jinping China economy political purge analysis",
+        "images": [
+          {
+            "anchor": "O significado político de Huang Qifan",
+            "query_en": "Huang Qifan China politician portrait"
+          },
+          {
+            "anchor": "Mensagem clara para a velha guarda",
+            "query_en": "Xi Jinping Beijing Great Hall of the People"
+          }
+        ]
+      }
+    },
+    {
+      "id": "070b2d47-b04d-4186-9d2e-7124ba873b08",
+      "title": "Pedidos de construção no Japão registram primeira queda pós-COVID entre abril e setembro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan construction orders drop post covid costs",
+        "images": [
+          {
+            "anchor": "Impacto dos custos elevados nas reurbanizações",
+            "query_en": "Tokyo urban redevelopment construction site"
+          },
+          {
+            "anchor": "Estratégias de adaptação das construtoras",
+            "query_en": "Japanese construction machinery company site"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0c16562e-7e24-4072-8a6d-5de9154fcb8c",
+      "title": "Japan girds for new wave of food price hikes as tanker rates soar",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
+    },
+    {
+      "id": "60ba7a66-0548-4c5b-9c63-248596b6ab93",
+      "title": "Mizuho conquista papel em IPO da Anthropic após histórico de sucesso nos EUA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mizuho financial group US operations IPO Anthropic SpaceX",
+        "images": [
+          {
+            "anchor": "A expansão do Mizuho no mercado de capitais norte-americano",
+            "query_en": "Mizuho New York office building financial district"
+          },
+          {
+            "anchor": "A importância do histórico com a SoftBank e transações anteriores",
+            "query_en": "SoftBank logo building corporate headquarters Tokyo"
+          },
+          {
+            "anchor": "Participação em IPOs de grande porte nos Estados Unidos.",
+            "query_en": "New York Stock Exchange building facade trading floor"
+          },
+          {
+            "anchor": "O cenário atual e os próximos passos no setor financeiro",
+            "query_en": "financial executives meeting board room corporate finance"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7735d381-ce82-4a0f-ac20-255f330229d2",
+      "title": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google TPUs AI chips competing with Nvidia",
+        "images": [
+          {
+            "anchor": "O Crescimento da Receita da Alphabet e o Papel dos Chips Proprietários",
+            "query_en": "Google headquarters building Palo Alto California"
+          },
+          {
+            "anchor": "A Ascensão das TPUs no Mercado de IA",
+            "query_en": "Google Tensor Processing Unit TPU chip"
+          },
+          {
+            "anchor": "Quase 100 clientes já adotam os chips Tensor Processing Units da gigante da tecnologia para suas demandas de inteligência artificial.",
+            "query_en": "Google AI data center servers"
+          },
+          {
+            "anchor": "Reação do Mercado Financeiro e Perspectivas",
+            "query_en": "Wall Street stock exchange trading floor screens"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1da56fee-5ad5-467d-9fd9-3a83462d4168",
+      "title": "A trajetória filantrópica de Stephen Schwarzman e sua visão sobre investimentos sociais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Stephen Schwarzman philanthropist Blackstone interview",
+        "images": [
+          {
+            "anchor": "A trajetória filantrópica de Stephen Schwarzman e sua visão sobre investimentos sociais",
+            "query_en": "Stephen Schwarzman portrait"
+          },
+          {
+            "anchor": "O compromisso com a filantropia",
+            "query_en": "Blackstone building New York"
+          },
+          {
+            "anchor": "Conexões internacionais e apoio à ciência",
+            "query_en": "Shinya Yamanaka stem cell scientist"
+          },
+          {
+            "anchor": "O legado da série My Personal History",
+            "query_en": "Nikkei Asia headquarters Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f40b536-b366-47a0-bef0-33790e075eed",
+      "title": "Suzuki enfrenta dificuldades com o endurecimento de normas de emissões na Índia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Suzuki emission standards India automobiles",
+        "images": [
+          {
+            "anchor": "O desafio das novas normas ambientais na Índia",
+            "query_en": "Suzuki car India factory"
+          },
+          {
+            "anchor": "O fim de provisões favoráveis",
+            "query_en": "Suzuki small gasoline car India"
+          },
+          {
+            "anchor": "Oposição de concorrentes locais",
+            "query_en": "Indian automobile industry traffic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "23272171-52bf-49f2-ae8b-c001873aeb76",
+      "title": "Viture Pro 2: Óculos OLED substituem monitores tradicionais com taxa de 120 Hz",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Viture Pro 2 review OLED smart glasses",
+        "images": [
+          {
+            "anchor": "O conceito e os recursos técnicos da Viture Pro 2",
+            "query_en": "Viture Pro 2 OLED smart glasses"
+          },
+          {
+            "anchor": "Contexto de mercado e posicionamento",
+            "query_en": "virtual monitor smart glasses workspace"
+          }
+        ]
+      }
+    },
+    {
+      "id": "11c0af78-7827-4a50-b645-eff7c47aaae5",
+      "title": "Hospital da Samsung na Coreia do Sul desenvolve robôs cirúrgicos humanoides",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "earthquake Tokyo Chiba Japan Meteorological Agency",
+        "video_query_en": "Samsung hospital humanoid surgical robot",
         "images": [
           {
-            "anchor": "Detalhes do tremor e intensidade",
-            "query_en": "Japan seismic scale shindo map"
+            "anchor": "O avanço da robótica em hospitais sul-coreanos",
+            "query_en": "surgical robot in operating room"
           },
           {
-            "anchor": "Respostas governamental e ausência de alertas",
-            "query_en": "Prime Minister Office Tokyo Japan building"
+            "anchor": "Detalhes do projeto relatados pelo Nikkei Asia",
+            "query_en": "medical robot technology futuristic"
+          },
+          {
+            "anchor": "A relação entre tecnologia e saúde",
+            "query_en": "advanced hospital technology"
           }
         ]
       }
     },
     {
-      "id": "76fbefd5-d2b9-4d55-b74d-dd458072669f",
-      "title": "Indonésia enfrenta pressão de tripla venda em meio a preocupações com rebaixamento da MSCI",
-      "category": "Empresas",
+      "id": "cfb511d3-756b-4660-95b8-2cecb5a9d024",
+      "title": "Avanços Espaciais Chineses: Inteligência Militar dos EUA Confirma Status de Planador",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Indonesia financial market sell off MSCI downgrade rupiah",
+        "video_query_en": "Chinese space plane US military intelligence",
         "images": [
           {
-            "anchor": "O cenário de pressão nos mercados indonésios",
-            "query_en": "Jakarta financial district skyscrapers skyline Indonesia"
+            "anchor": "Detalhes da Missão Orbital",
+            "query_en": "Chinese space plane in orbit prototype"
           },
           {
-            "anchor": "O impacto da proposta da MSCI",
-            "query_en": "Jakarta Stock Exchange building trading floor Indonesia"
-          },
-          {
-            "anchor": "Desempenho da rupia e das taxas de juros",
-            "query_en": "Indonesian rupiah banknotes currency exchange"
-          },
-          {
-            "anchor": "Respostas e medidas regulatórias locais",
-            "query_en": "Indonesian stock market traders working"
-          },
-          {
-            "anchor": "Reflexos no mercado de capitais e ofertas públicas",
-            "query_en": "Financial charts and stock market graphs down"
+            "anchor": "Implicações para a Segurança Global",
+            "query_en": "military satellite tracking space"
           }
         ]
       }
     },
     {
-      "id": "53754f8e-2418-4e2e-b24f-120774942c3e",
-      "title": "Adani retorna ao lucro impulsionada por unidades de cobre, energias renováveis e aeroportos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Adani Enterprises financial results copper renewables airports",
-        "images": [
-          {
-            "anchor": "O peso dos trimestres anteriores",
-            "query_en": "Adani corporate headquarters building Mumbai India"
-          },
-          {
-            "anchor": "Motores da recuperação financeira",
-            "query_en": "Adani renewable energy solar farm India"
-          },
-          {
-            "anchor": "Fundição de cobre",
-            "query_en": "copper smelting industrial plant manufacturing"
-          },
-          {
-            "anchor": "Produtos de energia renovável",
-            "query_en": "solar panels renewable energy manufacturing facility"
-          },
-          {
-            "anchor": "Divisão de aeroportos",
-            "query_en": "modern international airport terminal building India"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f1e2313b-4224-4f91-b18f-d997391a054d",
-      "title": "Jio, gigante de telecomunicações da Reliance, dispara 27% na estreia e vira a 2ª maior empresa aberta da Índia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Reliance Jio IPO debut stock market India Mukesh Ambani",
-        "images": [
-          {
-            "anchor": "Uma estreia monumental em Mumbai",
-            "query_en": "Mukesh Ambani Nita Ambani National Stock Exchange Mumbai listing"
-          },
-          {
-            "anchor": "O contexto da transição estratégica da Reliance",
-            "query_en": "Reliance Industries telecom towers digital infrastructure India"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a0664c6e-d31b-4055-a926-77c8ec226f17",
-      "title": "Japan Post Bank avalia compra de participação de 20% na Matsui Securities",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan Post Bank Matsui Securities stock trading",
-        "images": [
-          {
-            "anchor": "O contexto da negociação e o alcance do Japan Post Bank",
-            "query_en": "Japan Post Bank building Tokyo"
-          },
-          {
-            "anchor": "O perfil da Matsui Securities no mercado",
-            "query_en": "Matsui Securities office Japan"
-          },
-          {
-            "anchor": "Movimentos recentes no setor financeiro japonês",
-            "query_en": "Tokyo Stock Exchange trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cb86d6bf-19ff-433d-9e7c-4243c1f87035",
-      "title": "Itochu expande portfólio na aviação com investimento em unidade de manutenção de motores do IAG",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Itochu aviation engine maintenance IAG British Airways Iberia",
-        "images": [
-          {
-            "anchor": "A Entrada no Setor de Manutenção e Reparos",
-            "query_en": "aircraft engine maintenance repair facility"
-          },
-          {
-            "anchor": "Contexto Estratégico no Mercado de Aviação",
-            "query_en": "Itochu headquarters Tokyo building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ca1be759-fe65-4283-97e3-fb223efe1a05",
-      "title": "Fornecedora de servidores de IA Dongshan Precision tem estreia fraca na bolsa de Hong Kong",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dongshan Precision Hong Kong IPO AI servers",
-        "images": [
-          {
-            "anchor": "O contexto da estreia e a liderança da empresa",
-            "query_en": "Suzhou Dongshan Precision Manufacturing facility"
-          },
-          {
-            "anchor": "O impacto do ceticismo sobre o boom de IA",
-            "query_en": "Hong Kong stock exchange trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "13c7976d-c238-44fd-b1f0-95b5f99ed391",
-      "title": "HD Korea Shipbuilding registra alta de 37,3% no lucro operacional do terceiro trimestre",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "HD Korea Shipbuilding financial results Q3",
-        "images": [
-          {
-            "anchor": "Desempenho Financeiro e Subsidiárias",
-            "query_en": "HD Korea Shipbuilding shipyard container ship"
-          },
-          {
-            "anchor": "Fatores de Crescimento",
-            "query_en": "modern shipbuilding construction facility"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7e17b703-b481-407c-8a54-57895ac7f1fd",
-      "title": "ChatGPT ganha recurso de provador virtual para revolucionar as compras de fim de ano",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ChatGPT virtual try on feature shopping OpenAI",
-        "images": [
-          {
-            "anchor": "Tentativas anteriores e o desafio do caimento",
-            "query_en": "virtual fitting room technology history"
-          },
-          {
-            "anchor": "Como funciona o provador virtual da OpenAI",
-            "query_en": "ChatGPT interface shopping feature"
-          },
-          {
-            "anchor": "Os limites e cuidados da tecnologia",
-            "query_en": "online shopping fashion fitting app"
-          },
-          {
-            "anchor": "Diversidade e o uso de capturas de tela",
-            "query_en": "AI image generation diverse people"
-          },
-          {
-            "anchor": "Organização de eventos e compras complexas",
-            "query_en": "indian festive wedding fashion shopping"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b402a462-dcfa-4a27-ad7c-76c72a3e1a81",
-      "title": "Coreia do Sul multa Google e Apple em quase US$ 48 milhões por práticas abusivas em lojas de aplicativos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea fines Google and Apple app store practices",
-        "images": [
-          {
-            "anchor": "Decisão regulatória na Coreia do Sul",
-            "query_en": "Seoul South Korea cityscape technology regulation"
-          },
-          {
-            "anchor": "Detalhes das multas e correções exigidas",
-            "query_en": "South Korean flag and smartphone technology"
-          },
-          {
-            "anchor": "Multa aplicada ao Google",
-            "query_en": "Google logo displayed on a smartphone screen"
-          },
-          {
-            "anchor": "Multa aplicada à Apple",
-            "query_en": "Apple logo displayed on an iPhone device"
-          },
-          {
-            "anchor": "Correções estruturais exigidas",
-            "query_en": "Mobile application store payment digital transaction"
-          },
-          {
-            "anchor": "Acusações sobre sistemas de pagamento",
-            "query_en": "In app purchase payment system smartphone interface"
-          },
-          {
-            "anchor": "Irregularidades em revisões e taxas",
-            "query_en": "App store developer review dashboard screen"
-          },
-          {
-            "anchor": "Histórico de regulação na Coreia do Sul",
-            "query_en": "Korea Media and Communications Commission building Seoul"
-          }
-        ]
-      }
-    },
-    {
-      "id": "84320e85-c722-4de7-a74f-604dd121c15a",
-      "title": "Plataforma ULIP nega uso indevido e afirma que dados de veículos são compartilhados apenas mascarados",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Unified Logistics Interface Platform ULIP data security audit India",
-        "images": [
-          {
-            "anchor": "O posicionamento da plataforma ULIP",
-            "query_en": "digital logistics data security portal screen"
-          },
-          {
-            "anchor": "Motivações para a auditoria do Ministério da Estrada",
-            "query_en": "Indian Ministry of Road Transport and Highways office building"
-          },
-          {
-            "anchor": "VAHAN",
-            "query_en": "vehicle registration database computer system India"
-          },
-          {
-            "anchor": "SARATHI",
-            "query_en": "driving license database system India"
-          },
-          {
-            "anchor": "e-Challan",
-            "query_en": "digital traffic fine payment system India"
-          },
-          {
-            "anchor": "PUCC",
-            "query_en": "vehicle pollution check certificate testing India"
-          },
-          {
-            "anchor": "Salvaguardas e conformidade técnica",
-            "query_en": "cybersecurity api monitoring data masking interface"
-          },
-          {
-            "anchor": "Envolvimento de órgãos federais e investigações cibernéticas",
-            "query_en": "cybersecurity forensic audit computer server room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d395ca48-dff6-43e2-9705-20db4f65b73e",
-      "title": "Calendário do Advento de Ferramentas da Bosch Atinge Menor Preço Histórico na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bosch tool advent calendar Amazon price review",
-        "images": [
-          {
-            "anchor": "Desconto Histórico na Amazon",
-            "query_en": "Amazon warehouse distribution center online shopping"
-          },
-          {
-            "anchor": "Concorrência Acirrada com a Wera",
-            "query_en": "Wera tools workshop professional equipment"
-          },
-          {
-            "anchor": "Contexto e Condições de Acesso",
-            "query_en": "Bosch professional power tools retail display"
-          },
-          {
-            "anchor": "Bosch: Calendário do advento de ferramentas com o menor preço histórico na Amazon.",
-            "query_en": "Bosch tool box and equipment"
-          },
-          {
-            "anchor": "Wera: Concorrente direta posicionada muito próxima em termos de relevância e apelo de mercado.",
-            "query_en": "Wera screwdrivers set professional tools"
-          },
-          {
-            "anchor": "Amazon: Plataforma de comércio eletrônico onde a queda de preço foi registrada.",
-            "query_en": "Amazon app on smartphone online retail"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2090f482-2121-4d89-9bb9-ea55174754a3",
-      "title": "A busca pela aplicação com interface gráfica mais antiga em execução no Windows 11",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Windows 11 running old legacy software and GUI applications",
-        "images": [
-          {
-            "anchor": "A busca pelo software pioneiro",
-            "query_en": "Windows 11 desktop operating system interface"
-          },
-          {
-            "anchor": "A evolução das interfaces e o peso do legado",
-            "query_en": "retro computer software running on modern Windows"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a6444039-9eb6-400b-9b8a-0e450a1d1996",
-      "title": "M-net oferece tarifa de fibra óptica de alta velocidade com voucher de jogos de 80 euros",
+      "id": "d88898f7-c028-45f0-852b-b0b05a07da21",
+      "title": "Huawei anuncia solução para o problema de alcance do espectro de 6 GHz com novas tecnologias",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "M-net fiber optic internet gaming voucher",
+        "video_query_en": "Huawei 6 GHz mobile network antenna technology artificial intelligence",
         "images": [
           {
-            "anchor": "Detalhes da oferta de fibra óptica da M-net",
-            "query_en": "M-net router fiber optic internet connection"
+            "anchor": "O papel das novas antenas e materiais",
+            "query_en": "Advanced telecommunication antenna hardware"
+          },
+          {
+            "anchor": "Inteligência artificial como eixo de controle",
+            "query_en": "Artificial intelligence network management server"
           }
         ]
       }
     },
     {
-      "id": "5d8aba26-ec75-43dc-aedc-f689593f90bb",
-      "title": "Amazon oferece iluminação recarregável com sensor de movimento em pacote duplo",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "rechargeable motion sensor cabinet light review",
-        "images": [
-          {
-            "anchor": "Versatilidade de uso na residência",
-            "query_en": "led motion sensor cabinet lights hallway"
-          },
-          {
-            "anchor": "Funcionamento e alimentação",
-            "query_en": "rechargeable under cabinet light with usb"
-          },
-          {
-            "anchor": "Transparência e aspectos de navegação",
-            "query_en": "cookie consent privacy notice website interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f2f90411-9380-44fa-869a-13550d188d8e",
-      "title": "Carregador USB de 45W da Ugreen com visor integrado é ofertado por menos de 26 euros na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ugreen Nexode Pro 45W charger review",
-        "images": [
-          {
-            "anchor": "Detalhes da Oferta e Disponibilidade",
-            "query_en": "Ugreen Nexode Pro charger box and product"
-          },
-          {
-            "anchor": "O Papel do Visor e a Tecnologia Nexode-Pro",
-            "query_en": "Ugreen USB charger with display"
-          },
-          {
-            "anchor": "Considerações sobre la Compra",
-            "query_en": "Ugreen wall charger plugged into power outlet"
-          }
-        ]
-      }
-    },
-    {
-      "id": "047f518e-1131-4866-b817-52a192946b4f",
-      "title": "Câmera Vlogger Sony ZV-E10 II com Lente em Oferta na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sony ZV E10 II review and features",
-        "images": [
-          {
-            "anchor": "Oferta para Vloggers na Amazon",
-            "query_en": "Amazon warehouse shipping boxes and online shopping"
-          },
-          {
-            "anchor": "Detalhes sobre o Equipamento e Economia",
-            "query_en": "Sony ZV E10 II camera with lens"
-          },
-          {
-            "anchor": "Corpo da câmera Sony ZV-E10 II projetado para criadores de conteúdo",
-            "query_en": "Sony mirrorless camera close up"
-          },
-          {
-            "anchor": "Lente inclusa com alcance de 16 a 50 mm para versatilidade diária",
-            "query_en": "camera zoom lens 16 50mm"
-          },
-          {
-            "anchor": "Preço promocional na Amazon alcançando o menor valor histórico da plataforma",
-            "query_en": "shopping cart discount sale tag"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ea323148-6892-47c4-a21c-8c0b507a66b5",
-      "title": "Lenovo Idea Tab com caneta digital está em oferta promocional na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Lenovo Idea Tab review unboxing",
-        "images": [
-          {
-            "anchor": "Oferta especial na Amazon para o Lenovo Idea Tab",
-            "query_en": "Lenovo tablet Amazon package"
-          },
-          {
-            "anchor": "Recursos multimídia e tela de alta resolução",
-            "query_en": "Lenovo Idea Tab 2.5K display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d3ac9ffc-abb8-408b-8c35-37a11a621fee",
-      "title": "Powerstation portátil com alta capacidade e preço reduzido na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anker portable power station review 1024Wh 2000W",
-        "images": [
-          {
-            "anchor": "Especificações Técnicas e Conectividade",
-            "query_en": "Anker portable power station front view"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c56833ae-c7b8-4969-9711-660eaf636d6b",
-      "title": "Nova aplicacao traz de volta a funcionalidade do Android Auto como app independente no smartphone",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Android Auto standalone app smartphone Phoneauto",
-        "images": [
-          {
-            "anchor": "O retorno do Android Auto independente",
-            "query_en": "Android Auto app smartphone screen"
-          },
-          {
-            "anchor": "Conheça a solucao Phoneauto",
-            "query_en": "Phoneauto app interface"
-          },
-          {
-            "anchor": "Phoneauto resgata a experiencia classica do modo automotivo",
-            "query_en": "smartphone mounted in car dashboard GPS"
-          },
-          {
-            "anchor": "Impacto para os motoristas",
-            "query_en": "driver using smartphone in car"
-          }
-        ]
-      }
-    },
-    {
-      "id": "689fd07d-2665-4166-865b-439321cc908d",
-      "title": "SAP planeja economizar 2 bilhões de euros substituindo modelos de IA de alto custo",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SAP artificial intelligence cost reduction strategy",
-        "images": [
-          {
-            "anchor": "Estratégia de otimização de custos",
-            "query_en": "SAP software corporate office building"
-          },
-          {
-            "anchor": "Redução de despesas operacionais ligadas à infraestrutura de inteligência artificial",
-            "query_en": "artificial intelligence data center servers"
-          },
-          {
-            "anchor": "Seleção dinâmica do modelo mais barato para cada tipo de carga de trabalho",
-            "query_en": "business analytics software dashboard"
-          },
-          {
-            "anchor": "Foco na sustentabilidade financeira de projetos de inovação tecnológica",
-            "query_en": "financial growth graph corporate meeting"
-          },
-          {
-            "anchor": "O impacto no mercado corporativo",
-            "query_en": "business meeting discussing technology strategy"
-          },
-          {
-            "anchor": "Reavaliação de contratos de fornecedores de modelos de linguagem de grande escala",
-            "query_en": "software development code on screen"
-          },
-          {
-            "anchor": "Maior ênfase em soluções proprietárias ou de código aberto mais baratas",
-            "query_en": "open source software development concept"
-          },
-          {
-            "anchor": "Busca contínua por margens de lucro elevadas em meio a um cenário econômico desafiador",
-            "query_en": "corporate financial planning and analysis"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1e3bb3b4-78e8-42bd-9ddd-7c42c61acdc3",
-      "title": "Aumento na demanda por Inteligência Artificial eleva taxa de utilização da UMC acima de 90%",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "United Microelectronics UMC semiconductor wafer manufacturing AI demand",
-        "images": [
-          {
-            "anchor": "Impulsionamento pelo mercado de semicondutores",
-            "query_en": "UMC semiconductor wafer fabrication plant"
-          },
-          {
-            "anchor": "Taxa de utilização acima de 90% no segundo semestre",
-            "query_en": "silicon wafer manufacturing cleanroom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9402da71-fc62-436f-ab35-3f88e07d1e6d",
-      "title": "SK Hynix afirma que demanda de clientes por HBM supera o dobro da capacidade de fornecimento",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SK Hynix HBM memory manufacturing supply shortage",
-        "images": [
-          {
-            "anchor": "O impacto da escassez nas pilhas de memória",
-            "query_en": "SK Hynix semiconductor manufacturing cleanroom"
-          },
-          {
-            "anchor": "O cenário da inteligência artificial e semicondutores",
-            "query_en": "High bandwidth memory HBM chip stack"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b24ad471-8c44-4876-b248-461ae23562e0",
-      "title": "Nihon Tsushin adia lançamento de serviço full MVNO em cinco meses devido a desafios técnicos",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nihon Tsushin full MVNO service delay NTT Docomo",
-        "images": [
-          {
-            "anchor": "Descoberta de Questões Técnicas com Outros Operadores",
-            "query_en": "telecommunications network technical challenge server room"
-          },
-          {
-            "anchor": "Procedimentos Futuros e Testes Rigorosos",
-            "query_en": "mobile network testing engineer smartphone connection"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c04bddba-ed23-47b7-a769-a8872564ccdd",
-      "title": "5 anos de povo2.0: os novos passos da operadora com IA para os toppings e parcerias internacionais",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "povo2.0 KDDI summit 5th anniversary artificial intelligence toppings",
-        "images": [
-          {
-            "anchor": "O desafio dos toppings e a ajuda da inteligência artificial",
-            "query_en": "mobile phone plan options smartphone display"
-          },
-          {
-            "anchor": "Grande volume de toppings disponíveis na plataforma",
-            "query_en": "telecom data plan subscription options smartphone app"
-          },
-          {
-            "anchor": "Dificuldade dos usuários em selecionar o pacote ideal para suas necessidades",
-            "query_en": "person confused looking at smartphone screen"
-          },
-          {
-            "anchor": "Implementação de assistentes de inteligência artificial para responder dúvidas",
-            "query_en": "artificial intelligence assistant chatbot on mobile phone"
-          },
-          {
-            "anchor": "Recomendações automatizadas baseadas no perfil de uso de cada cliente",
-            "query_en": "data analytics dashboard on mobile device"
-          },
-          {
-            "anchor": "Cores e cooperação com operadoras internacionais",
-            "query_en": "telecom business conference presentation screen"
-          },
-          {
-            "anchor": "Comparação de estratégias com três submarcas de operadoras na Ásia",
-            "query_en": "asian business summit panel discussion"
-          },
-          {
-            "anchor": "Discussão sobre novos modelos de negócios e co-criação global",
-            "query_en": "global telecommunications network partnership meeting"
-          },
-          {
-            "anchor": "Estratégia voltada para o mercado do Vietnã e parcerias transfronteiriças",
-            "query_en": "vietnam telecommunications market business cityscape"
-          },
-          {
-            "anchor": "Adaptação de modelos de serviços digitais para diferentes públicos regionais",
-            "query_en": "digital mobile network user interface design"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b3326600-d7d9-44b9-a425-eedb91143dba",
-      "title": "Opensignal divulga novo relatório de qualidade de rede móvel no Japão com au liderando dez categorias",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Opensignal mobile network experience report Japan 5G",
-        "images": [
-          {
-            "anchor": "O desempenho de destaque da au",
-            "query_en": "au mobile store Japan sign smartphone"
-          },
-          {
-            "anchor": "NTT Docomo",
-            "query_en": "NTT Docomo store front Japan"
-          },
-          {
-            "anchor": "SoftBank",
-            "query_en": "SoftBank shop building Japan"
-          },
-          {
-            "anchor": "Rakuten Mobile",
-            "query_en": "Rakuten Mobile store front Japan"
-          },
-          {
-            "anchor": "Desafios na adoção do 5G SA",
-            "query_en": "5G network antenna tower Japan"
-          },
-          {
-            "anchor": "O cenário de infraestrutura de próxima geração",
-            "query_en": "telecommunication data center infrastructure"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5aad66b3-124e-4e38-b280-b2930350da64",
-      "title": "NEC pede desculpas por vazamento de informações em parceiro terceirizado e reforça estratégia de segurança",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NEC corporate earnings briefing security incident BluStellar",
-        "images": [
-          {
-            "anchor": "Desculpas oficiais pelo incidente de segurança",
-            "query_en": "NEC corporate headquarters building Tokyo"
-          },
-          {
-            "anchor": "Expansão do suporte em segurança com BluStellar",
-            "query_en": "Cybersecurity network digital transformation technology"
-          },
-          {
-            "anchor": "O compromisso da NEC com a confiabilidade tecnológica",
-            "query_en": "business executive press conference presentation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f20edf75-ca75-4042-b6eb-b66344abc2f5",
-      "title": "Sistema de reservas da JAL sofre acesso não autorizado e vaza dados de 92 mil passageiros",
+      "id": "52390ed7-bacf-4bb1-8055-6592fba6d538",
+      "title": "Integração da diretiva NIS 2 em conceitos de segurança existentes",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Airlines data breach security incident",
+        "video_query_en": "NIS 2 directive cybersecurity corporate compliance workshop",
         "images": [
           {
-            "anchor": "Detalhes do vazamento e informações expostas",
-            "query_en": "Japan Airlines airplane takeoff"
+            "anchor": "O desafio da conformidade com a NIS 2",
+            "query_en": "cybersecurity compliance framework server room"
           },
           {
-            "anchor": "Aproximadamente 92.000 usuários afetados pelo incidente de acesso não autorizado no sistema terceirizado.",
-            "query_en": "cyber security data breach analytics screen"
+            "anchor": "Abordagem prática através de workshops",
+            "query_en": "online workshop security management training"
+          }
+        ]
+      }
+    },
+    {
+      "id": "74c2f76f-2e0a-4c62-a21f-c67f27638bad",
+      "title": "Apple MacBook Pro: O primeiro Mac com tela sensível ao toque chega custando até 16.099 euros",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple MacBook Pro touch OLED M5 Max",
+        "images": [
+          {
+            "anchor": "Novas telas OLED e desempenho gráfico",
+            "query_en": "Apple MacBook Pro OLED display"
           },
           {
-            "anchor": "Vazamento de informações detalhadas de reservas gerenciadas pela Japan Airlines e pela Japan Transocean Air.",
-            "query_en": "airline reservation system computer terminal"
+            "anchor": "Preços e configurações máximas",
+            "query_en": "Apple MacBook Pro high end setup"
           },
           {
-            "anchor": "Exposição de dados altamente sensíveis de alguns passageiros, incluindo números de passaporte.",
-            "query_en": "passport and boarding pass travel documents"
+            "anchor": "MacBook Pro com tela OLED sensível ao toque",
+            "query_en": "MacBook Pro touch screen"
           },
           {
-            "anchor": "Comprometimento de números de telefone de determinados clientes registrados na base.",
-            "query_en": "digital security server firewall protection"
+            "anchor": "Opções de processador M5 Pro e M5 Max",
+            "query_en": "Apple M5 Max chip processor"
           },
           {
-            "anchor": "Medidas adotadas pelas companhias aéreas",
-            "query_en": "IT security professionals working in office"
+            "anchor": "Configuração máxima com preço de até 16.099 euros",
+            "query_en": "Apple MacBook Pro professional workspace"
           },
           {
-            "anchor": "Investigação aprofundada em cooperação com o fornecedor terceirizado afetado pela invasão.",
-            "query_en": "cybersecurity forensic analysis screen"
+            "anchor": "Foco em profissionais de criação e uso corporativo",
+            "query_en": "video editor using MacBook Pro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d818d54d-7ca3-4557-b798-0952c6825d8c",
+      "title": "Amazon expande linha Echo com novas funções e dispositivos para casa inteligente",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Echo Dot smart home features and sleep tracking",
+        "images": [
+          {
+            "anchor": "Novos horizontes para o Echo Dot",
+            "query_en": "Amazon Echo Dot smart home speaker"
           },
           {
-            "anchor": "Verificação de registros e logs do sistema para identificar a rota exata do acesso não autorizado.",
-            "query_en": "server log data analysis cyber attack"
+            "anchor": "Recursos avançados de monitoramento de sono",
+            "query_en": "Smart alarm clock sleep tracking device"
           },
           {
-            "anchor": "Comunicação formal aos clientes cujos dados sensíveis, como passaportes e telefones, foram expostos.",
-            "query_en": "customer support notifications safety alert"
+            "anchor": "Ampliação de telas e displays digitais",
+            "query_en": "Amazon Echo Show smart display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9f1bd6c-f8c2-421f-afab-3d54e2f1da25",
+      "title": "Orange exige indenização de Nokia após pane severa na rede de telefonia móvel",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nokia network outage software update Orange",
+        "images": [
+          {
+            "anchor": "O impacto da falha de software da Nokia",
+            "query_en": "Nokia telecom equipment antenna network"
           },
           {
-            "anchor": "Revisão de protocolos de segurança e acesso na cadeia de fornecedores de TI das companhias.",
-            "query_en": "network security server room infrastructure"
+            "anchor": "Consequências para o mercado de infraestrutura de rede",
+            "query_en": "Orange telecommunications logo storefront"
+          },
+          {
+            "anchor": "A relação entre operadoras e fornecedores de tecnologia",
+            "query_en": "Telecommunication network operations center monitors"
+          },
+          {
+            "anchor": "Falha originada em 21 de outubro de forma repentina.",
+            "query_en": "Mobile phone showing no service signal error"
+          },
+          {
+            "anchor": "Atualização de software defeituosa como causa principal do apagão.",
+            "query_en": "Software update error screen on server"
+          },
+          {
+            "anchor": "Rede de telefonia móvel da Orange completamente paralisada temporariamente.",
+            "query_en": "Telecommunications tower against sky"
+          },
+          {
+            "anchor": "Exigência de indenização financeira formal direcionada à Nokia.",
+            "query_en": "Business contract document signing legal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "47095b84-2bda-41d8-9916-78242f2dcc2e",
+      "title": "Como a Asahi Logi eliminou 826 horas de trabalho com a gestão centralizada de contratos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Asahi Logi contract management digital transformation cloud",
+        "images": [
+          {
+            "anchor": "O desafio da descentralização em 79 locais",
+            "query_en": "corporate contract management office logistics japan"
+          },
+          {
+            "anchor": "A transição para a nuvem e a reforma na base",
+            "query_en": "cloud document management system software dashboard"
+          },
+          {
+            "anchor": "Resultados expressivos e ganho de eficiência",
+            "query_en": "business efficiency digital workflow analytics graph"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d3ac8c1-a561-4122-90a1-d260a606d792",
+      "title": "Rakuten Mobile ultrapassa 11 milhões de linhas impulsionado por melhoria na qualidade de rede, aponta Opensignal",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Rakuten Mobile Opensignal network quality 5G upload download",
+        "images": [
+          {
+            "anchor": "O cenário de portabilidade e a retenção de clientes",
+            "query_en": "Rakuten Mobile store sign Tokyo Japan"
+          },
+          {
+            "anchor": "Os pontos fortes da infraestrutura própria",
+            "query_en": "5G telecommunications tower base station"
+          },
+          {
+            "anchor": "Desafios persistentes em velocidade e cobertura",
+            "query_en": "smartphone signal coverage testing map"
+          },
+          {
+            "anchor": "Perspectivas futuras com o roaming da KDDI",
+            "query_en": "satellite communication antenna tech"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d311ae6-3dc5-4be6-9746-41f40eedf36e",
+      "title": "Apple anuncia o primeiro MacBook Pro com tela sensível ao toque, OLED avançado e chips M5",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple touch screen MacBook Pro OLED M5 review",
+        "images": [
+          {
+            "anchor": "Novidades no design e tela OLED",
+            "query_en": "Apple MacBook Pro OLED tandem display"
+          },
+          {
+            "anchor": "Desempenho com M5 Pro e M5 Max",
+            "query_en": "Apple M5 Pro Max chip architecture"
+          },
+          {
+            "anchor": "Disponibilidade e preço no mercado",
+            "query_en": "New MacBook Pro 14 and 16 inch retail box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3102acc3-5cb7-4caa-aea9-b453b77704c8",
+      "title": "ChatGPT como entrada para sistemas corporativos: Oracle e OpenAI revelam novos serviços",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Oracle OpenAI partnership enterprise AI services",
+        "images": [
+          {
+            "anchor": "O impacto da integração entre ChatGPT e Oracle",
+            "query_en": "Oracle cloud enterprise software interface"
+          },
+          {
+            "anchor": "Os quatro novos serviços anunciados",
+            "query_en": "ChatGPT business integration dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6d083352-2bb0-40ee-b80e-3281bb9088c4",
+      "title": "Como a 京進 (Kyoshin) superou a barreira do PoC com uma equipe enxuta de IA e reduziu 5.600 horas de trabalho",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Kyoshin AI education case study Japan",
+        "images": [
+          {
+            "anchor": "Uma equipe enxuta e focada na expansão",
+            "query_en": "Japanese education office corporate team meeting"
+          },
+          {
+            "anchor": "A superação do obstáculo financeiro",
+            "query_en": "business analytics cost optimization dashboard"
+          },
+          {
+            "anchor": "Lições para o ecossistema educacional e empresarial",
+            "query_en": "modern Japanese cram school classroom interior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab323f3d-13a6-4541-9114-54faffb984b0",
+      "title": "Fim da burocracia: como uma fabricante tradicional com mais de 90 anos revolucionou a gestão financeira e eliminou o trabalho manual",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "corporate accounting automation artificial intelligence DX",
+        "images": [
+          {
+            "anchor": "O desafio da rotina contábil em uma empresa centenária",
+            "query_en": "traditional office paperwork accounting documents stack"
+          },
+          {
+            "anchor": "A implementação da transformação digital e o suporte da inteligência artificial",
+            "query_en": "artificial intelligence financial data analysis software dashboard"
+          },
+          {
+            "anchor": "Os impactos na cultura corporativa e os resultados práticos",
+            "query_en": "modern corporate office digital transformation meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b41f1bad-e2e2-435b-9019-3b64b8aff95c",
+      "title": "Google anuncia o modelo de IA Gemini 4 Carbon com foco em ciberdefesa e autonomia",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Gemini 4 Carbon AI announcement cybersecurity",
+        "images": [
+          {
+            "anchor": "Principais Aprimoramentos e Desempenho",
+            "query_en": "Google AI Gemini artificial intelligence technology abstract"
+          },
+          {
+            "anchor": "Estratégia de Disponibilização Inicial",
+            "query_en": "Google office building technology hardware servers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4542324e-ddc8-4503-bc91-f9a859b6decc",
+      "title": "Editora de Hearth and Hamlet, Runic Forge muda de nome para Pythia Games",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hearth and Hamlet game trailer gameplay",
+        "images": [
+          {
+            "anchor": "O sucesso prévio e o catálogo inicial da Pythia Games",
+            "query_en": "Hearth and Hamlet game screenshot"
+          },
+          {
+            "anchor": "Novos horizontes e parcerias no mercado independente",
+            "query_en": "indie game development studio workspace"
+          }
+        ]
+      }
+    },
+    {
+      "id": "069deb5c-0266-46a7-9d79-eed20caf423f",
+      "title": "PressEngine anuncia The Pre-Show, um evento presencial em Londres para jogos inéditos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PressEngine The Pre-Show London game showcase",
+        "images": [
+          {
+            "anchor": "Detalhes do Evento e Localização",
+            "query_en": "London convention center gaming showcase event"
+          },
+          {
+            "anchor": "Motivações e Crítica ao Formato Digital",
+            "query_en": "game developers playing build at a station"
+          },
+          {
+            "anchor": "Gareth Williams apontou a perda de engajamento autêntico nas transmissões digitais.",
+            "query_en": "Gareth Williams PressEngine"
+          },
+          {
+            "anchor": "A organização defende que streams não substituem a experiência de sentar ao lado de um desenvolvedor.",
+            "query_en": "game journalist hands on preview event"
+          },
+          {
+            "anchor": "O formato presencial busca resgatar a construção de laços e conexões genuínas.",
+            "query_en": "video game industry networking event"
+          },
+          {
+            "anchor": "Logística e Parcerias para os Expositores",
+            "query_en": "indie game developer booth setup showcase"
+          },
+          {
+            "anchor": "Guillotine: Responsável pelo gerenciamento e curadoria dos criadores de conteúdo.",
+            "query_en": "content creators at gaming event"
+          },
+          {
+            "anchor": "Renaissance PR: Encarregada do relacionamento e gestão da imprensa tradicional e especializada.",
+            "query_en": "press conference video game journalists"
+          },
+          {
+            "anchor": "Odd Squad Events: Empresa contratada para administrar a produção e a operação do evento em si.",
+            "query_en": "event production team backstage gaming showcase"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cafef5bb-e2de-4880-91d5-a5e484390528",
+      "title": "Novo processo de chip da Samsung reacende rumores sobre o Nintendo Switch 2 Lite",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nintendo Switch 2 Lite Samsung chip rumour",
+        "images": [
+          {
+            "anchor": "O novo processo 8LPU+ da Samsung",
+            "query_en": "Samsung semiconductor microchip fabrication cleanroom"
+          },
+          {
+            "anchor": "Vantagens técnicas e desempenho",
+            "query_en": "Nvidia computer processor chip macro"
+          },
+          {
+            "anchor": "Perspectivas para uma versão portátil",
+            "query_en": "Nintendo Switch handheld console gaming"
+          },
+          {
+            "anchor": "Cronograma e o fim do Switch original",
+            "query_en": "Nintendo Switch console hardware display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21489aef-a4a5-4a7a-9786-ea7423fdf163",
+      "title": "Tudo o que você precisa saber sobre Cities: Skylines - Expanded Edition no Nintendo Switch 2",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cities Skylines Expanded Edition Nintendo Switch 2 gameplay",
+        "images": [
+          {
+            "anchor": "Cidades muito maiores",
+            "query_en": "Cities Skylines expansive megacity map view"
+          },
+          {
+            "anchor": "Tudo sob controle",
+            "query_en": "Cities Skylines user interface construction tools"
+          },
+          {
+            "anchor": "Expansões e pacotes de conteúdo inclusos",
+            "query_en": "Cities Skylines snow winter expansion gameplay"
+          },
+          {
+            "anchor": "After Dark",
+            "query_en": "Cities Skylines After Dark nightlife expansion"
+          },
+          {
+            "anchor": "Snowfall",
+            "query_en": "Cities Skylines Snowfall winter city trams"
+          },
+          {
+            "anchor": "Green Cities",
+            "query_en": "Cities Skylines Green Cities eco friendly neighborhood"
+          },
+          {
+            "anchor": "Sunset Harbor",
+            "query_en": "Cities Skylines Sunset Harbor fishing industry port"
+          },
+          {
+            "anchor": "Fidelidade recompensada",
+            "query_en": "Nintendo Switch 2 eShop storefront"
           }
         ]
       }
@@ -861,94 +791,16 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "5f371fde-9953-459a-9c96-d393334d7496",
-      "title": "A ascensão, queda e o ressurgimento surpreendente dos tocadores de MP3 portáteis",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "history of portable mp3 players ipod history",
-        "images": [
-          {
-            "anchor": "As origens e os primeiros passos dos players",
-            "query_en": "vintage mp3 player diamond rio pmp300"
-          },
-          {
-            "anchor": "MPMan F10",
-            "query_en": "mpman f10 mp3 player"
-          },
-          {
-            "anchor": "Diamond Rio PMP300",
-            "query_en": "diamond rio pmp300 mp3 player"
-          },
-          {
-            "anchor": "A busca por armazenamento e a revolução do iPod",
-            "query_en": "apple ipod classic vintage music player"
-          },
-          {
-            "anchor": "O declínio provocado pelos smartphones",
-            "query_en": "smartphone evolution vs ipod"
-          },
-          {
-            "anchor": "O mercado atual de áudio dedicado",
-            "query_en": "sony high res audio walkman mp3 player"
-          },
-          {
-            "anchor": "O futuro incerto e novas tentativas no mercado",
-            "query_en": "retro mp3 player modern design"
-          }
-        ]
-      }
+      "id": "446160be-a631-4844-bc07-4d6a4d571335",
+      "title": "Reacher Season 5 Has The Perfect Excuse To Bring Back A Missing Character",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "43be0d8a-2f9e-4752-b9e9-ae5120ca950a",
-      "title": "Os 10 piores mundos distópicos do cinema ordenados do menos ao mais aterrorizante",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "worst dystopian movie worlds ranked film essay",
-        "images": [
-          {
-            "anchor": "1984",
-            "query_en": "1984 movie big brother totalitarian surveillance"
-          },
-          {
-            "anchor": "Children of Men",
-            "query_en": "Children of Men movie clive owen dystopian britain"
-          },
-          {
-            "anchor": "The Hunger Games",
-            "query_en": "The Hunger Games movie panem capitol arena"
-          },
-          {
-            "anchor": "Planet of the Apes",
-            "query_en": "Planet of the Apes 1968 charlton heston ape city"
-          },
-          {
-            "anchor": "Snowpiercer",
-            "query_en": "Snowpiercer movie train frozen earth class system"
-          },
-          {
-            "anchor": "The Maze Runner",
-            "query_en": "The Maze Runner movie flare virus maze"
-          },
-          {
-            "anchor": "Mad Max",
-            "query_en": "Mad Max post apocalyptic wasteland vehicles"
-          },
-          {
-            "anchor": "The Matrix",
-            "query_en": "The Matrix movie simulation neo agent smith"
-          },
-          {
-            "anchor": "28 Years Later",
-            "query_en": "28 years later infected rage virus post apocalyptic"
-          },
-          {
-            "anchor": "The Road",
-            "query_en": "The Road movie ash wasteland father and son"
-          }
-        ]
-      }
+      "id": "ac4ef454-9aa5-4caf-838a-1f21e0c6d103",
+      "title": "Diggers box office bomb is Tom Cruises worst opening in 19 years",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     }
   ]
 }
