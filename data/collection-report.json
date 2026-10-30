@@ -1,565 +1,528 @@
 {
-  "updated_at": "2026-10-29T22:55:23.855Z",
+  "updated_at": "2026-10-30T04:57:10.367Z",
   "inserted": [
     {
-      "id": "80b24781-e6a2-45f4-b619-5c90501e5203",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "id": "a562a73e-1187-4eee-906d-145b971c8731",
+      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
       "source": "TechCrunch"
     },
     {
-      "id": "09b3a13a-0460-4372-850e-22474ab0f074",
-      "title": "Elon Musk is &#8216;truly a genius,&#8217; says Vladimir Putin",
+      "id": "27c9a8d2-dfc2-412a-b8f7-65e39d34e933",
+      "title": "Andy Jassy says Prime Video is on track to earn &#8216;tens of billions of dollars&#8217;",
       "source": "TechCrunch"
     },
     {
-      "id": "78d8fbe1-2830-4626-ba39-837500f24797",
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "id": "17d04e28-756a-4728-bee2-2abe9f0d9166",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
       "source": "TechCrunch"
     },
     {
-      "id": "fd0c3df5-77f9-4674-8bcd-cec87c1b843e",
-      "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "a3635a87-965d-4c31-9b6b-c2c91e717dc3",
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "fb67e673-7de5-4c1e-a522-318be2d8278f",
-      "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "60bf7b62-5f0f-4d56-9f36-793c85b3c890",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "ff680f32-6d7a-46cb-838c-dbff26b5a298",
-      "title": "The R2 SUV is already Rivian&#8217;s best-selling vehicle",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "df03d1d4-61dd-4ec6-b679-ec9cace02b45",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "70aecef1-1e2b-4854-a35b-36f52dc9a076",
-      "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-      "source": "TechCrunch"
-    },
-    {
-      "id": "dd29eff7-682c-4054-8b9d-4a7add3b0a5d",
-      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "114e6804-70d3-480c-ba0d-1985a28ca451",
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "1d4c947f-76f2-4ffa-a7fe-3d870bbcfa77",
-      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "69a8342c-766b-4a9f-bf37-adfa95120ab6",
-      "title": "Trump declares robot imports a national security threat",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "826f27d5-b68a-4a39-bc33-009f395f7890",
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "89169b62-656e-47c4-aad8-823bf5445ccf",
-      "title": "Turning a solar power system into its own backup",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "4c722989-2ee6-447d-b27c-a64e20f3dad4",
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "source": "Ars Technica"
-    },
-    {
-      "id": "58ab221e-18b1-461a-bc3a-720504794c97",
-      "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
-      "source": "Engadget"
-    },
-    {
-      "id": "b46612bb-1342-4e41-8f87-2404d56b8b69",
-      "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
-      "source": "Engadget"
-    },
-    {
-      "id": "77c27093-0d23-4b38-81c6-7b8830e0d6dc",
-      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
-      "source": "Engadget"
-    },
-    {
-      "id": "feec7ec0-9058-4d1f-babe-2b6cc475a551",
-      "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
-      "source": "Engadget"
-    },
-    {
-      "id": "bf8acfa9-f127-48e0-97f1-e46a952e5115",
-      "title": "Reddit will force users to log in as AI is killing search traffic",
-      "source": "Engadget"
-    },
-    {
-      "id": "484b573d-2192-4d34-af9d-d597a3fd9438",
-      "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "source": "Engadget"
-    },
-    {
-      "id": "65b69e14-b3c1-4793-af68-9731a31e197b",
-      "title": "Google brings AI Mode advertisements to more countries",
-      "source": "Engadget"
-    },
-    {
-      "id": "761fcf5f-67fd-4f1b-b31b-d5f9c3b59cd9",
-      "title": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
-      "source": "Engadget"
-    },
-    {
-      "id": "79538447-2124-462c-b5a8-4be287490c3d",
-      "title": "Hacker may have stolen millions in a malware attack against online poker players",
-      "source": "Engadget"
-    },
-    {
-      "id": "7ec65d7d-4bbc-4331-9715-6e7582ff06df",
-      "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
-      "source": "Engadget"
-    },
-    {
-      "id": "e6510f6a-f10d-4945-8cc9-e4aeaf0bf7b1",
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "id": "ebdd5d80-0faf-4833-9d50-72c59007a473",
+      "title": "The director of Obsession put a new horror short on YouTube",
       "source": "The Verge"
     },
     {
-      "id": "322b19b8-79cc-4684-8bd7-81daa084e37e",
-      "title": "Patrick Stewart has died at age 86",
+      "id": "36e48e35-a2af-45ab-8057-522985d792e9",
+      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
       "source": "The Verge"
     },
     {
-      "id": "bf76ab03-b50b-4a50-995d-6634045a7123",
-      "title": "Reddit will force everyone to log in",
-      "source": "The Verge"
-    },
-    {
-      "id": "51b0dab3-8995-4efa-8f15-15c34245c428",
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "source": "The Verge"
-    },
-    {
-      "id": "c7954798-9cd4-4016-8790-6093a34b710d",
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "source": "The Verge"
-    },
-    {
-      "id": "b48504fe-a619-41ca-b0d2-ee5190aeab8a",
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "source": "The Verge"
-    },
-    {
-      "id": "90855082-8abb-4659-aca9-654b805fe10c",
-      "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-      "source": "The Verge"
-    },
-    {
-      "id": "0e43c617-85e8-400d-946c-2800230a5e70",
-      "title": "Apple’s new laptop supports one of the coolest features for color pros",
-      "source": "The Verge"
-    },
-    {
-      "id": "c146e859-e659-4caa-9753-632d58780f39",
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "source": "The Verge"
-    },
-    {
-      "id": "a7b690b8-5a24-4a51-a6a4-0d9164d39efd",
-      "title": "Data centers could send US climate pollution skyrocketing",
-      "source": "The Verge"
-    },
-    {
-      "id": "d0dbccac-c0ef-423a-89a1-6f504ed592ef",
-      "title": "Pre-order Football Manager 27 for 20% off on Fanatical with our code",
-      "source": "VGC"
-    },
-    {
-      "id": "608748ae-b4b0-4896-8269-37a73cf7b43c",
-      "title": "Netflix&#8217;s &#8216;Cyberpunk: Edgerunners 2&#8217; Lends Anime Flair to New &#8216;High Forever&#8217; MV",
+      "id": "2061d1f4-0645-4bc8-822c-96a0201bfcd4",
+      "title": "An Early Guide to the Year’s Oscar-Qualified Animated Shorts",
       "source": "Animation Magazine"
     },
     {
-      "id": "d7b12feb-6735-4e8a-95e3-d102853f0d88",
-      "title": "Emile Awards Announce 2026 European Animation Winners",
+      "id": "14ca6bce-de3f-4bb8-891a-c869f319fed4",
+      "title": "&#8216;Lumo the Lapland Reindeer&#8217; Brings Holiday Magic to Preschoolers on Netflix U.K./Ire.",
       "source": "Animation Magazine"
     },
     {
-      "id": "8d93119e-052b-4a03-b0e8-7e9ed9cd091d",
-      "title": "&#8216;Rascal Does Not Dream of a Dear Friend&#8217; Anime Feature Sets NorAm Release with Crunchyroll",
+      "id": "ae1db401-e5c9-4a00-aa07-797ee9dc190d",
+      "title": "&#8216;Marbles&#8217; Animated Short Receives Kickstarter Culture Fund",
       "source": "Animation Magazine"
     },
     {
-      "id": "5258965c-0b31-4809-800c-f198e86ec8c4",
-      "title": "&#8216;PAW Patrol&#8217; Will Return to the Big Screen in a Fourth Furbulous Feature",
+      "id": "8fc70aa2-28d8-46af-978b-1d4afcb224f9",
+      "title": "Patrick Stewart, Star of &#8216;Star Trek,&#8217; &#8216;X-Men&#8217; and Iconic Voice Roles, Dies Age 86",
       "source": "Animation Magazine"
     },
     {
-      "id": "472c3d54-0f81-4058-b5ed-b6270ee5cd79",
-      "title": "&#8216;Made in Abyss&#8217; Movie Series Reveals New KV, Cast &#038; Pt. 2 in Production",
-      "source": "Animation Magazine"
-    },
-    {
-      "id": "b8a15290-bc14-429c-a22f-b4b4a35b78df",
-      "title": "Crimson Desert&#039;s Huge DLC, Charting the Unknown, Out Now on PS5",
-      "source": "Push Square"
-    },
-    {
-      "id": "50793522-78b6-4dd8-a104-127dbdb222e8",
-      "title": "No New Assassin&#039;s Creed Remakes in the Works at Ubisoft",
-      "source": "Push Square"
-    },
-    {
-      "id": "0fb44833-b07d-4f6e-b583-b75d70a5279a",
-      "title": "Destiny 2 Content Unvaulting Won&#039;t Take Place Until 2028",
-      "source": "Push Square"
-    },
-    {
-      "id": "dd264e8b-6950-43f6-9443-a5af6f566425",
-      "title": "&#039;It Hasn&#039;t Made Any Difference&#039;: Gears of War PS5 Cancellation Fails to Boost Xbox",
-      "source": "Push Square"
-    },
-    {
-      "id": "91a23297-8111-48a3-8d89-96da90ecd3e3",
-      "title": "Assassin&#039;s Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its &#039;Final&#039; Update",
-      "source": "Push Square"
-    },
-    {
-      "id": "be868986-728c-458c-ada5-179cbcd9f66c",
-      "title": "Virtua Fighter&#039;s &#039;Cocky Kid&#039; Lionel Rafale Returns in Crossroads on PS5",
-      "source": "Push Square"
-    },
-    {
-      "id": "6e310744-2d53-4583-8582-61df286a3977",
-      "title": "Best Mac 2026: Every Apple Mac and MacBook compared",
-      "source": "Macworld"
-    },
-    {
-      "id": "8316d9a2-9040-4188-8c9e-630968407280",
-      "title": "Keep your Apple keyboards crumb-free with this Wolfbox electric air duster deal ($20 off)",
-      "source": "Macworld"
-    },
-    {
-      "id": "1ebb8200-c176-4e2f-b8e2-1e01645d5994",
-      "title": "Nathan Fillion’s Original DC Character Return Addressed By James Gunn After Guy Gardner Recast",
+      "id": "9dd386af-5110-4734-876d-4a9cc695df8d",
+      "title": "Transformers Officially Unveils Decepticons Replacement In Eternal War",
       "source": "ScreenRant"
     },
     {
-      "id": "2c586ff9-0a9a-4d4f-a91a-37374705a618",
-      "title": "Zeke Stane’s MCU Return Potential After Ironheart Addressed By Alden Ehrenreich",
+      "id": "064932f9-6990-4fea-8cbd-8a8c2d494432",
+      "title": "18 Years Later, The Anime That Defined 2008 Returns With Perfect New Release",
       "source": "ScreenRant"
     },
     {
-      "id": "4bd6144f-99cf-44d4-875c-0ee8d4867356",
-      "title": "The Lincoln Lawyer Meets Scandal In Acclaimed 4-Part Series Taking Over Streaming",
+      "id": "225d5aca-eec1-42fe-a2db-cfd0cd562709",
+      "title": "Stargate Universe: Destiny Officially Announced",
       "source": "ScreenRant"
     },
     {
-      "id": "3c8f5567-78d5-4734-bcb4-cba3d649b139",
-      "title": "Titus Welliver Praises Peacock's New 8-Part Serial Killer Thriller Series That Needs Season 2",
+      "id": "4d7e3036-0f9b-4cef-a457-ac69efa0fb72",
+      "title": "Netflix’s 24-Episode Fantasy Series Turns Post-Apocalyptic Misery Into A Fairy Tale",
       "source": "ScreenRant"
     },
     {
-      "id": "676a72bd-e699-40cf-8d2e-bd5aa0608dda",
-      "title": "How Old Kristen Bell & Adam Brody Are In Nobody Wants This",
+      "id": "899945cf-0949-4f4e-b9ce-685991015d98",
+      "title": "10 Most Powerful Characters In James Gunn's DCU, Ranked",
       "source": "ScreenRant"
     },
     {
-      "id": "1cd3c9eb-9c3f-49ce-88a8-74c2b6a5c89a",
-      "title": "Essential ACOTAR Reading Order Guide (Including A Court Of Splintered Harmony)",
+      "id": "cda7bd34-3d0c-4c2b-b07f-da57d3433f14",
+      "title": "Dragon Ball: Ranking Every Super Saiyan Transformation from Weakest to Strongest",
       "source": "ScreenRant"
     },
     {
-      "id": "8e11691c-870d-427b-b43c-82a35ea30730",
-      "title": "HBO's Masterpiece 8-Part Psychological Thriller Series Becomes A Must-Watch Once Again",
+      "id": "e7e420bd-fbf6-4ee4-aaf3-e25894dd151e",
+      "title": "10 Most Iconic Transformers Who Are Neither Decepticons Nor Autobots",
       "source": "ScreenRant"
     },
     {
-      "id": "7414ef1c-dbe4-49aa-87fa-942d66d56e52",
-      "title": "Disney's Wednesday Copycat Is So Good, It's Already Renewed For Season 2",
+      "id": "6044cc0b-2df9-4cb2-a368-0bdb0e6783d3",
+      "title": "Chrono Trigger Meets Final Fantasy In Stunning New SNES-Inspired RPG",
       "source": "ScreenRant"
     },
     {
-      "id": "6e735f7a-c020-41ce-9c86-a910ebb517b0",
-      "title": "How La Bola Negra Stars & Directors Gave Lorca’s Unfinished Play The Spotlight It Deserves",
+      "id": "3f952e7f-df8c-4857-bd47-bfce86c93a97",
+      "title": "Reacher & Neagley Only Have One Streaming Rival, And He's A True American Hero",
       "source": "ScreenRant"
     },
     {
-      "id": "f1a12309-b25b-4c50-8b63-237a98a2b9a8",
-      "title": "Sony’s New Adaptation Of 11-Year-Old Lovecraft Meets Bram Stoker Epic Hits Major New Milestone",
+      "id": "2a6a75c7-308d-44d8-8600-71ff7ec608a0",
+      "title": "Paramount+'s 17-Episode Space Opera Was This Close To Sci-Fi Greatness",
       "source": "ScreenRant"
     },
     {
-      "id": "52170042-1bbb-4c07-a4ef-affffab71b56",
-      "title": "Ive lived the dream of Wicker 4DX, and it was phenomenal",
+      "id": "15d7690b-44f0-4a69-9d2c-2c6b3523e6ea",
+      "title": "Hurdle hints and answers for October 30, 2026",
       "source": "Mashable"
     },
     {
-      "id": "32ae9e30-102f-4b28-aa7b-ad68ec55cb92",
-      "title": "Pokémon TCG Delta Reign Booster Bundle preorders are 25% off at Amazon — save nearly $20 ahead of launch",
+      "id": "2e6a8f4c-345a-4833-93f6-e1ea6389428d",
+      "title": "Binance reportedly hacked, billions in crypto stolen",
       "source": "Mashable"
     },
     {
-      "id": "563ffc05-9420-4296-99bd-94cee46cd703",
-      "title": "South Park shows new GTA 6 gameplay footage, and its a turd",
+      "id": "9cb8173a-066e-41b0-860a-734bbe54ad9b",
+      "title": "Skip the $350 cans: Our favorite budget headphones are just under $70 at Amazon",
       "source": "Mashable"
     },
     {
-      "id": "dfce1f7c-24d2-40d6-adfb-28e325394201",
-      "title": "AO3 could be down for a month. Fanfiction readers are not OK.",
+      "id": "c38e5335-ab96-40f5-9b57-b791d1f043ae",
+      "title": "Google stock just had its worst day ever: Why the markets are so spooked",
       "source": "Mashable"
     },
     {
-      "id": "6ad8656b-01ca-4090-b0c0-9ea550a313d4",
-      "title": "What is happening with Kalshi in Utah?",
-      "source": "Mashable"
-    },
-    {
-      "id": "aedd5543-2e9b-4424-9b97-bb17063fb710",
-      "title": "Watch: Obsession director Curry Barker returns with unsettling short Mama Bear",
-      "source": "Mashable"
-    },
-    {
-      "id": "26e40a4e-d3b9-4c83-bb42-1c068d5e2343",
-      "title": "Avatar: Seven Havens finale: Pavi goes on the run in this exclusive clip",
-      "source": "Mashable"
-    },
-    {
-      "id": "a2b519cb-1c7b-4466-b11e-3f80f8465a4a",
-      "title": "The owner of Bugatti had his Bugatti stolen",
-      "source": "Mashable"
-    },
-    {
-      "id": "1f578c2c-bd33-4487-b11a-bea1fe7a3b45",
-      "title": "Underwater data centers are heading for waters that endangered whales call home",
+      "id": "7623cab4-f760-420c-a646-f698dcd6fa5c",
+      "title": "The AI buildout's carbon bill could undo 15 years of power sector emissions cuts",
       "source": "TechSpot"
     },
     {
-      "id": "8831e52f-c460-4058-be0a-f3b9bfb0f747",
-      "title": "Gamers hunting for PS5 emulators on GitHub are downloading malware instead",
-      "source": "TechSpot"
-    },
-    {
-      "id": "3876eb66-8432-4710-8b16-89027a00512a",
-      "title": "SK Hynix expects memory chip shortage to persist until at least 2030",
-      "source": "TechSpot"
-    },
-    {
-      "id": "f20a1985-3af9-4cea-abd7-379b4deaf4a0",
-      "title": "The GTX 750 Ti is back with 8GB of memory, and it can still barely run Cyberpunk",
-      "source": "TechSpot"
-    },
-    {
-      "id": "09b5c5ad-cfe7-43f5-85a0-1edd2ab56abb",
-      "title": "Star Trek and X-Men actor Patrick Stewart dies at 86",
+      "id": "34fb3b04-818c-4cd2-8175-9205bda7c23d",
+      "title": "Phantom Blade Zero is an action RPG for people tired of Soulslikes: Dev says \"have fun, unwind\"",
       "source": "GamesRadar+"
     },
     {
-      "id": "9402ecc3-8dc3-431e-b867-8d3e0648b6f2",
-      "title": "Dev who copied a popular game on Steam complains another copycat \"stole our code\"",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "3d46fce4-2379-4b22-9a19-4da52b53d33b",
-      "title": "Ubisoft is done with Assassin's Creed remakes for now after Black Flag Resynced, Hexe update coming 2027",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "d6cc7389-d448-4f9d-90ef-10f5e81162c7",
-      "title": "Former Valve dev hits back at Epic Games CEO's claims Steam holds gaming back",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "eb16d3ed-cc7d-4bc6-ac52-4cc38ff48771",
-      "title": "Bungie shares hopes for \"a new forever Destiny\" and \"Destiny 'Legacy,'\" but we aren't back yet",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "35758d59-fab1-4fbf-844b-5e2cbb16a4ad",
-      "title": "Celeste dev delists the legendary platformer from Xbox: \"We did this to support the BDS boycott\"",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "6848314b-70d7-45e7-aca5-5d5abdadde07",
-      "title": "James Gunn confuses everyone by confirming The Suicide Squad is \"the first canon film in the DCU\"",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "059992c7-8752-4dba-9e5f-a786f08f1395",
-      "title": "Call of Duty: Modern Warfare 4 devs nerf one of DMZ's most-hated perks",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "8d3eed45-c279-4cdb-894c-7cd47d47dbda",
-      "title": "Romancing Saga 3's improvisational JRPG battles have finally turned me into a fan",
-      "source": "GamesRadar+"
-    },
-    {
-      "id": "0a53bf1e-f0f8-415d-b5c5-4da9c6ef42fe",
-      "title": "Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86",
+      "id": "561f9bcc-0f1f-4269-82f5-308f057ea497",
+      "title": "Here’s Why You’re About to See More Ads in Google’s AI Overviews",
       "source": "CNET"
     },
     {
-      "id": "3e7c0c3f-632f-4938-908e-71eb4bfa88cc",
-      "title": "AO3 Suffers Major Outage: Possibly No Fanfic for 2 Weeks or Longer",
+      "id": "bcb0dd25-640d-4ba4-874d-3deb5514951e",
+      "title": "Remember Patrick Stewart by Streaming Star Trek, X-Men and Other Genre-Defining Roles",
       "source": "CNET"
     },
     {
-      "id": "e798d66f-8530-4412-a5e4-12d84ab1dbb9",
-      "title": "Nvidia Finds Itself at the Center of an AI Spy Saga",
+      "id": "0fbd4804-9743-4d0a-81a0-438a11348772",
+      "title": "The Massive DHS Breach Is Hacktivist Payback for Government Surveillance",
       "source": "CNET"
     },
     {
-      "id": "151f6cf2-340d-4148-8c88-a2efda95f263",
-      "title": "Woman Died After ChatGPT Advised Her to Stop Taking Medication, Lawsuit Alleges",
-      "source": "CNET"
+      "id": "436ccb86-f237-408b-8c32-be37fd309520",
+      "title": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI",
+      "source": "Nintendo Life"
     },
     {
-      "id": "5924a637-3b8b-4017-8e14-5f2528c3a5bb",
-      "title": "DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal",
-      "source": "CNET"
+      "id": "23be556b-f004-4e3e-8463-c7b056ba6ec7",
+      "title": "Poll: So, Have You Got The Zelda 40th Anniversary Switch 2?",
+      "source": "Nintendo Life"
     },
     {
-      "id": "32577cff-3bfc-42c9-9149-a078baaa409f",
-      "title": "Discord、対象の公開サーバー/チャンネルの一部メッセージをWebから検索可能に",
+      "id": "e3e21e86-2e78-4120-b17b-98c7a859fa9b",
+      "title": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away",
+      "source": "Nintendo Life"
+    },
+    {
+      "id": "7d443303-7974-4122-8afd-03d4a3e63a99",
+      "title": "高精細な3D形状を生成するAIモデル「Hi3D V1.0」、重みを公開",
       "source": "PC Watch"
     },
     {
-      "id": "34399c06-da3c-4595-9120-108ccb500c1c",
-      "title": "JAPANNEXT、10点マルチタッチ対応の21.5型IPSフルHDモニター",
+      "id": "4e6efee0-f181-41cb-a564-292eade4bd60",
+      "title": "【本日みつけたお買い得品】クールピーチ味の訳ありカルピスが再度1,298円引きでオトク！Amazonセール",
       "source": "PC Watch"
     },
     {
-      "id": "faa53600-4368-4113-9f82-79ff67393c58",
-      "title": "【やじうまミニレビュー】iPhoneが有線LANで2倍速！磁石でまとまるこのType-Cケーブル、地味にいい",
+      "id": "df40725e-3d6f-459f-83c6-7f84a41a1ec3",
+      "title": "【本日みつけたお買い得品】これで冬の備えは万全！ニトリのこたつテーブルが約2千円引き",
       "source": "PC Watch"
     },
     {
-      "id": "2e03ce10-765b-4182-b8c0-06cd1e038974",
-      "title": "終わり近づくWindows 10搭載PC、UbuntuとChromeOSでまだ戦えるかも！",
+      "id": "73348485-f76f-476b-8c7c-47e4af6b6efb",
+      "title": "ChatGPT Pro全プランとBusiness Premiumの利用上限が2倍に",
       "source": "PC Watch"
     },
     {
-      "id": "1d8bb2a1-8dfb-4cef-82dc-91b71ad0b006",
-      "title": "Linux-L�cke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch",
-      "source": "Golem.de"
+      "id": "3cb7f8a5-a4eb-4808-b49c-bf4c8fdfd955",
+      "title": "Baidu、数百ページの長文も高速OCRできる「Unlimited OCR 2」公開",
+      "source": "PC Watch"
     },
     {
-      "id": "1b534fab-a7bd-4afb-b605-5c2500156e13",
-      "title": "Patrick Stewart: Der Captain hat die Br�cke verlassen",
-      "source": "Golem.de"
+      "id": "43e3272d-4787-4179-9075-c8fe0c2ae795",
+      "title": "[ITmedia PC USER] GEEKOM、約1kgの軽量筐体を採用したCore Ultra搭載14型スリムノートを発売",
+      "source": "ITmedia"
     },
     {
-      "id": "228ebcb8-4b9d-4467-85bb-09369f3a6991",
-      "title": "Kundenumfrage: Breko und VATM nehmen Stellung zu Zusatzkosten beim Glasfaserausbau",
-      "source": "Golem.de"
+      "id": "f2cb6086-1a0f-4fc3-83a3-643c3e93752c",
+      "title": "[ITmedia News] 誤訳で“違う製品”を作りかけた？ ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
+      "source": "ITmedia"
     },
     {
-      "id": "c3574574-196a-406b-8bc9-a1a57de88b74",
-      "title": "Anzeige: 256 GByte gro�e MicroSD-Karte von Sandisk zum Bestpreis bei Amazon",
-      "source": "Golem.de"
+      "id": "6a99002f-e396-4efa-9d05-c7c116c2544f",
+      "title": "[ITmedia News] 暗号資産取引所Binance、ハッキングで約1兆円の被害か 入出金を全面停止",
+      "source": "ITmedia"
     },
     {
-      "id": "32bb2ecf-e425-454e-b438-57927752b71b",
-      "title": "Anzeige: Penetration Testing: Sicherheitsl�cken praktisch untersuchen",
-      "source": "Golem.de"
+      "id": "692bb857-d905-45f3-85dd-44fe9f767e39",
+      "title": "[ITmedia ビジネスオンライン] 東京と台北を「17ミリ秒」で結ぶIOWN アンリツCTOが語るデータセンター相互接続と日本の勝機",
+      "source": "ITmedia"
     },
     {
-      "id": "7bd587f2-756d-4618-8e95-7cc82c8ad617",
-      "title": "Megaspeed: Mutma�liche chinesische Agentin in der N�he von Nvidia-CEO Huang",
-      "source": "Golem.de"
+      "id": "c4ff871a-b5c2-4b99-97b2-36a9be757aa5",
+      "title": "[ITmedia PC USER] 有機EL＋タッチ対応で“再構築”された新型「MacBook Pro」 現地体験で見えた「PROLED XDR」の真価",
+      "source": "ITmedia"
     },
     {
-      "id": "382d1eb8-04ee-4273-b1e8-ed47992c3805",
-      "title": "Anzeige: Unmanaged LAN-Switch mit 5 GBit-Ports von Netgear f�r unter 17 Euro",
-      "source": "Golem.de"
+      "id": "8d932a01-dbc2-49a9-8368-272dd706bedf",
+      "title": "[ITmedia Mobile] ドコモSMTBネット銀行、「V NEOBANK」後継の「NEOBANK CASH」を2027年3月29日に提供開始",
+      "source": "ITmedia"
     },
     {
-      "id": "225011dd-fbd8-4892-8be1-a44734fe0d04",
-      "title": "(g+) K�nstliche Intelligenz: Warum KI das mittlere Management nicht abschafft",
-      "source": "Golem.de"
+      "id": "d53a3a5e-50a3-44d9-a690-83eeb87a0ba8",
+      "title": "HyperAccel, Rebellions look beyond chips to AI data center systems",
+      "source": "DigiTimes"
     },
     {
-      "id": "cea45b6c-0d76-43f9-b1a2-5a1150e88b25",
-      "title": "Sicherheitsrisiko: Arbeitgeber l�schen h�ufig nicht die digitalen Zug�nge ihrer Ex-Mitarbeiter",
-      "source": "Golem.de"
+      "id": "48a2aae9-ebbe-4e34-a2c7-6ee77bd2eccd",
+      "title": "Nvidia dominates AI robot chips with 69% market share",
+      "source": "DigiTimes"
     },
     {
-      "id": "287cd6be-0bd7-4aa0-96ca-6cd966eabb5d",
-      "title": "Japan prepares for commercial drone flocks after operating limit lifted",
+      "id": "f1383af3-0393-49c1-ae23-150fb96350cc",
+      "title": "Amazon 3Q26 earnings call: AWS targets 40%-plus growth through 2028 as satellite costs weigh on near-term profit",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "a91c7652-b9ea-4e8a-b389-43887b6b02e0",
+      "title": "Intel tells Taiwan's chip suppliers to build service capacity early",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "5df95b3f-3b84-4fa1-9ee0-9a3857e0bcc8",
+      "title": "Nvidia weighs credit support for Nscale as data center, IPO face pressure",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "5d0fc58a-b371-427f-ae4b-f10019c245c8",
+      "title": "Jensen Huang calls Megaspeed ties normal amid China spy probe report",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "355279a7-e0e0-4f3e-b4b0-e6fca151ffd0",
+      "title": "Sandisk sees 60&#38;ndash;90GB of NAND per CPU in AI agent workloads",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "e8dd3aba-4cc3-43f9-b401-96ee159d5d89",
+      "title": "Delta Electronics approves Penang manufacturing base to expand global capacity",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "e64455df-f025-4a0b-8467-7cb968eeb983",
+      "title": "Intel's server surge faces a supply setback as PC weakness persists",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "9c85f2cd-4214-490d-a2d7-e2c13c2bd7f7",
+      "title": "Analysis: Oracle backs Cerebras as AI cloud shifts to multi-architecture compute",
+      "source": "DigiTimes"
+    },
+    {
+      "id": "8708a944-7d9c-4c43-a892-0ff829af4bda",
+      "title": "Tech firms take fresh hit as earnings misses fan AI fears",
+      "source": "The Hindu Technology"
+    },
+    {
+      "id": "cdd6843d-3c56-4308-b052-50bc2146aa66",
+      "title": "Reddit puts logged in experience first as Google AI hits traffic",
+      "source": "The Hindu Technology"
+    },
+    {
+      "id": "5eb6ecc7-79a5-4720-82bc-3dfd08902184",
+      "title": "Binance crypto exchange confirms major hack, more than $2.5 billion frozen",
+      "source": "The Hindu Technology"
+    },
+    {
+      "id": "fdcce17f-5a2a-443e-bbf0-325ce415ec77",
+      "title": "Samsung Expects Exynos 2700 to Gain Market Share",
+      "source": "The Lec"
+    },
+    {
+      "id": "08eb5dd0-e3b2-4499-a032-b6634a7bd793",
+      "title": "Samsung Display Posts 1.1 Trillion Won Q3 Profit, Eyes OLED Expansion",
+      "source": "The Lec"
+    },
+    {
+      "id": "d1d41af6-f49d-486b-9b88-3df4738c054b",
+      "title": "Samsung's Chip Profit Hits 106.5 Trillion Won, Device Business Posts Loss",
+      "source": "The Lec"
+    },
+    {
+      "id": "bcac4b0a-8916-47de-b31b-57cd70b27d43",
+      "title": "Samsung SDS Q3 Revenue Rises 11.2% to 3.77 Trillion Won",
+      "source": "The Lec"
+    },
+    {
+      "id": "90fcd512-4b3f-4dff-934c-abcabb9e9c95",
+      "title": "Samyang Unveils Ultrapure Water Ion Exchange Resin for Next-Generation Semiconductors",
+      "source": "The Lec"
+    },
+    {
+      "id": "62c29227-94de-4480-a509-b79cea1ed5e0",
+      "title": "Alphabet's Cloud Revenue Surges 103%, but Cash Flow Deteriorates",
+      "source": "The Lec"
+    },
+    {
+      "id": "b28ca3e4-3d62-4b3f-a206-a41ba621834d",
+      "title": "Emro to Build AI Procurement Automation Agent for GS Caltex",
+      "source": "The Lec"
+    },
+    {
+      "id": "6100ccf3-77c7-4ecc-97cb-4243918999cd",
+      "title": "FuriosaAI Raises 820 Billion Won in Series D Funding, Reaches 3.8 Trillion Won Valuation",
+      "source": "The Lec"
+    },
+    {
+      "id": "75e86aac-52a9-4748-a8f0-26fc596bf748",
+      "title": "Kakao Open-Sources Two AI Search Models Optimized for Korean",
+      "source": "The Lec"
+    },
+    {
+      "id": "202569de-cd44-4fb3-9322-43109d8afdb9",
+      "title": "Kolon Benit Holds AI Infrastructure Training for Partners",
+      "source": "The Lec"
+    },
+    {
+      "id": "e8cb08c9-d6c6-4f48-b40b-4de87dc13952",
+      "title": "BOJ says 2% inflation target achieved, holds rates steady",
       "source": "Nikkei Asia"
     },
     {
-      "id": "82a9fcce-c1b2-4476-a1e6-d925e814a1ae",
-      "title": "Intel shares sink more than 20% as PC slowdown stretches into 2027",
+      "id": "7eff97bd-1956-4805-bdce-9d1e235c91d2",
+      "title": "In Focus: Ninja hit the mark with foreign tourists",
       "source": "Nikkei Asia"
     },
     {
-      "id": "2c17303e-5ad6-4697-926d-9ef891bf199d",
-      "title": "Family: Stephen Schwarzman (29)",
+      "id": "ea2cf72a-700a-4195-9be2-ac895cb547d0",
+      "title": "PAG to buy 51% of China Evergrande services arm for $510m",
       "source": "Nikkei Asia"
     },
     {
-      "id": "de20b69a-98ae-427c-bee1-9416aec4ab71",
-      "title": "Operator of South Korea's Toss app to buy online Japanese brokerage Cheer",
+      "id": "1e34a44e-a8fe-461b-8955-0b466a2652b0",
+      "title": "Inside the world's largest overseas US military base",
       "source": "Nikkei Asia"
     },
     {
-      "id": "0c18dbfc-2491-4a44-ab0c-c6ac9d8e4151",
-      "title": "Australia's One Nation basks in attention of 'left behind' voters",
+      "id": "84bb3574-c9b2-4b7e-aa17-9267000e3100",
+      "title": "Japan's Marubeni looks to profit from bottlenecks arising from AI boom",
       "source": "Nikkei Asia"
     },
     {
-      "id": "3baa872e-bacf-4d99-adfa-a54b2f0d3d56",
-      "title": "Japan's IHI vies with Korean rival to capture overseas nuclear demand",
+      "id": "c1deb527-46eb-4a98-a93b-b9623e637a51",
+      "title": "Vietnam drone intrusions prompt airport safety response nationwide",
       "source": "Nikkei Asia"
     },
     {
-      "id": "23d8d813-0da8-4c32-8c7b-b6905a399ae0",
-      "title": "Asia's LNG shock must not spark coal's revival",
+      "id": "c1bebb22-a90f-458b-8d9b-3570cd05ca2f",
+      "title": "Takaichi's G7 no-show risks undermining Japan's interests",
       "source": "Nikkei Asia"
     },
     {
-      "id": "1bf94be1-2762-4e5c-83f0-48377dba7691",
-      "title": "Japan's KDDI to build another data center in London",
+      "id": "6577c6df-065c-42c4-a12d-66043541aa47",
+      "title": "Malaysia's IHH Healthcare to double hospital beds near Singapore",
       "source": "Nikkei Asia"
     },
     {
-      "id": "e5783faf-0367-455e-9b76-bd839a7261c5",
-      "title": "Japan's Upbond to offer tax-free shopping refunds in JPYC stablecoin",
-      "source": "Nikkei Asia"
+      "id": "9be6efe1-cbce-46e1-8aae-2d0d8af9bfc7",
+      "title": "Kim urges drone dominance as North Korea fires missiles and rockets",
+      "source": "The Japan Times"
     },
     {
-      "id": "dde02de7-bec0-4c0d-bb4a-fb9829839525",
-      "title": "Takeda bets on blockbuster drug trio to generate $11bn in peak sales",
-      "source": "Nikkei Asia"
+      "id": "89bacb87-a5c8-49cf-8a2f-1aca876d686c",
+      "title": "Koizumi vows to uphold ‘defense-oriented’ policy at ASEAN meet",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "b5e8411d-3789-4ad3-8919-4c21fe957df4",
+      "title": "Generative AI reduces working hours for government staff, survey finds",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "d0804689-17d1-4f9a-b42c-30b286e14285",
+      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "71149d3c-275f-46fe-9cb9-b7d23df6d86a",
+      "title": "Dressing as a nurse this Halloween? Adding a red cross breaks the law.",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "573c07e7-7eb3-47b5-ac35-5d455399d3cf",
+      "title": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "f495bd88-4bfa-4e8c-a221-1141cdaf9b5d",
+      "title": "Africa making Olympic debut with 2026 Dakar Youth Games",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "695fe766-83fc-4b59-a429-a0fa98e38ff0",
+      "title": "Bank of Japan holds rates steady even as inflation ticks up",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "4289f03d-c314-4186-9ca4-a8d44b15c3d0",
+      "title": "Indonesia rain set to ease toxic haze in Singapore and Malaysia",
+      "source": "The Japan Times"
+    },
+    {
+      "id": "db947689-d126-4fbe-b73f-38c89c26e756",
+      "title": "Takaichi says electricity and gas subsidies will resume in December",
+      "source": "The Japan Times"
     }
   ],
   "images_updated": [],
   "duplicates_skipped": [
+    {
+      "source": "TechCrunch",
+      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
+      "reason": "duplicata",
+      "existing_id": "80b24781-e6a2-45f4-b619-5c90501e5203"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Elon Musk is &#8216;truly a genius,&#8217; says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin",
+      "reason": "duplicata",
+      "existing_id": "09b3a13a-0460-4372-850e-22474ab0f074"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "reason": "duplicata",
+      "existing_id": "78d8fbe1-2830-4626-ba39-837500f24797"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data",
+      "reason": "duplicata",
+      "existing_id": "fd0c3df5-77f9-4674-8bcd-cec87c1b843e"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
+      "reason": "duplicata",
+      "existing_id": "a3635a87-965d-4c31-9b6b-c2c91e717dc3"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "reason": "duplicata",
+      "existing_id": "fb67e673-7de5-4c1e-a522-318be2d8278f"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "reason": "duplicata",
+      "existing_id": "60bf7b62-5f0f-4d56-9f36-793c85b3c890"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms",
+      "reason": "duplicata",
+      "existing_id": "dd29eff7-682c-4054-8b9d-4a7add3b0a5d"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
+      "reason": "duplicata",
+      "existing_id": "114e6804-70d3-480c-ba0d-1985a28ca451"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine",
+      "reason": "duplicata",
+      "existing_id": "1d4c947f-76f2-4ffa-a7fe-3d870bbcfa77"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump declares robot imports a national security threat",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
+      "reason": "duplicata",
+      "existing_id": "69a8342c-766b-4a9f-bf37-adfa95120ab6"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo",
+      "reason": "duplicata",
+      "existing_id": "826f27d5-b68a-4a39-bc33-009f395f7890"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Turning a solar power system into its own backup",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup",
+      "reason": "duplicata",
+      "existing_id": "89169b62-656e-47c4-aad8-823bf5445ccf"
+    },
     {
       "source": "Ars Technica",
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
       "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling",
       "reason": "duplicata",
       "existing_id": "6d85cca4-406e-46d2-8631-2fa727ab6b88"
+    },
+    {
+      "source": "Ars Technica",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+      "reason": "duplicata",
+      "existing_id": "4c722989-2ee6-447d-b27c-a64e20f3dad4"
     },
     {
       "source": "Ars Technica",
@@ -576,6 +539,180 @@
       "existing_id": "fae38aca-9ac0-4115-8435-388a608c2a44"
     },
     {
+      "source": "Engadget",
+      "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+      "url": "https://engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing",
+      "reason": "duplicata",
+      "existing_id": "58ab221e-18b1-461a-bc3a-720504794c97"
+    },
+    {
+      "source": "Engadget",
+      "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+      "url": "https://engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups",
+      "reason": "duplicata",
+      "existing_id": "b46612bb-1342-4e41-8f87-2404d56b8b69"
+    },
+    {
+      "source": "Engadget",
+      "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+      "url": "https://engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that",
+      "reason": "duplicata",
+      "existing_id": "77c27093-0d23-4b38-81c6-7b8830e0d6dc"
+    },
+    {
+      "source": "Engadget",
+      "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
+      "url": "https://engadget.com/2301753/ao3-fanfiction-website-down-for-weeks",
+      "reason": "duplicata",
+      "existing_id": "feec7ec0-9058-4d1f-babe-2b6cc475a551"
+    },
+    {
+      "source": "Engadget",
+      "title": "Reddit will force users to log in as AI is killing search traffic",
+      "url": "https://engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic",
+      "reason": "duplicata",
+      "existing_id": "bf8acfa9-f127-48e0-97f1-e46a952e5115"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
+      "url": "https://engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps",
+      "reason": "duplicata",
+      "existing_id": "484b573d-2192-4d34-af9d-d597a3fd9438"
+    },
+    {
+      "source": "Engadget",
+      "title": "Google brings AI Mode advertisements to more countries",
+      "url": "https://engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries",
+      "reason": "duplicata",
+      "existing_id": "65b69e14-b3c1-4793-af68-9731a31e197b"
+    },
+    {
+      "source": "Engadget",
+      "title": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
+      "url": "https://engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof",
+      "reason": "duplicata",
+      "existing_id": "761fcf5f-67fd-4f1b-b31b-d5f9c3b59cd9"
+    },
+    {
+      "source": "Engadget",
+      "title": "Hacker may have stolen millions in a malware attack against online poker players",
+      "url": "https://engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players",
+      "reason": "duplicata",
+      "existing_id": "79538447-2124-462c-b5a8-4be287490c3d"
+    },
+    {
+      "source": "Engadget",
+      "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
+      "url": "https://engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover",
+      "reason": "duplicata",
+      "existing_id": "7ec65d7d-4bbc-4331-9715-6e7582ff06df"
+    },
+    {
+      "source": "The Verge",
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "url": "https://theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "reason": "duplicata",
+      "existing_id": "e6510f6a-f10d-4945-8cc9-e4aeaf0bf7b1"
+    },
+    {
+      "source": "The Verge",
+      "title": "Patrick Stewart has died at age 86",
+      "url": "https://theverge.com/news/1022626/patrick-stewart-star-trek-death",
+      "reason": "duplicata",
+      "existing_id": "322b19b8-79cc-4684-8bd7-81daa084e37e"
+    },
+    {
+      "source": "The Verge",
+      "title": "Reddit will force everyone to log in",
+      "url": "https://theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "reason": "duplicata",
+      "existing_id": "bf76ab03-b50b-4a50-995d-6634045a7123"
+    },
+    {
+      "source": "The Verge",
+      "title": "Rivian’s R2 is officially its best-selling vehicle",
+      "url": "https://theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+      "reason": "duplicata",
+      "existing_id": "51b0dab3-8995-4efa-8f15-15c34245c428"
+    },
+    {
+      "source": "The Verge",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "url": "https://theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+      "reason": "duplicata",
+      "existing_id": "c7954798-9cd4-4016-8790-6093a34b710d"
+    },
+    {
+      "source": "The Verge",
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "reason": "duplicata",
+      "existing_id": "b48504fe-a619-41ca-b0d2-ee5190aeab8a"
+    },
+    {
+      "source": "The Verge",
+      "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
+      "url": "https://theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+      "reason": "duplicata",
+      "existing_id": "90855082-8abb-4659-aca9-654b805fe10c"
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple’s new laptop supports one of the coolest features for color pros",
+      "url": "https://theverge.com/1022347/apple-macbook-supports-new-cmf",
+      "reason": "duplicata",
+      "existing_id": "0e43c617-85e8-400d-946c-2800230a5e70"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Jenny McCarthy shows off the tent she’s living in to avoid mold poisoning and ‘chemtrails’",
+      "url": "https://ew.com/jenny-mccarthy-living-in-tent-mold-poisoning-chemtrails-12201846",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "“A Few Good Men ”review: Tom Blyth turns up the charisma in Tom Cruise’s famous role during Broadway debut",
+      "url": "https://ew.com/a-few-good-men-broadway-review-tom-blyth-turns-up-charisma-tom-cruise-role-12197325",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Celine Dion’s Paris residency makes big bucks",
+      "url": "https://ew.com/celine-dion-paris-residency-makes-big-bucks-12201690",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Why did Matt Barnes fight Derek Fisher? Inside the NBA stars’ infamous feud",
+      "url": "https://ew.com/special-forces-why-did-matt-barnes-fight-derek-fisher-12200948",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Ian McKellen shares touching tribute to his late friend and “X-Men” costar Patrick Stewart: ‘A man to rely on’",
+      "url": "https://ew.com/ian-mckellen-tribute-patrick-stewart-late-friend-x-men-costar-12201265",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Australian actor and martial artist Richard Norton’s 2025 death linked to peptide usage",
+      "url": "https://ew.com/actor-martial-artist-richard-norton-2025-death-peptide-usage-link-12201490",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "Noah Wyle says Eddie Murphy told him to ‘f‑‑‑ off’ when he was 9 years old",
+      "url": "https://ew.com/noah-wyle-eddie-murphy-told-him-f-off-at-9-years-old-12201550",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Entertainment Weekly",
+      "title": "“Star Wars” actor Alden Ehrenreich recalls disastrous Spider-Man“ ”audition: ‘Woefully unprepared’",
+      "url": "https://ew.com/star-wars-actor-alden-ehrenreich-disastrous-spider-man-audition-12201562",
+      "reason": "fonte bloqueada"
+    },
+    {
       "source": "Entertainment Weekly",
       "title": "Patrick Stewart’s wife and children: Inside the late actor’s family life",
       "url": "https://ew.com/patrick-stewart-family-wife-children-12201460",
@@ -588,52 +725,11 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Entertainment Weekly",
-      "title": "Patrick Stewart’s final film role after his death will mark the return of Professor X",
-      "url": "https://ew.com/patrick-stewart-final-role-after-death-marks-professor-x-return-12201448",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Patrick Stewart penned his own eulogy for raunchy stand-up routine 11 years before his death",
-      "url": "https://ew.com/patrick-stewart-wrote-raunchy-eulogy-11-years-before-death-at-86-12201409",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Patrick Stewart said he never imagined retiring in final interview before death: ‘I’ll always and forever be an actor’",
-      "url": "https://ew.com/patrick-stewart-final-interview-never-retire-forever-actor-12201388",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "How to watch all 82 new Christmas movies this year",
-      "url": "https://ew.com/how-to-watch-christmas-movies-2026-schedule-12196492",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "“Star Trek” cast pays tribute to late costar Patrick Stewart: ‘Godspeed, captain’",
-      "url": "https://ew.com/patrick-stewart-star-trek-cast-william-shatner-pays-tribute-captain-jean-luc-picard-12201182",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Hugh Jackman honors “X-Men ”costar Patrick Stewart in poignant tribute after his death at 86",
-      "url": "https://ew.com/hugh-jackman-x-men-costar-patrick-stewart-death-12201273",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "Dax Shepard reveals major ‘stressor’ in marriage to Kristen Bell: ‘I don’t know that we always agree’",
-      "url": "https://ew.com/dax-shepard-reveals-marriage-stressor-kristen-bell-12201295",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Entertainment Weekly",
-      "title": "“Days of Our Lives ”star Robert Kelker-Kelly’s cause of death revealed",
-      "url": "https://ew.com/robert-kelker-kelly-days-of-our-lives-star-cause-of-death-revealed-12201255",
-      "reason": "fonte bloqueada"
+      "source": "VGC",
+      "title": "Pre-order Football Manager 27 for 20% off on Fanatical with our code",
+      "url": "https://videogameschronicle.com/news/pre-order-football-manager-27-for-20-off-with-fanatical-and-vgc",
+      "reason": "duplicata",
+      "existing_id": "d0dbccac-c0ef-423a-89a1-6f504ed592ef"
     },
     {
       "source": "VGC",
@@ -700,38 +796,87 @@
     },
     {
       "source": "Animation Magazine",
+      "title": "Netflix&#8217;s &#8216;Cyberpunk: Edgerunners 2&#8217; Lends Anime Flair to New &#8216;High Forever&#8217; MV",
+      "url": "https://animationmagazine.net/2026/10/netflixs-cyberpunk-edgerunners-2-lends-anime-flair-to-new-high-forever-mv",
+      "reason": "duplicata",
+      "existing_id": "608748ae-b4b0-4896-8269-37a73cf7b43c"
+    },
+    {
+      "source": "Animation Magazine",
+      "title": "Emile Awards Announce 2026 European Animation Winners",
+      "url": "https://animationmagazine.net/2026/10/emile-awards-announce-2026-european-animation-winners",
+      "reason": "duplicata",
+      "existing_id": "d7b12feb-6735-4e8a-95e3-d102853f0d88"
+    },
+    {
+      "source": "Animation Magazine",
+      "title": "&#8216;Rascal Does Not Dream of a Dear Friend&#8217; Anime Feature Sets NorAm Release with Crunchyroll",
+      "url": "https://animationmagazine.net/2026/10/rascal-does-not-dream-of-a-dear-friend-anime-feature-sets-noram-release-with-crunchyroll",
+      "reason": "duplicata",
+      "existing_id": "8d93119e-052b-4a03-b0e8-7e9ed9cd091d"
+    },
+    {
+      "source": "Animation Magazine",
+      "title": "&#8216;PAW Patrol&#8217; Will Return to the Big Screen in a Fourth Furbulous Feature",
+      "url": "https://animationmagazine.net/2026/10/paw-patrol-will-return-to-the-big-screen-in-a-fourth-furbulous-feature",
+      "reason": "duplicata",
+      "existing_id": "5258965c-0b31-4809-800c-f198e86ec8c4"
+    },
+    {
+      "source": "Animation Magazine",
+      "title": "&#8216;Made in Abyss&#8217; Movie Series Reveals New KV, Cast &#038; Pt. 2 in Production",
+      "url": "https://animationmagazine.net/2026/10/made-in-abyss-movie-series-reveals-new-kv-cast-pt-2-in-production",
+      "reason": "duplicata",
+      "existing_id": "472c3d54-0f81-4058-b5ed-b6270ee5cd79"
+    },
+    {
+      "source": "Animation Magazine",
       "title": "Fandango Unveils November Streaming Slate with Animated Exclusives",
       "url": "https://animationmagazine.net/2026/10/fandango-unveils-november-streaming-slate-with-animated-exclusives",
       "reason": "duplicata",
       "existing_id": "ef0a05bc-4035-4dc6-b8ec-dc90f840650e"
     },
     {
-      "source": "Animation Magazine",
-      "title": "Watch: Behind the Scenes of Prada&#8217;s Holiday Campaign with Animation Director John Pomeroy",
-      "url": "https://animationmagazine.net/2026/10/watch-behind-the-scenes-of-pradas-holiday-campaign-with-animation-director-john-pomeroy",
+      "source": "Push Square",
+      "title": "Crimson Desert&#039;s Huge DLC, Charting the Unknown, Out Now on PS5",
+      "url": "https://pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
       "reason": "duplicata",
-      "existing_id": "4fe7c1ab-6f7f-4616-b333-6d86160b6610"
+      "existing_id": "b8a15290-bc14-429c-a22f-b4b4a35b78df"
     },
     {
-      "source": "Animation Magazine",
-      "title": "PBS KIDS on Prime &#038; PBS Retro Scare Up Halloween Hits",
-      "url": "https://animationmagazine.net/2026/10/pbs-kids-on-prime-pbs-retro-scare-up-halloween-hits",
+      "source": "Push Square",
+      "title": "No New Assassin&#039;s Creed Remakes in the Works at Ubisoft",
+      "url": "https://pushsquare.com/news/2026/10/no-new-assassins-creed-remakes-in-the-works-at-ubisoft",
       "reason": "duplicata",
-      "existing_id": "0d49b65f-4802-40df-83d2-ec22f626dc5e"
+      "existing_id": "50793522-78b6-4dd8-a104-127dbdb222e8"
     },
     {
-      "source": "Animation Magazine",
-      "title": "CEE Animation Forum Returns to Pilsen; 8 Series Compete for Co-Pro Award",
-      "url": "https://animationmagazine.net/2026/10/cee-animation-forum-returns-to-pilsen-8-series-compete-for-co-pro-award",
+      "source": "Push Square",
+      "title": "Destiny 2 Content Unvaulting Won&#039;t Take Place Until 2028",
+      "url": "https://pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
       "reason": "duplicata",
-      "existing_id": "1b95dee8-cea9-46e9-b753-6a5297ab8cbb"
+      "existing_id": "0fb44833-b07d-4f6e-b583-b75d70a5279a"
     },
     {
-      "source": "Animation Magazine",
-      "title": "&#8216;PAW Patrol: The Dino Movie&#8217; Brings Paleo Pup Rescue to Paramount+",
-      "url": "https://animationmagazine.net/2026/10/paw-patrol-the-dino-movie-brings-paleo-pup-rescue-to-paramount",
+      "source": "Push Square",
+      "title": "&#039;It Hasn&#039;t Made Any Difference&#039;: Gears of War PS5 Cancellation Fails to Boost Xbox",
+      "url": "https://pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
       "reason": "duplicata",
-      "existing_id": "c35d0159-3090-49cf-bc4b-89354cf64468"
+      "existing_id": "dd264e8b-6950-43f6-9443-a5af6f566425"
+    },
+    {
+      "source": "Push Square",
+      "title": "Assassin&#039;s Creed Valhalla Gets New Game+ Patch, More Than Three Years After Its &#039;Final&#039; Update",
+      "url": "https://pushsquare.com/news/2026/10/assassins-creed-valhalla-gets-new-gameplus-patch-more-than-three-years-after-its-final-update",
+      "reason": "duplicata",
+      "existing_id": "91a23297-8111-48a3-8d89-96da90ecd3e3"
+    },
+    {
+      "source": "Push Square",
+      "title": "Virtua Fighter&#039;s &#039;Cocky Kid&#039; Lionel Rafale Returns in Crossroads on PS5",
+      "url": "https://pushsquare.com/news/2026/10/virtua-fighters-cocky-kid-lionel-rafale-returns-in-crossroads-on-ps5",
+      "reason": "duplicata",
+      "existing_id": "be868986-728c-458c-ada5-179cbcd9f66c"
     },
     {
       "source": "Push Square",
@@ -763,6 +908,54 @@
     },
     {
       "source": "Variety",
+      "title": "Shabana Azmi, Marco Müller Set for Inaugural Kathmandu Film Festival",
+      "url": "https://variety.com/2026/film/news/shabana-azmi-marco-muller-inaugural-kathmandu-film-festival-1236934643",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "What to Watch on Netflix in November 2026",
+      "url": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "What to Watch on Disney+ in November 2026",
+      "url": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut",
+      "url": "https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "Ian McKellen Pays Tribute to Close Friend Patrick Stewart: &#8216;He Wore His Heart on His Sleeve&#8217;",
+      "url": "https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "California Begins Discussion on Unlimited Film Incentives: &#8216;That Is a Heavy Lift&#8217;",
+      "url": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "Matthew Weiner Exits Peacock, 101 Studios Series &#8216;The Chairman&#8217; Starring Eddie Murphy (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/matthew-weiner-peacock-101-studios-chairman-eddie-murphy-1236934392",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
+      "title": "French Action Film ‘Red Bird’ Lands CIS Deal as D.C. Romance ‘Step Back, Doors Closing’ Bows at Tokyo Market (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/french-actioner-red-bird-cis-deal-dc-romance-tokyo-1236934672",
+      "reason": "fonte bloqueada"
+    },
+    {
+      "source": "Variety",
       "title": "Joseph Mazzello Leads Cecil Hotel Horror ‘A Grim Life,’ Cappu Films Boards Sales (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/news/joseph-mazzello-cecil-hotel-horror-grim-life-1236934654",
       "reason": "fonte bloqueada"
@@ -774,52 +967,18 @@
       "reason": "fonte bloqueada"
     },
     {
-      "source": "Variety",
-      "title": "Margot Robbie &#8216;May Be Over&#8217; Playing Harley Quinn, but James Gunn Would &#8216;Bend Over Backwards&#8217; to Include Her in the DCU",
-      "url": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404",
-      "reason": "fonte bloqueada"
+      "source": "Macworld",
+      "title": "Best Mac 2026: Every Apple Mac and MacBook compared",
+      "url": "https://macworld.com/article/219909/best-mac.html",
+      "reason": "duplicata",
+      "existing_id": "6e310744-2d53-4583-8582-61df286a3977"
     },
     {
-      "source": "Variety",
-      "title": "Patrick Stewart&#8217;s Final Movie Is &#8216;Avengers: Doomsday&#8217;; He Said Before His Death That &#8216;I Can’t Imagine Retiring. I’ll Forever Be an Actor&#8217;",
-      "url": "https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Skydance’s JB Perrette Reveals His Full Leadership Team, Announces Departures of Several Execs Not Joining Following the Paramount-Warner Bros. Merger",
-      "url": "https://variety.com/2026/tv/news/skydance-jb-perrette-leadership-team-departures-1236934597",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Byron Allen Earns Profit After Selling All the Starz Stock He Bought From Steven Mnuchin",
-      "url": "https://variety.com/2026/tv/news/byron-allen-sells-starz-stock-steven-mnuchin-1236934569",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Hugh Jackman Mourns &#8216;X-Men&#8217; Co-Star Patrick Stewart: &#8216;A Tremendous Friend and Man. I Learned So Much From Him&#8217;",
-      "url": "https://variety.com/2026/film/news/patrick-stewart-dies-hugh-jackman-mourns-x-men-actor-1236934490",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "William Shatner and &#8216;Star Trek&#8217; Family Mourn Patrick Stewart With Picard Tributes: &#8216;Godspeed, Captain&#8217;",
-      "url": "https://variety.com/2026/tv/news/william-shatner-star-trek-patrick-stewart-picard-tributes-1236934479",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Amazon Ad Revenue Growth Slows in Q3, Ecommerce Giant Undershoots Earnings Estimates",
-      "url": "https://variety.com/2026/digital/news/amazon-q3-2026-earnings-1236934415",
-      "reason": "fonte bloqueada"
-    },
-    {
-      "source": "Variety",
-      "title": "Patrick Stewart Dies: Marvel, Kevin Feige Praise &#8216;X-Men&#8217; Icon For Bringing &#8216;Charles Xavier to Life With Grace, Intelligence and Humanity&#8217;",
-      "url": "https://variety.com/2026/film/news/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-1236934424",
-      "reason": "fonte bloqueada"
+      "source": "Macworld",
+      "title": "Keep your Apple keyboards crumb-free with this Wolfbox electric air duster deal ($20 off)",
+      "url": "https://macworld.com/article/3272614/keep-your-apple-keyboards-crumb-free-with-this-wolfbox-electric-air-duster-deal-20-off.html",
+      "reason": "duplicata",
+      "existing_id": "8316d9a2-9040-4188-8c9e-630968407280"
     },
     {
       "source": "Macworld",
@@ -865,77 +1024,133 @@
     },
     {
       "source": "Collider",
-      "title": "The 8 Best Robert De Niro Gangster Movies, Ranked",
-      "url": "https://collider.com/best-robert-de-niro-gangster-movies-ranked",
+      "title": "10 Classic Books You Can Read in a Weekend",
+      "url": "https://collider.com/classic-books-read-one-weekend",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "9 Greatest Western Shows That Are Worth Watching Over and Over, Ranked",
-      "url": "https://collider.com/western-shows-worth-watching-over-and-over-ranked",
+      "title": "One of 2026's Biggest Breakout Stars First Stole the Show in This Classic Fantasy Game",
+      "url": "https://collider.com/james-norton-dragon-age-inquisition-best-character-cole",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 10 Greatest R-Rated Neo-Noir Movies, Ranked",
-      "url": "https://collider.com/best-r-rated-neo-noir-movies-ranked",
+      "title": "5 Agatha Christie Books You Can Finish in a Weekend",
+      "url": "https://collider.com/agatha-christie-books-read-in-one-weekend",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 10 Best Stephen King Opening Chapters, Ranked",
-      "url": "https://collider.com/best-stephen-king-opening-chapters-ranked",
+      "title": "Russell Crowe's Performance in This Prime Video Crime Thriller Is So Good, It Demands a Rewatch",
+      "url": "https://collider.com/russell-crowe-la-confidential-crime-thriller-streaming-prime-video-october-2026",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 8 Most Amazing Thriller Movies Ever Made",
-      "url": "https://collider.com/most-amazing-thriller-movies-ever-made",
+      "title": "‘Cupertino’s Mike Colter Breaks Down Episode 4's Most Shocking Twist",
+      "url": "https://collider.com/cupertino-episode-4-mike-colter",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "‘Yellowstone’ Spin-Off ‘Dutton Ranch’ Officially Returns With New Release Next Month",
-      "url": "https://collider.com/dutton-ranch-season-1-blu-ray-dvd-release-date-november-2026",
+      "title": "The 10 Most Rewatchable Comedy Movies of All Time, Ranked",
+      "url": "https://collider.com/most-rewatchable-comedy-movies-all-time-ranked",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "The 10 Best Video Game Heroes of All Time, Ranked",
-      "url": "https://collider.com/best-video-game-heroes",
+      "title": "'Ghosts' Season 6's Cozy Halloween Special Brings Back a Fan-Favorite | Review",
+      "url": "https://collider.com/ghosts-season-6-halloween-premiere-review",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "'The Black Phone' Director Officially Boards Adaptation of Sci-Fi Horror Classic",
-      "url": "https://collider.com/mouthwashing-video-game-movie-adaptation-scott-derrickson",
+      "title": "Alien Officially Unleashes an Even Deadlier Xenomorph",
+      "url": "https://collider.com/alien-isolation-2-smarter-xenomorph-hunting-weather",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "Marvel, Star Trek, and More Officially Pay Tribute to Sir Patrick Stewart",
-      "url": "https://collider.com/patrick-stewart-tributes-marvel-star-trek",
+      "title": "After Drawing 14M Viewers, NBC’s Brilliant Hit Series Officially Returns Monday",
+      "url": "https://collider.com/best-comedy-2026-fall-and-rise-of-reggie-dinkins-nbc-return-november-2",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Collider",
-      "title": "'Daredevil's Most Devastating Story Was Almost Very Different",
-      "url": "https://collider.com/daredevil-season-3-story-karen-page-almost-different-deborah-ann-woll",
+      "title": "'Slow Horses' Star Officially Joins Apple TV's Upcoming 'Outlander' Replacement",
+      "url": "https://collider.com/slow-horses-star-christopher-chung-cast-apple-tv-ascension",
       "reason": "fonte bloqueada"
     },
     {
       "source": "Mashable",
-      "title": "Halloween 2026 deals: Score free food from Chipotle, Dunkin, Krispy Kreme, Burger King, and more",
-      "url": "https://mashable.com/life/halloween-2026-free-food-deals",
+      "title": "Moon phase today: What the Moon will look like on October 30, 2026",
+      "url": "https://mashable.com/science/moon-phase-today-oct-30-2026",
       "reason": "duplicata",
-      "existing_id": "b8ab1575-7433-49c4-b4bb-9a3664a950d8"
+      "existing_id": "0e671179-ce22-4f66-b657-d06a78c91f83"
     },
     {
       "source": "Mashable",
-      "title": "Tubi is turning TikTok creators into TV stars with 10 original series",
-      "url": "https://mashable.com/life/tubi-tiktok-creatorverse-incubator-original-shows",
+      "title": "NYT Connections hints today: Meanings for each word for Oct. 30, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-october-30-2026",
       "reason": "duplicata",
-      "existing_id": "fcc26f78-eec6-4607-ba74-fb64119d7fd2"
+      "existing_id": "45cdc0e3-f29c-4f2f-9b72-e05bebf97d2f"
+    },
+    {
+      "source": "Mashable",
+      "title": "NYT Connections hints today: Clues, answers for October 30, 2026",
+      "url": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-30-2026",
+      "reason": "duplicata",
+      "existing_id": "22878b2f-8656-4411-b0c8-f2007cd33ef1"
+    },
+    {
+      "source": "Mashable",
+      "title": "NYT Strands hints, answers for October 30, 2026",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-30-2026",
+      "reason": "duplicata",
+      "existing_id": "944a5d06-433c-43db-9db6-84533ce8050b"
+    },
+    {
+      "source": "Mashable",
+      "title": "Wordle today: Answer, hints for October 30, 2026",
+      "url": "https://mashable.com/entertainment/wordle-today-answer-october-30-2026",
+      "reason": "duplicata",
+      "existing_id": "430737ab-8f35-47fa-b2c7-269a60add66b"
+    },
+    {
+      "source": "Mashable",
+      "title": "Ive lived the dream of Wicker 4DX, and it was phenomenal",
+      "url": "https://mashable.com/entertainment/wicker-4dx-review",
+      "reason": "duplicata",
+      "existing_id": "52170042-1bbb-4c07-a4ef-affffab71b56"
+    },
+    {
+      "source": "TechSpot",
+      "title": "Underwater data centers are heading for waters that endangered whales call home",
+      "url": "https://techspot.com/news/114383-us-company-wants-build-two-undersea-data-centers.html",
+      "reason": "duplicata",
+      "existing_id": "1f578c2c-bd33-4487-b11a-bea1fe7a3b45"
+    },
+    {
+      "source": "TechSpot",
+      "title": "Gamers hunting for PS5 emulators on GitHub are downloading malware instead",
+      "url": "https://techspot.com/news/114376-gamers-hunting-ps5-emulators-actually-downloading-malware-instead.html",
+      "reason": "duplicata",
+      "existing_id": "8831e52f-c460-4058-be0a-f3b9bfb0f747"
+    },
+    {
+      "source": "TechSpot",
+      "title": "SK Hynix expects memory chip shortage to persist until at least 2030",
+      "url": "https://techspot.com/news/114372-sk-hynix-expects-memory-chip-shortage-persist-until.html",
+      "reason": "duplicata",
+      "existing_id": "3876eb66-8432-4710-8b16-89027a00512a"
+    },
+    {
+      "source": "TechSpot",
+      "title": "The GTX 750 Ti is back with 8GB of memory, and it can still barely run Cyberpunk",
+      "url": "https://techspot.com/news/114378-gtx-750-ti-back-8gb-memory-can-barely.html",
+      "reason": "duplicata",
+      "existing_id": "f20a1985-3af9-4cea-abd7-379b4deaf4a0"
     },
     {
       "source": "TechSpot",
@@ -973,32 +1188,95 @@
       "existing_id": "e694e6c8-e182-4839-8095-5ff1060e353b"
     },
     {
-      "source": "TechSpot",
-      "title": "Alphabet shares plunge over 10% as Google's AI search struggles to make money",
-      "url": "https://techspot.com/news/114381-alphabet-shares-plunge-over-10-google-ai-search.html",
+      "source": "GamesRadar+",
+      "title": "Star Trek and X-Men actor Patrick Stewart dies at 86",
+      "url": "https://gamesradar.com/entertainment/sci-fi-shows/star-trek-and-x-men-actor-patrick-stewart-dies-at-86",
       "reason": "duplicata",
-      "existing_id": "f5196530-e3b4-428a-9c27-ffeeb8b21ecd"
+      "existing_id": "09b5c5ad-cfe7-43f5-85a0-1edd2ab56abb"
     },
     {
       "source": "GamesRadar+",
-      "title": "How to beat Hua, Deadly Betrothed in Phantom Blade Zero",
-      "url": "https://gamesradar.com/games/action-rpg/phantom-blade-zero-hua",
+      "title": "Dev who copied a popular game on Steam complains another copycat \"stole our code\"",
+      "url": "https://gamesradar.com/games/dev-who-copied-a-popular-game-on-steam-complains-another-copycat-stole-our-code-and-now-its-apparently-been-kicked-out-by-valve",
       "reason": "duplicata",
-      "existing_id": "fb9b4374-d04f-4a3a-b24e-e5625d353a14"
+      "existing_id": "9402ecc3-8dc3-431e-b867-8d3e0648b6f2"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Ubisoft is done with Assassin's Creed remakes for now after Black Flag Resynced, Hexe update coming 2027",
+      "url": "https://gamesradar.com/games/assassin-s-creed/ubisoft-says-its-done-with-assassins-creed-remakes-for-now-after-black-flag-resynced-and-assassins-creed-hexe-is-making-steady-progress-toward-2027-update",
+      "reason": "duplicata",
+      "existing_id": "3d46fce4-2379-4b22-9a19-4da52b53d33b"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Former Valve dev hits back at Epic Games CEO's claims Steam holds gaming back",
+      "url": "https://gamesradar.com/games/former-valve-dev-hits-back-at-epic-games-ceos-claims-steam-holds-gaming-back-and-its-ai-disclosures-are-political-youre-just-treating-players-like-theyre-stupid",
+      "reason": "duplicata",
+      "existing_id": "d6cc7389-d448-4f9d-90ef-10f5e81162c7"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Bungie shares hopes for \"a new forever Destiny\" and \"Destiny 'Legacy,'\" but we aren't back yet",
+      "url": "https://gamesradar.com/games/destiny/bungie-shares-hopes-for-a-new-forever-destiny-and-destiny-legacy-but-we-arent-back-yet-time-isnt-our-friend",
+      "reason": "duplicata",
+      "existing_id": "eb16d3ed-cc7d-4bc6-ac52-4cc38ff48771"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Celeste dev delists the legendary platformer from Xbox: \"We did this to support the BDS boycott\"",
+      "url": "https://gamesradar.com/games/platformer/celeste-dev-delists-the-legendary-platformer-from-xbox-we-did-this-to-support-the-bds-boycott",
+      "reason": "duplicata",
+      "existing_id": "35758d59-fab1-4fbf-844b-5e2cbb16a4ad"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "James Gunn confuses everyone by confirming The Suicide Squad is \"the first canon film in the DCU\"",
+      "url": "https://gamesradar.com/entertainment/dc-movies/james-gunn-confuses-everyone-by-confirming-the-suicide-squad-is-the-first-canon-film-in-the-dcu",
+      "reason": "duplicata",
+      "existing_id": "6848314b-70d7-45e7-aca5-5d5abdadde07"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Call of Duty: Modern Warfare 4 devs nerf one of DMZ's most-hated perks",
+      "url": "https://gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-devs-nerf-one-of-dmzs-most-hated-perks-because-players-were-using-it-as-a-combat-mechanic-instead-of-a-survival-mechanic",
+      "reason": "duplicata",
+      "existing_id": "059992c7-8752-4dba-9e5f-a786f08f1395"
+    },
+    {
+      "source": "GamesRadar+",
+      "title": "Romancing Saga 3's improvisational JRPG battles have finally turned me into a fan",
+      "url": "https://gamesradar.com/games/jrpg/romancing-saga-3s-improvisational-jrpg-battles-have-finally-turned-me-into-a-fan",
+      "reason": "duplicata",
+      "existing_id": "8d3eed45-c279-4cdb-894c-7cd47d47dbda"
     },
     {
       "source": "CNET",
-      "title": "Keurig’s First Brewer That Uses Compostable Pods Is Impressive, but With Room to Improve",
-      "url": "https://cnet.com/tech/keurig-alta-plastic-free-pod-brewer-review",
+      "title": "AO3 Suffers Major Outage: Possibly No Fanfic for 2 Weeks or Longer",
+      "url": "https://cnet.com/tech/services-and-software/ao3-suffers-major-outage",
       "reason": "duplicata",
-      "existing_id": "25b4b1bd-83c0-4cb4-9ad4-d1d7bc6d41c5"
+      "existing_id": "3e7c0c3f-632f-4938-908e-71eb4bfa88cc"
     },
     {
       "source": "CNET",
-      "title": "Amazon Drops a Digital Photo Frame With Real Wood Finish and Unlimited Photo Storage",
-      "url": "https://cnet.com/home/smart-home/amazon-alexa-photo-frame-digital-picture-frame",
+      "title": "Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86",
+      "url": "https://cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation",
       "reason": "duplicata",
-      "existing_id": "9e5c7227-c504-4699-9584-965e140706e0"
+      "existing_id": "0a53bf1e-f0f8-415d-b5c5-4da9c6ef42fe"
+    },
+    {
+      "source": "CNET",
+      "title": "Nvidia Finds Itself at the Center of an AI Spy Saga",
+      "url": "https://cnet.com/tech/computing/nvidia-ai-spy-saga-jensen-huang-china-chips",
+      "reason": "duplicata",
+      "existing_id": "e798d66f-8530-4412-a5e4-12d84ab1dbb9"
+    },
+    {
+      "source": "CNET",
+      "title": "Woman Died After ChatGPT Advised Her to Stop Taking Medication, Lawsuit Alleges",
+      "url": "https://cnet.com/tech/services-and-software/woman-died-after-chatgpt-advised-her-to-stop-taking-medication-lawsuit-alleges",
+      "reason": "duplicata",
+      "existing_id": "151f6cf2-340d-4148-8c88-a2efda95f263"
     },
     {
       "source": "Nintendo Life",
@@ -1048,27 +1326,6 @@
       "url": "https://nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
       "reason": "duplicata",
       "existing_id": "db606ed1-f35f-45de-8333-7521b7d82f2d"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "No Man&#039;s Sky Unveils Forsaken (Update 7.10), Here Are The Full Patch Notes",
-      "url": "https://nintendolife.com/news/2026/10/no-mans-sky-unveils-forsaken-update-7-10-here-are-the-full-patch-notes",
-      "reason": "duplicata",
-      "existing_id": "18d009e9-39be-4744-ae82-42f268015133"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "Palworld Dev Open To Switch 2 Release, If There&#039;s Ever An \"Opportunity\"",
-      "url": "https://nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity",
-      "reason": "duplicata",
-      "existing_id": "a4ca9980-a2f1-4cb0-97f6-3134a3ab6d54"
-    },
-    {
-      "source": "Nintendo Life",
-      "title": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
-      "url": "https://nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
-      "reason": "duplicata",
-      "existing_id": "e9b9d171-2be0-4c37-83c3-3ccb6ae207f7"
     },
     {
       "source": "GamesIndustry.biz",
@@ -1142,185 +1399,129 @@
     },
     {
       "source": "PC Watch",
-      "title": "【トピック】【質問】RTX Spark買った？",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/enquete/2152103.html",
+      "title": "AmazonスマイルSaleが11月4日スタート",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2152554.html",
       "reason": "duplicata",
-      "existing_id": "6e814fbd-62f3-4802-a09b-3345b0742739"
+      "existing_id": "625af070-56c6-4a3c-a53d-b4170a086f34"
     },
     {
       "source": "PC Watch",
-      "title": "ChatGPT Pro/Business加入者に月最大500ドルのAPIクレジット",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152278.html",
+      "title": "Razer、エヴァ初号機デザインのコラボゲーミングデバイス5製品",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2152516.html",
       "reason": "duplicata",
-      "existing_id": "a2ab9819-721d-4107-ad8c-395a0ac7f621"
+      "existing_id": "40851196-1731-4e6f-bb41-2ff7c31983e7"
     },
     {
       "source": "PC Watch",
-      "title": "プライム会員なら実質無料！新世代AIアシスタント「Alexa+」と新型Echoをチェックしてきた",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152255.html",
-      "reason": "duplicata",
-      "existing_id": "d56fc431-5a6f-407e-9761-dbc09cba8083"
-    },
-    {
-      "source": "PC Watch",
-      "title": "MSI、5層タンデムQD-OLEDで360Hzの湾曲ゲーミングモニター「MEG X」",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152246.html",
+      "title": "かとうみさと映像監督も評価するMSIの34型QD-OLEDモニター",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2152468.html",
       "reason": "duplicata",
       "existing_id": "2c384dc5-3f4b-4ef0-a505-58ca22e427f2"
     },
     {
       "source": "PC Watch",
-      "title": "Google最上位AI「Gemini 4 Carbon」。高いサイバー防御性能を実現",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152212.html",
+      "title": "【本日みつけたお買い得品】10.95型Androidタブレットが7千円引き。Amazonセール中",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152510.html",
       "reason": "duplicata",
-      "existing_id": "c42f744c-0110-4028-a945-73b9b87712ee"
+      "existing_id": "33c08d97-c2e5-4e52-90d0-fda3d2b0f672"
     },
     {
       "source": "PC Watch",
-      "title": "Ryzen AI Max+ 395とメモリ128GB搭載で電源も内蔵した4LミニPC",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152222.html",
+      "title": "【本日みつけたお買い得品】FOSSiBOTの低価格Androidスマホが7千円引き、Amazonセール中",
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2152490.html",
       "reason": "duplicata",
-      "existing_id": "4c2e62cf-d560-4381-a3a6-5592ae42f15e"
+      "existing_id": "33c08d97-c2e5-4e52-90d0-fda3d2b0f672"
     },
     {
       "source": "ITmedia",
-      "title": "[ITmedia ビジネスオンライン] GMOの情報漏えい、何が起きていたのか？ 神戸大教授が指摘する“死角”",
-      "url": "https://itmedia.co.jp/business/articles/2610/30/news035.html",
-      "reason": "duplicata",
-      "existing_id": "bbbc10cc-d6b6-46dc-97a8-154fe87eb3d2"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia ビジネスオンライン] 「自社都合」のセキュリティ対策になっていないか 相次ぐ情報漏えい、安否を分ける3つの対策",
-      "url": "https://itmedia.co.jp/business/articles/2610/30/news024.html",
+      "title": "[ITmedia News] イオン、フィジカルAIで物流改革 配送拠点の自動化率5割達成 深刻な人手不足に対応",
+      "url": "https://itmedia.co.jp/news/article/2610/30/2000002751",
       "reason": "duplicata",
       "existing_id": "fbb27e50-2625-475c-b1f2-bb40e0babec9"
     },
     {
       "source": "ITmedia",
-      "title": "[ITmedia News] 「PayPay連携の銀行から、お金全部盗られた」被害報告……原因と対策は？ PayPayに聞いた",
-      "url": "https://itmedia.co.jp/news/article/2610/29/2000002708",
-      "reason": "duplicata",
-      "existing_id": "4b4291ee-3c23-4fe0-ba8c-a70d11ed5a17"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia News] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に 日本人口の2倍超",
-      "url": "https://itmedia.co.jp/news/article/2610/29/2000002730",
-      "reason": "duplicata",
-      "existing_id": "f2027b92-57c3-4321-b014-cd73f3470c2e"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia News] 楽天カード、本人認証をワンタイムパスワードに統一 27年2月から順次",
-      "url": "https://itmedia.co.jp/news/article/2610/29/2000002729",
+      "title": "[ITmedia News] 「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
+      "url": "https://itmedia.co.jp/news/article/2610/30/2000002747",
       "reason": "duplicata",
       "existing_id": "fbb27e50-2625-475c-b1f2-bb40e0babec9"
     },
     {
       "source": "ITmedia",
-      "title": "[ITmedia Mobile] ミークのIoT SIMに楽天モバイル回線を追加、国内初の「4キャリア」対応 月額50円の「休止プラン」も",
-      "url": "https://itmedia.co.jp/mobile/articles/2610/29/news082.html",
+      "title": "[ITmedia ビジネスオンライン] Google、新たな購買行動「『ハイレゾ消費』を発見」どんなもの？ 「歴史的な大転換が起きている」と奥山社長",
+      "url": "https://itmedia.co.jp/business/articles/2610/30/news044.html",
       "reason": "duplicata",
-      "existing_id": "25ac093b-c6d5-4cbe-9fa9-47af935e5eca"
+      "existing_id": "620532da-f3fd-4542-9f1f-8fabfbcfb5fe"
     },
     {
       "source": "ITmedia",
-      "title": "[ITmedia Mobile] SUNEAST、最大読み込み速度2000MB／sの防水ポータブルSSD発売 512GB～2TBの3モデル",
-      "url": "https://itmedia.co.jp/mobile/articles/2610/29/news081.html",
-      "reason": "duplicata",
-      "existing_id": "7ebaf0ad-8997-4ccf-bf94-956daf25041b"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia News] グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か 下4桁は40万枚分",
-      "url": "https://itmedia.co.jp/news/article/2610/29/2000002716",
-      "reason": "duplicata",
-      "existing_id": "59334346-44a9-4906-a5df-78aa7a0886fa"
-    },
-    {
-      "source": "ITmedia",
-      "title": "[ITmedia PC USER] 増えたボタン＋新しいホイール＝仕事にも便利！ Razerの新型ワイヤレスゲーミングマウス「Basilisk V4 Pro」を試す",
-      "url": "https://itmedia.co.jp/pcuser/articles/2610/29/news074.html",
+      "title": "[ITmedia PC USER] Razer、“エヴァ初号機”デザインのゲーミングデバイス「Razer │ EVANGELION（EVA-01）コレクション」を発売",
+      "url": "https://itmedia.co.jp/pcuser/articles/2610/30/news066.html",
       "reason": "duplicata",
       "existing_id": "40851196-1731-4e6f-bb41-2ff7c31983e7"
     },
     {
-      "source": "ITmedia",
-      "title": "[ITmedia Mobile] 楽天モバイル、新型iPad miniやiPad、iPad Pro、iPad Airを取り扱い 11月6日から",
-      "url": "https://itmedia.co.jp/mobile/articles/2610/29/news079.html",
+      "source": "Golem.de",
+      "title": "Linux-L�cke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch",
+      "url": "https://golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html",
       "reason": "duplicata",
-      "existing_id": "33a4ceda-af81-4483-8608-ce64627d1ad0"
+      "existing_id": "1d8bb2a1-8dfb-4cef-82dc-91b71ad0b006"
     },
     {
-      "source": "DigiTimes",
-      "title": "ASE Holdings raises 2026 capex to US$11.5 billion after profit surge",
-      "url": "https://digitimes.com/news/a20261029PD246/ase-profit-2026-electronics-revenue.html",
+      "source": "Golem.de",
+      "title": "Patrick Stewart: Der Captain hat die Br�cke verlassen",
+      "url": "https://golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html",
       "reason": "duplicata",
-      "existing_id": "efcec0e3-869b-4d6d-9928-cadb95f0f5c5"
+      "existing_id": "1b534fab-a7bd-4afb-b605-5c2500156e13"
     },
     {
-      "source": "DigiTimes",
-      "title": "LandMark orders surpass 2026 revenue; capacity to expand sixfold",
-      "url": "https://digitimes.com/news/a20261029PD235/revenue-capacity-2026-demand-silicon.html",
+      "source": "Golem.de",
+      "title": "Breko und VATM: Verb�nde bestreiten hohe Mehrkosten nach Glasfaserausbau f�r Nutzer",
+      "url": "https://golem.de/news/breko-und-vatm-kommunikation-bei-glasfaserausbau-muss-besser-werden-2610-214663.html",
       "reason": "duplicata",
-      "existing_id": "a68622fc-03f1-41ff-9bbe-6b62a47d4b3a"
+      "existing_id": "228ebcb8-4b9d-4467-85bb-09369f3a6991"
     },
     {
-      "source": "DigiTimes",
-      "title": "Commentary: fire at Episil threatens tight epitaxial wafer supply",
-      "url": "https://digitimes.com/news/a20261029PD236/episil-fire-epitaxy-wafer-equipment-production-capacity.html",
+      "source": "Golem.de",
+      "title": "Anzeige: 256 GByte gro�e MicroSD-Karte von Sandisk zum Bestpreis bei Amazon",
+      "url": "https://golem.de/news/anzeige-256-gbyte-grosse-microsd-karte-von-sandisk-zum-bestpreis-bei-amazon-2610-214662.html",
       "reason": "duplicata",
-      "existing_id": "8f638720-3208-4d0d-b443-c045e179a93d"
+      "existing_id": "c3574574-196a-406b-8bc9-a1a57de88b74"
     },
     {
-      "source": "DigiTimes",
-      "title": "Qisda's commercial drones enter production as physical AI expands its growth strategy",
-      "url": "https://digitimes.com/news/a20261028PD242/qisda-commercial-production-infrastructure-electricity.html",
+      "source": "Golem.de",
+      "title": "Anzeige: Penetration Testing: Sicherheitsl�cken praktisch untersuchen",
+      "url": "https://golem.de/news/anzeige-penetration-testing-sicherheitsluecken-praktisch-untersuchen-2610-214657.html",
       "reason": "duplicata",
-      "existing_id": "a14c1555-97bd-45f6-8b62-a04bdc7da762"
+      "existing_id": "32bb2ecf-e425-454e-b438-57927752b71b"
     },
     {
-      "source": "DigiTimes",
-      "title": "UMT reports 71% revenue growth as LEO satellite demand drives expansion",
-      "url": "https://digitimes.com/news/a20261029PD240/umt-revenue-leo-demand-growth.html",
+      "source": "Golem.de",
+      "title": "Megaspeed: Mutma�liche chinesische Agentin in der N�he von Nvidia-CEO Huang",
+      "url": "https://golem.de/news/megaspeed-mutmassliche-chinesische-agentin-in-der-naehe-von-nvidia-ceo-huang-2610-214661.html",
       "reason": "duplicata",
-      "existing_id": "05ad162b-b9a2-4c68-9e83-b80587dc294b"
+      "existing_id": "7bd587f2-756d-4618-8e95-7cc82c8ad617"
     },
     {
-      "source": "DigiTimes",
-      "title": "ADATA posts record 2026 profit as AI demand intensifies memory supply pressure",
-      "url": "https://digitimes.com/news/a20261029PD241/2026-demand-profit-eps-revenue.html",
+      "source": "Golem.de",
+      "title": "Anzeige: Unmanaged LAN-Switch mit 5 GBit-Ports von Netgear f�r unter 17 Euro",
+      "url": "https://golem.de/news/anzeige-unmanaged-lan-switch-mit-5-gbit-ports-von-netgear-fuer-unter-17-euro-2610-214660.html",
       "reason": "duplicata",
-      "existing_id": "69efc51c-d48d-439e-891b-0a9245e5d144"
+      "existing_id": "382d1eb8-04ee-4273-b1e8-ed47992c3805"
     },
     {
-      "source": "DigiTimes",
-      "title": "TSMC buys AUO Taichung plant for NT$38.8B; Quanta deal scrapped",
-      "url": "https://digitimes.com/news/a20261029PD237/auo-tsmc-plant-infrastructure-development.html",
+      "source": "Golem.de",
+      "title": "(g+) K�nstliche Intelligenz: Warum KI das mittlere Management nicht abschafft",
+      "url": "https://golem.de/news/kuenstliche-intelligenz-warum-ki-das-mittlere-management-nicht-abschafft-2610-214656.html",
       "reason": "duplicata",
-      "existing_id": "7d9f2966-5baf-4e83-83e5-ba415eb14ab9"
+      "existing_id": "225011dd-fbd8-4892-8be1-a44734fe0d04"
     },
     {
-      "source": "DigiTimes",
-      "title": "Virgin Galactic moves new spacecraft, targets commercial flights in 2027",
-      "url": "https://digitimes.com/news/a20261029PD205/commercial-2027-testing-manufacturing-arizona.html",
+      "source": "Golem.de",
+      "title": "Sicherheitsrisiko: Arbeitgeber l�schen h�ufig nicht die digitalen Zug�nge ihrer Ex-Mitarbeiter",
+      "url": "https://golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html",
       "reason": "duplicata",
-      "existing_id": "f236b203-e1f7-4955-924c-8a2d170b3827"
-    },
-    {
-      "source": "DigiTimes",
-      "title": "DeepSeek, Moonshot accused of distilling OpenAI's Astra",
-      "url": "https://digitimes.com/news/a20261029VL220/deepseek-openai-moonshot.html",
-      "reason": "duplicata",
-      "existing_id": "fff6a236-c464-4db4-aa64-bc286779d6a8"
-    },
-    {
-      "source": "DigiTimes",
-      "title": "Analysis: Samsung's record quarter came from higher prices, not more chips; expects buyers to get no relief before 2028",
-      "url": "https://digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
-      "reason": "duplicata",
-      "existing_id": "41251cfc-7382-4d0f-b8a1-a44fde7c7ce7"
+      "existing_id": "cea45b6c-0d76-43f9-b1a2-5a1150e88b25"
     },
     {
       "source": "Golem.de",
@@ -1372,172 +1573,18 @@
       "existing_id": "02fc3bc6-30f1-468a-b39e-d248a2db23bb"
     },
     {
-      "source": "The Hindu Technology",
-      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-      "url": "https://thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece",
+      "source": "Nikkei Asia",
+      "title": "Japan prepares for commercial drone flocks after operating limit lifted",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-prepares-for-commercial-drone-flocks-after-operating-limit-lifted",
       "reason": "duplicata",
-      "existing_id": "5eda10f9-2b6e-4d84-a198-72fa0f02f369"
+      "existing_id": "287cd6be-0bd7-4aa0-96ca-6cd966eabb5d"
     },
     {
-      "source": "The Hindu Technology",
-      "title": "Vehicle data shared only in masked form: ULIP",
-      "url": "https://thehindu.com/news/national/vehicle-data-shared-only-in-masked-form-ulip/article71636370.ece",
+      "source": "Nikkei Asia",
+      "title": "Intel shares sink more than 20% as PC slowdown stretches into 2027",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-shares-sink-more-than-20-as-pc-slowdown-stretches-into-2027",
       "reason": "duplicata",
-      "existing_id": "84320e85-c722-4de7-a74f-604dd121c15a"
-    },
-    {
-      "source": "The Hindu Technology",
-      "title": "Can Indian homegrown smartphone brands compete with global giants?",
-      "url": "https://thehindu.com/sci-tech/technology/can-indian-homegrown-smartphone-brands-compete-with-global-giants/article71634750.ece",
-      "reason": "duplicata",
-      "existing_id": "c64c14d9-83c8-4b16-97b7-4400dceac2f9"
-    },
-    {
-      "source": "The Hindu Technology",
-      "title": "South Korea fines Google and Apple over ‘unfair’ app market practices",
-      "url": "https://thehindu.com/sci-tech/technology/south-korea-fines-google-and-apple-for-forcing-own-payment-systems-and-delaying-reviews/article71635392.ece",
-      "reason": "duplicata",
-      "existing_id": "b402a462-dcfa-4a27-ad7c-76c72a3e1a81"
-    },
-    {
-      "source": "The Lec",
-      "title": "Doosan Enerbility to Manufacture NuScale Power SMR Components",
-      "url": "https://thelec.net/news/articleView.html?idxno=15070",
-      "reason": "duplicata",
-      "existing_id": "59c67636-bb65-4c0c-96ac-75c6ee252b16"
-    },
-    {
-      "source": "The Lec",
-      "title": "Hanwha Aerospace's Q3 Operating Profit Falls 46% to 452 Billion Won",
-      "url": "https://thelec.net/news/articleView.html?idxno=15094",
-      "reason": "duplicata",
-      "existing_id": "63c9d1ee-16d1-4c90-be86-6360f3a4770e"
-    },
-    {
-      "source": "The Lec",
-      "title": "GM Korea Bets on China-Made PHEV With Chinese Batteries",
-      "url": "https://thelec.net/news/articleView.html?idxno=15071",
-      "reason": "duplicata",
-      "existing_id": "e1a3088f-780c-4683-b25d-8c9207a256f2"
-    },
-    {
-      "source": "The Lec",
-      "title": "Taihan Cable's Nine-Month Profit Surpasses 2025 Full-Year Earnings",
-      "url": "https://thelec.net/news/articleView.html?idxno=15072",
-      "reason": "duplicata",
-      "existing_id": "b89ab4b6-4d60-4dcf-a43e-dc3019bca7b2"
-    },
-    {
-      "source": "The Lec",
-      "title": "SK Eternix Hosts Wind Power Safety Technology Forum",
-      "url": "https://thelec.net/news/articleView.html?idxno=15073",
-      "reason": "duplicata",
-      "existing_id": "77bbb40f-28ae-4b6a-ab6f-ce1d0f9d4b61"
-    },
-    {
-      "source": "The Lec",
-      "title": "KT&G Official Wins Intellectual Property Award",
-      "url": "https://thelec.net/news/articleView.html?idxno=15074",
-      "reason": "duplicata",
-      "existing_id": "2845802b-ca68-4296-a1b4-4d73d9d89fa0"
-    },
-    {
-      "source": "The Lec",
-      "title": "Samsung SDI Employees Win Prime Minister, Ministerial Commendations",
-      "url": "https://thelec.net/news/articleView.html?idxno=15076",
-      "reason": "duplicata",
-      "existing_id": "44837dba-3911-4547-b247-0b2c086cb2e8"
-    },
-    {
-      "source": "The Lec",
-      "title": "SK On Executive Wins Presidential Commendation for Battery Supply Chain Efforts",
-      "url": "https://thelec.net/news/articleView.html?idxno=15077",
-      "reason": "duplicata",
-      "existing_id": "b1030cf6-00b8-4807-a3c2-0f3556f9b2e1"
-    },
-    {
-      "source": "The Lec",
-      "title": "LS Group Holds 2026 Supplier CEO Forum",
-      "url": "https://thelec.net/news/articleView.html?idxno=15078",
-      "reason": "duplicata",
-      "existing_id": "b96a5490-e3a5-4e03-a3dc-757ced9211e1"
-    },
-    {
-      "source": "The Lec",
-      "title": "Doosan Enerbility Keeps Czech Nuclear Supply Deal Despite Talks Collapse",
-      "url": "https://thelec.net/news/articleView.html?idxno=15079",
-      "reason": "duplicata",
-      "existing_id": "692c0165-45d5-4a3a-8e47-cec11203a38a"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Patrick Stewart, Shakespearean actor turned ‘Star Trek’ and ‘X-Men’ star, dies",
-      "url": "https://japantimes.co.jp/culture/2026/10/30/film/patrick-stewart-obituary",
-      "reason": "duplicata",
-      "existing_id": "09b5c5ad-cfe7-43f5-85a0-1edd2ab56abb"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "‘Horrific’ Russian drone strike kills 14 at Ukraine train station",
-      "url": "https://japantimes.co.jp/news/2026/10/29/world/ukraine-dnipro-train-strike",
-      "reason": "duplicata",
-      "existing_id": "912369ae-e7a1-47d4-8dd5-b2653ab586b5"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Japan to aid wildfire recovery efforts in Mongolia",
-      "url": "https://japantimes.co.jp/news/2026/10/29/japan/japan-aid-mongolia-wildfire",
-      "reason": "duplicata",
-      "existing_id": "4da6f3d7-e449-4bfe-bd2d-5b774c1eb125"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Hong Kong leader apologizes for deadly Tai Po fire, pledges reform",
-      "url": "https://japantimes.co.jp/news/2026/10/29/asia-pacific/hong-kong-fire-apology",
-      "reason": "duplicata",
-      "existing_id": "acb20a32-0c50-4c09-92df-eb5198ac785d"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "ECB President Lagarde resigns at time of mounting challenges for Europe",
-      "url": "https://japantimes.co.jp/business/2026/10/29/ecb-lagarde-resignation",
-      "reason": "duplicata",
-      "existing_id": "04cb0400-2092-4244-bb86-7effd57065c0"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Toyota monthly sales fall as China slump enters eighth month",
-      "url": "https://japantimes.co.jp/business/2026/10/29/toyota-monthly-sales-slump",
-      "reason": "duplicata",
-      "existing_id": "bfa9f43a-9ba7-4dad-8ab8-17a35fc634b3"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "ANA holdings to fully acquire parent of two midsize airlines",
-      "url": "https://japantimes.co.jp/business/2026/10/29/companies/ana-acquisitions-midsize-airlines",
-      "reason": "duplicata",
-      "existing_id": "6a3fcfd1-5bb4-4005-a065-089088a68185"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Kyoto prosecutors appeal acquittal over 2013 murder of Ohsho president",
-      "url": "https://japantimes.co.jp/news/2026/10/29/japan/crime-legal/kyoto-prosecutors-appeal-ohsho-case",
-      "reason": "duplicata",
-      "existing_id": "a87be28f-2962-4352-9c82-9dd575144ae6"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "Spooky, scary, gory: Anime selection for the season",
-      "url": "https://japantimes.co.jp/culture/2026/10/29/tv-streaming/scary-horror-anime-list",
-      "reason": "duplicata",
-      "existing_id": "6f34cbe8-fd36-4306-b025-13d248cae951"
-    },
-    {
-      "source": "The Japan Times",
-      "title": "A cruise ship was their home. Now residents of Villa Vie Odyssey must leave.",
-      "url": "https://japantimes.co.jp/news/2026/10/29/world/society/cruise-ship-home-villa-vie-residents",
-      "reason": "duplicata",
-      "existing_id": "9960ccfb-74fc-43e9-a18e-85ca395dc4ab"
+      "existing_id": "82a9fcce-c1b2-4476-a1e6-d925e814a1ae"
     }
   ]
 }
