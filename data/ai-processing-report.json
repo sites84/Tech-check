@@ -1,621 +1,820 @@
 {
-  "updated_at": "2026-11-02T11:38:39.531Z",
+  "updated_at": "2026-11-02T17:49:56.347Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "9643261e-4a74-415f-8881-f98f3b8cea35",
-      "title": "Erik ten Hag floats relegation as possibility for struggling Manchester United",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "35b95e2d-8d8b-477e-9c88-508eedd96f81",
-      "title": "Com avanço da direita na Europa, Alternativa para a Alemanha repensa raízes anti-euro",
-      "category": "Empresas",
+      "id": "42da8d10-3609-449c-9fb9-d7e9db5cfb8c",
+      "title": "Nova agência de gestão de desastres do Japão orienta população sobre preparativos",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Alternative for Germany AfD party politics Europe",
+        "video_query_en": "Japan disaster management agency Goshi Hosono earthquake preparedness",
         "images": [
           {
-            "anchor": "O novo momento político da Alternativa para a Alemanha",
-            "query_en": "Germany flag politics building Berlin"
+            "anchor": "O nascimento da nova agência de desastres",
+            "query_en": "Tokyo Japan government building press conference"
           },
           {
-            "anchor": "O desafio de equilibrar identidade e credibilidade",
-            "query_en": "European Union flags Brussels"
+            "anchor": "O apelo direto à população",
+            "query_en": "Japanese family disaster preparedness emergency kit stockpile"
           },
           {
-            "anchor": "Oposição original focada na gestão da crise do euro pela União Europeia.",
-            "query_en": "Euro currency symbol and European Union"
+            "anchor": "- Armazenar suprimentos de alimentos em quantidade suficiente para garantir a subsistência durante os primeiros dias de isolamento ou escassez",
+            "query_en": "emergency food stockpile disaster preparedness Japan"
           },
           {
-            "anchor": "Crescimento expressivo da popularidade em pesquisas de intenção de voto em todo o território alemão.",
-            "query_en": "German politics election rally"
+            "anchor": "- Fixar móveis, eletrodomésticos e estruturas pesadas para evitar quedas e ferimentos graves causados por tremores",
+            "query_en": "earthquake furniture anchor safety strap Japan"
           },
           {
-            "anchor": "Vitória de grande relevância histórica na eleição regional de Saxônia-Anhalt em setembro.",
-            "query_en": "Saxony-Anhalt landscape architecture Germany"
+            "anchor": "- Fortalecer a preparação individual e familiar com foco na autossuficiência temporária durante emergências",
+            "query_en": "disaster prevention drill Japan public"
           },
           {
-            "anchor": "Discussões estratégicas sobre a viabilidade de compor o governo federal nacional antes do final da década.",
-            "query_en": "German parliament building Reichstag Berlin"
+            "anchor": "Rumo à resiliência global",
+            "query_en": "Nankai Trough Pacific coast Japan geography"
           }
         ]
       }
     },
     {
-      "id": "d619ba3e-78af-4036-8eeb-53eab3146b2c",
-      "title": "Ex-premiê Shigeru Ishiba destaca importância da Agência Nacional de Gestão de Desastres",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Shigeru Ishiba National Disaster Management Agency",
-        "images": [
-          {
-            "anchor": "O papel central da nova agência",
-            "query_en": "Japan disaster management agency building"
-          },
-          {
-            "anchor": "Acúmulo de conhecimento e experiência",
-            "query_en": "Shigeru Ishiba interview press"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b14cfc3e-9761-42a4-916f-07e335e82898",
-      "title": "Relógio de luxo roubado é devolvido a loja em Tóquio por correio com bilhete de desculpas",
+      "id": "3159b84f-aadb-4c3a-9d55-4effb5ff10ed",
+      "title": "Saques na Binance atingem US$ 4,7 bilhões após ataque cibernético ligado à Coreia do Norte",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "stolen luxury watch returned via courier Tokyo Aichi",
+        "video_query_en": "Binance hacks 4.7 billion outflows North Korea",
         "images": [
           {
-            "anchor": "A devolução surpreendente em Tóquio",
-            "query_en": "Tokyo luxury store storefront"
+            "anchor": "## O impacto do maior roubo cibernético da história",
+            "query_en": "Binance crypto exchange office building"
           },
           {
-            "anchor": "Origem do pacote e o bilhete de desculpas",
-            "query_en": "handwritten apology note package"
+            "anchor": "## Retomada das operações e mitigação de danos",
+            "query_en": "Cryptocurrency security and blockchain protection"
           }
         ]
       }
     },
     {
-      "id": "3f1080e3-93d8-405b-ac13-7521c3538954",
-      "title": "Executivos da GMO pedem desculpas por falhas na resposta a ciberataques",
-      "category": "Segurança",
+      "id": "7441d020-ae54-4fb4-9480-a0bb29ca7c76",
+      "title": "Anthropic busca captar até US$ 3,5 bilhões com investidores japoneses em sua IPO",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GMO Internet Group cybersecurity press conference Tokyo",
+        "video_query_en": "Anthropic IPO Japan investors",
         "images": [
           {
-            "anchor": "Pedid público de desculpas e falhas na segurança",
-            "query_en": "Masatoshi Kumagai GMO news conference"
+            "anchor": "Detalhes da operação e contexto de mercado",
+            "query_en": "Tokyo business district skyline stock photo"
           },
           {
-            "anchor": "Punições administrativas e cortes salariais",
-            "query_en": "business executives apology press conference Japan"
+            "anchor": "Mizuho",
+            "query_en": "Mizuho bank branch building Tokyo"
+          },
+          {
+            "anchor": "Impacto global e tendências do setor",
+            "query_en": "Artificial intelligence data center servers technology"
           }
         ]
       }
     },
     {
-      "id": "833cda2a-9b94-4098-b131-57b5ce308fbf",
-      "title": "BOJ signals low hopes for consumer spending as population falls",
+      "id": "21786726-5609-4011-a495-d6b414a5916f",
+      "title": "Japan's SBI to invest in US digital bank Erebor, eyeing blockchain settlements",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SBI Holdings digital bank investment blockchain settlements",
+        "images": [
+          {
+            "anchor": "Detalhes da operação e estratégia",
+            "query_en": "SBI Holdings corporate building Tokyo Japan"
+          },
+          {
+            "anchor": "Foco em liquidações via blockchain",
+            "query_en": "digital banking technology concept financial network"
+          },
+          {
+            "anchor": "Contexto das movimentações do SBI",
+            "query_en": "financial technology digital currency trading floor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "376eb7a9-5cee-4bc5-baad-f295bcde9eb1",
+      "title": "Mitsubishi vende parte de sua participação no projeto de GNL no Canadá para fundos da Blackstone",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mitsubishi Corp LNG Canada project Blackstone",
+        "images": [
+          {
+            "anchor": "O Projeto LNG Canada e a Participação da Mitsubishi",
+            "query_en": "LNG Canada natural gas liquefaction plant Pacific coast"
+          },
+          {
+            "anchor": "Participação original da Mitsubishi: 15% do projeto LNG Canada",
+            "query_en": "Mitsubishi Corp logo building Tokyo headquarters"
+          },
+          {
+            "anchor": "Destino do gás: Extração no oeste canadense e transporte por gasoduto",
+            "query_en": "natural gas pipeline Western Canada landscape"
+          },
+          {
+            "anchor": "Processo na costa: Liquefação na costa do Pacífico do Canadá",
+            "query_en": "liquefied natural gas tanker ship terminal Canada"
+          },
+          {
+            "anchor": "Comprador da fatia: Fundos da Blackstone",
+            "query_en": "Blackstone office building sign New York"
+          },
+          {
+            "anchor": "Valor estimado da transação: Aproximadamente US$ 1,6 bilhão",
+            "query_en": "financial markets trading floor monitors graphs"
+          },
+          {
+            "anchor": "Objetivos Estratégicos e Eficiência de Capital",
+            "query_en": "corporate board room business meeting Tokyo"
+          },
+          {
+            "anchor": "Financiamento de Futuras Expansões",
+            "query_en": "industrial energy plant expansion construction"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8e95681-1417-4377-9b01-12e14ef8ecd9",
+      "title": "Japan weighs standards for self-driving cars without steering wheels",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
+      "error": "Categoria inválida retornada pelo Gemini: Automobiles"
     },
     {
-      "id": "4df73107-297e-4137-8cbd-9385ccb3965e",
-      "title": "Empresas no Japão buscam seguro cibernético após grandes vazamentos",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "cybersecurity insurance data breaches business impact",
-        "images": [
-          {
-            "anchor": "## Aumento na procura por proteção digital",
-            "query_en": "cybersecurity insurance business protection"
-          },
-          {
-            "anchor": "## O que as apólices de seguro cobrem",
-            "query_en": "digital forensics data breach analysis"
-          }
-        ]
-      }
-    },
-    {
-      "id": "392a1ba9-ab56-42f0-acf4-a57ce41fdbd6",
-      "title": "Oji Holdings avança na produção em larga escala de alcaçuz em Hokkaido",
+      "id": "c500895f-687b-48e7-81cf-3636d9678789",
+      "title": "Preços de DRAM dobram em 2026 com foco em IA espremendo fabricantes de PCs",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Oji Holdings licorice cultivation Hokkaido",
+        "video_query_en": "DRAM memory prices AI chip shortage 2026",
         "images": [
           {
-            "anchor": "O projeto em Nayoro e o suprimento nacional",
-            "query_en": "Hokkaido landscape agriculture Nayoro"
+            "anchor": "Impacto no mercado de computadores pessoais",
+            "query_en": "Personal computer store display PC hardware"
           },
           {
-            "anchor": "Aplicações industriais do alcaçuz",
-            "query_en": "licorice root herbal medicine"
+            "anchor": "Queda acentuada de 30% nas remessas de computadores pessoais no Japão em relação ao mesmo período do ano anterior durante os meses de abril a setembro.",
+            "query_en": "Computer factory assembly line tech manufacturing"
+          },
+          {
+            "anchor": "Mudança estratégica por parte de gigantes da tecnologia, como a HP e a Asus, que precisaram transferir parte de sua produção de PCs de volta para a China para tentar conter o avanço dos custos gerados pelo impacto da inteligência artificial.",
+            "query_en": "ASUS laptop computer device"
+          },
+          {
+            "anchor": "Desaceleração prolongada do mercado de computadores que se estende para o ano de 2027, refletindo diretamente no desempenho financeiro de companhias tradicionais de processadores, como a Intel, cujas ações sofreram quedas superiores a 20%.",
+            "query_en": "Intel corporate logo semiconductor office"
+          },
+          {
+            "anchor": "A supremacia financeira das fabricantes de memória",
+            "query_en": "Advanced DRAM memory semiconductor chip wafer"
+          },
+          {
+            "anchor": "Fabricantes de chips de memória registraram lucros operacionais que superam os ganhos de empresas do porte da Alphabet e outras gigantes do setor tecnológico devido ao apetite voraz por hardwares voltados à IA.",
+            "query_en": "SK Hynix semiconductor factory cleanroom"
+          },
+          {
+            "anchor": "A SK Hynix reportou um salto espetacular em seu lucro trimestral, que disparou sete vezes para alcançar a marca de 63 bilhões de dólares sustentada pela forte demanda por componentes de memória.",
+            "query_en": "Samsung semiconductor memory module close up"
+          },
+          {
+            "anchor": "A Samsung registrou o maior lucro da história do setor de tecnologia com um terceiro trimestre avassalador.",
+            "query_en": "Kioxia flash memory wafer semiconductor"
+          },
+          {
+            "anchor": "A Kioxia projetou que seu lucro líquido saltará impressionantes 15 vezes para atingir 8,7 bilhões de dólares no trimestre.",
+            "query_en": "Japan semiconductor chip export cargo port"
+          },
+          {
+            "anchor": "As exportações de chips do Japão acumularam um crescimento expressivo de 41%, impulsionadas diretamente pelo boom da inteligência artificial e pela disparada nos preços dos componentes de memória.",
+            "query_en": "Global tech supply chain warehouse logistics"
+          },
+          {
+            "anchor": "Efeitos colaterais na cadeia global de suprimentos",
+            "query_en": "Printed circuit board electronics manufacturing"
+          },
+          {
+            "anchor": "O boom da inteligência artificial provocou uma crise severa na oferta de placas de circuito impresso em toda a cadeia de suprimentos global.",
+            "query_en": "Fujifilm magnetic tape storage archival system"
           }
         ]
       }
     },
     {
-      "id": "b24c7f73-152d-4dc0-8ef4-724342e294ba",
-      "title": "A corrida global pela Inteligência Artificial e a posição da China",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US China AI competition semiconductors technology race",
-        "images": [
-          {
-            "anchor": "O cenário da disputa tecnológica global",
-            "query_en": "artificial intelligence global technology competition map"
-          },
-          {
-            "anchor": "Vantagens dos Estados Unidos",
-            "query_en": "advanced semiconductors computer chips manufacturing"
-          },
-          {
-            "anchor": "A postura dos países em desenvolvimento",
-            "query_en": "developing countries digital technology growth"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37218fcb-dae6-42d4-9f6c-52a9b4a52bc4",
-      "title": "Hackers norte-coreanos utilizam inteligência artificial para potencializar roubos de criptomoedas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "North Korea hackers AI cryptocurrency heist",
-        "images": [
-          {
-            "anchor": "A ascensão da unidade TraderTraitor e o uso de inteligência artificial",
-            "query_en": "cybersecurity hackers computer screen digital code"
-          },
-          {
-            "anchor": "Estratégia de caça aos grandes alvos e o impacto financeiro",
-            "query_en": "cryptocurrency security server blockchain technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bbbae5e7-d540-474b-82ea-ee0c7486f365",
-      "title": "Indústria siderúrgica da China enfrenta escalada de prejuízos diante da queda na demanda e aumento de custos",
+      "id": "dfcbd9a3-b109-49f0-933b-fa1dc8ad1965",
+      "title": "Especialistas dos EUA apoiam submarinos nucleares para o Japão conter a China",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chinese steel industry losses demand costs",
+        "video_query_en": "US experts Japanese nuclear submarines China defense",
         "images": [
           {
-            "anchor": "O aperto nas margens de lucro das siderúrgicas",
-            "query_en": "Shandong Iron and Steel Group steel plant China"
+            "anchor": "Desafios operacionais e financeiros",
+            "query_en": "Japanese naval defense fleet military port"
           },
           {
-            "anchor": "Queda expressiva nos preços de mercado do aço em razão da baixa demanda interna.",
-            "query_en": "stacked steel plates industrial warehouse"
-          },
-          {
-            "anchor": "O risco de expansão das exportações e reações internacionais",
-            "query_en": "cargo ship loaded with steel containers export port"
+            "anchor": "O contexto da segurança regional",
+            "query_en": "US Japan military alliance defense meeting"
           }
         ]
       }
     },
     {
-      "id": "e80e8171-f5a7-4fcc-bd17-bd9d05c1f20c",
-      "title": "Will Japanese insurers bring money home? 5 things to know",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "629896db-1e7b-486f-9360-0bb251ada600",
-      "title": "Corpo jurídico global inaugura escritório em Hong Kong e impulsiona polo legal",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "UNIDROIT Hong Kong office opening ceremony John Lee",
-        "images": [
-          {
-            "anchor": "A inauguração do escritório em Hong Kong",
-            "query_en": "Hong Kong Chief Executive John Lee opening ceremony UNIDROIT"
-          },
-          {
-            "anchor": "O papel do UNIDROIT e os objetivos locais",
-            "query_en": "UNIDROIT Rome headquarters international law"
-          },
-          {
-            "anchor": "Contexto e desdobramentos regionais",
-            "query_en": "Hong Kong skyline commercial legal hub"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ac5b19a8-ad2e-4dd6-afaa-328d481e2468",
-      "title": "Vietnam solar success prompts rethink of power pricing",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Energia"
-    },
-    {
-      "id": "ac774ccf-f09f-4098-af26-3ca87df41113",
-      "title": "Don Quijote elimina taxas de reembolso para turistas visando impulsionar vendas no Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Don Quijote store tax free shopping Japan",
-        "images": [
-          {
-            "anchor": "O impacto das novas regras governamentais",
-            "query_en": "Tokyo shopping district tourists Japan"
-          },
-          {
-            "anchor": "Estratégia frente ao cenário econômico atual",
-            "query_en": "Don Quijote store front Tokyo Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6db0f95a-1e34-47ff-8950-e92e730654fe",
-      "title": "União Europeia acelerta planos de cabos submarinos para Japão e Coreia do Sul",
+      "id": "1b52d577-25bb-48f6-a4bc-0d6772c40651",
+      "title": "Lâmpada Inteligente Tapo L530E E27 com Alexa em Promoção na Amazon por Menos de Oito Euros",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "subsea cables arctic route EU Japan South Korea",
+        "video_query_en": "Tapo L530E smart bulb review and setup",
         "images": [
           {
-            "anchor": "O projeto Polar Connect e a rota pelo Ártico",
-            "query_en": "Polar Connect research vessel Oden arctic"
+            "anchor": "Recursos e Iluminação Colorida",
+            "query_en": "Tapo L530E smart bulb colorful light"
           },
           {
-            "anchor": "Oden: Navio de pesquisa utilizado para mapeamento e levantamento no Ártico no âmbito do Polar Connect.",
-            "query_en": "Oden research vessel icebreaker arctic"
-          },
-          {
-            "anchor": "Rotas Árticas: Caminhos alternativos para cabos submarinos que reduzem a dependência de rotas tradicionais pelo sul.",
-            "query_en": "arctic ocean map undersea cable route"
-          },
-          {
-            "anchor": "Groenlândia: Ponto estratégico de passagem para conectar a Europa ao leste asiático.",
-            "query_en": "Greenland landscape arctic coast"
-          },
-          {
-            "anchor": "Divergências de visão entre Bruxelas e Tóquio",
-            "query_en": "European Union flag Tokyo cityscape Japan"
-          },
-          {
-            "anchor": "Contexto geopolítico e tecnológico global",
-            "query_en": "submarine communication cable spool ship deck"
-          },
-          {
-            "anchor": "Conectividade global: Esforços paralelos de empresas japonesas em projetos transoceânicos.",
-            "query_en": "fiber optic submarine cable laying ship"
-          },
-          {
-            "anchor": "Parcerias tecnológicas: Cooperação entre gigantes da tecnologia e fornecedores asiáticos.",
-            "query_en": "telecommunications network server room modern"
-          },
-          {
-            "anchor": "Segurança de redes: Iniciativas bilaterais para proteger cabos submarinos contra vulnerabilidades e interferências.",
-            "query_en": "underwater fiber optic cable protection"
+            "anchor": "Integração com Assistentes Virtuais",
+            "query_en": "Smart bulb connected to Alexa voice control"
           }
         ]
       }
     },
     {
-      "id": "2b13111a-08c8-4fe9-9105-3847e9a8ff80",
-      "title": "Japão pode construir vantagem defensiva com inteligência artificial, afirma CEO da Palantir",
+      "id": "ba72b17d-0feb-47fb-bc0f-501d810eccb6",
+      "title": "Segurança de IA: TÜV considera compromissos voluntários insuficientes",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Palantir CEO Alex Karp interview AI defense",
+        "video_query_en": "TUV AI safety standards regulation evaluation",
         "images": [
           {
-            "anchor": "O potencial tecnológico japonês na defesa",
-            "query_en": "Japan Self Defense Forces technology"
+            "anchor": "O papel da TÜV na regulação da inteligência artificial",
+            "query_en": "TUV certification testing laboratory technology"
           },
           {
-            "anchor": "Capacidade de desenvolvimento próprio",
-            "query_en": "Artificial intelligence tech stack data"
+            "anchor": "A proposta de uma estrutura em várias etapas",
+            "query_en": "artificial intelligence risk assessment compliance framework"
           },
           {
-            "anchor": "Interesse da Palantir",
-            "query_en": "Alex Karp Palantir CEO"
-          },
-          {
-            "anchor": "Contexto geopolítico",
-            "query_en": "Tokyo Japan skyline government"
-          },
-          {
-            "anchor": "O cenário de inovação e segurança",
-            "query_en": "Cybersecurity defense operations center"
+            "anchor": "Desafios na implementação da segurança tecnológica",
+            "query_en": "server room technology security digital infrastructure"
           }
         ]
       }
     },
     {
-      "id": "7b5e6ad1-ee58-453e-8abc-a3e6dd3c4673",
-      "title": "Samsung Electronics vai comprar participação da Samsung Display na TCL CSOT por 1,27 trilhão de wons",
+      "id": "ee0b816c-4775-4ade-9abb-f2dbf8808959",
+      "title": "Marvell adquire especialista em lasers de IA Lumentum por 115 bilhões de dólares",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung Electronics TCL CSOT stake acquisition",
+        "video_query_en": "Marvell Technology Lumentum acquisition AI data center",
         "images": [
           {
-            "anchor": "Reestruturação societária na gigante sul-coreana",
-            "query_en": "Samsung Electronics headquarters building Seoul"
+            "anchor": "O impacto da aquisição no mercado de tecnologia",
+            "query_en": "Marvell Technology corporate office data center"
           },
           {
-            "anchor": "Detalhes da transação financeira e aprovação interna",
-            "query_en": "Samsung Display logo and corporate office"
+            "anchor": "Controle de tecnologias ópticas chave para data centers",
+            "query_en": "optical laser components for data centers"
           },
           {
-            "anchor": "Impactos e próximos passos no mercado de painéis",
-            "query_en": "Samsung TV display panel manufacturing"
+            "anchor": "O cenário dos data centers e a inteligência artificial",
+            "query_en": "AI data center server racks optical networking"
           }
         ]
       }
     },
     {
-      "id": "6ad4354b-212a-4fb2-91e2-13f001aea8a0",
-      "title": "Murata vai investir 1 trilhão de ienes em MLCCs ao longo de cinco anos",
+      "id": "4db4773d-4455-4b88-8fb1-115024d4e39c",
+      "title": "O capacete de Max Verstappen na Fórmula 1 em versão de quebra-cabeça 3D chega ao menor preço na Amazon",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Murata manufacturing MLCC investment capacitors",
+        "video_query_en": "Max Verstappen Red Bull helmet 3D puzzle",
         "images": [
           {
-            "anchor": "O anúncio do investimento multibilionário",
-            "query_en": "Murata Manufacturing headquarters Japan"
-          },
-          {
-            "anchor": "Período de execução e foco da expansão",
-            "query_en": "multilayer ceramic capacitors MLCC electronics"
+            "anchor": "Detalhes do produto e montagem",
+            "query_en": "Max Verstappen Red Bull helmet 3D puzzle toy"
           }
         ]
       }
     },
     {
-      "id": "4d665716-2300-4792-98e8-5c588ccb357b",
-      "title": "Lucro Operacional da Raon Robotics Dispara 259% no Terceiro Trimestre",
-      "category": "Empresas",
+      "id": "83b4d7cd-caad-4c52-9824-a56978323abe",
+      "title": "Ataque cibernético paralisa caixas de correio de deputados do partido Die Linke no Bundestag",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Raon Robotics financial results automation industry",
+        "video_query_en": "German Bundestag cyberattack email servers",
         "images": [
           {
-            "anchor": "Desempenho Financeiro do Terceiro Trimestre",
-            "query_en": "financial chart corporate revenue growth"
+            "anchor": "O ataque cibernético no Bundestag",
+            "query_en": "German Bundestag building Berlin"
           },
           {
-            "anchor": "Resultados Acumulados do Ano",
-            "query_en": "business analytics financial report data"
+            "anchor": "Impacto nas atividades parlamentares",
+            "query_en": "Politician working with laptop in office"
+          },
+          {
+            "anchor": "Resposta e contexto de segurança",
+            "query_en": "Cybersecurity server room technology"
           }
         ]
       }
     },
     {
-      "id": "b3654c4b-5686-4fc4-8dfc-2d120087c302",
-      "title": "TechInsights Projeta Mercado de Semicondutores Acima de US$ 2,6 Trilhões com Foco em Memória",
-      "category": "Empresas",
+      "id": "eff4f2cf-ef5d-4124-8e1f-6a42f55ac861",
+      "title": "Comportamento burocrático e cauteloso de agentes de IA em Minecraft e Mindustry",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TechInsights semiconductor market memory revenue 2027 outlook",
+        "video_query_en": "AI agents behavior in Minecraft and Mindustry",
         "images": [
           {
-            "anchor": "Perspectivas do Mercado Global de Semicondutores",
-            "query_en": "global semiconductor market chip manufacturing tech"
+            "anchor": "O comportamento preventivo das inteligências artificiais",
+            "query_en": "artificial intelligence gameplay in Minecraft"
           },
           {
-            "anchor": "O Papel Central das Memórias",
-            "query_en": "computer memory chips semiconductor technology hardware"
+            "anchor": "Burocracia digital nos ambientes de jogos",
+            "query_en": "Mindustry gameplay automation strategy"
           }
         ]
       }
     },
     {
-      "id": "79756135-3826-4b8b-b072-3c4d706611dc",
-      "title": "SK hynix Realiza seu Primeiro Partners Day no Japão com Fornecedores-Chave",
-      "category": "Empresas",
+      "id": "3fd06c1a-70db-4d81-a83c-16e1e7b8e652",
+      "title": "Roborock Qrevo S Pro retorna ao menor preço histórico na Amazon com recursos avançados",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SK hynix Partners Day Japan suppliers",
+        "video_query_en": "Roborock Qrevo S Pro review vacuum cleaner",
         "images": [
           {
-            "anchor": "Executivos de Destaque no Encontro",
-            "query_en": "SK hynix executives meeting"
+            "anchor": "Desempenho de sucção e tecnologias de limpeza",
+            "query_en": "Roborock Qrevo robot vacuum cleaning"
           },
           {
-            "anchor": "Lee Byung-gi, que atua como diretor de produção (CPO).",
-            "query_en": "corporate executive meeting business"
+            "anchor": "Condições da oferta na Amazon",
+            "query_en": "Amazon warehouse delivery package"
           },
           {
-            "anchor": "Kang Yoo-jong, vice-presidente executivo e chefe de compras.",
-            "query_en": "business procurement meeting"
+            "anchor": "Pressão de sucção de 18.500 Pa para remoção profunda de detritos",
+            "query_en": "Roborock vacuum suction power test"
           },
           {
-            "anchor": "Choi Woo-jin, vice-presidente executivo e chefe de empacotamento (packaging).",
-            "query_en": "semiconductors packaging technology"
+            "anchor": "Estação base com sistema de lavagem de esfregão com água quente",
+            "query_en": "Roborock docking station hot water washing"
           },
           {
-            "anchor": "Fortalecimento da Cadeia de Suprimentos",
-            "query_en": "semiconductor supply chain partners"
+            "anchor": "Preço promocional abaixo de 390 euros na plataforma Amazon",
+            "query_en": "Amazon online shopping interface on laptop"
           }
         ]
       }
     },
     {
-      "id": "e432985d-6b2c-4a71-826f-ea39f6dd4dcf",
-      "title": "Kioxia registra lucro recorde no segundo trimestre com margem operacional de 80,4%",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kioxia Q2 profit NAND flash memory AI data centers",
-        "images": [
-          {
-            "anchor": "Fatores impulsionadores do crescimento",
-            "query_en": "Kioxia NAND flash memory chip"
-          },
-          {
-            "anchor": "Desempenho operacional de destaque",
-            "query_en": "AI data center servers racks"
-          }
-        ]
-      }
-    },
-    {
-      "id": "504c3bc6-d548-4c1c-b428-e6778f8495ff",
-      "title": "Preços de DRAM para commodities atingem recorde histórico em outubro enquanto alta de NAND estagna",
+      "id": "170882a5-8a15-49bf-87e4-0534634d3fdf",
+      "title": "Raspberry Pi atinge preços elevados com novos reajustes e custos que chegam a quase 350 euros",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "commodity DRAM prices October NAND flash market",
+        "video_query_en": "Raspberry Pi 5 price increase and compute module review",
         "images": [
           {
-            "anchor": "O panorama dos preços de memória em outubro",
-            "query_en": "computer memory RAM chips manufacturing"
+            "anchor": "O impacto dos reajustes no ecossistema Raspberry Pi",
+            "query_en": "Raspberry Pi 5 board close up"
           },
           {
-            "anchor": "A alta histórica das memórias DRAM",
-            "query_en": "DRAM memory chip module close up"
+            "anchor": "Modelos afetados pelas mudanças",
+            "query_en": "Raspberry Pi Compute Module hardware"
           },
           {
-            "anchor": "Estagnação no mercado de NAND flash",
-            "query_en": "NAND flash memory storage chips"
+            "anchor": "Raspberry Pi 5:",
+            "query_en": "Raspberry Pi 5 single board computer"
+          },
+          {
+            "anchor": "Compute Modules:",
+            "query_en": "Raspberry Pi Compute Module 4 5"
+          },
+          {
+            "anchor": "Acessórios oficiais e kits completos:",
+            "query_en": "Raspberry Pi official accessories kit"
           }
         ]
       }
     },
     {
-      "id": "5a28bc0f-7150-453c-9454-35066eb36a23",
-      "title": "Daeduck Electronics registra salto de 69% nas vendas de MLB e lucro operacional de 87,9 bilhões de wons no terceiro trimestre",
-      "category": "Empresas",
+      "id": "becc8e6f-f2a7-4840-bd21-23e1966f1687",
+      "title": "Alex Karp, CEO da Palantir, faz alertas sobre o domínio da inteligência artificial na China",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Daeduck Electronics third quarter financial results MLB sales",
+        "video_query_en": "Alex Karp Palantir artificial intelligence China dominance interview",
         "images": [
           {
-            "anchor": "Desempenho financeiro consolidado do terceiro trimestre",
-            "query_en": "Daeduck Electronics corporate building headquarters"
+            "anchor": "O alerta sobre a soberania tecnológica",
+            "query_en": "Alex Karp Palantir CEO portrait"
           },
           {
-            "anchor": "Comparação com o trimestre anterior e o papel das placas MLB",
-            "query_en": "multilayer printed circuit board MLB electronics manufacturing"
+            "anchor": "A importância do controle próprio",
+            "query_en": "artificial intelligence data security server room"
+          },
+          {
+            "anchor": "Desafios globais e o futuro da inteligência artificial",
+            "query_en": "global technology supply chain digital network"
           }
         ]
       }
     },
     {
-      "id": "6a78d8d9-a957-4977-83d9-6781ae4b56b1",
-      "title": "Samsung Electro-Mechanics fecha contrato bilionário de MLCC para servidores de IA",
-      "category": "Empresas",
+      "id": "42ca2d55-fe8a-4ec7-9746-3ef1bc60c242",
+      "title": "Friedrich Merz defende redução da dependência de IA americana no Digitalgipfel",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung Electro-Mechanics MLCC AI servers",
+        "video_query_en": "Friedrich Merz Digitalgipfel artificial intelligence sovereignty",
         "images": [
           {
-            "anchor": "O Acordo de Fornecimento",
-            "query_en": "Samsung Electro-Mechanics manufacturing facility"
+            "anchor": "O cenário do Digitalgipfel e a busca por soberania",
+            "query_en": "Digitalgipfel conference stage audience"
           },
           {
-            "anchor": "Aplicação em Servidores de IA",
-            "query_en": "artificial intelligence server components MLCC"
+            "anchor": "A defesa da política digital e o apelo por urgência",
+            "query_en": "Friedrich Merz speaking politics"
           }
         ]
       }
     },
     {
-      "id": "820edb39-96cb-4eaa-ae29-bccfdcffa6ef",
-      "title": "Tecnologia Maglev avança em equipamentos de ligação híbrida",
-      "category": "Empresas",
+      "id": "137da392-375d-4436-bb9f-04a824b1636a",
+      "title": "PayPay anuncia campanhas em parceria com municípios e prevê até 25% de reembolso",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "maglev technology hybrid bonding semiconductor equipment",
+        "video_query_en": "PayPay mobile payment campaign Japan",
         "images": [
           {
-            "anchor": "O desafio das interconexões",
-            "query_en": "semiconductor hybrid bonding equipment advanced packaging"
+            "anchor": "Detalhes das campanhas e regiões participantes",
+            "query_en": "PayPay app smartphone screen Japan"
+          },
+          {
+            "anchor": "Reembolso de pontos de até 25% nas compras realizadas em estabelecimentos comerciais locais selecionados.",
+            "query_en": "Japanese local shopping street retail store"
+          },
+          {
+            "anchor": "Impacto esperado no comércio regional",
+            "query_en": "Cashless payment convenience store Japan"
           }
         ]
       }
     },
     {
-      "id": "23426cbd-bef4-4c51-8ec5-ccf404428c2c",
-      "title": "Fusão entre SpaceX e Tesla faz mais sentido para Elon Musk do que para investidores",
-      "category": "Empresas",
+      "id": "b9c97d76-cd32-481b-a2ea-12582ef9c5af",
+      "title": "Capa de aramida da memumi para iPhone Duo protege até a dobradiça por menos de 7000 ienes",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Elon Musk SpaceX Tesla merger analysis",
+        "video_query_en": "memumi aramid fiber case review iphone duo",
         "images": [
           {
-            "anchor": "O fim de importantes barreiras na alocação de capital",
-            "query_en": "Elon Musk Tesla SpaceX headquarters corporate building"
+            "anchor": "Design ultrafino em fibra de aramida",
+            "query_en": "aramid fiber phone case slim design"
           },
           {
-            "anchor": "- Em meados de 2024, a CNBC relatou que Musk desviou 12 mil processadores Nvidia H100 originalmente destinados à Tesla para a X.com e para a xAI, atrasando a entrega de equipamentos de computação avaliados em mais de US$ 500 milhões para a fabricante de carros por vários meses.",
-            "query_en": "Nvidia AI server racks and processors data center"
+            "anchor": "Proteção abrangente para a dobradiça",
+            "query_en": "foldable phone hinge protection case"
           },
           {
-            "anchor": "Divergências financeiras e controle de votação",
-            "query_en": "Tesla electric vehicle assembly line factory"
-          },
-          {
-            "anchor": "Integração vertical e novos riscos estratégicos",
-            "query_en": "SpaceX Starlink satellite launch rocket in space"
+            "anchor": "Ausência de MagSafe e alternativas de uso",
+            "query_en": "magsafe ring adapter for phone case"
           }
         ]
       }
     },
     {
-      "id": "b012e746-b1f4-448d-9c11-d134c6ba084b",
-      "title": "Novo CEO da Apple, John Ternus, enfrenta seu primeiro teste de resultados financeiros em meio à alta nos custos de memória",
-      "category": "Empresas",
+      "id": "94c816b1-8394-4bb6-87ba-23abb864759f",
+      "title": "Samsung encerra programa de troca gratuita de película para celulares dobráveis no Japão",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple CEO John Ternus earnings call memory costs iPhone Duo",
+        "video_query_en": "Samsung foldable phone screen protector replacement service",
         "images": [
           {
-            "anchor": "Os principais desafios para a gestão de John Ternus",
-            "query_en": "John Ternus Apple CEO portrait"
+            "anchor": "Motivos da Decisão e Contexto Econômico",
+            "query_en": "Samsung service center customer support"
           },
           {
-            "anchor": "Estratégia de Inteligência Artificial e a concorrência",
-            "query_en": "Apple AI Siri technology"
-          },
-          {
-            "anchor": "Projeções financeiras e desempenho de vendas",
-            "query_en": "Apple store finance earnings"
-          },
-          {
-            "anchor": "Os desafios do iPhone Duo no mercado global",
-            "query_en": "Apple foldable phone iPhone Duo"
+            "anchor": "Impacto para os Usuários de Smartphones Dobráveis",
+            "query_en": "Samsung foldable smartphone flexible screen"
           }
         ]
       }
     },
     {
-      "id": "31336881-6286-43f5-8433-60ee60b56dee",
-      "title": "Microsoft testa novo design para o menu de contexto no Windows 11",
-      "category": "Computadores",
+      "id": "890bc8c8-4991-4f04-928c-9e5bc1d36fa1",
+      "title": "Schell Games, co-desenvolvedora de Among Us VR, anuncia segunda onda de demissões no ano",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Windows 11 new right click menu context menu",
+        "video_query_en": "Schell Games Among Us VR layoffs",
         "images": [
           {
-            "anchor": "O processo de modernização do sistema",
-            "query_en": "Windows 11 modern context menu"
+            "anchor": "Comunicado oficial e impacto nas equipes",
+            "query_en": "Schell Games studio office Pittsburgh"
           },
           {
-            "anchor": "Próximos passos para os usuários",
-            "query_en": "Microsoft Windows 11 operating system interface"
+            "anchor": "- Engenharia",
+            "query_en": "game development engineering team VR"
+          },
+          {
+            "anchor": "- Arte e design",
+            "query_en": "video game art and design studio"
+          },
+          {
+            "anchor": "- Som",
+            "query_en": "video game sound design audio studio"
+          },
+          {
+            "anchor": "- Marketing",
+            "query_en": "game marketing team office"
+          },
+          {
+            "anchor": "- Suporte de TI",
+            "query_en": "IT support workplace technology"
+          },
+          {
+            "anchor": "- Pesquisa",
+            "query_en": "virtual reality research laboratory"
+          },
+          {
+            "anchor": "- QA (Garantia de Qualidade)",
+            "query_en": "video game quality assurance testing"
+          },
+          {
+            "anchor": "Histórico e portfólio da desenvolvedora",
+            "query_en": "Among Us VR gameplay Schell Games"
+          },
+          {
+            "anchor": "A visão da liderança sobre a estabilidade",
+            "query_en": "Jesse Schell CEO game developer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8dad6bce-fc27-445d-9eb9-22e7f86b7ebf",
+      "title": "Conheça o Mad Herons: o estúdio independente de Los Angeles que aposta na comédia nos jogos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mad Herons Send In The Clown indie game interview",
+        "images": [
+          {
+            "anchor": "Os fundadores por trás do projeto e a aposta em Send In The Clown",
+            "query_en": "Mad Herons indie game developers Los Angeles"
+          },
+          {
+            "anchor": "O que torna um jogo de comédia bem-sucedido?",
+            "query_en": "Portal video game gameplay"
+          },
+          {
+            "anchor": "Portal",
+            "query_en": "Portal valve video game"
+          },
+          {
+            "anchor": "Untitled Goose Game",
+            "query_en": "Untitled Goose Game gameplay"
+          },
+          {
+            "anchor": "Disco Elysium",
+            "query_en": "Disco Elysium game character"
+          },
+          {
+            "anchor": "Earthbound",
+            "query_en": "Earthbound snes game"
+          },
+          {
+            "anchor": "Psychonauts",
+            "query_en": "Psychonauts double fine game"
+          },
+          {
+            "anchor": "A decisão estratégica por um jogo de curta duração",
+            "query_en": "Send In The Clown game Mad Herons"
+          },
+          {
+            "anchor": "Respeito ao tempo do jogador",
+            "query_en": "indie game developer working on computer"
+          },
+          {
+            "anchor": "Condensação de mecânicas",
+            "query_en": "game design planning whiteboard"
+          },
+          {
+            "anchor": "Foco na qualidade das piadas",
+            "query_en": "comedy video game concept art"
+          },
+          {
+            "anchor": "O desafio de financiar e desenvolver jogos em Los Angeles",
+            "query_en": "Los Angeles city skyline indie game studio"
+          },
+          {
+            "anchor": "A transição da televisão para os videogames",
+            "query_en": "game developer writing code office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ca6625bd-64e1-42ab-9621-a88045e24c1d",
+      "title": "Gamescom Asia x Thailand Game Show atrai quase 220 mil visitantes e bate recorde de internacionalização",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Gamescom Asia Thailand Game Show highlights",
+        "images": [
+          {
+            "anchor": "Área de negócios e crescimento corporativo",
+            "query_en": "Gamescom Asia business area exhibition hall"
+          },
+          {
+            "anchor": "Conferência, palestrantes e estandes internacionais",
+            "query_en": "Gamescom Asia conference stage speakers"
+          },
+          {
+            "anchor": "Jogos disponíveis, mídia e alcance digital",
+            "query_en": "indie games booths visitors playing Gamescom Asia"
+          },
+          {
+            "anchor": "Declarações dos organizadores e visão para o futuro",
+            "query_en": "Thailand Game Show crowd convention center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "858fa9ff-aa07-4b95-8cc5-c68679467b67",
+      "title": "The Pokémon Company Inicia Contagem Regressiva Misteriosa nas Redes Sociais",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Pokemon Company mysterious countdown social media analysis",
+        "images": [
+          {
+            "anchor": "Os Detalhes da Contagem Regressiva",
+            "query_en": "Pokemon 30th anniversary logo social media"
+          },
+          {
+            "anchor": "- 1.025 no dia 18 de outubro",
+            "query_en": "Pokemon social media countdown post"
+          },
+          {
+            "anchor": "O Que Esperar do Anúncio",
+            "query_en": "Pokemon Nintendo Switch Online games"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3c577f4-7777-4bb7-b321-2972c8359576",
+      "title": "O novo Easter Egg de The Legend of Zelda: Ocarina of Time no Google transporta usuários direto para a internet dos anos 90",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Ocarina of Time Easter Egg",
+        "images": [
+          {
+            "anchor": "Como funciona a surpresa nostálgica",
+            "query_en": "Master Sword icon Google search"
+          },
+          {
+            "anchor": "Uma viagem visual ao ano de 1998",
+            "query_en": "Google search interface 1998 retro"
+          },
+          {
+            "anchor": "O contexto do lançamento",
+            "query_en": "Nintendo Switch 2 console"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1c611a3f-6f5b-4657-a746-fcbeff82f764",
+      "title": "Revelada a equipe de desenvolvimento de The Legend of Zelda: Ocarina of Time para o Switch 2",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time Switch 2 Ask the Developer interview",
+        "images": [
+          {
+            "anchor": "Uma produção interna da casa",
+            "query_en": "Nintendo Switch 2 Zelda Ocarina of Time remake gameplay"
+          },
+          {
+            "anchor": "HokWai Ng assumiu o cargo de Diretor",
+            "query_en": "The Legend of Zelda Ocarina of Time Nintendo Switch 2"
+          },
+          {
+            "anchor": "A supervisão dos veteranos e próximos passos",
+            "query_en": "Eiji Aonuma Nintendo EPD Production Group 3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9b5ad93-9b98-470b-b47c-d13cf99d7f01",
+      "title": "Nintendo quis fazer remake de Ocarina of Time para gerar novos insights para o futuro de Zelda",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Eiji Aonuma Ask the Developer Zelda Ocarina of Time remake",
+        "images": [
+          {
+            "anchor": "O valor de entender o passado da franquia",
+            "query_en": "Eiji Aonuma Nintendo interview"
+          },
+          {
+            "anchor": "Grande parte dos profissionais que trabalham com Aonuma hoje em dia tem experiência apenas no desenvolvimento dos jogos mais recentes da série.",
+            "query_en": "The Legend of Zelda Breath of the Wild Nintendo Switch"
+          },
+          {
+            "anchor": "Essa realidade levou o produtor a questionar se esses novos talentos realmente compreendem a real magnitude de Ocarina of Time para a evolução de Zelda como um todo.",
+            "query_en": "The Legend of Zelda Ocarina of Time Nintendo 64"
+          },
+          {
+            "anchor": "A intenção era observar como os atuais desenvolvedores interpretariam o clássico ao projetarem as próximas aventuras da franquia.",
+            "query_en": "Nintendo Switch console developers"
+          },
+          {
+            "anchor": "Celebrando o aniversário e contrastando estilos de jogo",
+            "query_en": "The Legend of Zelda Tears of the Kingdom gameplay"
+          },
+          {
+            "anchor": "O divertimento principal provém de uma aventura e de uma narrativa cuidadosamente cadenciadas.",
+            "query_en": "Ocarina of Time Link playing ocarina"
+          },
+          {
+            "anchor": "Há um foco no crescimento gradual do jogador e na sua compreensão da história ao longo da jornada.",
+            "query_en": "Zelda Ocarina of Time dungeon puzzle"
+          },
+          {
+            "anchor": "A proposta resgata a experiência de progressão clássica para jogadores que se acostumaram com a liberdade irrestrita dos mundos abertos modernos.",
+            "query_en": "Open world vs linear Zelda games"
+          }
+        ]
+      }
+    },
+    {
+      "id": "61bc329d-40e1-4cd7-b67b-b8a0af4ad573",
+      "title": "Nintendo divulga esboços de design de Ocarina of Time para o Switch 2",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nintendo Switch 2 Ocarina of Time design sketches interview",
+        "images": [
+          {
+            "anchor": "O dilema visual entre realismo e nostalgia",
+            "query_en": "Aya Shida Nintendo developer interview art style"
+          },
+          {
+            "anchor": "Preservando a identidade dos personagens e mapas",
+            "query_en": "The Legend of Zelda Ocarina of Time Switch 2 character sketch"
+          },
+          {
+            "anchor": "Tecnologias gráficas e polêmica com o upscaling",
+            "query_en": "Nintendo Switch 2 console hardware setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9aced261-50de-400f-91f9-b92dd4201706",
+      "title": "Remake de Zelda: Ocarina of Time quase teve recurso de Breath of the Wild",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time remake fast travel Breath of the Wild Eiji Aonuma",
+        "images": [
+          {
+            "anchor": "A ideia inicial de pontos de viagem rápida",
+            "query_en": "The Legend of Zelda Ocarina of Time Hyrule Field Link"
+          },
+          {
+            "anchor": "O impacto negativo na atmosfera e na exploração",
+            "query_en": "Eiji Aonuma Nintendo developer interview"
+          },
+          {
+            "anchor": "Novas opções de mobilidade no remake",
+            "query_en": "Link running and jumping Zelda Ocarina of Time remake"
           }
         ]
       }
