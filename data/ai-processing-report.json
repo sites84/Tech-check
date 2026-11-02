@@ -1,732 +1,666 @@
 {
-  "updated_at": "2026-11-01T17:39:45.202Z",
+  "updated_at": "2026-11-01T23:33:50.532Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "f2e151e6-b9b8-4ef1-8f70-242f8ac2d17e",
-      "title": "Como melhorar a governança global de minerais essenciais",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "critical minerals supply chain sustainability IGF Geneva",
-        "images": [
-          {
-            "anchor": "O crescimento da demanda e a maldição dos recursos",
-            "query_en": "critical minerals mining industry equipment"
-          },
-          {
-            "anchor": "Os desafios da industrialização a jusante",
-            "query_en": "mining processing plant industrial facility Indonesia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "687e60b0-57cb-4b6f-b990-46519322b9b0",
-      "title": "O mundo observa as eleições de meio de mandato nos Estados Unidos com o trumpismo em declínio global",
+      "id": "4041a829-7c7c-4639-b8ec-b4bd6b3e10de",
+      "title": "Estados do Golfo temem retaliação mais feroz do Irã em caso de novos ataques dos EUA",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US midterms elections Donald Trump global impact",
+        "video_query_en": "Gulf states Iran US relations Manama Dialogue",
         "images": [
           {
-            "anchor": "A incerteza do comportamento presidencial",
-            "query_en": "Donald Trump US president speaking"
+            "anchor": "O temor de uma guerra devastadora no Oriente Médio",
+            "query_en": "Gulf region skyline diplomacy meeting"
           },
           {
-            "anchor": "A cautela das lideranças internacionais",
-            "query_en": "international world leaders summit diplomacy"
+            "anchor": "A posição dos Estados Unidos e as eleições",
+            "query_en": "Donald Trump speaking at podium"
           }
         ]
       }
     },
     {
-      "id": "726dad2f-2d60-4d8e-869d-ac43e72cc0fa",
-      "title": "Trégua em Kherson permite que família ucraniana visite sua antiga casa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kherson Ukraine humanitarian truce family return",
-        "images": [
-          {
-            "anchor": "O Retorno a Kherson",
-            "query_en": "Kherson city entrance Ukraine war checkpoint"
-          },
-          {
-            "anchor": "A Trégua Humanitária",
-            "query_en": "Melania Trump diplomacy Ukraine humanitarian efforts"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e4d47600-6d1b-4aa7-9c2c-d70d7132e476",
-      "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
+      "id": "54099815-e879-46b6-a5f6-7a25232d91bb",
+      "title": "‘In Their Traces’: An unflinching documentary about the survivors of sexual violence",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Energia"
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
     },
     {
-      "id": "947239e4-6aa8-4568-a6d8-32697c3a8c78",
-      "title": "Telefônica vende três de seus cinco centros de atendimento ao cliente na Alemanha",
+      "id": "7016b33b-e871-4b31-8f24-34417364cc50",
+      "title": "‘Lazy’ running becomes fresh way for Tokyo runners to build community",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Estilo de vida"
+    },
+    {
+      "id": "0f35d44d-4f60-451a-88ba-0b18d8ff8811",
+      "title": "Mitsubishi Heavy investe para ampliar produção de turbinas a gás nos Estados Unidos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Telefonica customer service restructuring call center",
+        "video_query_en": "Mitsubishi Heavy gas turbine US factory expansion",
         "images": [
           {
-            "anchor": "Reestruturação e Venda de Centros",
-            "query_en": "Telefonica store building mobile"
+            "anchor": "Expansão na Geórgia",
+            "query_en": "Mitsubishi Heavy Industries gas turbine factory"
           },
           {
-            "anchor": "Críticas Severas do Sindicato Verdi",
-            "query_en": "Verdi trade union protest Germany"
+            "anchor": "O impacto dos centros de dados",
+            "query_en": "modern data center interior server racks"
           },
           {
-            "anchor": "Contexto e Próximos Passos",
-            "query_en": "Telecommunications office workspace"
+            "anchor": "Fabricação de turbinas a gás para o setor energético norte-americano",
+            "query_en": "industrial gas turbine power plant equipment"
           }
         ]
       }
     },
     {
-      "id": "fd0841c0-df7e-407b-b953-49959c6df0b0",
-      "title": "Vice-líder da CDU, Karin Prien defende taxação de lucros gerados por inteligência artificial",
+      "id": "6224ad79-7a25-4d55-87f0-0f82546d98e8",
+      "title": "O desafio do Japão: atrair startups é suficiente para retê-las?",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Karin Prien CDU AI tax debate Germany",
+        "video_query_en": "Japan startup ecosystem business technology Osaka Expo",
         "images": [
           {
-            "anchor": "Divergência interna no partido",
-            "query_en": "CDU politicians Germany meeting"
+            "anchor": "O cenário atual do empreendedorismo japonês",
+            "query_en": "Hirofumi Yoshimura Osaka Global Start-Up Expo"
           },
           {
-            "anchor": "O futuro da tributação tecnológica",
-            "query_en": "artificial intelligence tax economy concept"
+            "anchor": "Conexões com o ecossistema global",
+            "query_en": "Tokyo business district modern technology office"
           },
           {
-            "anchor": "Proposta de imposto voltada especificamente para ganhos financeiros obtidos através de sistemas de IA.",
-            "query_en": "AI technology servers and data center"
-          },
-          {
-            "anchor": "Destinação dos recursos arrecadados para o financiamento de projetos voltados aos jovens.",
-            "query_en": "young students modern education classroom"
-          },
-          {
-            "anchor": "Confronto de ideias com lideranças partidárias como Friedrich Merz e Katherina Reiche.",
-            "query_en": "German politicians speaking at podium"
+            "anchor": "Iniciativas e perspectivas corporativas",
+            "query_en": "Artificial intelligence technology innovation Japan"
           }
         ]
       }
     },
     {
-      "id": "02a59aaa-4dee-40b3-9ec7-1deb5c1f04b9",
-      "title": "Final Fantasy 14: O Fenômeno do Cosplay e a Disciplina dos Fãs no Japão",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Final Fantasy 14 Fan Festival Japan cosplay",
-        "images": [
-          {
-            "anchor": "A Paixão pelo MMORPG em Terras Japonesas",
-            "query_en": "Final Fantasy 14 fan festival crowd Japan"
-          },
-          {
-            "anchor": "Elaboração e Disciplina na Grande Show",
-            "query_en": "Final Fantasy 14 cosplay event Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de0c7fee-3fa9-4836-9d3d-8daa7e3c1bcd",
-      "title": "Como Elon Musk usa doações recordes para influenciar as eleições de meio de mandato nos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk political donations US elections",
-        "images": [
-          {
-            "anchor": "O objetivo no Senado",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Financiamento de campanhas senatoriais republicanas",
-            "query_en": "US Senate election campaign"
-          }
-        ]
-      }
-    },
-    {
-      "id": "16d0b8c2-bfad-475d-a930-0884e72ef84a",
-      "title": "Meta desenvolve protótipo humanoide com tecnologia da Fourier Intelligence",
+      "id": "168d405d-f213-4fd3-9d78-230289be4e41",
+      "title": "Partido Comunista da China aposta em vigilância de big data para combater a corrupção",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Meta humanoid robot Fourier Intelligence",
+        "video_query_en": "Chinese Communist Party big data surveillance anti corruption",
         "images": [
           {
-            "anchor": "A busca por plataformas de hardware",
-            "query_en": "Meta artificial intelligence hardware development"
-          },
-          {
-            "anchor": "Parceria com a Fourier Intelligence",
-            "query_en": "Fourier Intelligence humanoid robot"
-          },
-          {
-            "anchor": "Perspectivas para a robótica e IA",
-            "query_en": "Humanoid robot laboratory technology"
+            "anchor": "O papel do big data na fiscalização política",
+            "query_en": "big data analytics surveillance screen technology"
           }
         ]
       }
     },
     {
-      "id": "c8a7d534-fa19-402c-845b-72a134dd68c9",
-      "title": "Binance retoma operações gradualmente após o maior roubo de criptomoedas da história",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Binance crypto hack 6.3 billion FBI North Korea",
-        "images": [
-          {
-            "anchor": "O envolvimento do FBI e a autoria do ataque",
-            "query_en": "FBI seal headquarters building"
-          },
-          {
-            "anchor": "Retomada gradual das atividades e segurança",
-            "query_en": "Binance logo mobile application cryptocurrency exchange"
-          }
-        ]
-      }
-    },
-    {
-      "id": "df301831-940c-49c5-8c5e-1aae267daae4",
-      "title": "General Atomics desenvolve drone voador em asa voadora com propulsão híbrida",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "General Atomics hybrid electric flying wing drone Nextgen",
-        "images": [
-          {
-            "anchor": "Detalhes do projeto Nextgen",
-            "query_en": "General Atomics flying wing drone concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "21e55368-e770-4a50-90a6-b036f6566f09",
-      "title": "Os próximos jogos e acessórios para Nintendo Switch 1 e 2 em novembro e dezembro de 2026",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Switch 2 games November December 2026 Ocarina of Time",
-        "images": [
-          {
-            "anchor": "O grande destaque de novembro",
-            "query_en": "The Legend of Zelda Ocarina of Time Nintendo Switch 2"
-          },
-          {
-            "anchor": "The Legend of Zelda: Ocarina of Time - November 5th (Switch 2)",
-            "query_en": "Link Ocarina of Time Nintendo Switch 2 box art"
-          },
-          {
-            "anchor": "Outros grandes lançamentos e ports",
-            "query_en": "Stellar Blade Metaphor ReFantazio Nintendo Switch"
-          },
-          {
-            "anchor": "Pikmin 4",
-            "query_en": "Pikmin 4 Nintendo Switch 2 Edition"
-          },
-          {
-            "anchor": "Stellar Blade",
-            "query_en": "Stellar Blade game graphics"
-          },
-          {
-            "anchor": "Metaphor: ReFantazio",
-            "query_en": "Metaphor ReFantazio gameplay"
-          },
-          {
-            "anchor": "Encerramento de ano com a Capcom",
-            "query_en": "Capcom logo video games"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f1e5d972-17aa-44dd-a3ae-3d63a443acd4",
-      "title": "Nintendo Treehouse apresenta gameplay de Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Treehouse Plays Pikmin 4 Nintendo Switch 2 Edition Dandori Academy",
-        "images": [
-          {
-            "anchor": "Horários globais da transmissão",
-            "query_en": "Nintendo Switch 2 console logo"
-          },
-          {
-            "anchor": "Demo gratuita e transferência de dados",
-            "query_en": "Pikmin 4 gameplay characters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e7754ee5-2dd8-471c-900b-f1d9d782d98a",
-      "title": "Suposto vídeo de dois minutos de um remake de Persona 1 vaza na internet",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Persona 1 remake leaked footage analysis",
-        "images": [
-          {
-            "anchor": "O suposto vazamento de Persona 1",
-            "query_en": "Atlus Persona 1 video game art"
-          },
-          {
-            "anchor": "Detalhes técnicos e semelhanças com Persona 4 Revival",
-            "query_en": "Persona 4 combat gameplay anime style"
-          },
-          {
-            "anchor": "A presença de Tatsuya e o contexto da Atlus",
-            "query_en": "Persona 2 Innocent Sin protagonist Tatsuya"
-          }
-        ]
-      }
-    },
-    {
-      "id": "28eacacc-4ef1-47ed-9921-ba13b06b695a",
-      "title": "Por que o primeiro Mass Effect é muito melhor do que sua reputação sugere",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mass Effect 1 retrospective analysis review",
-        "images": [
-          {
-            "anchor": "A Cidadela e a construção de um mundo vivo",
-            "query_en": "Mass Effect Citadel view futuristic space station"
-          },
-          {
-            "anchor": "Truques de design e a teoria do iceberg",
-            "query_en": "Mass Effect Presidium futuristic architecture"
-          },
-          {
-            "anchor": "Comandante Shepard chega à Cidadela para relatar a traição de Saren, membro dos Spectres.",
-            "query_en": "Mass Effect Commander Shepard dialogue wheel"
-          },
-          {
-            "anchor": "A Cidadela é uma meganave em forma de monolito de cinco braços no coração da galáxia.",
-            "query_en": "Mass Effect Citadel hub world interior"
-          },
-          {
-            "anchor": "Abriga o Conselho e cerca de 12 milhões de pessoas em diferentes distritos.",
-            "query_en": "Mass Effect Council chamber Citadel"
-          },
-          {
-            "anchor": "Os educados Elcor, que iniciam suas falas com um resumo do que vão dizer.",
-            "query_en": "Mass Effect Elcor alien species"
-          },
-          {
-            "anchor": "Os diminutos Volus, especializados em comércio e frustrados por não terem assento no Conselho.",
-            "query_en": "Mass Effect Volus character design"
-          },
-          {
-            "anchor": "Missões galácticas e as limitações do RPG",
-            "query_en": "Mass Effect 1 planetary exploration Mako"
-          },
-          {
-            "anchor": "O combate e a personalização estratégica",
-            "query_en": "Mass Effect 1 combat squad firefight"
-          },
-          {
-            "anchor": "Ashley Williams representa a única opção de soldado puro para quem prefere armas tradicionais.",
-            "query_en": "Mass Effect Ashley Williams character"
-          },
-          {
-            "anchor": "Garrus e Wrex combinam poderes bióticos com explosões tecnológicas acionadas pela ferramenta omni de Garrus.",
-            "query_en": "Mass Effect Garrus and Wrex squad"
-          },
-          {
-            "anchor": "O sistema de customização abrange anexos de armas e tipos de munição que mudam completamente a mecânica de jogo.",
-            "query_en": "Mass Effect inventory weapons gear customisation"
-          },
-          {
-            "anchor": "Um legado de construção de mundo",
-            "query_en": "Mass Effect Normandy spaceship interior"
-          }
-        ]
-      }
-    },
-    {
-      "id": "08a07f0c-efe5-40b4-a331-c047149aae02",
-      "title": "Série Mass Effect vale mais do que Dragon Age devido à sua construção de mundo, aponta veterano da BioWare",
+      "id": "ff72ab37-636b-471f-8bc7-5f1a52ef9f3a",
+      "title": "Manobras políticas na Indonésia atrapalham reformas de mercado em meio a riscos de rebaixamento",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Mark Darrah interview BioWare Mass Effect Dragon Age",
+        "video_query_en": "Indonesian stock market MSCI downgrade reforms",
         "images": [
           {
-            "anchor": "A visão de Mark Darrah sobre as franquias",
-            "query_en": "Mark Darrah BioWare veteran developer"
+            "anchor": "O alerta da MSCI e as reformas na Indonésia",
+            "query_en": "Jakarta financial district stock exchange building Indonesia"
           },
           {
-            "anchor": "O dilema para potenciais compradores",
-            "query_en": "Mass Effect game sci fi worldbuilding"
+            "anchor": "Preocupações persistentes dos investidores",
+            "query_en": "Indonesian stock market trading floor investors"
           },
           {
-            "anchor": "O peso da marca e o público fiel",
-            "query_en": "Dragon Age fantasy RPG game"
+            "anchor": "O cenário econômico e os desafios futuros",
+            "query_en": "Jakarta skyline economy business Indonesia"
           }
         ]
       }
     },
     {
-      "id": "5acf6733-2e76-4b0b-8c0e-782fcab19191",
-      "title": "GTA 6 permite terminar o relacionamento entre Jason e Lúcia, graças à evolução de Red Dead Redemption 2",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Jason and Lucia relationship Red Dead Redemption 2 Arthur Morgan",
-        "images": [
-          {
-            "anchor": "Liberdade total no romance",
-            "query_en": "GTA 6 Jason and Lucia artwork Rockstar Games"
-          },
-          {
-            "anchor": "A busca por interioridade nos personagens",
-            "query_en": "Grand Theft Auto 6 protagonist Jason and Lucia"
-          },
-          {
-            "anchor": "O legado de Arthur Morgan",
-            "query_en": "Red Dead Redemption 2 Arthur Morgan gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c6c8d3ab-3ca1-44ae-b868-e0e899ea0c56",
-      "title": "Diretor de Overwatch \"nunca descarta\" o retorno de conteúdo PvE, mas nova campanha exigiria um \"jogo totalmente novo\"",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Overwatch director Aaron Keller PvE campaign future interview",
-        "images": [
-          {
-            "anchor": "O potencial e os desafios do universo de Overwatch",
-            "query_en": "Overwatch 2 heroes promotional art"
-          },
-          {
-            "anchor": "O cancelamento e a mudança de rumo",
-            "query_en": "Overwatch 2 gameplay action shot"
-          },
-          {
-            "anchor": "Custos de desenvolvimento e o futuro do PvE",
-            "query_en": "Aaron Keller Overwatch game director"
-          },
-          {
-            "anchor": "Uma nova campanha exigiria um jogo inédito",
-            "query_en": "Blizzard Entertainment logo and studio"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9f520d74-430d-4c4b-a1f2-b49a3ea05d44",
-      "title": "Clássico Dune 2 continua preso em um pesadelo de licenciamento com cinco partes diferentes",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Dune 2 Westwood Studios gameplay history",
-        "images": [
-          {
-            "anchor": "O labirinto de direitos autorais de Dune 2",
-            "query_en": "Dune 2 The Building of a Dynasty gameplay screenshot"
-          },
-          {
-            "anchor": "As cinco partes envolvidas no impasse",
-            "query_en": "Westwood Studios logo vintage"
-          },
-          {
-            "anchor": "O impacto de Dune Awakening e a viabilidade comercial",
-            "query_en": "Dune Awakening video game gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "517c9345-e55c-4d01-aaff-8b41c8322eeb",
-      "title": "Europa e Canadá selam aliança de supercomputação em inteligência artificial sem dependência de Washington",
+      "id": "9b113bf8-b84e-4615-8039-e5aee53d4e40",
+      "title": "Hanwha Ocean Desenvolve Sistema Doméstico de Lançamento Horizontal para Submarinos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Europe Canada supercomputer AI alliance EuroHPC",
+        "video_query_en": "Hanwha Ocean submarine horizontal launch system",
         "images": [
           {
-            "anchor": "Uma nova parceria estratégica em supercomputação",
-            "query_en": "European supercomputer facility data center"
+            "anchor": "Um Marco na Tecnologia de Defesa",
+            "query_en": "Hanwha Ocean submarine technology"
           },
           {
-            "anchor": "Cooperação à margem dos Estados Unidos",
-            "query_en": "Ursula von der Leyen European Commission speech"
+            "anchor": "Uma Década de Pesquisa e Parceria",
+            "query_en": "Agency for Defense Development South Korea"
+          },
+          {
+            "anchor": "Importância do Equipamento",
+            "query_en": "submarines horizontal launch system"
           }
         ]
       }
     },
     {
-      "id": "fffa46a0-a0c3-46be-83bf-7f8f666ee3d6",
-      "title": "Sistema Solar pode ter um sexto planeta anão escondido na Via Láctea",
-      "category": "Ciência",
+      "id": "f5d22e90-5dd3-46e6-af25-1a48d97daeef",
+      "title": "Hanwha Defense USA Conquista Contrato de Navio de Desembarque da Marinha dos EUA",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Vera C Rubin Observatory dwarf planet discovery",
+        "video_query_en": "Hanwha Defense USA US Navy landing ship contract",
         "images": [
           {
-            "anchor": "Uma nova descoberta astronômica",
-            "query_en": "Vera C Rubin Observatory telescope"
+            "anchor": "Detalhes do Contrato e Valores",
+            "query_en": "Hanwha Defense USA US Navy medium landing ship contract"
           },
           {
-            "anchor": "Características do objeto",
-            "query_en": "dwarf planet solar system concept art"
+            "anchor": "Local de Construção",
+            "query_en": "Hanwha Philly Shipyard shipyard"
           }
         ]
       }
     },
     {
-      "id": "d56ea816-b474-4858-bb3d-04b07de76ea8",
-      "title": "Próximo chip da Intel para notebooks econômicos pode não ter núcleos de desempenho",
+      "id": "780c49d2-3efe-42a2-8816-eb69a51457fa",
+      "title": "HD Hyundai Robotics expande parceria de Inteligência Artificial Física com a Palantir",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HD Hyundai Robotics Palantir partnership physical AI",
+        "images": [
+          {
+            "anchor": "A parceria estratégica",
+            "query_en": "HD Hyundai Robotics industrial automation"
+          },
+          {
+            "anchor": "Apresentação no Sovereignty Bootcamp",
+            "query_en": "Palantir Technologies software event New York"
+          },
+          {
+            "anchor": "Foco em dados corporativos",
+            "query_en": "corporate data security AI technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f1ee32dd-2276-4239-b71b-6610a17f38b6",
+      "title": "Hyosung Heavy Industries e Siemens fecham parceria estratégica em redes de energia digital e IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hyosung Heavy Industries Siemens partnership digital power grid",
+        "images": [
+          {
+            "anchor": "Acordo Estratégico Global",
+            "query_en": "Grand InterContinental Seoul Parnas building"
+          },
+          {
+            "anchor": "Foco em Redes Digitais e IA",
+            "query_en": "digital power grid smart grid technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d0c3c2f2-e6b1-4017-8b67-9a7ec9c75c88",
+      "title": "Análise aponta que divisão de memória da Samsung impulsiona crise de capacidade na fundição até 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung semiconductor foundry 2027 capacity demand memory",
+        "images": [
+          {
+            "anchor": "A guinada na divisão de semicondutores da Samsung",
+            "query_en": "Samsung Electronics semiconductor manufacturing cleanroom"
+          },
+          {
+            "anchor": "Demanda acima de 100% de utilização",
+            "query_en": "Samsung wafer fabrication semiconductor foundry cleanroom"
+          },
+          {
+            "anchor": "Desafios operacionais e gargalos de produção",
+            "query_en": "advanced semiconductor manufacturing foundry equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0de68bc7-c98c-4b9a-832e-6f7042c11a53",
+      "title": "Seoul Viosys inicia produção em massa de micro LEDs brancos sem terras raras",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Intel budget laptop processor N-series Moon Lake",
+        "video_query_en": "Seoul Viosys micro LED white chips production",
         "images": [
           {
-            "anchor": "A estratégia por trás dos núcleos de eficiência",
-            "query_en": "Intel laptop processor chip architecture"
+            "anchor": "O anúncio da produção em massa",
+            "query_en": "Seoul Viosys micro LED chips manufacturing facility"
           },
           {
-            "anchor": "O cenário atual do mercado de entrada",
-            "query_en": "budget laptop computer working"
-          },
-          {
-            "anchor": "Aplicação em notebooks econômicos e voltados para o uso básico do dia a dia.",
-            "query_en": "affordable budget laptop keyboard"
-          },
-          {
-            "anchor": "Ausência de núcleos de desempenho na atual série N.",
-            "query_en": "Intel CPU processor close up"
-          },
-          {
-            "anchor": "Transição da filosofia para a arquitetura tile-based design da empresa.",
-            "query_en": "computer hardware silicon chip"
+            "anchor": "Impacto no mercado e aplicações",
+            "query_en": "white light micro LED display technology"
           }
         ]
       }
     },
     {
-      "id": "9a900e2e-3f4e-4d6d-8f21-90adab714f26",
-      "title": "\"Alunos fantasmas\" desviam milhões em auxílio federal com o uso de inteligência artificial",
-      "category": "Segurança",
+      "id": "bf221d2f-8b97-48f5-8951-c079a0a23656",
+      "title": "Nytex planeja atingir 35% de receita com materiais de alto padrão até 2027",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Operation Ghostbusters student aid fraud Department of Justice",
+        "video_query_en": "Nytex Composites high end materials semiconductor wafer carriers AI data centers",
         "images": [
           {
-            "anchor": "A descoberta dos estudantes fantasmas",
-            "query_en": "US Department of Justice building seal"
+            "anchor": "O motor do crescimento: IA e semicondutores",
+            "query_en": "semiconductor wafer carriers IC trays AI data center components"
           },
           {
-            "anchor": "Operação Ghostbusters e apreensões",
-            "query_en": "cryptocurrency coins and blockchain concept"
-          },
-          {
-            "anchor": "Identificação de padrões incomuns nos dados de auxílio federal",
-            "query_en": "data analytics graph on computer screen"
-          },
-          {
-            "anchor": "Acusações formais contra cinco pessoas envolvidas no esquema",
-            "query_en": "federal courtroom gavel and scales of justice"
-          },
-          {
-            "anchor": "Apreensão de mais de 750 mil dólares em criptomoedas",
-            "query_en": "digital wallet cryptocurrency security"
-          },
-          {
-            "anchor": "Conexão da rede de fraudes com cidadãos quenianos",
-            "query_en": "Nairobi city skyline Kenya"
+            "anchor": "Liderança e perspectiva de mercado",
+            "query_en": "Nytex Composites chairman Jason Chen general manager Henry Chen"
           }
         ]
       }
     },
     {
-      "id": "8c8a988a-649c-4ac4-832e-04cdab6ef890",
-      "title": "Estudante cria drone a jato que pode ter quebrado recorde mundial e mira prêmio milionário",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "college student jet powered drone record 790 kmh",
-        "images": [
-          {
-            "anchor": "A repercussão nas redes sociais e a gênese do projeto",
-            "query_en": "custom RC jet drone in flight outdoor"
-          },
-          {
-            "anchor": "Custos com motores e despesas de testes: 40.000 dólares.",
-            "query_en": "miniature jet engine for rc airplane model"
-          },
-          {
-            "anchor": "Gastos com combustível e sistemas de abastecimento: 6.000 dólares.",
-            "query_en": "rc model jet fuel system components"
-          },
-          {
-            "anchor": "Despesas de contingência para reparos e substituição de peças danificadas: 20.000 dólares.",
-            "query_en": "aerospace carbon fiber drone parts workshop"
-          },
-          {
-            "anchor": "Financiamento coletivo e recompensas para apoiadores",
-            "query_en": "young aerospace engineering student working on drone"
-          },
-          {
-            "anchor": "O desafio da barreira do som e o Prêmio Boom",
-            "query_en": "supersonic jet aircraft test flight contrail"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ef44d812-2090-4c05-80f5-2475dc422f71",
-      "title": "Anthropic expande marca d'água em textos para versões anteriores do Claude",
+      "id": "79b8c293-e059-4a97-8a49-a71aed3d5fea",
+      "title": "Robôs humanoides e robotaxis ganham destaque na feira FIX 2026 na Coreia do Sul",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic Claude AI watermarking text",
+        "video_query_en": "FIX 2026 Daegu humanoid robots robotaxis South Korea",
         "images": [
           {
-            "anchor": "Modelos contemplados na expansão",
-            "query_en": "Anthropic Claude AI logo or interface"
+            "anchor": "Inovações em robótica e automação em Daegu",
+            "query_en": "FIX 2026 exhibition Daegu South Korea"
           },
           {
-            "anchor": "- Claude Mythos 5",
-            "query_en": "artificial intelligence text generation concept"
+            "anchor": "A presença da AeiROBOT e o modelo ALICE-M1",
+            "query_en": "AeiROBOT ALICE-M1 robot FIX 2026"
+          },
+          {
+            "anchor": "A evolução dos transportes e da indústria",
+            "query_en": "autonomous robotaxi South Korea transportation"
           }
         ]
       }
     },
     {
-      "id": "fbb32770-d527-4673-aa0f-3c44662a1ac1",
-      "title": "One Of Hulu’s Best Miniseries Takes Less Than 7 Hours To Binge",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "id": "16d6e049-2270-4b35-b960-068b24e833d4",
+      "title": "Avanço da Nvidia na Coreia do Sul ganha força com operações da LG e novas iniciativas da Hyundai",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia robotics partnerships South Korea LG Hyundai",
+        "images": [
+          {
+            "anchor": "O avanço da robótica da Nvidia na Coreia do Sul",
+            "query_en": "Nvidia robotics technology artificial intelligence"
+          },
+          {
+            "anchor": "Operações na LG Electronics e LG Innotek",
+            "query_en": "LG Electronics robot factory data facility"
+          },
+          {
+            "anchor": "Os passos do Grupo Hyundai Motor",
+            "query_en": "Hyundai Motor autonomous driving artificial intelligence"
+          }
+        ]
+      }
     },
     {
-      "id": "4576354c-f75f-4e00-9dad-bd5e4f30f074",
-      "title": "Netflix Canceling The Witcher’s 2026 Return Makes Streaming History",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Streaming"
+      "id": "caf0b7fe-1789-4160-823e-023bf1952eb8",
+      "title": "O crescimento financeiro da GigaDevice em 2026 impulsionado por listagem A+H e alta em memórias",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GigaDevice financial growth memory market 2026",
+        "images": [
+          {
+            "anchor": "Fatores impulsionadores do crescimento",
+            "query_en": "semiconductor memory chips manufacturing facility"
+          },
+          {
+            "anchor": "Perspectivas e contexto de mercado",
+            "query_en": "financial data stock market analysis technology"
+          }
+        ]
+      }
     },
     {
-      "id": "fdeb9921-3559-4443-b082-2162b2f0f621",
-      "title": "Alden Ehrenreich admite que foi totalmente sem preparo para teste de O Espetacular Homem-Aranha",
+      "id": "aaf6b293-6751-4d7a-8aa2-1f2775d3db7f",
+      "title": "Lite-On registra lucro recorde no terceiro trimestre com receita de inteligência artificial superando 30%",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lite-On Technology AI infrastructure third quarter financial results 2026",
+        "images": [
+          {
+            "anchor": "Resultados financeiros do período",
+            "query_en": "Lite-On Technology corporate building Taipei"
+          },
+          {
+            "anchor": "Receita consolidada de NT$57,4 bilhões (US$1,8 bilhão)",
+            "query_en": "AI server power supply components manufacturing factory"
+          },
+          {
+            "anchor": "O impacto da inteligência artificial",
+            "query_en": "AI cloud data center server infrastructure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce6f58df-adbf-4f44-83c8-2d55ad51f511",
+      "title": "NearLink busca fornecedores de chips para ir além do ecossistema Huawei",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NearLink wireless technology Huawei connectivity",
+        "images": [
+          {
+            "anchor": "O papel dos fornecedores de chips",
+            "query_en": "semiconductor microchip manufacturing electronics"
+          },
+          {
+            "anchor": "MediaTek",
+            "query_en": "MediaTek processor semiconductor chip"
+          },
+          {
+            "anchor": "STMicroelectronics",
+            "query_en": "STMicroelectronics office building logo"
+          },
+          {
+            "anchor": "NXP",
+            "query_en": "NXP Semiconductors logo technology"
+          },
+          {
+            "anchor": "Desafios de adoção e expansão global",
+            "query_en": "wireless technology communication network"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5ff85f58-07e6-426e-8da6-a90137b12f7c",
+      "title": "Avanço dos semicondutores na Índia ganha força com novos subsídios e investimentos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "India semiconductor industry manufacturing expansion",
+        "images": [
+          {
+            "anchor": "O cenário atual do mercado",
+            "query_en": "semiconductor factory manufacturing cleanroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6dbe8fac-6270-4c24-b333-1bf7a108fbdc",
+      "title": "Boom de memórias da Samsung remodela estratégia de investimentos e marca recorde financeiro",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung electronics memory boom financial results operating profit",
+        "images": [
+          {
+            "anchor": "Resultados financeiros históricos",
+            "query_en": "Samsung electronics office building Seoul"
+          },
+          {
+            "anchor": "A primeira no clube dos 100 trilhões",
+            "query_en": "Samsung semiconductor memory chips manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8ac23d94-9520-4225-89e3-457d7465e267",
+      "title": "Microsoft anuncia plano de早期退職 para até 60 mil funcionários em meio a investimentos massivos em IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft massive layoffs AI investment financial results",
+        "images": [
+          {
+            "anchor": "O anúncio de 早期退職 na Microsoft",
+            "query_en": "Microsoft headquarters building Redmond Washington"
+          },
+          {
+            "anchor": "Impacto em todas as divisões, incluindo a IA",
+            "query_en": "Artificial intelligence server racks datacenter"
+          },
+          {
+            "anchor": "Análise financeira dos dados recentes",
+            "query_en": "Financial charts and stock market data analysis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc483e9c-5daf-4266-ac87-c3297921f8c9",
+      "title": "A jornada do Mercari para alcançar 100% de uso de IA com a liderança de seu CAIO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mercari AI implementation strategy CAIO interview",
+        "images": [
+          {
+            "anchor": "Os desafios da transição para a inteligência artificial",
+            "query_en": "artificial intelligence corporate transition challenges"
+          },
+          {
+            "anchor": "A estratégia do CAIO e os bastidores da decisão",
+            "query_en": "corporate chief AI officer business strategy meeting"
+          },
+          {
+            "anchor": "O impacto operacional da IA no Mercari",
+            "query_en": "modern tech office corporate digital transformation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b77256b5-950e-47a2-927c-8aa53ec65dad",
+      "title": "Ainda mais altos e quentes: como a JFE Steel pretende mapear o interior de alto-fornos com tecnologia digital",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "JFE Steel blast furnace digital technology manufacturing",
+        "images": [
+          {
+            "anchor": "O grande desafio da siderurgia: enxergar o inatingível",
+            "query_en": "industrial steel blast furnace plant structure"
+          },
+          {
+            "anchor": "A busca por eficiência e digitalização industrial",
+            "query_en": "smart factory digital manufacturing control room"
+          },
+          {
+            "anchor": "Perspectivas tecnológicas e o futuro da fabricação do aço",
+            "query_en": "heavy industry automation and digital monitoring"
+          }
+        ]
+      }
+    },
+    {
+      "id": "358bdb8b-f67d-4aaf-87ca-c843911e56af",
+      "title": "Anthropic renomeia plano Max 20x do Claude para Ultra e remove limite de uso a cada 5 horas",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anthropic Claude AI subscription plans Ultra Max",
+        "images": [
+          {
+            "anchor": "Mudanças na nomenclatura dos planos",
+            "query_en": "Anthropic Claude AI logo application interface"
+          },
+          {
+            "anchor": "Fim do limite a cada cinco horas",
+            "query_en": "Advanced artificial intelligence software dashboard"
+          },
+          {
+            "anchor": "Manutenção das regras semanais",
+            "query_en": "Server capacity management data center technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5236291-3047-48e5-a90c-9386d244535e",
+      "title": "Logitech G512 X 75: Teclado com dupla tecnologia e switches magnéticos personalizáveis",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Logitech G512 X 75 magnetic switch review",
+        "images": [
+          {
+            "anchor": "A proposta do G512 X 75 e os primeiros passos na personalização",
+            "query_en": "Logitech G512 X 75 keyboard back cover magnetic switches"
+          },
+          {
+            "anchor": "Experiência em jogos e limites dos slots magnéticos",
+            "query_en": "Logitech G512 X 75 keycaps switches layout"
+          },
+          {
+            "anchor": "Recursos avançados, construção e usabilidade",
+            "query_en": "Logitech G512 X 75 volume dials and media controls"
+          },
+          {
+            "anchor": "Principais especificações técnicas",
+            "query_en": "Logitech G512 X 75 mechanical and magnetic switches"
+          },
+          {
+            "anchor": "Conclusão e público-alvo",
+            "query_en": "Logitech G512 X 75 desk setup black and white"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0572fd39-60f4-4842-9555-035f3838e079",
+      "title": "GTA 6 busca canalizar o espírito de Skyrim com foco em exploração detalhada e interiores densos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 map size interiors Rockstar Games Edge interview",
+        "images": [
+          {
+            "anchor": "A grandiosidade do mapa e o toque humano",
+            "query_en": "Rockstar Games office logo building"
+          },
+          {
+            "anchor": "Uma ambição com ecos clássicos da indústria",
+            "query_en": "The Elder Scrolls V Skyrim landscape mountain"
+          },
+          {
+            "anchor": "Histórias orgânicas e detalhes inusitados",
+            "query_en": "Grand Theft Auto 6 concept art city street"
+          }
+        ]
+      }
+    },
+    {
+      "id": "573ddaf8-0b4f-42c0-a508-d31484722b97",
+      "title": "Os 11 melhores fantasias de Halloween de celebridades em 2026",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Alden Ehrenreich Spider Man audition Happy Sad Confused",
+        "video_query_en": "celebrity halloween costumes 2026",
         "images": [
           {
-            "anchor": "Os bastidores de uma audição sem compromisso",
-            "query_en": "Alden Ehrenreich young actor portrait"
+            "anchor": "As 11 produções que se destacaram no Halloween",
+            "query_en": "Heidi Klum severed hand Halloween costume 2026"
           },
           {
-            "anchor": "Reflexões sobre o resultado e a escolha de Andrew Garfield",
-            "query_en": "Andrew Garfield The Amazing Spider Man"
+            "anchor": "Heidi Klum como uma mão decepizada gigante",
+            "query_en": "Heidi Klum giant hand costume"
           },
           {
-            "anchor": "A carreira pós-quase Homem-Aranha",
-            "query_en": "Alden Ehrenreich Han Solo Solo A Star Wars Story"
+            "anchor": "Lily Allen como um mapa de assentos da Ticketmaster",
+            "query_en": "Lily Allen Ticketmaster seating chart costume"
           },
           {
-            "anchor": "Blue Jasmine",
-            "query_en": "Blue Jasmine movie scene"
+            "anchor": "Zendaya como Halle Berry",
+            "query_en": "Zendaya Halle Berry X-Men costume"
           },
           {
-            "anchor": "Ave, César!",
-            "query_en": "Hail Caesar movie Alden Ehrenreich"
+            "anchor": "Alex Consani como um Thumb-Thumb de Pequenos Espiões",
+            "query_en": "Alex Consani Spy Kids Thumb-Thumb costume"
           },
           {
-            "anchor": "Solo: Uma História Star Wars",
-            "query_en": "Solo A Star Wars Story Alden Ehrenreich"
+            "anchor": "Mary Beth Barone e Benito Skinner como Dakota Johnson e Ellen DeGeneres",
+            "query_en": "Dakota Johnson Ellen DeGeneres costume"
           },
           {
-            "anchor": "O Urso do Pó Branco",
-            "query_en": "Cocaine Bear movie"
+            "anchor": "Lisa Rinna como Kylie Jenner",
+            "query_en": "Lisa Rinna Kylie Jenner costume"
           },
           {
-            "anchor": "Oppenheimer",
-            "query_en": "Oppenheimer movie cast Christopher Nolan"
+            "anchor": "Keke Palmer e Leodis como Janet e Michael Jackson",
+            "query_en": "Keke Palmer Michael Janet Jackson Scream costume"
           },
           {
-            "anchor": "Weapons",
-            "query_en": "Weapons horror movie Zach Cregger"
+            "anchor": "Lizzo como Seiko Ayase de Dan Da Dan",
+            "query_en": "Lizzo Dan Da Dan Seiko Ayase costume"
+          },
+          {
+            "anchor": "Paris Hilton como Britney Spears",
+            "query_en": "Paris Hilton Britney Spears 2001 VMA costume"
+          },
+          {
+            "anchor": "Kim Kardashian como North West",
+            "query_en": "Kim Kardashian North West Halloween costume"
+          },
+          {
+            "anchor": "Alix Earle como uma escultura de Sorayama",
+            "query_en": "Alix Earle Sorayama sculpture costume"
           }
         ]
       }
     },
     {
-      "id": "7816a724-2614-4861-ab89-662e7797546e",
-      "title": "Elizabeth Banks Aprova o Novo Filme de Jogos Vorazes e Elogia Elenco de Sunrise on the Reaping",
+      "id": "58d65069-68f2-449e-8c88-e4e77f694f34",
+      "title": "David S. Pumpkins retorna ao SNL em esquete de Halloween com participações de Trump e Nicki Minaj",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The Hunger Games Sunrise on the Reaping trailer",
+        "video_query_en": "Saturday Night Live David S Pumpkins Trump Halloween",
         "images": [
           {
-            "anchor": "O Retorno de Jogos Vorazes com Sunrise on the Reaping",
-            "query_en": "The Hunger Games Sunrise on the Reaping movie logo"
+            "anchor": "O retorno de David S. Pumpkins e a interrupção de Trump",
+            "query_en": "Tom Hanks David S Pumpkins SNL Halloween"
           },
           {
-            "anchor": "Um Elenco Estelar e Grandes Substituições",
-            "query_en": "The Hunger Games Sunrise on the Reaping cast"
+            "anchor": "Piadas políticas e referências corporais",
+            "query_en": "James Austin Johnson Donald Trump SNL"
           },
           {
-            "anchor": "Elle Fanning interpretando Effie Trinket",
-            "query_en": "Elle Fanning Effie Trinket"
-          },
-          {
-            "anchor": "Maya Hawke interpretando Wiress",
-            "query_en": "Maya Hawke Wiress"
-          },
-          {
-            "anchor": "Jesse Plemons interpretando Plutarch Heavensbee",
-            "query_en": "Jesse Plemons actor"
-          },
-          {
-            "anchor": "Joseph Zada interpretando o protagonista Haymitch Abernathy",
-            "query_en": "Joseph Zada actor"
-          },
-          {
-            "anchor": "Mckenna Grace interpretando a nova co-protagonista Maysilee Donner",
-            "query_en": "Mckenna Grace actress"
-          },
-          {
-            "anchor": "A Reação de Elizabeth Banks ao Filme",
-            "query_en": "Elizabeth Banks Effie Trinket Hunger Games"
-          },
-          {
-            "anchor": "A Pressão sobre os Novos Atores",
-            "query_en": "Haymitch Abernathy Hunger Games Sunrise on the Reaping"
-          },
-          {
-            "anchor": "Ficha Técnica e Detalhes da Produção",
-            "query_en": "Francis Lawrence director Hunger Games"
+            "anchor": "Participações especiais e o encerramento clássico",
+            "query_en": "Nicki Minaj SNL impersonation"
           }
         ]
       }
     },
     {
-      "id": "aeb16b99-14e5-46a6-a5a3-fb2fc062b510",
-      "title": "7 Cult Sci-Fi Classics That Deserve A Revival",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "id": "a60f82fa-c36d-4762-af12-b6fc3a320d51",
+      "title": "Inde Navarrette ironiza comentário de Shane Gillis sobre academia em seu monólogo no SNL",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Inde Navarrette SNL monologue Shane Gillis gym joke",
+        "images": [
+          {
+            "anchor": "A referência ao incidente com Shane Gillis",
+            "query_en": "Inde Navarrette SNL monologue"
+          },
+          {
+            "anchor": "Outros destaques do monólogo e do programa",
+            "query_en": "Saturday Night Live cast Halloween costumes"
+          }
+        ]
+      }
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
