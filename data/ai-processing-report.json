@@ -1,660 +1,740 @@
 {
-  "updated_at": "2026-11-05T06:58:41.729Z",
+  "updated_at": "2026-11-05T16:00:32.972Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "a8e5463b-6c1f-4296-a9f4-5b51ac190223",
-      "title": "Escândalo da Nidec expõe limites das reformas corporativas no Japão, aponta Muddy Waters",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nidec accounting scandal corporate governance Japan Muddy Waters",
-        "images": [
-          {
-            "anchor": "Dez anos depois e velhos problemas",
-            "query_en": "Tokyo Stock Exchange building exterior"
-          },
-          {
-            "anchor": "Falta de transparência e o papel dos ativistas",
-            "query_en": "Carson Block Muddy Waters interview"
-          },
-          {
-            "anchor": "O risco de exclusão na bolsa japonesa",
-            "query_en": "Nidec factory electric motor manufacturing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cf2e45f5-32fc-4d8b-a6b7-02553bf955d6",
-      "title": "Tóquio se prepara para os reflexos das eleições de meio de mandato nos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tokyo US midterms fallout Japan Times analysis",
-        "images": [
-          {
-            "anchor": "O cenário político americano pós-eleições",
-            "query_en": "US Capitol building Washington DC politics"
-          },
-          {
-            "anchor": "O impacto na relação bilateral e global",
-            "query_en": "Tokyo Japan cityscape skyline"
-          },
-          {
-            "anchor": "Áreas de atenção para o governo japonês",
-            "query_en": "Japanese Prime Minister office Tokyo politics"
-          },
-          {
-            "anchor": "Mudanças na tomada de decisões da Casa Branca após o revés eleitoral.",
-            "query_en": "White House Washington DC exterior"
-          },
-          {
-            "anchor": "Expansão do uso de autoridades executivas pela administração Trump.",
-            "query_en": "US President Donald Trump speaking at podium"
-          },
-          {
-            "anchor": "Estratégias para evitar a estagnação política nos dois anos finais de mandato.",
-            "query_en": "US Congress interior chambers"
-          },
-          {
-            "anchor": "Gestão de pautas pendentes através de ações intensificadas do Executivo.",
-            "query_en": "Washington DC political meeting room"
-          },
-          {
-            "anchor": "Reflexos globais das decisões de política externa em meio à perda de controle do Congresso.",
-            "query_en": "US and Japan flags together diplomacy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9ff9d848-7d77-4ce0-9a5e-e1237191bde9",
-      "title": "Fuzileiro naval dos Estados Unidos morre durante treinamento em Okinawa",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US Marine training Okinawa Japan",
-        "images": [
-          {
-            "anchor": "O Incidente em Okinawa",
-            "query_en": "US Marines training Okinawa"
-          },
-          {
-            "anchor": "Investigação em Andamento",
-            "query_en": "US military base Okinawa Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0c7fb6ce-fb53-4375-9662-8763b5228aa5",
-      "title": "A vitória da meta de inflação de 2% do Banco do Japão não impressiona o mercado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bank of Japan inflation target economy",
-        "images": [
-          {
-            "anchor": "Repercussão no mercado financeiro",
-            "query_en": "Bank of Japan building Tokyo"
-          },
-          {
-            "anchor": "Declarações de especialistas",
-            "query_en": "Japanese financial analyst economy"
-          },
-          {
-            "anchor": "Yuichi Kodama, economista-chefe do Meiji Yasuda Research Institute, destacou que o marco atingido não funcionará por si só como um vento favorável para a economia japonesa.",
-            "query_en": "Japanese economy chart trends"
-          },
-          {
-            "anchor": "A atenção dos mercados e dos formuladores de políticas públicas se deslocou para a estabilidade da inflação e o crescimento dos rendimentos dos trabalhadores.",
-            "query_en": "Tokyo stock market traders"
-          }
-        ]
-      }
-    },
-    {
-      "id": "25e3307a-7789-44f5-a0e2-f88403d982f7",
-      "title": "Fenerbahce derruba a invencibilidade do Liverpool na Liga dos Campeões",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Fenerbahce vs Liverpool Champions League match highlights",
-        "images": [
-          {
-            "anchor": "A derrota do Liverpool em Istambul",
-            "query_en": "Liverpool FC players on the pitch in Istanbul"
-          },
-          {
-            "anchor": "Goleada histórica do Como e outros resultados",
-            "query_en": "Como soccer team celebrating a match"
-          },
-          {
-            "anchor": "Real Madrid",
-            "query_en": "Real Madrid players celebrating a goal in Champions League"
-          },
-          {
-            "anchor": "Arsenal",
-            "query_en": "Arsenal FC team in action"
-          },
-          {
-            "anchor": "Manchester City",
-            "query_en": "Manchester City players during a match"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a0ecc81c-0dec-4b6f-9611-bdb7520a4bc5",
-      "title": "Albert Pujols vai participar de entrevista para o cargo de técnico do Houston Astros",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Albert Pujols Houston Astros managerial interview",
-        "images": [
-          {
-            "anchor": "A carreira de Pujols e sua transição para o comando",
-            "query_en": "Albert Pujols baseball player career"
-          },
-          {
-            "anchor": "Experiência anterior em processos seletivos",
-            "query_en": "Albert Pujols Los Angeles Angels"
-          },
-          {
-            "anchor": "Los Angeles Angels: equipe onde Pujols atuou durante parte de sua carreira marcante na liga.",
-            "query_en": "Los Angeles Angels stadium"
-          },
-          {
-            "anchor": "San Diego Padres: franquia que também avaliou o perfil do ex-atleta para liderar seu elenco.",
-            "query_en": "San Diego Padres team"
-          },
-          {
-            "anchor": "O contexto da vaga no Houston Astros",
-            "query_en": "Houston Astros manager"
-          }
-        ]
-      }
-    },
-    {
-      "id": "222dfe8a-366a-4b14-929b-eb70caf33d87",
-      "title": "Mercado agitado em Dhaka revela virada para a energia solar impulsionada por conflito no Oriente Médio",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bangladesh solar energy crisis Kaptan Bazar Dhaka",
-        "images": [
-          {
-            "anchor": "A transição energética no coração de Dhaka",
-            "query_en": "Dhaka market solar panels Bangladesh"
-          },
-          {
-            "anchor": "O impacto da crise do Oriente Médio",
-            "query_en": "solar panels and batteries store Dhaka"
-          },
-          {
-            "anchor": "Demanda industrial em alta",
-            "query_en": "industrial solar energy Bangladesh factory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1664bfe0-5f89-43d4-b219-f29e3d1d899d",
-      "title": "Joshua Wong é condenado a dez anos de prisão em Hong Kong por caso de conluio",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Joshua Wong Hong Kong sentencing national security law",
-        "images": [
-          {
-            "anchor": "Contexto da condenação e o movimento democrático",
-            "query_en": "Joshua Wong Hong Kong activist"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9fa533d6-a0ef-4898-98ba-fb28c4fe682e",
-      "title": "Polícia do Japão vai compartilhar dados de contas de golpes com instituições financeiras",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan police scam account financial institutions data sharing",
-        "images": [
-          {
-            "anchor": "O novo plano de cooperação contra fraudes",
-            "query_en": "Japanese police officers station Tokyo"
-          },
-          {
-            "anchor": "Estatísticas alarmantes de perdas financeiras",
-            "query_en": "Japanese yen currency bank notes"
-          }
-        ]
-      }
-    },
-    {
-      "id": "42caa83b-699e-4922-a56c-475d85f268ba",
-      "title": "Corte máxima da ONU anunciará decisão histórica sobre genocídio de rohingyas em Mianmar",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "International Court of Justice Myanmar Rohingya genocide ruling",
-        "images": [
-          {
-            "anchor": "O julgamento histórico no Tribunal Internacional de Justiça",
-            "query_en": "International Court of Justice building The Hague"
-          },
-          {
-            "anchor": "Acusações formais movidas pela Gâmbia perante o tribunal",
-            "query_en": "UN flag and international courtroom"
-          },
-          {
-            "anchor": "Impacto político e ausência de força executória",
-            "query_en": "Min Aung Hlaing portrait leader of Myanmar"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de1d97dc-c2fb-4876-b79e-f3a9aa87b9fa",
-      "title": "Malaysia's main opposition calls for greater power for states",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Politica"
-    },
-    {
-      "id": "6834b4ee-25c2-4b42-b071-9754d0336eb6",
-      "title": "Operações cibernéticas da Coreia do Norte geram bilhões em criptomoedas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "North Korea crypto hack Binance FBI investigation",
-        "images": [
-          {
-            "anchor": "O planejamento detalhado dos ataques",
-            "query_en": "cybersecurity hacker computer code screens dark room"
-          },
-          {
-            "anchor": "O envolvimento de agências internacionais",
-            "query_en": "FBI seal headquarters building Washington DC"
-          },
-          {
-            "anchor": "Resposta e impacto no mercado",
-            "query_en": "Binance cryptocurrency exchange app on smartphone screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a4cb2484-ae44-446a-baa7-c44cd4330886",
-      "title": "Capital da Índia dobra tarifas de estacionamento e pede trabalho remoto para conter poluição",
+      "id": "74d4f8a7-8175-4985-a047-31497fcfafb6",
+      "title": "Previsão indica chegada tardia das cores de outono no Japão",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "New Delhi pollution winter smog parking fees remote work",
+        "video_query_en": "Japan autumn foliage season 2026",
         "images": [
           {
-            "anchor": "O plano de ação de inverno e medidas restritivas",
-            "query_en": "New Delhi smog traffic pollution winter"
+            "anchor": "O impacto das temperaturas no outono japonês",
+            "query_en": "Japanese autumn maple leaves landscape"
           },
           {
-            "anchor": "Incentivo ao trabalho remoto e desafios futuros",
-            "query_en": "New Delhi traffic congestion aerial view"
+            "anchor": "Abrangência da previsão da JMC",
+            "query_en": "Mount Fuji autumn foliage"
+          },
+          {
+            "anchor": "Árvores de bordo japonês (Japanese maple)",
+            "query_en": "Japanese maple tree red leaves"
+          },
+          {
+            "anchor": "Árvores de ginkgo",
+            "query_en": "Ginkgo tree yellow leaves Japan"
+          },
+          {
+            "anchor": "Perspectivas para o restante do ano",
+            "query_en": "Autumn weather in Japan"
           }
         ]
       }
     },
     {
-      "id": "d672a0e2-d0b1-4a30-8a9e-01418de1ae5e",
-      "title": "Restrições da China ao tungstênio afetam cadeia de suprimentos de inteligência artificial",
+      "id": "94b4eb44-d02b-496a-968f-56b6074e1291",
+      "title": "Habilidades em IA tornam-se decisivas para jovens no mercado de trabalho britânico",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "tungsten export controls chip supply chain ai",
+        "video_query_en": "impact of AI skills on UK youth job market",
         "images": [
           {
-            "anchor": "O papel crucial das microbrocas de tungstênio",
-            "query_en": "tungsten carbide micro drill bits printed circuit board"
+            "anchor": "A nova exigência do mercado de trabalho",
+            "query_en": "young professional using AI tools in office"
           },
           {
-            "anchor": "Brocas de carboneto de tungstênio perforam micro-orifícios em PCBs",
-            "query_en": "printed circuit board manufacturing micro drilling"
+            "anchor": "O crescimento das vagas com IA",
+            "query_en": "job search website interface on computer screen"
           },
           {
-            "anchor": "Substratos de chips avançados dependem diretamente dessas ferramentas de alta precisão",
-            "query_en": "advanced chip substrate electronic components"
+            "anchor": "Representantes de vendas",
+            "query_en": "sales representative working with digital dashboard"
           },
           {
-            "anchor": "A demanda por placas de circuito impresso disparou devido ao atual boom da inteligência artificial",
-            "query_en": "ai server motherboard printed circuit board"
+            "anchor": "Engenheiros de software",
+            "query_en": "software engineer coding with AI assistance"
           },
           {
-            "anchor": "Impactos financeiros e estratégias alternativas",
-            "query_en": "tungsten metal raw material industrial factory"
+            "anchor": "Assistentes administrativos",
+            "query_en": "administrative assistant using modern office technology"
+          },
+          {
+            "anchor": "Impacto setorial e riscos futuros",
+            "query_en": "business professionals in a modern office environment"
           }
         ]
       }
     },
     {
-      "id": "60fd5ccf-761b-4066-8e87-7d0a62293935",
-      "title": "Empresas francesas Tikehau e Natixis voltam os olhos para o mercado asiático diante de riscos no boom de data centers nos EUA",
+      "id": "7536eea0-98c1-459d-a74c-bb0a23a97efe",
+      "title": "Eleições na Nova Zelândia: Líderes fazem apelos finais em disputa acirrada",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tikehau Capital Natixis Asia investment data center",
+        "video_query_en": "New Zealand general election 2026 campaign update",
         "images": [
           {
-            "anchor": "## A expansão francesa rumo ao mercado asiático",
-            "query_en": "Tokyo financial district skyscrapers Japan"
+            "anchor": "O cenário político a poucos dias da votação",
+            "query_en": "New Zealand parliament building Wellington"
           },
           {
-            "anchor": "## O cenário de riscos nos Estados Unidos",
-            "query_en": "US data center construction server racks"
-          },
-          {
-            "anchor": "## Metas e estratégias de investimento",
-            "query_en": "Mathieu Chabran Tikehau Capital executive"
-          },
-          {
-            "anchor": "## Oportunidades na transição energética e inteligência artificial",
-            "query_en": "Artificial intelligence renewable energy smart grid Asia"
+            "anchor": "O apelo do Primeiro-Ministro Christopher Luxon",
+            "query_en": "Christopher Luxon New Zealand Prime Minister"
           }
         ]
       }
     },
     {
-      "id": "716b3e0f-3a88-4def-a861-737be51297d9",
-      "title": "PIB da Indonésia cresce 5,5% no terceiro trimestre com apoio de gastos públicos",
+      "id": "711bd83d-cf7c-48f6-9f59-6a645dc03032",
+      "title": "Japão nega esforços para remover Mianmar de lista negra financeira global",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Indonesia GDP growth Q3 government spending Jakarta economy",
+        "video_query_en": "FATF blacklist explained and Myanmar financial sanctions",
         "images": [
           {
-            "anchor": "Desafios e Perspectivas para o Futuro Econômico",
-            "query_en": "Jakarta economic protest Indonesia downtown skyline"
+            "anchor": "O posicionamento oficial do Japão",
+            "query_en": "Japan Ministry of Finance building Tokyo"
           },
           {
-            "anchor": "Forte expansão do PIB de 5,47% no terceiro trimestre em base anual",
-            "query_en": "Indonesian rupiah currency financial markets Jakarta"
+            "anchor": "Contexto da inclusão na lista negra",
+            "query_en": "FATF logo and global financial security"
+          },
+          {
+            "anchor": "A expectativa japonesa para o futuro",
+            "query_en": "Myanmar financial district and economic crisis"
           }
         ]
       }
     },
     {
-      "id": "0ba1a919-6aec-4ac6-8d0c-e7a0689a6e27",
-      "title": "Mercados acionários asiáticos caem após vitória democrata nos EUA gerar temores sobre regulação de inteligência artificial",
+      "id": "54dc6339-0c2c-44da-9cc5-e54bff833f7d",
+      "title": "A influência dos 'padrinhos' políticos na corrida eleitoral da Nigéria",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asian stock markets tech shares drop US midterms AI scrutiny",
+        "video_query_en": "Nigerian politics godfathers influence explained",
         "images": [
           {
-            "anchor": "Impacto nas bolsas da Ásia",
-            "query_en": "Asian stock market trading floor digital display"
+            "anchor": "O papel dos 'godfathers' na política nigeriana",
+            "query_en": "Nigerian political rally crowd"
           },
           {
-            "anchor": "Queda acentuada nas ações de tecnologia no Japão",
-            "query_en": "Tokyo stock exchange electronic board technology shares"
+            "anchor": "A cultura do clientelismo e seus impactos",
+            "query_en": "Nigerian government building Abuja"
           },
           {
-            "anchor": "O fator dos centros de dados nos EUA",
-            "query_en": "Modern computer server data center facility interior"
-          },
-          {
-            "anchor": "Conexão com o mercado global de semicondutores",
-            "query_en": "Advanced microchip semiconductor manufacturing cleanroom"
+            "anchor": "O desafio para a democracia",
+            "query_en": "Nigerian voters in line"
           }
         ]
       }
     },
     {
-      "id": "e50967c0-226f-4bd3-821d-a734834372f5",
-      "title": "Ativista de Hong Kong Joshua Wong é condenado a 10 anos de prisão por conluio com forças estrangeiras",
+      "id": "393eafb6-6ac4-4c6a-8f68-1720474e787a",
+      "title": "O sumô japonês: tradição milenar ou o auge da otimização esportiva?",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "sumo wrestling training methods and history",
+        "images": [
+          {
+            "anchor": "A persistência da tradição",
+            "query_en": "sumo stable training Tokyo 2026"
+          },
+          {
+            "anchor": "O paradoxo da otimização",
+            "query_en": "sumo wrestler training techniques"
+          },
+          {
+            "anchor": "O papel da ciência esportiva",
+            "query_en": "sports science analysis of sumo wrestling"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c28a95c6-34b3-452d-be14-ae48b4ffbeb2",
+      "title": "Lucro líquido da Nintendo cai no segundo trimestre com desaceleração nas vendas do Switch",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Joshua Wong sentenced Hong Kong security law",
+        "video_query_en": "Nintendo financial results analysis Q2 2026",
         "images": [
           {
-            "anchor": "Contexto e repercussão da sentença",
-            "query_en": "Hong Kong court exterior security law"
+            "anchor": "Desempenho financeiro recente",
+            "query_en": "Nintendo corporate headquarters Japan"
           },
           {
-            "anchor": "Histórico de ativismo",
-            "query_en": "Joshua Wong Hong Kong activist"
+            "anchor": "O impacto nas vendas do Switch",
+            "query_en": "Nintendo Switch console"
           },
           {
-            "anchor": "O impacto da Lei de Segurança Nacional",
-            "query_en": "Hong Kong skyline government building"
+            "anchor": "Perspectivas para o ano fiscal",
+            "query_en": "Nintendo financial report chart"
           }
         ]
       }
     },
     {
-      "id": "bba41a0a-ad5c-4eed-be2e-333f2229f3a2",
-      "title": "Toyota eleva previsão de lucro impulsionada por vendas de híbridos",
+      "id": "8c6359f0-c7a5-4584-8ee9-9108db82d8c8",
+      "title": "NTT Docomo enfrenta falhas em sua rede de telefonia celular",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NTT Docomo network outage Japan",
+        "images": [
+          {
+            "anchor": "Investigação em Andamento",
+            "query_en": "NTT Docomo office building Japan"
+          },
+          {
+            "anchor": "Horário de início",
+            "query_en": "smartphone screen showing no service network error"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c231990f-36fd-4249-b5e3-c3fb2f7e5775",
+      "title": "Primeira-ministra Sanae Takaichi vai faltar à cúpula climática da ONU na Turquia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Toyota hybrid sales profit forecast economy",
+        "video_query_en": "Sanae Takaichi UN climate summit Turkey COP31",
         "images": [
           {
-            "anchor": "O impacto positivo dos veículos híbridos e da taxa de câmbio",
-            "query_en": "Toyota hybrid vehicle on display"
+            "anchor": "Decisão sobre a ausência na COP31",
+            "query_en": "Sanae Takaichi Japanese Prime Minister"
           },
           {
-            "anchor": "Desafios e o cenário na China",
-            "query_en": "Toyota dealership in China"
+            "anchor": "Representação do governo japonês",
+            "query_en": "Minoru Kihara Chief Cabinet Secretary"
+          },
+          {
+            "anchor": "Histórico recente de ausências do Japão",
+            "query_en": "Hiroyoshi Sasagawa Environment Minister Japan"
           }
         ]
       }
     },
     {
-      "id": "c8ae8ae2-6c28-41cf-b46e-42a0bba292e1",
-      "title": "Samsung Display planeja abrir 60 iCafes certificados com QD-OLED na China",
+      "id": "8f8eebac-d798-40ed-818c-a4e814537426",
+      "title": "Tailândia proíbe livro didático citando motivos de segurança nacional",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Thailand monarchy criticism and censorship explained",
+        "images": [
+          {
+            "anchor": "A proibição do manual acadêmico",
+            "query_en": "Routledge Handbook of Contemporary Thailand book cover"
+          },
+          {
+            "anchor": "O papel da monarquia e a censura",
+            "query_en": "Grand Palace Bangkok Thailand"
+          },
+          {
+            "anchor": "O editor e o contexto da obra",
+            "query_en": "Pavin Chachavalpongpun academic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a33cf9dc-2c12-477f-b01e-ca3ac6ef3140",
+      "title": "Chefe do DBS alerta para volatilidade nos mercados de ações após eleições de meio de mandato nos EUA",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung Display QD OLED gaming monitor iCafe China",
+        "video_query_en": "DBS Group Holdings market outlook and US midterm elections impact",
         "images": [
           {
-            "anchor": "A expansão dos monitores QD-OLED na China",
-            "query_en": "Samsung QD OLED gaming monitor display"
+            "anchor": "O cenário de incerteza pós-eleições",
+            "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "Metas e prazos para o mercado de iCafes",
-            "query_en": "modern gaming iCafe internet cafe setup"
+            "anchor": "Impacto nos resultados financeiros do DBS",
+            "query_en": "DBS Bank headquarters Singapore"
+          },
+          {
+            "anchor": "Fatores de instabilidade global",
+            "query_en": "Stock market trading floor volatility"
+          },
+          {
+            "anchor": "DBS Group Holdings: Maior banco do Sudeste Asiático enfrentando desafios de mercado.",
+            "query_en": "DBS Bank logo and office building"
+          },
+          {
+            "anchor": "Eleições de meio de mandato nos EUA: Evento político que resultou na vitória do Partido Democrata no Senado e na Câmara.",
+            "query_en": "US midterm election results map"
+          },
+          {
+            "anchor": "Desempenho do terceiro trimestre: O banco registrou uma queda de 5% em seus lucros, refletindo a pressão da volatilidade atual.",
+            "query_en": "Financial chart showing market decline"
           }
         ]
       }
     },
     {
-      "id": "979165d4-1245-47db-8597-b9c06631fb3c",
-      "title": "Presidente da Samyang Group Defende a Integração de Inteligência Artificial na Pesquisa e Desenvolvimento",
+      "id": "02c4cb29-2f7b-4191-ae2d-1af3b2e12a5d",
+      "title": "China says trade barriers block tech imports, fueling its surplus",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
+    },
+    {
+      "id": "0fbc1a73-e407-4278-b352-f1bf81fb1c84",
+      "title": "Democratas conquistam controle do Congresso dos EUA em revés para a gestão Trump",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samyang Group R&D artificial intelligence",
+        "video_query_en": "US midterm elections 2026 results analysis",
         "images": [
           {
-            "anchor": "O Chamado para a Inteligência Artificial",
-            "query_en": "artificial intelligence technology research laboratory"
+            "anchor": "Uma mudança significativa no cenário político americano",
+            "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "Destaques do SIRF 2026",
-            "query_en": "corporate innovation technology fair presentation"
+            "anchor": "Reações do mercado e o setor de tecnologia",
+            "query_en": "stock market trading floor digital screens"
+          },
+          {
+            "anchor": "O impacto da guerra contra o Irã",
+            "query_en": "US Iran conflict geopolitical map"
+          },
+          {
+            "anchor": "Desafios para a indústria automotiva e infraestrutura",
+            "query_en": "Toyota manufacturing plant USA"
+          },
+          {
+            "anchor": "Contexto eleitoral e logística",
+            "query_en": "US election ballot box voting station"
           }
         ]
       }
     },
     {
-      "id": "26cc542a-3987-4d10-bb62-93f75186d633",
-      "title": "Lucro operacional da Jusung Engineering dispara 426,4% no terceiro trimestre",
+      "id": "4ad0a677-ced5-47e9-914e-c3807a42920e",
+      "title": "O momento de ouro das fabricantes de chips de Taiwan em meio à escassez global",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Jusung Engineering financial results third quarter performance",
+        "video_query_en": "Taiwan semiconductor industry memory chip shortage impact",
         "images": [
           {
-            "anchor": "Desempenho financeiro trimestral",
-            "query_en": "financial report graph office corporate meeting"
+            "anchor": "O auge das fabricantes de memória em Taiwan",
+            "query_en": "semiconductor manufacturing cleanroom Taiwan"
           },
           {
-            "anchor": "Comparação com o trimestre anterior",
-            "query_en": "business growth chart analytics screen"
+            "anchor": "Desafios de mercado e a estratégia de nicho",
+            "query_en": "Macronix International headquarters"
+          },
+          {
+            "anchor": "A luta por capacidade produtiva",
+            "query_en": "Winbond Electronics factory"
+          },
+          {
+            "anchor": "Gargalos na infraestrutura e expansão",
+            "query_en": "semiconductor lithography machine"
+          },
+          {
+            "anchor": "O efeito borboleta do tungstênio",
+            "query_en": "tungsten carbide micro drill bits"
+          },
+          {
+            "anchor": "Crise de governança na Nidec e restrições da Nvidia",
+            "query_en": "Nidec corporation logo"
+          },
+          {
+            "anchor": "O crescimento da dívida de IA",
+            "query_en": "data center server racks"
           }
         ]
       }
     },
     {
-      "id": "2f833056-4719-430b-b301-75be1c08f125",
-      "title": "Sunic System deve liderar receita global de equipamentos de display em 2027",
+      "id": "fbaedd64-ef90-4946-8846-ba07cf6289dd",
+      "title": "Toyota busca retomar fatia de mercado na China com foco em fornecedores locais",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sunic System display equipment market revenue Counterpoint Research",
+        "video_query_en": "Toyota China market strategy and local sourcing",
         "images": [
           {
-            "anchor": "A ascensão da Sunic System no mercado global",
-            "query_en": "Sunic System display manufacturing equipment factory"
+            "anchor": "Uma nova estratégia para o mercado chinês",
+            "query_en": "Toyota Beijing International Automotive Exhibition"
           },
           {
-            "anchor": "Counterpoint Research: Empresa de pesquisa de mercado responsável pelas projeções divulgadas em 4 de novembro.",
-            "query_en": "Counterpoint Research market analysis graph"
+            "anchor": "Desempenho financeiro e perspectivas",
+            "query_en": "Toyota hybrid car sales growth"
           },
           {
-            "anchor": "Sunic System: Fornecedora sul-coreana projetada para ocupar a primeira posição global em receita.",
-            "query_en": "South Korea technology display equipment industry"
+            "anchor": "Mudanças na cadeia de suprimentos",
+            "query_en": "Automotive supply chain manufacturing"
+          },
+          {
+            "anchor": "Projetos futuros e inovação",
+            "query_en": "Toyota bZ7 electric sedan"
           }
         ]
       }
     },
     {
-      "id": "e19ce5dc-b50f-4379-bed2-d6c0e9d8f663",
-      "title": "KC Tech registra alta de 35,8% no lucro operacional no terceiro trimestre",
+      "id": "6441599e-a367-4fd1-a8e6-0c256b4a3cda",
+      "title": "Sony eleva previsão de lucro anual impulsionada pelo sucesso de Homem-Aranha e divisão de games",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "KC Tech semiconductor equipment market trends",
+        "video_query_en": "Sony Group financial results and business strategy analysis",
         "images": [
           {
-            "anchor": "Resultados financeiros do período",
-            "query_en": "semiconductor manufacturing equipment factory"
+            "anchor": "Crescimento impulsionado por ativos de entretenimento",
+            "query_en": "Sony Spider-Man movie poster and branding"
           },
           {
-            "anchor": "Impulsionadores de crescimento",
-            "query_en": "silicon wafer semiconductor production"
+            "anchor": "Resultados do primeiro semestre",
+            "query_en": "Sony Group corporate headquarters Tokyo"
+          },
+          {
+            "anchor": "Contexto de mercado e decisões estratégicas",
+            "query_en": "Sony PlayStation gaming console and technology"
           }
         ]
       }
     },
     {
-      "id": "82f2f6bb-9354-4801-9518-3f544258a72d",
-      "title": "BCnC supera marca de 30 bilhões de wons em receita trimestral pela primeira vez",
+      "id": "c39ad7ce-c390-46d1-a86a-b339d45e06fd",
+      "title": "China bloqueia acordo de US$ 5,4 bilhões da SoftBank para compra da divisão de robótica da ABB",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "BCnC financial results revenue Kosdaq",
+        "video_query_en": "SoftBank ABB robotics deal blocked by China",
         "images": [
           {
-            "anchor": "Detalhes financeiros do período",
-            "query_en": "stock market financial report data charts"
+            "anchor": "Intervenção de Pequim no setor tecnológico",
+            "query_en": "Beijing skyline government regulatory office China"
+          },
+          {
+            "anchor": "O impacto nos planos do SoftBank",
+            "query_en": "Masayoshi Son SoftBank corporate headquarters Tokyo"
           }
         ]
       }
     },
     {
-      "id": "725b1863-176a-45cc-a547-0e2632e50b73",
-      "title": "CEO da Tokyo Electron Korea recebe a condecoração Bronze Tower Order of Industrial Service Merit",
+      "id": "15432230-60f6-4d55-a28f-d6cad647b010",
+      "title": "ALUX fabricará câmeras para drones turcos na Coreia do Sul",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tokyo Electron Korea CEO industrial service merit award",
+        "video_query_en": "drone gimbal camera technology explained",
         "images": [
           {
-            "anchor": "Condecoração ao executivo da Tokyo Electron Korea",
-            "query_en": "Noh Tae-woo Tokyo Electron Korea CEO"
+            "anchor": "Uma nova parceria na indústria de defesa",
+            "query_en": "South Korean drone manufacturing facility"
           },
           {
-            "anchor": "Histórico da empresa na premiação",
-            "query_en": "Tokyo Electron office building Seoul South Korea"
+            "anchor": "Foco em componentes locais",
+            "query_en": "high tech camera gimbal components"
           },
           {
-            "anchor": "Reconhecimento por contribuições ao setor",
-            "query_en": "Industrial Service Merit medal South Korea ceremony"
+            "anchor": "Detalhes sobre a produção",
+            "query_en": "industrial drone camera assembly line"
           }
         ]
       }
     },
     {
-      "id": "be3473b4-8f6b-4275-9ac1-bf56dd3a3e9b",
-      "title": "Mobilint Aprimora Suporte ao Software Ray para suas NPUs",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mobilint NPU Ray software framework artificial intelligence",
-        "images": [
-          {
-            "anchor": "O Anúncio da Mobilint",
-            "query_en": "Mobilint semiconductor NPU chip"
-          },
-          {
-            "anchor": "O Papel do Software Ray",
-            "query_en": "Ray open source software framework artificial intelligence"
-          }
-        ]
-      }
-    },
-    {
-      "id": "91baffa2-e156-47a1-ad03-c001dec412d2",
-      "title": "AMD Afirma que Ryzen AI Supera RTX Spark em Desempenho, Bateria e Preço",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AMD Ryzen AI presentation Alexey Navolokin",
-        "images": [
-          {
-            "anchor": "O Anúncio da AMD e o Mercado de PCs com IA",
-            "query_en": "AMD Ryzen AI laptop"
-          },
-          {
-            "anchor": "Declarações Oficiais e Colaborações",
-            "query_en": "AMD processor chip"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5db5b325-c6f7-43f5-8a7a-1146a699c4e0",
-      "title": "QRT expande testes de confiabilidade de semicondutores para componentes espaciais e substratos de vidro",
+      "id": "042ae290-7479-45af-8dfb-6d160f8f8932",
+      "title": "Lotte Energy Materials registra nono trimestre consecutivo de prejuízo",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "QRT semiconductor reliability testing space components",
+        "video_query_en": "Lotte Energy Materials financial performance analysis",
         "images": [
           {
-            "anchor": "Foco no mercado espacial e constelações",
-            "query_en": "low Earth orbit satellite constellation"
+            "anchor": "Desempenho financeiro recente",
+            "query_en": "Lotte Energy Materials corporate office building"
+          },
+          {
+            "anchor": "Receita supera previsões",
+            "query_en": "financial growth chart stock market"
+          },
+          {
+            "anchor": "Expectativas para o futuro",
+            "query_en": "battery manufacturing technology"
           }
         ]
       }
     },
     {
-      "id": "44703128-e143-4af8-a93b-038b6b1b8491",
-      "title": "OpenAI projeta abertura de capital para 2027 e aponta foco no setor empresarial",
+      "id": "7a4294b3-2fe7-4bf2-83f9-3cbdf99a2d36",
+      "title": "Lucro operacional da EcoPro BM despenca 76% no terceiro trimestre devido à baixa demanda por veículos elétricos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Greg Brockman OpenAI Wall Street Journal tech conference interview",
+        "video_query_en": "EcoPro BM financial results and EV market trends",
         "images": [
           {
-            "anchor": "O avanço das vendas corporativas na OpenAI",
-            "query_en": "OpenAI office San Francisco corporate building"
+            "anchor": "O impacto da desaceleração do mercado de veículos elétricos",
+            "query_en": "electric vehicle battery manufacturing plant"
           },
           {
-            "anchor": "Perspectivas para a oferta pública inicial",
-            "query_en": "Wall Street stock exchange trading floor IPO"
+            "anchor": "Sistemas de Armazenamento de Energia (ESS)",
+            "query_en": "energy storage system battery technology"
+          },
+          {
+            "anchor": "Aplicações de energia (Power applications)",
+            "query_en": "lithium ion battery cathode materials"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05f20b5-da3f-4916-b015-e743ad4c9425",
+      "title": "Aeonus e Thor Energy firmam parceria para sistemas de armazenamento de energia móvel",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "mobile energy storage system technology explained",
+        "images": [
+          {
+            "anchor": "O anúncio da parceria",
+            "query_en": "business partnership signing ceremony"
+          },
+          {
+            "anchor": "BIXPO 2026",
+            "query_en": "BIXPO energy exhibition Gwangju"
+          },
+          {
+            "anchor": "Foco em sistemas móveis",
+            "query_en": "mobile energy storage system container"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ae9a04cf-b00f-4003-8538-fd1c0f0404e5",
+      "title": "LS Electric adota tecnologia de previsão de falhas da KEPCO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LS Electric KEPCO SEDA technology partnership BIXPO 2026",
+        "images": [
+          {
+            "anchor": "O acordo de transferência tecnológica",
+            "query_en": "LS Electric BIXPO 2026 exhibition"
+          },
+          {
+            "anchor": "A solução SEDA",
+            "query_en": "power grid predictive maintenance technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91f4219b-5b76-4ce3-b32f-917c2de759c2",
+      "title": "Pino investirá 120 bilhões de wons em nova fábrica de baterias LFP em Pohang",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LFP battery cathode production process explained",
+        "images": [
+          {
+            "anchor": "Expansão estratégica no setor de baterias",
+            "query_en": "lithium iron phosphate battery factory"
+          },
+          {
+            "anchor": "Detalhamento do investimento e captação",
+            "query_en": "financial investment stock market chart"
+          },
+          {
+            "anchor": "O papel da CNGR",
+            "query_en": "CNGR Advanced Material logo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "26185ac9-212b-4b5b-bc2d-154f2b14ae8c",
+      "title": "Schneider Electric foca em data centers de IA com distribuição de energia inteligente",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Schneider Electric data center power distribution for AI",
+        "images": [
+          {
+            "anchor": "A nova escala dos data centers de IA",
+            "query_en": "modern hyperscale data center infrastructure"
+          },
+          {
+            "anchor": "O desafio do consumo por rack",
+            "query_en": "high density AI server rack power consumption"
+          },
+          {
+            "anchor": "A estratégia da Schneider Electric",
+            "query_en": "Schneider Electric power distribution unit for data centers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "afa07047-6aa3-42f5-9550-a1b3aa9d1f4c",
+      "title": "Qualcomm fecha acordo de longo prazo para fornecer chips de infraestrutura 5G à SpaceX",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Qualcomm Dragonwing 5G infrastructure technology explained",
+        "images": [
+          {
+            "anchor": "Uma nova parceria no setor de conectividade",
+            "query_en": "Qualcomm and SpaceX logo partnership"
+          },
+          {
+            "anchor": "As tecnologias envolvidas",
+            "query_en": "Qualcomm 5G infrastructure chip hardware"
+          },
+          {
+            "anchor": "O papel da infraestrutura Dragonwing",
+            "query_en": "5G base station radio unit technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e8852031-e0f0-462b-ad3c-7723572585bc",
+      "title": "Infineon e SoluM unem forças para desenvolver soluções de energia HVDC para data centers de IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Infineon SoluM partnership data center power solutions",
+        "images": [
+          {
+            "anchor": "Parceria estratégica para o setor de IA",
+            "query_en": "Infineon Technologies data center power infrastructure"
+          },
+          {
+            "anchor": "Áreas de cooperação técnica",
+            "query_en": "server power supply unit hardware"
+          },
+          {
+            "anchor": "Unidades de fonte de alimentação de servidor (PSUs)",
+            "query_en": "server power supply unit PSU"
+          },
+          {
+            "anchor": "Unidades de backup de bateria (BBUs)",
+            "query_en": "data center battery backup unit BBU"
+          },
+          {
+            "anchor": "Conversores de barramento intermediário (IBCs)",
+            "query_en": "intermediate bus converter IBC electronics"
+          },
+          {
+            "anchor": "O papel da Infineon",
+            "query_en": "Infineon power semiconductor technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4a97dfd-864c-4b74-9842-80c4eddc9298",
+      "title": "Duksan Neolux registra lucro operacional recorde de 24 bilhões de wons no terceiro trimestre",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "OLED display technology manufacturing process",
+        "images": [
+          {
+            "anchor": "Resultados financeiros históricos",
+            "query_en": "financial growth chart business"
+          },
+          {
+            "anchor": "Fatores de crescimento",
+            "query_en": "OLED screen manufacturing technology"
+          },
+          {
+            "anchor": "O papel da inovação em materiais",
+            "query_en": "OLED material chemical research"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0354c7c7-e53f-4324-b843-9282604684d9",
+      "title": "Polícia de Delhi abre inquérito sobre circulação de material de abuso sexual infantil em plataformas da Meta",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Delhi Police cyber crime investigation Meta platforms",
+        "images": [
+          {
+            "anchor": "Abertura de inquérito pela Polícia de Delhi",
+            "query_en": "Delhi Police headquarters building"
+          },
+          {
+            "anchor": "Base legal da investigação",
+            "query_en": "Information Technology Act India legal document"
+          },
+          {
+            "anchor": "Detalhes da denúncia e apuração",
+            "query_en": "Meta Facebook Instagram logo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7c3e125e-8c71-4cf0-977f-20d94b70066d",
+      "title": "Varejistas de celulares na Índia preveem aumento de preços de 10% após o Diwali em meio à queda nas vendas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Indian mobile phone market trends and price hikes",
+        "images": [
+          {
+            "anchor": "O cenário atual do varejo móvel",
+            "query_en": "Indian mobile phone retail store interior"
+          },
+          {
+            "anchor": "O impacto no segmento de entrada",
+            "query_en": "budget smartphone display"
+          },
+          {
+            "anchor": "Aumento de preços e restrições de produção",
+            "query_en": "semiconductor chip shortage concept"
+          },
+          {
+            "anchor": "Mudanças no mercado de 5G e financiamento",
+            "query_en": "smartphone retail financing EMI"
+          },
+          {
+            "anchor": "Apelo por intervenção regulatória",
+            "query_en": "Kailash Lakhyani AIMRA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b7bfaad-519e-44a0-9218-0160e152d6c7",
+      "title": "A escolha do cofundador ideal: Como encontrar o parceiro certo e evitar erros contratuais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to find a startup cofounder business partnership",
+        "images": [
+          {
+            "anchor": "A escolha do parceiro ideal",
+            "query_en": "business partners meeting startup office"
+          },
+          {
+            "anchor": "Testando a compatibilidade na prática",
+            "query_en": "business people collaborating on project"
+          },
+          {
+            "anchor": "Evitando erros contratuais e societários",
+            "query_en": "signing business contract partnership agreement"
           }
         ]
       }
@@ -709,40 +789,40 @@
     },
     {
       "id": "2fa595cc-3f42-465a-8945-d7b9ee053ecf",
-      "title": "[ITmedia PC USER] 40Gbps超高速通信でネット環境を整えられる「UGREEN LANケーブル CAT8 2M」がセールで30％オフの978円に",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Computers"
-    },
-    {
-      "id": "2adbbc78-a533-404a-8c8a-17d97a371056",
-      "title": "Nova evidência forense apoia a teoria de sacrifício de servos no Antigo Egito",
-      "category": "Ciência",
+      "title": "Cabo LAN CAT8 da UGREEN de 2 Metros com Desconto de 30% na Amazon por 978 Ienes",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Egyptian retainer sacrifice forensic evidence archaeological analysis",
+        "video_query_en": "UGREEN CAT8 Ethernet Cable review",
         "images": [
           {
-            "anchor": "O contexto histórico e os desafios da bioarqueologia",
-            "query_en": "bioarchaeology laboratory human skull analysis ancient remains"
+            "anchor": "Desempenho e Especificações Técnicas",
+            "query_en": "UGREEN CAT8 LAN cable specifications"
           },
           {
-            "anchor": "O estudo de caso do sítio de Abydos",
-            "query_en": "Abydos Egypt archaeological site desert ruins"
+            "anchor": "Suporte a taxas de transferência ultrarrápidas de até 40Gbps, permitindo o tráfego massivo de dados sem gargalos.",
+            "query_en": "ethernet cable 40gbps high speed"
           },
           {
-            "anchor": "As limitações das escavações do século XX",
-            "query_en": "historical archaeological excavation Egypt 1920s archive photo"
+            "anchor": "Compatibilidade com largura de banda de 2000MHz, o que garante maior estabilidade e eficiência na transmissão de dados.",
+            "query_en": "CAT8 network cable connector"
           },
           {
-            "anchor": "Fraturas reveladoras e possíveis causas da morte",
-            "query_en": "skull fracture forensic anthropology laboratory research"
+            "anchor": "Comprimento padrão de 2 metros, ideal para a interligação de dispositivos próximos em ambientes domésticos ou de escritório.",
+            "query_en": "router connected with ethernet cable"
           },
           {
-            "anchor": "A motivação política e a insustentabilidade da prática",
-            "query_en": "ancient Egyptian royal tomb artifacts afterlife exhibition"
+            "anchor": "Aplicações Práticas no Dia a Dia",
+            "query_en": "gaming PC setup with wired internet"
           }
         ]
       }
+    },
+    {
+      "id": "6186ae8b-9e43-4a04-bd6e-387264c7b107",
+      "title": "It's Official: A Knight Of The Seven Kingdoms Returns Winter 2026",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
