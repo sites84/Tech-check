@@ -1,645 +1,700 @@
 {
-  "updated_at": "2026-11-04T09:29:14.289Z",
+  "updated_at": "2026-11-04T18:15:46.151Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "2c119c4f-1bef-4998-b536-af7eb9e99987",
-      "title": "Coreia do Norte esfria expectativas de encontro entre Kim Jong Un e Donald Trump antes da Cúpula da APEC",
+      "id": "1d7c2408-eb0a-4cf3-94de-6fee7fc239ca",
+      "title": "Polícia de Tóquio vai introduzir sistema de inteligência artificial para reconstrução de acidentes",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tokyo police AI traffic accident reconstruction system",
+        "images": [
+          {
+            "anchor": "Como funciona o sistema inteligente",
+            "query_en": "Tokyo Metropolitan Police Department street Tokyo"
+          },
+          {
+            "anchor": "Cronograma de implementação e testes",
+            "query_en": "Tokyo traffic congestion security camera"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f07f796e-02d6-4916-9cff-1761d36ef786",
+      "title": "MUFG Emut Bank operará sem cartões físicos de saque",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "North Korea Kim Jong Un Donald Trump meeting APEC",
+        "video_query_en": "MUFG Emut Bank digital bank smartphone cash withdrawal",
         "images": [
           {
-            "anchor": "O ultimato de Pyongyang",
-            "query_en": "Kim Yo Jong North Korea official statement"
+            "anchor": "O novo banco digital do Japão",
+            "query_en": "Mitsubishi UFJ Financial Group building Tokyo"
           },
           {
-            "anchor": "A posição oficial sobre o diálogo",
-            "query_en": "Korean Central News Agency Pyongyang"
+            "anchor": "Saques e segurança via smartphone",
+            "query_en": "smartphone mobile banking cash withdrawal"
+          },
+          {
+            "anchor": "Inovação no setor",
+            "query_en": "digital banking app smartphone security"
           }
         ]
       }
     },
     {
-      "id": "0e13e81c-c57b-46fd-9f3f-a11554783062",
-      "title": "Democratas conquistam vitórias expressivas nas eleições de meio de mandato dos EUA impulsionados por insatisfação com inflação e fadiga de Trump",
+      "id": "b4cf6132-cb33-465a-9e39-3897834561dd",
+      "title": "Tencent afirma que seu novo modelo Hy4 entra na elite de inteligências artificiais de código aberto",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tencent AI open source model Hy4 announcement",
+        "images": [
+          {
+            "anchor": "O impacto no mercado e a concorrência global",
+            "query_en": "Tencent corporate headquarters building China"
+          },
+          {
+            "anchor": "Contexto da indústria e investimentos na China",
+            "query_en": "Artificial intelligence data center servers technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "63f8e0be-1875-4f4e-84d0-7dc90c880eef",
+      "title": "Chefe de gabinete da Indonésia é demitido e preso por suposta escuta ilegal do presidente Prabowo",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Indonesia president Prabowo Subianto wiretapping scandal",
+        "images": [
+          {
+            "anchor": "Detalhes do caso e repercussão oficial",
+            "query_en": "Indonesian presidential palace Jakarta security"
+          },
+          {
+            "anchor": "Contexto político e prisões relacionadas",
+            "query_en": "Indonesian National Police headquarters Jakarta"
+          },
+          {
+            "anchor": "Consequências para a segurança institucional",
+            "query_en": "Prabowo Subianto official speech Indonesia"
+          },
+          {
+            "anchor": "- O caso levantou debates urgentes sobre cibersegurança e integridade de comunicações governamentais na Indonésia.",
+            "query_en": "cybersecurity data protection office concept"
+          },
+          {
+            "anchor": "- A destituição ocorreu a pouco mais de um mês da posse do funcionário no alto cargo administrativo.",
+            "query_en": "government administration desk official building"
+          },
+          {
+            "anchor": "- Autoridades classificaram a suposta ação de interceptação como uma infração gravíssima que flerta com o crime de traição.",
+            "query_en": "Indonesian flag Jakarta government building"
+          },
+          {
+            "anchor": "- A investigação segue mobilizando órgãos de controle e o aparato de segurança para identificar possíveis coautores na cúpula policial.",
+            "query_en": "police investigation officers meeting Asia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3d06a470-0214-4962-8765-61dd92acb818",
+      "title": "Chefes das tradings do Japão alertam sobre incertezas após eleições de meio de mandato nos EUA",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US midterms 2026 elections results Democrats Congress",
+        "video_query_en": "Japan trading houses US midterms economy impact",
         "images": [
           {
-            "anchor": "Uma virada política sísmica no cenário americano",
-            "query_en": "US Capitol building Washington DC politics"
+            "anchor": "Repercussão entre as gigantes japonesas",
+            "query_en": "Tokyo business district skyscrapers corporate buildings Japan"
           },
           {
-            "anchor": "Conquistas históricas em redutos republicanos",
-            "query_en": "US Senate chamber Washington"
-          },
-          {
-            "anchor": "South Carolina",
-            "query_en": "South Carolina state flag capitol"
-          },
-          {
-            "anchor": "Texas",
-            "query_en": "Texas state capitol building Austin"
-          },
-          {
-            "anchor": "Kansas",
-            "query_en": "Kansas state capitol Topeka"
-          },
-          {
-            "anchor": "Pennsylvania",
-            "query_en": "Pennsylvania state capitol Harrisburg"
-          },
-          {
-            "anchor": "Kentucky",
-            "query_en": "Kentucky state capitol Frankfort"
-          },
-          {
-            "anchor": "New Jersey",
-            "query_en": "New Jersey state house Trenton"
-          },
-          {
-            "anchor": "Expansão do impacto político nos estados",
-            "query_en": "US state governors flags lineup"
+            "anchor": "Impactos nos mercados de energia e câmbio",
+            "query_en": "Global stock market trading floor economic charts"
           }
         ]
       }
     },
     {
-      "id": "c807b45f-e590-4bba-ad8b-6a9dea20b342",
-      "title": "Family receives remains of Hiroshima A-bomb victim 81 years after his death",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+      "id": "8ce9b4ff-4573-41ab-85da-d8c2ce4caa45",
+      "title": "Japão quer que empresas de tecnologia dos EUA compartilhem falhas de software não divulgadas",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan cybersecurity government policy software vulnerabilities US tech companies",
+        "images": [
+          {
+            "anchor": "O Contexto da Segurança Cibernética no Japão",
+            "query_en": "Tokyo cityscape government buildings cybersecurity"
+          },
+          {
+            "anchor": "Ação Governamental e Resposta de Emergência",
+            "query_en": "cybersecurity command center digital security monitoring"
+          },
+          {
+            "anchor": "Foco em inteligência artificial",
+            "query_en": "artificial intelligence servers data center technology"
+          },
+          {
+            "anchor": "Acesso antecipado",
+            "query_en": "software code vulnerability scanning security analysis"
+          },
+          {
+            "anchor": "Cooperação internacional",
+            "query_en": "global technology summit international cooperation meeting"
+          },
+          {
+            "anchor": "Pacote de emergência",
+            "query_en": "emergency response cybersecurity team working"
+          }
+        ]
+      }
     },
     {
-      "id": "ee37550b-882e-4102-92f4-d8c58897bb9b",
-      "title": "Ações japonesas despencam com impacto das eleições de meio de mandato nos EUA sobre o setor de tecnologia",
+      "id": "a4f2c35e-6c7a-4a42-82ff-d3e2a337dd82",
+      "title": "Bancos do Japão renovam linhas de crédito de US$ 3,8 bilhões para a Nidec após escândalo",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan stocks sink US midterm elections tech shares",
+        "video_query_en": "Nidec motor corporate scandal Tokyo Stock Exchange credit lines",
         "images": [
           {
-            "anchor": "O impacto das eleições norte-americanas nos mercados asiáticos",
-            "query_en": "Tokyo Stock Exchange trading floor display boards"
+            "anchor": "O risco de deslistagem e a situação na Bolsa de Tóquio",
+            "query_en": "Tokyo Stock Exchange building exterior Japan"
           },
           {
-            "anchor": "O tombo das gigantes de chips e inteligência artificial",
-            "query_en": "computer semiconductor microchips manufacturing"
-          },
-          {
-            "anchor": "Kioxia Holdings, fabricante de memórias",
-            "query_en": "Kioxia memory chip semiconductor"
-          },
-          {
-            "anchor": "Taiyo Yuden, fabricante de capacitores cerâmicos multicamadas (MLCC)",
-            "query_en": "Taiyo Yuden electronic components"
-          },
-          {
-            "anchor": "A avaliação dos especialistas de mercado",
-            "query_en": "financial analyst looking at stock market charts"
+            "anchor": "Desafios operacionais e mudanças na liderança",
+            "query_en": "electric motor manufacturing factory industrial production line"
           }
         ]
       }
     },
     {
-      "id": "ec25e064-6969-4d63-8d8a-f85794cee10c",
-      "title": "Líder do DPP rejeita projeto de corte de imposto sobre alimentos no formato atual no Japão",
+      "id": "b7e3476c-7f42-4481-933b-ffa4491a3475",
+      "title": "Fornecedor da Toyota adquire rival ligada à Nissan em meio à pressão da concorrência chinesa",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Yuichiro Tamaki DPP consumption tax Japan",
+        "video_query_en": "Japanese auto parts suppliers China competition",
         "images": [
           {
-            "anchor": "Impasse político no Japão",
-            "query_en": "Japanese Diet building Tokyo politics"
+            "anchor": "O impacto da concorrência chinesa na indústria japonesa",
+            "query_en": "Chinese electric vehicles auto show China"
           },
           {
-            "anchor": "Debates internos no partido",
-            "query_en": "Democratic Party for the People Japan meeting"
+            "anchor": "Cruzando fronteiras tradicionais de fornecimento",
+            "query_en": "Toyota factory assembly line Japan"
+          },
+          {
+            "anchor": "Desafios e o novo cenário de mercado",
+            "query_en": "Nissan car manufacturing plant Japan"
           }
         ]
       }
     },
     {
-      "id": "9ce1f195-ee30-4cd9-bec7-b5513615ccc1",
-      "title": "Mais de um quarto dos japoneses pretende poupar dinheiro economizado com corte de impostos sobre alimentos, aponta pesquisa",
+      "id": "93a269f1-2555-4e07-9a45-50d5f94c8476",
+      "title": "Banco do Japão lidera linha de crédito de US$ 600 milhões para ajudar a Petronas da Malásia a cortar emissões de CO2",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan consumption tax food survey Intage",
+        "video_query_en": "Japan Bank for International Cooperation Petronas CO2 reduction",
         "images": [
           {
-            "anchor": "O impacto da proposta de corte de impostos no Japão",
-            "query_en": "Japan shopping street Tokyo lifestyle"
+            "anchor": "Parceria estratégica para a transição energética",
+            "query_en": "Petronas oil and gas facility Malaysia"
           },
           {
-            "anchor": "Destino dos recursos economizados",
-            "query_en": "Japanese yen savings finance planning"
+            "anchor": "Petronas: estatal malaia de óleo e gás que poderá acessar o financiamento japonês.",
+            "query_en": "Petronas logo building Kuala Lumpur"
           },
           {
-            "anchor": "Gastos com viagens e outras atividades de lazer registraram 15,1% das intenções.",
-            "query_en": "tourism in Japan leisure travel"
+            "anchor": "Japan Bank for International Cooperation: instituição financeira do governo japonês que lidera a linha de crédito.",
+            "query_en": "Japan Bank for International Cooperation building Tokyo"
           },
           {
-            "anchor": "Investimentos financeiros foram citados por 10,4% dos entrevistados.",
-            "query_en": "financial investment growth chart"
+            "anchor": "US$ 600 milhões: valor máximo estipulado para a linha de crédito sindicalizada.",
+            "query_en": "financial credit line banking documents"
           },
           {
-            "anchor": "Despesas relacionadas à saúde alcançaram 9,3% da preferência.",
-            "query_en": "healthcare pharmacy Japan"
-          },
-          {
-            "anchor": "Gastos com hobbies apareceram com 8,4% das respostas.",
-            "query_en": "hobby activities lifestyle Japan"
-          },
-          {
-            "anchor": "Despesas com necessidades diárias fecharam a lista principal com 7,6%.",
-            "query_en": "supermarket groceries Japan shopping"
+            "anchor": "Foco em projetos de baixo carbono",
+            "query_en": "carbon capture and storage industrial facility"
           }
         ]
       }
     },
     {
-      "id": "4badb3f0-71ff-444b-aa59-ad15a2f2ef0a",
-      "title": "A derrota dos candidatos de Trump e o impacto no Senado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Donald Trump Senate midterm elections results analysis",
-        "images": [
-          {
-            "anchor": "O teste eleitoral do presidente",
-            "query_en": "Donald Trump speaking at podium"
-          },
-          {
-            "anchor": "A reconfiguração do Partido Republicano",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Principais derrotas",
-            "query_en": "US Senate chamber interior"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7931ea79-f247-49b7-bb6e-3cc4ca393b6a",
-      "title": "Filme de Milcho Manchevski vence o prêmio principal no Festival de Cinema de Tóquio",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tokyo International Film Festival winners",
-        "images": [
-          {
-            "anchor": "A grande vitória no festival",
-            "query_en": "Tokyo International Film Festival red carpet"
-          },
-          {
-            "anchor": "Detalhes da competição oficial",
-            "query_en": "Milcho Manchevski director"
-          }
-        ]
-      }
-    },
-    {
-      "id": "93ea983d-db80-4239-a030-b390c2db492c",
-      "title": "Japão descarta ampliar limite de vistos para trabalhadores estrangeiros, diz ministra",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan foreign workers visa policy labor shortage",
-        "images": [
-          {
-            "anchor": "O panorama atual do mercado de trabalho japonês",
-            "query_en": "Tokyo business district street view Japan"
-          },
-          {
-            "anchor": "Ajustes pontuais no programa de vistos",
-            "query_en": "Japanese restaurant kitchen workers"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0631a14a-06af-4365-8e0c-cf85dbd13f7a",
-      "title": "Discussão sobre a entrada da Alemanha no programa de caças GCAP ganha força, mas Japão teme atrasos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Global Combat Air Program GCAP fighter jet Japan UK Italy",
-        "images": [
-          {
-            "anchor": "O avanço do interesse alemão no GCAP",
-            "query_en": "German Defense Minister Boris Pistorius"
-          },
-          {
-            "anchor": "Complexidade e negociações anteriores",
-            "query_en": "GCAP fighter jet model exhibition"
-          },
-          {
-            "anchor": "Preocupações e impacto no cronograma",
-            "query_en": "Japanese flag and defense technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0e8cadc7-4958-4411-b2b9-dbb24006f886",
-      "title": "Petrovietnam CEO sees a future of nuclear and wind power",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Energia"
-    },
-    {
-      "id": "a23abe1c-fdcb-4537-bcd6-2fc7b99e97a5",
-      "title": "Mitsui Chemicals planeja comprar a JSR por mais de US$ 8,2 bilhões",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mitsui Chemicals JSR acquisition semiconductor materials",
-        "images": [
-          {
-            "anchor": "Detalhes da Operação Bilionária",
-            "query_en": "Mitsui Chemicals headquarters Tokyo building"
-          },
-          {
-            "anchor": "O Papel da JSR na Cadeia Global de Semicondutores",
-            "query_en": "semiconductor silicon wafer manufacturing cleanroom"
-          },
-          {
-            "anchor": "Movimentos Estratégicos no Setor",
-            "query_en": "microchip production semiconductor technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "845eb2a4-57b0-45ec-a4fc-17e7dd122a72",
-      "title": "Vendas de automóveis na ASEAN sobem 13% no terceiro trimestre impulsionadas por veículos elétricos e híbridos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASEAN auto sales electric vehicles hybrid China brands",
-        "images": [
-          {
-            "anchor": "O avanço das marcas chinesas na Indonésia e na Tailândia",
-            "query_en": "BYD electric vehicles Indonesia auto show GIIAS"
-          },
-          {
-            "anchor": "Fatores de recuperação e perspectivas para o mercado automotivo",
-            "query_en": "Southeast Asia traffic cars highway dealership"
-          }
-        ]
-      }
-    },
-    {
-      "id": "96496259-1e3e-4a10-8e9f-6f1de5dee4c4",
-      "title": "Democrats win control of Congress in sharp rebuke to Trump",
+      "id": "bda878c2-1684-4948-8e2c-17b856fab4ea",
+      "title": "US midterms live: Vance blames Republican losses on Iran war",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Política"
     },
     {
-      "id": "7c5759ea-93de-41f1-b92a-3b36146c6c2e",
-      "title": "Grandes companhias aéreas estatais da China apostam na demanda externa para superar crise",
-      "category": "Empresas",
+      "id": "af580bab-97c7-4aa9-8eb9-9ff299e815b7",
+      "title": "Atualização iOS 27.3 da Apple traz novos recursos de IA para a Siri, Safari e Saúde",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China state airlines international demand overseas routes",
+        "video_query_en": "Apple iOS Siri AI updates features",
         "images": [
           {
-            "anchor": "Os desafios do mercado interno e a busca por mercados externos",
-            "query_en": "China Eastern Airlines plane Beijing Capital International Airport"
+            "anchor": "Novas capacidades da Siri com Inteligência Artificial",
+            "query_en": "Apple Siri AI interface on iPhone"
           },
           {
-            "anchor": "O impacto dos conflitos geopolíticos e fatores externos",
-            "query_en": "commercial airplane flying in the sky international route"
+            "anchor": "Outras novidades do sistema",
+            "query_en": "Apple iOS Safari and Health app features"
           }
         ]
       }
     },
     {
-      "id": "42dd6c3d-c3f6-44b5-99c3-aea47e73674e",
-      "title": "US midterms live: Trump says Democrat victories not a 'hit on me'",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Politica"
-    },
-    {
-      "id": "102f0f68-e872-4aff-8c01-ec3be0fd05c6",
-      "title": "Ações asiáticas enfrentam volatilidade com vitória democrata no congresso dos Estados Unidos",
+      "id": "8d065f91-d820-4999-8416-09a49f7f40d0",
+      "title": "Como a inteligência artificial está transformando o setor criativo diante de reestruturações em gigantes como o Canva",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asian stocks US midterms democratic victory market reaction",
+        "video_query_en": "Canva restructures artificial intelligence creative industry",
         "images": [
           {
-            "anchor": "Reação dos mercados asiáticos e queda no Japão",
-            "query_en": "Tokyo stock exchange signboard decline Nikkei"
+            "anchor": "O impacto da IA e a reestruturação no Canva",
+            "query_en": "Canva office building workspace"
           },
           {
-            "anchor": "O cenário político e econômico americano",
-            "query_en": "US Capitol building Washington DC"
+            "anchor": "A transformação no ecossistema criativo",
+            "query_en": "generative artificial intelligence design software"
           }
         ]
       }
     },
     {
-      "id": "019e1705-924c-4f34-ab85-80db42fc6fbe",
-      "title": "S2W apresenta soluções de segurança baseadas em inteligência artificial na it-sa Expo na Alemanha",
+      "id": "fd0ef4ff-eb98-4b1f-a7b2-4efad5e45dff",
+      "title": "Hackers invadem sistema de banco de sangue na França e reprogramam freezers para 110°C",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "S2W AI security solutions it-sa Expo Nuremberg",
+        "video_query_en": "france blood bank hackers cyberattack cooling systems",
         "images": [
           {
-            "anchor": "As novas plataformas de inteligência artificial",
-            "query_en": "cybersecurity AI technology exhibition convention"
+            "anchor": "O ataque e a detecção da anomalia",
+            "query_en": "fridge temperature monitor industrial control system cyberattack"
           },
           {
-            "anchor": "XARVIS",
-            "query_en": "government cybersecurity control room digital security"
+            "anchor": "Impacto e resposta oficial",
+            "query_en": "blood plasma storage medical refrigeration hospital laboratory"
           },
           {
-            "anchor": "QUAXAR",
-            "query_en": "corporate cybersecurity data protection software"
-          },
-          {
-            "anchor": "Expansão global e o cenário de eventos",
-            "query_en": "it-sa Expo Nuremberg exhibition hall technology event"
+            "anchor": "Contexto europeu",
+            "query_en": "european union cyber security industrial infrastructure server room"
           }
         ]
       }
     },
     {
-      "id": "259e68c3-efe1-421a-8f60-987a75c0c400",
-      "title": "Line Games adiciona a nova personagem Katarina Medicis em The War of Genesis Mobile",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The War of Genesis Mobile gameplay trailer",
-        "images": [
-          {
-            "anchor": "A Chegada de Katarina Medicis",
-            "query_en": "The War of Genesis Mobile game logo"
-          },
-          {
-            "anchor": "Papel e Histórico da Personagem",
-            "query_en": "Katarina Medicis The War of Genesis Mobile"
-          }
-        ]
-      }
-    },
-    {
-      "id": "accd9186-de19-4e41-9303-9ad4e9548d7f",
-      "title": "Webzen anuncia MU Theos e planeja lançamento para o primeiro semestre de 2027",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Webzen MU Theos MMORPG announcement",
-        "images": [
-          {
-            "anchor": "Revelação oficial e identidade visual",
-            "query_en": "Webzen company logo branding"
-          },
-          {
-            "anchor": "Expectativas de lançamento",
-            "query_en": "MMORPG gameplay fantasy world"
-          }
-        ]
-      }
-    },
-    {
-      "id": "01cc44f1-0b8b-4bbd-85da-bd9453952350",
-      "title": "Três grandes empresas de energia da Coreia do Sul apresentam tecnologias de rede na BIXPO 2026",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea power grid technologies BIXPO",
-        "images": [
-          {
-            "anchor": "Soluções em Destaque na BIXPO 2026",
-            "query_en": "Gwangju convention center exhibition hall South Korea"
-          },
-          {
-            "anchor": "Hyosung Heavy Industries com equipamentos pesados e soluções avançadas para redes elétricas.",
-            "query_en": "Hyosung Heavy Industries power equipment exhibition"
-          },
-          {
-            "anchor": "LS Cable & System exibindo portfólio focado em cabos submarinos e tecnologias de alta capacidade.",
-            "query_en": "LS Cable and System submarine cables"
-          },
-          {
-            "anchor": "Taihan Cable & Solution apresentando inovações em cabos e soluções voltadas para o suporte à inteligência artificial.",
-            "query_en": "Taihan Cable and Solution power solutions"
-          },
-          {
-            "anchor": "O Desafio Energético da Inteligência Artificial",
-            "query_en": "HVDC transmission technology power grid"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3d3e47d2-f46b-4cef-942f-2413a11c65f6",
-      "title": "Umicore Coreia recebe prêmio presidencial por investimento estrangeiro",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Umicore Battery Materials Korea foreign investment award",
-        "images": [
-          {
-            "anchor": "Premiação Presidencial na Coreia do Sul",
-            "query_en": "Umicore office South Korea building"
-          },
-          {
-            "anchor": "Detalhes da Cerimônia",
-            "query_en": "business award ceremony South Korea"
-          }
-        ]
-      }
-    },
-    {
-      "id": "895631fd-0be8-434b-9ea4-bac6ba69a032",
-      "title": "Vice-presidente da HS Hyosung defende diplomacia empresarial em evento da OCDE",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OECD South Korea 30th anniversary HS Hyosung Cho Hyun sang",
-        "images": [
-          {
-            "anchor": "O Papel de Cho Hyun-sang na OCDE",
-            "query_en": "Cho Hyun-sang HS Hyosung OECD event"
-          },
-          {
-            "anchor": "Fortalecendo a Comunidade Empresarial",
-            "query_en": "OECD headquarters Paris international meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0aa1618a-620f-4e14-a996-a7470ee99661",
-      "title": "Hyosung fornecerá bombas de resfriamento para o data center de IA da SKT em Ulsan",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hyosung SK Telecom AI data center cooling pumps Ulsan",
-        "images": [
-          {
-            "anchor": "O funcionamento do sistema de resfriamento",
-            "query_en": "industrial cooling water pump data center"
-          },
-          {
-            "anchor": "Impacto na infraestrutura de IA",
-            "query_en": "AI data center server room infrastructure"
-          },
-          {
-            "anchor": "Redução significativa no consumo de energia elétrica da infraestrutura",
-            "query_en": "energy efficient industrial pump technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "06b6071e-49f5-4d56-be54-a35be41c326c",
-      "title": "Korea Aerospace Industries inicia projeto para desenvolver agente de inteligência artificial para logística militar",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Korea Aerospace Industries AI agent military logistics",
-        "images": [
-          {
-            "anchor": "Reunião inaugural em Daejeon",
-            "query_en": "Daejeon Convention Center interior"
-          },
-          {
-            "anchor": "Objetivos do agente de inteligência artificial",
-            "query_en": "military logistics big data dashboard AI"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9badf770-3e8d-473c-a192-74281a0743ad",
-      "title": "Hanwha Aerospace inaugura nova fábrica em Suncheon para impulsionar transporte espacial",
+      "id": "13258114-0f60-4769-b1af-dabcbe11b292",
+      "title": "Argo Space aposta em propulsão a água para alcançar a órbita lunar",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Hanwha Aerospace Suncheon plant space launch vehicle",
+        "video_query_en": "Argo Space water propulsion lunar orbit spacecraft",
         "images": [
           {
-            "anchor": "Localização e Estrutura da Nova Planta",
-            "query_en": "Hanwha Aerospace Suncheon plant aerial view"
+            "anchor": "O conceito de propulsão a água",
+            "query_en": "water propulsion spacecraft technology"
           },
           {
-            "anchor": "Objetivos e Operações da Instalação",
-            "query_en": "space launch vehicle manufacturing assembly"
-          },
-          {
-            "anchor": "Impacto Regional",
-            "query_en": "Suncheon South Korea industrial complex"
+            "anchor": "A rota entre a Terra e a Lua",
+            "query_en": "Earth and Moon orbit spacecraft mission"
           }
         ]
       }
     },
     {
-      "id": "604787e2-57ca-4a83-bf47-3d620c372fbf",
-      "title": "Duksan Electera acelera IPO na Kosdaq após conquistar grande cliente de veículos elétricos na América do Norte",
+      "id": "3c3245e1-bed9-4671-b4eb-285f998099d5",
+      "title": "Maleta Makita Makpac Tamanho 2 tem queda de preço na Amazon",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Duksan Electera Kosdaq IPO electric vehicle battery electrolyte",
+        "video_query_en": "Makita Makpac size 2 review and organization",
         "images": [
           {
-            "anchor": "O avanço da abertura de capital",
-            "query_en": "Kosdaq stock exchange building Seoul"
+            "anchor": "Oferta para o Makita Makpac",
+            "query_en": "Makita Makpac storage case"
           },
           {
-            "anchor": "Expansão produtiva e novos clientes",
-            "query_en": "electric vehicle battery electrolyte manufacturing"
+            "anchor": "Detalhes do sistema de armazenamento",
+            "query_en": "Makita Makpac stacked boxes"
           }
         ]
       }
     },
     {
-      "id": "ba55ee78-f4ef-4a6b-a087-a84beaf2c044",
-      "title": "Google vai cortar acesso à busca para escolas que rejeitarem inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google search access schools artificial intelligence Gemini",
-        "images": [
-          {
-            "anchor": "Mudanças no controle administrativo das ferramentas",
-            "query_en": "Google Classroom software used in modern classroom laptop"
-          },
-          {
-            "anchor": "Justificativa da empresa e novos recursos de aprendizagem",
-            "query_en": "Google office Mountain View California building"
-          },
-          {
-            "anchor": "O peso da Google no mercado educacional",
-            "query_en": "Students using Chromebook laptops in classroom"
-          },
-          {
-            "anchor": "Contexto de restrições e reações de especialistas",
-            "query_en": "Lina Khan former FTC chair speaking"
-          },
-          {
-            "anchor": "Críticas de grupos de defesa infantil",
-            "query_en": "Children using technology in school classroom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b71da0ae-e6eb-4342-93c4-a7ed6ac54919",
-      "title": "Canva anuncia corte de 22% dos funcionários após desaceleração do crescimento",
+      "id": "f047e9ec-4bb0-438e-86a3-03459bc892e4",
+      "title": "Filial da Volkswagen, Elli, corta empregos e encerra venda de wallboxes",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Canva layoffs restructuring AI strategy",
+        "video_query_en": "Volkswagen subsidiary Elli cuts jobs wallbox sales",
         "images": [
           {
-            "anchor": "Nova estrutura organizacional",
-            "query_en": "Canva office Sydney workspace"
+            "anchor": "Impactos na estrutura e no modelo de negócios",
+            "query_en": "Volkswagen electric vehicle charging wallbox Elli"
           },
           {
-            "anchor": "Mudanças no modelo de trabalho",
-            "query_en": "Modern office hybrid work meeting"
-          },
-          {
-            "anchor": "Suporte aos funcionários desligados",
-            "query_en": "Professional leaving office building"
-          },
-          {
-            "anchor": "O cenário no setor de tecnologia",
-            "query_en": "Tech company software development office"
+            "anchor": "Futuro incerto e possibilidade de venda",
+            "query_en": "Volkswagen headquarters building Wolfsburg"
           }
         ]
       }
     },
     {
-      "id": "b408079a-14af-4308-80b9-7b5440e4e0ca",
-      "title": "Funcionários da OpenAI alertaram sobre falhas de segurança operacional por anos, apontam fontes",
+      "id": "0d23e5bd-f4a4-4b2c-9f0c-a90ce87e5085",
+      "title": "Amazon traz de volta oferta popular com kit de quatro cabos USB-C por menos de sete euros",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon USB C cable bundle review Lisen",
+        "images": [
+          {
+            "anchor": "A nova oferta da Amazon para acessórios de carregamento",
+            "query_en": "Amazon warehouse logistics packaging boxes"
+          },
+          {
+            "anchor": "Detalhes do kit de cabos Lisen",
+            "query_en": "Lisen USB C cable pack white background"
+          },
+          {
+            "anchor": "O contexto das promoções de periféricos",
+            "query_en": "Online shopping cart smartphone screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd12fcd6-a405-4c50-bfdc-224d212ecd31",
+      "title": "Nokia prevê que inteligência artificial representará quase metade do tráfego de rede",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nokia Nvidia AI RAN network traffic",
+        "images": [
+          {
+            "anchor": "O impacto dos agentes autônomos",
+            "query_en": "autonomous AI agents data center network"
+          },
+          {
+            "anchor": "A parceria estratégica com a Nvidia",
+            "query_en": "Nokia Nvidia partnership hardware"
+          },
+          {
+            "anchor": "Mudanças na infraestrutura de rede",
+            "query_en": "AI-RAN telecommunications infrastructure tower"
+          },
+          {
+            "anchor": "Implementação de hardwares compatíveis com AI-RAN para processamento distribuído.",
+            "query_en": "AI-RAN telecommunication hardware rack"
+          }
+        ]
+      }
+    },
+    {
+      "id": "26817a4b-7264-4789-a75b-c42a972fd79e",
+      "title": "Gerente da AWS alerta sobre erro de pensamento no uso de inteligência artificial nas empresas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AWS manager artificial intelligence business strategy Nikkei Asia",
+        "images": [
+          {
+            "anchor": "O equívoco da economia pura",
+            "query_en": "business analytics office technology"
+          },
+          {
+            "anchor": "Estratégias para a geração de receita",
+            "query_en": "corporate strategy meeting artificial intelligence"
+          },
+          {
+            "anchor": "O futuro da tecnologia nas empresas",
+            "query_en": "cloud computing server room modern office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "810f8285-13c4-4839-ad97-4cbcc423d894",
+      "title": "Amazon oferece pacote promocional de tablet com teclado, caneta e mouse",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "tablet with keyboard stylus mouse unboxing review",
+        "images": [
+          {
+            "anchor": "Destaques de Hardware e Especificações",
+            "query_en": "tablet with keyboard and stylus pen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddc3ad45-199f-4198-bab9-8dbd04f7afb1",
+      "title": "Parlamentares da UE enfraquecem ainda mais o fim dos motores a combustão",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "EU combustion engine ban 2035 update",
+        "images": [
+          {
+            "anchor": "Novas classes de veículos propostas",
+            "query_en": "European Parliament building Brussels"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9429ded1-d6f2-4e84-8753-3692f51f4aaf",
+      "title": "Powerbank Cuktech com 150 W e display colorido entra em oferta na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cuktech 10 powerbank review 150W",
+        "images": [
+          {
+            "anchor": "Especificações técnicas e capacidade",
+            "query_en": "Cuktech powerbank display"
+          },
+          {
+            "anchor": "Capacidade de armazenamento de 10.000 mAh, ideal para recargas diárias de smartphones e outros eletrônicos compactos.",
+            "query_en": "portable powerbank charging smartphone"
+          },
+          {
+            "anchor": "Potência total combinada de até 150 W, permitindo o fornecimento rápido de energia para múltiplos dispositivos simultaneamente.",
+            "query_en": "fast charging powerbank multiple ports"
+          },
+          {
+            "anchor": "Presença de um display colorido integrado, que fornece informações detalhadas sobre o status de funcionamento, nível de bateria e distribuição de energia em tempo real.",
+            "query_en": "powerbank screen status display"
+          },
+          {
+            "anchor": "Disponibilidade e valores na plataforma",
+            "query_en": "Amazon package delivery box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b92c00d0-9901-4f33-b1da-02cd0c3a2012",
+      "title": "Desenvolvimento de aplicações desktop com Python e Qt em workshop",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Python and Qt desktop application workshop tutorial",
+        "images": [
+          {
+            "anchor": "O projeto prático: construindo um gerenciador de tarefas",
+            "query_en": "Python task manager desktop app GUI"
+          },
+          {
+            "anchor": "Vantagens da abordagem multiplataforma",
+            "query_en": "Qt framework cross platform user interface development"
+          },
+          {
+            "anchor": "Estruturação da interface gráfica do usuário com elementos visuais do Qt",
+            "query_en": "Qt Designer Python GUI widgets"
+          },
+          {
+            "anchor": "Conexão de botões e campos de texto com a lógica de gerenciamento de dados em Python",
+            "query_en": "Python source code editor programming"
+          },
+          {
+            "anchor": "Implementação de recursos para adicionar, listar e remover tarefas na aplicação",
+            "query_en": "To do list software user interface mockup"
+          },
+          {
+            "anchor": "Organização do código de forma limpa e modular para facilitar a manutenção",
+            "query_en": "Clean code software development architecture"
+          }
+        ]
+      }
+    },
+    {
+      "id": "673bac67-ab71-4847-8e72-4d949ba6918e",
+      "title": "Eleições de meio de mandato nos EUA sinalizam maior regulação para IA e data centers",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US midterm elections data center regulation AI oversight",
+        "images": [
+          {
+            "anchor": "O descontentamento local com os data centers",
+            "query_en": "modern data center building exterior infrastructure"
+          },
+          {
+            "anchor": "Impactos na indústria de inteligência artificial",
+            "query_en": "artificial intelligence server racks technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fdcbd4ac-dcc4-4b24-b18d-d172da1926a1",
+      "title": "Plano de data center da Amazon em Ohio enfrenta novos obstáculos após aprovação de proibição por eleitores",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon data center Ohio ban election",
+        "images": [
+          {
+            "anchor": "O impacto das eleições em Sunbury",
+            "query_en": "Ohio voting ballot election box"
+          },
+          {
+            "anchor": "Resistência à infraestrutura de IA",
+            "query_en": "data center building exterior architecture"
+          },
+          {
+            "anchor": "Desafios para a expansão tecnológica",
+            "query_en": "Amazon corporate office building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3538ad51-6a9f-4996-81d0-c61e9a67ce7d",
+      "title": "Frota da Waymo superlota carregadores em San Diego e gera tensão com donos de carros elétricos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Waymo San Diego autonomous taxi electric vehicles chargers",
+        "images": [
+          {
+            "anchor": "Chegada da Waymo a San Diego",
+            "query_en": "Waymo autonomous taxi San Diego California street"
+          },
+          {
+            "anchor": "Impacto na infraestrutura de recarga",
+            "query_en": "electric vehicle fast charging station public queue"
+          },
+          {
+            "anchor": "Reação política e pressão por supervisão",
+            "query_en": "San Diego city hall government building California"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9ede1a2-2c69-4f87-b4bf-435c27d4d6fa",
+      "title": "Ex-chefe de empacotamento da Intel, Navid Shahriari assume cargo de vice-presidente sênior na MediaTek",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "MediaTek semiconductor manufacturing and advanced packaging",
+        "images": [
+          {
+            "anchor": "Nova Estrutura e Liderança",
+            "query_en": "MediaTek corporate office building Taiwan"
+          },
+          {
+            "anchor": "Contexto da Indústria de Semicondutores",
+            "query_en": "advanced semiconductor packaging microprocessor chip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "790a0b08-ed65-4f77-afb6-a9c587625f18",
+      "title": "Dispositivos de armazenamento e NAS da TerraMaster entram em promoção com desconto de até 24%",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "TerraMaster NAS storage review",
+        "images": [
+          {
+            "anchor": "Descontos em armazenamento externo e NAS",
+            "query_en": "TerraMaster external storage enclosure NAS"
+          },
+          {
+            "anchor": "Opções para diferentes perfis de usuário",
+            "query_en": "TerraMaster 4 bay NAS enclosure"
+          },
+          {
+            "anchor": "Gabinetes externos para discos rígidos (HDD) com conexão direta via PC, ideais para expansão simples de capacidade e cópias de segurança locais.",
+            "query_en": "External hard drive enclosure for PC"
+          },
+          {
+            "anchor": "Gabinetes externos para unidades de estado sólido (SSD) de alta velocidade, voltados para quem precisa transferir grandes volumes de dados rapidamente.",
+            "query_en": "High speed external SSD enclosure"
+          },
+          {
+            "anchor": "Sistemas NAS (Network Attached Storage) de 4 baias voltados para uso mais robusto, permitindo a centralização e o compartilhamento seguro de arquivos em redes locais.",
+            "query_en": "Network attached storage 4 bay device"
+          },
+          {
+            "anchor": "Segurança e controle de dados locais",
+            "query_en": "Secure home server network storage"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b64f098-ccda-4043-bb8a-ff2ce51d1d3e",
+      "title": "Vazamento na Ryohin Keikaku: Acesso não autorizado pode ter exposto cerca de 1,09 milhão de dados de cartões MUJI Card e informações pessoais",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI security lapses and internal warnings investigation",
+        "video_query_en": "MUJI data breach security incident credit card leak",
         "images": [
           {
-            "anchor": "Mudança de estratégia e reações internas",
-            "query_en": "OpenAI office interior technology building"
+            "anchor": "Ampliação das investigações sobre o incidente na MUJI",
+            "query_en": "MUJI store exterior building Tokyo Japan"
           },
           {
-            "anchor": "O caso de espionagem e investigações",
-            "query_en": "US Department of Justice seal courtroom building"
+            "anchor": "Exposição de dados do MUJI Card e informações de cadastro",
+            "query_en": "credit card security payment data protection concept"
           },
           {
-            "anchor": "Contexto da indústria e cultura de pesquisa",
-            "query_en": "Artificial intelligence research laboratory computers"
+            "anchor": "- O vazamento potencial inclui os números em todos os dígitos dos cartões de crédito da marca própria MUJI Card, expondo diretamente dados de pagamento.",
+            "query_en": "credit card payment security online shopping risk"
+          },
+          {
+            "anchor": "- Informações de identificação pessoal, como nomes completos dos clientes cadastrados no sistema, também foram alcançadas pelo acesso externo.",
+            "query_en": "personal data security breach digital privacy concept"
+          },
+          {
+            "anchor": "- Dados residenciais, incluindo endereços postais dos usuários vinculados às contas do aplicativo e do programa de fidelidade, constam na lista de possíveis exposições.",
+            "query_en": "mobile application user data safety server protection"
+          },
+          {
+            "anchor": "- Registros gerais de membros do ecossistema digital da varejista completam o volume estimado de aproximadamente 1,09 milhão de itens afetados pela falha de segurança.",
+            "query_en": "cybersecurity audit data center server lights"
+          },
+          {
+            "anchor": "Contexto e próximos passos da empresa",
+            "query_en": "corporate IT security meeting risk management"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bf536f6-0e1c-4074-9d94-cb4ccca93343",
+      "title": "Google bloqueia fabricante após detecção de backdoors maliciosos em dispositivos Android",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Android backdoor discovered supply chain security Google",
+        "images": [
+          {
+            "anchor": "Detalhes da operação e escala do impacto",
+            "query_en": "Android smartphone security threat digital protection"
+          },
+          {
+            "anchor": "Ação enérgica e interrupção de parcerias",
+            "query_en": "Google headquarters office building California"
           }
         ]
       }
@@ -682,15 +737,57 @@
     },
     {
       "id": "83ef2711-669f-4579-b108-3fa22be4e457",
-      "title": "Battlestar Galactica’s Forgotten 19-Part Replacement Series Was Years Ahead Of Its Time",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "A série derivada Caprica, de Battlestar Galactica, chegou cedo demais e merecia mais atenção",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Caprica Battlestar Galactica prequel overview analysis",
+        "images": [
+          {
+            "anchor": "Uma abordagem única e distante de Battlestar Galactica",
+            "query_en": "Caprica TV series Cylon android"
+          },
+          {
+            "anchor": "Comparação entre as produções",
+            "query_en": "Battlestar Galactica spaceship model space battle"
+          },
+          {
+            "anchor": "Os obstáculos e o cancelamento prematuro",
+            "query_en": "Caprica tv show cast promotional photo"
+          },
+          {
+            "anchor": "Pioneirismo na ficção científica realista",
+            "query_en": "The Expanse tv series cast season promo"
+          }
+        ]
+      }
     },
     {
       "id": "446160be-a631-4844-bc07-4d6a4d571335",
-      "title": "Reacher Season 5 Has The Perfect Excuse To Bring Back A Missing Character",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "A 5ª temporada de Reacher tem o cenário perfeito para o retorno de Neagley",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Reacher season 5 Neagley return Chicago",
+        "images": [
+          {
+            "anchor": "O motivo da ausência de Neagley na 4ª temporada",
+            "query_en": "Maria Sten as Frances Neagley Reacher"
+          },
+          {
+            "anchor": "O enredo de Make Me e a conexão com Chicago",
+            "query_en": "Alan Ritchson Jack Reacher Season 5"
+          },
+          {
+            "anchor": "Como a participação pode acontecer",
+            "query_en": "Alan Ritchson and Maria Sten Reacher"
+          },
+          {
+            "anchor": "Histórico e recepção das temporadas",
+            "query_en": "Reacher season 4 cast action scene"
+          }
+        ]
+      }
     },
     {
       "id": "48097e4b-858d-4a4f-ae09-b6a4772d16c5",
