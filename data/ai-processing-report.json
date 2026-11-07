@@ -1,740 +1,809 @@
 {
-  "updated_at": "2026-11-06T18:06:50.912Z",
+  "updated_at": "2026-11-07T00:08:37.802Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "4e37bf3a-e34a-4f5e-a029-16d6d9392066",
-      "title": "‘Quiet crisis’: Government expert panel convenes to tackle population decline",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
-    },
-    {
-      "id": "a703917b-5ff8-4e5e-b55c-22e5d99a4bd8",
-      "title": "Terremoto de magnitude 6,1 atinge o litoral de Tóquio, mas sem alerta de tsunami",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan Meteorological Agency Tokyo earthquake report",
-        "images": [
-          {
-            "anchor": "O tremor na região de Kanto",
-            "query_en": "Tokyo coastline Japan Kanto region"
-          },
-          {
-            "anchor": "Características do abalo sísmico",
-            "query_en": "Japan Meteorological Agency website seismograph"
-          },
-          {
-            "anchor": "Situação de alerta e segurança",
-            "query_en": "Tokyo skyline emergency preparedness Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "81978aac-cb03-4948-9a24-a8e602163e5c",
-      "title": "China promulga lei para rastrear e capturar oficiais corruptos que fogem para o exterior",
+      "id": "5eca06ef-3038-4fdb-baaf-956ad0d70c61",
+      "title": "O avanço dos cruzeiros no Japão: da chegada da Disney a navios menores",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China anti corruption law fugitive officials overseas Xi Jinping",
+        "video_query_en": "Japan cruise ships tourism Disney Imagination Okinawa",
         "images": [
           {
-            "anchor": "O contexto da disciplina partidária",
-            "query_en": "Great Hall of the People Beijing guard soldier China politics"
+            "anchor": "O apetite das gigantes internacionais",
+            "query_en": "Royal Caribbean MSC Cruises ship terminal Okinawa"
           },
           {
-            "anchor": "Alvos principais da nova legislação",
-            "query_en": "Beijing government building official China politics"
+            "anchor": "Royal Caribbean Group",
+            "query_en": "Royal Caribbean cruise ship at sea"
+          },
+          {
+            "anchor": "MSC Cruises",
+            "query_en": "MSC Cruises modern ship"
+          },
+          {
+            "anchor": "Oriental Land",
+            "query_en": "Tokyo Disney Resort park Japan"
+          },
+          {
+            "anchor": "A retomada do setor e o contraste com o mercado doméstico",
+            "query_en": "cruise ship port Japan tourism"
           }
         ]
       }
     },
     {
-      "id": "72cd7120-3109-440c-8268-d894b1689586",
-      "title": "Impacto das eleições americanas de meio de mandato em data centers e investimentos japoneses nos EUA",
+      "id": "70bbc294-49b8-4012-a83e-a6556b962faf",
+      "title": "Donald Trump nomeia Stephen Miller como chefe de gabinete após derrota nas eleições de meio de mandato",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US midterms data centers Japanese investment",
+        "video_query_en": "Stephen Miller Donald Trump chief of staff",
         "images": [
           {
-            "anchor": "O impacto nas decisões políticas regionais",
-            "query_en": "Texas state capitol building Austin"
+            "anchor": "Uma nova liderança na Casa Branca",
+            "query_en": "Donald Trump Washington D.C."
           },
           {
-            "anchor": "Consequências para os investimentos do Japão",
-            "query_en": "Japanese corporate headquarters Tokyo business district"
+            "anchor": "Cenário político e desafios legislativos",
+            "query_en": "U.S. Capitol building Washington"
           },
           {
-            "anchor": "Honda",
-            "query_en": "Honda car manufacturing plant United States"
+            "anchor": "O perfil e a estratégia de governo",
+            "query_en": "Stephen Miller advisor"
           },
           {
-            "anchor": "Mitsubishi Heavy Industries",
-            "query_en": "Mitsubishi Heavy Industries industrial facility"
-          },
-          {
-            "anchor": "Nippon Steel",
-            "query_en": "Nippon Steel manufacturing mill"
-          },
-          {
-            "anchor": "O mercado financeiro e a cadeia de suprimentos da inteligência artificial",
-            "query_en": "New York Stock Exchange trading floor NASDAQ"
+            "anchor": "Conhecido por ser um defensor histórico de uma autoridade presidencial ampla e expansiva.",
+            "query_en": "White House West Wing Washington"
           }
         ]
       }
     },
     {
-      "id": "8a0ce36a-e0e0-41c0-a873-96401a712222",
-      "title": "Primeira-ministra do Japão, Sanae Takaichi, pressiona por leis de cibersegurança mais rigorosas após alta de ataques",
+      "id": "db4cee0b-d748-44ee-817a-f9337befe079",
+      "title": "Xi Jinping promove Zhang Shengmin ao Politburo para liderar reformulação militar na China",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xi Jinping military promotion Zhang Shengmin Politburo China",
+        "images": [
+          {
+            "anchor": "Reconstrução do comando militar chinês",
+            "query_en": "Chinese military leadership People's Liberation Army"
+          },
+          {
+            "anchor": "A ascensão de Zhang Shengmin",
+            "query_en": "Zhang Shengmin Chinese military official"
+          },
+          {
+            "anchor": "Preparativos para o centenário e o futuro das Forças Armadas",
+            "query_en": "Xi Jinping military parade China"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8b050167-1f91-47bc-af97-bc9877231d06",
+      "title": "Putin explora abertura diplomática de Takaichi com a tomada da Japan Tobacco",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan Russia relations Japan Tobacco Vladimir Putin Sanae Takaichi",
+        "images": [
+          {
+            "anchor": "O impacto nas relações bilaterais e a resposta de Tóquio",
+            "query_en": "Japanese Prime Minister Sanae Takaichi speech press conference"
+          },
+          {
+            "anchor": "Fatores que sustentam a pressão russa",
+            "query_en": "Vladimir Putin Russian flag official meeting Moscow"
+          },
+          {
+            "anchor": "O controle e a disputa territorial sobre ilhas na região que geram conflitos diplomáticos de longa data.",
+            "query_en": "Kuril Islands disputed territory landscape Russia Japan"
+          },
+          {
+            "anchor": "A imposição recente de sanções por parte do Japão voltada a conter a chamada \"frota sombra\" russa, realizada após viagens de cúpula.",
+            "query_en": "cargo ship container port Japan economy"
+          },
+          {
+            "anchor": "O alinhamento estratégico de Tóquio com aliados ocidentais e questões complexas que envolvem o Tribunal Penal Internacional.",
+            "query_en": "Tokyo cityscape government buildings Japan"
+          },
+          {
+            "anchor": "A dependência mútua em setores energéticos específicos que ainda sustentam o frágil canal de comunicação entre os dois governos.",
+            "query_en": "energy pipeline industrial facility Russia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2bc28d8-0801-4099-a503-949c8b39188f",
+      "title": "Rede japonesa de lojas de conveniência Lawson detalha estreia de sua primeira unidade em Mumbai",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lawson convenience store Japan business model",
+        "images": [
+          {
+            "anchor": "Estratégia de expansão inicial em Mumbai",
+            "query_en": "Mumbai commercial district skyline India"
+          },
+          {
+            "anchor": "O cenário pós-saída da 7-Eleven",
+            "query_en": "7-Eleven convenience store storefront"
+          },
+          {
+            "anchor": "Fatores que moldam o varejo asiático",
+            "query_en": "Lawson convenience store Tokyo Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb77da39-43d7-41d5-9873-7dc32433ea5f",
+      "title": "A nova geração de uísque do Japão e a busca pelo elixir de exportação",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japanese whisky distillery craft production Japan",
+        "images": [
+          {
+            "anchor": "A expansão das destilarias de uísque no Japão",
+            "query_en": "Japanese whisky barrels maturation cellar"
+          },
+          {
+            "anchor": "O movimento de cervejeiros rumo a novos mercados",
+            "query_en": "traditional Japanese sake brewery equipment"
+          },
+          {
+            "anchor": "Desafios de mercado e o fator maturação",
+            "query_en": "whisky bottles distillery tasting room Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "533fc81b-484a-4f89-a1bd-48a3b3d91870",
+      "title": "Empresas japonesas no fogo cruzado da tensão diplomática entre Pequim e Tóquio",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan China relations tensions Takaichi Taiwan business impact",
+        "images": [
+          {
+            "anchor": "O impacto nas relações comerciais e o papel das empresas",
+            "query_en": "Beijing Tokyo diplomatic relations trade tension"
+          },
+          {
+            "anchor": "Desafios globais e o reflexo em outros mercados",
+            "query_en": "Japan Tobacco corporate headquarters Tokyo"
+          },
+          {
+            "anchor": "Perspectivas para o mercado corporativo",
+            "query_en": "Japanese business executive corporate strategy Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d0c3d5cf-f6bb-4052-93a9-bb371d8a99cf",
+      "title": "EUA aplicam sanções ao Prince Group do Camboja devido a esquemas de golpes online",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan cybersecurity laws Sanae Takaichi artificial intelligence",
+        "video_query_en": "US sanctions Cambodia Prince Group online scams",
         "images": [
           {
-            "anchor": "O contexto do aumento de ataques e a reunião ministerial",
-            "query_en": "Japanese Prime Minister Sanae Takaichi cybersecurity meeting"
+            "anchor": "O alcance das novas sanções americanas",
+            "query_en": "US Department of the Treasury building Washington DC"
           },
           {
-            "anchor": "Parceria estratégica com empresas de inteligência artificial",
-            "query_en": "OpenAI Anthropic artificial intelligence office building"
-          },
-          {
-            "anchor": "Japão busca que empresas de tecnologia dos Estados Unidos compartilhem falhas de software ainda não divulgadas para mitigar riscos crescentes.",
-            "query_en": "cybersecurity server room digital technology"
-          },
-          {
-            "anchor": "A gigante de telecomunicação NTT foi acionada para auxiliar empresas japonesas a atualizarem infraestruturas de TI legadas e vulneráveis com o uso de inteligência artificial.",
-            "query_en": "NTT building Tokyo Japan telecommunications"
-          },
-          {
-            "anchor": "Bancos regionais do país formaram uma frente unida focada em cibersegurança para blindar o setor financeiro contra investidas coordenadas.",
-            "query_en": "Japanese regional bank building Tokyo"
-          },
-          {
-            "anchor": "Seguradoras não vitatais registraram uma disparidade e aumento expressivo nas consultas sobre seguros cibernéticos por parte do empresariado.",
-            "query_en": "cyber insurance security business meeting"
-          },
-          {
-            "anchor": "Falhas de segurança recentes no PHP forçaram o governo japonês a retirar sites oficiais do ar temporariamente, divergindo da postura dos Estados Unidos, que optaram por mantê-los funcionando.",
-            "query_en": "PHP programming code screen vulnerability"
-          },
-          {
-            "anchor": "Um ataque cibernético direcionado ao provedor de internet japonês GMO colocou em risco computadores de clientes e gerou alertas em toda a rede nacional.",
-            "query_en": "internet service provider server rack datacenter"
+            "anchor": "Resposta oficial e contexto regional",
+            "query_en": "Phnom Penh Cambodia cityscape and government buildings"
           }
         ]
       }
     },
     {
-      "id": "e685a588-5377-4b4f-ab4f-b3379ff3a8e9",
-      "title": "Aumento de até R$ 3.000 em celulares: marca nacional reajusta preços devido à crise de componentes",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "smartphone price increase memory crisis component cost",
-        "images": [
-          {
-            "anchor": "Motivos do reajuste e antecipação da medida",
-            "query_en": "smartphone component manufacturing factory memory chips"
-          },
-          {
-            "anchor": "Custos de memória e componentes em patamares elevados",
-            "query_en": "computer memory RAM chips electronics hardware"
-          },
-          {
-            "anchor": "Esgotamento antecipado dos estoques existentes",
-            "query_en": "smartphone boxes retail warehouse inventory"
-          },
-          {
-            "anchor": "Antecipação da revisão de preços planejada pela empresa",
-            "query_en": "mobile phone price tag shopping retail store"
-          },
-          {
-            "anchor": "Cenário de mercado e impacto no setor",
-            "query_en": "smartphone store retail shelves technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "22556edf-b0eb-4851-825a-661ba2d98db1",
-      "title": "Estratégias Opostas: Como Electronic Arts e Nintendo Lidam com Estúdios de Jogos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "electronic arts vs nintendo studio acquisition strategy gaming analysis",
-        "images": [
-          {
-            "anchor": "A Abordagem Corporativa da Electronic Arts",
-            "query_en": "electronic arts logo corporate office building"
-          },
-          {
-            "anchor": "A Política de Preservação e Parcerias da Nintendo",
-            "query_en": "nintendo headquarters tokyo japan"
-          },
-          {
-            "anchor": "O Impacto das Estratégias no Mercado de Games",
-            "query_en": "video game development studio office team working"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d5f4d708-08fe-4a91-b2c4-71982fc69c75",
-      "title": "Acessórios Portáteis para Smartphones em Oferta na Amazon",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "foldable keyboard and flat mouse for smartphone review",
-        "images": [
-          {
-            "anchor": "Ofertas em Destaque na Amazon",
-            "query_en": "foldable keyboard and flat mouse amazon"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6acce5bf-deba-4a5f-adcf-2af11c8f0895",
-      "title": "US-Rechenzentren unter Druck: Europas Chance auf KI-Milliarden",
+      "id": "0bd9e64a-a18f-4329-a60d-3f60ce7dacc7",
+      "title": "Seres e Li Auto se preparam para avançar no mercado europeu de veículos elétricos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "US data centers resistance Europe AI investments",
+        "video_query_en": "Chinese EV makers entering Europe Seres Li Auto Paris Motor Show",
         "images": [
           {
-            "anchor": "A resistência nos Estados Unidos",
-            "query_en": "protest against data center construction United States"
+            "anchor": "O cenário de expansão internacional",
+            "query_en": "Chinese electric vehicles displayed at European auto show"
           },
           {
-            "anchor": "O impacto nas investimentos e a alternativa europeia",
-            "query_en": "modern data center server room Europe"
+            "anchor": "Seres Group",
+            "query_en": "Seres Aito 9 electric SUV"
           },
           {
-            "anchor": "Os desafios locais",
-            "query_en": "electric power grid substation Europe"
+            "anchor": "Li Auto",
+            "query_en": "Li Auto electric vehicle"
+          },
+          {
+            "anchor": "BYD",
+            "query_en": "BYD electric vehicle global expansion"
+          },
+          {
+            "anchor": "Desafios globais e o mercado europeu",
+            "query_en": "Electric vehicles charging in European city"
           }
         ]
       }
     },
     {
-      "id": "246072ee-154a-4395-bbed-4e29fbe8f8e8",
-      "title": "Microsoft Surface Pro de 13 polegadas com desconto promocional na Amazon",
+      "id": "4393f23c-ce8a-45f8-9119-9111400f2370",
+      "title": "Carregador veicular com cabos retráteis é ofertado por 16 euros na Amazon",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft Surface Pro Snapdragon review",
+        "video_query_en": "Lisen car charger retractable cables review",
         "images": [
           {
-            "anchor": "Oferta e Disponibilidade",
-            "query_en": "Microsoft Surface Pro device displayed on a table"
+            "anchor": "Oferta especial na Amazon alemã",
+            "query_en": "Amazon website shopping on laptop screen"
+          },
+          {
+            "anchor": "Versatilidade para múltiplos dispositivos",
+            "query_en": "car charger plugged into cigarette lighter socket"
+          },
+          {
+            "anchor": "Sistema de cabos retráteis",
+            "query_en": "retractable cable car charger device"
           }
         ]
       }
     },
     {
-      "id": "d0418eea-90aa-43c1-812c-27055a2cbbd3",
-      "title": "US-Flughäfen verabschieden sich von jahrzehntealten 8-Zoll-Disketten",
+      "id": "d4f9d427-9e5d-40f0-b630-68f9dad4746c",
+      "title": "A explosão do KV cache em modelos de linguagem na nuvem e o futuro dos SSDs",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SSD demand cloud LLMs data center storage",
+        "images": [
+          {
+            "anchor": "O impacto da escassez de memória na demanda por SSDs",
+            "query_en": "data center server racks solid state drive"
+          },
+          {
+            "anchor": "As novas diretrizes para o desenvolvimento de SSDs",
+            "query_en": "enterprise datacenter solid state drive technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f6778847-4fc9-4373-889e-4c1e6defadd2",
+      "title": "Infineon aposta na escalabilidade do RISC-V com a nova plataforma AURIX RC1",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Infineon RISC V automotive MCU AURIX RC1",
+        "images": [
+          {
+            "anchor": "Uma única arquitetura para diversos usos",
+            "query_en": "Infineon microcontrollers automotive robotics technology"
+          },
+          {
+            "anchor": "Foco em longevidade e produção prolongada",
+            "query_en": "RISC V architecture semiconductor manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9368807-5cc0-4e95-887b-0c0cc7002fcd",
+      "title": "A febre de lançamento do iPhone Duo em Hong Kong e a rápida desvalorização do mercado de revenda",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo launch day Hong Kong market resale",
+        "images": [
+          {
+            "anchor": "A corrida para o \"prédio dos smartphones\" em Hong Kong",
+            "query_en": "Hong Kong shopping mall electronics crowd"
+          },
+          {
+            "anchor": "A queda abrupta nas cotações durante a tarde",
+            "query_en": "smartphone retail store counter Hong Kong"
+          },
+          {
+            "anchor": "O impacto no ecossistema de aquisição e operadoras",
+            "query_en": "Apple iPhone box retail display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "40f7b252-e197-4b7f-ba00-11ba67867c52",
+      "title": "GeForce RTX 5090 atinge o dobro da oferta inicial, mas preço dispara para 1,2 milhão de ienes em Akihabara",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "FAA replacing old floppy disk systems aviation technology",
+        "video_query_en": "GeForce RTX 5090 Akihabara price market demand",
         "images": [
           {
-            "anchor": "O peso da herança tecnológica na aviação",
-            "query_en": "vintage 8 inch floppy disk computer hardware"
+            "anchor": "O panorama atual da GeForce RTX 5090 no mercado de Akihabara",
+            "query_en": "GeForce RTX 5090 graphics card hardware"
           },
           {
-            "anchor": "Desafios da migração para sistemas modernos",
-            "query_en": "modern airport air traffic control center technology"
+            "anchor": "Fatores que sustentam a alta contínua da demanda",
+            "query_en": "Akihabara computer store electronics shopping"
           }
         ]
       }
     },
     {
-      "id": "93ed07c4-698b-493a-beb3-6e8db5a7f8a1",
-      "title": "SSD USB4 Sandisk Extreme Pro atinge alta velocidade e menor preço desde setembro",
-      "category": "Computadores",
+      "id": "bd96ee5e-d835-41ed-bc57-f2fff32265c3",
+      "title": "Como a freee superou o desafio de custo e velocidade em IA com o uso de SLMs",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SanDisk Extreme Pro USB4 SSD review speed test",
+        "video_query_en": "freee AI OCR small language models document processing",
         "images": [
           {
-            "anchor": "Desempenho e Velocidades de Transferência",
-            "query_en": "SanDisk Extreme Pro USB4 SSD plugged into laptop"
+            "anchor": "A transição estratégica para modelos de pequeno porte",
+            "query_en": "small language model enterprise architecture"
           },
           {
-            "anchor": "Disponibilidade e Ofertas Atuais",
-            "query_en": "Amazon package delivery storage device"
+            "anchor": "Adotar SLMs dedicados para a tarefa de OCR inteligente em substituição aos grandes modelos generalistas.",
+            "query_en": "optical character recognition document scanning software"
+          },
+          {
+            "anchor": "Processar uma base impressionante de aproximadamente um milhão de documentos contábeis mensalmente.",
+            "query_en": "accounting data processing server room"
+          },
+          {
+            "anchor": "Alcançar uma redução drástica nos custos operacionais de infraestrutura e consumo de API.",
+            "query_en": "cloud computing cost reduction analytics dashboard"
+          },
+          {
+            "anchor": "Elevar a precisão geral na extração de dados e campos específicos dos formulários digitalizados.",
+            "query_en": "data extraction form scanning technology"
+          },
+          {
+            "anchor": "Ganhos expressivos em precisão, velocidade e economia",
+            "query_en": "artificial intelligence speed performance metrics"
+          },
+          {
+            "anchor": "Aumentar a precisão na extração de itens em até 10 pontos percentuais em comparação com abordagens anteriores.",
+            "query_en": "document data accuracy chart analysis"
+          },
+          {
+            "anchor": "Multiplicar a velocidade de processamento dos documentos por um fator de cinco.",
+            "query_en": "fast data processing computer server"
+          },
+          {
+            "anchor": "Reduzir o custo operacional total para impressionantes um quinquagésimo do valor original gasto com LLMs genéricas.",
+            "query_en": "cost efficiency business graph growth"
+          },
+          {
+            "anchor": "O futuro da eficiência em inteligência artificial corporativa",
+            "query_en": "future corporate artificial intelligence innovation"
+          },
+          {
+            "anchor": "Superar gargalos financeiros que limitavam a adoção em larga escala de recursos de inteligência artificial.",
+            "query_en": "financial optimization business technology"
+          },
+          {
+            "anchor": "Consolidar novas metodologias de otimização de modelos menores para o mercado de softwares de gestão.",
+            "query_en": "software development engineering team working"
+          },
+          {
+            "anchor": "Servir como referência de boas práticas para empresas que lidam com grandes volúmens de dados não estruturados.",
+            "query_en": "big data management and analysis office"
           }
         ]
       }
     },
     {
-      "id": "09a6d888-6373-420d-a594-ff980c306129",
-      "title": "Ataque cibernético à Universidade Técnica de Munique afeta cerca de 60 mil pessoas",
-      "category": "Segurança",
+      "id": "867b5144-caf8-429d-ab63-0b46646ed5d9",
+      "title": "A Entrevista Coletiva de Desculpas da GMO e o Clima de Incompatibilidade de Governança",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "cyber attack Technical University of Munich TUMonline",
+        "video_query_en": "GMO internet group press conference apology security incident",
         "images": [
           {
-            "anchor": "O impacto nos dados institucionais e pessoais",
-            "query_en": "Technical University of Munich campus buildings"
+            "anchor": "A Exposição de Filosofias Corporativas em Momento de Crise",
+            "query_en": "corporate press conference apology business executives"
           },
           {
-            "anchor": "A vulnerabilidade em sistemas legados",
-            "query_en": "server room computer hardware security"
+            "anchor": "Repreensões Públicas a Funcionários no Palco",
+            "query_en": "business presentation stage corporate meeting"
           },
           {
-            "anchor": "Medidas de resposta e investigações",
-            "query_en": "cybersecurity data breach investigation"
+            "anchor": "O Impacto na Percepção do Mercado",
+            "query_en": "tokyo business district modern corporate office building"
           }
         ]
       }
     },
     {
-      "id": "71e8bde0-34bf-480f-9178-33559a272804",
-      "title": "Mindfactory sofre ataque cibernético e alerta clientes sobre vazamento de dados",
-      "category": "Segurança",
+      "id": "63552dbe-ab7f-4723-a4b7-5b865cc9efbd",
+      "title": "O que é o microSD Express, padrão escolhido para o Nintendo Switch 2, e como ele funciona",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Mindfactory cyber attack data breach news",
+        "video_query_en": "Nintendo Switch 2 microSD Express explanation performance",
         "images": [
           {
-            "anchor": "Alerta aos clientes da Mindfactory",
-            "query_en": "Mindfactory online store building logo"
+            "anchor": "A chegada do padrão microSD Express",
+            "query_en": "microSD Express memory card technology"
           },
           {
-            "anchor": "Dados potencialmente comprometidos",
-            "query_en": "cyber security data breach warning screen"
+            "anchor": "Iniciativas contra a revenda não oficial",
+            "query_en": "Nintendo Switch console hardware"
           },
           {
-            "anchor": "Recomendações e medidas de segurança",
-            "query_en": "person changing account password cybersecurity"
+            "anchor": "O que é e quais as expectativas para a tecnologia",
+            "query_en": "Nintendo Switch 2 announcement"
           }
         ]
       }
     },
     {
-      "id": "ad13353f-12c1-4fcb-8dc7-c1162f9717df",
-      "title": "Mini Powerbank da Iniu com 45 W e 10.000 mAh em oferta na Amazon",
+      "id": "5f2ec5a0-6975-45fb-9ea9-28025dd4dc42",
+      "title": "Apple Watch e Pixel Watch: as diferenças de uso no mercado japonês em destaque",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Iniu P50 45W 10000mAh powerbank review",
+        "video_query_en": "Apple Watch vs Pixel Watch review comparison",
         "images": [
           {
-            "anchor": "Especificações e Desempenho",
-            "query_en": "Iniu powerbank 45W 10000mAh specs"
+            "anchor": "O crescimento dos smartwatches no cotidiano",
+            "query_en": "smartwatch worn on wrist in everyday life"
           },
           {
-            "anchor": "Praticidade no Dia a Dia",
-            "query_en": "Iniu mini powerbank USB C cable"
+            "anchor": "A comparação entre Apple Watch e Pixel Watch",
+            "query_en": "Apple Watch and Pixel Watch side by side"
           }
         ]
       }
     },
     {
-      "id": "03f19535-3587-4529-85fb-36b618eed7d6",
-      "title": "Estrat©gias para a Cloud Transformation e Cria§£o de um Cloud Competence Center",
+      "id": "d433f722-8a76-4e56-ac3e-d87f53589c6f",
+      "title": "OpenAI e Anthropic lançam novas ferramentas de inteligência artificial voltadas para segurança cibernética, imagens e finanças",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "OpenAI Anthropic AI updates ChatGPT Claude 2026",
+        "images": [
+          {
+            "anchor": "GPT-6 Cyber: foco em segurança e acesso restrito",
+            "query_en": "OpenAI cybersecurity research data center technology"
+          },
+          {
+            "anchor": "ChatGPT Images 2.6 e novos recursos visuais",
+            "query_en": "ChatGPT AI image generator screen interface"
+          },
+          {
+            "anchor": "Integração financeira com o Claude e a parceria com a Plaid",
+            "query_en": "Anthropic Claude AI financial app interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e9005e6f-b0e0-4a24-820f-7480b3d1046b",
+      "title": "Amazon anuncia nova ferramenta de inteligência artificial para compras via mensagens de texto com a Alexa",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Alexa AI shopping text feature",
+        "images": [
+          {
+            "anchor": "Como funciona a nova Alexa por texto",
+            "query_en": "Amazon Alexa app shopping interface"
+          },
+          {
+            "anchor": "Recursos adicionais e integração externa",
+            "query_en": "Online shopping grocery basket ecommerce"
+          },
+          {
+            "anchor": "O cenário dos agentes de compras com IA",
+            "query_en": "Artificial intelligence digital shopping assistant"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab08b0ed-2670-4d43-99af-8248d07740a7",
+      "title": "Do You Speak Geek? Termos de tecnologia que resistiram ao tempo e aqueles que caíram em desuso",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "tech terms evolution vocabulary over time",
+        "images": [
+          {
+            "anchor": "Cinco termos de tecnologia que resistiram ao tempo",
+            "query_en": "smartphone selfie technology dictionary"
+          },
+          {
+            "anchor": "Termos tecnológicos que ficaram para trás",
+            "query_en": "virtual reality headset metaverse concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7f7e08ec-2fc7-434a-a216-4f208cf26268",
+      "title": "Tesla vai encerrar a produção do Cybertruck em 2027 para focar no Cybercab",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "cloud transformation competence center strategy governance",
+        "video_query_en": "Tesla Cybertruck production ending Cybercab Gigafactory Texas",
         "images": [
           {
-            "anchor": "O Papel do Cloud Competence Center",
-            "query_en": "cloud competence center business team meeting"
+            "anchor": "Uma despedida sem grandes saudades",
+            "query_en": "Tesla Cybertruck parked outside Gigafactory Texas"
           },
           {
-            "anchor": "Governança e Roadmap de Transforma§£o",
-            "query_en": "cloud computing roadmap strategy presentation"
+            "anchor": "A linha do tempo turbulenta da picape",
+            "query_en": "Tesla Cybertruck electric pickup truck design"
+          },
+          {
+            "anchor": "Impacto nas vendas e capacidade ociosa",
+            "query_en": "Tesla Gigafactory Texas exterior facility"
+          },
+          {
+            "anchor": "O futuro com o Cybercab e o robô Optimus",
+            "query_en": "Tesla Cybercab autonomous robotaxi unveiling"
           }
         ]
       }
     },
     {
-      "id": "49e08c62-7dc3-4770-8823-ad51617e6463",
-      "title": "Legisladores dos EUA pedem reunião com CEO da Nvidia, Jensen Huang, sobre ex-executiva da Megaspeed",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang US lawmakers briefing Megaspeed executive",
-        "images": [
-          {
-            "anchor": "O contexto das acusações e investigações",
-            "query_en": "Jensen Huang Nvidia CEO speaking at conference"
-          },
-          {
-            "anchor": "O desdobramento político e regulatório",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Três legisladores dos EUA lideram a iniciativa de fiscalização.",
-            "query_en": "US lawmakers meeting in committee room"
-          },
-          {
-            "anchor": "O CEO da Nvidia, Jensen Huang, foi convidado para uma reunião fechada.",
-            "query_en": "Jensen Huang portrait"
-          },
-          {
-            "anchor": "O foco central são as relações mantidas com Alice Huang, ex-executiva da Megaspeed.",
-            "query_en": "Megaspeed corporate office building"
-          },
-          {
-            "anchor": "Relatórios apontam suposto vazamento de inteligência para o governo chinês e laços estreitos.",
-            "query_en": "Cybersecurity intelligence data screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dc1f5300-3e74-4277-a09e-66d191e13f25",
-      "title": "O paradoxo dos semicondutores no Reino Unido: inovação de ponta e o desafio comercial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "UK semiconductor industry design and manufacturing challenges",
-        "images": [
-          {
-            "anchor": "O cenário atual da inovação britânica",
-            "query_en": "Advanced semiconductor chip design laboratory"
-          },
-          {
-            "anchor": "Os desafios de escala e mercado",
-            "query_en": "Modern semiconductor manufacturing cleanroom facility"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b00009dc-3e19-45bd-889a-dd68e91be21e",
-      "title": "Rohto Pharmaceutical sofre vazamento de dados de quase 2,8 milhões de pessoas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rohto Pharmaceutical data breach cybersecurity",
-        "images": [
-          {
-            "anchor": "Detalhes dos dados vazados e impacto financeiro",
-            "query_en": "cybersecurity data breach shield digital security"
-          },
-          {
-            "anchor": "Contexto e investigações contínuas",
-            "query_en": "server room database cybersecurity security operations center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "90d17f5d-839b-40ea-8549-09c512d4d873",
-      "title": "Sony anuncia fone com fio USB Type-C inspirado no design clássico do primeiro Walkman",
+      "id": "d4f0e606-aaa6-4ba5-989d-aaaa1c585f03",
+      "title": "Apple anuncia que já existem mais de 100 mil aplicativos criados para o iPhone Duo",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sony Walkman style USB Type C headphones MDR-3R",
+        "video_query_en": "Apple iPhone Duo apps review foldable screen",
         "images": [
           {
-            "anchor": "O Conceito e o Design Inspirados no Legado da Marca",
-            "query_en": "vintage Sony Walkman headphones retro design"
+            "anchor": "Declarações oficiais e mobilização de desenvolvedores",
+            "query_en": "Apple iPhone Duo inner screen display apps"
           },
           {
-            "anchor": "Conectividade Moderna com USB Type-C",
-            "query_en": "USB Type-C wired headphones connection"
+            "anchor": "Aplicativos de destaque e novas categorias",
+            "query_en": "iPhone Duo foldable screen software optimization"
           },
           {
-            "anchor": "Experiência de Uso e Posicionamento no Mercado",
-            "query_en": "person using wired headphones with smartphone"
+            "anchor": "Microsoft Word e Outlook foram ajustados para exibir interfaces semelhantes às suas versões de desktop.",
+            "query_en": "Microsoft Word app running on foldable phone"
+          },
+          {
+            "anchor": "Zoom transforma a tela interna em uma sala de conferência maior para videochamadas.",
+            "query_en": "Zoom app on foldable device inner display"
+          },
+          {
+            "anchor": "Aplicativos de esportes como NBA e NHL permitem acompanhar partidas ao vivo e melhores momentos na tela ampla.",
+            "query_en": "NBA app on foldable smartphone screen"
+          },
+          {
+            "anchor": "Etsy e LTK Creator exibem mais produtos simultaneamente nos feeds.",
+            "query_en": "Etsy app on foldable mobile display"
+          },
+          {
+            "anchor": "Goodnotes e Extra aproveitam o espaço extra de tela para tarefas de produtividade.",
+            "query_en": "Goodnotes app on foldable tablet phone"
+          },
+          {
+            "anchor": "Halide Mark III atua como um aplicativo de câmera profissional que se adapta a diferentes posições de uso.",
+            "query_en": "Halide camera app interface mobile"
+          },
+          {
+            "anchor": "Ferramentas de IA, produtividade e entretenimento",
+            "query_en": "ChatGPT app on foldable screen smartphone"
           }
         ]
       }
     },
     {
-      "id": "7ef35833-7caf-4419-ae3e-c29e65226531",
-      "title": "Resultados do segundo trimestre da Sega superam expectativas impulsionados por máquinas pachislot",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sega financial results pachislot gaming revenue",
-        "images": [
-          {
-            "anchor": "Desempenho financeiro geral e setorial",
-            "query_en": "Sega corporate headquarters Tokyo"
-          },
-          {
-            "anchor": "Análise do mercado de jogos e vendas de títulos",
-            "query_en": "Sega video games display lineup"
-          },
-          {
-            "anchor": "A estratégia transmedia e o ecossistema mobile",
-            "query_en": "Angry Birds Sonic merchandise Sega"
-          },
-          {
-            "anchor": "Expectativas e próximos lançamentos",
-            "query_en": "Persona game promotional art"
-          }
-        ]
-      }
-    },
-    {
-      "id": "34e1a5b9-5fdc-4902-a305-1203a05a58c5",
-      "title": "Movimentações no mercado de games: Nordisk Games, CD Projekt Red e mais",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nordisk Games executive appointment and gaming industry jobs news",
-        "images": [
-          {
-            "anchor": "Nordisk Games define nova liderança executiva",
-            "query_en": "Nordisk Games office Stockholm"
-          },
-          {
-            "anchor": "Game Events GmbH contrata novo chefe comercial",
-            "query_en": "Gamescom Dev event venue"
-          },
-          {
-            "anchor": "Ex-desenvolvedores da Warhorse Studios reforçam a CD Projekt Red",
-            "query_en": "CD Projekt Red studio Poland"
-          },
-          {
-            "anchor": "Novidades na Mandali Games",
-            "query_en": "Video game development office"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9e92ee3f-823f-47be-bede-0e29ef6ba221",
-      "title": "SAG-AFTRA lança acordo de games para facilitar contratação de atores em pitches",
+      "id": "89fde36c-5b98-43ac-820b-8a1d21bb123e",
+      "title": "Nacon Revolution 5 Unlimited: o melhor controle para PlayStation 5 e PC do mercado",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SAG AFTRA video game agreement pitch",
+        "video_query_en": "Nacon Revolution 5 Unlimited review",
         "images": [
           {
-            "anchor": "O novo Acordo de Mídia Interativa para Pitches",
-            "query_en": "SAG AFTRA video game voice actor recording studio"
+            "anchor": "Design e ergonomia",
+            "query_en": "Nacon Revolution 5 Unlimited controller grip design"
           },
           {
-            "anchor": "Regras e restrições de elegibilidade",
-            "query_en": "video game development pitch prototype screen"
+            "anchor": "Recursos e tela integrada",
+            "query_en": "Nacon Revolution 5 Unlimited onboard display screen"
           },
           {
-            "anchor": "Contexto de acordos anteriores e greves",
-            "query_en": "SAG AFTRA strike protest video game industry"
+            "anchor": "Desempenho em diferentes gêneros",
+            "query_en": "Nacon Revolution 5 Unlimited thumbsticks and buttons"
           }
         ]
       }
     },
     {
-      "id": "2f45ad7b-d2cc-4fb6-85ab-70cad78287ab",
-      "title": "Como as Eleições e as Mudanças Culturais Afetam o Futuro da Indústria de Jogos",
+      "id": "5cef35bc-c8fe-499c-bb68-641284e5d12f",
+      "title": "Nova coleção de produtos de O Conto de Natal dos Muppets esgota rapidamente na Disney Store",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "video games industry culture politics impact",
+        "video_query_en": "Muppets Christmas Carol Disney Store collection",
         "images": [
           {
-            "anchor": "O Impacto das Eleições na Cultura",
-            "query_en": "video game controllers on a table"
+            "anchor": "O sucesso antecipado da coleção temática",
+            "query_en": "Muppets Christmas Carol Disney Store merch"
           },
           {
-            "anchor": "Regulamentação Tecnológica e o Cenário Político",
-            "query_en": "modern data center server racks"
+            "anchor": "Itens já esgotados e a situação nos Estados Unidos",
+            "query_en": "Muppets Christmas Carol Disney holiday slippers"
           },
           {
-            "anchor": "Efeitos Práticos no Mercado de Games",
-            "query_en": "gamer playing video games in a room"
+            "anchor": "Bolsas Loungefly",
+            "query_en": "Muppets Christmas Carol Loungefly bag"
           },
           {
-            "anchor": "A Pressão na Bolha de Inteligência Artificial",
-            "query_en": "high end computer graphics card gpu"
+            "anchor": "Opções ainda disponíveis",
+            "query_en": "Muppets Christmas Carol plush toys Disney"
           },
           {
-            "anchor": "A Realidade Cultural e a Diversidade",
-            "query_en": "diverse group of people playing video games together"
+            "anchor": "Blusas de frio e vestuário",
+            "query_en": "Muppets Christmas Carol holiday jumper"
+          },
+          {
+            "anchor": "Brinquedos de pelúcia",
+            "query_en": "Muppets Christmas Carol plushies"
+          },
+          {
+            "anchor": "Itens decorativos natalinos",
+            "query_en": "Muppets Christmas Carol Christmas collection"
           }
         ]
       }
     },
     {
-      "id": "78e48f58-36b9-403d-895f-736c01deef92",
-      "title": "The Witcher 3 ganha novo modo de acessibilidade focado em pais cansados e jogadores com pouco tempo",
+      "id": "40466c56-2825-4340-9331-2199ec0d23c7",
+      "title": "Muitos desenvolvedores da Blizzard eram céticos sobre World of Warcraft: Forever até verem a nova Northshire Abbey",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The Witcher 3 accessibility mode Bards Ballad",
+        "video_query_en": "World of Warcraft Forever Northshire Abbey Blizzard interview",
         "images": [
           {
-            "anchor": "O conceito por trás de Bard's Ballad",
-            "query_en": "Karolina Nieweglowska CD Projekt Red"
+            "anchor": "O ceticismo inicial da equipe",
+            "query_en": "Blizzard Entertainment development team office meeting"
           },
           {
-            "anchor": "Alívio na gestão de inventário e equipamentos",
-            "query_en": "The Witcher 3 inventory management screen"
+            "anchor": "A conquista com a nova Northshire Abbey",
+            "query_en": "World of Warcraft Northshire Abbey zone"
           },
           {
-            "anchor": "Liberdade de escolha e opcionalidade",
-            "query_en": "The Witcher 3 Wild Hunt gameplay"
+            "anchor": "Entendendo as diferenças entre as ramificações de World of Warcraft",
+            "query_en": "World of Warcraft Classic 2004 game interface"
           },
           {
-            "anchor": "Jogadores que possuem apenas uma hora livre após uma jornada intensa de trabalho.",
-            "query_en": "Tired parent playing video games at night"
+            "anchor": "World of Warcraft: Forever permanece fixado permanentemente na Azeroth de 2004 e mantém o limite original de nível 60.",
+            "query_en": "World of Warcraft classic human starting zone"
           },
           {
-            "anchor": "Situações em que o usuário carrega o jogo e percebe que sua arma quebrou imediatamente.",
-            "query_en": "The Witcher 3 broken weapon UI"
+            "anchor": "O projeto adiciona novas masmorras e melhorias significativas de qualidade de vida que não existiam no jogo original.",
+            "query_en": "World of Warcraft dungeon game environment"
           },
           {
-            "anchor": "A necessidade de descobrir como substituir o equipamento e para onde ir para consertá-lo.",
-            "query_en": "The Witcher 3 crafting menu"
-          },
-          {
-            "anchor": "A complicação gerada por um inventário cheio, exigindo decisões sobre o que descartar, vender, desmontar ou guardar.",
-            "query_en": "The Witcher 3 items and inventory"
+            "anchor": "World of Warcraft: Classic continua em uma trilha paralela e separada, recebendo as mesmas atualizações e expansões sequenciais que foram lançadas historicamente após a estreia de 2004.",
+            "query_en": "World of Warcraft classic expansion gameplay"
           }
         ]
       }
     },
     {
-      "id": "9f2ea083-b4b8-4137-8b6d-6eba358ae1e7",
-      "title": "Quer aprender as músicas da ocarina de Link? A Nintendo liberou todas as partituras",
+      "id": "58deed2d-59c5-4877-be6a-d7225f225c4e",
+      "title": "Jogos clássicos de Grand Theft Auto entram em promoção histórica no Steam até o lançamento de GTA 6",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time music gameplay",
+        "video_query_en": "Grand Theft Auto Steam sale Definitive Edition GTA 6",
         "images": [
           {
-            "anchor": "As partituras oficiais de Ocarina of Time",
-            "query_en": "Link playing ocarina in Zelda Ocarina of Time"
+            "anchor": "Promoção no Steam e os títulos envolvidos",
+            "query_en": "Grand Theft Auto Steam sale"
           },
           {
-            "anchor": "Onde encontrar e como acessar o conteúdo",
-            "query_en": "Nintendo Switch 2 console"
+            "anchor": "A recepção mista de GTA 3 no PC",
+            "query_en": "Grand Theft Auto III PC version gameplay"
           },
           {
-            "anchor": "Recursos interativos e digitação",
-            "query_en": "ceramic ocarina musical instrument"
+            "anchor": "Grand Theft Auto: The Definitive Edition Trilogy (incluindo Grand Theft Auto: San Andreas, Grand Theft Auto: Vice City e Grand Theft Auto III) por US$ 19,79, com um desconto de 67%.",
+            "query_en": "Grand Theft Auto The Definitive Edition Trilogy box art"
           },
           {
-            "anchor": "O cenário dos instrumentos oficiais",
-            "query_en": "HORI electric ocarina Nintendo"
+            "anchor": "Grand Theft Auto IV: The Complete Edition por US$ 5,99, com um abatimento de 70%.",
+            "query_en": "Grand Theft Auto IV Complete Edition gameplay"
+          },
+          {
+            "anchor": "Os bastidores do desenvolvimento e polêmicas com a Grove Street Games",
+            "query_en": "Grove Street Games logo office"
           }
         ]
       }
     },
     {
-      "id": "de536530-1256-4af0-8502-e37315a264cb",
-      "title": "Marvel Cosmic Invasion ganha detalhes do novo modo DLC Castle Doom",
+      "id": "535120e0-b2f0-48ac-b0e6-a3bac6bb0c88",
+      "title": "Político canadense critica a EA e pede apoio federal para salvar a BioWare",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Marvel Cosmic Invasion Castle Doom DLC gameplay",
+        "video_query_en": "BioWare EA Mass Effect closure Canadian politician petition",
         "images": [
           {
-            "anchor": "Detalhes da transmissão e jogabilidade",
-            "query_en": "Marvel Cosmic Invasion game Sue Storm"
+            "anchor": "O impacto da petição oficial no Canadá",
+            "query_en": "Canadian Parliament House of Commons Ottawa"
           },
           {
-            "anchor": "Principais recursos do modo roguelike",
-            "query_en": "Doctor Doom Castle Doom Marvel Cosmic Invasion"
+            "anchor": "O apoio político de Don Davies",
+            "query_en": "Don Davies Canadian politician"
           },
           {
-            "anchor": "Contexto de lançamento e expectativas",
-            "query_en": "Dotemu Marvel Cosmic Invasion Nintendo Switch"
+            "anchor": "Desafios e perspectivas futuras",
+            "query_en": "BioWare Edmonton studio building sign"
           }
         ]
       }
     },
     {
-      "id": "61483968-3d86-495c-9f52-80788fc07ff0",
-      "title": "Jardim Inteligente de Parede da Modern Sprout: Análise Completa da Growframe",
-      "category": "Computadores",
+      "id": "cfcf36f7-99dc-44e5-99e6-142cec61015b",
+      "title": "Modo PvE permanente em Arc Raiders pode ser fácil de implementar, aponta CEO da Embark",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Modern Sprout Growframe review smart indoor garden",
+        "video_query_en": "Arc Raiders gameplay PvE mode Embark Studios interview",
         "images": [
           {
-            "anchor": "Smart Landscape Growframe",
-            "query_en": "Modern Sprout Smart Landscape Growframe wall mounted planter"
+            "anchor": "O impacto dos testes de PvE e a recepção da comunidade",
+            "query_en": "Arc Raiders game concept art and environment"
           },
           {
-            "anchor": "Ferramentas Essenciais de Cuidado",
-            "query_en": "Modern Sprout pruning shears and plant care tools"
+            "anchor": "A facilidade técnica e a visão criativa da desenvolvedora",
+            "query_en": "Embark Studios developers working on video game"
           },
           {
-            "anchor": "Tesouras de Poda",
-            "query_en": "Modern Sprout metal pruning shears gardening"
-          },
-          {
-            "anchor": "Regador de Vidro",
-            "query_en": "Modern Sprout glass watering can for houseplants"
-          },
-          {
-            "anchor": "Folhas de Adubo Dissolvíveis",
-            "query_en": "Modern Sprout dissolving plant food sheets seaweed fertilizer"
-          },
-          {
-            "anchor": "Conclusão e Veredito",
-            "query_en": "Modern Sprout indoor garden herbs setup wall display"
+            "anchor": "O futuro de Arc Raiders e a escolha dos jogadores",
+            "query_en": "Arc Raiders action shooter gameplay"
           }
         ]
       }
     },
     {
-      "id": "ed485b27-2eae-4302-b4cd-14e096ae8907",
-      "title": "Apple libera iOS 27.2 com correções para centenas de falhas de segurança e bugs",
-      "category": "Smartphones",
+      "id": "02d25e28-14e6-4ab3-a990-e6d37a1b9569",
+      "title": "Roteirista de Dragon Age, KOTOR e Baldur's Gate colabora no RPG The Expanse: Osiris Reborn",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iOS 27.2 update features and security bug fixes",
+        "video_query_en": "The Expanse Osiris Reborn RPG gameplay trailer overview",
         "images": [
           {
-            "anchor": "Detalhes das correções de segurança",
-            "query_en": "Apple iPhone settings software update screen"
+            "anchor": "A chegada de um veterano a The Expanse: Osiris Reborn",
+            "query_en": "Owlcat Games logo development studio"
           },
           {
-            "anchor": "Riscos graves evitados pelo novo patch",
-            "query_en": "iPhone security warning data protection lock"
+            "anchor": "Uma paixão antiga pela franquia",
+            "query_en": "David Gaider game writer portrait"
           },
           {
-            "anchor": "Comparativo com atualizações anteriores e menções à inteligência artificial",
-            "query_en": "Apple iPhone iOS software development code"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a275ea43-71d7-4bff-9f6c-aa217a8328be",
-      "title": "Como desativar os recursos do Apple Intelligence no iOS 27 e versões anteriores",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "how to turn off apple intelligence ios settings guide",
-        "images": [
-          {
-            "anchor": "O fim do botão mestre e o novo cenário no iOS 27",
-            "query_en": "iphone settings menu ios screen"
+            "anchor": "Semelhanças com clássicos e o histórico da Owlcat",
+            "query_en": "The Expanse Osiris Reborn sci-fi RPG concept art"
           },
           {
-            "anchor": "Como desativar a Siri e os recursos básicos",
-            "query_en": "iphone siri settings menu"
-          },
-          {
-            "anchor": "O papel do Tempo de Uso no controle da inteligência artificial",
-            "query_en": "apple screen time content privacy restrictions"
-          },
-          {
-            "anchor": "Como desativar o Apple Intelligence em versões anteriores (iOS 26 ou anterior)",
-            "query_en": "apple intelligence toggle settings"
-          },
-          {
-            "anchor": "O impacto no armazenamento e a compatibilidade dos dispositivos",
-            "query_en": "iphone storage settings menu"
+            "anchor": "Próximos passos e expectativas de lançamento",
+            "query_en": "Sci-fi RPG spaceship interior concept art"
           }
         ]
       }
@@ -789,15 +858,49 @@
     },
     {
       "id": "6186ae8b-9e43-4a04-bd6e-387264c7b107",
-      "title": "It's Official: A Knight Of The Seven Kingdoms Returns Winter 2026",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "A Knight of the Seven Kingdoms ganha coleção de cards para o inverno de 2026",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "A Knight of the Seven Kingdoms HBO series trailer and updates",
+        "images": [
+          {
+            "anchor": "A diferencial da produção e o sucesso inicial",
+            "query_en": "A Knight of the Seven Kingdoms HBO show scene"
+          },
+          {
+            "anchor": "A nova coleção de trading cards para o Inverno de 2026",
+            "query_en": "fantasy trading cards collection tabletop"
+          },
+          {
+            "anchor": "O padrão de lançamentos da Rittenhouse Archives",
+            "query_en": "Rittenhouse Archives trading cards display"
+          },
+          {
+            "anchor": "O futuro da série na televisão",
+            "query_en": "Peter Claffey as Ser Duncan A Knight of the Seven Kingdoms"
+          }
+        ]
+      }
     },
     {
       "id": "17399e31-7b4a-4bc3-9688-e918bc28f331",
-      "title": "47 Years Later, The Alien Franchise Gets Its Most Brutal Upgrade Yet",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comics"
+      "title": "47 Anos Depois, a Franquia Alien Recebe sua Atualização Mais Brutal em Novo Crossover com os X-Men",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Alien vs X Men Marvel comic review analysis",
+        "images": [
+          {
+            "anchor": "As Garras de Wolverine e o Fator de Cura",
+            "query_en": "Wolverine claws comic book art"
+          },
+          {
+            "anchor": "A Nova Rainha Branca Inspirada em Emma Frost",
+            "query_en": "Emma Frost diamond form Marvel comics"
+          }
+        ]
+      }
     }
   ]
 }
