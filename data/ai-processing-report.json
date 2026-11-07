@@ -1,620 +1,740 @@
 {
-  "updated_at": "2026-11-06T11:04:19.621Z",
+  "updated_at": "2026-11-06T18:06:50.912Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "2f4b3818-e187-422e-be7b-91c9a846af5f",
-      "title": "WTA takes blame after broadcasting Jessica Pegula comments about Mirra Andreeva",
+      "id": "4e37bf3a-e34a-4f5e-a029-16d6d9392066",
+      "title": "‘Quiet crisis’: Government expert panel convenes to tackle population decline",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
     },
     {
-      "id": "32721df2-055a-4206-a0ef-c362a6654b69",
-      "title": "Diretor de centro de reabilitação no Japão é acusado de desviar 110 milhões de ienes",
-      "category": "Empresas",
+      "id": "a703917b-5ff8-4e5e-b55c-22e5d99a4bd8",
+      "title": "Terremoto de magnitude 6,1 atinge o litoral de Tóquio, mas sem alerta de tsunami",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan tax office investigation news",
+        "video_query_en": "Japan Meteorological Agency Tokyo earthquake report",
         "images": [
           {
-            "anchor": "O caso de desvio em Yamanashi",
-            "query_en": "Yamanashi Prefecture landscape Japan"
+            "anchor": "O tremor na região de Kanto",
+            "query_en": "Tokyo coastline Japan Kanto region"
           },
           {
-            "anchor": "Intervenção da Receita e autuação fiscal",
-            "query_en": "Tokyo Regional Taxation Bureau building"
+            "anchor": "Características do abalo sísmico",
+            "query_en": "Japan Meteorological Agency website seismograph"
           },
           {
-            "anchor": "Ocorrência de desvio estimada em aproximadamente 110 milhões de ienes.",
-            "query_en": "Japanese yen currency bills"
+            "anchor": "Situação de alerta e segurança",
+            "query_en": "Tokyo skyline emergency preparedness Japan"
           }
         ]
       }
     },
     {
-      "id": "06b9dfd9-a8a6-4631-b2bd-11bae5c193f7",
-      "title": "Kozo Tashima looking to bring ‘integrity’ to FIFA with run for president",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
+      "id": "81978aac-cb03-4948-9a24-a8e602163e5c",
+      "title": "China promulga lei para rastrear e capturar oficiais corruptos que fogem para o exterior",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "China anti corruption law fugitive officials overseas Xi Jinping",
+        "images": [
+          {
+            "anchor": "O contexto da disciplina partidária",
+            "query_en": "Great Hall of the People Beijing guard soldier China politics"
+          },
+          {
+            "anchor": "Alvos principais da nova legislação",
+            "query_en": "Beijing government building official China politics"
+          }
+        ]
+      }
     },
     {
-      "id": "991b87ed-4eec-480b-9c3b-099c8ed5cfa6",
-      "title": "Fundos roubados da Binance são direcionados a redes de lavagem de dinheiro na China",
+      "id": "72cd7120-3109-440c-8268-d894b1689586",
+      "title": "Impacto das eleições americanas de meio de mandato em data centers e investimentos japoneses nos EUA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US midterms data centers Japanese investment",
+        "images": [
+          {
+            "anchor": "O impacto nas decisões políticas regionais",
+            "query_en": "Texas state capitol building Austin"
+          },
+          {
+            "anchor": "Consequências para os investimentos do Japão",
+            "query_en": "Japanese corporate headquarters Tokyo business district"
+          },
+          {
+            "anchor": "Honda",
+            "query_en": "Honda car manufacturing plant United States"
+          },
+          {
+            "anchor": "Mitsubishi Heavy Industries",
+            "query_en": "Mitsubishi Heavy Industries industrial facility"
+          },
+          {
+            "anchor": "Nippon Steel",
+            "query_en": "Nippon Steel manufacturing mill"
+          },
+          {
+            "anchor": "O mercado financeiro e a cadeia de suprimentos da inteligência artificial",
+            "query_en": "New York Stock Exchange trading floor NASDAQ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8a0ce36a-e0e0-41c0-a873-96401a712222",
+      "title": "Primeira-ministra do Japão, Sanae Takaichi, pressiona por leis de cibersegurança mais rigorosas após alta de ataques",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Binance hack Chainalysis money laundering China",
+        "video_query_en": "Japan cybersecurity laws Sanae Takaichi artificial intelligence",
         "images": [
           {
-            "anchor": "A movimentação dos fundos ilícitos",
-            "query_en": "Chainalysis blockchain analytics software data"
+            "anchor": "O contexto do aumento de ataques e a reunião ministerial",
+            "query_en": "Japanese Prime Minister Sanae Takaichi cybersecurity meeting"
           },
           {
-            "anchor": "Conexões com métodos anteriores e conversão em dinheiro",
-            "query_en": "Cryptocurrency trading desks and digital wallets"
+            "anchor": "Parceria estratégica com empresas de inteligência artificial",
+            "query_en": "OpenAI Anthropic artificial intelligence office building"
+          },
+          {
+            "anchor": "Japão busca que empresas de tecnologia dos Estados Unidos compartilhem falhas de software ainda não divulgadas para mitigar riscos crescentes.",
+            "query_en": "cybersecurity server room digital technology"
+          },
+          {
+            "anchor": "A gigante de telecomunicação NTT foi acionada para auxiliar empresas japonesas a atualizarem infraestruturas de TI legadas e vulneráveis com o uso de inteligência artificial.",
+            "query_en": "NTT building Tokyo Japan telecommunications"
+          },
+          {
+            "anchor": "Bancos regionais do país formaram uma frente unida focada em cibersegurança para blindar o setor financeiro contra investidas coordenadas.",
+            "query_en": "Japanese regional bank building Tokyo"
+          },
+          {
+            "anchor": "Seguradoras não vitatais registraram uma disparidade e aumento expressivo nas consultas sobre seguros cibernéticos por parte do empresariado.",
+            "query_en": "cyber insurance security business meeting"
+          },
+          {
+            "anchor": "Falhas de segurança recentes no PHP forçaram o governo japonês a retirar sites oficiais do ar temporariamente, divergindo da postura dos Estados Unidos, que optaram por mantê-los funcionando.",
+            "query_en": "PHP programming code screen vulnerability"
+          },
+          {
+            "anchor": "Um ataque cibernético direcionado ao provedor de internet japonês GMO colocou em risco computadores de clientes e gerou alertas em toda a rede nacional.",
+            "query_en": "internet service provider server rack datacenter"
           }
         ]
       }
     },
     {
-      "id": "a71082ad-39c6-47da-8908-5acd5310fd16",
-      "title": "Sumo set to end 2026 on high note as stars align ahead of Kyushu basho",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "46b2c632-c1c8-491f-b8f9-9e6d798ed9b3",
-      "title": "Conselho de Políticas de Okinawa se reúne pela primeira vez em 13 anos",
-      "category": "Empresas",
+      "id": "e685a588-5377-4b4f-ab4f-b3379ff3a8e9",
+      "title": "Aumento de até R$ 3.000 em celulares: marca nacional reajusta preços devido à crise de componentes",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Okinawa Policy Council meeting Japan Prime Minister Sanae Takaichi",
+        "video_query_en": "smartphone price increase memory crisis component cost",
         "images": [
           {
-            "anchor": "Retomada do diálogo institucional",
-            "query_en": "Prime Minister Office Tokyo Japan politics"
+            "anchor": "Motivos do reajuste e antecipação da medida",
+            "query_en": "smartphone component manufacturing factory memory chips"
           },
           {
-            "anchor": "Participação de lideranças e promessas de redução de encargos",
-            "query_en": "Sanae Takaichi Prime Minister of Japan"
+            "anchor": "Custos de memória e componentes em patamares elevados",
+            "query_en": "computer memory RAM chips electronics hardware"
+          },
+          {
+            "anchor": "Esgotamento antecipado dos estoques existentes",
+            "query_en": "smartphone boxes retail warehouse inventory"
+          },
+          {
+            "anchor": "Antecipação da revisão de preços planejada pela empresa",
+            "query_en": "mobile phone price tag shopping retail store"
+          },
+          {
+            "anchor": "Cenário de mercado e impacto no setor",
+            "query_en": "smartphone store retail shelves technology"
           }
         ]
       }
     },
     {
-      "id": "5eb0b4a9-4535-46d8-8e2e-c7ec0e9c0ed2",
-      "title": "Chubu Electric recebe ordem de melhoria de negócios após escândalo de dados",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Chubu Electric Power nuclear safety data scandal",
-        "images": [
-          {
-            "anchor": "## O Escândalo de Manipulação de Dados",
-            "query_en": "Chubu Electric Power building headquarters Japan"
-          },
-          {
-            "anchor": "## Histórico e Sanções Anteriores",
-            "query_en": "Japanese nuclear power plant cooling towers"
-          },
-          {
-            "anchor": "## Exigências do Governo e Prazos",
-            "query_en": "Ministry of Economy Trade and Industry Japan building"
-          },
-          {
-            "anchor": "- Apresentação de um plano de melhoria abrangente até o final do mês corrente.",
-            "query_en": "business improvement order document meeting Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5773337a-c714-4d22-b0fa-ed0fd6bb257d",
-      "title": "Russell Brand é considerado culpado de estupro e três agressões sexuais",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Russell Brand guilty court case news",
-        "images": [
-          {
-            "anchor": "Novas acusações e desdobramentos",
-            "query_en": "Russell Brand court legal proceedings"
-          },
-          {
-            "anchor": "Contexto das investigações",
-            "query_en": "British courthouse criminal investigation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3c3072aa-5b81-4cf8-be88-54ebc5546fe2",
-      "title": "Ex-primeiro-ministro da Malásia, Najib Razak, paga multa milionária para cumprir pena em prisão domiciliar",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Najib Razak house arrest 1MDB fine Malaysia",
-        "images": [
-          {
-            "anchor": "O pagamento da multa e a transição para a prisão domiciliar",
-            "query_en": "Kuala Lumpur High Court building"
-          },
-          {
-            "anchor": "Contexto da condenação e o escândalo da 1MDB",
-            "query_en": "Najib Razak Malaysia Prime Minister"
-          },
-          {
-            "anchor": "O perdão real e os próximos passos",
-            "query_en": "Sultan Ibrahim of Johor Malaysia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f7359a43-6865-4f70-a888-eb8b6eb942ec",
-      "title": "Governo de Sanae Takaichi anuncia pacote de emergência em cibersegurança no Japão",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan cyber defense package Sanae Takaichi cybersecurity",
-        "images": [
-          {
-            "anchor": "O cenário de vulnerabilidade cibernética",
-            "query_en": "Cybersecurity defense operations screens and technology"
-          },
-          {
-            "anchor": "Novas equipes de especialistas e suporte empresarial",
-            "query_en": "Cybersecurity experts team working in modern operations center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "79188317-e0d9-432b-b031-f57326fb092b",
-      "title": "Don Quijote revitaliza a Toys R Us no Japão com triplicação do catálogo e novas áreas de experiência",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Toys R Us Japan Don Quijote store tour",
-        "images": [
-          {
-            "anchor": "Estratégia de expansão de portfólio",
-            "query_en": "Toys R Us store interior shelves Japan"
-          },
-          {
-            "anchor": "Foco em experiências dentro das lojas",
-            "query_en": "Toys R Us store in-store play area"
-          },
-          {
-            "anchor": "O contexto do mercado de brinquedos no Japão",
-            "query_en": "Don Quijote retail store entrance Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bac5e8b5-db95-4a7e-be18-de3a8885b2f3",
-      "title": "Hong Kong's Joshua Wong sentence sparks war of words with US, Europe",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Politica"
-    },
-    {
-      "id": "c39b108b-6c1f-435b-9505-d8e4a3c9e30c",
-      "title": "Produtor malaio de óleo de palma aposta em energia solar para garantir receita estável",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Malaysian palm oil solar energy plantation IOI Group",
-        "images": [
-          {
-            "anchor": "Uma nova estratégia para o setor de óleo de palma",
-            "query_en": "Malaysia palm oil plantation aerial view"
-          },
-          {
-            "anchor": "O perfil e a escala das operações na Malásia",
-            "query_en": "oil palm plantation worker Malaysia"
-          },
-          {
-            "anchor": "Benefícios operacionais e o mercado de energias renováveis",
-            "query_en": "solar panels installed on agricultural land"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5a99646b-d600-41f8-8559-71f10cdb1afc",
-      "title": "Bancos de Singapura enfrentam dificuldades com rendimentos de títulos e volatilidade nas taxas de juros",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Singapore banks interest rates bond yields market impact",
-        "images": [
-          {
-            "anchor": "O impacto nos resultados do terceiro trimestre",
-            "query_en": "Singapore financial district skyscrapers banking architecture"
-          },
-          {
-            "anchor": "OCBC",
-            "query_en": "OCBC bank building Singapore exterior"
-          },
-          {
-            "anchor": "DBS",
-            "query_en": "DBS bank logo and branch Singapore"
-          },
-          {
-            "anchor": "UOB",
-            "query_en": "UOB Plaza Singapore building architecture"
-          },
-          {
-            "anchor": "O pessimismo dos investidores e o cenário de mercado",
-            "query_en": "Stock market trading floor screens finance graphs"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6927301b-0cc0-4626-ba3c-2a394437adfa",
-      "title": "Editor's Choice: US anti-data center sentiment spreads, hitting Asian markets",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
-    },
-    {
-      "id": "a9a8d0bd-7db7-4627-8a4d-861aa4c5fb34",
-      "title": "Grab vai reduzir taxa máxima em corridas no Vietnã de 40% para 32%",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grab ride hailing Vietnam commission cut",
-        "images": [
-          {
-            "anchor": "O contexto dos protestos e a regulação de mercado",
-            "query_en": "Grab driver protest Ho Chi Minh City Vietnam"
-          },
-          {
-            "anchor": "Impactos financeiros e o cenário regional",
-            "query_en": "Grab app smartphone transportation Southeast Asia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4c9c6927-1b62-40e8-8ea0-a54b132cc170",
-      "title": "A detenção de um jornalista japonês na Rússia e o silêncio de Tóquio",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan journalist arrested Russia diplomatic response",
-        "images": [
-          {
-            "anchor": "O contraste na diplomacia internacional",
-            "query_en": "Moscow Lefortovo Prison exterior"
-          },
-          {
-            "anchor": "A urgência de uma voz ativa",
-            "query_en": "Japanese Prime Minister office press conference Tokyo"
-          }
-        ]
-      }
-    },
-    {
-      "id": "43bbc1dc-4fb0-4c67-8ac4-e0af5dc3548f",
-      "title": "Mercados acionários de Taiwan, Coreia do Sul e Japão sofrem forte impacto com onda de vendas no setor de IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Asian stock markets drop AI sell off US midterms",
-        "images": [
-          {
-            "anchor": "Impacto nos mercados asiáticos e medidas de contenção",
-            "query_en": "Korean stock market trading floor KOSPI decline"
-          },
-          {
-            "anchor": "O contexto político americano e o temor regulatório",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Preocupações com a infraestrutura de dados",
-            "query_en": "Modern data center servers technology facility"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b761ee11-2611-4f53-8907-cd9375943fb7",
-      "title": "Ativista Au Kam-san é condenado a 12 anos e meio de prisão no primeiro caso de segurança nacional em Macau",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Au Kam-san Macao national security case trial",
-        "images": [
-          {
-            "anchor": "O Julgamento Histórico em Macau",
-            "query_en": "Macao court building exterior"
-          },
-          {
-            "anchor": "A Repercussão Familiar",
-            "query_en": "Au Kam san pro democracy activist Macao"
-          },
-          {
-            "anchor": "Contexto Político na Região",
-            "query_en": "Macao cityscape skyline"
-          }
-        ]
-      }
-    },
-    {
-      "id": "975d1ed2-d320-4b71-aeb1-b28b09687605",
-      "title": "Hanwha Vision obtém certificação SOC 2 Type 2 para seus serviços em nuvem",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Vision cloud services SOC 2 audit",
-        "images": [
-          {
-            "anchor": "O avanço na segurança em nuvem",
-            "query_en": "Hanwha Vision cloud security surveillance"
-          },
-          {
-            "anchor": "Entendendo a norma SOC 2",
-            "query_en": "SOC 2 Type 2 audit compliance data security"
-          }
-        ]
-      }
-    },
-    {
-      "id": "378e6cc3-1fb9-45d4-8959-83919134a3f6",
-      "title": "Ferramenta WorkBuddy, da Tencent, pode transferir prompts de IA de usuários sul-coreanos para a China",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tencent AI WorkBuddy privacy data transfer China",
-        "images": [
-          {
-            "anchor": "Dados afetados pela transferência",
-            "query_en": "Tencent artificial intelligence software interface"
-          },
-          {
-            "anchor": "Informações de conta e detalhes de autenticação necessários para o acesso à ferramenta.",
-            "query_en": "user account security login screen"
-          },
-          {
-            "anchor": "Dados detalhados de pagamento utilizados para transações financeiras na plataforma.",
-            "query_en": "digital payment credit card transaction online"
-          },
-          {
-            "anchor": "Prompts de inteligência artificial digitados e enviados pelos usuários durante o uso cotidiano do serviço.",
-            "query_en": "artificial intelligence prompt typing chat screen"
-          },
-          {
-            "anchor": "Contexto e implicações regionais",
-            "query_en": "Seoul South Korea cityscape technology center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d6d196db-0455-4a0a-9330-77a831979e93",
-      "title": "Kakao Unveils AI Model for Text and Image-Based Decision-Making",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kakao AI model decision making text image",
-        "images": [
-          {
-            "anchor": "Novo Modelo de IA da Kakao",
-            "query_en": "Kakao AI artificial intelligence technology"
-          },
-          {
-            "anchor": "Decisões Baseadas em Dados Numéricos",
-            "query_en": "artificial intelligence data analysis probabilities"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6a57d749-af82-4240-9553-229d28ab0a2e",
-      "title": "Nexon vai lançar o MMORPG Overgeared em quatro mercados asiáticos em 26 de novembro",
+      "id": "22556edf-b0eb-4851-825a-661ba2d98db1",
+      "title": "Estratégias Opostas: Como Electronic Arts e Nintendo Lidam com Estúdios de Jogos",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nexon Overgeared MMORPG gameplay trailer",
+        "video_query_en": "electronic arts vs nintendo studio acquisition strategy gaming analysis",
         "images": [
           {
-            "anchor": "O lançamento oficial em novembro",
-            "query_en": "Nexon gaming company logo building"
+            "anchor": "A Abordagem Corporativa da Electronic Arts",
+            "query_en": "electronic arts logo corporate office building"
           },
           {
-            "anchor": "Coreia do Sul",
-            "query_en": "Seoul South Korea gaming culture cityscape"
+            "anchor": "A Política de Preservação e Parcerias da Nintendo",
+            "query_en": "nintendo headquarters tokyo japan"
           },
           {
-            "anchor": "Baseado no universo de sucesso",
-            "query_en": "Overgeared webtoon art fantasy"
-          },
-          {
-            "anchor": "Mecânicas de jogo e progressão",
-            "query_en": "MMORPG PC mobile game interface"
+            "anchor": "O Impacto das Estratégias no Mercado de Games",
+            "query_en": "video game development studio office team working"
           }
         ]
       }
     },
     {
-      "id": "a3f6dd70-59c3-4cb1-a9cb-0ecc8ef3585a",
-      "title": "Xiilab planeja captar 10 bilhões de wons por meio de debêntures conversíveis",
+      "id": "d5f4d708-08fe-4a91-b2c4-71982fc69c75",
+      "title": "Acessórios Portáteis para Smartphones em Oferta na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "foldable keyboard and flat mouse for smartphone review",
+        "images": [
+          {
+            "anchor": "Ofertas em Destaque na Amazon",
+            "query_en": "foldable keyboard and flat mouse amazon"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6acce5bf-deba-4a5f-adcf-2af11c8f0895",
+      "title": "US-Rechenzentren unter Druck: Europas Chance auf KI-Milliarden",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Xiilab artificial intelligence infrastructure data center",
+        "video_query_en": "US data centers resistance Europe AI investments",
         "images": [
           {
-            "anchor": "A emissão de debêntures conversíveis",
-            "query_en": "financial investment business meeting Seoul"
+            "anchor": "A resistência nos Estados Unidos",
+            "query_en": "protest against data center construction United States"
           },
           {
-            "anchor": "Participação de investidores estratégicos",
-            "query_en": "venture capital investment office South Korea"
+            "anchor": "O impacto nas investimentos e a alternativa europeia",
+            "query_en": "modern data center server room Europe"
           },
           {
-            "anchor": "Destino dos recursos e expansão do AIDC",
-            "query_en": "AI data center server racks hardware"
-          },
-          {
-            "anchor": "Preparação para atender à crescente demanda do mercado por infraestrutura de próxima geração.",
-            "query_en": "next generation AI server infrastructure"
-          },
-          {
-            "anchor": "Ampliação da capacidade operacional para suportar cargas de trabalho avançadas em inteligência artificial.",
-            "query_en": "artificial intelligence data center server room"
-          },
-          {
-            "anchor": "Fortalecimento da competitividade da Xiilab no ecossistema tecnológico global.",
-            "query_en": "modern technology corporate office building"
+            "anchor": "Os desafios locais",
+            "query_en": "electric power grid substation Europe"
           }
         ]
       }
     },
     {
-      "id": "3a9d0fa1-327c-4532-a0b5-f39588e2aaa5",
-      "title": "Palantir e Changshin firmam parceria para transformar desenvolvimento e fabricação de calçados com IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Palantir AI enterprise data platform manufacturing",
-        "images": [
-          {
-            "anchor": "Uma nova era na fabricação de calçados com inteligência artificial",
-            "query_en": "footwear manufacturing factory production industrial"
-          },
-          {
-            "anchor": "Integrando departamentos e otimizando fluxos de trabalho",
-            "query_en": "artificial intelligence data analytics dashboard enterprise"
-          }
-        ]
-      }
-    },
-    {
-      "id": "18d5b91c-a974-4d3f-852a-42de1d5285a8",
-      "title": "Empresas de tecnologia sofrem forte queda nas bolsas com temores de regulação da inteligência artificial após eleições de meio de mandato nos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "tech stocks crash us midterms ai fears",
-        "images": [
-          {
-            "anchor": "## O impacto nas bolsas globais e asiáticas",
-            "query_en": "asian stock market red trading floor"
-          },
-          {
-            "anchor": "- Seul despencou quase 9% em determinado momento, com a gigante de chips SK hynix registrando queda de 10% e sua rival Samsung recuando 8%.",
-            "query_en": "Samsung headquarters Seoul building"
-          },
-          {
-            "anchor": "- Tóquio despencou 7%, com Kioxia e SoftBank acumulando perdas superiores a 10%, enquanto a Advantest caiu mais de 8%.",
-            "query_en": "Tokyo Stock Exchange building exterior"
-          },
-          {
-            "anchor": "- A queda de 7% da TSMC arrastou o índice Taiex de Taipei para baixo em cerca de 8%.",
-            "query_en": "TSMC logo building Taiwan"
-          },
-          {
-            "anchor": "- Hong Kong, Xangai, Sydney e Singapura registraram perdas superiores a 1%, com Wellington e Manila também operando no vermelho.",
-            "query_en": "Hong Kong skyline financial district"
-          },
-          {
-            "anchor": "## Motivos da cautela e pressões políticas",
-            "query_en": "ai data center construction site"
-          },
-          {
-            "anchor": "## Repercussão em Wall Street e declarações",
-            "query_en": "Wall Street stock exchange New York exterior"
-          },
-          {
-            "anchor": "## Fatores adicionais e cenário macroeconômico",
-            "query_en": "oil refinery petroleum market finance"
-          }
-        ]
-      }
-    },
-    {
-      "id": "727562f0-139b-4033-92f8-3cde4edd63d5",
-      "title": "Anthropic lança recurso de finanças pessoais para o Claude em versão beta",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic Claude personal finance feature launch",
-        "images": [
-          {
-            "anchor": "Introdução ao recurso de finanças pessoais do Claude",
-            "query_en": "Anthropic Claude AI chatbot interface"
-          },
-          {
-            "anchor": "Como funciona a integração bancária",
-            "query_en": "Plaid financial technology service integration"
-          },
-          {
-            "anchor": "Privacidade, ausência de anúncios e contexto de mercado",
-            "query_en": "OpenAI ChatGPT and Anthropic Claude competition"
-          }
-        ]
-      }
-    },
-    {
-      "id": "09d71677-3642-474c-9586-9277ad93b026",
-      "title": "Google é processada nos Estados Unidos após adolescente planejar suicídio usando IA em notebook escolar",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google sued over AI chatbot suicide risk school computer",
-        "images": [
-          {
-            "anchor": "O contexto do bloqueio e o acesso à ferramenta de busca",
-            "query_en": "Google Chromebook school laptop classroom"
-          },
-          {
-            "anchor": "A evolução da crise psicológica da adolescente",
-            "query_en": "Google search AI search bar interface"
-          },
-          {
-            "anchor": "O panorama legal das inteligências artificiais e os menores de idade",
-            "query_en": "California court building law gavel"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f892112c-820f-4ff0-8193-bbd7553a2f1b",
-      "title": "Robô cortador de grama fogitivo escapa e corta o jardim de um vizinho na Baixa Saxônia",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "robotic lawnmower escapes yard funny",
-        "images": [
-          {
-            "anchor": "Uma fuga inusitada no campo",
-            "query_en": "robotic lawnmower working on grass"
-          },
-          {
-            "anchor": "O impacto dos dispositivos inteligentes",
-            "query_en": "smart home robotic lawnmower garden"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f8b51207-56d4-4890-909d-45fb57e009a3",
-      "title": "Microsoft deve adiar o lançamento de um sucessor para o Windows no próximo ano",
+      "id": "246072ee-154a-4395-bbed-4e29fbe8f8e8",
+      "title": "Microsoft Surface Pro de 13 polegadas com desconto promocional na Amazon",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft Windows future update roadmap",
+        "video_query_en": "Microsoft Surface Pro Snapdragon review",
         "images": [
           {
-            "anchor": "A expectativa em torno de um novo sistema operacional",
-            "query_en": "Microsoft Windows desktop operating system interface"
+            "anchor": "Oferta e Disponibilidade",
+            "query_en": "Microsoft Surface Pro device displayed on a table"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d0418eea-90aa-43c1-812c-27055a2cbbd3",
+      "title": "US-Flughäfen verabschieden sich von jahrzehntealten 8-Zoll-Disketten",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "FAA replacing old floppy disk systems aviation technology",
+        "images": [
+          {
+            "anchor": "O peso da herança tecnológica na aviação",
+            "query_en": "vintage 8 inch floppy disk computer hardware"
           },
           {
-            "anchor": "O cronograma de suporte e o fim do Windows 10",
-            "query_en": "Windows operating system update notification"
+            "anchor": "Desafios da migração para sistemas modernos",
+            "query_en": "modern airport air traffic control center technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "93ed07c4-698b-493a-beb3-6e8db5a7f8a1",
+      "title": "SSD USB4 Sandisk Extreme Pro atinge alta velocidade e menor preço desde setembro",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SanDisk Extreme Pro USB4 SSD review speed test",
+        "images": [
+          {
+            "anchor": "Desempenho e Velocidades de Transferência",
+            "query_en": "SanDisk Extreme Pro USB4 SSD plugged into laptop"
+          },
+          {
+            "anchor": "Disponibilidade e Ofertas Atuais",
+            "query_en": "Amazon package delivery storage device"
+          }
+        ]
+      }
+    },
+    {
+      "id": "09a6d888-6373-420d-a594-ff980c306129",
+      "title": "Ataque cibernético à Universidade Técnica de Munique afeta cerca de 60 mil pessoas",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "cyber attack Technical University of Munich TUMonline",
+        "images": [
+          {
+            "anchor": "O impacto nos dados institucionais e pessoais",
+            "query_en": "Technical University of Munich campus buildings"
+          },
+          {
+            "anchor": "A vulnerabilidade em sistemas legados",
+            "query_en": "server room computer hardware security"
+          },
+          {
+            "anchor": "Medidas de resposta e investigações",
+            "query_en": "cybersecurity data breach investigation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71e8bde0-34bf-480f-9178-33559a272804",
+      "title": "Mindfactory sofre ataque cibernético e alerta clientes sobre vazamento de dados",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mindfactory cyber attack data breach news",
+        "images": [
+          {
+            "anchor": "Alerta aos clientes da Mindfactory",
+            "query_en": "Mindfactory online store building logo"
+          },
+          {
+            "anchor": "Dados potencialmente comprometidos",
+            "query_en": "cyber security data breach warning screen"
+          },
+          {
+            "anchor": "Recomendações e medidas de segurança",
+            "query_en": "person changing account password cybersecurity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ad13353f-12c1-4fcb-8dc7-c1162f9717df",
+      "title": "Mini Powerbank da Iniu com 45 W e 10.000 mAh em oferta na Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Iniu P50 45W 10000mAh powerbank review",
+        "images": [
+          {
+            "anchor": "Especificações e Desempenho",
+            "query_en": "Iniu powerbank 45W 10000mAh specs"
+          },
+          {
+            "anchor": "Praticidade no Dia a Dia",
+            "query_en": "Iniu mini powerbank USB C cable"
+          }
+        ]
+      }
+    },
+    {
+      "id": "03f19535-3587-4529-85fb-36b618eed7d6",
+      "title": "Estrat©gias para a Cloud Transformation e Cria§£o de um Cloud Competence Center",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "cloud transformation competence center strategy governance",
+        "images": [
+          {
+            "anchor": "O Papel do Cloud Competence Center",
+            "query_en": "cloud competence center business team meeting"
+          },
+          {
+            "anchor": "Governança e Roadmap de Transforma§£o",
+            "query_en": "cloud computing roadmap strategy presentation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49e08c62-7dc3-4770-8823-ad51617e6463",
+      "title": "Legisladores dos EUA pedem reunião com CEO da Nvidia, Jensen Huang, sobre ex-executiva da Megaspeed",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia CEO Jensen Huang US lawmakers briefing Megaspeed executive",
+        "images": [
+          {
+            "anchor": "O contexto das acusações e investigações",
+            "query_en": "Jensen Huang Nvidia CEO speaking at conference"
+          },
+          {
+            "anchor": "O desdobramento político e regulatório",
+            "query_en": "US Capitol building Washington DC"
+          },
+          {
+            "anchor": "Três legisladores dos EUA lideram a iniciativa de fiscalização.",
+            "query_en": "US lawmakers meeting in committee room"
+          },
+          {
+            "anchor": "O CEO da Nvidia, Jensen Huang, foi convidado para uma reunião fechada.",
+            "query_en": "Jensen Huang portrait"
+          },
+          {
+            "anchor": "O foco central são as relações mantidas com Alice Huang, ex-executiva da Megaspeed.",
+            "query_en": "Megaspeed corporate office building"
+          },
+          {
+            "anchor": "Relatórios apontam suposto vazamento de inteligência para o governo chinês e laços estreitos.",
+            "query_en": "Cybersecurity intelligence data screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc1f5300-3e74-4277-a09e-66d191e13f25",
+      "title": "O paradoxo dos semicondutores no Reino Unido: inovação de ponta e o desafio comercial",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "UK semiconductor industry design and manufacturing challenges",
+        "images": [
+          {
+            "anchor": "O cenário atual da inovação britânica",
+            "query_en": "Advanced semiconductor chip design laboratory"
+          },
+          {
+            "anchor": "Os desafios de escala e mercado",
+            "query_en": "Modern semiconductor manufacturing cleanroom facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b00009dc-3e19-45bd-889a-dd68e91be21e",
+      "title": "Rohto Pharmaceutical sofre vazamento de dados de quase 2,8 milhões de pessoas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Rohto Pharmaceutical data breach cybersecurity",
+        "images": [
+          {
+            "anchor": "Detalhes dos dados vazados e impacto financeiro",
+            "query_en": "cybersecurity data breach shield digital security"
+          },
+          {
+            "anchor": "Contexto e investigações contínuas",
+            "query_en": "server room database cybersecurity security operations center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "90d17f5d-839b-40ea-8549-09c512d4d873",
+      "title": "Sony anuncia fone com fio USB Type-C inspirado no design clássico do primeiro Walkman",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sony Walkman style USB Type C headphones MDR-3R",
+        "images": [
+          {
+            "anchor": "O Conceito e o Design Inspirados no Legado da Marca",
+            "query_en": "vintage Sony Walkman headphones retro design"
+          },
+          {
+            "anchor": "Conectividade Moderna com USB Type-C",
+            "query_en": "USB Type-C wired headphones connection"
+          },
+          {
+            "anchor": "Experiência de Uso e Posicionamento no Mercado",
+            "query_en": "person using wired headphones with smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ef35833-7caf-4419-ae3e-c29e65226531",
+      "title": "Resultados do segundo trimestre da Sega superam expectativas impulsionados por máquinas pachislot",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sega financial results pachislot gaming revenue",
+        "images": [
+          {
+            "anchor": "Desempenho financeiro geral e setorial",
+            "query_en": "Sega corporate headquarters Tokyo"
+          },
+          {
+            "anchor": "Análise do mercado de jogos e vendas de títulos",
+            "query_en": "Sega video games display lineup"
+          },
+          {
+            "anchor": "A estratégia transmedia e o ecossistema mobile",
+            "query_en": "Angry Birds Sonic merchandise Sega"
+          },
+          {
+            "anchor": "Expectativas e próximos lançamentos",
+            "query_en": "Persona game promotional art"
+          }
+        ]
+      }
+    },
+    {
+      "id": "34e1a5b9-5fdc-4902-a305-1203a05a58c5",
+      "title": "Movimentações no mercado de games: Nordisk Games, CD Projekt Red e mais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nordisk Games executive appointment and gaming industry jobs news",
+        "images": [
+          {
+            "anchor": "Nordisk Games define nova liderança executiva",
+            "query_en": "Nordisk Games office Stockholm"
+          },
+          {
+            "anchor": "Game Events GmbH contrata novo chefe comercial",
+            "query_en": "Gamescom Dev event venue"
+          },
+          {
+            "anchor": "Ex-desenvolvedores da Warhorse Studios reforçam a CD Projekt Red",
+            "query_en": "CD Projekt Red studio Poland"
+          },
+          {
+            "anchor": "Novidades na Mandali Games",
+            "query_en": "Video game development office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9e92ee3f-823f-47be-bede-0e29ef6ba221",
+      "title": "SAG-AFTRA lança acordo de games para facilitar contratação de atores em pitches",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SAG AFTRA video game agreement pitch",
+        "images": [
+          {
+            "anchor": "O novo Acordo de Mídia Interativa para Pitches",
+            "query_en": "SAG AFTRA video game voice actor recording studio"
+          },
+          {
+            "anchor": "Regras e restrições de elegibilidade",
+            "query_en": "video game development pitch prototype screen"
+          },
+          {
+            "anchor": "Contexto de acordos anteriores e greves",
+            "query_en": "SAG AFTRA strike protest video game industry"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2f45ad7b-d2cc-4fb6-85ab-70cad78287ab",
+      "title": "Como as Eleições e as Mudanças Culturais Afetam o Futuro da Indústria de Jogos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "video games industry culture politics impact",
+        "images": [
+          {
+            "anchor": "O Impacto das Eleições na Cultura",
+            "query_en": "video game controllers on a table"
+          },
+          {
+            "anchor": "Regulamentação Tecnológica e o Cenário Político",
+            "query_en": "modern data center server racks"
+          },
+          {
+            "anchor": "Efeitos Práticos no Mercado de Games",
+            "query_en": "gamer playing video games in a room"
+          },
+          {
+            "anchor": "A Pressão na Bolha de Inteligência Artificial",
+            "query_en": "high end computer graphics card gpu"
+          },
+          {
+            "anchor": "A Realidade Cultural e a Diversidade",
+            "query_en": "diverse group of people playing video games together"
+          }
+        ]
+      }
+    },
+    {
+      "id": "78e48f58-36b9-403d-895f-736c01deef92",
+      "title": "The Witcher 3 ganha novo modo de acessibilidade focado em pais cansados e jogadores com pouco tempo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Witcher 3 accessibility mode Bards Ballad",
+        "images": [
+          {
+            "anchor": "O conceito por trás de Bard's Ballad",
+            "query_en": "Karolina Nieweglowska CD Projekt Red"
+          },
+          {
+            "anchor": "Alívio na gestão de inventário e equipamentos",
+            "query_en": "The Witcher 3 inventory management screen"
+          },
+          {
+            "anchor": "Liberdade de escolha e opcionalidade",
+            "query_en": "The Witcher 3 Wild Hunt gameplay"
+          },
+          {
+            "anchor": "Jogadores que possuem apenas uma hora livre após uma jornada intensa de trabalho.",
+            "query_en": "Tired parent playing video games at night"
+          },
+          {
+            "anchor": "Situações em que o usuário carrega o jogo e percebe que sua arma quebrou imediatamente.",
+            "query_en": "The Witcher 3 broken weapon UI"
+          },
+          {
+            "anchor": "A necessidade de descobrir como substituir o equipamento e para onde ir para consertá-lo.",
+            "query_en": "The Witcher 3 crafting menu"
+          },
+          {
+            "anchor": "A complicação gerada por um inventário cheio, exigindo decisões sobre o que descartar, vender, desmontar ou guardar.",
+            "query_en": "The Witcher 3 items and inventory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f2ea083-b4b8-4137-8b6d-6eba358ae1e7",
+      "title": "Quer aprender as músicas da ocarina de Link? A Nintendo liberou todas as partituras",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time music gameplay",
+        "images": [
+          {
+            "anchor": "As partituras oficiais de Ocarina of Time",
+            "query_en": "Link playing ocarina in Zelda Ocarina of Time"
+          },
+          {
+            "anchor": "Onde encontrar e como acessar o conteúdo",
+            "query_en": "Nintendo Switch 2 console"
+          },
+          {
+            "anchor": "Recursos interativos e digitação",
+            "query_en": "ceramic ocarina musical instrument"
+          },
+          {
+            "anchor": "O cenário dos instrumentos oficiais",
+            "query_en": "HORI electric ocarina Nintendo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "de536530-1256-4af0-8502-e37315a264cb",
+      "title": "Marvel Cosmic Invasion ganha detalhes do novo modo DLC Castle Doom",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Marvel Cosmic Invasion Castle Doom DLC gameplay",
+        "images": [
+          {
+            "anchor": "Detalhes da transmissão e jogabilidade",
+            "query_en": "Marvel Cosmic Invasion game Sue Storm"
+          },
+          {
+            "anchor": "Principais recursos do modo roguelike",
+            "query_en": "Doctor Doom Castle Doom Marvel Cosmic Invasion"
+          },
+          {
+            "anchor": "Contexto de lançamento e expectativas",
+            "query_en": "Dotemu Marvel Cosmic Invasion Nintendo Switch"
+          }
+        ]
+      }
+    },
+    {
+      "id": "61483968-3d86-495c-9f52-80788fc07ff0",
+      "title": "Jardim Inteligente de Parede da Modern Sprout: Análise Completa da Growframe",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Modern Sprout Growframe review smart indoor garden",
+        "images": [
+          {
+            "anchor": "Smart Landscape Growframe",
+            "query_en": "Modern Sprout Smart Landscape Growframe wall mounted planter"
+          },
+          {
+            "anchor": "Ferramentas Essenciais de Cuidado",
+            "query_en": "Modern Sprout pruning shears and plant care tools"
+          },
+          {
+            "anchor": "Tesouras de Poda",
+            "query_en": "Modern Sprout metal pruning shears gardening"
+          },
+          {
+            "anchor": "Regador de Vidro",
+            "query_en": "Modern Sprout glass watering can for houseplants"
+          },
+          {
+            "anchor": "Folhas de Adubo Dissolvíveis",
+            "query_en": "Modern Sprout dissolving plant food sheets seaweed fertilizer"
+          },
+          {
+            "anchor": "Conclusão e Veredito",
+            "query_en": "Modern Sprout indoor garden herbs setup wall display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed485b27-2eae-4302-b4cd-14e096ae8907",
+      "title": "Apple libera iOS 27.2 com correções para centenas de falhas de segurança e bugs",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iOS 27.2 update features and security bug fixes",
+        "images": [
+          {
+            "anchor": "Detalhes das correções de segurança",
+            "query_en": "Apple iPhone settings software update screen"
+          },
+          {
+            "anchor": "Riscos graves evitados pelo novo patch",
+            "query_en": "iPhone security warning data protection lock"
+          },
+          {
+            "anchor": "Comparativo com atualizações anteriores e menções à inteligência artificial",
+            "query_en": "Apple iPhone iOS software development code"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a275ea43-71d7-4bff-9f6c-aa217a8328be",
+      "title": "Como desativar os recursos do Apple Intelligence no iOS 27 e versões anteriores",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to turn off apple intelligence ios settings guide",
+        "images": [
+          {
+            "anchor": "O fim do botão mestre e o novo cenário no iOS 27",
+            "query_en": "iphone settings menu ios screen"
+          },
+          {
+            "anchor": "Como desativar a Siri e os recursos básicos",
+            "query_en": "iphone siri settings menu"
+          },
+          {
+            "anchor": "O papel do Tempo de Uso no controle da inteligência artificial",
+            "query_en": "apple screen time content privacy restrictions"
+          },
+          {
+            "anchor": "Como desativar o Apple Intelligence em versões anteriores (iOS 26 ou anterior)",
+            "query_en": "apple intelligence toggle settings"
+          },
+          {
+            "anchor": "O impacto no armazenamento e a compatibilidade dos dispositivos",
+            "query_en": "iphone storage settings menu"
           }
         ]
       }
@@ -674,43 +794,10 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "c17aeb38-c9c8-4c2b-9b88-c6abe51dbc39",
-      "title": "Os 7 melhores animes exibidos pelo Adult Swim que possuem episódios piloto perfeitos",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Adult Swim anime best first episodes retrospective",
-        "images": [
-          {
-            "anchor": "Death Note",
-            "query_en": "Death Note anime Light Yagami and Ryuk first episode"
-          },
-          {
-            "anchor": "Cowboy Bebop",
-            "query_en": "Cowboy Bebop anime Spike Spiegel Asteroid Blues"
-          },
-          {
-            "anchor": "Trigun",
-            "query_en": "Trigun anime Vash the Stampede first episode"
-          },
-          {
-            "anchor": "Paranoia Agent",
-            "query_en": "Paranoia Agent anime Satoshi Kon Tsukiko Sagi"
-          },
-          {
-            "anchor": "Inuyasha",
-            "query_en": "Inuyasha anime Kagome and Inuyasha tree scene"
-          },
-          {
-            "anchor": "Ghost In the Shell: Stand Alone Complex",
-            "query_en": "Ghost in the Shell Stand Alone Complex cyberpunk anime"
-          },
-          {
-            "anchor": "Neon Genesis Evangelion",
-            "query_en": "Neon Genesis Evangelion anime Shinji Ikari Eva unit"
-          }
-        ]
-      }
+      "id": "17399e31-7b4a-4bc3-9688-e918bc28f331",
+      "title": "47 Years Later, The Alien Franchise Gets Its Most Brutal Upgrade Yet",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Comics"
     }
   ]
 }
