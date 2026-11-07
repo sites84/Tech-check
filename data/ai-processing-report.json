@@ -1,697 +1,824 @@
 {
-  "updated_at": "2026-11-07T06:10:26.501Z",
+  "updated_at": "2026-11-07T12:12:55.445Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "a43d1fd4-f897-40e3-9dda-6166b0929992",
-      "title": "Trump and U.S. Congress set to clash over economic costs of tariffs",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
-    },
-    {
-      "id": "0b98f210-856d-4f7a-b63d-8041f13d2245",
-      "title": "Comunidade empresarial do Japão busca reduzir tensões políticas e diplomáticas com a China",
+      "id": "e258569b-6d3e-431c-8777-1431eb463da1",
+      "title": "A perspectiva de uma \"Yalta moderna\" abala a ordem pós-guerra na Ásia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan China economic relations business community tensions",
+        "video_query_en": "US China Russia summit Asia diplomacy APEC Shenzhen",
         "images": [
           {
-            "anchor": "O impacto das declarações na economia bilateral",
-            "query_en": "Tokyo and Beijing city skyline business district"
+            "anchor": "O cenário da diplomacia na Ásia em novembro",
+            "query_en": "US president Donald Trump Asia visit diplomacy summit"
           },
           {
-            "anchor": "Consequências no turismo e no comércio",
-            "query_en": "Japanese tourism and international commerce"
+            "anchor": "A aproximação entre Rússia e ASEAN",
+            "query_en": "Russia ASEAN meeting diplomacy cooperation"
           },
           {
-            "anchor": "Número de visitantes chineses entre os meses de janeiro e setembro caiu pela metade em comparação com o mesmo período do ano anterior.",
-            "query_en": "Chinese tourists visiting Japan landmark"
+            "anchor": "A possível cúpula trilateral",
+            "query_en": "APEC summit venue Shenzhen China skyline"
+          },
+          {
+            "anchor": "Implicações para a ordem regional",
+            "query_en": "Asia Pacific geopolitical map international relations"
           }
         ]
       }
     },
     {
-      "id": "45985f7e-583c-42ed-8cf3-10f69302f480",
-      "title": "Paraguai afasta presidente em meio a crise bancária e empossa novo líder",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Paraguay president Santiago Pena impeached",
-        "images": [
-          {
-            "anchor": "A Queda de Santiago Peña",
-            "query_en": "Santiago Pena Paraguay president"
-          },
-          {
-            "anchor": "A Ascensão de Pedro Alliana",
-            "query_en": "Pedro Alliana Paraguay"
-          },
-          {
-            "anchor": "Destituição de Santiago Peña aprovada por 44 votos a zero no Senado",
-            "query_en": "Paraguay Senate building Asuncion"
-          }
-        ]
-      }
-    },
-    {
-      "id": "97ca36af-7620-4bb9-aa5a-0ed237c343b0",
-      "title": "Japão e China buscam dependência econômica seletiva após atrito político",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan China economic relations Taiwan crisis",
-        "images": [
-          {
-            "anchor": "O estopim da crise diplomática e comercial",
-            "query_en": "Sanae Takaichi Japanese Prime Minister"
-          },
-          {
-            "anchor": "Respostas e ajustes bilaterais",
-            "query_en": "Beijing China Tokyo Japan cityscape trade"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5c13a612-e4b4-4edb-830d-f7d4a5cb45f8",
-      "title": "EUA cobram da China cumprimento de acordo comercial antes de encontros entre Trump e Xi",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US China trade agreement rare earths agriculture Trump Xi",
-        "images": [
-          {
-            "anchor": "Pressão diplomática e econômica em ligação oficial",
-            "query_en": "US trade representative office building Washington DC"
-          },
-          {
-            "anchor": "Participação de líderes econômicos e contexto do acordo",
-            "query_en": "US Treasury Secretary Scott Bessent"
-          },
-          {
-            "anchor": "Declarações oficiais e áreas prioritárias",
-            "query_en": "Rare earths mining and critical minerals technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7c79e647-9638-45e8-b3ef-643c371b6bb5",
-      "title": "Agência de espionagem da China teria recrutado executiva próxima ao CEO da Nvidia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang AI chips technology",
-        "images": [
-          {
-            "anchor": "A Revelação no Governo Trump",
-            "query_en": "US government building Washington DC"
-          },
-          {
-            "anchor": "O Papel Estratégico de Jensen Huang",
-            "query_en": "Jensen Huang Nvidia CEO"
-          }
-        ]
-      }
-    },
-    {
-      "id": "27bb8d7c-bcd0-483f-9cae-0c4fc56b88f0",
-      "title": "BOJ debate estabilidade da inflação de 2% no Japão, aponta Kazuo Ueda",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bank of Japan Kazuo Ueda inflation IMF Washington",
-        "images": [
-          {
-            "anchor": "O cenário atual da economia japonesa",
-            "query_en": "Bank of Japan headquarters Tokyo building"
-          },
-          {
-            "anchor": "Percepção pública e novos passos",
-            "query_en": "Kazuo Ueda Bank of Japan governor speaking"
-          },
-          {
-            "anchor": "O patamar de inflação subjacente de 2% foi atingido pela primeira vez desde que o objetivo foi introduzido pelo Banco do Japão no ano de 2013.",
-            "query_en": "Japanese currency yen banknotes inflation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cfe01d8c-ad9b-4ba9-90f4-1805316953c4",
-      "title": "Japão seleciona 28 itens prioritários para receber mais de ¥370 trilhões em investimentos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan economy semiconductor investment Sanae Takaichi",
-        "images": [
-          {
-            "anchor": "Os novos rumos da economia japonesa",
-            "query_en": "Japan government building Tokyo economy"
-          },
-          {
-            "anchor": "Foco em semicondutores e tecnologias avançadas",
-            "query_en": "Advanced semiconductor manufacturing cleanroom Japan"
-          },
-          {
-            "anchor": "Semicondutores",
-            "query_en": "Microchip silicon wafer semiconductor technology"
-          },
-          {
-            "anchor": "Inteligência artificial",
-            "query_en": "Artificial intelligence digital technology futuristic"
-          }
-        ]
-      }
-    },
-    {
-      "id": "75af745c-d15a-48cd-92ac-3bb0ca87c032",
-      "title": "Japão e EUA planejam novos programas educacionais para tropas em Okinawa após crime",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US Japan Okinawa military relations education programs",
-        "images": [
-          {
-            "anchor": "Medidas de prevenção e alinhamento bilateral",
-            "query_en": "Japanese Foreign Ministry Tokyo press conference"
-          },
-          {
-            "anchor": "Contexto e próximos passos",
-            "query_en": "Okinawa military base Japan scenery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8ffb936e-88ff-4751-886e-2bdb248717da",
-      "title": "Japão avalia antecipar pagamento de contribuição ao TPI devido a sanções dos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "International Criminal Court US sanctions Japan contribution",
-        "images": [
-          {
-            "anchor": "O Cenário de Sanções contra o Tribunal Penal Internacional",
-            "query_en": "International Criminal Court building exterior"
-          },
-          {
-            "anchor": "Riscos Operacionais e Impactos Financeiros",
-            "query_en": "US dollar currency banknotes financial sanctions"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d114937f-cbf7-4336-84e6-0271d5b75c04",
-      "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
+      "id": "693ee329-b3ab-4220-b640-8c87b12ec0e5",
+      "title": "New Zealand's tight election puts coalition talks in focus",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Politica"
     },
     {
-      "id": "c16708d1-3abf-4c9a-8ad1-ba20e4432dac",
-      "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finance"
-    },
-    {
-      "id": "aabf2624-3716-4841-a59f-9f42f45daf5c",
-      "title": "Escolas preparatórias ajudam estudantes chineses a ingressar nas principais universidades do Japão",
-      "category": "Empresas",
+      "id": "f5e8df17-5cb6-475f-96f7-68335ec65bd7",
+      "title": "FBI e órgãos reguladores dos EUA emitem alerta sobre ataques cibernéticos em refrigeradores industriais",
+      "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Chinese students studying in Japan top universities prep school",
+        "video_query_en": "FBI warning industrial refrigeration cyber attacks supermarkets",
         "images": [
           {
-            "anchor": "O crescimento das escolas preparatórias para estudantes chineses no Japão",
-            "query_en": "students in Tokyo university campus Japan"
+            "anchor": "Alerta oficial das autoridades americanas",
+            "query_en": "FBI seal headquarters building"
           },
           {
-            "anchor": "Coach Academy",
-            "query_en": "classroom preparation exam Tokyo students"
+            "anchor": "Riscos físicos e operacionais",
+            "query_en": "industrial refrigerator control panel cold storage"
           },
           {
-            "anchor": "O desafio dos exames nacionais e o papel do suporte especializado",
-            "query_en": "students studying hard in Japanese library prep school"
+            "anchor": "Impacto em supermercados europeus",
+            "query_en": "supermarket refrigerated display case grocery store"
           },
           {
-            "anchor": "O contexto do ensino superior e a atração de talentos internacionais",
-            "query_en": "international students university Tokyo Japan"
+            "anchor": "Carrefour, Spar e Delhaize",
+            "query_en": "Carrefour supermarket storefront"
+          },
+          {
+            "anchor": "Cybersecurity and Infrastructure Security Agency (CISA)",
+            "query_en": "CISA cybersecurity agency logo building"
+          },
+          {
+            "anchor": "Desconectar dispositivos de controle do sistema da internet",
+            "query_en": "industrial server rack datacenter security"
+          },
+          {
+            "anchor": "A declaração oficial do FBI",
+            "query_en": "FBI cyber security press conference"
           }
         ]
       }
     },
     {
-      "id": "1898c97a-f236-4767-9fbf-eae15b0f0c4a",
-      "title": "Robô Atlas da Hyundai vai utilizar 70 células de bateria da Samsung SDI",
-      "category": "Empresas",
+      "id": "f0f39e2d-6391-435b-8da0-5d1f3e0b84cb",
+      "title": "União Europeia aponta riscos à saúde no algoritmo do TikTok e exige mudanças estruturais",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Boston Dynamics Atlas robot Hyundai Samsung SDI batteries",
+        "video_query_en": "TikTok EU investigation algorithm health concerns",
         "images": [
           {
-            "anchor": "O acordo de fornecimento para o robô Atlas",
-            "query_en": "Boston Dynamics Atlas humanoid robot Hyundai"
+            "anchor": "Preocupações com o algoritmo",
+            "query_en": "TikTok app logo on smartphone screen"
           },
           {
-            "anchor": "Detalhes técnicos e distribuição dos componentes",
-            "query_en": "Samsung SDI battery cells technology"
+            "anchor": "Ação regulatória na Europa",
+            "query_en": "European Commission building Brussels"
           }
         ]
       }
     },
     {
-      "id": "de6a6f2b-bf77-40f2-a134-3cfabd37c352",
-      "title": "Fabricante de motores C&M estabelece meta de 400 bilhões de wons em receita",
-      "category": "Empresas",
+      "id": "095b551f-3f52-43c5-8f50-8117690c839a",
+      "title": "Arcade em Tóquio: Meio século de história dos videogames brilha e apita no Mikado",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "CM motor manufacturer business strategy revenue",
+        "video_query_en": "Mikado arcade Tokyo retro games report",
         "images": [
           {
-            "anchor": "Desempenho financeiro atual e expectativas",
-            "query_en": "industrial motor manufacturing factory line"
+            "anchor": "O coração dos fliperamas tradicionais em Tóquio",
+            "query_en": "Mikado arcade Tokyo interior retro gaming"
           },
           {
-            "anchor": "Expansão para novos mercados",
-            "query_en": "modern data center servers technology"
-          },
-          {
-            "anchor": "Data centers",
-            "query_en": "server racks in a data center"
-          },
-          {
-            "anchor": "Robótica",
-            "query_en": "industrial robotics automation arm"
-          },
-          {
-            "anchor": "Outros segmentos em desenvolvimento",
-            "query_en": "advanced technology manufacturing research"
+            "anchor": "A experiência dos jogos clássicos",
+            "query_en": "Classic arcade cabinet CRT monitor joystick"
           }
         ]
       }
     },
     {
-      "id": "687eb241-79a1-43a9-8dd9-2cf4b824882f",
-      "title": "Tribunal Rejeita Pedido de Injunção de Patente da LG Chem Contra Fabricante Chinesa de Materiais Catódicos",
+      "id": "4014741d-61bb-4ba7-9392-7a9ae1fb5000",
+      "title": "Gina Hinojosa propõe congelamento da expansão de data centers de IA no Texas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LG Chem patent lawsuit South Korea court cathode material",
+        "video_query_en": "Texas AI data centers protest Gina Hinojosa",
         "images": [
           {
-            "anchor": "Decisão do Tribunal Sul-Coreano",
-            "query_en": "South Korean court building Seoul"
+            "anchor": "Protestos da população e novas leis de proteção",
+            "query_en": "Texas protest community residents data center"
           },
           {
-            "anchor": "Contexto da Disputa no Mercado de Baterias",
-            "query_en": "LG Chem cathode material battery factory"
+            "anchor": "Desafios na infraestrutura e fornecimento de energia",
+            "query_en": "AI data center power grid energy infrastructure"
           }
         ]
       }
     },
     {
-      "id": "68568d82-671d-4a40-960f-5d874a22b544",
-      "title": "Socomec amplia investimentos no mercado sul-coreano de energia para data centers de IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Socomec power solutions data center South Korea",
-        "images": [
-          {
-            "anchor": "A expansão da Socomec na Coreia do Sul",
-            "query_en": "Socomec corporate office or event"
-          },
-          {
-            "anchor": "Foco em inteligência artificial e semicondutores",
-            "query_en": "AI data center power infrastructure server room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8f5ab02b-d23e-4f3b-b348-b999ccc1c019",
-      "title": "Gaon Cable conquista contrato de transmissão de energia solar em Saemangeum",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Gaon Cable Saemangeum solar power transmission",
-        "images": [
-          {
-            "anchor": "Novo contrato no setor de energia",
-            "query_en": "Gaon Cable solar power facility"
-          },
-          {
-            "anchor": "Acordo assinado em 6 de novembro com a BS Hanyang",
-            "query_en": "BS Hanyang construction project"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ee16480b-871e-4f31-845f-a5bfbc77d4c2",
-      "title": "Amazon lança assistente de compras baseado em texto com Alexa nos Estados Unidos",
+      "id": "e82744eb-b00f-40ee-ae9c-f7946870d373",
+      "title": "Investigadores utilizam IA para gerar rosto de suspeito em caso de ataque com drone",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Alexa text based shopping AI assistant",
+        "video_query_en": "artificial intelligence police investigation drone attack",
         "images": [
           {
-            "anchor": "Uma nova forma de interagir com as compras",
-            "query_en": "Amazon Alexa shopping app interface"
+            "anchor": "O ataque ao aeroporto de Leipzig",
+            "query_en": "Leipzig airport security drone"
           },
           {
-            "anchor": "Cronograma de lançamento e testes iniciais",
-            "query_en": "Amazon headquarters building Seattle"
-          },
-          {
-            "anchor": "Contexto corporativo e ajustes na divisão de dispositivos",
-            "query_en": "Amazon devices division office"
-          },
-          {
-            "anchor": "Concorrência de agentes de IA no e-commerce",
-            "query_en": "Artificial intelligence shopping technology concept"
+            "anchor": "O papel da inteligência artificial na investigação",
+            "query_en": "artificial intelligence facial reconstruction police"
           }
         ]
       }
     },
     {
-      "id": "159efe0c-77df-4b0b-9ca8-646dd16249a2",
-      "title": "Ativistas invadem canteiro de obras de novo data center da Microsoft em Amsterdã",
-      "category": "Empresas",
+      "id": "ad014cad-c66b-4943-96b3-903f89a6d267",
+      "title": "Surveillance Pricing: Os Limites Legais da Personalização de Preços na União Europeia",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "activists protest microsoft data center amsterdam sloterdijk",
+        "video_query_en": "surveillance pricing data privacy european union consumer law",
         "images": [
           {
-            "anchor": "## Ocupação em Amsterdã",
-            "query_en": "protestors at construction site amsterdam"
+            "anchor": "O Papel da Proteção de Dados e o Consentimento",
+            "query_en": "data privacy regulation european union digital surveillance"
           },
           {
-            "anchor": "## Motivações e críticas ao projeto",
-            "query_en": "microsoft data center construction site"
+            "anchor": "Os Limites do Direito do Consumidor na União Europeia",
+            "query_en": "consumer rights protection shopping online ecommerce"
           },
           {
-            "anchor": "## Ação policial e detenções",
-            "query_en": "police at protest site netherlands"
-          },
-          {
-            "anchor": "## Repercussão e o movimento Stop Dirty Data Centers",
-            "query_en": "climate activists banner protest europe"
+            "anchor": "Desafios na Fiscalização e Transparência",
+            "query_en": "algorithmic pricing retail transparency digital economy"
           }
         ]
       }
     },
     {
-      "id": "44c1e6b8-e8dc-40a2-b23c-d638c1f5e83b",
-      "title": "OpenAI mantém planos de expansão de data centers apesar de reviravolta nas eleições de meio de mandato",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OpenAI data centre expansion Sarah Friar CNBC interview",
-        "images": [
-          {
-            "anchor": "Compromisso com o crescimento e novas parcerias",
-            "query_en": "OpenAI office building tech company"
-          },
-          {
-            "anchor": "Estratégia de transparência e o impacto político",
-            "query_en": "data center server room infrastructure"
-          },
-          {
-            "anchor": "Repercussão no mercado financeiro e investimentos de rivais",
-            "query_en": "stock market trading floor wall street"
-          },
-          {
-            "anchor": "Novas salvaguardas e captação de recursos",
-            "query_en": "artificial intelligence server facility"
-          },
-          {
-            "anchor": "Reflexos na concorrente Anthropic",
-            "query_en": "technology startup business meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e7243292-1caf-4e09-a02b-2a974b7269d7",
-      "title": "Novo smartphone shoulder bag pesa apenas 120g e funciona como carteira",
+      "id": "0d1c4255-43b6-4248-bcf6-ca3d46452f34",
+      "title": "Blackview lança smartphone robusto com bateria gigante e RAM estendida em oferta",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "smartphone shoulder bag review",
+        "video_query_en": "Blackview outdoor smartphone review specs",
         "images": [
           {
-            "anchor": "Uma solução leve para o dia a dia",
-            "query_en": "lightweight smartphone shoulder bag"
+            "anchor": "Foco em resistência e autonomia",
+            "query_en": "Blackview rugged smartphone outdoor design"
           },
           {
-            "anchor": "O acessório pesa aproximadamente 120g, oferecendo uma experiência de uso leve e sem incômodos para quem precisa se deslocar carregando apenas o essencial.",
-            "query_en": "woman wearing phone pouch cross body"
-          },
-          {
-            "anchor": "Estrutura e capacidade de armazenamento",
-            "query_en": "smartphone wallet case with card slots"
-          },
-          {
-            "anchor": "A parte frontal conta com um bolso aberto projetado para acomodar confortavelmente modelos grandes, incluindo o iPhone 14 Pro Max.",
-            "query_en": "large smartphone pocket shoulder bag"
+            "anchor": "Desempenho e memória generosa",
+            "query_en": "Blackview phone hardware performance display"
           }
         ]
       }
     },
     {
-      "id": "15d08340-a133-4719-a425-ef0fdf2e4c1d",
-      "title": "Amazon realiza promoção com descontos em mini PCs de marcas como GEEKOM, MINISFORUM e GMKtec",
+      "id": "1d9279ce-f9c7-4887-ad22-f8a04ce02971",
+      "title": "Investigação Interna na Volkswagen sobre a Aparição de Gernot Döllner com Donald Trump",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Volkswagen investigates Audi CEO Gernot Dollner political appearance",
+        "images": [
+          {
+            "anchor": "A Polêmica na Campanha Eleitoral",
+            "query_en": "Gernot Dollner Audi CEO political event"
+          },
+          {
+            "anchor": "A Reação da Volkswagen",
+            "query_en": "Volkswagen corporate headquarters Wolfsburg"
+          },
+          {
+            "anchor": "Início de apuração formal pela liderança da Volkswagen",
+            "query_en": "Volkswagen corporate meeting interior"
+          },
+          {
+            "anchor": "Reavaliação de diretrizes de neutralidade para executivos de alto escalão",
+            "query_en": "Business compliance ethics corporate policy"
+          },
+          {
+            "anchor": "Análise de impacto na reputação e nas relações institucionais da Audi",
+            "query_en": "Audi car showroom brand reputation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a754ad1-054a-4e43-8a76-eff38a1dfa22",
+      "title": "O Fim do Cybertruck: A Trajetória Curta e Polêmica do Carro dos Sonhos de Elon Musk",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tesla Cybertruck production end history review",
+        "images": [
+          {
+            "anchor": "O Veículo que Dividiu o Público",
+            "query_en": "Tesla Cybertruck driving on public road"
+          },
+          {
+            "anchor": "Design futurista com carroceria angular em aço inoxidável que gerou debates acalorados sobre segurança viária.",
+            "query_en": "Tesla Cybertruck stainless steel body close up"
+          },
+          {
+            "anchor": "Apelo quase exclusivo entre fãs ferrenhos da marca e detratores ferozes, dificultando a conquista de um público consumidor amplo e estável.",
+            "query_en": "Elon Musk presenting Tesla Cybertruck"
+          },
+          {
+            "anchor": "Dificuldades persistentes na definição de uma persona de mercado e de um público-alvo consistente ao longo dos anos.",
+            "query_en": "Tesla Cybertruck parked in urban environment"
+          },
+          {
+            "anchor": "A Busca Constante por uma Audiência",
+            "query_en": "Tesla Cybertruck interior dashboard"
+          },
+          {
+            "anchor": "Elevados custos de produção associados ao uso de materiais complexos como o aço inoxidável laminado.",
+            "query_en": "Tesla Gigafactory manufacturing process"
+          },
+          {
+            "anchor": "Restrições regulamentadas em diversos mercados internacionais, especialmente na Europa, devido a normas rígidas de proteção a pedestres.",
+            "query_en": "Tesla Cybertruck front bumper design"
+          },
+          {
+            "anchor": "Expectativas elevadas criadas anos antes do lançamento real, que acabaram colidindo com as limitações técnicas e práticas do produto final.",
+            "query_en": "Tesla Cybertruck reveal event stage"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8aef90da-bac0-4c66-bd54-30d52756cbf0",
+      "title": "Protesto contra novo data center da Microsoft em Amsterdã resulta em cerca de 200 prisões",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft data center protest Amsterdam police arrests",
+        "images": [
+          {
+            "anchor": "Conflitos em Amsterdã",
+            "query_en": "Amsterdam protest police intervention riot gear"
+          },
+          {
+            "anchor": "Contexto da infraestrutura",
+            "query_en": "Microsoft data center construction site Europe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6544c018-3b82-49ef-91a7-3dd2b74892f7",
+      "title": "Fim de Semana com Sabor de Zelda: O Que a Equipe do Nintendo Life Vai Jogar",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time Switch 2 gameplay launch",
+        "images": [
+          {
+            "anchor": "A Semana de Zelda no Switch 2",
+            "query_en": "Zelda Ocarina of Time Nintendo Switch 2"
+          },
+          {
+            "anchor": "Outras Grandes Notícias da Indústria",
+            "query_en": "Nintendo Switch 2 console"
+          },
+          {
+            "anchor": "Novas Análises e Lançamentos",
+            "query_en": "Godzilla Destroy All Monsters Melee Remastered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "54e47028-65b8-44a3-b7ee-37d31e79068c",
+      "title": "A nova linha Khazalite Holds prova que Age of Sigmar tem algumas das melhores miniaturas da Games Workshop",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Warhammer Age of Sigmar Khazalite Holds miniatures review",
+        "images": [
+          {
+            "anchor": "Os destaques da tropa e liderança",
+            "query_en": "Warhammer Age of Sigmar Khazalite Holds miniatures army"
+          },
+          {
+            "anchor": "O Thrynn",
+            "query_en": "Warhammer Age of Sigmar Khazalite Holds Thrynn model"
+          },
+          {
+            "anchor": "Os Valayan Guardians",
+            "query_en": "Warhammer Age of Sigmar Valayan Guardians miniatures"
+          },
+          {
+            "anchor": "O imponente High King Valankrom",
+            "query_en": "Warhammer Age of Sigmar High King Valankrom miniature"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0862aa9f-62ed-42e2-9a03-deebf804c773",
+      "title": "The Rings of Power season 3 star Robert Aramayo opens up about playing another iconic Lord of the Rings character",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "09e379dc-b7a7-48da-8baf-067084ae0d6c",
+      "title": "DJI lança drone para missões de resgate noturnas e em qualquer condição climática",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DJI Matrice 5T enterprise drone thermal imaging and night rescue",
+        "images": [
+          {
+            "anchor": "Tecnologia térmica projetada para a escuridão",
+            "query_en": "DJI thermal imaging drone camera system"
+          },
+          {
+            "anchor": "Sensores avançados e navegação inteligente",
+            "query_en": "DJI enterprise drone LiDAR and radar sensors"
+          },
+          {
+            "anchor": "Inteligência artificial integrada e autonomia estendida",
+            "query_en": "DJI enterprise drone flight controller and app"
+          },
+          {
+            "anchor": "Modelagem rápida em campo e segurança de dados",
+            "query_en": "DJI drone 3D mapping and surveying software"
+          },
+          {
+            "anchor": "Disponibilidade",
+            "query_en": "DJI Matrice enterprise drone on field"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4c970771-0811-4873-8063-99dea9230d2d",
+      "title": "Dave and Buster's vira Doom and Buster's em parceria com a Marvel para Avengers: Doomsday",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Dave and Busters Avengers Doomsday takeover",
+        "images": [
+          {
+            "anchor": "Passo a passo no Doomsday Zone",
+            "query_en": "Dave and Busters Doomsday Zone arcade Marvel"
+          },
+          {
+            "anchor": "Marvel Cosmic Invasion",
+            "query_en": "Marvel Cosmic Invasion arcade game"
+          },
+          {
+            "anchor": "Avengers: Roller Race and Battle",
+            "query_en": "Avengers Roller Race and Battle arcade"
+          },
+          {
+            "anchor": "Human Crane",
+            "query_en": "Human Crane claw machine Dave and Busters"
+          },
+          {
+            "anchor": "Mystery Crane",
+            "query_en": "Mystery Crane claw machine Marvel"
+          },
+          {
+            "anchor": "Thor's Hammer Strike",
+            "query_en": "Thors Hammer Strike arcade game"
+          },
+          {
+            "anchor": "Smash N Win",
+            "query_en": "Smash N Win arcade game"
+          },
+          {
+            "anchor": "The Arena",
+            "query_en": "Dave and Busters The Arena interactive space"
+          },
+          {
+            "anchor": "Avengers Themed Photo Booth",
+            "query_en": "Avengers themed photo booth arcade"
+          },
+          {
+            "anchor": "Prêmios em dobro e coquetéis vilanescos",
+            "query_en": "Doom and Busters cocktails bar Marvel"
+          },
+          {
+            "anchor": "Doomsday's Dominion",
+            "query_en": "Doomsays Dominion cocktail Dave and Busters"
+          },
+          {
+            "anchor": "Multiversal Mule",
+            "query_en": "Multiversal Mule cocktail Marvel"
+          },
+          {
+            "anchor": "Fantastic Flight",
+            "query_en": "Fantastic Flight citrus cocktail"
+          },
+          {
+            "anchor": "Panther's Potion",
+            "query_en": "Panthers Potion mocktail Dave and Busters"
+          },
+          {
+            "anchor": "Captain Punch",
+            "query_en": "Captain Punch mocktail Marvel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "217fd010-3528-4f47-b1c9-74e5912cdcd1",
+      "title": "Álbum de estreia de Ms. Rachel chega ao Yoto: saiba como comprar para o Natal",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ms Rachel Yoto card I'm So Happy",
+        "images": [
+          {
+            "anchor": "Todas as 23 faixas em um cartão inteligente sem telas",
+            "query_en": "Ms Rachel Im So Happy Yoto Card"
+          },
+          {
+            "anchor": "Yoto Mini vs. Yoto Player de 4ª Geração",
+            "query_en": "Yoto Mini 4th Gen and Yoto Player 4th Gen"
+          },
+          {
+            "anchor": "Yoto Mini (4ª Geração): Projetado para uso em movimento, é ideal para carrinhos de bebê, viagens de carro e passeios. Possui exterior resistente a respingos, bateria com autonomia de até 16 horas com uma única carga e memória interna suficiente para armazenar mais de 1.000 horas de áudio offline. A caixa inclui o leitor, um cabo de carregamento USB-C, um cartão de boas-vindas \"Make Your Own\", um cartão digital gratuito \"Journey Jams\" e acesso livre aos fluxos do Yoto Daily e Yoto Radio.",
+            "query_en": "Yoto Mini 4th Gen audio player"
+          },
+          {
+            "anchor": "Yoto Player (4ª Geração): Desenvolvido para o uso diário em casa, este modelo maior foi pensado para ficar posicionado em mesinhas de cabeceira ou prateleiras. Ele substitui o formato ultracompacto por um som estéreo mais rico, uma luz noturna integrada em todo o painel e um visor de relógio com a função \"okay-to-wake\" que ajuda os pequenos a entenderem quando o dia amanheceu. Assim como o Mini, o aparelho acompanha cabo USB-C, cartão \"Make Your Own\", acesso ao Yoto Daily e Yoto Radio e o cartão digital gratuito \"5 Minute Stories From Around the World\".",
+            "query_en": "Yoto Player 4th Gen audio device"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b48d2c1c-45ef-40ca-9826-33e30c3f0648",
+      "title": "Os melhores testes gratuitos antes da Black Friday: aproveite Kindle+, Audible, Apple Music e mais sem pagar nada",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "best early black friday free trials deals 2026",
+        "images": [
+          {
+            "anchor": "Melhores ofertas de assinaturas e membros",
+            "query_en": "Amazon Prime package delivery box"
+          },
+          {
+            "anchor": "Melhores ofertas de leitura",
+            "query_en": "Kindle ebook reader device"
+          },
+          {
+            "anchor": "Melhores ofertas de música",
+            "query_en": "Apple Music app interface on smartphone"
+          },
+          {
+            "anchor": "Melhores ofertas de audiolivros",
+            "query_en": "Audible audiobook listening on headphones"
+          },
+          {
+            "anchor": "Melhores ofertas de revistas e notícias",
+            "query_en": "Apple News app on tablet screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f3deb9ff-e3f3-4ba5-adc7-e5597fe64bf5",
+      "title": "Black Friday antecipado já tem 45 ofertas ativas com descontos em MacBooks e Bose",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GEEKOM mini PC review Core Ultra",
+        "video_query_en": "best early black friday tech deals 2026 macbook bose",
         "images": [
           {
-            "anchor": "GEEKOM IT13 com desconto de mais de 25 mil ienes",
-            "query_en": "GEEKOM IT13 mini PC"
+            "anchor": "Apple MacBook Air de 13 polegadas com chip M5",
+            "query_en": "Apple MacBook Air M5 laptop"
           },
           {
-            "anchor": "Opções da MINISFORUM e outras marcas em oferta",
-            "query_en": "MINISFORUM mini PC setup"
+            "anchor": "Fones de ouvido Bose QuietComfort",
+            "query_en": "Bose QuietComfort headphones"
+          },
+          {
+            "anchor": "TV TCL de 75 polegadas QM8L SQD-Mini-LED QLED 4K",
+            "query_en": "TCL QM8L QLED TV"
+          },
+          {
+            "anchor": "Pacote Amazon Kindle Bundle",
+            "query_en": "Amazon Kindle e-reader"
+          },
+          {
+            "anchor": "Fritadeira sem óleo Ninja Crispi Air Fryer",
+            "query_en": "Ninja Crispi air fryer"
+          },
+          {
+            "anchor": "Conjunto Lego Pokémon Eevee",
+            "query_en": "Lego Pokemon Eevee set"
           }
         ]
       }
     },
     {
-      "id": "4fcb2550-d468-4144-a4b8-8186262b7b8f",
-      "title": "Notebooks de marcas como Acer, Lenovo, ASUS e MSI entram em promoção na Amazon com descontos de até cerca de 66 mil ienes",
+      "id": "554c44e1-4ef5-4a9f-9e2e-5b9b6a127e2f",
+      "title": "Smosh Games eleva o nível de suas partidas de Werewolf com episódios gigantescos em mansão",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Smosh Games Werewolf in Real Life",
+        "images": [
+          {
+            "anchor": "Uma evolução grandiosa para o clássico de dedução social",
+            "query_en": "Smosh Games Werewolf in Real Life cast mansion"
+          },
+          {
+            "anchor": "Influência de realities e os desafios da gravação em locação",
+            "query_en": "Spencer Agnew Smosh Games interview"
+          },
+          {
+            "anchor": "A importância do figurino e da atmosfera imersiva",
+            "query_en": "Amanda Lehan-Canto Tommy Bowe Smosh Werewolf"
+          },
+          {
+            "anchor": "Novas regras e o futuro do formato",
+            "query_en": "Smosh Werewolf in Real Life episode 2 set"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d5e4fdda-bc71-4a53-9a6f-7f5eb263929d",
+      "title": "MacBook Air com chip M5 recebe grande desconto antecipado de Black Friday",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Acer Swift Go 14 AI review laptop",
+        "video_query_en": "Apple MacBook Air M5 review and deals",
         "images": [
           {
-            "anchor": "Acer Swift Go 14 AI",
-            "query_en": "Acer Swift Go 14 AI laptop OLED"
+            "anchor": "Desconto nos modelos de 13 e 15 polegadas",
+            "query_en": "Apple MacBook Air M5 laptop"
           },
           {
-            "anchor": "Lenovo IdeaPad Slim 3i Gen 11",
-            "query_en": "Lenovo IdeaPad Slim 3i laptop"
+            "anchor": "Apple MacBook Air de 13 polegadas com 16GB de RAM e 1TB de SSD por 1.349 dólares, representando uma economia de 250 dólares em relação ao preço habitual de 1.599 dólares.",
+            "query_en": "Apple MacBook Air 13 inch"
           },
           {
-            "anchor": "Modelos da ASUS",
-            "query_en": "ASUS Vivobook laptop series"
+            "anchor": "Apple MacBook Air de 15 polegadas com 16GB de RAM e 1TB de SSD por 1.549 dólares, marcando uma redução de 250 dólares sobre o valor padrão de 1.799 dólares.",
+            "query_en": "Apple MacBook Air 15 inch"
           },
           {
-            "anchor": "MSI Modern 13 F1M",
-            "query_en": "MSI Modern 13 laptop"
+            "anchor": "Desempenho e reconhecimento de mercado",
+            "query_en": "Apple MacBook Air M5 processor display"
           }
         ]
       }
     },
     {
-      "id": "4f127831-9d74-4de9-9fc1-ed410c97fbb9",
-      "title": "Notebooks gamer com placas RTX da série 50 recebem descontos expressivos na Amazon",
-      "category": "Computadores",
+      "id": "0685b55f-7471-4bdb-b771-1926172f0506",
+      "title": "Campeã de Taskmaster, Chloe Petts relembra jornada até a vitória na Série 22",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Acer Predator Helios Neo gaming laptop review",
+        "video_query_en": "Taskmaster Chloe Petts interview Say More",
         "images": [
           {
-            "anchor": "Acer Predator Helios Neo 16S AI",
-            "query_en": "Acer Predator Helios Neo 16 laptop"
+            "anchor": "A vitória na Série 22 e a busca pela cabeça de ouro",
+            "query_en": "Chloe Petts Taskmaster golden head trophy"
           },
           {
-            "anchor": "Opções da linha Acer Nitro V 16",
-            "query_en": "Acer Nitro V 16 gaming laptop"
+            "anchor": "O lendário disfarce de esconde-esconde que confundiu os adversários e garantiu vantagem tática.",
+            "query_en": "Taskmaster hide and seek challenge"
           },
           {
-            "anchor": "ASUS TUF Gaming A14 e MSI Cyborg 15 C13W",
-            "query_en": "ASUS TUF Gaming A14 laptop"
+            "anchor": "O cálculo desafiador envolvendo feijões enlatados, descrito como um dos momentos mais angustiantes da temporada.",
+            "query_en": "Taskmaster baked beans task"
+          },
+          {
+            "anchor": "O desafio de lidar com o elenco e o humor imprevisível",
+            "query_en": "Richard Ayoade Taskmaster Series 22"
+          },
+          {
+            "anchor": "Projetos paralelos e a comédia queer",
+            "query_en": "The LOL Word queer comedy collective"
           }
         ]
       }
     },
     {
-      "id": "63d77090-ec98-4be2-9b70-66311b24ad16",
-      "title": "Amazon realiza promoção com descontos em carregadores USB e réguas de energia da Anker e CIO",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anker 727 Charging Station GaNPrime 100W review",
-        "images": [
-          {
-            "anchor": "Anker 727 Charging Station (GaNPrime 100W)",
-            "query_en": "Anker 727 Charging Station GaNPrime 100W"
-          },
-          {
-            "anchor": "Anker Nano Charging Station (6-in-1, 67W)",
-            "query_en": "Anker Nano Charging Station 6 in 1 67W"
-          },
-          {
-            "anchor": "Anker 521 Power Strip",
-            "query_en": "Anker 521 Power Strip"
-          },
-          {
-            "anchor": "CIO Polaris CUBE DESK",
-            "query_en": "CIO Polaris CUBE DESK"
-          },
-          {
-            "anchor": "CIO Polaris STICK Built in CORD REEL",
-            "query_en": "CIO Polaris STICK Built in CORD REEL"
-          }
-        ]
-      }
-    },
-    {
-      "id": "91a9a695-6c28-4fb6-929e-32b968b030fe",
-      "title": "Amazon realiza promoção com descontos em fones de ouvido sem fio da Sony, JBL e Bose",
+      "id": "c4d28482-a26b-4b84-9064-423c2aaa58c0",
+      "title": "Encontramos 14 ofertas antecipadas de Black Friday da Apple: garanta AirPods e MacBooks com desconto",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sony INZONE Buds review and features",
+        "video_query_en": "early black friday apple deals macbook air airpods ipad",
         "images": [
           {
-            "anchor": "Sony INZONE Buds com desconto de mais de 4 mil ienes",
-            "query_en": "Sony INZONE Buds wireless gaming earbuds"
+            "anchor": "AirPods da Apple e as melhores ofertas de fones de ouvido",
+            "query_en": "Apple AirPods wireless earbuds"
           },
           {
-            "anchor": "Sony INZONE Buds",
-            "query_en": "Sony INZONE Buds charging case and earbuds"
+            "anchor": "Apple AirPods 4",
+            "query_en": "Apple AirPods 4 white earbuds"
           },
           {
-            "anchor": "Opções da JBL e Bose na promoção da Amazon",
-            "query_en": "Bose QuietComfort Earbuds wireless"
+            "anchor": "Apple AirPods Max 2",
+            "query_en": "Apple AirPods Max headphones"
           },
           {
-            "anchor": "JBL Endurance Zone",
-            "query_en": "JBL Endurance open ear wireless headphones"
+            "anchor": "Ofertas em MacBooks e computadores portáteis",
+            "query_en": "Apple MacBook laptop open on desk"
           },
           {
-            "anchor": "Bose QuietComfort Earbuds",
-            "query_en": "Bose QuietComfort Earbuds charging case"
+            "anchor": "Apple MacBook Air of 13 inches with M5 chip",
+            "query_en": "Apple MacBook Air 13 inch laptop"
           },
           {
-            "anchor": "Bose Ultra Open Earbuds (2ª Geração)",
-            "query_en": "Bose Ultra Open Earbuds second generation"
+            "anchor": "Apple MacBook Neo with A18 Pro chip",
+            "query_en": "Apple MacBook laptop silver"
+          },
+          {
+            "anchor": "Descontos em iPads e tablets versáteis",
+            "query_en": "Apple iPad tablet screen"
+          },
+          {
+            "anchor": "Apple iPad Air of 11 inches with M4 chip",
+            "query_en": "Apple iPad Air tablet"
+          },
+          {
+            "anchor": "Oportunidades em Apple Watch e smartwatches",
+            "query_en": "Apple Watch smartwatch on wrist"
+          },
+          {
+            "anchor": "Apple Watch Ultra 3 of 49 mm",
+            "query_en": "Apple Watch Ultra smartwatch"
           }
         ]
       }
     },
     {
-      "id": "acae1afd-30f3-4338-92a8-2edaf33bc3a1",
-      "title": "Amazon oferece descontos em diversos modelos de Chromebook da Lenovo e ASUS",
-      "category": "Computadores",
+      "id": "1a39e23f-8449-4687-8036-5d75c5cd3081",
+      "title": "Os melhores iPhones para 2026: Comparamos câmeras, bateria e custo-benefício",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Lenovo 300e Yoga Chromebook review and features",
+        "video_query_en": "Apple iPhone line 2026 review comparison",
         "images": [
           {
-            "anchor": "Lenovo 300e Yoga Chromebook",
-            "query_en": "Lenovo 300e Yoga Chromebook device"
+            "anchor": "Melhor iPhone para a maioria das pessoas: iPhone 17",
+            "query_en": "Apple iPhone 17 colors design"
           },
           {
-            "anchor": "Lenovo Chromebook Duet",
-            "query_en": "Lenovo Chromebook Duet detachable tablet"
+            "anchor": "Melhor iPhone econômico: iPhone 17e",
+            "query_en": "Apple iPhone 17e budget phone"
           },
           {
-            "anchor": "Modelos ASUS em promoção",
-            "query_en": "ASUS Chromebook laptop"
+            "anchor": "Melhor iPhone para fotografia: iPhone 18 Pro",
+            "query_en": "Apple iPhone 18 Pro camera controls"
+          },
+          {
+            "anchor": "Melhor iPhone para bateria: iPhone 18 Pro Max",
+            "query_en": "Apple iPhone 18 Pro Max size"
+          },
+          {
+            "anchor": "Melhor iPhone dobrável: iPhone Duo",
+            "query_en": "Apple iPhone Duo foldable"
+          },
+          {
+            "anchor": "Melhor iPhone para design: iPhone Air",
+            "query_en": "Apple iPhone Air thin design"
           }
         ]
       }
     },
     {
-      "id": "9109b277-9443-425d-8452-4bd663013664",
-      "title": "Produtor de Zelda, Eiji Aonuma, destaca os benefícios de funcionários de longa data na Nintendo",
+      "id": "6fcfba03-c0a8-4d5d-b904-df884d83e158",
+      "title": "7 Grandes Séries da Netflix que Vale a Pena Assistir Apenas uma Vez",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Netflix shows you can only watch once",
+        "images": [
+          {
+            "anchor": "BoJack Horseman",
+            "query_en": "BoJack Horseman animated series Netflix"
+          },
+          {
+            "anchor": "American Vandal",
+            "query_en": "American Vandal Netflix mockumentary"
+          },
+          {
+            "anchor": "The Haunting of Hill House",
+            "query_en": "The Haunting of Hill House Mike Flanagan Netflix"
+          },
+          {
+            "anchor": "When They See Us",
+            "query_en": "When They See Us Netflix miniseries"
+          },
+          {
+            "anchor": "1899",
+            "query_en": "1899 Netflix series Kerberos"
+          },
+          {
+            "anchor": "Archive 81",
+            "query_en": "Archive 81 Netflix horror series"
+          },
+          {
+            "anchor": "Baby Reindeer",
+            "query_en": "Baby Reindeer Netflix Richard Gadd"
+          }
+        ]
+      }
+    },
+    {
+      "id": "955e26f0-855b-4d71-b834-7398c9fb26ba",
+      "title": "Whoopi Goldberg retorna oficialmente como Guinan em Star Trek: Federation Fleet",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Eiji Aonuma interview Zelda long term staff Nintendo",
+        "video_query_en": "Star Trek Federation Fleet Magic the Gathering Guinan",
         "images": [
           {
-            "anchor": "O valor da continuidade na franquia Zelda",
-            "query_en": "Eiji Aonuma Zelda development Nintendo"
+            "anchor": "O legado e o poder de Guinan na franquia",
+            "query_en": "Guinan Star Trek The Next Generation Whoopi Goldberg"
           },
           {
-            "anchor": "O equilíbrio entre veteranos e novos talentos",
-            "query_en": "Nintendo game development team office"
+            "anchor": "O retorno triunfal em Federation Fleet",
+            "query_en": "Star Trek Federation Fleet Magic the Gathering crossover"
           },
           {
-            "anchor": "O processo de integração envolve conversas aprofundadas com os novatos.",
-            "query_en": "Nintendo game developers meeting"
+            "anchor": "Detalhes da carta Guinan, Ancient Advisor",
+            "query_en": "Guinan Ancient Advisor Magic the Gathering card"
           },
           {
-            "anchor": "A equipe explica detalhadamente como e por que determinados processos são realizados.",
-            "query_en": "Zelda Ocarina of Time concept art map"
+            "anchor": "Landing Party",
+            "query_en": "Commander Spock Magic the Gathering Federation Fleet"
           },
           {
-            "anchor": "É necessário ensinar a linguagem própria utilizada internamente no desenvolvimento.",
-            "query_en": "Nintendo Switch development kit screen"
+            "anchor": "Klingon Fury",
+            "query_en": "Worf Defiant Commander Magic the Gathering"
           },
           {
-            "anchor": "Evita-se que novos funcionários executem tarefas de forma mecânica ou sem compreender os motivos reais por trás de cada decisão.",
-            "query_en": "Game design team collaborating"
+            "anchor": "We Are the Borg",
+            "query_en": "Borg Queen Magic the Gathering card Star Trek"
           },
           {
-            "anchor": "O contraste com o mercado de jogos",
-            "query_en": "Nintendo Kyoto headquarters building"
+            "anchor": "O contexto do crossover e os outros decks",
+            "query_en": "Jean Luc Picard Luminary Magic the Gathering"
           }
         ]
       }
     },
     {
-      "id": "d8f963b0-abb6-48f4-b4ad-be6e056d6586",
-      "title": "Shigeru Miyamoto ausenta-se de briefing financeiro da Nintendo devido a doença repentina",
-      "category": "Games",
+      "id": "a651cef8-a0e6-4005-837c-3e693fc4df57",
+      "title": "All 8 Episodes Of Netflix's R-Rated Thriller Miniseries Deliver Peak Psychological Horror",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+    },
+    {
+      "id": "f4588edd-bd68-40ac-a7c3-2f543644ee4b",
+      "title": "A série de mistério Ludwig da BBC entrega tramas inteligentes e originais",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Shigeru Miyamoto Nintendo financial briefing news",
+        "video_query_en": "Ludwig BBC series trailer David Mitchell",
         "images": [
           {
-            "anchor": "A ausência de Miyamoto nos eventos recentes",
-            "query_en": "Shigeru Miyamoto Nintendo"
+            "anchor": "## O apelo dos enigmas inteligentes em Ludwig",
+            "query_en": "David Mitchell Ludwig BBC series"
           },
           {
-            "anchor": "Condecoração histórica e ausência na cerimônia",
-            "query_en": "Japan Order of Culture award ceremony Tokyo"
+            "anchor": "- Abordagem única: John soluciona os crimes tratando-os como quebra-cabeças lógicos, grades lógicas e xadrez reverso.",
+            "query_en": "Ludwig BBC murder mystery puzzle"
           },
           {
-            "anchor": "Projetos recentes e próximos lançamentos",
-            "query_en": "Super Mario movie Shigeru Miyamoto Illumination"
-          },
-          {
-            "anchor": "O criador apareceu recentemente nos créditos do remake de Zelda: Ocarina of Time, onde foi reconhecido pelo seu trabalho no design original do jogo.",
-            "query_en": "Zelda Ocarina of Time Nintendo 64"
-          },
-          {
-            "anchor": "Ele também tem mantido uma colaboração estreita com o estúdio Illumination na produção dos filmes baseados na franquia Super Mario.",
-            "query_en": "Super Mario Bros Movie premiere"
-          },
-          {
-            "anchor": "Miyamoto atua como co-produtor no aguardado filme em live-action de The Legend of Zelda, cujo lançamento está programado para o mês de abril do próximo ano.",
-            "query_en": "The Legend of Zelda live action movie Nintendo"
+            "anchor": "## A limitação estrutural da premissa",
+            "query_en": "Anna Maxwell Martin Ludwig BBC"
           }
         ]
       }
+    },
+    {
+      "id": "41a8a5e6-1f29-4a6b-b04a-16c881e409eb",
+      "title": "The Best Live-Action Sherlock Made The Biggest Change To Arthur Conan Doyle's Character",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -742,58 +869,49 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "e490b0be-f830-487e-81bb-4679002e9d4f",
-      "title": "A história mais lovecraftiana de Stephen King merece uma adaptação para a TV após plano falhado de filme",
+      "id": "3bacb9a5-7a4f-4d4e-af95-311e723f99e6",
+      "title": "7 Obras de Isekai Perfeitas para Maratonar em Apenas um Fim de Semana",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Mike Flanagan Stephen King Revival adaptation Lovecraftian horror",
+        "video_query_en": "best short isekai anime to binge watch",
         "images": [
           {
-            "anchor": "O cancelamento do filme e o potencial na televisão",
-            "query_en": "Stephen King Revival book cover horror"
+            "anchor": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+            "query_en": "Cautious Hero anime Seiya Ristarte"
           },
           {
-            "anchor": "A estrutura ideal para uma série baseada em Revival",
-            "query_en": "Mike Flanagan director portrait horror"
+            "anchor": "Restaurant to Another World",
+            "query_en": "Restaurant to Another World anime Nekoya"
           },
           {
-            "anchor": "Primeiros episódios",
-            "query_en": "Maine small town vintage atmosphere"
+            "anchor": "Uncle From Another World",
+            "query_en": "Uncle From Another World anime Yousuke Takafumi"
           },
           {
-            "anchor": "Segundo arco da narrativa",
-            "query_en": "dark moody musician concert stage"
+            "anchor": "Now And Then, Here And There",
+            "query_en": "Now and Then Here and There anime Shu Lala-Ru"
           },
           {
-            "anchor": "Episódios finais",
-            "query_en": "tent revival preacher faith healing"
+            "anchor": "Re:Creators",
+            "query_en": "Re:Creators anime Sota Mizushino"
           },
           {
-            "anchor": "O desafio de O Nevoeiro e o futuro do horror cósmico",
-            "query_en": "The Mist 2007 movie scene supermarket fog"
+            "anchor": "The Vision of Escaflowne",
+            "query_en": "The Vision of Escaflowne anime Hitomi mecha"
+          },
+          {
+            "anchor": "Sonny Boy",
+            "query_en": "Sonny Boy anime Shingo Natsume school"
           }
         ]
       }
     },
     {
-      "id": "7bb3e6ef-63c5-4a15-bba2-61f807810770",
-      "title": "The Expanse Retorna em 2027 com Nova Série de Prequela em Seis Partes e Jogos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Expanse game trailer gameplay",
-        "images": [
-          {
-            "anchor": "O Histórico e o Sucesso de The Expanse: A Telltale Series",
-            "query_en": "The Expanse A Telltale Series Camina Drummer space"
-          },
-          {
-            "anchor": "O Novo RPG de Ação The Expanse: Osiris Reborn",
-            "query_en": "The Expanse Osiris Reborn game characters tunnel"
-          }
-        ]
-      }
+      "id": "cfa53745-e1c2-46e8-b5e7-3ebb59ca6bd3",
+      "title": "8 Action-Packed Dramas To Watch If You Can't Get Enough Of Neagley & Reacher",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
