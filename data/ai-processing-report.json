@@ -1,653 +1,835 @@
 {
-  "updated_at": "2026-11-08T06:21:00.031Z",
+  "updated_at": "2026-11-08T12:28:21.394Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "c6aaebc7-0043-4ab8-92c1-2e5c30e26687",
-      "title": "Polônia em choque após massacre em Cracóvia que deixou seis mortos",
+      "id": "a599d932-405a-4f89-b306-2dd4528e3dc2",
+      "title": "Eurovision leva a sua mistura de música pop e geopolítica para a Ásia",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Eurovision Song Contest Asia Bangkok",
+        "images": [
+          {
+            "anchor": "A chegada do festival à Ásia",
+            "query_en": "Bangkok city skyline Thailand"
+          },
+          {
+            "anchor": "Países participantes e atrações",
+            "query_en": "Asia music festival stage performance"
+          },
+          {
+            "anchor": "Laos",
+            "query_en": "Laos landscape culture"
+          },
+          {
+            "anchor": "Mongólia",
+            "query_en": "Mongolia culture landscape"
+          },
+          {
+            "anchor": "Filipinas",
+            "query_en": "Philippines culture performance"
+          },
+          {
+            "anchor": "Transmissão e expectativas de público",
+            "query_en": "Television broadcast studio live"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79b65b04-77f3-45ba-8b7a-37bb5d898f8e",
+      "title": "O fim das operações de paz da ONU no Saara Ocidental e suas implicações geopolíticas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "UN peacekeeping operations in Western Sahara Morocco Polisario",
+        "images": [
+          {
+            "anchor": "O cenário de controle e disputa territorial",
+            "query_en": "Western Sahara landscape desert Morocco"
+          },
+          {
+            "anchor": "Marrocos",
+            "query_en": "Morocco flag and map"
+          },
+          {
+            "anchor": "Frente Polisario",
+            "query_en": "Polisario Front flag Sahara"
+          },
+          {
+            "anchor": "Argélia",
+            "query_en": "Algeria flag landscape"
+          },
+          {
+            "anchor": "O papel das missões da ONU",
+            "query_en": "United Nations peacekeepers vehicles desert"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a87fa2ef-0f18-4d95-a840-651f15776304",
+      "title": "Formação submarina 'Godzilla' descoberta pela Guarda Costeira do Japão recebe status de patrimônio geológico mundial",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Godzilla Megamullion seafloor formation Japan Coast Guard",
+        "images": [
+          {
+            "anchor": "Reconhecimento Internacional",
+            "query_en": "International Union of Geological Sciences geological heritage site ocean"
+          },
+          {
+            "anchor": "Descoberta e Localização",
+            "query_en": "Okinotorishima island Pacific ocean aerial view"
+          },
+          {
+            "anchor": "Estrutura em formato de cúpula localizada no fundo do oceano",
+            "query_en": "megamullion seafloor structure underwater geology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "59ba2b0b-f1f5-4ebb-973a-ce9104bc4364",
+      "title": "Disputa pela presidência do BCE se resume a candidatos da Holanda e da Espanha",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "European Central Bank presidency succession candidates Knot Hernandez de Cos",
+        "images": [
+          {
+            "anchor": "Os principais concorrentes ao cargo",
+            "query_en": "European Central Bank building Frankfurt"
+          },
+          {
+            "anchor": "Klaas Knot",
+            "query_en": "Klaas Knot central bank"
+          },
+          {
+            "anchor": "Pablo Hernandez de Cos",
+            "query_en": "Pablo Hernandez de Cos"
+          },
+          {
+            "anchor": "Próximos passos do Eurogroup",
+            "query_en": "Eurogroup meeting finance ministers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cf075da0-0cfa-4447-ba7c-3fdd35561292",
+      "title": "Ato em Tóquio reúne 800 pessoas para exigir retorno imediato de sequestrados pela Coreia do Norte",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "North Korea abductees rally Tokyo Japan Takuya Yokota Sanae Takaichi",
+        "images": [
+          {
+            "anchor": "Manifestação em Tóquio e presença de lideranças",
+            "query_en": "Tokyo rally crowd Japan flags"
+          },
+          {
+            "anchor": "Apelo dos familiares das vítimas",
+            "query_en": "Takuya Yokota press conference Japan"
+          },
+          {
+            "anchor": "A resolução adotada no comício",
+            "query_en": "Protest sign Japan North Korea abductees"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3fde8fb1-e635-422e-94af-048426d8e388",
+      "title": "COP31 climate summit in Turkey, ASEAN Summit, Sri Lanka budget",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
+    },
+    {
+      "id": "3069f7b6-e8bd-48d2-a081-e3bd2c31321d",
+      "title": "Líder do Vietnã, To Lam, visita o Japão em momento de transformação nas relações bilaterais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Vietnam leader To Lam visits Japan international relations",
+        "images": [
+          {
+            "anchor": "Cooperação em diversas frentes",
+            "query_en": "To Lam Japan meeting bilateral relations"
+          },
+          {
+            "anchor": "Perspectivas futuras da parceria",
+            "query_en": "Tokyo Vietnam business cooperation summit"
+          },
+          {
+            "anchor": "Comércio bilateral e investimentos corporativos de gigantes japoneses no Vietnã.",
+            "query_en": "Japanese investment in Vietnam economy"
+          },
+          {
+            "anchor": "Projetos conjuntos no setor de energia e infraestrutura de transportes.",
+            "query_en": "Vietnam infrastructure energy projects"
+          },
+          {
+            "anchor": "Expansão de laços educacionais e aumento populacional de residentes vietnamitas no Japão.",
+            "query_en": "Vietnamese community in Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa88b041-37d9-4f2d-a8bf-fb05e2e049b2",
+      "title": "Usina Nuclear de Zaporizhzhia na Ucrânia volta a depender de energia reserva",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Poland Krakow mass shooting news report",
+        "video_query_en": "Zaporizhzhia nuclear plant backup power IAEA",
         "images": [
           {
-            "anchor": "O ataque na praça histórica",
-            "query_en": "Krakow main square historic center Poland"
+            "anchor": "Contexto da Interrupção",
+            "query_en": "Zaporizhzhia Nuclear Power Plant aerial view Ukraine"
           },
           {
-            "anchor": "Desdobramentos na residência do atirador",
-            "query_en": "police investigation tape crime scene house"
+            "anchor": "Instalação localizada no sudeste da Ucrânia",
+            "query_en": "Zaporizhzhia nuclear power plant cooling towers"
           },
           {
-            "anchor": "Impacto emocional e sensação de segurança",
-            "query_en": "Krakow tourist landmark Poland"
-          },
-          {
-            "anchor": "Contexto de violência recente",
-            "query_en": "police officers patrolling public square"
+            "anchor": "O Papel da AIEA",
+            "query_en": "IAEA official inspecting nuclear facility"
           }
         ]
       }
     },
     {
-      "id": "de2d0c3b-41e1-4fde-a552-f260496bb6c4",
-      "title": "Chuva forte deixa dezenas de milhares sem abrigo em Gaza, afirmam autoridades locais",
+      "id": "4ffa6c1c-f38e-43bf-ad76-8bcc40afcc8b",
+      "title": "A experiência de montar blocos alternativos da Bluebrixx",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "heavy rain floods gaza displaced tents",
+        "video_query_en": "Bluebrixx Modbrix review clamping blocks building experience",
         "images": [
           {
-            "anchor": "O Impacto das Chuvas na Cidade de Gaza",
-            "query_en": "gaza displaced people tents flood rain"
+            "anchor": "Uma alternativa desafiadora aos blocos tradicionais",
+            "query_en": "Bluebrixx bricks store building set"
           },
           {
-            "anchor": "O Balanço dos Danos e Feridos",
-            "query_en": "damaged tents gaza rain shelter"
+            "anchor": "O contraste entre o resultado e o processo",
+            "query_en": "Modbrix set assembled model"
           }
         ]
       }
     },
     {
-      "id": "7459c773-1b12-44b7-bfb9-8867b4ceba9d",
-      "title": "A antologia de anime sci-fi 'Grotesqqque' aposta mais no estilo do que na substância",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grotesqqque anime anthology Atsushi Nishigori trailer",
-        "images": [
-          {
-            "anchor": "Introdução à Obra",
-            "query_en": "Grotesqqque anime sci fi movie key art"
-          },
-          {
-            "anchor": "Uma Experiência Desigual",
-            "query_en": "Atsushi Nishigori anime style production"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6865ebc3-b991-465f-9b37-114e3236c745",
-      "title": "Protestos na Indonésia e Malásia contra a instalação de novos centros de dados",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia data centers water protest Batam",
-        "images": [
-          {
-            "anchor": "Crise de água em Batam",
-            "query_en": "Batam Indonesia landscape water scarcity"
-          },
-          {
-            "anchor": "Impacto na região fronteiriça",
-            "query_en": "Data center building exterior architecture"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5ac6a845-da11-4640-92a7-018fb8b910e7",
-      "title": "Como a máquina de tecnologia limpa da China está transformando o combate global ao clima",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China clean tech climate investment developing world",
-        "images": [
-          {
-            "anchor": "A expansão da tecnologia limpa chinesa",
-            "query_en": "China solar panels clean energy manufacturing"
-          },
-          {
-            "anchor": "Comparação com o financiamento climático tradicional",
-            "query_en": "UN climate conference meeting hall global delegates"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6031a8ea-c95a-4295-b755-5654b29d02f2",
-      "title": "Funcionário da Astellas detido na China deve ser solto em dezembro",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Astellas Pharma employee released China Japan relations",
-        "images": [
-          {
-            "anchor": "O caso do funcionário da Astellas",
-            "query_en": "Astellas Pharma headquarters Tokyo"
-          },
-          {
-            "anchor": "Detalhes da detenção e condenação",
-            "query_en": "Beijing China city street view"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9db46c09-f851-4354-81f0-d246670aaed8",
-      "title": "Japão realiza simulado de desastre nuclear com foco na usina de Tomari",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan nuclear disaster drill Tomari plant",
-        "images": [
-          {
-            "anchor": "Contexto do Simulado Nuclear",
-            "query_en": "Hokkaido Electric Power Tomari nuclear plant"
-          },
-          {
-            "anchor": "Retorno dos Exercícios na Usina",
-            "query_en": "Tomari nuclear power plant reactor Japan"
-          },
-          {
-            "anchor": "Participação da Comunidade Local",
-            "query_en": "Japanese residents participating in emergency evacuation drill"
-          },
-          {
-            "anchor": "Cenário de Emergência Simulado",
-            "query_en": "nuclear plant cooling system reactor building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5fd11b53-3ba8-4944-a637-f5f3fa137e77",
-      "title": "SoftBank e ABB avaliam separar operações na China para salvar acordo de robótica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SoftBank ABB robotics deal China review",
-        "images": [
-          {
-            "anchor": "O impasse na China",
-            "query_en": "SoftBank headquarters Tokyo building"
-          },
-          {
-            "anchor": "O bloqueio regulatório",
-            "query_en": "ABB robotics industrial automation factory"
-          },
-          {
-            "anchor": "A busca por alternativas",
-            "query_en": "Robotics manufacturing assembly line China"
-          }
-        ]
-      }
-    },
-    {
-      "id": "06593c43-b767-4498-b5d4-7912d6dbe82c",
-      "title": "Terremoto de magnitude 5.7 fere dezenas de pessoas no centro do Japão",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan earthquake magnitude 5.7 Shizuoka news",
-        "images": [
-          {
-            "anchor": "Impacto na população e feridos",
-            "query_en": "Japan earthquake damage emergency response"
-          },
-          {
-            "anchor": "Alerta de tsunami e avaliações",
-            "query_en": "Shizuoka Japan cityscape night"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e567bbd4-18d3-4e9b-b5da-8965b1fa95d9",
-      "title": "Azerbaijan welcoming ‘set-jetting’ fans of Japan TV drama ‘Vivant’",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "3e678c0c-cc28-4124-aa94-47d2c5e1e49a",
-      "title": "Grab rival Tada joins Singapore's self-driving minibus project",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Transporte"
-    },
-    {
-      "id": "44e13871-12be-41ea-b331-5a01a4ef830b",
-      "title": "O impacto da vitória democrata nas tarifas de Trump e no futuro da Inteligência Artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US midterm elections democratic sweep tariffs and artificial intelligence",
-        "images": [
-          {
-            "anchor": "O futuro das tarifas comerciais e da política externa",
-            "query_en": "US Capitol building Washington DC politics"
-          },
-          {
-            "anchor": "Escrutínio sobre a inteligência artificial e data centers",
-            "query_en": "modern data center server room technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "578cf078-73c8-4217-af29-9dd31579fd14",
-      "title": "O acordo de Ormuz entre Paquistão e Irã enfrenta grave teste após ataque a petroleiro de GNL",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Pakistan Hormuz agreement Iran LNG tanker attack energy security",
-        "images": [
-          {
-            "anchor": "O impacto do ataque ao navio de GNL",
-            "query_en": "LNG tanker ship at sea maritime transportation"
-          },
-          {
-            "anchor": "Consequências para o fornecimento de energia no Paquistão",
-            "query_en": "Pakistan Navy ships Gwadar port Balochistan"
-          },
-          {
-            "anchor": "A necessidade urgente de diversificação",
-            "query_en": "Strait of Hormuz tanker ships aerial view"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ea8e3e7d-41bc-487b-a3cc-9a6c590b8ca3",
-      "title": "Bridgestone Aumenta a Produção de Pneus Gigantes para Mineração Impulsionada pelo Boom da Inteligência Artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bridgestone giant mining tires production AI demand",
-        "images": [
-          {
-            "anchor": "O Papel dos Pneus Gigantes na Demanda por Cobre",
-            "query_en": "Bridgestone giant mining tire factory Kitakyushu"
-          },
-          {
-            "anchor": "Conexões com o Mercado de Mineração e Maquinário",
-            "query_en": "massive mining truck tires heavy equipment"
-          },
-          {
-            "anchor": "- A Komatsu anunciou planos para triplicar o tamanho de sua central de manutenção nos Estados Unidos, em resposta direta ao que chamam de corrida do cobre impulsionada pela inteligência artificial.",
-            "query_en": "Komatsu mining equipment heavy machinery"
-          },
-          {
-            "anchor": "- A mesma Komatsu elevou suas perspectivas de lucro devido à forte demanda por equipamentos de construção e mineração nas Américas.",
-            "query_en": "Komatsu construction machinery mining"
-          },
-          {
-            "anchor": "- A Bridgestone continua a diversificar e avançar em tecnologias complementares, tendo recentemente colocado no mercado japonês seus pneus sem ar após quase duas décadas de desenvolvimento.",
-            "query_en": "Bridgestone airless tires Japan"
-          },
-          {
-            "anchor": "- Concorrentes do setor automotivo e de borrachas, como a Yokohama Rubber, também ajustam suas estratégias, mirando montadoras como a BYD e outras fabricantes chinesas com uma nova planta de pneus de menor custo.",
-            "query_en": "Yokohama Rubber plant factory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9e540fcc-e169-486f-b58a-9c9c77273251",
-      "title": "Lucro Operacional de Nove Meses da Hanwha Engine Supera o Resultado Total Esperado para 2025",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Engine financial results business growth",
-        "images": [
-          {
-            "anchor": "Desempenho do Terceiro Trimestre",
-            "query_en": "Hanwha Engine corporate building financial report"
-          },
-          {
-            "anchor": "Resultados Acumulados de Nove Meses",
-            "query_en": "Hanwha Engine factory industrial manufacturing operations"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c13f6e89-4cb5-4ed2-914f-624a1874a152",
-      "title": "Lucro Operacional da Coway no Terceiro Trimestre Sobe para 260,8 Bilhões de Wons",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Coway third quarter financial results and operating profit",
-        "images": [
-          {
-            "anchor": "Desempenho Financeiro e Crescimento",
-            "query_en": "Coway corporate building office"
-          },
-          {
-            "anchor": "Comparativos Anuais e Trimestrais",
-            "query_en": "financial graph corporate growth business"
-          }
-        ]
-      }
-    },
-    {
-      "id": "873ba764-3201-4bc4-b02c-bc3e2af50721",
-      "title": "Anúncio destaca novas oportunidades em TI na Golem Karrierewelt",
+      "id": "95cf7b67-b121-4016-b8dc-f00d169daa3d",
+      "title": "Criando aplicativos web com Flutter e Dart sem usar JavaScript e HTML",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "IT jobs cloud administration software development career",
+        "video_query_en": "Flutter web development tutorial Dart",
         "images": [
           {
-            "anchor": "Áreas de atuação em destaque",
-            "query_en": "IT professionals working in cloud administration and software development"
+            "anchor": "A proposta do Flutter para a web",
+            "query_en": "Flutter logo programming framework"
+          },
+          {
+            "anchor": "Desenvolvendo uma calculadora de pizza",
+            "query_en": "Coding on laptop screen development"
+          },
+          {
+            "anchor": "Vantagens da abordagem",
+            "query_en": "Dart programming language code"
           }
         ]
       }
     },
     {
-      "id": "b2e588e8-615d-4a4c-a978-e7aa8b8ef132",
-      "title": "Workman lança bolsa 2 em 1 versátil por 2.900 ienes com função de mochila e espaço para capacetes",
+      "id": "ce136187-b114-461f-bd8d-702033650623",
+      "title": "Eficiência em bombas de calor durante períodos de calmaria sem vento e sol",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "heat pump chemical storage winter efficiency",
+        "images": [
+          {
+            "anchor": "Desafios do aquecimento no inverno",
+            "query_en": "modern heat pump installation house winter"
+          },
+          {
+            "anchor": "O papel dos acumuladores químicos",
+            "query_en": "thermal energy storage chemical system laboratory"
+          },
+          {
+            "anchor": "Vantagens da integração tecnológica",
+            "query_en": "renewable energy grid storage house heating"
+          }
+        ]
+      }
+    },
+    {
+      "id": "64b27d4e-4079-4ab2-913b-eeae292b5f01",
+      "title": "Sachsen plane reator experimental para aproveitamento de lixo nuclear",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "molten salt reactor nuclear waste energy generation",
+        "images": [
+          {
+            "anchor": "O projeto do reator na Saxônia",
+            "query_en": "Saxony state flag landmark Germany"
+          },
+          {
+            "anchor": "A tecnologia de sal fundido",
+            "query_en": "molten salt nuclear reactor facility interior"
+          },
+          {
+            "anchor": "Perspectivas industriais e exportação",
+            "query_en": "modern nuclear power plant technology"
+          },
+          {
+            "anchor": "Reator experimental com capacidade de 50 megawatts",
+            "query_en": "experimental nuclear reactor turbine hall"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6463a1ea-b013-4fe5-a839-73d34aafbe85",
+      "title": "Hardware da Nvidia no valor de mais de 11 milhões de dólares desaparece a caminho do Texas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Workman 2WAY bag review multi storage backpack",
+        "video_query_en": "Nvidia hardware missing stolen Texas logistics",
         "images": [
           {
-            "anchor": "Versatilidade de uso com o design 2 em 1",
-            "query_en": "Workman multifunctional 2way bag backpack"
+            "anchor": "Detalhes do sumiço da carga",
+            "query_en": "cargo logistics warehouse distribution center"
           },
           {
-            "anchor": "Compartimento externo dedicado a itens volumosos",
-            "query_en": "Workman backpack helmet storage pocket"
+            "anchor": "O impacto das restrições de exportação",
+            "query_en": "Nvidia hardware microchips semiconductors"
           }
         ]
       }
     },
     {
-      "id": "90486eee-2d48-45df-b7b7-fe3247742fa9",
-      "title": "NTT DoCoMo Conclui Manutenção de Emergência no Site do ahamo e Retoma as Operações",
-      "category": "Smartphones",
+      "id": "d2aa26d4-17a1-4836-95d5-c4d4f495e411",
+      "title": "Ministra da Justiça avalia vazamentos da AfD como possível base para proibição",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NTT Docomo ahamo site maintenance security",
+        "video_query_en": "Stefanie Hubig AfD leak ban process Germany",
         "images": [
           {
-            "anchor": "Conclusão da Manutenção de Emergência",
-            "query_en": "NTT Docomo smartphone store Tokyo"
+            "anchor": "O debate sobre os vazamentos e o processo de banimento",
+            "query_en": "German Ministry of Justice building Berlin"
           },
           {
-            "anchor": "Motivos da Suspensão Preventiva",
-            "query_en": "Cybersecurity server room technology"
-          },
-          {
-            "anchor": "Retomada e Impacto para os Usuários",
-            "query_en": "Mobile phone customer service Japan"
+            "anchor": "Detalhes da discussão e posicionamentos",
+            "query_en": "German political debate Bundestag"
           }
         ]
       }
     },
     {
-      "id": "2e3636a6-5bf6-408e-9086-d7e33add9fee",
-      "title": "Comparativo gráfico de Zelda: Ocarina of Time revela evolução entre Switch 2, 3DS e N64",
+      "id": "1f2e455a-00a4-4af7-99b9-d23c3e32b54e",
+      "title": "NTT DoCoMo revisa previsão de lucros para cima com estratégia de preços e foco em redes",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NTT DoCoMo mobile network strategy and pricing",
+        "images": [
+          {
+            "anchor": "A estratégia por trás do DoCoMo MAX e reajuste de tarifas",
+            "query_en": "NTT DoCoMo smartphone store Tokyo"
+          },
+          {
+            "anchor": "Destinação de recursos e investimentos",
+            "query_en": "telecommunication network infrastructure control room"
+          },
+          {
+            "anchor": "Os desafios remanescentes na rede",
+            "query_en": "5G cell tower telecommunication equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "412958b0-75d4-42c6-b2ea-d712f47a2376",
+      "title": "Digital Foundry analisa o desempenho técnico de Stellar Blade no Switch 2",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time Switch 2 3DS N64 graphics comparison ElAnalistDeBits",
+        "video_query_en": "Stellar Blade Switch 2 Digital Foundry tech review",
         "images": [
           {
-            "anchor": "Evolução de desempenho e resolução",
-            "query_en": "Zelda Ocarina of Time Switch 2 gameplay"
+            "anchor": "Uma adaptação com compromissos mais suaves",
+            "query_en": "Stellar Blade Switch 2 gameplay graphics"
           },
           {
-            "anchor": "A recepção da crítica especializada",
-            "query_en": "Zelda Ocarina of Time Switch 2 Link"
+            "anchor": "Desempenho, taxa de quadros e geração de quadros",
+            "query_en": "Stellar Blade Nintendo Switch 2 handheld"
+          },
+          {
+            "anchor": "Disponibilidade e opções para os jogadores",
+            "query_en": "Stellar Blade Eve action combat"
           }
         ]
       }
     },
     {
-      "id": "ef90c84e-e88e-4918-a01f-325c1a648717",
-      "title": "Como assistir Inglaterra x Austrália no Nations Championship 2026 de graça ao vivo",
+      "id": "d366b17e-3997-45ec-885b-a9a8ddc6ca48",
+      "title": "Bill Trinen, da Nintendo, aponta Ocarina of Time como o ponto de partida ideal para a franquia Zelda",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "England vs Australia rugby match highlights",
+        "video_query_en": "Bill Trinen Ocarina of Time Switch 2 interview",
         "images": [
           {
-            "anchor": "O grande confronto entre Inglaterra e Austrália",
-            "query_en": "Twickenham Stadium rugby match"
+            "anchor": "O ponto de partida perfeito para novos jogadores",
+            "query_en": "Bill Trinen Nintendo San Francisco event"
           },
           {
-            "anchor": "Horário e local da partida",
-            "query_en": "Twickenham Stadium exterior"
+            "anchor": "Uma história estrutural para o universo de Zelda",
+            "query_en": "The Legend of Zelda Ocarina of Time Link and Zelda"
           },
           {
-            "anchor": "Como assistir à transmissão ao vivo de graça",
-            "query_en": "ITVX streaming service logo"
-          },
-          {
-            "anchor": "Passo a passo para o acesso global",
-            "query_en": "Person using laptop with VPN app"
-          },
-          {
-            "anchor": "Alternativas e garantias de reembolso",
-            "query_en": "ExpressVPN application on smartphone"
-          },
-          {
-            "anchor": "Vantagens do uso de VPN para o evento",
-            "query_en": "Cybersecurity global network servers map"
+            "anchor": "O contexto do remake e os próximos passos da franquia",
+            "query_en": "Nintendo Switch 2 console"
           }
         ]
       }
     },
     {
-      "id": "fe85a576-0d10-4118-8c25-58ff93c0dea1",
-      "title": "Como assistir a Crystal Palace e Liverpool ao vivo, online e de graça",
+      "id": "b3e80e2f-5a38-4c2f-b4b4-1d0432806643",
+      "title": "Box Art Brawl: O Duelo Definitivo de The Legend of Zelda: Ocarina of Time",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Crystal Palace vs Liverpool Premier League preview",
+        "video_query_en": "The Legend of Zelda Ocarina of Time box art history",
         "images": [
           {
-            "anchor": "Quando e onde acontece o jogo",
-            "query_en": "Selhurst Park stadium London"
+            "anchor": "Relembrando a Disputa Anterior e o Resultado de Revenge of the 'Gator",
+            "query_en": "Revenge of the Gator Game Boy box art"
           },
           {
-            "anchor": "Como assistir de graça",
-            "query_en": "Premier League live stream broadcast"
+            "anchor": "Uma Edição Especial e Definitiva para Ocarina of Time",
+            "query_en": "The Legend of Zelda Ocarina of Time N64 box art"
           },
           {
-            "anchor": "O primeiro passo consiste em assinar um serviço de rede virtual privada",
-            "query_en": "ExpressVPN app on smartphone screen"
-          },
-          {
-            "anchor": "Em seguida, é necessário baixar o aplicativo oficial da VPN",
-            "query_en": "Downloading VPN application on mobile device"
-          },
-          {
-            "anchor": "Abra o aplicativo instalado e selecione um servidor",
-            "query_en": "VPN server list connection Brazil"
-          },
-          {
-            "anchor": "Acesse a plataforma da CazéTV",
-            "query_en": "CazeTV live sports broadcast screen"
-          },
-          {
-            "anchor": "Opções de ferramentas de rede virtual",
-            "query_en": "Cyber security and VPN service technology"
+            "anchor": "Os Critérios de Seleção e Exclusões da Competição",
+            "query_en": "The Legend of Zelda Ocarina of Time 3DS box art"
           }
         ]
       }
     },
     {
-      "id": "898e27eb-23d2-4cfc-becd-8eb839a51425",
-      "title": "Wilderdark: o novo jogo da Steam que mistura Jurassic Park com Fallout",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Wilderdark Steam game demo gameplay trailer",
-        "images": [
-          {
-            "anchor": "Uma proposta de sobrevivência e investigação",
-            "query_en": "Team Junkfish Monstrum game survival horror"
-          },
-          {
-            "anchor": "Disponibilidade da demonstração e perspectivas",
-            "query_en": "Steam store game download demo interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5a819b62-2d35-47e4-a4ca-b92a638d9feb",
-      "title": "All 12 Episodes Of Netflix's Best Zombie Series Deliver Peak Undead Action",
+      "id": "b2f4ae78-aa73-46cf-9a9a-2676e1ccbb57",
+      "title": "The Rings of Power showrunners break down forging the One Ring in season 3",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "68dd557a-28f9-4223-a831-40f064e8757e",
-      "title": "Horror Legend John Carpenter Officially Returns With Terrifying New Release",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "4a150998-6985-4b33-9a4c-79a889b736e1",
-      "title": "Os 25 Melhores Mangás Seinen de Todos os Tempos",
-      "category": "Games",
+      "id": "24d79610-5125-4bf3-b184-f7c1f0e7f50f",
+      "title": "Fase da Lua hoje: Como a Lua vai se parecer em 8 de novembro de 2026",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best seinen manga of all time ranked",
+        "video_query_en": "NASA Moon phases explanation lunar cycle",
         "images": [
           {
-            "anchor": "Miss Kobayashi's Dragon Maid",
-            "query_en": "Miss Kobayashi's Dragon Maid manga"
+            "anchor": "A fase da Lua em 8 de novembro de 2026",
+            "query_en": "Waning Crescent Moon phase night sky"
           },
           {
-            "anchor": "Bocchi The Rock!",
-            "query_en": "Bocchi the Rock manga"
+            "anchor": "Previsão para a próxima Lua Cheia",
+            "query_en": "Full Moon night sky bright"
           },
           {
-            "anchor": "Record Of Ragnarok",
-            "query_en": "Record of Ragnarok manga"
+            "anchor": "Como funcionam as fases da Lua",
+            "query_en": "Lunar cycle phases diagram astronomy"
           },
           {
-            "anchor": "Grand Blue Dreaming",
-            "query_en": "Grand Blue Dreaming manga"
+            "anchor": "New Moon",
+            "query_en": "New moon dark sky astronomy"
           },
           {
-            "anchor": "Rosen Garten Saga",
-            "query_en": "Rosen Garten Saga manga"
+            "anchor": "Waxing Crescent",
+            "query_en": "Waxing crescent moon sky"
           },
           {
-            "anchor": "Dead Dead Demon's Dededede Destruction",
-            "query_en": "Dead Dead Demon's Dededede Destruction manga"
+            "anchor": "First Quarter",
+            "query_en": "First quarter moon half illuminated"
           },
           {
-            "anchor": "Witch Hat Atelier",
-            "query_en": "Witch Hat Atelier manga"
+            "anchor": "Waxing Gibbous",
+            "query_en": "Waxing gibbous moon close up"
           },
           {
-            "anchor": "Delicious In Dungeon",
-            "query_en": "Delicious in Dungeon manga"
+            "anchor": "Full Moon",
+            "query_en": "Full moon glowing bright"
           },
           {
-            "anchor": "Land Of The Lustrous",
-            "query_en": "Land of the Lustrous manga"
+            "anchor": "Waning Gibbous",
+            "query_en": "Waning gibbous moon phase"
           },
           {
-            "anchor": "March Comes In Like a Lion",
-            "query_en": "March Comes In Like a Lion manga"
+            "anchor": "Third Quarter ou Last Quarter",
+            "query_en": "Third quarter moon half lit"
+          },
+          {
+            "anchor": "Waning Crescent",
+            "query_en": "Waning crescent thin moon sliver"
           }
         ]
       }
     },
     {
-      "id": "34566b0b-9707-4a93-8981-6315f92c3cb3",
-      "title": "Série de God of War do Prime Video arrisca ao pular a trilogia grega original",
-      "category": "Filmes, Séries e Animações",
+      "id": "7d16531b-cfa9-4d50-8465-a07a90842210",
+      "title": "Vale a pena assinar o Pure em comparação à assinatura Gold do AdultFriendFinder?",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "God of War Prime Video series skipping Greek trilogy",
+        "video_query_en": "AdultFriendFinder vs Pure app membership comparison review",
         "images": [
           {
-            "anchor": "Uma aposta ousada no formato de exibição",
-            "query_en": "Dave Bautista Kratos God of War Prime Video"
+            "anchor": "Ofertas de assinaturas gratuitas",
+            "query_en": "online dating app user interface interface screen"
           },
           {
-            "anchor": "O salto sobre a mitologia grega",
-            "query_en": "God of War Greek mythology games"
+            "anchor": "Vantagens das assinaturas pagas",
+            "query_en": "smartphone dating app privacy mode profile features"
           },
           {
-            "anchor": "O foco direcionado à Saga Nórdica",
-            "query_en": "God of War 2018 Norse saga"
+            "anchor": "Taxa de sucesso e localização",
+            "query_en": "city skyline night urban dating geolocation map"
           }
         ]
       }
     },
     {
-      "id": "bee7095e-8d84-4d3c-aee4-3726c4fd48ae",
-      "title": "Realm of the Mad God une mecânicas de Vampire Survivors e Dungeon Crawler Carl em RPG gratuito",
-      "category": "Games",
+      "id": "912c685b-d51d-4d87-b5f6-52606826e3c7",
+      "title": "Como assistir Atlético de Madrid vs. Barcelona ao vivo e de graça na La Liga",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Realm of the Mad God gameplay review",
+        "video_query_en": "Atletico Madrid vs Barcelona La Liga preview stream",
         "images": [
           {
-            "anchor": "Uma experiência gratuita de mais de 100 horas",
-            "query_en": "Realm of the Mad God boss fight gameplay"
+            "anchor": "Como assistir à partida gratuitamente",
+            "query_en": "Metropolitano Stadium Atletico Madrid Barcelona"
           },
           {
-            "anchor": "A fusão entre Roguelike e MMORPG",
-            "query_en": "Realm of the Mad God shop and classes"
+            "anchor": "Transmissão ao vivo e gratuita do jogo através da CazéTV.",
+            "query_en": "CazeTV logo broadcast"
           },
           {
-            "anchor": "Foco em multiplayer e comunidade",
-            "query_en": "Realm of the Mad God steam game interface"
+            "anchor": "Uso de uma VPN para contornar restrições geográficas caso o usuário esteja fora do território brasileiro.",
+            "query_en": "VPN online security connection"
+          },
+          {
+            "anchor": "Ocultação do endereço IP real para conexão com um servidor seguro no Brasil.",
+            "query_en": "Brazil flag digital map connection"
+          },
+          {
+            "anchor": "Passo a passo para a transmissão",
+            "query_en": "Streaming sports on smartphone laptop"
+          },
+          {
+            "anchor": "Assinar um serviço de VPN compatível com streaming, com recomendação para o uso do ExpressVPN.",
+            "query_en": "ExpressVPN application interface"
+          },
+          {
+            "anchor": "Baixar e instalar o aplicativo oficial da ferramenta no dispositivo de preferência.",
+            "query_en": "Downloading mobile app on smartphone"
+          },
+          {
+            "anchor": "Abrir o software e estabelecer conexão com um servidor localizado no Brasil.",
+            "query_en": "VPN server selection list"
+          },
+          {
+            "anchor": "Acessar a plataforma da CazéTV para acompanhar o evento ao vivo.",
+            "query_en": "Watching live sports on computer screen"
+          },
+          {
+            "anchor": "Aproveitar a transmissão do clássico da La Liga de qualquer lugar do mundo.",
+            "query_en": "La Liga football match action"
+          },
+          {
+            "anchor": "Opções e planos de VPN para o esporte",
+            "query_en": "Cybersecurity VPN privacy shield"
+          },
+          {
+            "anchor": "ExpressVPN como escolha principal para contornar bloqueios geográficos em transmissões esportivas na CazéTV.",
+            "query_en": "ExpressVPN logo and branding"
+          },
+          {
+            "anchor": "Presença de servidores distribuídos em 105 países diferentes, incluindo o Brasil.",
+            "query_en": "Global server network map"
+          },
+          {
+            "anchor": "Aplicativos intuitivos e fáceis de usar em diversas plataformas, como iPhone, Android, Windows e Mac.",
+            "query_en": "Multiple devices smartphone tablet laptop"
+          },
+          {
+            "anchor": "Política rigorosa de não armazenamento de registros de navegação para maior segurança de dados.",
+            "query_en": "Data privacy padlock security"
+          },
+          {
+            "anchor": "Conexões de alta velocidade livres de limitações de largura de banda.",
+            "query_en": "High speed internet fiber optic"
+          },
+          {
+            "anchor": "Suporte para até 10 conexões simultâneas na mesma conta.",
+            "query_en": "Connected devices network smart home"
+          },
+          {
+            "anchor": "Garantia de reembolso de 30 dias para os assinantes.",
+            "query_en": "Money back guarantee badge"
           }
         ]
       }
     },
     {
-      "id": "05183b97-c087-465b-acd8-9b8cd0457c16",
-      "title": "Final Fantasy X ganha edição física especial em vinil para celebrar o 25º aniversário",
-      "category": "Games",
+      "id": "c1789392-3247-48e3-8412-41e89f7de869",
+      "title": "Membros do Amazon Prime ganham desconto no Uber Eats em nova parceria para a Black Friday",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Final Fantasy X Eternal Calm vinyl soundtrack announcement",
+        "video_query_en": "Amazon Prime Uber Eats deal explanation",
         "images": [
           {
-            "anchor": "Detalhes do LP Vinyl Set - Eternal Calm",
-            "query_en": "Square Enix Final Fantasy X LP Vinyl Set Eternal Calm"
+            "anchor": "Os detalhes da promoção e os valores envolvidos",
+            "query_en": "Uber Eats food delivery app interface"
           },
           {
-            "anchor": "Conteúdo digital expandido e preços",
-            "query_en": "Final Fantasy X vinyl record player turntable music"
+            "anchor": "Como resgatar o benefício passo a passo",
+            "query_en": "Amazon website shopping app on smartphone"
           },
           {
-            "anchor": "O momento atual da franquia Final Fantasy",
-            "query_en": "Final Fantasy VII Remake trilogy artwork Sephiroth"
+            "anchor": "Elegibilidade e restrições geográficas",
+            "query_en": "Amazon Prime delivery box package"
+          },
+          {
+            "anchor": "Vale a pena assinar o Prime apenas pela comida?",
+            "query_en": "Person ordering food takeout on phone"
           }
         ]
       }
     },
     {
-      "id": "376bcd0d-fb98-41de-bf54-52971d7dd333",
-      "title": "Hogwarts Legacy 2 é oficialmente confirmado pela Warner Bros.",
+      "id": "6d0ffdc7-11c6-4662-ad49-871ee7a37a06",
+      "title": "Microsoft Office 2024 Home é ofertado por US$ 119,97 sem assinaturas recorrentes",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft Office 2024 Home overview features",
+        "images": [
+          {
+            "anchor": "O que o pacote inclui",
+            "query_en": "Microsoft Office 2024 apps box"
+          },
+          {
+            "anchor": "- Word",
+            "query_en": "Microsoft Word app interface"
+          },
+          {
+            "anchor": "- Excel",
+            "query_en": "Microsoft Excel spreadsheet interface"
+          },
+          {
+            "anchor": "- PowerPoint",
+            "query_en": "Microsoft PowerPoint presentation mode"
+          },
+          {
+            "anchor": "- OneNote",
+            "query_en": "Microsoft OneNote notes interface"
+          },
+          {
+            "anchor": "Vantagens dos aplicativos e funcionamento offline",
+            "query_en": "Person working on laptop offline"
+          },
+          {
+            "anchor": "Detalhes da licença e limitações",
+            "query_en": "Microsoft account login screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec1d4e94-52d1-4e21-9220-25321ea0dcd9",
+      "title": "Membros do Amazon Prime ganham 50% de desconto em novos dispositivos Alexa na antecipação da Black Friday",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Echo new Alexa devices early Black Friday sale",
+        "images": [
+          {
+            "anchor": "Novos dispositivos Alexa na promoção",
+            "query_en": "Amazon Echo Dot smart speaker"
+          },
+          {
+            "anchor": "Dispositivos Alexa das gerações anteriores em oferta",
+            "query_en": "Amazon Echo Show smart display"
+          },
+          {
+            "anchor": "Regras e funcionamento da promoção",
+            "query_en": "Amazon Alexa devices lineup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3580aadc-e5cf-4416-8eb3-125e01923ae4",
+      "title": "Plano vitalício do Curiosity Stream com desconto de US$ 270 é oferecido por US$ 129,97",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Curiosity Stream documentary streaming service review",
+        "images": [
+          {
+            "anchor": "O que a assinatura oferece ao assinante",
+            "query_en": "Curiosity Stream streaming service interface on TV"
+          },
+          {
+            "anchor": "Variedade temática e produções em destaque",
+            "query_en": "Documentary about science and nature nature shot"
+          },
+          {
+            "anchor": "Origem e contexto da plataforma",
+            "query_en": "John Hendricks founder of Curiosity Stream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4623befc-92d3-46b4-b8c1-8f1f7545571d",
+      "title": "Star Trek Traz de Volta o Worf do Mal em Novo Crossover com Magic: The Gathering",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Hogwarts Legacy 2 officially confirmed Warner Bros",
+        "video_query_en": "Star Trek Magic The Gathering crossover Worf Regent of Terok Nor",
         "images": [
           {
-            "anchor": "A confirmação através de carta aos acionistas",
-            "query_en": "Warner Bros Discovery corporate office building"
+            "anchor": "O Retorno do Regente Worf e o Universo Espelhado",
+            "query_en": "Star Trek Mirror Universe Worf Regent of Terok Nor"
           },
           {
-            "anchor": "Expectativas financeiras e o futuro da divisão",
-            "query_en": "WB Games logo video game development"
+            "anchor": "Outros Personagens Clássicos e a Coleção Stardates",
+            "query_en": "Star Trek Magic The Gathering Stardates cards"
           },
           {
-            "anchor": "O sucesso estrondoso do primeiro jogo",
-            "query_en": "Hogwarts Legacy gameplay castle Hogwarts"
+            "anchor": "Decks de Commander e Detalhes de Lançamento",
+            "query_en": "Magic The Gathering Star Trek Commander decks"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4307c9d-9333-4283-a890-a84c10ca79d0",
+      "title": "Substituto espiritual de BioShock em estilo steampunk ganha janela de lançamento para 2027",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Clockwork Revolution gameplay trailer",
+        "images": [
+          {
+            "anchor": "Os percalços no desenvolvimento de BioShock 4",
+            "query_en": "BioShock logo art"
           },
           {
-            "anchor": "Próximos passos e janela de lançamento",
-            "query_en": "The Game Awards stage event"
+            "anchor": "Avalon e o universo steampunk",
+            "query_en": "Clockwork Revolution steampunk city Avalon"
           },
           {
-            "anchor": "Novidades adicionais no universo Harry Potter",
-            "query_en": "Harry Potter board game tabletop"
+            "anchor": "Personagens e a rebelião contra Lady Ironwood",
+            "query_en": "Clockwork Revolution character armor"
+          },
+          {
+            "anchor": "Mecânica inovadora de viagem no tempo",
+            "query_en": "Clockwork Revolution time travel concept"
+          },
+          {
+            "anchor": "Combate e arsenal mecânico",
+            "query_en": "Clockwork Revolution combat steampunk gun"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eaee2ba5-61a0-4497-afd6-27e9dfc874f0",
+      "title": "Pokémon Winds & Waves traz novidades e pode dar nova evolução ao clássico Psyduck",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pokemon Winds and Waves leak news Psyduck evolution",
+        "images": [
+          {
+            "anchor": "O histórico das variantes regionais na franquia",
+            "query_en": "Pokemon Sun and Moon Alolan forms Nintendo 3DS"
+          },
+          {
+            "anchor": "Os rumores sobre Psyduck e sua suposta evolução inédita",
+            "query_en": "Psyduck classic Pokemon character artwork"
+          },
+          {
+            "anchor": "A reação dos fãs e a antiga polêmica do tipo Psíquico",
+            "query_en": "Psyduck confused Pokemon anime"
+          },
+          {
+            "anchor": "Outros monstros cotados e expectativas para o futuro",
+            "query_en": "Pokemon Nintendo Switch game open world"
+          },
+          {
+            "anchor": "Drowzee",
+            "query_en": "Drowzee Pokemon classic design"
+          },
+          {
+            "anchor": "Eevee",
+            "query_en": "Eevee Pokemon evolution choices"
+          },
+          {
+            "anchor": "Arcanine",
+            "query_en": "Arcanine classic fire Pokemon"
+          },
+          {
+            "anchor": "Shellos",
+            "query_en": "Shellos Pokemon water type"
+          },
+          {
+            "anchor": "Houndour",
+            "query_en": "Houndour dark fire Pokemon"
+          },
+          {
+            "anchor": "Onix",
+            "query_en": "Onix rock giant Pokemon"
+          },
+          {
+            "anchor": "Lapras",
+            "query_en": "Lapras water ice Pokemon transport"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5abc73a-f39d-4477-93b4-ced6053c4bf6",
+      "title": "The Legend of Zelda: Indigo ganha novo trailer e detalhes de sua aguardada ROM hack",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Legend of Zelda Indigo trailer gameplay",
+        "images": [
+          {
+            "anchor": "O que é The Legend of Zelda: Indigo",
+            "query_en": "The Legend of Zelda Ocarina of Time gameplay"
+          },
+          {
+            "anchor": "Uma história 27 anos após Majora's Mask",
+            "query_en": "The Legend of Zelda Majora's Mask Link"
+          },
+          {
+            "anchor": "Novas mecânicas e foco na narrativa",
+            "query_en": "Nintendo Switch 2 console"
           }
         ]
       }
@@ -701,55 +883,47 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "f71c1376-6e57-4e13-8759-66bb2999d930",
-      "title": "Dicas e respostas do NYT Connections Sports Edition de 5 de outubro de 2026",
-      "category": "Games",
+      "id": "e1eb4a3b-7851-490d-aa99-feabcd714fe3",
+      "title": "Fase da Lua hoje: como o satélite natural aparecerá em 5 de outubro de 2026",
+      "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NYT Connections Sports Edition gameplay hints answers",
+        "video_query_en": "NASA moon phases guide explained",
         "images": [
           {
-            "anchor": "Como funciona o jogo",
-            "query_en": "New York Times word games interface"
+            "anchor": "Qual é a fase da Lua hoje",
+            "query_en": "waning crescent moon surface craters NASA"
           },
           {
-            "anchor": "Dicas para as categorias de hoje",
-            "query_en": "sports trivia puzzle game"
+            "anchor": "Quando será a próxima Lua Cheia",
+            "query_en": "full moon glowing bright night sky"
           },
           {
-            "anchor": "As categorias oficiais do dia",
-            "query_en": "tennis court surface types"
-          },
-          {
-            "anchor": "Respostas da edição #742",
-            "query_en": "Tampa Bay Rays baseball team"
+            "anchor": "Como funcionam as fases da Lua",
+            "query_en": "moon phases orbit earth sun diagram"
           }
         ]
       }
     },
     {
-      "id": "06410596-b034-4f5e-ad30-e4b139d8bc79",
-      "title": "Dicas e respostas do Pips do New York Times para 5 de outubro de 2026",
+      "id": "0620a37c-ce48-499a-aa7d-f4cee60e32f3",
+      "title": "Dicas e significados das palavras do NYT Connections de 5 de outubro de 2026",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "New York Times Pips game overview",
+        "video_query_en": "NYT Connections hints and answers October 5 2026",
         "images": [
           {
-            "anchor": "Como jogar Pips",
-            "query_en": "domino game tutorial tiles"
+            "anchor": "Entendendo os termos de tranquilidade e clareza",
+            "query_en": "calm peaceful abstract concept serenity"
           },
           {
-            "anchor": "Dicas e respostas do nível Fácil em 5 de outubro",
-            "query_en": "easy puzzle challenge board"
+            "anchor": "Palavras de força, sugestão e cortesia",
+            "query_en": "courtesy politeness concept hands"
           },
           {
-            "anchor": "Dicas e respostas do nível Médio em 5 de outubro",
-            "query_en": "medium level puzzle game board"
-          },
-          {
-            "anchor": "Dicas e respostas do nível Difícil em 5 de outubro",
-            "query_en": "hard difficulty puzzle game board"
+            "anchor": "Pedras preciosas, estratégia e utilidades cotidianas",
+            "query_en": "chess board strategy game pieces"
           }
         ]
       }
