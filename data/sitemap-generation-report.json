@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T18:21:56.809Z",
-  "html_files_scanned": 6284,
-  "articles_in_database": 5762,
-  "unique_news_articles": 5181,
-  "duplicate_news_articles_excluded": 581,
-  "news_pages_in_sitemap": 5181,
-  "main_sitemap_urls": 5387,
+  "generated_at": "2026-11-09T00:24:58.520Z",
+  "html_files_scanned": 6312,
+  "articles_in_database": 5792,
+  "unique_news_articles": 5198,
+  "duplicate_news_articles_excluded": 594,
+  "news_pages_in_sitemap": 5198,
+  "main_sitemap_urls": 5404,
   "evergreen_sitemap_urls": 40,
   "issues": {
     "missing_news_page": [],
@@ -16,7 +16,18 @@
     "alias_or_nonself_canonical": 0
   },
   "duplicate_article_ids_sample": [
+    "b164d0f5-5e45-4dab-8d94-11357773215e",
+    "90e0eaf8-592c-4ffb-a4dc-1bb1361c86fc",
+    "effdc7c3-639e-4049-b53b-42a3ebd9cbc8",
+    "d8dd6b46-8bd2-42cc-a639-09fc6f3a86a3",
+    "ede2c29f-c1cd-4fc9-9826-ae367f87a6da",
+    "c4460a8a-461d-43f1-b84a-ff0e9e17ebf2",
+    "a790192c-3a18-471c-974c-e8cbf6d6ab95",
+    "084bf15b-f7ce-45e6-b12e-31bb550f6b6e",
+    "1beebf96-4280-4201-b881-a7efbfb8cc75",
+    "c13f6e89-4cb5-4ed2-914f-624a1874a152",
     "9e540fcc-e169-486f-b58a-9c9c77273251",
+    "d366b17e-3997-45ec-885b-a9a8ddc6ca48",
     "8f5ab02b-d23e-4f3b-b348-b999ccc1c019",
     "68568d82-671d-4a40-960f-5d874a22b544",
     "687eb241-79a1-43a9-8dd9-2cf4b824882f",
@@ -34,17 +45,6 @@
     "670b6447-cde8-4974-b7a8-807409445c78",
     "1565d465-c5e5-4a15-af66-f1ee6537ab11",
     "c801ff4d-0fe5-42f7-bb7c-4ec974459c6c",
-    "67186a66-4a23-49cf-a9c0-d78cf26c455c",
-    "d287d67f-36a7-40ac-8453-6c7c4d3c1dd2",
-    "429e982e-9cc1-4fe1-a9e4-f11b3fb8f865",
-    "a6f054cb-d137-419b-a067-311c17519e13",
-    "afa07047-6aa3-42f5-9550-a1b3aa9d1f4c",
-    "e8852031-e0f0-462b-ad3c-7723572585bc",
-    "e4a97dfd-864c-4b74-9842-80c4eddc9298",
-    "26185ac9-212b-4b5b-bc2d-154f2b14ae8c",
-    "91f4219b-5b76-4ce3-b32f-917c2de759c2",
-    "ae9a04cf-b00f-4003-8538-fd1c0f0404e5",
-    "c05f20b5-da3f-4916-b015-e743ad4c9425",
-    "7a4294b3-2fe7-4bf2-83f9-3cbdf99a2d36"
+    "67186a66-4a23-49cf-a9c0-d78cf26c455c"
   ]
 }
