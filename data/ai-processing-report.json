@@ -1,751 +1,695 @@
 {
-  "updated_at": "2026-11-10T18:04:47.334Z",
+  "updated_at": "2026-11-11T00:05:11.536Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "4738d525-011a-48ca-a4de-1bf7e9d6d725",
-      "title": "TSMC reserva até US$ 1 bilhão para comprar ações da Anthropic e da OpenAI",
+      "id": "4f6d0ed3-f5ea-4733-9698-0d92080d3a9c",
+      "title": "Câmara dos Representantes dos Estados Unidos bloqueia tentativa de impeachment do secretário de Defesa Pete Hegseth",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "TSMC Anthropic OpenAI investment",
+        "video_query_en": "US House Pete Hegseth impeachment vote defense secretary",
         "images": [
           {
-            "anchor": "Uma estratégia incomum para a fabricante de chips",
-            "query_en": "TSMC semiconductor manufacturing facility Taiwan"
+            "anchor": "Decisão na Câmara dos Representantes",
+            "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "O avanço das startups rumo ao mercado público",
-            "query_en": "OpenAI and Anthropic artificial intelligence office"
+            "anchor": "Defesa e Repercussão Política",
+            "query_en": "Pete Hegseth US Defense Secretary"
           }
         ]
       }
     },
     {
-      "id": "91b7cbc1-a953-4fbb-b0fa-d0c910a60a1b",
-      "title": "Produto alavancado da Kioxia estreia em Hong Kong em marco inédito para ações do Japão",
+      "id": "2e757bd5-393a-436c-99ca-01d8c9151a04",
+      "title": "Ações da Japan Tobacco despencam com temor de perda de US$ 8 bilhões na Rússia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Kioxia Holdings stock Hong Kong financial market",
+        "video_query_en": "Japan Tobacco Russia shares tumble Moscow seizure",
         "images": [
           {
-            "anchor": "A Estreia do Produto Alavancado em Hong Kong",
-            "query_en": "Hong Kong stock exchange trading floor building"
+            "anchor": "A intervenção do governo russo",
+            "query_en": "Vladimir Putin Russian flag Moscow Kremlin"
           },
           {
-            "anchor": "Contexto Regulamentar e Objetivos do Instrumento",
-            "query_en": "financial charts and trading screens graphs"
+            "anchor": "Impacto nos acionistas e dividendos",
+            "query_en": "Tokyo Stock Exchange trading floor charts"
           },
           {
-            "anchor": "Repercussão no Setor de Semicondutores e Mercados",
-            "query_en": "Kioxia memory chips semiconductor manufacturing"
+            "anchor": "O contexto das relações bilaterais",
+            "query_en": "Japan Tobacco factory cigarette manufacturing"
           }
         ]
       }
     },
     {
-      "id": "0dbf5c2e-6d9e-41b2-abde-4abcc8a6823d",
-      "title": "Empresas de IA da China, incluindo DeepSeek, faturam apenas 10% de OpenAI e Anthropic",
+      "id": "77e63a99-b027-428e-8c29-4c4e4873f911",
+      "title": "Preços de combustíveis elevam futuros de eletricidade no Japão e na Europa ao maior patamar em quatro anos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan Europe electricity futures LNG fuel prices Strait of Hormuz",
+        "images": [
+          {
+            "anchor": "O impacto do Estreito de Hormuz no mercado energético",
+            "query_en": "Strait of Hormuz oil tanker energy shipping route"
+          },
+          {
+            "anchor": "A estratégia de proteção das empresas de energia",
+            "query_en": "power plant electricity transmission tower energy market"
+          },
+          {
+            "anchor": "Utilização do mercado futuro para fixação antecipada de tarifas e custos operacionais.",
+            "query_en": "liquefied natural gas LNG tanker terminal"
+          },
+          {
+            "anchor": "Adoção de mecanismos de proteção contra oscilações severas decorrentes de gargalos logísticos.",
+            "query_en": "electricity grid control room power company trading"
+          },
+          {
+            "anchor": "Busca por maior estabilidade financeira para o consumidor final em meio à escassez de suprimentos.",
+            "query_en": "modern city power lines electricity infrastructure"
+          },
+          {
+            "anchor": "Desafios globais e o reflexo na segurança do suprimento",
+            "query_en": "Europe electricity power transmission infrastructure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "62d0173b-afd6-4b83-87af-43de9ae73deb",
+      "title": "Aliança automotiva chinesa liderada pela Huawei enfrenta tensões e queda nas entregas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Huawei electric vehicles Aito M9 Seres China auto",
+        "images": [
+          {
+            "anchor": "O impacto da queda e os desafios de mercado",
+            "query_en": "Huawei Aito M9 car showroom China"
+          },
+          {
+            "anchor": "A busca por maior independência entre os membros",
+            "query_en": "Seres electric vehicle manufacturing plant China"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1138ae8a-8a3c-44f1-a0de-a8da28e70aea",
+      "title": "A disparidade salarial da IA: o boom dos chips gera ciúme e agitação trabalhista na Ásia",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "DeepSeek vs OpenAI revenue artificial intelligence market analysis",
+        "video_query_en": "semiconductor chip shortage labor unrest Asia AI boom",
         "images": [
           {
-            "anchor": "O cenário financeiro das gigantes de IA",
-            "query_en": "OpenAI Anthropic office tech company building"
+            "anchor": "O boom dos semicondutores e a nova realidade na Ásia",
+            "query_en": "Samsung semiconductor plant Pyeongtaek South Korea"
           },
           {
-            "anchor": "OpenAI e Anthropic lideram o mercado ocidental com receitas significativamente superiores.",
-            "query_en": "artificial intelligence server room data center"
-          },
-          {
-            "anchor": "A estratégia de eficiência e custos",
-            "query_en": "computer chips semiconductors technology manufacturing"
+            "anchor": "Conflitos e impactos no ecossistema industrial",
+            "query_en": "Micron factory workers strike Taiwan"
           }
         ]
       }
     },
     {
-      "id": "cdcd7bb2-6b6c-443f-9e85-39c4ec84017c",
-      "title": "ASICS intensifica pesquisas de calçados com nova base de P&D na Austrália",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASICS footwear research and development innovation",
-        "images": [
-          {
-            "anchor": "Expansão global de P&D",
-            "query_en": "ASICS research and development laboratory"
-          },
-          {
-            "anchor": "Objetivos e colaboração local",
-            "query_en": "biomechanics running shoes testing laboratory"
-          },
-          {
-            "anchor": "Contexto competitivo no mercado global",
-            "query_en": "ASICS athletic shoes retail store"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6bc838f8-5870-4eca-b9fd-7a79bc9fe3df",
-      "title": "Toyota vai fabricar e vender minicaminhonetes estilo japonês kei nos EUA no próximo ano",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Toyota kei minitrucks US market",
-        "images": [
-          {
-            "anchor": "O contexto de inflação e combustíveis caros",
-            "query_en": "Toyota gas prices inflation US market"
-          },
-          {
-            "anchor": "Características do novo modelo e perspectivas",
-            "query_en": "Toyota Kei-01 minitruck Japanese style"
-          },
-          {
-            "anchor": "Alta da inflação nos Estados Unidos",
-            "query_en": "US inflation economic indicators"
-          },
-          {
-            "anchor": "Preços elevados da gasolina no mercado americano",
-            "query_en": "gas station prices United States"
-          },
-          {
-            "anchor": "Crescimento da busca por opções de transporte de baixo custo",
-            "query_en": "fuel efficient mini truck vehicles"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8848806a-8fee-46cf-9f80-0be064ee7eaf",
-      "title": "Sea, de Singapura, aposta no boom da inteligência artificial com serviços de nuvem enxutos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sea Singapore cloud services artificial intelligence strategy",
-        "images": [
-          {
-            "anchor": "Uma abordagem enxuta para os negócios de nuvem",
-            "query_en": "cloud computing data center servers infrastructure"
-          },
-          {
-            "anchor": "Planos futuros e expansão corporativa",
-            "query_en": "Singapore financial district corporate skyscrapers"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e75e5888-6349-44bf-aedc-db4a8fbac915",
-      "title": "Com Trump enfraquecido, China corteja líderes de tecnologia dos EUA em busca de novo momento Kissinger",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China US tech relations International Import Expo Shanghai",
-        "images": [
-          {
-            "anchor": "Com Trump enfraquecido, China corteja líderes de tecnologia dos EUA em busca de novo momento Kissinger",
-            "query_en": "China International Import Expo Shanghai tech exhibition"
-          },
-          {
-            "anchor": "O Impacto da China International Import Expo em Xangai",
-            "query_en": "Tesla booth China International Import Expo Shanghai"
-          },
-          {
-            "anchor": "Desdobramentos Políticos nos Estados Unidos e Reflexos na Ásia",
-            "query_en": "US Capitol building Washington DC politics"
-          },
-          {
-            "anchor": "Cadeias de Suprimentos e o Futuro dos Negócios",
-            "query_en": "Global technology supply chain containers port Asia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "086f639b-fb2a-47ec-a1d6-57e85eb2d7f1",
-      "title": "Japão buscará maior transparência comercial na cúpula da APEC com foco na China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "APEC summit trade transparency Japan China rare earths",
-        "images": [
-          {
-            "anchor": "O contexto das restrições e subsídios",
-            "query_en": "Japan trade policy economy meeting"
-          },
-          {
-            "anchor": "Os objetivos da proposta japonesa na APEC",
-            "query_en": "APEC summit leaders meeting international relations"
-          },
-          {
-            "anchor": "- Inclusão de linguagem específica na declaração final dos líderes reforçando a transparência.",
-            "query_en": "Japanese government official meeting Tokyo"
-          },
-          {
-            "anchor": "- Foco em políticas comerciais e governamentais capazes de gerar disrupções nas cadeias de suprimentos.",
-            "query_en": "global supply chain port cargo ships"
-          },
-          {
-            "anchor": "- Enfrentamento indireto a práticas como controles unilaterais de exportação de terras raras.",
-            "query_en": "rare earth elements industrial minerals mining"
-          },
-          {
-            "anchor": "- Combate aos impactos negativos gerados por subsídios estatais que deprimem os preços globais de mercado.",
-            "query_en": "factory production industrial manufacturing floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9300a40f-4027-401f-acf9-d961efdb0e00",
-      "title": "Fabricante japonês de metais planeja fábrica de US$ 1,2 bilhão na Malásia de olho na demanda de IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mitsui Kinzoku Malaysia copper foil plant AI demand",
-        "images": [
-          {
-            "anchor": "O papel crucial do cobre na infraestrutura de IA",
-            "query_en": "copper foil manufacturing facility technology"
-          },
-          {
-            "anchor": "Estratégia de expansão e impacto regional",
-            "query_en": "modern industrial factory in Malaysia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "09ea95e5-960c-476e-a945-cece265978c5",
-      "title": "Japão planeja incluir defesa de negação em documentos de segurança revisados",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan defense denial strategy drones long range missiles",
-        "images": [
-          {
-            "anchor": "O foco na estratégia de negação a distância",
-            "query_en": "Japan military drones exercise defense"
-          },
-          {
-            "anchor": "Uso intensivo de drones para patrulhamento, vigilância e resposta tática rápida.",
-            "query_en": "Japan Air Self-Defense Force drone surveillance"
-          },
-          {
-            "anchor": "Emprego de mísseis de longo alcance para projeção de força e intercepção preventiva.",
-            "query_en": "Japan long range missile defense system"
-          },
-          {
-            "anchor": "Contexto e desdobramentos na segurança regional",
-            "query_en": "Tokyo defense ministry building Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "94a0a57a-39ac-42c7-81a2-7b844b5608da",
-      "title": "Inteligência artificial da DeepMind simplifica a prova matemática de segurança em mensageiros",
+      "id": "b6793f69-da21-4aa0-838e-d1cfc5624f67",
+      "title": "Executivos de TSMC e Microsoft debatem os impactos da inteligência artificial no Nikkei Dialogue",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "DeepMind AI formal verification cryptography explained",
+        "video_query_en": "Global Management Dialogue TSMC Microsoft artificial intelligence",
         "images": [
           {
-            "anchor": "O avanço na verificação de protocolos",
-            "query_en": "abstract digital security network encryption"
+            "anchor": "O papel central da inteligência artificial no evento",
+            "query_en": "artificial intelligence technology seminar Tokyo"
           },
           {
-            "anchor": "Como a IA atua na criptografia",
-            "query_en": "artificial intelligence neural network visualization"
+            "anchor": "Diversidade de setores no Global Management Dialogue",
+            "query_en": "business conference panel discussion Tokyo"
           },
           {
-            "anchor": "Impacto nos mensageiros modernos",
-            "query_en": "smartphone messaging app security lock icon"
+            "anchor": "- Líderes do setor de fitness",
+            "query_en": "fitness industry business leader"
           },
           {
-            "anchor": "O futuro da segurança de software",
-            "query_en": "future technology cybersecurity data protection"
+            "anchor": "- Especialistas e executivos de artes marciais",
+            "query_en": "martial arts expert presentation"
+          },
+          {
+            "anchor": "- Representantes da indústria de chips e fundições",
+            "query_en": "semiconductor manufacturing cleanroom TSMC"
+          },
+          {
+            "anchor": "- Executivos de gigantes globais de software e tecnologia",
+            "query_en": "Microsoft corporate executive speaking stage"
+          },
+          {
+            "anchor": "Perspectivas amplas sobre o mercado tecnológico",
+            "query_en": "global business summit audience Tokyo"
           }
         ]
       }
     },
     {
-      "id": "c5e32a13-1d54-4495-85a3-4420b6ea3943",
-      "title": "Alibaba planeja abertura de capital para sua divisão de semicondutores T-Head em Hong Kong",
+      "id": "0de45cb3-fcef-4e58-b8b0-88d074f40e38",
+      "title": "Samsung Heavy e Morimura unem forças para desenvolver células a combustível marítimas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Alibaba T-Head semiconductor IPO Hong Kong",
+        "video_query_en": "Samsung Heavy Industries solid oxide fuel cells marine",
         "images": [
           {
-            "anchor": "O avanço de Alibaba no mercado de semicondutores",
-            "query_en": "Alibaba headquarters building China"
+            "anchor": "Acordo de cooperação entre empresas",
+            "query_en": "Samsung Heavy Industries research center Pangyo"
           },
           {
-            "anchor": "A busca por capital de terceiros",
-            "query_en": "Hong Kong stock exchange building"
-          },
-          {
-            "anchor": "Contexto e implicações regulatórias",
-            "query_en": "Microchip semiconductor wafer production"
+            "anchor": "Parceria com a Morimura SOFC Technology",
+            "query_en": "solid oxide fuel cell technology"
           }
         ]
       }
     },
     {
-      "id": "8c8e66e7-9e94-4663-9245-42c8ae847adf",
-      "title": "Monitor Gamer de 25 Polegadas e 300 Hz por Menos de 100 Euros na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "budget 300hz gaming monitor review amazon",
-        "images": [
-          {
-            "anchor": "Especificações Técnicas do Painel",
-            "query_en": "IPS gaming monitor display close up"
-          },
-          {
-            "anchor": "Contexto da Oferta na Amazon",
-            "query_en": "Amazon delivery package box online shopping"
-          },
-          {
-            "anchor": "- Tela de 25 polegadas com tecnologia IPS para melhores ângulos de visão e fidelidade de cores",
-            "query_en": "25 inch computer monitor screen"
-          },
-          {
-            "anchor": "- Resolução Full HD para garantir nitidez adequada ao tamanho do display",
-            "query_en": "Full HD monitor screen display"
-          },
-          {
-            "anchor": "- Taxa de atualização extremamente alta de 300 Hz para movimentos ultrafluídos",
-            "query_en": "high refresh rate monitor 300hz gaming"
-          },
-          {
-            "anchor": "- Tempo de resposta de 1 milissegundo MPRT para redução de borrões em cenas rápidas",
-            "query_en": "fast response time gaming monitor blur reduction"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c60e7701-a9e3-416b-8ae1-a6203d814496",
-      "title": "Governo alemão planeja orçamento maior para subsídios de carros elétricos em 2027",
+      "id": "3bb10f27-6c54-43e1-92f3-ca2515b488bf",
+      "title": "flex cria Instituto de Padrões de RH para a Era da Inteligência Artificial",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Germany electric vehicle subsidy 2027 budget",
+        "video_query_en": "flex artificial intelligence human resources standards institute",
         "images": [
           {
-            "anchor": "Ajuste nos planos orçamentários",
-            "query_en": "German federal budget building Berlin"
+            "anchor": "O Surgimento do Novo Instituto",
+            "query_en": "artificial intelligence human resources office technology"
           },
           {
-            "anchor": "Impacto esperado no mercado",
-            "query_en": "Electric cars charging station Germany"
+            "anchor": "Nomeação da Liderança",
+            "query_en": "corporate executive leader business presentation"
+          },
+          {
+            "anchor": "Foco na Gestão Moderna",
+            "query_en": "business analytics human resources data dashboard"
           }
         ]
       }
     },
     {
-      "id": "03cf1392-673b-4373-9ffe-f38e90998c6c",
-      "title": "Carregador USB de 100W da Anker entra em oferta antecipada de Black Friday por menos de 50 euros",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anker 100W USB charger review Black Friday deal",
-        "images": [
-          {
-            "anchor": "Os diferenciais técnicos do carregador Anker",
-            "query_en": "Anker 100W USB charger ports"
-          },
-          {
-            "anchor": "Outras promoções da fabricante",
-            "query_en": "Anker electronics accessories display"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f38e1175-37cc-4e6e-abd2-19ee9a896995",
-      "title": "Suposta espionagem envolvendo Nvidia aponta para comercialização de chips de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia AI chips business strategy and market demand",
-        "images": [
-          {
-            "anchor": "Os desdobramentos da suposta espionagem",
-            "query_en": "Financial Times logo and office building"
-          },
-          {
-            "anchor": "O valor dos chips e o mercado global",
-            "query_en": "Nvidia AI hardware processor chip"
-          },
-          {
-            "anchor": "Oferta de acesso a chips de inteligência artificial altamente concorridos da Nvidia",
-            "query_en": "Nvidia artificial intelligence chip technology"
-          },
-          {
-            "anchor": "Promessa de facilitação em relações comerciais e parcerias com o Alibaba",
-            "query_en": "Alibaba corporate headquarters building"
-          },
-          {
-            "anchor": "Abordagem direcionada a investidores interessados no setor tecnológico",
-            "query_en": "Technology investors meeting room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "32c0c59d-b3a6-4cb3-b302-9230704ee2cb",
-      "title": "Steam passa a exibir taxas de quadros reais da prática para jogos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Steam Deck real framerates Valve update",
-        "images": [
-          {
-            "anchor": "Foco inicial no Steam Deck e expansão planejada",
-            "query_en": "Steam Deck handheld gaming console Valve"
-          },
-          {
-            "anchor": "Impacto para a comunidade de jogadores",
-            "query_en": "Steam platform games library interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6ebd9aa0-a4ff-4b21-bc63-e08d43b8e6be",
-      "title": "Melbourne-Toulouse: Qantas estabelece novo recorde de longa distância com o Airbus A350-1000ULR",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Airbus A350 1000ULR Qantas long haul flight",
-        "images": [
-          {
-            "anchor": "O marco na aviação comercial",
-            "query_en": "Airbus A350 in flight"
-          },
-          {
-            "anchor": "Objetivos do voo recorde",
-            "query_en": "Qantas airplane interior cockpit"
-          },
-          {
-            "anchor": "Aeronave utilizada: Airbus A350-1000ULR",
-            "query_en": "Airbus A350 1000"
-          },
-          {
-            "anchor": "Rota percorrida: Melbourne a Toulouse",
-            "query_en": "Melbourne cityscape aerial view"
-          },
-          {
-            "anchor": "Objetivo principal: Preparar o caminho para voos regulares sem escalas",
-            "query_en": "Commercial airplane taking off"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9ef3963c-9455-478b-b0aa-f3f11da2d052",
-      "title": "Claude Code: A nova fronteira dos agentes de IA no desenvolvimento de software",
+      "id": "90ed3ab4-1f53-47b4-bd85-cd0837eda5f3",
+      "title": "Óculos de IA VIORA da Sapiens conquistam dois prêmios no CES 2027 Innovation Awards",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Claude Code AI agent software development tutorial",
+        "video_query_en": "Sapiens VIORA AI smart glasses CES 2027 Innovation Awards",
         "images": [
           {
-            "anchor": "A ascensão dos agentes de codificação",
-            "query_en": "AI software development agent concept"
-          },
-          {
-            "anchor": "O funcionamento do Claude Code",
-            "query_en": "Claude AI coding interface"
-          },
-          {
-            "anchor": "Capacitação profissional e workshops",
-            "query_en": "software developers in a coding workshop"
-          },
-          {
-            "anchor": "O papel da IA na produtividade",
-            "query_en": "developer working with AI assistant"
+            "anchor": "Foco em inteligência artificial no próprio dispositivo",
+            "query_en": "AI smart glasses futuristic wearable technology concept"
           }
         ]
       }
     },
     {
-      "id": "71e11e1a-6cd0-4cb3-a6a2-2ffb6f09f9c5",
-      "title": "Estações meteorológicas com Meteotime podem falhar permanentemente após interrupção no sinal DCF77",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "DCF77 weather station meteotime problem hama",
-        "images": [
-          {
-            "anchor": "O problema no sinal de rádio DCF77",
-            "query_en": "DCF77 radio transmitter tower antenna"
-          },
-          {
-            "anchor": "O impacto nas estações Meteotime",
-            "query_en": "Meteotime weather station display screen"
-          },
-          {
-            "anchor": "Resposta dos fabricantes e opções para os consumidores",
-            "query_en": "Hama weather station device"
-          }
-        ]
-      }
-    },
-    {
-      "id": "51bf2692-b990-4994-8a6d-1ab4bd67ff34",
-      "title": "Investigacao de espionagem revela forte dependencia da Nvidia em relacao ao CEO Jensen Huang",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang management structure and espionage probe",
-        "images": [
-          {
-            "anchor": "O impacto do caso de espionagem na estrutura da Nvidia",
-            "query_en": "Nvidia headquarters building exterior sign"
-          },
-          {
-            "anchor": "A concentracao de poder e o modelo centrado no fundador",
-            "query_en": "Jensen Huang CEO Nvidia speaking keynote"
-          },
-          {
-            "anchor": "Desdobramentos politicos e regulatorios",
-            "query_en": "US Capitol building Washington DC politics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3f7c811b-4327-4318-82a5-01e1b0da02a9",
-      "title": "LINE Yahoo lança aplicativo iOS do agente de IA 'Agent i' com suporte a widgets",
+      "id": "d418f153-9164-43cf-b258-f1bc6e3ca242",
+      "title": "CrowdWorks entra em projeto governamental de inteligência artificial para o setor de manufatura",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LINE Yahoo Agent i iOS app features",
+        "video_query_en": "CrowdWorks Enhans manufacturing AI project",
         "images": [
           {
-            "anchor": "O que o Agent i oferece no iOS",
-            "query_en": "iOS app interface on iPhone screen"
+            "anchor": "Parceria estratégica para a manufatura inteligente",
+            "query_en": "artificial intelligence manufacturing technology office"
           },
           {
-            "anchor": "Integração com widgets na tela inicial para acesso rápido às funções do agente",
-            "query_en": "iPhone home screen widgets display"
+            "anchor": "Detalhes da iniciativa do Ministério",
+            "query_en": "Ministry of Trade Industry and Resources government building"
           },
           {
-            "anchor": "Sistema de notificações avançado conectado diretamente às funções de tarefas do aplicativo",
-            "query_en": "smartphone push notifications screen"
+            "anchor": "CrowdWorks",
+            "query_en": "AI technology company office workspace"
           },
           {
-            "anchor": "Utilização otimizada para o formato de smartphone, facilitando interações em qualquer lugar",
-            "query_en": "person using smartphone mobile app"
+            "anchor": "Enhans",
+            "query_en": "agentic AI software development futuristic"
           },
           {
-            "anchor": "Expansão dos serviços de IA da LINE Yahoo",
-            "query_en": "artificial intelligence technology concept"
+            "anchor": "Ministério do Comércio, Indústria e Recursos",
+            "query_en": "government ministry official press conference room"
           }
         ]
       }
     },
     {
-      "id": "cc67dc13-5c34-4008-9fc3-3aea6471bafa",
-      "title": "SoftBank anuncia promoção agressiva para o iPad Air M4 de 11 polegadas com custo reduzido",
-      "category": "Smartphones",
+      "id": "0f48830f-693c-41e5-b590-b2d19326ca45",
+      "title": "Comissão de Comércio Justo da Coreia do Sul Inicia Análise da Fusão entre Naver e Dunamu",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SoftBank iPad Air M4 review price promotion",
+        "video_query_en": "South Korea FTC Naver Dunamu merger review",
         "images": [
           {
-            "anchor": "Detalhes da oferta e o plano de aquisição",
-            "query_en": "SoftBank store front Japan mobile carrier"
+            "anchor": "O Início da Investigação Regulatória",
+            "query_en": "South Korea Fair Trade Commission building"
           },
           {
-            "anchor": "O preço de tabela tradicional do dispositivo na operadora é de 193.680 ienes.",
-            "query_en": "iPad Air M4 11 inch space gray"
+            "anchor": "Impactos em Múltiplos Mercados",
+            "query_en": "digital payments finance technology Seoul"
           },
           {
-            "anchor": "Para alcançar o valor promocional, o cliente precisa realizar uma nova contratação ou efetuar a troca de aparelho (migração de modelo).",
-            "query_en": " Apple iPad Air M4 display close up"
+            "anchor": "Preocupações com a Concorrência",
+            "query_en": "business competition antitrust meeting office"
           },
           {
-            "anchor": "É obrigatório o uso do programa de parcelamento e recompra da operadora conhecido como Shintokusuru Support Plus.",
-            "query_en": "SoftBank logo building sign Tokyo"
+            "anchor": "Impacto direto em dez mercados econômicos",
+            "query_en": "financial market chart data analysis"
           },
           {
-            "anchor": "O mecanismo exige que o usuário devolva o aparelho no 25º mês após a compra para desfrutar da redução drástica no custo.",
-            "query_en": "holding modern tablet device in hand"
-          },
-          {
-            "anchor": "Com todas as condições aplicadas e a devolução programada realizada no prazo correto, o encargo financeiro real acumulado ao longo de dois anos fica em aproximadamente 59.760 ienes.",
-            "query_en": "yen currency banknotes Japan economy"
-          },
-          {
-            "anchor": "Impacto para o mercado de tablets",
-            "query_en": "tablet market competition retail display"
-          },
-          {
-            "anchor": "A iniciativa aquece o mercado de dispositivos móveis de alto desempenho, tornando chips da série M acessíveis a um público mais amplo.",
-            "query_en": "Apple M4 chip architecture close up"
-          },
-          {
-            "anchor": "O modelo de 128GB atende perfeitamente a estudantes e profissionais que necessitam de poder de processamento gráfico e computacional sem a necessidade de investir nas versões com capacidades de armazenamento massivas.",
-            "query_en": "student studying with modern tablet and stylus"
-          },
-          {
-            "anchor": "A exigência de devolução do hardware reforça o ciclo de renovação tecnológica promovido pelas grandes corporações de telecomunicações.",
-            "query_en": "telecommunication towers and technology network"
+            "anchor": "Novos Mercados e Próximos Passos",
+            "query_en": "South Korean won currency finance"
           }
         ]
       }
     },
     {
-      "id": "5829217a-570c-4ace-bdc5-60ee5440461c",
-      "title": "Aplicativo de trabalho temporário Sharefull sofre acesso não autorizado com vazamento potencial de 7,5 milhões de contas",
+      "id": "309f8de8-d9d0-4bc8-a646-25430cd3e2e3",
+      "title": "LG Uplus e GS Neotek buscam integrar plataformas de segurança corporativa",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sharefull data breach security incident",
+        "video_query_en": "LG Uplus GS Neotek cloud security U+SASE Security Lens",
         "images": [
           {
-            "anchor": "Incidente de segurança afeta o aplicativo Sharefull",
-            "query_en": "smartphone security breach hacker warning"
+            "anchor": "Integração de plataformas de segurança",
+            "query_en": "LG Uplus corporate building Seoul"
           },
           {
-            "anchor": "Detalhes sobre os dados e informações comprometidas",
-            "query_en": "cybersecurity server data leak concept"
-          },
-          {
-            "anchor": "Medidas da empresa e próximos passos",
-            "query_en": "data protection server room cybersecurity"
+            "anchor": "Objetivos e funcionalidades para administradores",
+            "query_en": "network security dashboard corporate IT"
           }
         ]
       }
     },
     {
-      "id": "9e672133-1ad7-4eb4-9963-47273e9501c9",
-      "title": "Comparativo de capinhas ESR para iPhone Duo: Atelier de silicone e Classic Hybrid transparente",
-      "category": "Smartphones",
+      "id": "116aebe2-3203-47ce-90e2-f5031984fe4f",
+      "title": "A autonomia estratégica deve guiar a política da Índia para a Starlink",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "ESR iPhone Duo case review Atelier Classic Hybrid",
+        "video_query_en": "Starlink India regulatory debate Elon Musk",
         "images": [
           {
-            "anchor": "Proteção robusta e acabamentos distintos",
-            "query_en": "ESR iPhone Duo case Atelier silicone"
+            "anchor": "## O debate sobre a Starlink na Índia",
+            "query_en": "Elon Musk Starlink satellite dish"
           },
           {
-            "anchor": "O diferencial do suporte na área da câmera",
-            "query_en": "ESR iPhone case camera bump kickstand"
-          },
-          {
-            "anchor": "Experiência de uso e usabilidade prática",
-            "query_en": "ESR Classic Hybrid clear case iPhone"
+            "anchor": "## Comparação de tecnologias de rede",
+            "query_en": "Fiber optic cable versus satellite internet"
           }
         ]
       }
     },
     {
-      "id": "b3e4eb18-6210-418d-b5b3-daf1e5d57320",
-      "title": "Bambu Lab A1 em oferta de 30% desconto por 48.900 ienes no Smile Sale da Amazon Japão",
+      "id": "33e66925-742e-440e-87c3-345ed3b08bc3",
+      "title": "Anker Solix C1000 Powerstation atinge menor preço histórico na Amazon",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bambu Lab A1 3D printer review setup",
+        "video_query_en": "Anker Solix C1000 powerstation review and test",
         "images": [
           {
-            "anchor": "Facilidade de uso e automação para iniciantes",
-            "query_en": "Bambu Lab A1 3D printer automated calibration"
+            "anchor": "Uma oferta sem precedentes para energia portátil",
+            "query_en": "Anker Solix C1000 powerstation Amazon"
           },
           {
-            "anchor": "O modelo Bambu Lab A1 destaca-se no mercado atual por eliminar a necessidade de ajustes manuais complexos e demorados que historicamente desestimulavam novos usuários.",
-            "query_en": "Bambu Lab A1 printer printing in action"
+            "anchor": "Especificações técnicas de destaque",
+            "query_en": "Anker Solix C1000 Gen 2 battery"
           }
         ]
       }
     },
     {
-      "id": "d1a40596-3f09-4b0a-87ae-36eb9b834ff3",
-      "title": "Adobe Creative Cloud ganha versão 2027 focada em fluxos de trabalho orientados por agentes",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Adobe Creative Cloud 2027 update workflow",
-        "images": [
-          {
-            "anchor": "Foco em eficiência com o modelo de agentes",
-            "query_en": "Adobe Creative Cloud interface design software"
-          },
-          {
-            "anchor": "Impacto na rotina de criadores e profissionais",
-            "query_en": "digital designer working on computer creative studio"
-          }
-        ]
-      }
-    },
-    {
-      "id": "82c162d5-8751-4cfb-acd1-73b91d05a79a",
-      "title": "AMD anuncia EPYC Embedded 9006 SP7: processadores de alto desempenho com até 256 núcleos",
+      "id": "f394ff25-ac54-4db3-b5c9-f8220229362e",
+      "title": "Formula 2030: Polestar traz de volta os botões físicos para o interior dos carros elétricos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AMD EPYC Embedded 9006 series architecture overview",
+        "video_query_en": "Polestar Formula 2030 concept interior physical buttons",
         "images": [
           {
-            "anchor": "Uma nova era para sistemas embarcados de alto desempenho",
-            "query_en": "AMD EPYC embedded processor chip"
+            "anchor": "O conceito Formula 2030",
+            "query_en": "Polestar Formula 2030 design study exterior"
           },
           {
-            "anchor": "Especificações técnicas e capacidade de processamento",
-            "query_en": "AMD EPYC server CPU architecture diagram"
+            "anchor": "O retorno dos botões físicos",
+            "query_en": "Polestar interior physical buttons concept dashboard"
           },
           {
-            "anchor": "Cronograma de lançamento e disponibilidade",
-            "query_en": "AMD semiconductor manufacturing facility"
-          },
-          {
-            "anchor": "Foco em aplicações industriais",
-            "query_en": "industrial edge computing server rack"
+            "anchor": "Botões físicos dedicados para funções essenciais do veículo",
+            "query_en": "Polestar physical buttons car interior controls"
           }
         ]
       }
     },
     {
-      "id": "dc5cba36-5800-4f9e-8062-11bb5b752b7f",
-      "title": "Adobe anuncia expansão do Creative Agent e suporte a MCP para Photoshop e outros aplicativos",
+      "id": "1945c381-7924-4974-87e9-17727fb7660f",
+      "title": "Bundeswehr proíbe drones DJI e carros chineses em bases militares por risco de espionagem",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bundeswehr security concerns Chinese technology drones cars",
+        "images": [
+          {
+            "anchor": "Restrições de segurança nas instalações militares",
+            "query_en": "Bundeswehr military base gate"
+          },
+          {
+            "anchor": "O papel dos drones DJI e veículos chineses",
+            "query_en": "DJI drone flying"
+          },
+          {
+            "anchor": "Proibição de drones DJI",
+            "query_en": "DJI drone logo"
+          },
+          {
+            "anchor": "Restrição a veículos chineses",
+            "query_en": "Chinese electric car charging"
+          },
+          {
+            "anchor": "Avaliação de riscos",
+            "query_en": "Cybersecurity risk assessment concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1557295a-d128-4456-ac3f-1a6153557bc5",
+      "title": "Por que a Kirin reformulou a cerveja 'Harefu' em plena alta de vendas impulsionada por IA?",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Kirin Beer Harefu AI technology",
+        "images": [
+          {
+            "anchor": "O papel da inteligência artificial FJWLA no desenvolvimento",
+            "query_en": "artificial intelligence data analysis technology"
+          },
+          {
+            "anchor": "Os desafios de aprimorar um produto já bem-sucedido",
+            "query_en": "Kirin Harefu beer can Japanese market"
+          },
+          {
+            "anchor": "O futuro da fabricação de bebidas com o suporte tecnológico",
+            "query_en": "modern brewery automated technology"
+          },
+          {
+            "anchor": "- Aplicação inédita de IA proprietária focada em preferências gustativas humanas.",
+            "query_en": "beer manufacturing facility tanks"
+          }
+        ]
+      }
+    },
+    {
+      "id": "28cee114-d51b-4881-806e-fb6793ae80ea",
+      "title": "Fujifilm registra lucro recorde no Q2 impulsionado por instax e outro setor de destaque",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fujifilm financial results instax business growth",
+        "images": [
+          {
+            "anchor": "O sucesso contínuo da linha instax",
+            "query_en": "Fujifilm instax camera instant photography"
+          },
+          {
+            "anchor": "O segundo grande pilar de faturamento",
+            "query_en": "Fujifilm corporate headquarters business building"
+          },
+          {
+            "anchor": "Perspectivas de mercado e solidez financeira",
+            "query_en": "Fujifilm business graph financial results"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d4b1631-401a-46d8-8d1f-0b75773f718d",
+      "title": "[ITmedia エンタープライズ] 米CISAがインシデント報告フォームを刷新 カギは攻撃を語る「共通言語」",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: セキュリティ"
+    },
+    {
+      "id": "edbd6e47-3b24-477d-a474-ce42bd3caaae",
+      "title": "Por que o Agoda é tão barato? Executivo explica estratégia de descontos e concorrência interna",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Agoda hotel booking cheap prices strategy business model",
+        "images": [
+          {
+            "anchor": "A Estratégia do Desconto Próprio",
+            "query_en": "Agoda booking app marketing discount strategy"
+          },
+          {
+            "anchor": "Tecnologia de Ponta e Concorrência Interna",
+            "query_en": "hotel booking data server infrastructure technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eccc92fc-0590-4b4b-ae60-d66572bc43c1",
+      "title": "Google lança o avançado Gemini 4 Carbon com exclusividade para o plano AI Ultra",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Adobe MAX 2026 Photoshop AI automation Creative Agent MCP",
+        "video_query_en": "Google Gemini 4 Carbon AI Ultra launch",
         "images": [
           {
-            "anchor": "Creative Agent chega aos principais aplicativos de desktop e mobile",
-            "query_en": "Adobe Creative Agent desktop application interface"
+            "anchor": "Disponibilidade e o Plano Google AI Ultra",
+            "query_en": "Google Gemini app interface smartphone"
           },
           {
-            "anchor": "Suporte ao protocolo MCP permite controle autônomo por IA externa",
-            "query_en": "Adobe Photoshop user interface AI control"
-          },
-          {
-            "anchor": "Novidades no Firefly e atualizações em aplicativos da Creative Cloud",
-            "query_en": "Adobe Firefly AI generation tools interface"
+            "anchor": "Recursos para Desenvolvedores e Novas Ferramentas",
+            "query_en": "developer coding programming AI interface"
           }
         ]
       }
     },
     {
-      "id": "254494d0-22e4-49a5-bbef-62f2f5f658dd",
-      "title": "Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sistemas"
+      "id": "4b17d430-040b-495c-bc2c-409350e0df4b",
+      "title": "King Jim Memamorin: Testando o dispositivo anti-miopia para telas",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "King Jim Memamorin anti myopia light review",
+        "images": [
+          {
+            "anchor": "Como funciona a detecção de proximidade",
+            "query_en": "King Jim Memamorin device box and design"
+          },
+          {
+            "anchor": "O uso em computadores e desktops",
+            "query_en": "tablet with clip on sensor light"
+          },
+          {
+            "anchor": "Limitações de personalização e avaliação geral",
+            "query_en": "child using tablet close to face"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ca17f0fc-11c4-4dd1-afdb-228d6e49795a",
+      "title": "Versões físicas de Hollow Knight e Silksong para Switch 2 encantam fãs com mapas e manuais",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hollow Knight Silksong Switch 2 physical unboxing Fangamer",
+        "images": [
+          {
+            "anchor": "Detalhes das embalagens físicas",
+            "query_en": "Hollow Knight Silksong Switch 2 physical game case"
+          },
+          {
+            "anchor": "Brindes clássicos e manuais de instrução",
+            "query_en": "Hollow Knight physical game manual and map"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d415231a-6af0-46ea-b214-c9c878e7c370",
+      "title": "A polêmica sobre o uso de inteligência artificial no desenvolvimento de jogos com Big Walk",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Big Walk indie game AI usage controversy",
+        "images": [
+          {
+            "anchor": "O dilema ético da inteligência artificial nos videogames",
+            "query_en": "artificial intelligence in game development concept"
+          },
+          {
+            "anchor": "As diferenças entre os usos de IA no desenvolvimento",
+            "query_en": "game developer working on computer code"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3bba812c-dd0f-424b-abdb-2812c7775bcd",
+      "title": "Mouse Work, jogo do Switch 2 que utiliza controles de mouse dos Joy-Con, chega em dezembro",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mouse Work Nintendo Switch 2 trailer gameplay",
+        "images": [
+          {
+            "anchor": "Detalhes da Campanha e Modos de Jogo",
+            "query_en": "Nitrome Mouse Work Switch 2 gameplay"
+          },
+          {
+            "anchor": "Preço e Disponibilidade na eShop",
+            "query_en": "Nintendo Switch 2 eShop store"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9e2c01da-6d90-483b-b474-8791403a418a",
+      "title": "Apple libera atualização iOS 27.2.1 com importantes correções de segurança para iPhone",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iOS 27.2.1 security update iPhone",
+        "images": [
+          {
+            "anchor": "Como atualizar o seu iPhone",
+            "query_en": "iPhone Software Update settings screen"
+          },
+          {
+            "anchor": "Detalhes das falhas corrigidas",
+            "query_en": "Apple iPhone security update warning"
+          },
+          {
+            "anchor": "Próximos passos no ecossistema iOS",
+            "query_en": "Apple iPhone running iOS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "94a1210e-cdf3-41f2-be47-364cd97b847c",
+      "title": "Novidades no PlayStation Plus: Death Stranding 2, Atomfall e mais jogos chegam ao catálogo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Death Stranding 2 Atomfall PlayStation Plus November games",
+        "images": [
+          {
+            "anchor": "Death Stranding 2: On the Beach",
+            "query_en": "Death Stranding 2 On the Beach gameplay Sam Norman Reedus"
+          },
+          {
+            "anchor": "Like a Dragon: Pirate Yakuza in Hawaii",
+            "query_en": "Like a Dragon Pirate Yakuza in Hawaii gameplay"
+          },
+          {
+            "anchor": "Atomfall",
+            "query_en": "Atomfall game Lake District post apocalyptic"
+          },
+          {
+            "anchor": "Outros títulos adicionados ao Catálogo do PS Plus",
+            "query_en": "PlayStation Plus Extra Premium game catalog interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "150d4bc8-1e31-41fa-a48d-b284b6936f48",
+      "title": "Google lança três novos domínios de topo, incluindo .eat e .fly",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google new top level domains eat fly here",
+        "images": [
+          {
+            "anchor": "O processo de lançamento",
+            "query_en": "ICANN internet domain registry building"
+          },
+          {
+            "anchor": "Empresas que já garantiram os endereços",
+            "query_en": "Google corporate office sign"
+          },
+          {
+            "anchor": "Custos e taxas de registro",
+            "query_en": "Domain name registration website interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6d23a713-9f82-4ea2-b60a-55f64ce8c2c6",
+      "title": "Cerca de metade dos novos jogos lançados na Steam em outubro contam com o auxílio de Inteligência Artificial",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Steam AI games 50 percent increase gaming industry",
+        "images": [
+          {
+            "anchor": "A origem dos dados e a política da Valve",
+            "query_en": "Steam store digital marketplace PC games interface Valve"
+          },
+          {
+            "anchor": "O alcance real das estatísticas e o uso de ferramentas",
+            "query_en": "developer working on computer video game design code"
+          },
+          {
+            "anchor": "Para que os estúdios utilizam a Inteligência Artificial?",
+            "query_en": "generative AI video game artwork assets creation"
+          },
+          {
+            "anchor": "A recepção dos jogadores e a qualidade dos títulos",
+            "query_en": "gamer playing PC game reviews community feedback"
+          },
+          {
+            "anchor": "A postura das plataformas de distribuição digital",
+            "query_en": "digital storefront video game launcher interface"
+          },
+          {
+            "anchor": "Medidas de controle e perspectivas futuras",
+            "query_en": "coding programming screen software development"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1f41a9a5-8dba-4a59-9d0f-c6800912297a",
+      "title": "Google expande disponibilidade do modelo Gemini 4 Carbon para o público geral",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Google Gemini 4 Carbon AI model availability",
+        "images": [
+          {
+            "anchor": "Novas áreas de destaque",
+            "query_en": "Google Gemini AI technology conceptual abstract background"
+          },
+          {
+            "anchor": "Segurança e mitigação de riscos",
+            "query_en": "Cybersecurity data protection and artificial intelligence shield"
+          },
+          {
+            "anchor": "Disponibilidade e acesso",
+            "query_en": "Developer coding on laptop with Android Studio and AI tools"
+          }
+        ]
+      }
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -796,39 +740,43 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d5840d19-0af4-40c6-b668-a0233b477e5b",
-      "title": "Aplicativo de sorteio para pachinko 777CON-PASS sofre acesso não autorizado com risco de vazamento de dados",
-      "category": "Segurança",
+      "id": "25653680-70f8-4dff-a09d-12b9f1044ee7",
+      "title": "Por que a JAL Mobile escolheu a ahamo além da IIJ? O que revelam JAL e Docomo sobre o modelo white-label",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "pachinko app data breach cybersecurity",
+        "video_query_en": "JAL Mobile ahamo Docomo MVNO strategy",
         "images": [
           {
-            "anchor": "Detalhes do incidente e informações potencialmente vazadas",
-            "query_en": "smartphone security data leak warning mobile app"
+            "anchor": "Os objetivos estratégicos da aliança entre JAL e Docomo",
+            "query_en": "Japan Airlines airplane and smartphone"
           },
           {
-            "anchor": "Medidas em andamento e investigações",
-            "query_en": "cybersecurity investigation server digital forensics"
+            "anchor": "A complementaridade dos ecossistemas econômicos",
+            "query_en": "NTT Docomo store building Tokyo"
+          },
+          {
+            "anchor": "O modelo white-label e o futuro dos MVNOs",
+            "query_en": "mobile phone roaming international travel"
           }
         ]
       }
     },
     {
-      "id": "f248303c-65d6-48ac-b643-d0868bd8edd5",
-      "title": "SpaceX muda nome de divisão de inteligência artificial para SpaceXSI após decreto de Trump",
-      "category": "Inteligência Artificial",
+      "id": "0865ef88-6d99-451d-ae2e-05bea75dad61",
+      "title": "Substratos de SiC mais baratos impulsionam onda de demanda e remodelam ecossistema",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Elon Musk SpaceX AI SpaceXSI name change",
+        "video_query_en": "silicon carbide substrate semiconductor market 2026",
         "images": [
           {
-            "anchor": "O significado da mudança e o contexto político",
-            "query_en": "SpaceX headquarters sign and Elon Musk"
+            "anchor": "O panorama dos preços de SiC em 2026",
+            "query_en": "silicon carbide wafer manufacturing cleanroom"
           },
           {
-            "anchor": "Alinhamento corporativo às novas diretrizes",
-            "query_en": "Donald Trump tech policy announcement"
+            "anchor": "Impacto do mercado chinês e repercussões na Ásia",
+            "query_en": "semiconductor supply chain Taiwan China"
           }
         ]
       }
