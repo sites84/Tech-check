@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:37:50.999Z",
+  "updated_at": "2026-11-11T15:36:13.298Z",
   "fixed": [
     {
       "id": "0f77ae96-8adf-49b9-996c-40e72c05f063",
@@ -166,6 +166,12 @@
     {
       "id": "1a480411-8606-4107-b6c2-e14598769fbc",
       "title": "Comunidade é convidada a recomendar jogos negligenciados do Nintendo Switch",
+      "from": [],
+      "to": "Games"
+    },
+    {
+      "id": "d3a90f97-fd83-4bd3-acbe-fbbe809fd12c",
+      "title": "World of Warcraft: Forever review: \"A love letter to the MMORPG I fell for over 20 years ago\"",
       "from": [],
       "to": "Games"
     },
@@ -360,12 +366,6 @@
       "title": "Ex-PlayStation boss recalls Nintendo employee's reaction to the PSP reveal: \"You bastards\"",
       "from": [],
       "to": "Games"
-    },
-    {
-      "id": "10c7a816-4492-49f5-8c5d-ec88c16f323a",
-      "title": "Keanu Reeves' Fantasy Thriller Is Officially Still Getting A Sequel 21 Years Later",
-      "from": [],
-      "to": "Filmes, Séries e Animações"
     },
     {
       "id": "786af5e8-b777-45c5-857d-e5c2d0ad92e7",
@@ -3284,6 +3284,12 @@
       "sources": []
     },
     {
+      "id": "10c7a816-4492-49f5-8c5d-ec88c16f323a",
+      "title": "Keanu Reeves' Fantasy Thriller Is Officially Still Getting A Sequel 21 Years Later",
+      "existing": [],
+      "sources": []
+    },
+    {
       "id": "c4b9f0e6-5bc8-48bb-9ed6-10f6cfaf1d82",
       "title": "Novas evidências indicam lançamento iminente de dispositivos da Apple e pacotes confidenciais nas lojas",
       "existing": [],
@@ -4169,9 +4175,7 @@
       "id": "10d19073-942e-4dc7-86cd-370680765846",
       "title": "Paramount closes Warner merger in historic Hollywood deal",
       "existing": [],
-      "sources": [
-        "The Japan Times"
-      ]
+      "sources": []
     },
     {
       "id": "1612ed04-7744-47ee-9f4b-2cdc26f859c8",
@@ -4377,12 +4381,6 @@
     {
       "id": "a8c96260-98bf-4954-90fb-40af5f6d3801",
       "title": "Dragon's Dogma 2: Dark Arisen Review - More Of A Pawn Than A Queen",
-      "existing": [],
-      "sources": []
-    },
-    {
-      "id": "9c5ccdb5-16f6-46b4-b5d2-b10377bbe580",
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
       "existing": [],
       "sources": []
     }
