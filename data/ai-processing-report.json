@@ -1,743 +1,733 @@
 {
-  "updated_at": "2026-11-11T22:10:13.605Z",
+  "updated_at": "2026-11-12T04:12:40.512Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "0b549f2a-381c-48a4-849e-e894c8993ca4",
-      "title": "Campanha do Dia dos Solteiros na China perde força enquanto consumidores buscam valor",
+      "id": "6b0c8d54-39eb-41f9-a74c-c2356ddbe995",
+      "title": "Líderes alertam na COP31 que conflitos não devem desviar atenção da ação climática",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "COP31 climate conference Turkey electrification global warming",
+        "images": [
+          {
+            "anchor": "Discursos e Alertas na COP31",
+            "query_en": "COP31 climate conference leaders summit"
+          },
+          {
+            "anchor": "A Proposta da Turquia sobre Eletrificação",
+            "query_en": "Turkey climate change conference Antalya"
+          },
+          {
+            "anchor": "Posicionamentos dos Chefes de Estado",
+            "query_en": "Heads of state giving speeches at climate summit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9ea24f90-4b3a-4888-b4ba-a1f31e1ceaf1",
+      "title": "O dilema de Andy Burnham com o petróleo do Mar do Norte e a liderança climática britânica",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Andy Burnham North Sea drilling Rosebank COP31 climate talks",
+        "images": [
+          {
+            "anchor": "O impasse no Mar do Norte",
+            "query_en": "North Sea oil rig drilling operations"
+          },
+          {
+            "anchor": "A sensibilidade temporal e geopolítica",
+            "query_en": "COP31 climate change conference venue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5694e807-05e3-42eb-b92d-fdc712afc605",
+      "title": "Escândalo envolvendo CEO da Nvidia testa trégua comercial entre EUA e China",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China Singles Day shopping festival consumer trends",
+        "video_query_en": "Nvidia Jensen Huang China trade restrictions Donald Trump Xi Jinping",
         "images": [
           {
-            "anchor": "O impacto das promoções antecipadas e subsídios",
-            "query_en": "Shanghai shopping mall advertisement Singles Day"
+            "anchor": "Um encontro de cúpula que foge do roteiro",
+            "query_en": "Xi Jinping Donald Trump summit"
           },
           {
-            "anchor": "Estratégias de engajamento e o cenário empresarial",
-            "query_en": "China live stream e-commerce sales pitch"
+            "anchor": "O impacto das acusações de espionagem",
+            "query_en": "Jensen Huang Nvidia CEO"
           },
           {
-            "anchor": "Empresas transmitem ofertas ao vivo diretamente de feiras de negócios para tentar reanimar a confiança do consumidor.",
-            "query_en": "China retail livestream shopping event"
-          },
-          {
-            "anchor": "Concessionárias de automóveis e marcas de bens de consumo enfrentam quedas expressivas e reestruturações em seus modelos de crescimento.",
-            "query_en": "Shanghai retail street shoppers"
-          },
-          {
-            "anchor": "Redes de varejo buscam alternativas em mercados internacionais e redefinem estratégias diante de barreiras comerciais e mudanças demográficas.",
-            "query_en": "China consumer goods market exhibition"
+            "anchor": "O futuro da trégua comercial em jogo",
+            "query_en": "US China semiconductor trade technology hub Shenzhen"
           }
         ]
       }
     },
     {
-      "id": "6a8b713a-67e1-4048-b21e-fb887a6ef84e",
-      "title": "Rule change to ease Japan life insurers' government bond purchases",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "d8aece99-3b98-47f2-8956-94367632740b",
-      "title": "O 'Novo Momento Yalta' de Xi Jinping Ganha Forma em Shenzhen",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Xi Jinping Vladimir Putin Donald Trump geopolitics analysis",
-        "images": [
-          {
-            "anchor": "O Papel de Shenzhen e as Articulações Diplomáticas",
-            "query_en": "Shenzhen city skyline China tech hub"
-          },
-          {
-            "anchor": "A Dinâmica entre Xi Jinping, Vladimir Putin e Donald Trump",
-            "query_en": "Xi Jinping and Vladimir Putin meeting"
-          },
-          {
-            "anchor": "Desafios Internos e Governança",
-            "query_en": "Beijing China government official building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "92c28ebc-75c9-4f5b-9124-98ae731e34c6",
-      "title": "Preço do ítrio, elemento de terras raras, dispara nove vezes em um ano devido a restrições da China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "rare earth yttrium supply chain china curbs",
-        "images": [
-          {
-            "anchor": "O salto histórico do preço do ítrio",
-            "query_en": "rare earth metals manufacturing factory industrial"
-          },
-          {
-            "anchor": "Aplicações estratégicas e industriais",
-            "query_en": "semiconductor silicon wafer chip manufacturing cleanroom"
-          },
-          {
-            "anchor": "A busca por alternativas e o impacto regional",
-            "query_en": "tokyo business district skyline japan economy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "68e8acf8-22cd-42c0-b898-030e7ad57179",
-      "title": "A China está cercando o Vietnã?",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China Vietnam geopolitical relations Ream Naval Base Cambodia",
-        "images": [
-          {
-            "anchor": "O Impacto da Base Naval de Ream no Camboja",
-            "query_en": "Ream Naval Base Cambodia inauguration"
-          },
-          {
-            "anchor": "A Expansão de Centros de Treinamento Próximos a Vientiane",
-            "query_en": "Vientiane Laos military landscape"
-          },
-          {
-            "anchor": "O Contexto das Relações Internacionais e Econômicas",
-            "query_en": "Hanoi Vietnam cityscape and governance"
-          }
-        ]
-      }
-    },
-    {
-      "id": "23a74cb6-0292-4f8c-b74b-e820deb9d46f",
-      "title": "Preços do petróleo bruto russo disparam impulsionados por demanda de China e Índia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Russian crude oil prices China India demand",
-        "images": [
-          {
-            "anchor": "O panorama atual do mercado de petróleo russo",
-            "query_en": "oil refinery chimneys emitting steam"
-          },
-          {
-            "anchor": "O papel central da China e da Índia",
-            "query_en": "cargo oil tanker at sea"
-          },
-          {
-            "anchor": "Impactos logísticos e custos de transporte",
-            "query_en": "oil tanker shipping container port"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9c216caf-1785-4c37-8dec-a50590980f1a",
-      "title": "Delos assume operação da nuvem da Microsoft para órgãos públicos alemães em janeiro de 2027",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Delos Cloud Microsoft Germany public sector",
-        "images": [
-          {
-            "anchor": "O cronograma de transição para janeiro de 2027",
-            "query_en": "server room technology infrastructure"
-          },
-          {
-            "anchor": "As críticas persistentes em torno da soberania digital",
-            "query_en": "digital sovereignty data security concept"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ba01fd48-613c-4b51-9fe8-d211250146f0",
-      "title": "Logitech MX Master 4 em oferta especial na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Logitech MX Master mouse review and features",
-        "images": [
-          {
-            "anchor": "Inovações de Hardware e Desempenho",
-            "query_en": "Logitech MX Master mouse sensor and design"
-          },
-          {
-            "anchor": "Condições Especiais de Compra",
-            "query_en": "Amazon package delivery box shopping online"
-          },
-          {
-            "anchor": "Impacto no Ecossistema de Periféricos",
-            "query_en": "Modern computer workstation setup with mouse and keyboard"
-          }
-        ]
-      }
-    },
-    {
-      "id": "73eb9aa0-df9f-4d8f-8212-5684073a2225",
-      "title": "Empresa europeia Helsing apresenta plataforma de inteligência artificial militar Clarity",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Helsing military AI platform Clarity",
-        "images": [
-          {
-            "anchor": "Empresa europeia Helsing apresenta plataforma de inteligência artificial militar Clarity",
-            "query_en": "Helsing military AI platform"
-          }
-        ]
-      }
-    },
-    {
-      "id": "57e89d5e-a50d-400e-baa4-4012754d650b",
-      "title": "Amazon oferece o Xiaomi Poco F8 Ultra pelo menor preço em meses",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Xiaomi Poco F8 Ultra review unboxing",
-        "images": [
-          {
-            "anchor": "Oferta na Amazon",
-            "query_en": "Amazon website package delivery shopping"
-          },
-          {
-            "anchor": "Disponibilidade e Condições",
-            "query_en": "Online shopping smartphone discount sale"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ae038353-5c4a-4681-97f7-284e014ddc36",
-      "title": "Chefe de segurança da Telekom afirma que não há \"smoking gun\" em equipamentos da Huawei",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Telekom Huawei security smoking gun network infrastructure",
-        "images": [
-          {
-            "anchor": "A avaliação técnica da Telekom",
-            "query_en": "Deutsche Telekom network hardware telecommunications tower"
-          },
-          {
-            "anchor": "A busca por evidências definitivas",
-            "query_en": "Huawei telecommunications equipment server rack"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7719caec-bf01-44a0-876d-5daabf249d49",
-      "title": "A nova palavra da moda corporativa: o que significa o termo \"delayering\" na era da inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "artificial intelligence corporate restructuring job loss",
-        "images": [
-          {
-            "anchor": "O caso da Chime Financial",
-            "query_en": "Chime financial technology office building"
-          },
-          {
-            "anchor": "A cortina de fumaça do jargão de consultoria",
-            "query_en": "corporate business meeting modern office"
-          },
-          {
-            "anchor": "Uso de jargões para mascarar reestruturações",
-            "query_en": "business analytics graph screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9f08c28f-6fb7-4aae-a81b-f3234b34146b",
-      "title": "Volkswagen suspende projeto do ID.Golf e enfrenta incertezas na produção de elétricos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Volkswagen ID.Golf electric vehicle production Wolfsburg",
-        "images": [
-          {
-            "anchor": "O impacto do cancelamento em Wolfsburg",
-            "query_en": "Volkswagen Wolfsburg factory assembly line"
-          },
-          {
-            "anchor": "Confusão na linha de montagem do ID.3",
-            "query_en": "Volkswagen ID.3 electric car"
-          }
-        ]
-      }
-    },
-    {
-      "id": "36ab704a-6132-47fe-b034-9a44aa9f30d5",
-      "title": "Campanha solo de Star Citizen: Mark Hamill experimenta Squadron 42 em realidade virtual",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Star Citizen Squadron 42 gameplay Mark Hamill virtual reality",
-        "images": [
-          {
-            "anchor": "Novidades na jogabilidade e expansão do universo",
-            "query_en": "Star Citizen Squadron 42 gameplay spaceship cockpit"
-          }
-        ]
-      }
-    },
-    {
-      "id": "495223e5-3416-449f-a2b8-9388111ea651",
-      "title": "Uso de agentes de inteligência artificial com Claude para tarefas de escritório",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI agents office automation Claude workflow",
-        "images": [
-          {
-            "anchor": "O papel dos agentes de inteligência artificial",
-            "query_en": "artificial intelligence agents office workplace"
-          },
-          {
-            "anchor": "Capacidades do modelo Claude",
-            "query_en": "Anthropic Claude AI interface on computer screen"
-          },
-          {
-            "anchor": "Automatização e controle de processos",
-            "query_en": "business workflow automation dashboard screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "19ad16d8-333c-47e5-910d-c2ff38ccef48",
-      "title": "Telefónica Deutschland e Deutsche Glasfaser fecham parceria para expansão de FTTH",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Telefonica Deutsche Glasfaser FTTH partnership",
-        "images": [
-          {
-            "anchor": "Detalhes da Cooperação em Fibra Óptica",
-            "query_en": "Deutsche Glasfaser fiber optic network infrastructure"
-          },
-          {
-            "anchor": "Impacto no Mercado de Telecomunicações",
-            "query_en": "Telefónica Deutschland telecom office building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cd4eb130-0904-4fbf-8703-f9c6695d0f70",
-      "title": "[ITmedia ビジネスオンライン] 年間1500万件の問い合わせが寄せられるauショップ、AI活用で「回答時間90％削減」 その先で目指すことは",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: 企業"
-    },
-    {
-      "id": "b5651a5b-a425-4ac5-b4a0-f5714fc54c59",
-      "title": "Nova proposta da União Europeia mira o fim de loot boxes e restrições severas em moedas virtuais nos games",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "EU Digital Fairness Act loot boxes virtual currency gaming impact",
-        "images": [
-          {
-            "anchor": "O impacto direto nos menores de idade e nas loot boxes",
-            "query_en": "video game loot boxes warning regulations"
-          },
-          {
-            "anchor": "Regras rígidas para preços e moedas virtuais",
-            "query_en": "video game virtual currency microtransactions"
-          },
-          {
-            "anchor": "Combate ao Pay-to-Win e incentivos excessivos",
-            "query_en": "pay to win video game mechanics warning"
-          },
-          {
-            "anchor": "Desafios práticos e o futuro do setor",
-            "query_en": "Fortnite gameplay screen children gaming"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5b2aa07c-d271-46b5-ac52-bd45d79bf020",
-      "title": "Resident Evil Requiem fatura o prêmio de Jogo do Ano no Golden Joystick Awards 2026",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Resident Evil Requiem Golden Joystick Awards 2026",
-        "images": [
-          {
-            "anchor": "A concorrência pelo prêmio principal",
-            "query_en": "Crimson Desert gameplay action"
-          },
-          {
-            "anchor": "As vitórias de Resident Evil Requiem na cerimônia",
-            "query_en": "Resident Evil Requiem game cover art"
-          },
-          {
-            "anchor": "Melhor Trailer de Jogo, pela peça promocional intitulada 'Evil Always Has a Name'",
-            "query_en": "Resident Evil Requiem trailer promotional art"
-          },
-          {
-            "anchor": "Melhor Atuação Principal, concedida à atriz Angela Sant'Albano pelo seu papel como Grace Ashcroft",
-            "query_en": "Angela Sant'Albano actress"
-          },
-          {
-            "anchor": "Jogo de Console do Ano",
-            "query_en": "Resident Evil Requiem console gameplay"
-          },
-          {
-            "anchor": "Jogo do Ano (Ultimate Game of the Year)",
-            "query_en": "Golden Joystick Awards trophy"
-          },
-          {
-            "anchor": "O desempenho da Capcom e a recepção da crítica",
-            "query_en": "Capcom logo development team"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5a0b2ba4-5bfc-4696-8aa9-1924c45e3093",
-      "title": "Todos os vencedores do Golden Joystick Awards 2026 são revelados",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Golden Joystick Awards 2026 winners",
-        "images": [
-          {
-            "anchor": "Lista completa de vencedores por categoria",
-            "query_en": "Golden Joystick Awards 2026 trophy stage"
-          },
-          {
-            "anchor": "Destaques da premiação",
-            "query_en": "Resident Evil Requiem game artwork"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dfb9877a-b916-4dab-a125-f4453451d5a1",
-      "title": "The Witcher 4 e The Witcher 3 Remastered garantem prêmios para a CD Projekt Red no Golden Joystick Awards 2026",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Witcher 4 and The Witcher 3 Remastered Golden Joystick Awards 2026",
-        "images": [
-          {
-            "anchor": "O triunfo de The Witcher 3 Remastered",
-            "query_en": "The Witcher 3 Remastered gameplay"
-          },
-          {
-            "anchor": "A expectativa em torno de The Witcher 4",
-            "query_en": "The Witcher 4 promotional art CD Projekt Red"
-          },
-          {
-            "anchor": "O cenário geral do Golden Joystick Awards 2026",
-            "query_en": "Golden Joystick Awards trophy ceremony"
-          },
-          {
-            "anchor": "Resident Evil Requiem",
-            "query_en": "Resident Evil Requiem game character Angela Sant Albano"
-          },
-          {
-            "anchor": "Capcom",
-            "query_en": "Capcom logo office"
-          },
-          {
-            "anchor": "Meccha Chameleon",
-            "query_en": "Meccha Chameleon game"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b93d9f64-f6f0-4ccc-a843-15da5212a8fc",
-      "title": "Resident Evil Requiem e Meccha Chameleon dividem o topo no Golden Joystick Awards",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Golden Joystick Awards Resident Evil Requiem Meccha Chameleon",
-        "images": [
-          {
-            "anchor": "O triunfo de Resident Evil Requiem",
-            "query_en": "Resident Evil Requiem game"
-          },
-          {
-            "anchor": "O fenômeno Meccha Chameleon",
-            "query_en": "Meccha Chameleon game"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a5816318-435d-420a-9b0b-4dc202471101",
-      "title": "Por que Grand Theft Auto 6 ficou de fora do Golden Joystick Awards 2026?",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 Golden Joystick Awards explanation",
-        "images": [
-          {
-            "anchor": "As regras de elegibilidade do evento",
-            "query_en": "Golden Joystick Awards trophy stage ceremony"
-          },
-          {
-            "anchor": "Dispatch, que chegou ao mercado no final do ano anterior",
-            "query_en": "Dispatch video game gameplay"
-          },
-          {
-            "anchor": "Phantom Blade Zero, lançado pouco tempo antes da premiação",
-            "query_en": "Phantom Blade Zero action combat game"
-          },
-          {
-            "anchor": "O caso específico de GTA 6",
-            "query_en": "GTA 6 Rockstar Games artwork"
-          },
-          {
-            "anchor": "O futuro nas premiações",
-            "query_en": "The Game Awards stage trophy"
-          },
-          {
-            "anchor": "DICE Awards",
-            "query_en": "DICE Awards trophy gaming convention"
-          },
-          {
-            "anchor": "GDC Awards",
-            "query_en": "Game Developers Conference stage event"
-          },
-          {
-            "anchor": "BAFTA Games Awards",
-            "query_en": "BAFTA Games Awards red carpet event"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6572c080-a480-4fa3-a664-f787b6f85537",
-      "title": "The Witcher 3 amplia seu recorde no Golden Joystick Awards e chega a dez vitórias",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Witcher 3 Golden Joystick Awards history",
-        "images": [
-          {
-            "anchor": "O triunfo no Golden Joystick Awards 2026",
-            "query_en": "The Witcher 3 remaster gameplay"
-          },
-          {
-            "anchor": "Trails in the Sky 2nd Chapter",
-            "query_en": "Trails in the Sky 2nd Chapter game"
-          },
-          {
-            "anchor": "Star Fox",
-            "query_en": "Star Fox game"
-          },
-          {
-            "anchor": "Metal Gear Solid: Master Collection Vol. 2",
-            "query_en": "Metal Gear Solid Master Collection"
-          },
-          {
-            "anchor": "Gothic 1 Remake",
-            "query_en": "Gothic 1 Remake"
-          },
-          {
-            "anchor": "Assassin's Creed Black Flag Resynced",
-            "query_en": "Assassin's Creed Black Flag"
-          },
-          {
-            "anchor": "Uma trajetória histórica de premiações",
-            "query_en": "The Witcher 3 Wild Hunt Geralt"
-          },
-          {
-            "anchor": "Melhor Narrativa",
-            "query_en": "The Witcher 3 Bloody Baron quest"
-          },
-          {
-            "anchor": "Melhor Design Visual",
-            "query_en": "The Witcher 3 Blood and Wine expansion"
-          },
-          {
-            "anchor": "Melhor Momento de Jogo, conquistado especificamente pela memorável missão do Barão Sangrento",
-            "query_en": "The Witcher 3 Bloody Baron"
-          },
-          {
-            "anchor": "Jogo Definitivo do Ano, o principal prêmio da noite",
-            "query_en": "Golden Joystick Awards trophy"
-          },
-          {
-            "anchor": "Contagem de prêmios e recordes",
-            "query_en": "CD Projekt Red logo"
-          },
-          {
-            "anchor": "Perspectivas futuras e novos conteúdos",
-            "query_en": "The Witcher 3 Songs of the Past"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3293ae4a-3f1e-447f-85e0-557a89d2215d",
-      "title": "CD Projekt Red usou inteligência artificial com aprovação de ator para recriar voz de Geralt em expansão de The Witcher 3",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Witcher 3 Songs of the Past Jacek Rozenek AI voice Respeecher",
-        "images": [
-          {
-            "anchor": "O desafio técnico e o apoio da Respeecher",
-            "query_en": "CD Projekt Red development studio office"
-          },
-          {
-            "anchor": "Envio de todo o acervo de falas gravadas por Jacek Rozenek para o jogo original.",
-            "query_en": "The Witcher 3 Geralt of Rivia Polish voice actor Jacek Rozenek"
-          },
-          {
-            "anchor": "Utilização de inteligência artificial pela Respeecher para ajustar o tom e a nitidez.",
-            "query_en": "Respeecher voice cloning software AI audio"
-          },
-          {
-            "anchor": "Aplicação de diretrizes éticas com consentimento mútuo e contratos assinados.",
-            "query_en": "Voice actor recording in sound booth microphone"
-          },
-          {
-            "anchor": "A visão da Respeecher e a busca pela autenticidade",
-            "query_en": "The Witcher 3 Wild Hunt Geralt gameplay"
-          },
-          {
-            "anchor": "Debates éticos e o uso de IA na indústria de jogos",
-            "query_en": "Artificial intelligence in video game development industry debate"
-          }
-        ]
-      }
-    },
-    {
-      "id": "302b56e5-4d87-4846-b26c-fa7b9fae6325",
-      "title": "Anthony Mackie brinca sobre não ter lutado com Robert Downey Jr. em Avengers: Doomsday",
+      "id": "d0ee897a-8c13-4cc1-bb58-bb3681e57be5",
+      "title": "Hit spy drama ‘Vivant’ heads to the big screen",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthony Mackie Avengers Doomsday interview Entertainment Tonight",
+        "video_query_en": "Vivant drama film trailer TBS Masato Sakai",
         "images": [
           {
-            "anchor": "Os bastidores bem-humorados de Avengers: Doomsday",
-            "query_en": "Anthony Mackie Captain America Marvel"
+            "anchor": "Uma nova aventura cinematográfica",
+            "query_en": "Vivant Japanese spy drama movie screen"
           },
           {
-            "anchor": "Os rumores alimentados pelo elenco",
-            "query_en": "Robert Downey Jr Doctor Doom mask"
+            "anchor": "Sucesso de audiência na televisão",
+            "query_en": "Masato Sakai Vivant television broadcast"
           },
           {
-            "anchor": "O clima de reencontro e a convivência no set",
-            "query_en": "Avengers Doomsday cast on set"
-          },
-          {
-            "anchor": "A menção a Paul Bettany e os estúdios vizinhos",
-            "query_en": "Paul Bettany Vision Marvel"
-          },
-          {
-            "anchor": "Lançamento nos cinemas",
-            "query_en": "Avengers Doomsday movie theater poster"
+            "anchor": "O índice de 21.8% marcou o recorde histórico da série até o momento.",
+            "query_en": "TBS television broadcasting studio Tokyo"
           }
         ]
       }
     },
     {
-      "id": "43f2874b-5f0f-4f83-a1f5-1ae2d754b786",
-      "title": "Atriz de Dragon Age lamenta o fechamento da BioWare e destaca legado nos RPGs durante o Golden Joysticks",
+      "id": "c3a5be8f-74ea-422a-9fb7-3255d6c82cc1",
+      "title": "Escavações em Hiroshima prometem reescrever a história da chegada humana ao Japão",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hiroshima archaeology Kanmuri ruins ancient stone tool excavation",
+        "images": [
+          {
+            "anchor": "O mistério da chegada humana ao arquipélago",
+            "query_en": "Hiroshima prefecture landscape Japan countryside"
+          },
+          {
+            "anchor": "A descoberta histórica nas ruínas de Kanmuri",
+            "query_en": "Japanese archaeological excavation site dirt trench"
+          },
+          {
+            "anchor": "Localização: Ruínas de Kanmuri, distrito de Yoshiwa, Hatsukaichi, província de Hiroshima",
+            "query_en": "Hatsukaichi Hiroshima region nature"
+          },
+          {
+            "anchor": "A importância global do sítio arqueológico",
+            "query_en": "archaeologist working at excavation site Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9f9021c-1ae5-4a9c-87bd-a7d25e3e368d",
+      "title": "Nvidia trabalha com empresa externa para identificar candidatos a CEO",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Alix Wilton Regan Golden Joystick Awards BioWare tribute",
+        "video_query_en": "Nvidia CEO Jensen Huang succession corporate board",
         "images": [
           {
-            "anchor": "Uma relação de longa data com a BioWare",
-            "query_en": "Alix Wilton Regan voice actor interview"
+            "anchor": "A busca por um sucessor e o futuro da diretoria",
+            "query_en": "Nvidia corporate headquarters building"
           },
           {
-            "anchor": "O impacto na indústria e Mass Effect 5",
-            "query_en": "Mass Effect concept art and developers"
+            "anchor": "Reuniões de emergência e o papel da imprensa",
+            "query_en": "Wall Street Journal newsroom building"
           },
           {
-            "anchor": "Desafios globais e o futuro do mercado",
-            "query_en": "Golden Joystick Awards stage event"
+            "anchor": "A crise de sucessão e as revelações recentes",
+            "query_en": "Jensen Huang Nvidia CEO presentation"
           }
         ]
       }
     },
     {
-      "id": "94662a1f-e546-4609-af66-c9759ac97ded",
-      "title": "Veterano de Persona relembra criação da franquia e detalha novo JRPG Villion:Code",
+      "id": "36589799-4c74-404d-966a-aac4e3eddd07",
+      "title": "Japão vai destinar ¥294 milhões para o sistema de saúde de Gaza",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan aid to Gaza healthcare emergency teams",
+        "images": [
+          {
+            "anchor": "Apoio financeiro para a saúde em Gaza",
+            "query_en": "Japan flag aid humanitarian support"
+          },
+          {
+            "anchor": "Fortalecimento das equipes médicas",
+            "query_en": "Gaza emergency medical team healthcare"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f4802ca-2a33-44db-bbc3-3a2b38317578",
+      "title": "Suposto líder do grupo criminoso conhecido como 'Luffy' nega acusação de roubo seguido de morte no Japão",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Yuki Watanabe Luffy crime group trial Tokyo District Court",
+        "images": [
+          {
+            "anchor": "O início do julgamento em Tóquio",
+            "query_en": "Tokyo District Court exterior building"
+          },
+          {
+            "anchor": "A defesa do réu e os detalhes das acusações",
+            "query_en": "Japanese courtroom trial lay judges"
+          },
+          {
+            "anchor": "Próximos passos do processo judicial",
+            "query_en": "Japan police investigation news"
+          }
+        ]
+      }
+    },
+    {
+      "id": "144483bb-b2e4-4a6c-8476-3d2b555d018a",
+      "title": "Iene se aproxima da marca crítica de 160 por dólar e renova risco de intervenção no Japão",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Yen near 160 per dollar intervention risk Japan",
+        "images": [
+          {
+            "anchor": "A pressão sobre a moeda japonesa",
+            "query_en": "Japanese yen currency exchange rate Tokyo"
+          },
+          {
+            "anchor": "O impacto da inflação americana e do Federal Reserve",
+            "query_en": "US Federal Reserve building Washington DC"
+          },
+          {
+            "anchor": "A reação das autoridades em Tóquio",
+            "query_en": "Tokyo financial district Japan cityscape"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8cab3f76-9e9b-4cb3-b270-20d22b2859fc",
+      "title": "Nomura avalia possível venda de sua unidade de criptomoedas Laser Digital",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nomura Holdings Laser Digital crypto unit sale talks Marex",
+        "images": [
+          {
+            "anchor": "O cenário da negociação",
+            "query_en": "Nomura Holdings Tokyo headquarters building exterior"
+          },
+          {
+            "anchor": "Alternativas e postura das empresas",
+            "query_en": "Zurich financial district cityscape"
+          }
+        ]
+      }
+    },
+    {
+      "id": "39aa71c3-7107-4d7f-a9b0-4a42288e4bb7",
+      "title": "Escândalo envolvendo Jensen Huang gera reflexos no setor de tecnologia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia tech latest podcast Nikkei Asia",
+        "images": [
+          {
+            "anchor": "O Impacto do Caso Jensen Huang",
+            "query_en": "Jensen Huang Nvidia CEO portrait"
+          },
+          {
+            "anchor": "Queda nas Ações e Preocupações de Espionagem",
+            "query_en": "Nvidia corporate headquarters building"
+          },
+          {
+            "anchor": "O Cenário Mais Amplo do Setor de Tecnologia",
+            "query_en": "microchip semiconductor manufacturing cleanroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e96191e4-e990-4aa0-9e9a-d5989764c1d2",
+      "title": "Ações da Nvidia despencam após boatos de que conselho pode afastar o CEO Jensen Huang",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia stock plunge Jensen Huang board oust",
+        "images": [
+          {
+            "anchor": "Impacto no mercado e a situação de Jensen Huang",
+            "query_en": "Jensen Huang Nvidia CEO speaking on stage"
+          },
+          {
+            "anchor": "Preocupações geopolíticas e o cenário corporativo",
+            "query_en": "Nvidia headquarters building Palo Alto California"
+          },
+          {
+            "anchor": "Queda expressiva de quase 10% nas ações da Nvidia no mercado estendido.",
+            "query_en": "Stock market financial charts downward trend"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1abae902-d110-4b3a-be44-a61e357b4389",
+      "title": "Alistamento militar do Camboja supera meta inicial em 50% apos conflito de fronteira",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cambodia military recruitment border tension Thailand",
+        "images": [
+          {
+            "anchor": "O contexto das tensoes na fronteira",
+            "query_en": "Thai Cambodia border fence military patrol"
+          },
+          {
+            "anchor": "Impacto no cenario regional",
+            "query_en": "Phnom Penh Cambodia military soldiers training"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b7685a45-f2f4-4bfb-9042-ef6dff9e51f3",
+      "title": "Indonésia, Tailândia e Filipinas preparam criação de reservas de petróleo compartilhadas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Southeast Asia shared oil reserves Japan energy security",
+        "images": [
+          {
+            "anchor": "O contexto de crise e a liderança japonesa",
+            "query_en": "Japan economy trade and industry ministry building Tokyo"
+          },
+          {
+            "anchor": "Impactos e desdobramentos na matriz energética",
+            "query_en": "oil storage tanks Southeast Asia energy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4fe00c05-0f4e-45b2-864f-1ae2393db814",
+      "title": "Unicórnio de tecnologia de defesa da Ucrânia busca laços na cadeia de suprimentos em Taiwan e no Japão",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ukraine defense tech drones Taiwan Japan supply chain",
+        "images": [
+          {
+            "anchor": "A participação no fórum em Tainan",
+            "query_en": "Tainan Taiwan cityscape or conference hall"
+          },
+          {
+            "anchor": "O contexto das alianças tecnológicas",
+            "query_en": "modern military drone technology exhibition"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69c872e2-7468-4ab5-a8d0-db6ea675bcc0",
+      "title": "Chefe do FSI pede desculpas por falha de segurança e renuncia após declaração de um minuto",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Financial Security Institute data breach security incident",
+        "images": [
+          {
+            "anchor": "O incidente no Instituto de Segurança Financeira",
+            "query_en": "Financial Security Institute building or office"
+          },
+          {
+            "anchor": "Declaração breve e ausência de detalhes",
+            "query_en": "business executive press conference apology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9d6fe13f-64e2-4f08-b930-f3191769bc39",
+      "title": "Neowiz planeja nove jogos para PC e consoles, incluindo a sequência de Lies of P",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Kouji Okada interview Villion Code Persona origins GamesRadar",
+        "video_query_en": "Neowiz Lies of P sequel PC and console games line up",
         "images": [
           {
-            "anchor": "As origens de Persona e o cansaço dos mundos gigantescos",
-            "query_en": "Kouji Okada game developer portrait"
+            "anchor": "A nova linha de lançamentos",
+            "query_en": "Neowiz corporate logo office building"
           },
           {
-            "anchor": "Por que a ambientação escolar conquistou o seu espaço",
-            "query_en": "Persona video game school setting anime"
-          },
-          {
-            "anchor": "São amplamente relacionáveis ou despertam forte nostalgia no público.",
-            "query_en": "Japanese high school classroom anime style"
-          },
-          {
-            "anchor": "Lançam os personagens em um período altamente formativo de suas vidas.",
-            "query_en": "JRPG students teenagers classroom"
-          },
-          {
-            "anchor": "Trazem fases repletas de emoções extremas e férteis para a narrativa.",
-            "query_en": "Persona game UI lifestyle school"
-          },
-          {
-            "anchor": "A identidade dos jogos de Kouji Okada",
-            "query_en": "Villion Code RPG game concept art"
+            "anchor": "Seis projetos desenvolvidos internamente por equipes próprias da Neowiz.",
+            "query_en": "Lies of P gameplay character action RPG"
           }
         ]
       }
     },
     {
-      "id": "abd741cf-16e8-422f-b699-d80eb4c28a1e",
-      "title": "Asrock lança novo firmware para GPU Radeon sem explicações após falhas críticas",
+      "id": "2ab247ba-f4cb-40ee-b07e-7f52166a6a33",
+      "title": "Lotte Innovate fecha parceria com a Thales para lançar novo serviço de segurança em IA",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lotte Innovate Thales AI security partnership",
+        "images": [
+          {
+            "anchor": "A Integração Tecnológica",
+            "query_en": "Thales cybersecurity technology dashboard"
+          },
+          {
+            "anchor": "Objetivos e Próximos Passos",
+            "query_en": "AI security monitoring operation center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "28cc4437-0616-47b5-b611-46483bf95969",
+      "title": "NC garante direitos de publicação para novo jogo da franquia Survivor.io",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Survivor io gameplay mobile game",
+        "images": [
+          {
+            "anchor": "O novo acordo de publicação internacional",
+            "query_en": "NC headquarters building sign"
+          },
+          {
+            "anchor": "Divisão de responsabilidades entre as empresas",
+            "query_en": "mobile gaming developer office"
+          },
+          {
+            "anchor": "Gorilla Studio",
+            "query_en": "game development studio computers"
+          },
+          {
+            "anchor": "VeroPlay",
+            "query_en": "mobile casual gaming smartphone interface"
+          },
+          {
+            "anchor": "Alcance do lançamento",
+            "query_en": "global mobile gaming market concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d33a725-180f-4d54-af8a-6adec5a81ce5",
+      "title": "Instituto de Segurança Financeira da Coreia do Sul sofre violação de dados com mais de 850 registros vazados",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Financial Security Institute data breach cybersecurity South Korea",
+        "images": [
+          {
+            "anchor": "O incidente no setor financeiro",
+            "query_en": "financial cybersecurity data breach concept"
+          },
+          {
+            "anchor": "Mais de 850 registros foram comprometidos no vazamento.",
+            "query_en": "cybersecurity data leak concept"
+          },
+          {
+            "anchor": "Resposta oficial da instituição",
+            "query_en": "press conference corporate apology statement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd1a24d7-380f-4573-a44e-28138299a625",
+      "title": "Axis busca certificação do NIS para recuperar mercado público na Coreia do Sul",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Axis Communications security solutions and public sector",
+        "images": [
+          {
+            "anchor": "Planos de qualificação no Serviço de Aprovisionamento Público",
+            "query_en": "South Korea Public Procurement Service building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "566afac6-4924-4c97-bcaa-c73499522494",
+      "title": "Krafton registra queda de 35% no lucro operacional e prejuízo líquido no terceiro trimestre de 2026",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Krafton Q3 2026 financial results earnings",
+        "images": [
+          {
+            "anchor": "Queda no lucro operacional e prejuízo líquido",
+            "query_en": "Krafton company corporate office building Seoul"
+          },
+          {
+            "anchor": "Fatores por trás da deterioração financeira",
+            "query_en": "PC gaming revenue decline concept"
+          },
+          {
+            "anchor": "- Queda acentuada na receita de jogos para PC.",
+            "query_en": "PC gaming setup keyboard mouse monitor"
+          },
+          {
+            "anchor": "- Aumento de custos decorrente da consolidação da empresa japonesa de publicidade e conteúdo ADK.",
+            "query_en": "ADK holdings Tokyo office building"
+          },
+          {
+            "anchor": "- Perdas não operacionais relacionadas a variações cambiais.",
+            "query_en": "foreign exchange currency market chart"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6eafa8d0-751c-47ff-9b90-819696ca1757",
+      "title": "Lucro Operacional da Nexon Cresce 11% no Terceiro Trimestre Impulsionado por MapleStory",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nexon Q3 earnings MapleStory revenue surge",
+        "images": [
+          {
+            "anchor": "Desempenho dos Principais Jogos",
+            "query_en": "MapleStory gameplay Nexon"
+          },
+          {
+            "anchor": "MapleStory apresentou um salto expressivo de 72% em sua receita",
+            "query_en": "MapleStory character art"
+          },
+          {
+            "anchor": "FC Online também registrou um desempenho forte",
+            "query_en": "FC Online gameplay Nexon"
+          },
+          {
+            "anchor": "Dungeon & Fighter sofreu uma queda de 33%",
+            "query_en": "Dungeon and Fighter game"
+          },
+          {
+            "anchor": "Crescimento Geral",
+            "query_en": "Nexon headquarters Seoul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21b9f9e4-a49c-4134-a79f-3cee3b59b69a",
+      "title": "Naver reduz o salário de executivo após caso de assédio no ambiente de trabalho",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Naver corporate office building Seoul",
+        "images": [
+          {
+            "anchor": "Detalhes da Punição e Repercussão Interna",
+            "query_en": "business executive meeting boardroom"
+          },
+          {
+            "anchor": "Histórico e Contexto na Organização",
+            "query_en": "modern corporate office interior hallway"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b684dfa1-1c70-488b-9537-7cbaf36838e9",
+      "title": "Fasoo AI Integra Criptografia Validada pelo CMVP ao Wrapsody eCo",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fasoo AI Wrapsody eCo encryption CMVP security",
+        "images": [
+          {
+            "anchor": "Atualização de Segurança no Wrapsody eCo",
+            "query_en": "Fasoo Wrapsody eCo software platform security"
+          },
+          {
+            "anchor": "Importância da Criptografia Validada",
+            "query_en": "CMVP cryptographic module data encryption security"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffa07975-7817-4107-b46b-134a39c326d8",
+      "title": "Oppo Pad Mini: uma análise detalhada do tablet compacto topo de linha",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asrock Radeon RX 7900 XTX firmware update issue",
+        "video_query_en": "Oppo Pad Mini review compact tablet features",
         "images": [
           {
-            "anchor": "Uma nova versão sem explicações detalhadas",
-            "query_en": "Asrock graphics card Radeon GPU hardware"
+            "anchor": "Design e Portabilidade",
+            "query_en": "Oppo Pad Mini design compact lavender purple"
           },
           {
-            "anchor": "O histórico recente de problemas nas placas",
-            "query_en": "AMD Radeon RX 7900 XTX graphics card"
+            "anchor": "Tela",
+            "query_en": "Oppo Pad Mini matte AMOLED display"
+          },
+          {
+            "anchor": "Desempenho e Recursos",
+            "query_en": "Oppo Pad Mini stylus pen accessory"
+          },
+          {
+            "anchor": "Câmeras e Bateria",
+            "query_en": "Oppo Pad Mini charging battery"
           }
         ]
       }
     },
     {
-      "id": "da48fe2c-f752-40ae-8ec2-a95e878435c0",
-      "title": "Steam Deck agora exibe taxas médias de quadros para milhares de jogos",
-      "category": "Games",
+      "id": "db3bfb53-130e-435f-b8b4-3b9a2e2630db",
+      "title": "Demissões na Qualcomm na Índia colocam mais de mil vagas em risco em meio a cortes globais",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Steam Deck average frame rates update",
+        "video_query_en": "Qualcomm global layoffs and workforce reduction",
         "images": [
           {
-            "anchor": "Novas Médias de Desempenho no Steam Deck",
-            "query_en": "Steam Deck handheld console gameplay"
+            "anchor": "O memorando interno e os critérios de corte",
+            "query_en": "Qualcomm corporate office building exterior"
           },
           {
-            "anchor": "Disponibilidade na Biblioteca Steam",
-            "query_en": "Steam Library interface on PC"
+            "anchor": "Estimativas do mercado e impacto na Índia",
+            "query_en": "Tech industry employees working in office India"
           },
           {
-            "anchor": "Privacidade e Compartilhamento de Dados",
-            "query_en": "Valve Steam Deck device"
+            "anchor": "Importância estratégica da operação indiana",
+            "query_en": "Modern technology research and development center"
+          },
+          {
+            "anchor": "Contexto financeiro e reações sindicais",
+            "query_en": "Business finance graph and microchip technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "210c70dd-374e-4241-b5c2-5c5b6199fb69",
+      "title": "Escândalo de Espionagem Envolve CEO da Nvidia, Jensen Huang, e Suposta Agente Chinesa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia spy scandal investigation",
+        "images": [
+          {
+            "anchor": "Quem é Jensen Huang e sua trajetória na Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO portrait"
+          },
+          {
+            "anchor": "O desenrolar do escândalo e as acusações",
+            "query_en": "Nvidia headquarters building California"
+          },
+          {
+            "anchor": "Quem é Alice Huang e o papel da Megaspeed International",
+            "query_en": "Megaspeed International Singapore office"
+          },
+          {
+            "anchor": "Contexto das restrições de chips e reações internacionais",
+            "query_en": "Nvidia AI chip processor hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef48e1d6-7545-494a-a1fe-eb40607fb7b7",
+      "title": "Nvidia preparando afastamento do CEO Jensen Huang após escândalos e acusações",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia CEO Jensen Huang news investigation",
+        "images": [
+          {
+            "anchor": "Acusações de espionagem e investigações federais",
+            "query_en": "Nvidia headquarters building exterior"
+          },
+          {
+            "anchor": "Jensen Huang admitiu o relacionamento em um comunicado enviado aos funcionários no domingo, 8 de novembro de 2026, escrevendo que foi infiel à esposa.",
+            "query_en": "Jensen Huang speaking at tech conference"
+          },
+          {
+            "anchor": "O conselho de administração da Nvidia anunciou no mesmo dia o lançamento de uma investigação independente sobre o caso de espionagem estrangeira.",
+            "query_en": "Nvidia board room meeting corporate office"
+          },
+          {
+            "anchor": "O CEO declarou apoio total à investigação e prometeu cooperar plenamente com as autoridades.",
+            "query_en": "Jensen Huang portrait smiling"
+          },
+          {
+            "anchor": "O Congresso dos Estados Unidos solicitou que o executivo preste depoimento em uma sessão fechada sobre suas interações com Alice Huang.",
+            "query_en": "United States Capitol building Washington DC"
+          },
+          {
+            "anchor": "Segundo relacionamento e desdobramentos corporativos",
+            "query_en": "Corporate office interior modern workplace"
+          },
+          {
+            "anchor": "Kimberly Powell é vice-presidente de saúde da Nvidia.",
+            "query_en": "Nvidia healthcare technology presentation"
+          },
+          {
+            "anchor": "O casal foi visto por espectadores em um hotel em San Jose.",
+            "query_en": "San Jose California convention center"
+          },
+          {
+            "anchor": "O escândalo gerou forte volatilidade nas ações da empresa.",
+            "query_en": "Stock market chart falling red numbers"
+          },
+          {
+            "anchor": "Acionistas da Nvidia entraram com uma ação judicial coletiva (class action) contra o CEO e a fabricante de chips por ocultarem informações sobre o relacionamento dos investidores.",
+            "query_en": "Law gavel and legal documents"
+          },
+          {
+            "anchor": "Impacto no mercado de IA e valor de mercado",
+            "query_en": "Nvidia artificial intelligence microchip processor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e314fb04-e137-4a85-8269-46b0c8c6b897",
+      "title": "Disputa na Índia: Dispositivo de US$ 900 de bilionário gera polêmica entre médicos",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Deepinder Goyal Temple brain blood flow wearable device controversy",
+        "images": [
+          {
+            "anchor": "O design e as promessas do dispositivo Temple",
+            "query_en": "small wearable device temple head fitness tracker"
+          },
+          {
+            "anchor": "Endossos e a defesa de Deepinder Goyal",
+            "query_en": "Deepinder Goyal Indian billionaire entrepreneur"
+          },
+          {
+            "anchor": "- O recurso BrainFlow promete indicar com que eficiência o cérebro está sendo suprido com sangue em real tempo.",
+            "query_en": "brain blood flow monitor wearable technology"
+          },
+          {
+            "anchor": "- A função Entropy alega detectar o esforço do corpo para dissipar o calor.",
+            "query_en": "thermal sensors wearable health tech device"
+          },
+          {
+            "anchor": "- Leituras térmicas, imunológicas, digestivas, cognitivas e emocionais que ajudariam a transformar a regulação da saúde pessoal.",
+            "query_en": "health tracking smart device on forehead"
+          },
+          {
+            "anchor": "- Funcionalidades futuras em desenvolvimento voltadas para a detecção de ronco e o bruxismo, que é o apertar de dentes.",
+            "query_en": "smart health sensor device gadget"
+          },
+          {
+            "anchor": "Críticas da comunidade médica e reações regulatórias",
+            "query_en": "doctors medical debate technology health"
+          },
+          {
+            "anchor": "O panorama global dos dispositivos vestíveis",
+            "query_en": "smartwatch health monitoring regulatory FDA"
           }
         ]
       }
@@ -791,39 +781,43 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "55769231-2808-4688-b698-351a55f00491",
-      "title": "Subsídio de US$ 37,3 bilhões da China enfrenta mercado fraco de smartphones",
-      "category": "Smartphones",
+      "id": "a064e477-e62c-4de2-8095-a73101375781",
+      "title": "TSMC e Intel entram no radar de Elon Musk enquanto projeto Terafab busca parcerias",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China smartphone market subsidies flagship launch",
+        "video_query_en": "TSMC Intel Elon Musk Terafab chip manufacturing",
         "images": [
           {
-            "anchor": "Novos lancamentos e concorrencia de peso",
-            "query_en": "Chinese smartphone flagship store display"
+            "anchor": "Os desafios do modelo independente e a reação da TSMC",
+            "query_en": "TSMC semiconductor manufacturing facility cleanroom"
           },
           {
-            "anchor": "O impacto dos subsidios governamentais",
-            "query_en": "Huawei Mate smartphone flagship device"
+            "anchor": "O papel potencial de Intel e TSMC no ecossistema de Musk",
+            "query_en": "Intel semiconductor fabrication plant cleanroom"
           }
         ]
       }
     },
     {
-      "id": "9f7a3ad0-656e-4763-a7fa-8ee0f694f0ca",
-      "title": "Lançamento do Nuri ganha destaque na AEROTEC 2026 enquanto a Hanwha expande atuação para operações de lançamento",
-      "category": "Ciência",
+      "id": "a0867587-f8dd-4693-a51f-4147313e8821",
+      "title": "DeepSeek desafia o bloqueio de agentes com a ponte Claude Code Mods e nova arquitetura",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "South Korea Nuri rocket launch AEROTEC 2026 Hanwha",
+        "video_query_en": "DeepSeek Harness Claude Code Mods integration",
         "images": [
           {
-            "anchor": "O Destaque do Nuri na AEROTEC 2026",
-            "query_en": "Nuri rocket South Korea space launch"
+            "anchor": "Uma nova abordagem para agentes de IA",
+            "query_en": "artificial intelligence software development agents"
           },
           {
-            "anchor": "A Transição Estratégica da Hanwha",
-            "query_en": "Hanwha aerospace rocket manufacturing"
+            "anchor": "Compatibilidade com o Claude Code Mods",
+            "query_en": "Anthropic Claude AI interface coding"
+          },
+          {
+            "anchor": "Arquitetura de plugins abertos",
+            "query_en": "open source software architecture code plugin"
           }
         ]
       }
