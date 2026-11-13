@@ -1,716 +1,689 @@
 {
-  "updated_at": "2026-11-12T11:32:34.720Z",
+  "updated_at": "2026-11-12T20:10:56.906Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "2940fe35-7c77-4711-93e3-f24e6c363e8f",
-      "title": "Inflação ao produtor no Japão acelera em outubro e reforça chance de alta de juros pelo Banco do Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan producer prices BOJ interest rate October",
-        "images": [
-          {
-            "anchor": "Aceleração dos preços corporativos",
-            "query_en": "Bank of Japan building Tokyo"
-          },
-          {
-            "anchor": "Impacto geopolítico e dependência de importações",
-            "query_en": "Japanese industrial port oil imports"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0a12e434-9088-48c4-829c-c9e41dc8cb45",
-      "title": "Queda no setor de IA não deve alterar plano de alta de juros do Banco do Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bank of Japan interest rate hike AI demand economy",
-        "images": [
-          {
-            "anchor": "O panorama econômico do Japão frente às incertezas da tecnologia",
-            "query_en": "Bank of Japan building Tokyo"
-          },
-          {
-            "anchor": "A avaliação dos especialistas",
-            "query_en": "Japanese economist working office"
-          },
-          {
-            "anchor": "O impacto político e regulatório nos Estados Unidos",
-            "query_en": "US Capitol building Washington DC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c3fbda2d-5ec1-479a-8877-4b6674d9a108",
-      "title": "Nova adaptação de 'O Mestre e Margarida' quebra a quarta parede no Japão",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "The Master and Margarita stage adaptation theater",
-        "images": [
-          {
-            "anchor": "O desafio de adaptar uma narrativa dupla",
-            "query_en": "The Master and Margarita book cover and theater"
-          },
-          {
-            "anchor": "A onda recente de adaptações de sucesso",
-            "query_en": "The Master and Margarita film 2024"
-          },
-          {
-            "anchor": "A versão do Bolshoi Ballet lançada em 2021.",
-            "query_en": "Bolshoi Ballet performance stage"
-          },
-          {
-            "anchor": "A produção realizada pelo Belvoir Street Theatre, na Austrália, em 2023.",
-            "query_en": "Belvoir Street Theatre production"
-          },
-          {
-            "anchor": "O filme dirigido por Michael Lockshin no ano de 2024.",
-            "query_en": "Michael Lockshin The Master and Margarita movie"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b60b1730-4a32-490a-ad0f-927c982ce1e7",
-      "title": "LDP, JIP e DPP protocolam projeto para cortar 31 cadeiras na Câmara Baixa do Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan Lower House seat reduction bill LDP JIP DPP",
-        "images": [
-          {
-            "anchor": "Detalhes da Proposta e Prazos",
-            "query_en": "Japanese Diet building Tokyo parliament"
-          },
-          {
-            "anchor": "Repercussão e Opiniões",
-            "query_en": "Katsunobu Kato Japanese politician"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a0f98c69-a244-4595-b1e3-d1745bd6232c",
-      "title": "South Korea captain Son says players have resolved their differences",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "0cd42fd6-3470-4fde-8123-6d1546c5dcc7",
-      "title": "Surto de Ebola no Congo completa seis meses fora de controle, alerta Médicos Sem Fronteiras",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Congo Ebola outbreak Medecins Sans Frontieres",
-        "images": [
-          {
-            "anchor": "A situação crítica após meio ano",
-            "query_en": "Congo Ebola outbreak medical response"
-          },
-          {
-            "anchor": "Desafios na contenção e transmissão hospitalar",
-            "query_en": "Ebola treatment center healthcare workers Africa"
-          },
-          {
-            "anchor": "Falta de treinamentos adequados para os profissionais de saúde que lidam diretamente com as comunidades afetadas.",
-            "query_en": "African healthcare workers training medical supplies"
-          },
-          {
-            "anchor": "Particularidades do vírus e falta de tratamentos",
-            "query_en": "Medical research laboratory virus containment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "66b0e696-8ad4-48ee-a5bb-8d9aa33b56fb",
-      "title": "Na competição por influência cultural, a inteligência artificial adota o Japão como padrão global",
+      "id": "b3c130de-008a-49e0-b227-ceef40017d8a",
+      "title": "Empresas chinesas de IA buscam garantir capacidade de chips da Nvidia por medo de novas restrições",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "artificial intelligence cultural bias Japan chatbots research",
+        "video_query_en": "Nvidia AI chip export restrictions China explained",
         "images": [
           {
-            "anchor": "O experimento acadêmico",
-            "query_en": "academic researchers studying artificial intelligence models"
+            "anchor": "O temor de um novo bloqueio tecnológico",
+            "query_en": "Nvidia H100 AI chip data center"
           },
           {
-            "anchor": "Os resultados da preferência algorítmica",
-            "query_en": "data visualization charts and graphs technology research"
+            "anchor": "Estratégias de mitigação de risco",
+            "query_en": "Cloud computing server farm"
           },
           {
-            "anchor": "Entre 43% e 78% das referências, dependendo do modelo avaliado, mantiveram a resposta dentro do próprio país de origem da consulta.",
-            "query_en": "global map data analytics artificial intelligence"
-          },
-          {
-            "anchor": "A força de um padrão invisível",
-            "query_en": "futuristic AI chatbot interface on computer screen"
+            "anchor": "O impacto das tensões geopolíticas",
+            "query_en": "Jensen Huang Nvidia CEO"
           }
         ]
       }
     },
     {
-      "id": "ca98d02a-fc8f-4778-95d2-d01bd62ee533",
-      "title": "Vice-presidente da Indonésia e filho de ex-líder renuncia em meio a escândalo de diploma",
+      "id": "c8728ace-a5b2-40dd-af69-aea551c1b31c",
+      "title": "Cinco pessoas presas em operação contra golpes em turistas estrangeiros em Tóquio",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Indonesian vice president resigns diploma scandal",
+        "video_query_en": "Tokyo police crackdown Kabukicho foreign visitors",
         "images": [
           {
-            "anchor": "A Renúncia de Gibran",
-            "query_en": "Indonesian government building Jakarta"
+            "anchor": "A operação policial em Kabukicho",
+            "query_en": "Kabukicho Tokyo nightlife district street"
           },
           {
-            "anchor": "Detalhes do Documento",
-            "query_en": "Indonesian politician press conference"
+            "anchor": "Detalhes das prisões e suspeitos",
+            "query_en": "Tokyo Metropolitan Police Department officers"
           }
         ]
       }
     },
     {
-      "id": "6c58b13c-ef0d-4046-8a2a-5506f6c4cb73",
-      "title": "A cadeia de suprimentos da Nvidia na Ásia se prepara para um cenário pós-Huang",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang supply chain Asia",
-        "images": [
-          {
-            "anchor": "O impacto de uma possível mudança na liderança",
-            "query_en": "Nvidia headquarters office building"
-          },
-          {
-            "anchor": "Reunião decisiva do conselho de administração",
-            "query_en": "corporate boardroom meeting business executives"
-          },
-          {
-            "anchor": "Preocupações dos parceiros asiáticos",
-            "query_en": "advanced semiconductor manufacturing cleanroom Taiwan"
-          },
-          {
-            "anchor": "Desaceleração de expansões fabris planejadas para atender à alta demanda global por chips de Inteligência Artificial.",
-            "query_en": "silicon wafer manufacturing machine robotics"
-          },
-          {
-            "anchor": "Mudanças na estratégia de fechamento de contratos de longo prazo para garantir linhas de produção exclusivas.",
-            "query_en": "microchip production line factory floor"
-          },
-          {
-            "anchor": "Redução no apetite a riscos corporativos por parte de uma nova gestão que venha a assumir o comando.",
-            "query_en": "business executive looking at financial charts"
-          },
-          {
-            "anchor": "Alterações no relacionamento de proximidade que Huang mantinha com os principais polos tecnológicos asiáticos.",
-            "query_en": "Taiwan tech industry cityscape skyscraper"
-          }
-        ]
-      }
-    },
-    {
-      "id": "32a83bcc-1c88-4956-828c-b08799a7c4e1",
-      "title": "Astana Motors enfrenta desafios de crescimento na diversificação industrial do Cazaquistão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Astana Motors factory car production Kazakhstan",
-        "images": [
-          {
-            "anchor": "O papel da Astana Motors na economia cazaque",
-            "query_en": "Astana Motors Almaty factory"
-          },
-          {
-            "anchor": "Desafios de infraestrutura e dependência externa",
-            "query_en": "Kazakhstan electric vehicles manufacturing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8c5da781-7937-485c-9175-26daba3a718c",
-      "title": "Taiwan emphasizes APEC China presence as it walks diplomatic tightrope",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "APEC summit Shenzhen China international relations",
-        "images": [
-          {
-            "anchor": "O cenário da cúpula da APEC em Shenzhen",
-            "query_en": "Qianhai Exhibition Hall Shenzhen APEC display"
-          },
-          {
-            "anchor": "O desafio diplomático e o contexto político",
-            "query_en": "APEC leaders meeting international relations"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b81715cc-8436-47be-be14-25b3f9782604",
-      "title": "Malásia busca retomar reuniões com Taiwan enquanto Anwar defende postura em relação à China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Malaysia Taiwan relations Anwar Ibrahim China",
-        "images": [
-          {
-            "anchor": "Cooperação Comercial e Política de Uma Só China",
-            "query_en": "Anwar Ibrahim speaking at podium Malaysia"
-          },
-          {
-            "anchor": "Retomada de Negociações de Investimento",
-            "query_en": "Kuala Lumpur Malaysia cityscape business district"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f945db71-7dae-4217-bab9-f0cf57863112",
-      "title": "Aposta em novas altas de juros do Fed pressiona moedas asiáticas e empurra iene perto de 160 por dólar",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Federal Reserve interest rates Asian currencies yen dollar exchange rate",
-        "images": [
-          {
-            "anchor": "Impacto nas moedas asiáticas",
-            "query_en": "Asian stock market trading floor currency exchange screens"
-          },
-          {
-            "anchor": "O iene japonês foi negociado próximo à marca sensível de 160 ienes por dólar.",
-            "query_en": "Bank of Japan building Tokyo financial district"
-          },
-          {
-            "anchor": "O fantasma do iene a 160",
-            "query_en": "Japanese yen currency banknotes and US dollar"
-          }
-        ]
-      }
-    },
-    {
-      "id": "37b50ce6-7e78-484b-b78e-ca2b4857ca48",
-      "title": "Adoção comercial da inteligência artificial está apenas começando, diz CEO do Baidu",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Baidu CEO Robin Li AI adoption speech",
-        "images": [
-          {
-            "anchor": "O cenário da tecnologia e os investimentos corporativos",
-            "query_en": "Baidu World conference AI display"
-          },
-          {
-            "anchor": "Sistema Tianchi com super nó de 1.024 placas do Baidu",
-            "query_en": "Baidu Tianchi AI super node server"
-          },
-          {
-            "anchor": "Desafios globais e o mercado asiático de IA",
-            "query_en": "Beijing technology conference audience"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e7976722-8212-42e3-9332-0009b2351063",
-      "title": "Escândalos e disparidades salariais agitam o mercado de fabricantes de chips de inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang controversy AI chips market impact",
-        "images": [
-          {
-            "anchor": "O escândalo envolvendo a liderança da Nvidia",
-            "query_en": "Nvidia corporate headquarters logo"
-          },
-          {
-            "anchor": "Histórico e conexões na China",
-            "query_en": "Shanghai skyline financial district business center"
-          },
-          {
-            "anchor": "A disparidade salarial e revolta dos trabalhadores na Ásia",
-            "query_en": "Samsung Electronics semiconductor manufacturing facility"
-          },
-          {
-            "anchor": "A preparação da Sakana AI para IPO no Japão",
-            "query_en": "Tokyo tech startup office building Japan"
-          },
-          {
-            "anchor": "Investimentos em infraestrutura de IA na Malásia",
-            "query_en": "Kuala Lumpur data center infrastructure building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bda475c1-1e05-4de8-b7f1-ece63b76ae2d",
-      "title": "Foxconn demonstra forte confiança em 2027 impulsionada pela alta demanda de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Foxconn AI server demand Young Liu earnings conference",
-        "images": [
-          {
-            "anchor": "A guinada para a nuvem e redes",
-            "query_en": "Foxconn Chairman Young Liu investor conference"
-          },
-          {
-            "anchor": "Projeções e desafios para o futuro",
-            "query_en": "Foxconn AI server manufacturing facility"
-          },
-          {
-            "anchor": "Escassez recorrente de componentes essenciais na cadeia de suprimentos",
-            "query_en": "Global electronics supply chain components"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c04506e0-7a4e-455c-b3b2-275be92693c4",
-      "title": "Presidente da Indonésia, Prabowo, afirma que renúncia do vice-presidente ocorreu pelo bem maior",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesian President Prabowo Subianto vice president resignation",
-        "images": [
-          {
-            "anchor": "A renúncia oficial em Jacarta",
-            "query_en": "Indonesian parliamentary complex Jakarta"
-          },
-          {
-            "anchor": "Contexto de turbulência política e escândalos",
-            "query_en": "Prabowo Subianto Indonesian president political events"
-          },
-          {
-            "anchor": "- Controvérsias sobre o diploma escolar de Gibran Rakabuming, que geraram questionamentos legais e éticos sobre sua elegibilidade.",
-            "query_en": "Gibran Rakabuming Indonesia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a2c4623f-5b5f-47bd-8122-42ce5ffd60b0",
-      "title": "Daehan Shipbuilding fecha contrato de 249,8 bilhões de wons para construção de dois petroleiros",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Daehan Shipbuilding crude oil tanker construction shipyard",
-        "images": [
-          {
-            "anchor": "Detalhes do Contrato e Valores",
-            "query_en": "crude oil tanker ship shipyard construction"
-          },
-          {
-            "anchor": "- Petroleiro 1: Embarcação de 157.000 DWT avaliada em 124,9 bilhões de wons.",
-            "query_en": "large crude oil tanker at sea"
-          },
-          {
-            "anchor": "- Petroleiro 2: Embarcação de 157.000 DWT avaliada em 124,9 bilhões de wons.",
-            "query_en": "oil tanker vessel shipyard"
-          },
-          {
-            "anchor": "Envolvidos na Negociação",
-            "query_en": "shipyard dock construction maritime industry"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b980ff2d-6a8e-4bf9-ad78-fca71afd8ab7",
-      "title": "Schneider Electric lança unidade de distribuição de refrigerante para data centers de IA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Schneider Electric Motivair WCDU coolant distribution unit AI data center",
-        "images": [
-          {
-            "anchor": "Uma nova solução para data centers",
-            "query_en": "Schneider Electric data center server room"
-          },
-          {
-            "anchor": "Refrigeração híbrida",
-            "query_en": "liquid cooling system data center server"
-          }
-        ]
-      }
-    },
-    {
-      "id": "69078491-bc08-4a86-b1e3-754b3bf0dd95",
-      "title": "Solus Advanced Materials registra salto de 83% na receita impulsionada por lâminas de cobre para baterias",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Solus Advanced Materials battery copper foil OLED revenue",
-        "images": [
-          {
-            "anchor": "Crescimento de receita e desafios operacionais",
-            "query_en": "Solus Advanced Materials corporate building or factory"
-          },
-          {
-            "anchor": "Fatores de impacto nos negócios",
-            "query_en": "battery copper foil manufacturing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "07ff2a52-32b6-4012-ae85-a3bf1fbc48b4",
-      "title": "Empresas chinesas de baterias reorganizam operações globais para driblar barreiras dos EUA",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Chinese battery makers restructure overseas operations US restrictions",
-        "images": [
-          {
-            "anchor": "Reestruturação no exterior",
-            "query_en": "battery manufacturing factory industrial facility"
-          },
-          {
-            "anchor": "O cerco regulatório americano",
-            "query_en": "US trade restrictions industrial policy meeting"
-          },
-          {
-            "anchor": "Análise de equidade",
-            "query_en": "business analytics equity ownership chart"
-          },
-          {
-            "anchor": "Controle operacional",
-            "query_en": "factory operations management industrial control"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a8bc56c3-ee07-4474-9708-b79586bf3000",
-      "title": "Hyundai Rotem vai usar baterias coreanas no tanque de combate K3 Stealth",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hyundai Rotem K3 Stealth Tank hybrid powertrain",
-        "images": [
-          {
-            "anchor": "O desenvolvimento do tanque de próxima geração K3 Stealth",
-            "query_en": "Hyundai Rotem K3 tank concept"
-          },
-          {
-            "anchor": "Componentes nacionais e cadeia de suprimentos",
-            "query_en": "military tank engine powerpack"
-          },
-          {
-            "anchor": "Motor a diesel",
-            "query_en": "modern diesel engine technology"
-          },
-          {
-            "anchor": "Bateria",
-            "query_en": "advanced military battery system"
-          },
-          {
-            "anchor": "Transmissão",
-            "query_en": "heavy duty transmission system"
-          },
-          {
-            "anchor": "O impacto da tecnologia híbrida em veículos militares",
-            "query_en": "hybrid military vehicle technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d5e9447a-b28f-41da-8b50-791605511f51",
-      "title": "Universidade chinesa ligada a forças militares adquiriu chips Nvidia H200 apesar de proibição dos EUA",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia H200 chips China military university US blacklist",
-        "images": [
-          {
-            "anchor": "O caso da Universidade Politécnica do Noroeste",
-            "query_en": "Northwestern Polytechnical University China campus"
-          },
-          {
-            "anchor": "Contratos de capacidade de computação alugada",
-            "query_en": "Nvidia AI server hardware data center"
-          },
-          {
-            "anchor": "Investigações e escrutínio sobre a Nvidia",
-            "query_en": "Jensen Huang Nvidia CEO Washington hearing"
-          },
-          {
-            "anchor": "O perfil e o contexto da universidade",
-            "query_en": "Xian China university research facility"
-          },
-          {
-            "anchor": "Ampla circulação de chips restritos no setor acadêmico chinês",
-            "query_en": "Nvidia advanced AI chip processor hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "427a15e8-ed67-4232-8eb7-4838566f79f5",
-      "title": "Ataque cibernético à Binance expõe vulnerabilidades persistentes no setor de criptomoedas",
+      "id": "a9a17284-b4f9-4673-b795-0b8da908c768",
+      "title": "Operadora da Muji falha em apagar dados desnecessários de cartões de crédito em vazamento",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Binance crypto hack security analysis investigation",
+        "video_query_en": "Muji data breach credit card leak press conference",
         "images": [
           {
-            "anchor": "O desafio da engenharia social e dos controles internos",
-            "query_en": "Cryptocurrency security and blockchain protection technology"
+            "anchor": "O anúncio da Ryohin Keikaku",
+            "query_en": "Muji store exterior Tokyo Japan"
           },
           {
-            "anchor": "A desvantagem dos defensores e o cenário regulatório",
-            "query_en": "Cybersecurity defense operations center and monitoring screens"
+            "anchor": "A origem dos dados retidos",
+            "query_en": "Muji retail products display shelves"
           }
         ]
       }
     },
     {
-      "id": "f2b00139-8075-49f3-a30e-982f5bd9a446",
-      "title": "Poluição do ar interno representa uma ameaça crítica à saúde ao longo de todo o ano",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "indoor air pollution health risks lg dyson study",
-        "images": [
-          {
-            "anchor": "Fontes de poluição dentro de casa",
-            "query_en": "indoor air pollution domestic sources living room dust"
-          },
-          {
-            "anchor": "Impactos graves na saúde infantil e adulta",
-            "query_en": "children health indoor air pollution study cognitive impact"
-          },
-          {
-            "anchor": "Estratégias e mitos sobre a qualidade do ar",
-            "query_en": "air purifier HEPA filter indoor air quality management"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d1321c64-6bfe-44b1-b7ff-f0d36c0f656f",
-      "title": "Empresas de IA na China correm para garantir capacidade de chips da Nvidia em meio a escândalo",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia chips China AI cloud remote access restrictions",
-        "images": [
-          {
-            "anchor": "Corrida por capacidade no exterior e o impacto do projeto de lei RASA",
-            "query_en": "Nvidia advanced AI chips data center servers"
-          },
-          {
-            "anchor": "As alegações envolvendo a liderança da Nvidia e laços comerciais",
-            "query_en": "Jensen Huang Nvidia CEO presentation"
-          },
-          {
-            "anchor": "Demanda aquecida no mercado cinza e brechas no fornecimento",
-            "query_en": "Nvidia H200 AI processor chip"
-          },
-          {
-            "anchor": "Uma universidade chinesa com laços profundos com o Exército de Libertação Popular adquiriu chips H200 da Nvidia no mês passado, mesmo estando em uma lista negra de exportação dos EUA.",
-            "query_en": "Nvidia graphics processing unit AI hardware"
-          },
-          {
-            "anchor": "Registros de compras evidenciam falhas contínuas nas tentativas de Washington de bloquear o acesso da China a tecnologias de ponta.",
-            "query_en": "Super Micro Computer servers data center"
-          },
-          {
-            "anchor": "Promotores norte-americanos acusaram em março Yih-Shyan \"Wally\" Liaw, cofundador da Super Micro Computer, e outras duas pessoas por conspiração para desviar servidores com chips da Nvidia para a China por meio de uma empresa no Sudeste Asiático.",
-            "query_en": "US Department of Justice building Washington DC"
-          },
-          {
-            "anchor": "Documentos judiciais apontam que a referida empresa comprou cerca de 2,5 bilhões de dólares em servidores da Super Micro entre 2024 e 2025, com uma parcela substancial sendo redirecionada para a China, embora os réus ainda não tenham sido condenados.",
-            "query_en": "Server racks data center hardware infrastructure"
-          }
-        ]
-      }
-    },
-    {
-      "id": "29085e46-3caa-44f7-8ec0-5b52aa803855",
-      "title": "OpenAI libera o processamento local de requisições de IA para empresas na Índia",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "OpenAI local API inference data residency India",
-        "images": [
-          {
-            "anchor": "A expansão da residência de dados",
-            "query_en": "OpenAI data center infrastructure technology"
-          },
-          {
-            "anchor": "O impacto no mercado indiano",
-            "query_en": "Nitin Bawankule OpenAI India business conference"
-          },
-          {
-            "anchor": "Como utilizar a nova infraestrutura",
-            "query_en": "Amazon Web Services Bedrock cloud computing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "21472957-3a96-4bdc-bca5-c3674ba3d060",
-      "title": "Apple AirPods Max com USB-C registram queda de preço na Amazon",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple AirPods Max USB C review",
-        "images": [
-          {
-            "anchor": "Recursos e Tecnologias dos AirPods Max",
-            "query_en": "Apple AirPods Max headphones"
-          },
-          {
-            "anchor": "O Impacto da Mudança para USB-C",
-            "query_en": "Apple AirPods Max USB C port"
-          },
-          {
-            "anchor": "Condições da Oferta na Amazon",
-            "query_en": "Amazon package delivery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "400c5333-3add-4a94-b3aa-639415ea36aa",
-      "title": "Fornecedor da Apple revela por acidente desenvolvimento de óculos de IA secretos",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple augmented reality glasses AI leaked supplier",
-        "images": [
-          {
-            "anchor": "Detalhes sobre os novos projetos de hardware",
-            "query_en": "Apple augmented reality headset hardware components"
-          },
-          {
-            "anchor": "O impacto na estratégia de mercado da empresa",
-            "query_en": "Apple store technology strategy presentation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "744ed898-9f61-4cfc-ad9d-7e24097105dc",
-      "title": "LG OLED C6 de 77 polegadas entrega tecnologia de ponta por um preço menor",
+      "id": "f323d6e6-3ba0-4e34-8ffd-68e918174643",
+      "title": "Vance, Rubio, Ossoff e Buttigieg lideram primeiras preferências para corrida presidencial de 2028 nos EUA, aponta pesquisa",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LG OLED C6 77 inch TV review",
+        "video_query_en": "US 2028 presidential election polls Reuters Ipsos Vance Rubio Buttigieg",
         "images": [
           {
-            "anchor": "Tecnologia e Desempenho Visual",
-            "query_en": "LG OLED TV screen display technology"
+            "anchor": "O panorama inicial para a corrida presidencial de 2028",
+            "query_en": "White House Washington DC aerial view"
           },
           {
-            "anchor": "Disponibilidade e Preço no Mercado",
-            "query_en": "LG OLED 77 inch TV living room"
+            "anchor": "Marco Rubio",
+            "query_en": "Marco Rubio official portrait"
+          },
+          {
+            "anchor": "JD Vance",
+            "query_en": "JD Vance US Vice President portrait"
+          },
+          {
+            "anchor": "Pete Buttigieg",
+            "query_en": "Pete Buttigieg speaking"
+          },
+          {
+            "anchor": "Jon Ossoff",
+            "query_en": "Jon Ossoff US Senator portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd3c99bd-7987-4aed-bb87-35b3d0760874",
+      "title": "Como as conexões da Apollo com o SoftBank viabilizaram uma aposta sem precedentes na OpenAI",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SoftBank Apollo OpenAI private credit AI financing",
+        "images": [
+          {
+            "anchor": "A parceria entre Apollo e SoftBank",
+            "query_en": "Masayoshi Son SoftBank headquarters"
+          },
+          {
+            "anchor": "Os limites do financiamento e a cautela da Apollo",
+            "query_en": "Apollo Global Management office building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "713f92da-be8a-4907-b4b4-c89022932cb2",
+      "title": "Promotor de Justiça pede pena de morte para ex-membro das Forças de Autodefesa do Japão em julgamento de homicídios em Toyama",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Toyama District Court trial death penalty Japan",
+        "images": [
+          {
+            "anchor": "O pedido de pena capital na justiça japonesa",
+            "query_en": "Toyama District Court building Japan"
+          },
+          {
+            "anchor": "Detalhes judiciais e próximos passos do processo",
+            "query_en": "Japanese courtroom trial lay judges"
+          },
+          {
+            "anchor": "Tribunal responsável: Tribunal Distrital de Toyama",
+            "query_en": "Toyama City street view Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45c0b539-a7f7-4262-89a5-afc94a01a983",
+      "title": "Takaichi busca reunião com Trump para antecipar pressões sobre gastos militares",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Sanae Takaichi Donald Trump defense spending Japan U.S. relations",
+        "images": [
+          {
+            "anchor": "Contexto da articulação diplomática",
+            "query_en": "Japan Prime Minister Sanae Takaichi meeting U.S. officials diplomacy"
+          },
+          {
+            "anchor": "O cenário de gastos em defesa",
+            "query_en": "Japan Self-Defense Forces military equipment defense budget"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dccb5ef5-c7d7-4b4c-94b3-f8d7cc82878e",
+      "title": "Japão avalia estatização temporária de fábricas estratégicas para garantir segurança econômica",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan industrial supply chain security and economic policy",
+        "images": [
+          {
+            "anchor": "O plano de intervenção estatal",
+            "query_en": "Japanese industrial factory manufacturing facility"
+          },
+          {
+            "anchor": "Modernização e retorno ao mercado",
+            "query_en": "industrial machinery modernization upgrade"
+          },
+          {
+            "anchor": "Contexto de vulnerabilidade na cadeia de suprimentos",
+            "query_en": "global supply chain logistics map"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b53bd2d4-79b1-49ee-9395-a79561fb10a0",
+      "title": "ASEAN precisa de reserva de petróleo para garantir segurança energética, diz secretário-geral",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ASEAN energy security oil reserve Kao Kim Hourn",
+        "images": [
+          {
+            "anchor": "A Necessidade de Segurança Energética Regional",
+            "query_en": "ASEAN flag and oil refinery energy"
+          },
+          {
+            "anchor": "Apoio do Setor Privado e Iniciativas de Rede Elétrica",
+            "query_en": "power grid transmission tower Asia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc3764af-499e-48d4-906d-0b0cd7261ff1",
+      "title": "Apreensão da Japan Tobacco pela Rússia gera incerteza sobre planos de investimento de Tóquio",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan Tobacco Russia seizure Tokyo investment",
+        "images": [
+          {
+            "anchor": "Impacto nos Fundos Estratégicos de Tóquio",
+            "query_en": "Japan Tokyo financial district skyline"
+          },
+          {
+            "anchor": "Dependência de dividendos",
+            "query_en": "Japan Tobacco corporate building"
+          },
+          {
+            "anchor": "Risco para projetos de semicondutores",
+            "query_en": "Semiconductor manufacturing cleanroom"
+          },
+          {
+            "anchor": "Interesses corporativos abalados",
+            "query_en": "Moscow Kremlin government building"
+          },
+          {
+            "anchor": "O Contexto das Relações Bilaterais",
+            "query_en": "Japan and Russia flags diplomatic meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f9e1fd7-f7bf-43b4-bd7e-109204337f8f",
+      "title": "Jensen Huang renuncia ao cargo de CEO da Nvidia após suposto segundo escândalo amoroso",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang resigns Nvidia chief executive semiconductor",
+        "images": [
+          {
+            "anchor": "O impacto nos mercados e a reação de autoridades",
+            "query_en": "Nvidia stock market trading floor computer screens"
+          },
+          {
+            "anchor": "Investigação e desdobramentos de segurança",
+            "query_en": "Nvidia headquarters building California"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6b125f53-0936-478d-89f9-24b645644b5b",
+      "title": "A crise na Nvidia expõe o lado negativo dos fundadores visionários",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia crisis Jensen Huang corporate governance impact",
+        "images": [
+          {
+            "anchor": "O impacto de Jensen Huang e os riscos na cultura corporativa",
+            "query_en": "Jensen Huang black leather jacket Nvidia CEO"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce19a33a-8a6a-4e45-96aa-cec6fdb91e64",
+      "title": "Rede de revenda de produtos usados do Japão estreia nos Estados Unidos com loja em Nova York",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Komehyo secondhand store Japan New York SoHo",
+        "images": [
+          {
+            "anchor": "O novo espaço em Nova York e o foco em artigos de luxo",
+            "query_en": "Komehyo luxury watch and jewelry store"
+          },
+          {
+            "anchor": "Atração de público consciente e turistas",
+            "query_en": "New York SoHo shopping street storefront"
+          },
+          {
+            "anchor": "Contexto de expansão do mercado de usados",
+            "query_en": "Japanese secondhand retail thrift store"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5582bf4d-89eb-4e57-9313-ed20968765ad",
+      "title": "Empresas de petróleo do Japão mantêm lucros em alta apesar do fechamento do Estreito de Ormuz",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan oil companies energy supply Strait of Hormuz closure",
+        "images": [
+          {
+            "anchor": "Diversificação de rotas e fontes de suprimento",
+            "query_en": "oil tanker terminal Japan energy port"
+          },
+          {
+            "anchor": "Eneos Holdings",
+            "query_en": "Eneos oil refinery Japan industrial facility"
+          },
+          {
+            "anchor": "Idemitsu",
+            "query_en": "Idemitsu petroleum refinery station Japan"
+          },
+          {
+            "anchor": "Inpex",
+            "query_en": "Inpex oil and gas development facility"
+          },
+          {
+            "anchor": "Impacto nos preços e no mercado global",
+            "query_en": "oil petroleum market prices global energy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c1a23013-f451-40bd-b819-1586db508cec",
+      "title": "Mineradora australiana Tivan une forças com a Sumitomo em minerais críticos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tivan Sumitomo critical minerals Australia Japan",
+        "images": [
+          {
+            "anchor": "Parceria estratégica com a Sumitomo",
+            "query_en": "Sumitomo corporation office building Tokyo"
+          },
+          {
+            "anchor": "Minerais essenciais e o mercado global",
+            "query_en": "tungsten ore mineral sample"
+          },
+          {
+            "anchor": "Fluorita",
+            "query_en": "fluorite mineral crystal raw"
+          },
+          {
+            "anchor": "Tungstênio",
+            "query_en": "tungsten metal industrial use"
+          },
+          {
+            "anchor": "Outros minerais críticos",
+            "query_en": "mining site Australia heavy machinery"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ae603414-1bcb-4a60-b37a-28af3c3c41a0",
+      "title": "WHA planeja parques de data centers sustentáveis na Tailândia antecipando novas normas ambientais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Thailand data center industry growth and sustainability",
+        "images": [
+          {
+            "anchor": "A estratégia da WHA para a infraestrutura digital",
+            "query_en": "WHA industrial park Thailand facility"
+          },
+          {
+            "anchor": "O cenário regulatório na Tailândia",
+            "query_en": "Thailand government building Bangkok"
+          },
+          {
+            "anchor": "Foco em eficiência energética e hídrica",
+            "query_en": "sustainable data center cooling technology"
+          },
+          {
+            "anchor": "Contexto regional e desafios do setor",
+            "query_en": "Southeast Asia digital infrastructure growth"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb12faa1-fe59-452b-9e50-daf432d2ad1e",
+      "title": "Point2 Technology Apresenta a Tecnologia e-Tube na DETO 2026 e Planeja Produção em Massa para o Próximo Ano",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Point2 Technology e-Tube DETO 2026 semiconductor interconnects",
+        "images": [
+          {
+            "anchor": "Apresentação na DETO 2026",
+            "query_en": "Point2 Technology logo semiconductor event"
+          },
+          {
+            "anchor": "O Papel do CTO Cho Byung-hak",
+            "query_en": "Cho Byung-hak Point2 Technology CTO presentation"
+          },
+          {
+            "anchor": "Perspectivas de Produção",
+            "query_en": "advanced semiconductor manufacturing cleanroom"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c3a6d72-1dc9-4f87-aadd-78e2b9e34bba",
+      "title": "JNTC quebra monopólio da Hoya e fornecerá discos de vidro para HDD à Seagate",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Seagate hard disk drive manufacturing process",
+        "images": [
+          {
+            "anchor": "Novo acordo e expansão fabril",
+            "query_en": "modern manufacturing plant interior industrial production line"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7294c28b-b8ad-4560-aa2c-db11c8581faa",
+      "title": "Finetek registra lucro operacional de 2,1 bilhões de wons no terceiro trimestre",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Finetek display manufacturing equipment financial results",
+        "images": [
+          {
+            "anchor": "Crescimento expressivo no setor de displays",
+            "query_en": "display manufacturing equipment factory"
+          },
+          {
+            "anchor": "Divulgação oficial e perspectivas",
+            "query_en": "corporate business financial report meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5288f80f-34e3-4df5-aaf6-cb9f40477baa",
+      "title": "DEEPX conquista o Prêmio de Tecnologia de Patentes de 2026 com acelerador de IA baseado em pipeline",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DEEPX AI accelerator patent technology award",
+        "images": [
+          {
+            "anchor": "O reconhecimento no Patent Technology Awards",
+            "query_en": "DEEPX semiconductor company logo"
+          },
+          {
+            "anchor": "O foco da premiação",
+            "query_en": "Ministry of Intellectual Property patent award ceremony"
+          }
+        ]
+      }
+    },
+    {
+      "id": "66f9bbff-eed1-4f01-abcd-ba0fb5d00669",
+      "title": "HyperAccel enfrenta dificuldades para garantir capacidade de fundição na Samsung e memória na SK hynix",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung foundry semiconductor manufacturing AI accelerator",
+        "images": [
+          {
+            "anchor": "Desafios no fornecimento de semicondutores",
+            "query_en": "Samsung semiconductor cleanroom wafer manufacturing"
+          },
+          {
+            "anchor": "Demanda por capacidade de produção",
+            "query_en": "SK hynix memory chip semiconductor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "691ffdab-9e52-4960-920f-1d82ad914f63",
+      "title": "Genesem volta a registrar lucro e vê carteira de pedidos disparar no terceiro trimestre",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Genesem semiconductor equipment manufacturing",
+        "images": [
+          {
+            "anchor": "Fatores impulsionadores da receita",
+            "query_en": "semiconductor back end equipment manufacturing"
+          },
+          {
+            "anchor": "Crescimento expressivo na carteira de pedidos",
+            "query_en": "semiconductor factory production line"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a285664d-14d4-4e95-b2ac-d61764c9cf32",
+      "title": "Lucro Operacional da Optrontec no Terceiro Trimestre Cresce Mais de Três Vezes e Atinge 3 Bilhões de Wons",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Optrontec autonomous driving camera lenses and optical actuators",
+        "images": [
+          {
+            "anchor": "Desempenho Financeiro e Faturamento",
+            "query_en": "Optrontec corporate office building South Korea"
+          },
+          {
+            "anchor": "Fatores Impulsionadores do Crescimento",
+            "query_en": "autonomous driving camera lens technology"
+          },
+          {
+            "anchor": "Lentes para câmeras de condução autônoma, cuja demanda tem apresentado alta.",
+            "query_en": "autonomous vehicle camera lens sensor"
+          },
+          {
+            "anchor": "Atuadores ópticos, que também registraram um aumento expressivo nas vendas e impulsionaram os resultados trimestrais.",
+            "query_en": "optical actuator for camera modules"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2e19c254-db52-49df-a443-d759b6439cc5",
+      "title": "Toray Advanced Materials expande capacidade de filme para MLCC em 50%",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Toray Advanced Materials MLCC film production facility",
+        "images": [
+          {
+            "anchor": "Cerimônia de Conclusão e Investimento",
+            "query_en": "Toray Advanced Materials Gumi Plant"
+          },
+          {
+            "anchor": "Cronograma do Projeto",
+            "query_en": "industrial factory construction plant"
+          },
+          {
+            "anchor": "Impacto na Capacidade Produtiva",
+            "query_en": "MLCC release film manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ef56674-3bf5-43b6-aa8d-cbcc61b4ff6a",
+      "title": "Intel forma aliança com 23 empresas coreanas para impulsionar infraestrutura de IA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Intel AI strategy and server infrastructure partnerships",
+        "images": [
+          {
+            "anchor": "Uma nova frente para a inteligência artificial",
+            "query_en": "Intel logo and artificial intelligence technology"
+          },
+          {
+            "anchor": "O foco na infraestrutura local",
+            "query_en": "South Korea technology server room"
+          },
+          {
+            "anchor": "O papel dos chips Intel",
+            "query_en": "Intel Xeon processor server hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "203ce7bd-220a-40ae-94ca-6312dc2469d9",
+      "title": "Samsung revela 30 modelos de óculos inteligentes com inteligência artificial",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung AI smart glasses Google Gemini",
+        "images": [
+          {
+            "anchor": "Parcerias estratégicas e inteligência artificial",
+            "query_en": "Google Gemini AI technology"
+          },
+          {
+            "anchor": "Tradução em tempo real para facilitar a comunicação global.",
+            "query_en": "AI smart glasses translation feature"
+          },
+          {
+            "anchor": "Navegação assistida por IA para auxiliar em deslocamentos.",
+            "query_en": "smart glasses navigation display"
+          },
+          {
+            "anchor": "Resumos automáticos de reuniões corporativas e cotidianas.",
+            "query_en": "business meeting smart glasses"
+          },
+          {
+            "anchor": "Lançamento e disponibilidade geográfica",
+            "query_en": "Samsung Electronics logo and office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ed17f67-7b8a-4d98-8b0d-9c2ad6d2e374",
+      "title": "Jensen Huang renuncia ao cargo de CEO da Nvidia em meio a escândalo de espionagem e investigações nos EUA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia CEO Jensen Huang resigns scandal",
+        "images": [
+          {
+            "anchor": "O escândalo e as investigações envolvendo Alice Huang",
+            "query_en": "Nvidia Jensen Huang corporate presentation"
+          },
+          {
+            "anchor": "Impactos na geopolítica e nos controles de exportação",
+            "query_en": "Nvidia AI chips technology datacenter"
+          },
+          {
+            "anchor": "Resposta de parceiros e do governo chinês",
+            "query_en": "US China semiconductor trade technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7804ba47-a730-4703-88e9-00c3fe9cee0e",
+      "title": "Impressões sobre a Oferta do Supvan E11 na Amazon",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Supvan E11 label printer review",
+        "images": [
+          {
+            "anchor": "Detalhes da Oferta e Recursos",
+            "query_en": "Supvan E11 label printer QWERTZ keyboard"
+          },
+          {
+            "anchor": "Supvan E11: Impressor de etiquetas com teclado QWERTZ e suporte a aplicativo Bluetooth.",
+            "query_en": "Supvan label printer bluetooth app"
+          },
+          {
+            "anchor": "Navegação e Termos na Fonte",
+            "query_en": "Amazon online shopping website interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c757097f-9adb-4c67-967a-f3e76c1590c1",
+      "title": "Guerra na Ucrânia: Ataques a fornecedores afetam produção de veículos da BMW e da Skoda",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ukraine war impact on car manufacturing BMW Skoda",
+        "images": [
+          {
+            "anchor": "Impacto da Guerra na Ucrânia na Indústria Automotiva",
+            "query_en": "Ukrainian flag industrial factory destroyed drone attack"
+          },
+          {
+            "anchor": "Consequências para a Produção da Skoda e BMW",
+            "query_en": "Skoda factory production line manufacturing cars"
+          },
+          {
+            "anchor": "Skoda Elroq",
+            "query_en": "Skoda Elroq electric SUV car"
+          },
+          {
+            "anchor": "Skoda Enyaq",
+            "query_en": "Skoda Enyaq electric vehicle charging"
+          },
+          {
+            "anchor": "A Fragilidade das Cadeias de Suprimentos",
+            "query_en": "Automotive supply chain logistics warehouse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4e7de9c-2ff2-4aa4-9e0f-47e97c7619a1",
+      "title": "Bundeskartellamt quer intervir nas taxas de transação do PayPal na Alemanha",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bundeskartellamt PayPal payment transaction fees",
+        "images": [
+          {
+            "anchor": "A posição do Bundeskartellamt sobre as taxas do PayPal",
+            "query_en": "Bundeskartellamt office building Germany"
+          },
+          {
+            "anchor": "Riscos de sanções e a ameaça de absorção de lucros",
+            "query_en": "PayPal payment checkout online store"
           }
         ]
       }
@@ -764,55 +737,63 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "ca3e88e8-b0de-4984-9634-b475322d6ba9",
-      "title": "Gigantes da tecnologia avançam sobre a Austrália para expansão de data centers de inteligência artificial",
-      "category": "Empresas",
+      "id": "7fa70d58-8306-4bba-bfee-51c9f928bcbb",
+      "title": "Cinco anos de Windows 11: A trajetória rumo ao sistema mais odiado",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft Google data center Australia renewable energy",
+        "video_query_en": "Windows 11 five years later review analysis",
         "images": [
           {
-            "anchor": "Movimentos da Microsoft e do Google",
-            "query_en": "Google data center infrastructure technology"
+            "anchor": "Os desafios de aceitação do sistema",
+            "query_en": "Windows 11 desktop operating system interface"
           },
           {
-            "anchor": "Oportunidades na cadeia de suprimentos",
-            "query_en": "renewable energy wind solar power Australia"
+            "anchor": "Requisitos rígidos de processador que excluíram PCs antigos",
+            "query_en": "Computer motherboard TPM chip hardware"
           },
           {
-            "anchor": "Produção de aço verde utilizando fontes limpas",
-            "query_en": "green steel manufacturing plant industry"
+            "anchor": "Exigência obrigatória do módulo de segurança TPM 2.0",
+            "query_en": "Microsoft Windows security settings hardware requirements"
           },
           {
-            "anchor": "Fabricação de amônia com processos sustentáveis",
-            "query_en": "green ammonia industrial production facility"
+            "anchor": "Barreiras de atualização para computadores corporativos e domésticos",
+            "query_en": "Office workers using desktop computers frustrated"
           },
           {
-            "anchor": "Desenvolvimento de projetos voltados ao hidrogênio verde",
-            "query_en": "green hydrogen plant renewable energy"
+            "anchor": "Aumento na busca por alternativas como macOS e Linux",
+            "query_en": "Linux desktop operating system interface open source"
+          },
+          {
+            "anchor": "A experiência do usuário e a pressão por publicidade",
+            "query_en": "Windows 11 start menu advertisements apps"
+          },
+          {
+            "anchor": "A reação do mercado e o avanço da concorrência",
+            "query_en": "Apple MacBook macOS desktop workspace"
           }
         ]
       }
     },
     {
-      "id": "c4f44762-d567-4944-9628-45a60db4ace4",
-      "title": "Como a FRITZ!Box aprendeu a usar o padrão Zigbee",
-      "category": "Computadores",
+      "id": "f477b7f1-0601-4853-8aea-d0fff8189c40",
+      "title": "Novo Fitbit Edge da Google vaza com tela e opções de cores do Pixel 11",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AVM FRITZ Box Zigbee smart home integration",
+        "video_query_en": "Google Fitbit Edge leaks specs colors",
         "images": [
           {
-            "anchor": "O desafio de integrar o Zigbee",
-            "query_en": "FRITZ Box router smart home setup"
+            "anchor": "O sucessor espiritual do Fitbit Charge",
+            "query_en": "Fitbit fitness tracker screen smart device"
           },
           {
-            "anchor": "O papel dos desenvolvedores na inovação",
-            "query_en": "software developer working on computer code"
+            "anchor": "Desempenho, autonomia e recursos avançados",
+            "query_en": "smartwatch fitness tracker display interface"
           },
           {
-            "anchor": "O futuro da automação residencial",
-            "query_en": "smart home devices connected network"
+            "anchor": "Design, cores e previsão de lançamento",
+            "query_en": "smartwatch colorful bands wrist"
           }
         ]
       }
