@@ -1,509 +1,558 @@
 {
-  "updated_at": "2026-11-13T02:06:56.593Z",
+  "updated_at": "2026-11-13T08:08:43.077Z",
   "articles": {
-    "Jensen Huang é afastado da Nvidia pelo conselho após escândalo e CFO Colette Kress assume cargo interinamente": {
-      "video_query_en": "Nvidia CEO Jensen Huang leaves company Colette Kress interim CEO",
+    "Indústria de IA debate o futuro sem Jensen Huang à frente da Nvidia": {
+      "video_query_en": "Nvidia Jensen Huang resignation impact AI industry",
       "images": [
         {
-          "anchor": "A Queda de Jensen Huang na Liderança da Nvidia",
+          "anchor": "A saída inesperada de Jensen Huang",
           "query_en": "Jensen Huang Nvidia CEO portrait"
         },
         {
-          "anchor": "Reestruturação e Mudanças no Conselho de Administração",
+          "anchor": "Impacto no setor e IPO da Anthropic",
+          "query_en": "Anthropic AI company office building"
+        }
+      ]
+    },
+    "Commanders vencem os Giants por 24 a 21 com touchdown decisivo de Stefon Diggs": {
+      "video_query_en": "Commanders Giants 24 21 Stefon Diggs touchdown highlights",
+      "images": [
+        {
+          "anchor": "Um final eletrizante no futebol americano",
+          "query_en": "Washington Commanders New York Giants game action"
+        },
+        {
+          "anchor": "O desempenho de Jayden Daniels e a reviravolta",
+          "query_en": "Jayden Daniels Washington Commanders quarterback"
+        },
+        {
+          "anchor": "Estatísticas e destaques da partida",
+          "query_en": "Stefon Diggs Washington Commanders receiver"
+        }
+      ]
+    },
+    "A estreia vitoriosa de Tadahito Iguchi à frente da seleção japonesa de beisebol": {
+      "video_query_en": "Samurai Japan vs Taiwan Asia Professional Baseball Championship Tokyo Dome",
+      "images": [
+        {
+          "anchor": "A estreia vitoriosa de Tadahito Iguchi à frente da seleção japonesa de beisebol",
+          "query_en": "Tadahito Iguchi Samurai Japan manager"
+        },
+        {
+          "anchor": "O show de Tomoya Masaki",
+          "query_en": "Tomoya Masaki baseball player SoftBank Hawks"
+        },
+        {
+          "anchor": "Outros destaques no bastão e no monte",
+          "query_en": "Yumeto Kanemaru pitcher Japan baseball"
+        }
+      ]
+    },
+    "NHK revela a escalação de artistas para a 77ª edição do Kohaku Uta Gassen": {
+      "video_query_en": "Kohaku Uta Gassen NHK New Years Eve music show",
+      "images": [
+        {
+          "anchor": "O anúncio oficial em Tóquio",
+          "query_en": "NHK Broadcasting Center Shibuya Tokyo"
+        },
+        {
+          "anchor": "Os estreantes e a força do J-pop atual",
+          "query_en": "J-pop idol group performance concert stage"
+        },
+        {
+          "anchor": "Cutie Street",
+          "query_en": "Cutie Street Japanese idol group"
+        },
+        {
+          "anchor": "=Love",
+          "query_en": "Equal Love Japanese idol group"
+        }
+      ]
+    },
+    "Sumitomo Mitsui eleva projeção de lucro anual e anuncia recompra de ações": {
+      "video_query_en": "Sumitomo Mitsui Financial Group earnings profit forecast",
+      "images": [
+        {
+          "anchor": "Impulso nos resultados do Sumitomo Mitsui",
+          "query_en": "Sumitomo Mitsui Financial Group building Tokyo"
+        },
+        {
+          "anchor": "Nova projeção e contexto de mercado",
+          "query_en": "Japanese yen currency banknotes finance"
+        },
+        {
+          "anchor": "O cenário para os bancos japoneses e os riscos econômicos",
+          "query_en": "Bank of Japan building Tokyo"
+        }
+      ]
+    },
+    "Acesso da China a chips da Nvidia entra em dúvida após restrições ganharem força no Congresso dos EUA": {
+      "video_query_en": "Nvidia chip export restrictions China U.S. Congress",
+      "images": [
+        {
+          "anchor": "O avanço das restrições em Washington",
+          "query_en": "US Capitol building Washington DC"
+        },
+        {
+          "anchor": "A saída de Jensen Huang da Nvidia",
+          "query_en": "Jensen Huang Nvidia CEO"
+        },
+        {
+          "anchor": "Impacto no desenvolvimento de IA e pressões no governo",
+          "query_en": "Nvidia advanced AI chips hardware"
+        }
+      ]
+    },
+    "Japão confirma segundo caso de gripe aviária da temporada na província de Chiba": {
+      "video_query_en": "bird flu outbreak Japan Chiba Asahi farm",
+      "images": [
+        {
+          "anchor": "Confirmação do segundo caso",
+          "query_en": "Chiba prefecture landscape Japan"
+        },
+        {
+          "anchor": "Medidas de contenção em Asahi",
+          "query_en": "poultry farm in Japan"
+        },
+        {
+          "anchor": "Operação de sacrifício: Cerca de 40 mil galinhas poedeiras serão abatidas.",
+          "query_en": "egg-laying chickens in a farm"
+        }
+      ]
+    },
+    "Oposição na Câmara Alta busca ampliar alívio durante e após corte de impostos sobre alimentos": {
+      "video_query_en": "Japan food tax reduction Upper House Komeito DPP",
+      "images": [
+        {
+          "anchor": "Início das deliberações na Câmara Alta",
+          "query_en": "Japanese Diet building Tokyo politics"
+        },
+        {
+          "anchor": "O cenário político e a busca por maioria",
+          "query_en": "Liberal Democratic Party Japan politicians"
+        },
+        {
+          "anchor": "Mecanismos de suporte e expansão futura",
+          "query_en": "Japanese grocery store food tax shopping"
+        }
+      ]
+    },
+    "Sadaharu Oh e Hideki Kuriyama defendem mudanças no beisebol japonês diante do êxodo de talentos para a MLB": {
+      "video_query_en": "Sadaharu Oh Hideki Kuriyama Japanese baseball MLB",
+      "images": [
+        {
+          "anchor": "O cenário de transformação no beisebol do Japão",
+          "query_en": "Sadaharu Oh Yomiuri Giants baseball legend"
+        },
+        {
+          "anchor": "Alerta e novas perspectivas com Hideki Kuriyama",
+          "query_en": "Hideki Kuriyama manager baseball"
+        }
+      ]
+    },
+    "Vietnã intensifica esforços para produzir chips próprios e impulsionar o setor de semicondutores": {
+      "video_query_en": "Vietnam semiconductor industry chips Viettel",
+      "images": [
+        {
+          "anchor": "Encontro de Líderes em Tóquio",
+          "query_en": "To Lam Japan prime minister meeting"
+        },
+        {
+          "anchor": "O Papel da Viettel e a Cadeia Doméstica",
+          "query_en": "Viettel telecom building technology Vietnam"
+        },
+        {
+          "anchor": "Produtos de segurança da Viettel exemplificam a capacidade técnica local.",
+          "query_en": "Viettel cybersecurity technology product"
+        },
+        {
+          "anchor": "Foco na criação de uma cadeia de suprimentos doméstica robusta.",
+          "query_en": "semiconductor manufacturing cleanroom Vietnam"
+        },
+        {
+          "anchor": "Integração de projetos de inteligência artificial na estratégia nacional.",
+          "query_en": "artificial intelligence technology abstract digital"
+        },
+        {
+          "anchor": "Relações Bilaterais em Evolução",
+          "query_en": "Vietnam Japan flag handshake diplomacy"
+        }
+      ]
+    },
+    "Festival de Compras do Dia dos Solteiros na China Registra Crescimento Mais Lento em Meio a Desafios Econômicos": {
+      "video_query_en": "China Singles Day shopping festival e-commerce trends",
+      "images": [
+        {
+          "anchor": "Impacto do Cenário Econômico no Consumo",
+          "query_en": "Chinese shoppers browsing retail stores Singles Day"
+        },
+        {
+          "anchor": "Evolução e Estratégias do Festival",
+          "query_en": "E-commerce logistics warehouse workers sorting packages China"
+        },
+        {
+          "anchor": "- Subsídios diretos aos compradores",
+          "query_en": "online shopping discounts mobile app screen China"
+        },
+        {
+          "anchor": "- Descontos agressivos em diversas categorias",
+          "query_en": "retail shopping mall promotional sale signs China"
+        },
+        {
+          "anchor": "- Campanhas de vendas por transmissão ao vivo",
+          "query_en": "live streaming e-commerce sales host China"
+        },
+        {
+          "anchor": "- Ferramentas de compras impulsionadas por inteligência artificial, incluindo chatbots especializados",
+          "query_en": "artificial intelligence shopping assistant chatbot technology"
+        }
+      ]
+    },
+    "TSMC quer apoiar o próximo gigante de chips com novo braço de investimentos": {
+      "video_query_en": "TSMC chip manufacturing artificial intelligence investment",
+      "images": [
+        {
+          "anchor": "A visão por trás do fundo de 500 milhões de dólares",
+          "query_en": "TSMC semiconductor manufacturing facility cleanroom"
+        }
+      ]
+    },
+    "Caso da Nvidia coloca empresas de Singapura e Malásia sob os holofotes": {
+      "video_query_en": "Nvidia chip export controls Singapore Malaysia",
+      "images": [
+        {
+          "anchor": "O Papel de Singapura e Malásia na Cadeia de Chips",
+          "query_en": "Ocean Financial Centre Singapore building"
+        },
+        {
+          "anchor": "Megaspeed International",
+          "query_en": "Singapore corporate office building CBD"
+        },
+        {
+          "anchor": "Subsidiária da Malásia",
+          "query_en": "Kuala Lumpur business district skyline"
+        },
+        {
+          "anchor": "Cadeia de suprimentos da Nvidia",
+          "query_en": "Nvidia advanced AI chips hardware"
+        },
+        {
+          "anchor": "Impactos Regionais e Tensões Tecnológicas",
+          "query_en": "Southeast Asia technology semiconductor hub"
+        }
+      ]
+    },
+    "Ações da China lideram rali de chips na Ásia em meio a turbulências envolvendo Jensen Huang": {
+      "video_query_en": "Nvidia Jensen Huang chip market Asia shares rally",
+      "images": [
+        {
+          "anchor": "Repercussões no mercado de semicondutores",
+          "query_en": "Semiconductor manufacturing factory cleanroom advanced chips"
+        },
+        {
+          "anchor": "O cenário da cadeia de suprimentos e novas tendências",
+          "query_en": "Global semiconductor supply chain technology market chart"
+        }
+      ]
+    },
+    "Toyota reestrutura cadeia de suprimentos na China para reagir na corrida dos veículos elétricos": {
+      "video_query_en": "Toyota electric vehicles China supply chain strategy",
+      "images": [
+        {
+          "anchor": "A busca por competitividade no mercado chinês",
+          "query_en": "Toyota electric vehicle factory China"
+        },
+        {
+          "anchor": "Perspectivas e desafios futuros",
+          "query_en": "Toyota car assembly line Asia"
+        }
+      ]
+    },
+    "Sam Rainsy pede que o Japão adote postura realista sobre os laços entre Camboja e China": {
+      "video_query_en": "Sam Rainsy Cambodia China relations Tokyo interview",
+      "images": [
+        {
+          "anchor": "O impacto de projetos financiados por Pequim",
+          "query_en": "Cambodia China canal infrastructure project"
+        },
+        {
+          "anchor": "Desafios para a diplomacia japonesa na Ásia",
+          "query_en": "Tokyo Japan foreign relations Asia"
+        }
+      ]
+    },
+    "Império de IA da Nvidia vacila após escândalo e saída de Jensen Huang": {
+      "video_query_en": "Jensen Huang Nvidia resignation AI scandal",
+      "images": [
+        {
+          "anchor": "O impacto geopolítico e o momento da crise",
+          "query_en": "US China tech rivalry artificial intelligence semiconductors"
+        },
+        {
+          "anchor": "Consequências para la Ásia e cadeias de suprimentos",
+          "query_en": "TSMC Taiwan semiconductor manufacturing clean room"
+        },
+        {
+          "anchor": "Aumento potencial na dificuldade de acesso a servidores equipados com unidades de aceleração da Nvidia, impulsionado por crescentes preocupações de segurança nacional nos EUA em relação à China.",
+          "query_en": "Nvidia AI server data center hardware rack"
+        },
+        {
+          "anchor": "Riscos de desestabilização nas cadeias de suprimentos de semicondutores na Ásia caso a Nvidia perca o ritmo sem a liderança de seu principal arquiteto.",
+          "query_en": "Asia semiconductor supply chain logistics factory"
+        },
+        {
+          "anchor": "Oportunidades para empresas de semicondutores da China ganharem espaço e alterarem o equilíbrio de poder tecnológico entre Washington e Pequim.",
+          "query_en": "China high tech semiconductor manufacturing facility"
+        },
+        {
+          "anchor": "Efeitos nos mercados financeiros e no ecossistema de IA",
+          "query_en": "Wall Street stock market trading floor computer screens"
+        }
+      ]
+    },
+    "El Nino e regras de biocombustível sufocam produtores de óleo de palma na Indonésia": {
+      "video_query_en": "Indonesian palm oil El Nino biofuel regulations",
+      "images": [
+        {
+          "anchor": "Conferência anual em Bali e o impacto do El Nino",
+          "query_en": "Indonesian palm oil conference Bali"
+        },
+        {
+          "anchor": "Pressão regulatória e demanda interna",
+          "query_en": "Indonesian palm oil plantation harvest"
+        }
+      ]
+    },
+    "Paquistão planeja conectar mina de Reko Diq ao porto de Karachi por ferrovia em três anos": {
+      "video_query_en": "Pakistan Reko Diq mine railway Karachi port",
+      "images": [
+        {
+          "anchor": "Detalhes do Projeto Ferroviário",
+          "query_en": "Pakistan railway construction landscape"
+        },
+        {
+          "anchor": "Segurança e Desafios Operacionais",
+          "query_en": "Port Qasim Karachi container port"
+        },
+        {
+          "anchor": "Perspectivas de Desenvolvimento Local",
+          "query_en": "Ahsan Iqbal Pakistan minister interview"
+        }
+      ]
+    },
+    "Coreia do Sul afirma que Google removeu coordenadas de mapas por exigência de permissão de exportação": {
+      "video_query_en": "Google Maps security restrictions South Korea map data",
+      "images": [
+        {
+          "anchor": "Remoção de dados militares e de segurança",
+          "query_en": "Google Maps South Korea military security aerial view"
+        },
+        {
+          "anchor": "Condições e fiscalização rigorosa",
+          "query_en": "South Korea government building Seoul officials"
+        }
+      ]
+    },
+    "Como rivais de inteligência artificial estão se tornando investidores, fornecedores e clientes entre si": {
+      "video_query_en": "Anthropic IPO SEC filing AI rivals partners explained",
+      "images": [
+        {
+          "anchor": "A complexa teia de parcerias e rivalidades no setor de inteligência artificial",
+          "query_en": "Artificial intelligence server infrastructure cloud computing data center"
+        },
+        {
+          "anchor": "As conexões reveladas nos documentos da Anthropic",
+          "query_en": "Anthropic Claude AI logo technology office building"
+        }
+      ]
+    },
+    "Apagão do Microsoft 365 afeta dezenas de milhares de usuários em todo o mundo": {
+      "video_query_en": "Microsoft 365 outage global disruption Outlook Teams Copilot",
+      "images": [
+        {
+          "anchor": "Uma falha global nos serviços da Microsoft",
+          "query_en": "Microsoft corporate headquarters building Seattle"
+        },
+        {
+          "anchor": "Ações tomadas pela empresa e impacto regional",
+          "query_en": "Microsoft Outlook logo and app interface on laptop"
+        },
+        {
+          "anchor": "Esforços de recuperação e retorno gradual",
+          "query_en": "server room data center infrastructure blue light"
+        }
+      ]
+    },
+    "Ex-CEO da Nvidia, Jensen Huang, teve relacionamento com uma segunda funcionária, apontam fontes": {
+      "video_query_en": "Jensen Huang resigns Nvidia CEO scandal",
+      "images": [
+        {
+          "anchor": "Revelações sobre a gestão da Nvidia",
+          "query_en": "Jensen Huang Nvidia logo"
+        },
+        {
+          "anchor": "Impacto na liderança e investigações",
           "query_en": "Nvidia corporate headquarters building"
         },
         {
-          "anchor": "Colette Kress",
+          "anchor": "Investigação independente e reflexos no mercado",
+          "query_en": "Nvidia stock market chart"
+        }
+      ]
+    },
+    "Apagão da Microsoft afeta Outlook e serviços corporativos globalmente": {
+      "video_query_en": "Microsoft outage Outlook global down Microsoft 365",
+      "images": [
+        {
+          "anchor": "O impacto global e a queda inicial dos serviços",
+          "query_en": "Microsoft corporate office building exterior"
+        },
+        {
+          "anchor": "O papel do Exchange Online no problema",
+          "query_en": "Microsoft Outlook email software interface on laptop screen"
+        },
+        {
+          "anchor": "O Exchange Online atua como a plataforma de mensagens baseada em nuvem da empresa",
+          "query_en": "Cloud computing data center servers glowing"
+        },
+        {
+          "anchor": "Resposta oficial da companhia",
+          "query_en": "Microsoft logo sign at corporate headquarters"
+        }
+      ]
+    },
+    "A Era da IA por trás do muro azul de Tarluvada, em Visakhapatnam": {
+      "video_query_en": "Google AI data centre Visakhapatnam Tarluvada",
+      "images": [
+        {
+          "anchor": "A barreira azul na paisagem rural",
+          "query_en": "Visakhapatnam rural landscape road"
+        },
+        {
+          "anchor": "As promessas do governo e da tecnologia",
+          "query_en": "Google data centre construction site"
+        },
+        {
+          "anchor": "Clima de tensão e silêncio na vila",
+          "query_en": "Indian village farmers protest"
+        }
+      ]
+    },
+    "Microsoft enfrenta falha global de servidores e diz que correção não avança como o esperado": {
+      "video_query_en": "Microsoft global outage Outlook Teams disruption November 2026",
+      "images": [
+        {
+          "anchor": "Impacto global em empresas e companhias aéreas",
+          "query_en": "Microsoft logo office building corporate tech"
+        },
+        {
+          "anchor": "Resposta da Microsoft e status das correções",
+          "query_en": "Microsoft data center servers cloud computing"
+        },
+        {
+          "anchor": "Consequências operacionais e de segurança",
+          "query_en": "Cybersecurity screen data analytics laptop"
+        }
+      ]
+    },
+    "Quem é Colette Kress? Conheça a nova CEO interina da Nvidia após a saída de Jensen Huang": {
+      "video_query_en": "Colette Kress Nvidia interim CEO Jensen Huang exit",
+      "images": [
+        {
+          "anchor": "Uma veterana com sólida experiência no setor tecnológico",
           "query_en": "Colette Kress Nvidia CFO"
         },
         {
-          "anchor": "Harvey Jones",
-          "query_en": "Harvey Jones Synopsys"
-        },
-        {
-          "anchor": "Impacto na Governança e Ausência de Sucessão",
-          "query_en": "Nvidia computer chips microprocessors"
-        }
-      ]
-    },
-    "Trump retira JD Vance de negociações com o Irã e aposta em status quo incerto": {
-      "video_query_en": "Donald Trump JD Vance Iran talks strategy",
-      "images": [
-        {
-          "anchor": "Uma nova estratégia para o conflito",
-          "query_en": "Donald Trump speaking about Iran strategy"
-        },
-        {
-          "anchor": "Declarações oficiais e o futuro das negociações",
-          "query_en": "JD Vance US Vice President Washington"
-        }
-      ]
-    },
-    "Confronto político em Israel: Netanyahu e Eisenkot divergem sobre novos ataques ao Irã": {
-      "video_query_en": "Benjamin Netanyahu Gadi Eisenkot Iran strike Israel politics",
-      "images": [
-        {
-          "anchor": "O alerta de Gadi Eisenkot sobre a transição política",
-          "query_en": "Gadi Eisenkot Israeli politician"
-        },
-        {
-          "anchor": "O pedido de fiscalização à Procuradoria-Geral",
-          "query_en": "Gali Baharav Miara Attorney General Israel"
-        },
-        {
-          "anchor": "A resposta do gabinete de Netanyahu",
-          "query_en": "Benjamin Netanyahu Prime Minister of Israel"
-        }
-      ]
-    },
-    "Desabamento de prédio residencial no Brooklyn deixa oito mortos, incluindo duas crianças": {
-      "video_query_en": "New York building collapse Brooklyn rescue operation",
-      "images": [
-        {
-          "anchor": "O acidente no Brooklyn",
-          "query_en": "Brooklyn New York neighborhood street"
-        },
-        {
-          "anchor": "Canteiro de obras e trabalhos de resgate",
-          "query_en": "firefighters rubble rescue operation night"
-        },
-        {
-          "anchor": "Balanço oficial e feridos",
-          "query_en": "New York City emergency response vehicles"
-        }
-      ]
-    },
-    "A nova gíria do ano no Japão eleita pela cultura gyaru": {
-      "video_query_en": "Japanese gyaru culture slang magazine egg",
-      "images": [
-        {
-          "anchor": "A trajetória da revista egg e sua influência cultural",
-          "query_en": "Shibuya Tokyo street style gyaru"
-        },
-        {
-          "anchor": "A lista de buzzwords de 2026",
-          "query_en": "Japanese youth social media smartphone"
-        }
-      ]
-    },
-    "SmartNews busca captar ¥11,2 bilhões em IPO em Tóquio após corte de 80% no valor de mercado": {
-      "video_query_en": "SmartNews IPO Tokyo stock market",
-      "images": [
-        {
-          "anchor": "Os detalhes da oferta pública inicial",
-          "query_en": "Tokyo Stock Exchange building exterior"
-        },
-        {
-          "anchor": "Estrutura e cronograma da operação",
-          "query_en": "business person using smartphone news app"
-        },
-        {
-          "anchor": "Mitsubishi UFJ Morgan Stanley Securities",
-          "query_en": "Tokyo financial district skyscrapers"
-        },
-        {
-          "anchor": "Morgan Stanley MUFG Securities",
-          "query_en": "modern Tokyo office building"
-        },
-        {
-          "anchor": "Nomura Holdings",
-          "query_en": "Nomura headquarters Tokyo building"
-        }
-      ]
-    },
-    "Casa Branca avalia possível saída de Howard Lutnick após escândalo de espionagem envolvendo a Nvidia": {
-      "video_query_en": "Howard Lutnick White House Nvidia export controls",
-      "images": [
-        {
-          "anchor": "Discussões sobre o futuro de Howard Lutnick",
-          "query_en": "White House building Washington DC"
-        },
-        {
-          "anchor": "O impacto do escândalo da Nvidia",
-          "query_en": "Nvidia microchip AI processor"
-        }
-      ]
-    },
-    "Zoetis, ex-Pfizer, prepara medicamentos veterinários de grande sucesso para o mercado japonês": {
-      "video_query_en": "Zoetis pet medications Japan veterinary market",
-      "images": [
-        {
-          "anchor": "O crescimento do mercado de pets no Japão",
-          "query_en": "dog and cat pets longevity Japan"
-        },
-        {
-          "anchor": "Foco em doenças crônicas e oncologia",
-          "query_en": "veterinary medicine pet care clinic"
-        }
-      ]
-    },
-    "Buffer or crutch? Nepal clings to 'least developed country' perks": {
-      "video_query_en": "Nepal economy least developed country status textiles",
-      "images": [
-        {
-          "anchor": "## O dilema do status de país menos desenvolvido",
-          "query_en": "Kathmandu street view Nepal capital"
-        },
-        {
-          "anchor": "## O impacto na indústria têxtil e de vestuário",
-          "query_en": "Nepalese pashmina shawl textile factory"
-        },
-        {
-          "anchor": "## Desafios econômicos e estruturais adicionais",
-          "query_en": "Nepal flood damage infrastructure economy"
-        },
-        {
-          "anchor": "## O papel do novo governo",
-          "query_en": "Kathmandu government building Nepal politics"
-        }
-      ]
-    },
-    "Meta e Line ajudam Taiwan no combate a fraudes online": {
-      "video_query_en": "Taiwan online fraud Meta Line partnership cybersecurity",
-      "images": [
-        {
-          "anchor": "Esforço conjunto contra anúncios fraudulentos",
-          "query_en": "Line app and Facebook mobile interface security"
-        },
-        {
-          "anchor": "Resultados na redução de perdas financeiras",
-          "query_en": "Taipei police cybercrime division technology"
-        },
-        {
-          "anchor": "Queda expressiva de 35% nos prejuízos financeiros decorrentes de fraudes.",
-          "query_en": "financial cyber fraud prevention data chart"
-        }
-      ]
-    },
-    "Tóquio busca conversas entre Takaichi e Putin após Rússia confiscar unidades da Japan Tobacco": {
-      "video_query_en": "Japan Russia relations Sanae Takaichi Vladimir Putin Japan Tobacco",
-      "images": [
-        {
-          "anchor": "Proposta de Diálogo e Tensões Bilaterais",
-          "query_en": "Sanae Takaichi Prime Minister Japan press conference"
-        },
-        {
-          "anchor": "Impacto nos Investimentos e no Mercado",
-          "query_en": "Japan Tobacco office building Tokyo"
-        },
-        {
-          "anchor": "Conflitos Adicionais e Perspectivas Diplomáticas",
-          "query_en": "Kremlin Moscow Russia government building"
-        }
-      ]
-    },
-    "Starbucks aposta em qualidade e reformas na China para frear corrida por quantidade": {
-      "video_query_en": "Starbucks China strategy quality over quantity",
-      "images": [
-        {
-          "anchor": "A mudança de rumo estratégica na China",
-          "query_en": "Starbucks store in China"
-        },
-        {
-          "anchor": "Reformas e novas políticas nas cafeterias",
-          "query_en": "Starbucks coffee shop interior design"
-        },
-        {
-          "anchor": "O novo cenário competitivo",
-          "query_en": "Starbucks coffee cup and store"
-        }
-      ]
-    },
-    "Roblox usa cartilha do Japão para acelerar expansão no mercado asiático": {
-      "video_query_en": "Roblox Asia Pacific gaming market John Ciancutti interview",
-      "images": [
-        {
-          "anchor": "A Estratégia no Japão",
-          "query_en": "John Ciancutti Roblox interview Tokyo"
-        },
-        {
-          "anchor": "O Potencial da Região Ásia-Pacífico",
-          "query_en": "Asia Pacific gaming market players"
-        }
-      ]
-    },
-    "O \"problema Jensen\" na Nvidia e seus impactos na cadeia global de suprimentos de IA": {
-      "video_query_en": "Nvidia Jensen Huang China investigation AI supply chain",
-      "images": [
-        {
-          "anchor": "O impacto das investigações na liderança da Nvidia",
+          "anchor": "Crescimento financeiro e patrimônio pessoal",
           "query_en": "Nvidia headquarters building California"
         },
         {
-          "anchor": "Preocupações na cadeia de suprimentos asiática",
-          "query_en": "semiconductor manufacturing cleanroom Asia"
-        },
-        {
-          "anchor": "Repercussão política e o futuro do setor",
+          "anchor": "Termos contratuais e o cenário de investigações",
           "query_en": "US Capitol building Washington DC"
+        },
+        {
+          "anchor": "O futuro de Colette Kress e da Nvidia",
+          "query_en": "Jensen Huang Nvidia CEO"
         }
       ]
     },
-    "NC assume o controle global das operações de Throne and Liberty que estavam com a Amazon Games": {
-      "video_query_en": "Throne and Liberty gameplay Amazon Games NC",
+    "Bundeswehr suspende uso de drones da Quantum Systems após incidente cibernético": {
+      "video_query_en": "Bundeswehr Quantum Systems drones cyber attack",
       "images": [
         {
-          "anchor": "Mudança na operação global",
-          "query_en": "Throne and Liberty MMORPG game logo"
+          "anchor": "O impacto nos equipamentos da Quantum Systems",
+          "query_en": "Quantum Systems drone military flight"
         },
         {
-          "anchor": "O papel anterior da Amazon Games",
-          "query_en": "Amazon Games office building"
+          "anchor": "Medidas de segurança e investigações em andamento",
+          "query_en": "Bundeswehr military cyber security center"
         }
       ]
     },
-    "Lucro Operacional da Genians Salta Quase Três Vezes Impulsionado por NAC e EDR": {
-      "video_query_en": "Genians NAC EDR cybersecurity growth",
+    "Falhas em servidores de nuvem causam instabilidade no Outlook e no Microsoft 365": {
+      "video_query_en": "Microsoft 365 Outlook outage server issues cloud",
       "images": [
         {
-          "anchor": "Fatores de Crescimento",
-          "query_en": "network access control endpoint detection security"
+          "anchor": "Impacto nos serviços da Microsoft",
+          "query_en": "Microsoft 365 office building sign"
         },
         {
-          "anchor": "O negócio de controle de acesso à rede, conhecido pela sigla NAC",
-          "query_en": "network access control dashboard"
+          "anchor": "Recuperação e normalização",
+          "query_en": "Cloud server data center racks"
         },
         {
-          "anchor": "O segmento de detecção e resposta de endpoints, conhecido pela sigla EDR",
-          "query_en": "endpoint detection and response cybersecurity"
-        },
-        {
-          "anchor": "Desempenho Consolidado",
-          "query_en": "cybersecurity business growth financial success"
-        }
-      ]
-    },
-    "Everpure Expands Portworx Support for Kubernetes-Based AI and VMs": {
-      "video_query_en": "Everpure Portworx Kubernetes AI and VMs",
-      "images": [
-        {
-          "anchor": "Novas Capacidades para a Plataforma Portworx",
-          "query_en": "Everpure Portworx data management platform"
-        },
-        {
-          "anchor": "Impacto no Ecossistema Tecnológico",
-          "query_en": "Kubernetes AI workloads data infrastructure"
-        }
-      ]
-    },
-    "Infocz e Universidade Nacional de Seoul unem-se para criar IA de desenhos industriais": {
-      "video_query_en": "Infocz Seoul National University industrial drawings AI",
-      "images": [
-        {
-          "anchor": "Parceria em Pesquisa e Desenvolvimento",
-          "query_en": "Seoul National University campus building"
-        },
-        {
-          "anchor": "Liderança Científica",
-          "query_en": "artificial intelligence researcher in laboratory"
-        },
-        {
-          "anchor": "Foco Tecnológico",
-          "query_en": "industrial drawings engineering blueprints on screen"
-        }
-      ]
-    },
-    "Com2uS Holdings registra lucro no terceiro trimestre e planeja cinco jogos para 2027": {
-      "video_query_en": "Com2uS Holdings financial results and games",
-      "images": [
-        {
-          "anchor": "Origem do lucro trimestral",
-          "query_en": "financial growth investment graph"
-        },
-        {
-          "anchor": "Desempenho dos setores principais",
-          "query_en": "mobile gaming platform technology"
-        },
-        {
-          "anchor": "Perspectivas futuras e lançamentos",
-          "query_en": "upcoming video game development"
-        }
-      ]
-    },
-    "Vendas de HCI da PIOLINK disparam 78% em meio a êxodo de usuários do VMware": {
-      "video_query_en": "VMware alternative hyperconverged infrastructure PIOLINK",
-      "images": [
-        {
-          "anchor": "O crescimento impressionante da PIOLINK",
-          "query_en": "server rack datacenter technology hardware"
-        },
-        {
-          "anchor": "As razões por trás da migração",
-          "query_en": "cloud computing server dashboard software interface"
-        },
-        {
-          "anchor": "Impacto no mercado de virtualização",
-          "query_en": "IT professional working on server infrastructure"
-        }
-      ]
-    },
-    "Lucro Operacional da Hancom Cai 25% no Terceiro Trimestre": {
-      "video_query_en": "Hancom company financial results Q3",
-      "images": [
-        {
-          "anchor": "Desempenho Financeiro Trimestral",
-          "query_en": "Hancom office software corporate building"
-        },
-        {
-          "anchor": "Queda nos Lucros",
-          "query_en": "financial chart declining profit report"
-        },
-        {
-          "anchor": "Divisão por Segmentos",
-          "query_en": "software development office computer screen"
-        }
-      ]
-    },
-    "Pearl Abyss Vende 680 Mil Cópias de Crimson Desert no Terceiro Trimestre": {
-      "video_query_en": "Pearl Abyss Crimson Desert Q3 financial results sales",
-      "images": [
-        {
-          "anchor": "Desempenho de Crimson Desert",
-          "query_en": "Crimson Desert gameplay trailer Pearl Abyss"
-        },
-        {
-          "anchor": "Perspectivas e Impactos Cambiais",
-          "query_en": "Pearl Abyss company building Seoul South Korea"
-        }
-      ]
-    },
-    "Com2uS registra salto de 35% na receita no terceiro trimestre impulsionada pelo jogo Zeus: God of Arrogance": {
-      "video_query_en": "Com2uS Zeus God of Arrogance gameplay trailer",
-      "images": [
-        {
-          "anchor": "Desempenho financeiro do terceiro trimestre",
-          "query_en": "Com2uS corporate building Seoul"
-        },
-        {
-          "anchor": "O impacto de Zeus: God of Arrogance",
-          "query_en": "Zeus God of Arrogance game promotional art"
-        }
-      ]
-    },
-    "Sobric, da Cranberry, conquista Prêmio de Inovação da CES 2027": {
-      "video_query_en": "Cranberry SOBRIC CES 2027 Innovation Award artificial intelligence sound analysis",
-      "images": [
-        {
-          "anchor": "Anúncio Oficial e Presença na CES 2027",
-          "query_en": "CES Las Vegas convention center exhibition hall"
-        },
-        {
-          "anchor": "Detalhes da Solução SOBRIC",
-          "query_en": "artificial intelligence sound analysis technology software"
-        }
-      ]
-    },
-    "Pane global afeta aplicativos da Microsoft, incluindo Outlook e Teams": {
-      "video_query_en": "Microsoft outage Outlook Teams cloud infrastructure error",
-      "images": [
-        {
-          "anchor": "Impacto nos serviços e Downdetector",
-          "query_en": "Downdetector website outage monitoring screen"
-        },
-        {
-          "anchor": "Microsoft Teams",
-          "query_en": "Microsoft Teams app interface on computer"
-        },
-        {
-          "anchor": "Copilot",
-          "query_en": "Microsoft Copilot artificial intelligence interface"
+          "anchor": "Gradual restoration",
+          "query_en": "Server room cooling technology"
         },
         {
           "anchor": "Microsoft 365",
-          "query_en": "Microsoft 365 office applications logo and icons"
+          "query_en": "Microsoft 365 logo application software"
         },
         {
-          "anchor": "Investigação e resposta da Microsoft",
-          "query_en": "Microsoft headquarters building Redmond Washington"
-        },
-        {
-          "anchor": "Ações de recuperação e contexto corporativo",
-          "query_en": "Microsoft cloud server data center infrastructure"
+          "anchor": "Outlook",
+          "query_en": "Microsoft Outlook email software interface"
         }
       ]
     },
-    "Samsung antecipa saída de fundição de 8 polegadas para 2029 e terceiriza produção para a UMC": {
-      "video_query_en": "Samsung foundry exit 8 inch UMC semiconductor manufacturing",
+    "GTA 6 evita referências políticas diretas para não envelhecer rápido, revela Rockstar": {
+      "video_query_en": "GTA 6 satirical world building and narrative design Rockstar",
       "images": [
         {
-          "anchor": "Terceirização para a UMC",
-          "query_en": "UMC semiconductor wafer manufacturing facility Taiwan"
+          "anchor": "O desafio de satirizar a realidade sem copiar o mundo real",
+          "query_en": "GTA 6 fictional state Leonida open world Florida concept"
         },
         {
-          "anchor": "Samsung Electronics",
-          "query_en": "Samsung Electronics semiconductor fabrication plant South Korea"
+          "anchor": "- O crescimento da Segurança Interna e o Ato Patriótico foram centrais em GTA IV.",
+          "query_en": "Grand Theft Auto IV Liberty City New York setting"
         },
         {
-          "anchor": "United Microelectronics Corporation (UMC)",
-          "query_en": "United Microelectronics Corporation logo building"
+          "anchor": "Como a sátira se manifesta em Leonida",
+          "query_en": "Grand Theft Auto 6 parodies and satirical billboards"
+        },
+        {
+          "anchor": "O fator tempo de desenvolvimento na produção",
+          "query_en": "Rockstar Games headquarters development studio"
         }
       ]
     },
-    "A estreia da Y Combinator em Taipei: lições da primeira Startup School da aceleradora na Ásia": {
-      "video_query_en": "Y Combinator Startup School Taipei Asia tech accelerator",
+    "NBA 2K25 será retirado das lojas digitais e terá servidores desativados no fim do ano": {
+      "video_query_en": "NBA 2K25 server shutdown MyCareer MyTeam",
       "images": [
         {
-          "anchor": "O significado da estreia em Taipei",
-          "query_en": "Taipei skyline tech district innovation hub"
+          "anchor": "Prazos e disponibilidade digital",
+          "query_en": "NBA 2K25 gameplay cover art"
         },
         {
-          "anchor": "Desafios e barreiras de acesso",
-          "query_en": "Startup conference audience laptops presentation"
-        }
-      ]
-    },
-    "Computação quântica enfrenta barreiras de segurança, geopolítica e escassez de talentos": {
-      "video_query_en": "UK National Quantum Technologies Showcase quantum computing challenges",
-      "images": [
-        {
-          "anchor": "O panorama atual do setor quântico no Reino Unido",
-          "query_en": "London technology conference exhibition hall"
+          "anchor": "Encerramento de servidores e modos de jogo",
+          "query_en": "NBA 2K25 MyTeam mode screen"
         },
         {
-          "anchor": "Desafios na transição para o mundo real",
-          "query_en": "quantum computer laboratory processor hardware"
+          "anchor": "O impacto no modo MyCareer",
+          "query_en": "NBA 2K25 MyCareer mode basketball player"
         },
         {
-          "anchor": "O impacto da geopolítica e da segurança",
-          "query_en": "global cybersecurity server room glowing data"
-        },
-        {
-          "anchor": "A barreira da escassez de talentos",
-          "query_en": "scientists researchers working in quantum laboratory"
-        }
-      ]
-    },
-    "Google admite que nem todo aplicativo Android roda perfeitamente em Googlebooks com processadores Intel": {
-      "video_query_en": "Googlebook Intel Android apps performance",
-      "images": [
-        {
-          "anchor": "Declaração oficial e o impacto dos chips",
-          "query_en": "Intel processor chip motherboard"
-        },
-        {
-          "anchor": "O cenário dos novos dispositivos",
-          "query_en": "Googlebook laptop keyboard and screen"
-        }
-      ]
-    },
-    "Nossa mente não está preparada para lidar com a inteligência artificial": {
-      "video_query_en": "artificial intelligence impact on human brain and education",
-      "images": [
-        {
-          "anchor": "A ilusão da mente computacional",
-          "query_en": "brain neural network artificial intelligence concept"
-        },
-        {
-          "anchor": "Sistemas de controle de feedback e a evolução biológica",
-          "query_en": "neuroscience brain evolution biology diagram"
-        },
-        {
-          "anchor": "A dimensão social e cultural da cognição",
-          "query_en": "human collaboration learning culture education"
-        },
-        {
-          "anchor": "O impacto da IA na educação e a necessidade de imunização cognitiva",
-          "query_en": "students using laptop in classroom education technology"
+          "anchor": "O que continuará funcionando",
+          "query_en": "NBA 2K25 match screen Play Now"
         }
       ]
     }
