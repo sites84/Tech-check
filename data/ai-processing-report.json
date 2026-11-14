@@ -1,696 +1,753 @@
 {
-  "updated_at": "2026-11-13T16:35:41.655Z",
+  "updated_at": "2026-11-13T22:46:15.073Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "54bbf435-9902-4d4f-8010-300e7d15605e",
-      "title": "Indonésia: Prabowo consolida poder e afasta herança de Jokowi",
+      "id": "5c66716c-dc6c-4c34-a900-c5fbab09b02f",
+      "title": "Crescimento além da inteligência artificial coloca empresas do Japão no caminho de um salto de 20% nos lucros",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Prabowo Subianto Indonesia politics Jokowi",
+        "video_query_en": "Japan corporate profits economic growth business trends",
         "images": [
           {
-            "anchor": "O fim da era Jokowi na política indonésia",
-            "query_en": "Prabowo Subianto Indonesia president"
+            "anchor": "Revisões de lucros em alta",
+            "query_en": "Mitsubishi Tokyo corporate building business district"
           },
           {
-            "anchor": "A avaliação de especialistas sobre a estratégia",
-            "query_en": "Indonesian politics government Jakarta"
+            "anchor": "Demanda internacional e novos investimentos",
+            "query_en": "Komatsu construction machinery heavy equipment mining"
           },
           {
-            "anchor": "Gibran Rakabuming Raka: Deixou o posto de vice-presidente na quinta-feira, encerrando o principal elo administrativo de seu pai na atual gestão.",
-            "query_en": "Gibran Rakabuming Raka vice president"
-          },
-          {
-            "anchor": "Joko Widodo: Ex-presidente que liderou a Indonésia por dez anos e teve papel fundamental na ascensão de Prabowo ao poder.",
-            "query_en": "Joko Widodo former president Indonesia"
-          },
-          {
-            "anchor": "Prabowo Subianto: Atual presidente que assume o controle total da lista de sucessão e redesenha o futuro político para 2029.",
-            "query_en": "Prabowo Subianto official portrait"
+            "anchor": "O cenário corporativo em transformação",
+            "query_en": "Tokyo Stock Exchange trading floor financial district"
           }
         ]
       }
     },
     {
-      "id": "ec2cef14-4a22-40f4-acfa-e4e492dabf70",
-      "title": "Ruling on 2025 election’s ‘unconstitutional state’ raises questions on electoral reform",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Política"
-    },
-    {
-      "id": "6a69636a-3323-4d99-983c-467fa121877c",
-      "title": "China realiza exercícios navais surpresa no Pacífico em estratégia de intimidação, diz Taiwan",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China military drills Taiwan Western Pacific",
-        "images": [
-          {
-            "anchor": "Movimentação militar surpresa no Pacífico Ocidental",
-            "query_en": "Taiwan military officials news conference"
-          },
-          {
-            "anchor": "Grande concentração de embarcações",
-            "query_en": "Chinese coast guard vessels at sea"
-          },
-          {
-            "anchor": "Comparação com operações anteriores",
-            "query_en": "Chinese navy fleet Pacific Ocean"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d51908cb-1ba4-448c-a5da-b2ff5ed5a9d2",
-      "title": "Grandes bancos do Japão elevam projeções de lucro e anunciam recompra de ações",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sumitomo Mitsui Mizuho profit forecast Japan banks",
-        "images": [
-          {
-            "anchor": "Novas projeções financeiras",
-            "query_en": "Sumitomo Mitsui banking building Tokyo"
-          },
-          {
-            "anchor": "O impacto dos juros e do crédito corporativo",
-            "query_en": "Mizuho bank branch Tokyo Japan"
-          },
-          {
-            "anchor": "Riscos e desafios no horizonte",
-            "query_en": "Tokyo Stock Exchange trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ac410654-d733-4b59-965d-4063e5de6fab",
-      "title": "Japão ainda não aproveitou tratado de exportação de equipamentos nucleares com a Índia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan India nuclear energy cooperation treaty",
-        "images": [
-          {
-            "anchor": "A década perdida no acordo bilateral",
-            "query_en": "Japan and India flags bilateral meeting"
-          },
-          {
-            "anchor": "Os objetivos ambiciosos da Índia",
-            "query_en": "nuclear power plant India energy"
-          },
-          {
-            "anchor": "Desafios legais e regulatórios",
-            "query_en": "nuclear reactor technology equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "38979866-334e-45dc-be80-0ace02a51d00",
-      "title": "Equipe japonesa cria células híbridas inéditas entre plantas e animais conhecidas como 'planimal'",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "plant animal hybrid cells planimal research Japan",
-        "images": [
-          {
-            "anchor": "Uma inovação pioneira no Japão",
-            "query_en": "University of Tokyo research laboratory"
-          },
-          {
-            "anchor": "Detalhes técnicos da fusão celular",
-            "query_en": "microscopic cell fusion process biology"
-          },
-          {
-            "anchor": "Potenciais aplicações futuras",
-            "query_en": "cultured meat laboratory biotechnology"
-          },
-          {
-            "anchor": "- O desenvolvimento de novos métodos para a produção em larga escala de medicamentos.",
-            "query_en": "modern pharmaceutical laboratory research"
-          },
-          {
-            "anchor": "- A fabricação inovadora de carne cultivada em laboratório.",
-            "query_en": "cultivated meat bioreactor science"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f406574a-efda-4f58-9dd0-7d2b71b3685d",
-      "title": "Malásia avalia formas de apoiar a AirAsia sem arriscar recursos públicos, diz ex-ministro",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AirAsia Malaysia financial support government",
-        "images": [
-          {
-            "anchor": "O cenário de desafios para a AirAsia",
-            "query_en": "AirAsia airplane flying in the sky"
-          },
-          {
-            "anchor": "A posição do governo e os limites do apoio estatal",
-            "query_en": "Kuala Lumpur Malaysia government buildings"
-          },
-          {
-            "anchor": "Arranjo formal rigoroso exigido para qualquer tipo de intervenção governamental",
-            "query_en": "Malaysian finance ministry building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b387c5fc-8cf8-416d-aade-607c52300a07",
-      "title": "Ameaça de rebaixamento da MSCI expõe o problema de clientelismo na Indonésia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia stock market MSCI downgrade economy",
-        "images": [
-          {
-            "anchor": "Ameaça de rebaixamento da MSCI expõe o problema de clientelismo na Indonésia",
-            "query_en": "Indonesia Stock Exchange building Jakarta"
-          },
-          {
-            "anchor": "O impacto das ameaças da MSCI",
-            "query_en": "Jakarta financial district skyscrapers"
-          },
-          {
-            "anchor": "Desafios regulatórios e governança",
-            "query_en": "Indonesian business meeting corporate office"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d52f504d-487b-427c-a3f0-fcadd9a5e53e",
-      "title": "Líderes da ASEAN e do Quad se reúnem em Manila: 5 pontos para acompanhar",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASEAN and Quad leaders summit Manila international relations",
-        "images": [
-          {
-            "anchor": "Expectativas em torno de marcos digitais e transição energética",
-            "query_en": "ASEAN digital trade energy security meeting Manila"
-          },
-          {
-            "anchor": "Acordos de pagamentos via QR code e regulamentações para assinaturas eletrônicas fazem parte dos preparativos do bloco para consolidar um pacto de comércio digital integrado.",
-            "query_en": "ASEAN digital trade QR code payments"
-          },
-          {
-            "anchor": "Iniciativas conjuntas de segurança energética ganham tração, com planos de criação de reservas compartilhadas de petróleo envolvendo países como Indonésia, Tailândia e Filipinas, além de discussões em torno do avanço do projeto de rede elétrica da ASEAN.",
-            "query_en": "ASEAN energy security oil reserves power grid"
-          },
-          {
-            "anchor": "Parcerias estratégicas no setor de defesa com os Estados Unidos também entram na pauta, destacando o papel de Singapura na facilitação de conversas sobre marcos de segurança para o próximo ano.",
-            "query_en": "US Singapore defense framework talks"
-          },
-          {
-            "anchor": "O desafio das tensões no Mar do Sul da China",
-            "query_en": "South China Sea tensions geopolitical disputes"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6b367650-9d26-4fe6-bae9-397c2ba0e62a",
-      "title": "Liderança do Quad avalia encontro em Manila para discutir segurança econômica e estratégica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Quad leaders meeting Indo Pacific security supply chains",
-        "images": [
-          {
-            "anchor": "Expectativas para a Cúpula em Manila",
-            "query_en": "Manila Philippines skyline ASEAN summit location"
-          },
-          {
-            "anchor": "Foco em Segurança e Cadeias de Suprimentos",
-            "query_en": "global supply chain logistics cargo port container"
-          },
-          {
-            "anchor": "O Papel do Secretário de Estado dos EUA",
-            "query_en": "US Secretary of State Marco Rubio speaking at press conference"
-          },
-          {
-            "anchor": "Contexto Diplomático e Desafios Regionais",
-            "query_en": "Indo Pacific ministers diplomatic meeting flags"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1df7fe09-dffd-487a-9771-1b6ec2dfe1a4",
-      "title": "EUA pedem ao Japão que quase triplique orçamento para abrigar tropas americanas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US Japan military alliance host nation support budget negotiations",
-        "images": [
-          {
-            "anchor": "Contexto das negociações de defesa",
-            "query_en": "Japan Self Defense Forces American soldiers joint exercise"
-          },
-          {
-            "anchor": "Relações bilaterais e pressões financeiras",
-            "query_en": "Tokyo skyline government buildings Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a2fa4ba5-75e8-4b2d-8a3b-d0ee897e0465",
-      "title": "Comitê de Estratégia de IA da Coreia do Sul Cria Força-Tarefa de Resiliência Cibernética",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea AI Strategy Committee Cyber Resilience Task Force",
-        "images": [
-          {
-            "anchor": "O Anúncio da Nova Força-Tarefa",
-            "query_en": "South Korea flag digital security"
-          },
-          {
-            "anchor": "Objetivos e Contexto",
-            "query_en": "cybersecurity AI threat concept"
-          },
-          {
-            "anchor": "Planos Futuros do Comitê",
-            "query_en": "government cybersecurity meeting technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "437c6ffb-336f-43df-85a0-e4181a90488f",
-      "title": "LG Uplus vai conectar fornecedores coreanos de autopeças a montadoras globais",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LG Uplus automotive partners Catena X carbon emissions",
-        "images": [
-          {
-            "anchor": "Parceiros do acordo",
-            "query_en": "Catena-X automotive network logo ecosystem"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b39333d8-6a8c-47a7-a6f5-a6a80ab9f42f",
-      "title": "WhatsMatter vence o prêmio de inovação da CES 2027 com hub para casas inteligentes",
+      "id": "41c6db12-31bc-479e-9c61-b4db5854b1ad",
+      "title": "Preço do urânio atinge recordes com a alta demanda por IA e o retorno da energia nuclear",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "WhatsMatter ModusHome AI Home Core CES 2027 Innovation Award Smart Home",
+        "video_query_en": "uranium price record ai demand nuclear energy comeback",
         "images": [
           {
-            "anchor": "Reconhecimento internacional na CES 2027",
-            "query_en": "CES Innovation Award logo Consumer Technology Association"
+            "anchor": "O boom da inteligência artificial e a pressão no setor elétrico",
+            "query_en": "ai data center server rack room"
           },
           {
-            "anchor": "O dispositivo ModusHome AI Home Core",
-            "query_en": "WhatsMatter smart home edge hub AI"
+            "anchor": "O renascimento nuclear e o papel do Japão",
+            "query_en": "nuclear power plant cooling towers japan"
+          },
+          {
+            "anchor": "Impactos na cadeia de suprimentos e o mercado global de commodities",
+            "query_en": "uranium yellowcake drum mining"
           }
         ]
       }
     },
     {
-      "id": "a8877f52-2596-4d81-9dc7-1dd2a970c837",
-      "title": "A ambição da Coreia do Sul por data centers de gigawatts ainda patina na escala de megawatts",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea data center AI gigawatt megawatt Naver NHN",
-        "images": [
-          {
-            "anchor": "O abismo entre o plano e a realidade na Coreia do Sul",
-            "query_en": "South Korea modern data center building exterior"
-          },
-          {
-            "anchor": "A situação das gigantes locais",
-            "query_en": "server room racks datacenter technology"
-          },
-          {
-            "anchor": "- Naver",
-            "query_en": "Naver headquarters sign building Seongnam South Korea"
-          },
-          {
-            "anchor": "- NHN",
-            "query_en": "NHN Corporation office building South Korea"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fc3942a3-dbc4-4a0e-b868-d3c49aaa1e98",
-      "title": "Empresa suspeita de vazamento no avião presidencial da Coreia do Sul atende setores de energia e segurança nuclear",
+      "id": "c18d4cfe-190c-4a47-896b-024fbad17416",
+      "title": "Apagão da Microsoft causa caos na Ásia e escancara riscos de dependência tecnológica",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "South Korea presidential aircraft security leak cybersecurity",
+        "video_query_en": "Microsoft outage global impact Asia cloud services",
         "images": [
           {
-            "anchor": "Uma Falha de Segurança Alarmente",
-            "query_en": "South Korea presidential aircraft Air Force One"
+            "anchor": "O Impacto da Pane na Ásia",
+            "query_en": "Microsoft office cloud outage data center server"
           },
           {
-            "anchor": "Atuação em Infraestruturas Críticas",
-            "query_en": "South Korea government building Seoul"
-          },
-          {
-            "anchor": "O Korea Power Exchange",
-            "query_en": "Korea Power Exchange building"
-          },
-          {
-            "anchor": "A Korea Foundation of Nuclear Safety",
-            "query_en": "nuclear safety regulatory commission South Korea"
+            "anchor": "Riscos da Centralização em Nuvem",
+            "query_en": "cybersecurity cloud computing server room technology"
           }
         ]
       }
     },
     {
-      "id": "0c1f0860-7d7d-40c6-81fe-b59b986586f5",
-      "title": "Lucro operacional da Mgame no terceiro trimestre cresce 10% e atinge 2,7 bilhões de wons",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Mgame gaming company office and game development",
-        "images": [
-          {
-            "anchor": "Desempenho financeiro do terceiro trimestre",
-            "query_en": "financial report stock market graph growth"
-          },
-          {
-            "anchor": "Estratégias para o quarto trimestre",
-            "query_en": "video game development studio screen"
-          },
-          {
-            "anchor": "Ghost Online Idle",
-            "query_en": "online mobile idle game gameplay"
-          },
-          {
-            "anchor": "Punglimhwasan",
-            "query_en": "classic mmorpg fantasy game art"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e8e49ded-da54-48d1-a609-fd68d52c5367",
-      "title": "Qualitas Semiconductor Expands SK hynix IP Deal to 3.9 Billion Won",
+      "id": "a0fe4f2d-65b4-4835-8b44-28b3db073800",
+      "title": "JD.com conclui aquisição de 1,5 bilhão de dólares da rede alemã Ceconomy",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Qualitas Semiconductor SK hynix semiconductor IP agreement",
+        "video_query_en": "JD.com Ceconomy acquisition retail",
         "images": [
           {
-            "anchor": "Expansão do Acordo de Propriedade Intelectual",
-            "query_en": "SK hynix semiconductor corporate office"
+            "anchor": "Detalhes da operação e expansão na Europa",
+            "query_en": "JD.com e-commerce logistics warehouse"
           },
           {
-            "anchor": "Detalhes da Parceria com a SK hynix",
-            "query_en": "advanced semiconductor silicon wafer"
-          },
-          {
-            "anchor": "Acordo inicial assinado em março",
-            "query_en": "semiconductor technology contract signing"
-          },
-          {
-            "anchor": "Revisão divulgada publicamente em 12 de novembro",
-            "query_en": "business presentation financial growth chart"
-          },
-          {
-            "anchor": "Aumento de cerca de 1,5 bilhão de wons no contrato",
-            "query_en": "south korean won currency banknotes"
-          },
-          {
-            "anchor": "Valor total consolidado em 3,9 bilhões de wons",
-            "query_en": "microchip semiconductor processor close up"
+            "anchor": "Contexto regulatório e o cenário global",
+            "query_en": "MediaMarkt Saturn store electronics retail"
           }
         ]
       }
     },
     {
-      "id": "6beb95f0-2213-43bd-bfb5-cf122ff85a5c",
-      "title": "HIMS desafia o monopólio da Lasertec com inspetor de fotom máscara nacional na Coreia do Sul",
+      "id": "9a8bf0af-1214-4046-85fb-05ebd49bd3f7",
+      "title": "Fornecedora da Honda, Topre investirá US$ 140 milhões nos EUA para nova fábrica e melhorias",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "HIMS Lasertec photomask inspection display equipment",
+        "video_query_en": "Topre US investment auto parts plant hybrid vehicles",
         "images": [
           {
-            "anchor": "A entrada da HIMS no mercado de inspeção",
-            "query_en": "HIMS South Korea equipment factory"
+            "anchor": "Novo investimento no Alabama e no Tennessee",
+            "query_en": "Topre manufacturing plant United States"
           },
           {
-            "anchor": "Aprovação na avaliação da Samsung Display",
-            "query_en": "Samsung Display manufacturing facility"
+            "anchor": "Construção de uma nova fábrica no estado do Alabama.",
+            "query_en": "Alabama automotive manufacturing factory"
+          },
+          {
+            "anchor": "Realização de reformas e melhorias tecnológicas em uma unidade já existente no Tennessee.",
+            "query_en": "Tennessee industrial manufacturing plant"
+          },
+          {
+            "anchor": "O contexto do mercado de híbridos",
+            "query_en": "Hybrid vehicles production assembly line"
           }
         ]
       }
     },
     {
-      "id": "c338c226-ad4e-4819-af41-ebf737fa8d2d",
-      "title": "Telechips registra lucro operacional no terceiro trimestre com alta de 26% na receita",
+      "id": "bf45a92c-88a0-41b6-b5db-c4d3844ac162",
+      "title": "A trégua entre Estados Unidos e China esconde tensões crescentes antes do reencontro entre Xi e Trump na APEC",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Telechips automotive semiconductors financial results",
+        "video_query_en": "US China relations Xi Jinping Donald Trump APEC summit",
         "images": [
           {
-            "anchor": "Fatores que influenciaram o resultado financeiro",
-            "query_en": "automotive semiconductor microchip manufacturing"
+            "anchor": "O cenário de tensões e a busca por estabilidade",
+            "query_en": "Canton Fair Guangzhou trade show China"
+          },
+          {
+            "anchor": "O contexto das negociações e a expectativa da APEC",
+            "query_en": "Xi Jinping Donald Trump meeting APEC"
+          },
+          {
+            "anchor": "O empreendedor Ted viajou mais de 11.000 quilômetros de Utah para participar da Feira de Cantão em Guangzhou.",
+            "query_en": "Canton Fair buyers exhibition hall China"
+          },
+          {
+            "anchor": "A cúpula da APEC em Shenzhen surge como palco para um novo capítulo nas negociações entre Xi Jinping e Donald Trump.",
+            "query_en": "APEC summit venue Shenzhen China"
+          },
+          {
+            "anchor": "Pequim avalia os desdobramentos políticos em Washington após as eleições de meio de mandato para assegurar previsibilidade.",
+            "query_en": "Beijing China skyline government district"
           }
         ]
       }
     },
     {
-      "id": "25abd877-7a5a-4aa0-a4ee-d2b1f39504d5",
-      "title": "Lucro Operacional da QRT Cresce 55% Impulsionado por Testes de Componentes Espaciais",
+      "id": "77ac029d-1278-4444-827b-be19beba26cc",
+      "title": "Tesouro dos EUA comprou quase US$ 500 milhões em ienes durante intervenção cambial em julho",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "QRT semiconductor reliability testing space components",
+        "video_query_en": "US Treasury yen forex intervention Federal Reserve New York",
         "images": [
           {
-            "anchor": "Crescimento Expressivo no Lucro Operacional",
-            "query_en": "semiconductor testing laboratory cleanroom"
+            "anchor": "Detalhes da operação conjunta de julho",
+            "query_en": "Federal Reserve Bank of New York building exterior"
           },
           {
-            "anchor": "Fatores Impulsionadores da Demanda",
-            "query_en": "space component electronic testing satellite"
-          },
-          {
-            "anchor": "Margem Operacional Acima de 10%",
-            "query_en": "advanced glass substrate semiconductor evaluation"
+            "anchor": "Contexto e desafios econômicos",
+            "query_en": "Japanese yen currency banknotes and coins"
           }
         ]
       }
     },
     {
-      "id": "09295523-ca48-4f89-a50d-9c1fc5e6fe8f",
-      "title": "Lideranças da União Europeia realizam primeira cúpula dedicada à Inteligência Artificial em Dublin",
+      "id": "4d3ea9cb-d6e4-4a92-9241-d4ef91443292",
+      "title": "Escândalo da Nvidia gera disputa de culpa em Washington sobre exportação de chips para a China",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "EU leaders AI summit Dublin Artificial Intelligence",
+        "video_query_en": "Nvidia export controls Washington political fallout Jensen Huang",
         "images": [
           {
-            "anchor": "O contexto da primeira cúpula europeia de IA",
-            "query_en": "European Union flags Dublin building"
+            "anchor": "O impacto do escândalo e as pressões governamentais",
+            "query_en": "U.S. Capitol building Washington D.C."
           },
           {
-            "anchor": "Os desafios de financiamento e infraestrutura na Europa",
-            "query_en": "European Council building Brussels"
-          },
-          {
-            "anchor": "Geopolítica e a inclusão da Ucrânia na agenda",
-            "query_en": "Volodymyr Zelenskiy meeting international officials"
+            "anchor": "As repercussões no cenário tecnológico e nos mercados",
+            "query_en": "Nvidia semiconductor microchip AI"
           }
         ]
       }
     },
     {
-      "id": "31dcbe7f-8321-4035-89c6-2a2101c1690a",
-      "title": "Ex-CEO da Nvidia, Jensen Huang, é convocado por legisladores dos EUA após escândalo de espionagem",
+      "id": "ce0d9376-64a0-4acf-96c0-c8d70884dcf7",
+      "title": "WHI, apoiada por Bain e GIC, caminha para o maior IPO do Japão em 2026",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang steps down spy scandal US lawmakers",
+        "video_query_en": "WHI Holdings Tokyo IPO 2026 Bain Capital",
         "images": [
           {
-            "anchor": "Os detalhes das investigações e os envolvimentos",
-            "query_en": "Jensen Huang Nvidia former CEO"
+            "anchor": "Liderança e Apoio de Fundos Globais",
+            "query_en": "Tokyo Stock Exchange building Japan finance"
           },
           {
-            "anchor": "Repercussão e mudanças na liderança da Nvidia",
-            "query_en": "Colette Kress Nvidia interim CEO"
+            "anchor": "- Tomitaro Anzai: Diretor-presidente da WHI Holdings responsável por conduzir a empresa rumo à listagem pública.",
+            "query_en": "Japanese business executive corporate CEO Tokyo"
           },
           {
-            "anchor": "Conexões geopolíticas e desdobramentos internacionais",
-            "query_en": "US Capitol Washington DC"
+            "anchor": "- Bain Capital: Firma global de investimento privado que apoia a estrutura acionária da desenvolvedora de sistemas de RH.",
+            "query_en": "Bain Capital office building corporate finance"
+          },
+          {
+            "anchor": "- GIC: Fundo soberano de Singapura que também injetou suporte financeiro estratégico na companhia.",
+            "query_en": "GIC Singapore sovereign wealth fund"
+          },
+          {
+            "anchor": "Contexto do Mercado de Capitais Japonês",
+            "query_en": "Tokyo Stock Exchange trading floor stock market"
+          },
+          {
+            "anchor": "Expectativas para o Desfecho da Oferta",
+            "query_en": "Japanese corporate finance business meeting Tokyo"
           }
         ]
       }
     },
     {
-      "id": "6e9046bd-6215-4c1a-a7aa-77312284e1ff",
-      "title": "Empresa chinesa ligada a Alice Huang obteve chips proibidos da Nvidia, aponta relatório",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia restricted AI chips China investigation Alice Huang",
-        "images": [
-          {
-            "anchor": "O Papel de Alice Huang e a Shanghai Longteng",
-            "query_en": "Alice Huang tech executive portrait"
-          },
-          {
-            "anchor": "A Rota dos Servidores e a Participação de Parceiros",
-            "query_en": "Dell Technologies server hardware rack"
-          },
-          {
-            "anchor": "Contexto das Restrições e Consequências Políticas",
-            "query_en": "US Capitol building Washington DC"
-          },
-          {
-            "anchor": "Desdobramentos Adicionais na Indústria",
-            "query_en": "Nvidia logo corporate headquarters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ddd0d392-b5db-4eb0-a0d0-91ce5d30a53e",
-      "title": "Após renúncia: Jensen Huang e a Nvidia enfrentam tempos turbulentos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia future challenges analysis",
-        "images": [
-          {
-            "anchor": "Um legado pesado para a nova liderança",
-            "query_en": "Nvidia corporate headquarters and leadership"
-          },
-          {
-            "anchor": "Obstáculos que ameaçam as vendas",
-            "query_en": "Nvidia graphics cards and hardware production"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d4061c15-05bf-451a-829c-f7728f0c074f",
-      "title": "Versão original de Star Wars retorna aos cinemas em 2027",
+      "id": "9cefff3d-4b89-4f17-8164-2a88feb7c225",
+      "title": "Cresce na Coreia do Sul a aceitação e o amor pela cultura pop japonesa, antes considerada um tabu",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Star Wars original 1977 theatrical cut return to cinemas",
+        "video_query_en": "Takuya Kimura South Korea concert J-pop culture",
         "images": [
           {
-            "anchor": "O Retorno da Versão Original",
-            "query_en": "Star Wars 1977 original theatrical poster"
+            "anchor": "O sucesso histórico de Takuya Kimura em Seul",
+            "query_en": "Takuya Kimura concert Seoul"
           },
           {
-            "anchor": "O filme original de 1977 volta aos cinemas.",
-            "query_en": "Star Wars Episode IV a new hope vintage cinema screen"
+            "anchor": "O impacto da evolução nas relações bilaterais",
+            "query_en": "Japan South Korea cultural exchange concert"
+          },
+          {
+            "anchor": "A expansão da influência cultural japonesa na Ásia",
+            "query_en": "Japanese pop culture fans Asia"
+          },
+          {
+            "anchor": "O papel das gerações mais velhas",
+            "query_en": "Older audience South Korea concert"
           }
         ]
       }
     },
     {
-      "id": "f1ce2de7-113d-460c-b2de-1e0757cc7ab4",
-      "title": "Alemanha amplia poderes de inteligência e serviços de segurança no Bundestag",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "German Bundestag intelligence services reform BND Verfassungsschutz",
-        "images": [
-          {
-            "anchor": "O novo papel do BND e do Verfassungsschutz",
-            "query_en": "German Federal Intelligence Service BND building Berlin"
-          },
-          {
-            "anchor": "Atuação preventiva direta em cenários de sabotagem iminente mapeados pelos analistas de segurança.",
-            "query_en": "cybersecurity operations center screens monitoring threats"
-          },
-          {
-            "anchor": "Maior integração e compartilhamento de dados estratégicos entre o BND e o Verfassungsschutz.",
-            "query_en": "data servers security network analytics"
-          },
-          {
-            "anchor": "Ampliação dos mecanismos de monitoramento em ambientes digitais para identificar ameaças antes que se concretizem.",
-            "query_en": "digital surveillance code matrix screens"
-          },
-          {
-            "anchor": "Reforço na proteção de infraestruturas críticas contra ataques híbridos e cibernéticos.",
-            "query_en": "critical infrastructure power grid substation security"
-          },
-          {
-            "anchor": "Desafios e debates sobre a reforma",
-            "query_en": "German Bundestag parliament building exterior Berlin"
-          }
-        ]
-      }
-    },
-    {
-      "id": "92fb6890-d821-4760-ad06-19aeb669cf7f",
-      "title": "Smartwatch Garmin Instinct 3 em oferta especial na Amazon",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Garmin Instinct 3 review AMOLED GPS",
-        "images": [
-          {
-            "anchor": "Principais recursos da Garmin Instinct 3",
-            "query_en": "Garmin Instinct 3 smartwatch display"
-          },
-          {
-            "anchor": "O impacto da oferta no mercado",
-            "query_en": "Garmin Instinct 3 outdoor sports"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5f7e952d-29e1-4821-8aa7-53afb91cc03b",
-      "title": "Quase 5.000 pessoas trabalharam no desenvolvimento de GTA 6, revela a Rockstar Games",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 development scale Rockstar Games",
-        "images": [
-          {
-            "anchor": "Uma estrutura global e descentralizada",
-            "query_en": "Rockstar Games office building exterior"
-          },
-          {
-            "anchor": "O papel de uma liderança centralizada",
-            "query_en": "video game developers working on computers"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c0d0b14d-a65b-46e3-9975-beaede0df880",
-      "title": "Pesquisa do Golem revela qual é a versão do Windows favorita da comunidade",
+      "id": "8caece5b-32ee-4603-8ceb-d2d845ef0bfe",
+      "title": "Pane global da Microsoft afeta empresas e companhias aéreas na Índia e serviços públicos no mundo",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "history of Microsoft Windows versions Golem survey",
+        "video_query_en": "Microsoft global cloud outage business impact news",
         "images": [
           {
-            "anchor": "A escolha da comunidade alemã",
-            "query_en": "Microsoft Windows desktop operating system interface"
+            "anchor": "Impacto nas empresas e companhias aéreas indianas",
+            "query_en": "Microsoft outage airport flight board support desk"
           },
           {
-            "anchor": "Detalhes da votação e repercussão",
-            "query_en": "person using computer keyboard typing"
+            "anchor": "O diagnóstico e o processo de recuperação da Microsoft",
+            "query_en": "Microsoft corporate office building exterior sign"
+          },
+          {
+            "anchor": "Reflexos em serviços públicos internacionais",
+            "query_en": "National Health Service UK hospital building"
+          },
+          {
+            "anchor": "Opiniões e alertas de líderes da indústria",
+            "query_en": "Cybersecurity expert working on computers in office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "42dc4457-78d8-4d69-b887-7e73b0be13aa",
+      "title": "A liderança intransigente de Dario Amodei na Anthropic e seus riscos",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anthropic leadership Dario Amodei analysis",
+        "images": [
+          {
+            "anchor": "O papel do foco centralizado na tecnologia",
+            "query_en": "Artificial intelligence development tech office"
+          },
+          {
+            "anchor": "Os riscos da inflexibilidade gerencial",
+            "query_en": "Silicon Valley corporate governance meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b54e07d5-91ed-4b59-8f11-3d9800ec37ff",
+      "title": "TechniSat Digitradio 550 IR com rádio via internet e DAB+ está em promoção na Amazon",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "TechniSat Digitradio 550 IR review",
+        "images": [
+          {
+            "anchor": "Desconto no TechniSat Digitradio 550 IR",
+            "query_en": "TechniSat Digitradio 550 IR internet radio"
+          },
+          {
+            "anchor": "Funcionalidades de recepção sonora",
+            "query_en": "digital radio DAB plus antenna"
+          },
+          {
+            "anchor": "Acessibilidade e mercado",
+            "query_en": "Amazon package delivery box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d4fb337-7701-47a7-ac51-5a89c1e3c9b1",
+      "title": "ISO 27001: Fundamentos para um ISMS Seguro e Certificação",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ISO 27001 information security management system introduction",
+        "images": [
+          {
+            "anchor": "O Papel da Golem Karrierewelt e Server-Applikationen",
+            "query_en": "server room security infrastructure data center"
+          },
+          {
+            "anchor": "Objetivos do Workshop de Dois Dias",
+            "query_en": "professional online training seminar cybersecurity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "693d6318-5242-49f7-9577-e72d8bc08531",
+      "title": "Bosch Pro Drehschlagschrauber é encontrado na Amazon por preço abaixo da média de mercado",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bosch Professional GDX 18V-285 review test",
+        "images": [
+          {
+            "anchor": "Oferta na Amazon e comparativo de preços",
+            "query_en": "Amazon warehouse logistics packages"
+          },
+          {
+            "anchor": "Bosch Professional GDX 18V-285: Aparafusador de impacto sem fio de 18 volts.",
+            "query_en": "Bosch Professional GDX 18V 285 impact driver"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e276018a-53eb-4ddb-906b-0b50b4d7635a",
+      "title": "Estudo sobre transição energética aponta que importância de energias fósseis é superestimada",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "energy transition fossil fuels energy losses study",
+        "images": [
+          {
+            "anchor": "O Problema das Perdas de Energia",
+            "query_en": "solar energy panels transition clean power"
+          },
+          {
+            "anchor": "A Necessidade de Mudanças na Política Energética",
+            "query_en": "renewable energy policy planning sustainability"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff4d509b-cd5e-49e5-963e-45652530124b",
+      "title": "Placas de vídeo GeForce RTX 5090 chegam a superar 50 mil ienes no Japão: entenda a variação de preço",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GeForce RTX 5090 graphics card review price Akihabara Japan",
+        "images": [
+          {
+            "anchor": "O cenário em Akihabara e os preços da GeForce RTX 5090",
+            "query_en": "Akihabara electronics district Tokyo storefronts"
+          },
+          {
+            "anchor": "Fatores por trás da variação de valores",
+            "query_en": "High end graphics card cooling system heatsink"
+          },
+          {
+            "anchor": "Impacto no mercado de PCs de alto desempenho",
+            "query_en": "Extreme gaming PC build with powerful GPU"
+          },
+          {
+            "anchor": "Modelos topo de linha da GeForce RTX 5090 alcançam patamares superiores a 500 mil ienes nas lojas físicas e virtuais especializadas.",
+            "query_en": "NVIDIA GeForce RTX high end graphics card box"
+          },
+          {
+            "anchor": "A disparidade de valores entre diferentes fabricantes e versões de placas com a mesma GPU principal gera dúvidas nos consumidores sobre o que justifica tal diferença.",
+            "query_en": "Computer hardware retail store shelves Japan"
+          },
+          {
+            "anchor": "O mercado de componentes de ponta enfrenta alta demanda combinada com a restrição de fornecimento inicial típica de lançamentos de grande porte da NVIDIA.",
+            "query_en": "Advanced computer GPU processor chip motherboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f7f5e75e-8150-4fd9-86aa-a608a3e1abf3",
+      "title": "Experiência de um usuário veterano de smartphones dobráveis com o iPhone Duo",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo review foldable smartphone user experience",
+        "images": [
+          {
+            "anchor": "Conforto e utilidade da tela horizontal ampla",
+            "query_en": "wide horizontal screen smartphone display"
+          },
+          {
+            "anchor": "O formato de tela horizontal ampla do 'iPhone Duo' proporciona uma experiência visual diferenciada para o consumo de multimídia.",
+            "query_en": "smartphone playing media video horizontal"
+          },
+          {
+            "anchor": "A navegação em aplicativos e sites se beneficia significativamente do espaço adicional na horizontal.",
+            "query_en": "mobile browser wide screen layout"
+          },
+          {
+            "anchor": "A adaptação de aplicativos ao novo formato ocorreu de maneira fluida durante a rotina diária de testes.",
+            "query_en": "smartphone apps multitasking interface"
+          },
+          {
+            "anchor": "Usabilidade da divisão de tela e multitarefa",
+            "query_en": "split screen multitasking mobile device"
+          },
+          {
+            "anchor": "O recurso de divisão de tela foi posto à prova em cenários de uso simultâneo de múltiplos aplicativos.",
+            "query_en": "two apps open side by side phone"
+          },
+          {
+            "anchor": "A alternância entre janelas e a execução de tarefas paralelas demonstram a eficiência do sistema operacional.",
+            "query_en": "mobile operating system window management"
+          },
+          {
+            "anchor": "Comparado à experiência de uso em smartphones dobráveis tradicionais, o comportamento multitarefa apresenta características próprias.",
+            "query_en": "foldable smartphone dual screen comparison"
+          },
+          {
+            "anchor": "Aspectos físicos e considerações de preço",
+            "query_en": "smartphone design weight premium price"
+          },
+          {
+            "anchor": "O peso do dispositivo foi avaliado criteriosamente durante o transporte e o uso prolongado com apenas uma das mãos.",
+            "query_en": "person holding slim modern smartphone"
+          },
+          {
+            "anchor": "O fator de forma geral exige um período de adaptação para quem já está habituado a outros padrões de design.",
+            "query_en": "smartphone ergonomics and handling"
+          },
+          {
+            "anchor": "O preço cobrado pelo aparelho entra na balança quando comparado aos benefícios práticos entregues no dia a dia.",
+            "query_en": "high end smartphone retail display"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b0f10fd-e415-4f7f-922c-8b1a7943009e",
+      "title": "Anthropic apresenta o Claude Meetings para automatizar atas e documentos em reuniões online",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anthropic Claude Meetings feature overview",
+        "images": [
+          {
+            "anchor": "Disponibilidade e Planos",
+            "query_en": "Google Meet video conference screen"
+          },
+          {
+            "anchor": "Custos e Condições do Beta",
+            "query_en": "business analytics software dashboard"
+          },
+          {
+            "anchor": "Funcionamento na Prática",
+            "query_en": "artificial intelligence assistant virtual meeting"
+          },
+          {
+            "anchor": "Criação Colaborativa e Fim das Anotações Manuais",
+            "query_en": "collaborative white board office meeting"
+          }
+        ]
+      }
+    },
+    {
+      "id": "37cddbd4-0879-4633-915d-84862e1bed63",
+      "title": "Como reviver computadores antigos com o Lubuntu, o sistema leve derivado do Ubuntu",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lubuntu lightweight Linux operating system review",
+        "images": [
+          {
+            "anchor": "Os desafios do Ubuntu em máquinas antigas",
+            "query_en": "Ubuntu Linux desktop interface"
+          },
+          {
+            "anchor": "A proposta do Lubuntu para a renovação de hardware",
+            "query_en": "Lubuntu lightweight desktop environment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "295806a3-bc5c-4cc5-9e1c-8f1e59449913",
+      "title": "Nintendo busca Arquivista Digital para preservar sua rica história na indústria de jogos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nintendo history digital archivist job opening",
+        "images": [
+          {
+            "anchor": "Detalhes da Oportunidade e Benefícios",
+            "query_en": "Nintendo historical hardware and software collection"
+          },
+          {
+            "anchor": "Requisitos Técnicos e Qualificações",
+            "query_en": "Digital archivist working with metadata frameworks"
+          },
+          {
+            "anchor": "Logística do Contrato",
+            "query_en": "Nintendo of America headquarters Redmond Washington"
+          }
+        ]
+      }
+    },
+    {
+      "id": "98b2b2f1-1afb-421b-937c-567ad9857bda",
+      "title": "Após 3 semanas e mais de 451 mil dobras, a dobradiça do iPhone Duo começa a falhar",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone Duo foldable phone hinge durability test CNET",
+        "images": [
+          {
+            "anchor": "Os primeiros sinais de desgaste e a rotina de testes",
+            "query_en": "iPhone Duo foldable phone testing machine CNET lab"
+          },
+          {
+            "anchor": "O comportamento mecânico da dobradiça",
+            "query_en": "iPhone Duo hinge damage close up view"
+          },
+          {
+            "anchor": "Gravidade do problema e contexto de durabilidade",
+            "query_en": "iPhone Duo screen open flat foldable device"
+          }
+        ]
+      }
+    },
+    {
+      "id": "89ad214a-96fa-4f80-82c7-b43cae59b099",
+      "title": "SpaceX tenta feito inédito com primeira tentativa de captura dupla no voo 15 do Starship",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SpaceX Starship launch catch Mechazilla",
+        "images": [
+          {
+            "anchor": "Duas grandes estreias no voo 15",
+            "query_en": "SpaceX Mechazilla launch tower Boca Chica"
+          },
+          {
+            "anchor": "Como acompanhar a transmissão do voo 15",
+            "query_en": "SpaceX Starship rocket flight test space"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13d62683-8e81-435b-b840-aaf05075310b",
+      "title": "Pearl Abyss integra inteligência artificial em todo o seu pipeline de desenvolvimento, incluindo DokeV",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pearl Abyss Crimson Desert DokeV AI development pipeline",
+        "images": [
+          {
+            "anchor": "A expansão da inteligência artificial na Pearl Abyss",
+            "query_en": "Pearl Abyss company logo and headquarters"
+          },
+          {
+            "anchor": "Automatização de tarefas repetitivas ao longo dos projetos.",
+            "query_en": "game development studio office computers"
+          },
+          {
+            "anchor": "O precedente de Crimson Desert e a reação dos jogadores",
+            "query_en": "Crimson Desert gameplay action"
+          },
+          {
+            "anchor": "Impacto no aguardado DokeV",
+            "query_en": "DokeV game trailer colorful world"
+          }
+        ]
+      }
+    },
+    {
+      "id": "00f63a54-cec3-4bfb-9d39-26e50f9cbd86",
+      "title": "Tecnologia de upscaling por IA da Sony no PS5 base coloca o alto preço do PS5 Pro em cheque",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "PlayStation 5 QSSR AI upscaling technology update",
+        "images": [
+          {
+            "anchor": "O avanço do QSSR no PS5 base",
+            "query_en": "PlayStation 5 console and controller setup"
+          },
+          {
+            "anchor": "Marvel's Spider-Man 2",
+            "query_en": "Marvels Spider Man 2 gameplay graphics"
+          },
+          {
+            "anchor": "Control Resonant",
+            "query_en": "Control Resonant game graphics"
+          },
+          {
+            "anchor": "The Finals",
+            "query_en": "The Finals gameplay action"
+          },
+          {
+            "anchor": "Arc Raiders",
+            "query_en": "Arc Raiders game visuals"
+          },
+          {
+            "anchor": "No Man's Sky",
+            "query_en": "No Mans Sky space exploration gameplay"
+          },
+          {
+            "anchor": "Hell Let Loose: Vietnam",
+            "query_en": "Hell Let Loose game combat"
+          },
+          {
+            "anchor": "Declarações dos desenvolvedores sobre a tecnologia",
+            "query_en": "Game developers working on computers"
+          },
+          {
+            "anchor": "O futuro da iniciativa QSSR",
+            "query_en": "PlayStation 5 Pro console hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffd0fba7-e896-4db8-a1ab-e9346333ec34",
+      "title": "Review do Lego Donkey Kong Arcade (#72051): Vale a pena?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lego Donkey Kong Arcade 72051 review build gameplay",
+        "images": [
+          {
+            "anchor": "Recursos e Especificações Técnicas",
+            "query_en": "Lego Donkey Kong Arcade 72051 set details"
+          },
+          {
+            "anchor": "O Processo de Montagem",
+            "query_en": "Lego Donkey Kong Arcade build process bricks"
+          },
+          {
+            "anchor": "Design e Veredito: Deve ser comprado?",
+            "query_en": "Lego Donkey Kong Arcade displayed on shelf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d6e25a26-8b4f-455f-806e-1ba01779dd31",
+      "title": "The Blood of Dawnwalker ganhará modo New Game+ na próxima semana com a atualização 1.2",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Blood of Dawnwalker gameplay New Game+",
+        "images": [
+          {
+            "anchor": "O o que esperar da atualização 1.2",
+            "query_en": "The Blood of Dawnwalker vampire RPG game"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f18476cf-7a29-4b2f-af37-7f0c8504e87a",
+      "title": "Ex-designer de Skyrim admite arrependimento sobre o limite de nível do RPG da Bethesda",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Biggest Lesson Bethesda Learned From Skyrim Bruce Nesmith",
+        "images": [
+          {
+            "anchor": "A Matemática por Trás do Teto de Nível 81",
+            "query_en": "Skyrim character level menu skills"
+          },
+          {
+            "anchor": "A Solução Alternativa no DLC Dragonborn",
+            "query_en": "Skyrim Dragonborn DLC Dragon Soul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa2fc1e4-f600-40a1-a1a4-90fb8ed2fee9",
+      "title": "Best Buy lança oferta de Black Friday, mas este é o único controle que vale a pena antes de GTA 6",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nacon Revolution X Unlimited review and features",
+        "images": [
+          {
+            "anchor": "O controle Nacon Revolution X Unlimited em oferta",
+            "query_en": "Nacon Revolution X Unlimited controller box and device"
+          },
+          {
+            "anchor": "O que vem na caixa e as opções de compra",
+            "query_en": "Nacon Revolution X Unlimited accessories case and charging stand"
+          },
+          {
+            "anchor": "Por que o controle é recomendado para GTA 6",
+            "query_en": "Xbox Series X controller gaming setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45bd95c1-0ded-478e-8dc1-66b2c19c24d5",
+      "title": "CEO da Take-Two afirma que Grand Theft Auto é a propriedade intelectual mais valiosa do entretenimento",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Strauss Zelnick on GTA VI The David Rubenstein Show",
+        "images": [
+          {
+            "anchor": "Uma conversa sobre o tamanho do sucesso e a cautela tradicional",
+            "query_en": "Strauss Zelnick interview David Rubenstein Show"
+          },
+          {
+            "anchor": "A comparação com outros gigantes da indústria",
+            "query_en": "Grand Theft Auto V gameplay and artwork"
+          },
+          {
+            "anchor": "A expectativa para o lançamento e o trabalho da Rockstar",
+            "query_en": "Rockstar Games logo and headquarters"
           }
         ]
       }
@@ -744,47 +801,67 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "661e8a75-d312-4c92-b133-eb7386d897e0",
-      "title": "Apesar de prometer não trabalhar sem Kojima, dublador japonês de Snake quer novo Metal Gear",
-      "category": "Games",
+      "id": "9acef08b-6d35-46c9-bee5-e26eec4b43d5",
+      "title": "O novo dispositivo de casa inteligente da Apple pode representar um risco ainda maior que o iPhone Duo",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Akio Otsuka Metal Gear Solid interview Bunshun",
+        "video_query_en": "Apple smart home hub rumored device preview",
         "images": [
           {
-            "anchor": "Uma trajetória marcante ao lado de Hideo Kojima",
-            "query_en": "Hideo Kojima Death Stranding Tokyo Game Show"
+            "anchor": "Um mercado estabelecido com forte concorrência",
+            "query_en": "Amazon Echo Show smart display device"
           },
           {
-            "anchor": "A promessa de não trabalhar sem Kojima",
-            "query_en": "Akio Otsuka voice actor Metal Gear"
+            "anchor": "Inteligência artificial e o desafio do uso prático",
+            "query_en": "Apple HomePod smart speaker"
           },
           {
-            "anchor": "O apelo por um novo jogo para os fãs",
-            "query_en": "Metal Gear Solid Konami game art"
+            "anchor": "O abismo conceitual em relação a outros lançamentos",
+            "query_en": "Apple iPhone smartphone display"
+          },
+          {
+            "anchor": "Outros destaques do ecossistema Apple",
+            "query_en": "Apple Mac mini desktop computer"
           }
         ]
       }
     },
     {
-      "id": "5cdb9244-979d-45e5-84f5-8c622d5321ee",
-      "title": "Análise: Kingdom Hearts Collection I~III para PS5 é um excelente pacote para novatos, mas decepciona veteranos",
-      "category": "Games",
+      "id": "5818d512-dd6e-447e-a262-00af7ef88317",
+      "title": "Tudo sobre o iPhone 18 Pro e Pro Max: o que muda em câmeras, chip e bateria",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Kingdom Hearts Collection I III PS5 review gameplay",
+        "video_query_en": "iPhone 18 Pro Max review design camera test",
         "images": [
           {
-            "anchor": "O Conteúdo do Pacote",
-            "query_en": "Kingdom Hearts Collection PS5 games lineup"
+            "anchor": "O novo design e as opções de cores",
+            "query_en": "iPhone 18 Pro colors unibody design"
           },
           {
-            "anchor": "Falta de Inovações Técnicas",
-            "query_en": "Kingdom Hearts 1.5 2.5 HD Remix gameplay"
+            "anchor": "Revolução na fotografia com abertura variável",
+            "query_en": "iPhone 18 Pro camera variable aperture lens"
           },
           {
-            "anchor": "Melhorias em Kingdom Hearts III",
-            "query_en": "Kingdom Hearts 3 PS5 gameplay graphics"
+            "anchor": "Desempenho extremo com o chip A20 Pro de 2nm",
+            "query_en": "Apple A20 Pro processor chip architecture"
+          },
+          {
+            "anchor": "Bateria estendida e carregamento mais veloz",
+            "query_en": "iPhone 18 Pro Max battery charging speed"
+          },
+          {
+            "anchor": "Conectividade e modem C2",
+            "query_en": "iPhone 18 Pro internal components teardown"
+          },
+          {
+            "anchor": "Preços, armazenamento e disponibilidade",
+            "query_en": "Apple Store iPhone 18 Pro display setup"
+          },
+          {
+            "anchor": "Problemas relatados e atualizações do iOS 27",
+            "query_en": "iPhone 18 Pro running iOS 27 screen"
           }
         ]
       }
