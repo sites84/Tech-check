@@ -1,843 +1,833 @@
 {
-  "updated_at": "2026-11-14T11:38:07.245Z",
+  "updated_at": "2026-11-14T18:14:59.072Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "372d0244-4d57-435a-9375-33841a848429",
-      "title": "Japão e Filipinas firmam acordo de cooperação para reservas de petróleo",
+      "id": "6f0c58eb-269f-4d8f-af91-8893faf97581",
+      "title": "Filipinas busca acesso emergencial a reservas de petróleo na Indonésia e na Tailândia",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Philippines oil reserve cooperation energy security",
+        "video_query_en": "Philippines Indonesia Thailand oil emergency reserves energy security",
         "images": [
           {
-            "anchor": "Detalhes da Parceria e Apoio Técnico",
-            "query_en": "oil storage tanks facility industrial site"
+            "anchor": "Acordos de intenções para o armazenamento",
+            "query_en": "oil storage tanks facility Southeast Asia"
           },
           {
-            "anchor": "Cronograma e Encontro de Cúpula",
-            "query_en": "Manila skyline government building Philippines"
+            "anchor": "O contexto da segurança energética na ASEAN",
+            "query_en": "ASEAN summit meeting Manila international relations"
           }
         ]
       }
     },
     {
-      "id": "01415e1c-dd7c-48b0-830b-980b1c165714",
-      "title": "Microsoft afirma que serviços foram totalmente restabelecidos após pane global",
+      "id": "f09e021e-cf0f-4e6c-8f40-57226eeb30f8",
+      "title": "Eyeing his legacy, Trump seizes chance for arms talks with Xi and Putin",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft outage recovered global services restored",
+        "video_query_en": "Donald Trump Xi Jinping Vladimir Putin summit arms talks",
         "images": [
           {
-            "anchor": "O fim da pane global",
-            "query_en": "Microsoft corporate headquarters building Seattle"
+            "anchor": "O significado do encontro trilateral",
+            "query_en": "Donald Trump Xi Jinping Vladimir Putin international relations"
           },
           {
-            "anchor": "Impacto nos principais softwares",
-            "query_en": "Microsoft 365 software interface on computer screen"
+            "anchor": "O contexto político é marcado pela derrota de seu partido nas eleições legislativas de novembro de 2026.",
+            "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "Outlook",
-            "query_en": "Microsoft Outlook email app on laptop"
-          },
-          {
-            "anchor": "Teams",
-            "query_en": "Microsoft Teams video conference meeting screen"
-          },
-          {
-            "anchor": "Copilot",
-            "query_en": "Microsoft Copilot artificial intelligence logo interface"
-          },
-          {
-            "anchor": "Histórico e duração da falha",
-            "query_en": "Server room data center technology infrastructure"
+            "anchor": "Desdobramentos regionais e globais",
+            "query_en": "APEC summit leaders meeting Asia"
           }
         ]
       }
     },
     {
-      "id": "5ca4fd46-51ae-4fe0-9469-da01ddc52977",
-      "title": "Eddie Jones promete que o Japão vai dar o seu melhor contra a Inglaterra",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Eddie Jones Japan rugby England Twickenham",
-        "images": [
-          {
-            "anchor": "O retorno de Eddie Jones ao Twickenham",
-            "query_en": "Eddie Jones rugby coach Japan"
-          },
-          {
-            "anchor": "A busca por um novo momento histórico",
-            "query_en": "Japan Brave Blossoms rugby team"
-          }
-        ]
-      }
-    },
-    {
-      "id": "917d2bd9-eecc-420e-a2e1-427f17ac7052",
-      "title": "Ex-CEO da Nvidia, Huang teve relacionamento com uma segunda funcionária, apontam fontes",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO resignation news analysis",
-        "images": [
-          {
-            "anchor": "Novas revelações sobre a saída da liderança",
-            "query_en": "Nvidia corporate headquarters building"
-          },
-          {
-            "anchor": "O impacto na governança corporativa",
-            "query_en": "Business boardroom meeting corporate governance"
-          },
-          {
-            "anchor": "Renúncia anunciada na última quinta-feira após o escândalo inicial",
-            "query_en": "Press conference microphone news announcement"
-          },
-          {
-            "anchor": "O futuro da Nvidia",
-            "query_en": "Microchip processor technology hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4d143cce-4d1d-4ebb-9026-5f0ecc893fdb",
-      "title": "6-year-old Gaza burn victim caught in Israeli dispute over aid",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
-    },
-    {
-      "id": "35428b7d-7d9d-4e17-b9c7-750bc1e3d024",
-      "title": "Capitão da Força Aérea dos EUA é preso em Okinawa por suspeita de dirigir embriagado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US military Okinawa drunk driving arrest Japan",
-        "images": [
-          {
-            "anchor": "A prisão em Okinawa",
-            "query_en": "Okinawa police car Japan street"
-          },
-          {
-            "anchor": "Contexto de tensão e acordos recentes",
-            "query_en": "Tokyo Japan government building cityscape"
-          },
-          {
-            "anchor": "Presença militar americana no Japão",
-            "query_en": "US military base Okinawa Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d9bfe740-5645-4ce1-b646-2a5d13fcfe6e",
-      "title": "Como Trump pode ser tentado a orquestrar um fim para a Guerra da Coreia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Donald Trump North Korea diplomacy foreign policy analysis",
-        "images": [
-          {
-            "anchor": "A busca por um grande acordo na Península Coreana",
-            "query_en": "Donald Trump Kim Jong Un summit meeting"
-          },
-          {
-            "anchor": "O impacto das eleições legislativas",
-            "query_en": "US Capitol building Washington DC politics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "893b1a56-fdff-4561-b03c-0ff3a291bd78",
-      "title": "Samsung anuncia óculos inteligentes desenvolvidos em parceria com a Google, preços e detalhes de lançamento",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Samsung Google smart glasses launch features and design",
-        "images": [
-          {
-            "anchor": "Detalhes de Lançamento e Design",
-            "query_en": "Samsung smart glasses frame design Warby Parker Gentle Monster"
-          },
-          {
-            "anchor": "Especificações Técnicas e Recursos de IA",
-            "query_en": "Snapdragon AR1 Gen 1 smart glasses technology"
-          },
-          {
-            "anchor": "Privacidade e Segurança",
-            "query_en": "smart glasses privacy indicator lights camera"
-          },
-          {
-            "anchor": "Bateria e Preços",
-            "query_en": "smart glasses charging case battery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "789aaf40-22f5-4101-bfe8-5f844fc54d87",
-      "title": "Microsoft confirma recuperação total de serviços após apagão global",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft global outage service restoration explanation",
-        "images": [
-          {
-            "anchor": "Impacto global em múltiplos setores",
-            "query_en": "Microsoft 365 apps on laptop and smartphone screen"
-          },
-          {
-            "anchor": "Cronologia e causa técnica do incidente",
-            "query_en": "Microsoft headquarters building Redmond Washington"
-          },
-          {
-            "anchor": "Situação atual dos serviços e mensagens",
-            "query_en": "Microsoft Outlook email inbox notification on computer"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2020f03c-202c-4e9a-81b4-8014804d329b",
-      "title": "Free-to-Play: Jogos gratuitos oferecem variedade entre combates de tanques e aventuras de anime",
+      "id": "e99978fc-cfb5-45f4-b67c-ba94ab57736d",
+      "title": "GTA 6: Por que trabalhadores do mundo todo querem tirar férias no lançamento",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "free to play games overview gameplay trailer",
+        "video_query_en": "Grand Theft Auto VI release vacation trends",
         "images": [
           {
-            "anchor": "A diversidade do modelo free-to-play",
-            "query_en": "free to play video games gameplay"
+            "anchor": "O impacto do entretenimento na rotina corporativa",
+            "query_en": "corporate office worker looking at calendar"
           },
           {
-            "anchor": "O impacto das plataformas e opções de acesso",
-            "query_en": "gaming platform online multiplayer interface"
+            "anchor": "Funcionários recorrem a férias formais para o período de estreia.",
+            "query_en": "employee planning vacation time on laptop"
+          },
+          {
+            "anchor": "A expectativa em torno de Grand Theft Auto VI",
+            "query_en": "Grand Theft Auto VI promotional art"
           }
         ]
       }
     },
     {
-      "id": "5c165681-41e2-4770-bbfd-51c96f8b5f3b",
-      "title": "Defense Radar: F-15EX e Su-34 em Análise Detalhada",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Defense Radar F 15EX vs Su 34 fighter jets",
-        "images": [
-          {
-            "anchor": "Origens e Relevância dos Caças",
-            "query_en": "F 15EX fighter jet in flight"
-          },
-          {
-            "anchor": "O Papel do Defense Radar",
-            "query_en": "Sukhoi Su 34 military aircraft"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c5b50603-5805-4d4b-ae8c-e77939fef21c",
-      "title": "Como os maintainers de projetos Open Source estão se protegendo contra a avalanche de código gerado por IA",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "AI generated code open source maintainers github",
-        "images": [
-          {
-            "anchor": "O impacto da IA no desenvolvimento aberto",
-            "query_en": "developer reviewing code on computer screen"
-          },
-          {
-            "anchor": "Estratégias de defesa dos maintainers",
-            "query_en": "github repository interface code review"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eaebf3d1-6676-4885-ad24-42dc2340fc9c",
-      "title": "Microsoft explica apagão em serviços como Outlook e Teams",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft server outage outlook teams explanation",
-        "images": [
-          {
-            "anchor": "Detalhes iniciais do incidente",
-            "query_en": "Microsoft servers datacenter hardware"
-          },
-          {
-            "anchor": "Causas descartadas pela empresa",
-            "query_en": "Microsoft 365 logo office"
-          },
-          {
-            "anchor": "Próximos passos e análises",
-            "query_en": "Microsoft Outlook Teams software interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1728e376-46ae-444e-bddf-594be893ff13",
-      "title": "Vodafone lança especial de Black Week com bônus por indicação",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Vodafone Black Week special deals and recommendations",
-        "images": [
-          {
-            "anchor": "A campanha de indicação da Vodafone",
-            "query_en": "Vodafone store branding and telecom logo"
-          },
-          {
-            "anchor": "Condições e participação",
-            "query_en": "Customer service representative talking about internet deals"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1df26667-1579-45ac-b4e9-f0a82c2f5d5d",
-      "title": "Tesla Vende o Cybercab para os Primeiros Clientes Particulares",
+      "id": "8c9ebf3a-be7d-4926-99f3-2c86cbaddae8",
+      "title": "Operadora de rede 50Hertz pede freio de emergência para conexões de baterias na Alemanha",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tesla Cybercab private customer sale autonomous vehicle",
+        "video_query_en": "50Hertz battery storage grid connection power grid Germany",
         "images": [
           {
-            "anchor": "Detalhes da Venda e Limitações de Uso",
-            "query_en": "Tesla Cybercab autonomous robotaxi interior and exterior"
+            "anchor": "O risco do bloqueio de conexões industriais",
+            "query_en": "industrial power grid connection substation Germany"
+          },
+          {
+            "anchor": "A necessidade de novas regras legais",
+            "query_en": "battery energy storage system large scale containers"
           }
         ]
       }
     },
     {
-      "id": "e2d6a05e-2aa6-4d56-a9d6-fc86db6d88c1",
-      "title": "SpaceX realiza novo teste do Starship sem conseguir a recuperação do propulsor",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SpaceX Starship flight test launch booster destruction",
-        "images": [
-          {
-            "anchor": "Detalhes do lançamento e o destino do booster",
-            "query_en": "SpaceX Starship rocket launch pad liftoff"
-          },
-          {
-            "anchor": "O impacto nos testes futuros da empresa",
-            "query_en": "SpaceX Starship rocket preparation at Starbase"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d47276a7-a474-409f-8612-441e95c919de",
-      "title": "Mais de 10.000 voos cancelados após pane técnica nos Estados Unidos",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US aviation technical failure flight cancellations",
-        "images": [
-          {
-            "anchor": "O contexto tecnológico da aviação norte-americana",
-            "query_en": "FAA air traffic control technology"
-          },
-          {
-            "anchor": "Desafios na integração de hardwares e softwares de diferentes gerações",
-            "query_en": "legacy computer systems floppy disk aviation"
-          },
-          {
-            "anchor": "Impactos na operação e na mobilidade",
-            "query_en": "crowded airport terminal flight cancellations"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6cfc96aa-5c7c-4583-93dc-35a79b148d34",
-      "title": "A perspectiva de uma repórter: O Jensen Huang que conheço há mais de 20 anos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia history and Taiwan supply chain DIGITIMES",
-        "images": [
-          {
-            "anchor": "Duas décadas de cobertura na indústria",
-            "query_en": "Monica Chen journalist Taipei tech reporting"
-          },
-          {
-            "anchor": "O valor das parcerias em Taiwan",
-            "query_en": "Taiwan semiconductor supply chain Nvidia partners"
-          },
-          {
-            "anchor": "Desafios e transformações do setor",
-            "query_en": "Jensen Huang Nvidia CEO artificial intelligence conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0f774505-c2be-45f6-8ef1-f762e2d72c47",
-      "title": "Trilha sonora de Pikmin Bloom é adicionada ao aplicativo Nintendo Music",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Music Pikmin Bloom soundtrack update",
-        "images": [
-          {
-            "anchor": "Lista completa de músicas de Pikmin Bloom",
-            "query_en": "Pikmin Bloom mobile game app gameplay"
-          },
-          {
-            "anchor": "Temas festivos e comemorações de aniversário",
-            "query_en": "Pikmin Bloom anniversary event flowers"
-          },
-          {
-            "anchor": "Novidades futuras da franquia",
-            "query_en": "Pikmin 4 Nintendo Switch"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c7617416-cd67-4238-98c1-1dbf9a2ac84f",
-      "title": "Fim de semana chegando: O que a comunidade de jogadores vai aproveitar nestes dias?",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nintendo Switch Ocarina of Time remake sales and updates",
-        "images": [
-          {
-            "anchor": "O sucesso estrondoso de Ocarina of Time",
-            "query_en": "Ocarina of Time remake gameplay Nintendo"
-          },
-          {
-            "anchor": "Novidades em serviços e atualizações de hardware",
-            "query_en": "Nintendo Switch 2 console update"
-          },
-          {
-            "anchor": "Análises e destaques da semana",
-            "query_en": "Pikmin 4 Nintendo Switch 2 Edition"
-          },
-          {
-            "anchor": "Perspectivas e debates na indústria",
-            "query_en": "GTA 6 Leonida anticipation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2465df5a-a337-49de-8e91-84f635a5e6ae",
-      "title": "Votos de casamento com ChatGPT: eficiência ou algo grotesco?",
+      "id": "8d613a5b-c91d-42b2-8a24-e3225354fa02",
+      "title": "OpenAI dissolve sua equipe de robótica e muda estratégia para modelos gerais de inteligência artificial",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "ChatGPT wedding vows debate technology relationships",
+        "video_query_en": "OpenAI robotics team dissolution general AI models",
         "images": [
           {
-            "anchor": "A ascensão dos discursos automatizados",
-            "query_en": "person using smartphone typing wedding vows"
+            "anchor": "Nova estratégia de pesquisa em robótica",
+            "query_en": "OpenAI robotics research lab"
           },
           {
-            "anchor": "O papel da IA no processo criativo",
-            "query_en": "person writing wedding vows in notebook with pen"
-          },
-          {
-            "anchor": "O debate sobre a autenticidade e a falta de atrito",
-            "query_en": "couple having serious conversation at wedding altar"
-          },
-          {
-            "anchor": "Dicas para escrever votos autênticos",
-            "query_en": "bride and groom reading personal wedding vows"
+            "anchor": "Mudança estrutural e foco em modelos gerais",
+            "query_en": "Artificial intelligence model computing hardware"
           }
         ]
       }
     },
     {
-      "id": "92e8fe99-5b14-4742-8c8e-64182ec957e2",
-      "title": "Como assistir à final da Copa do Mundo de Rugby League entre Austrália e Nova Zelândia de graça",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rugby League World Cup final Australia vs New Zealand",
-        "images": [
-          {
-            "anchor": "Quando acontece a partida entre Austrália e Nova Zelândia",
-            "query_en": "Suncorp Stadium Brisbane rugby league"
-          },
-          {
-            "anchor": "Como assistir à final de graça",
-            "query_en": "7plus streaming logo sports"
-          },
-          {
-            "anchor": "Passo a passo para desbloquear e assistir",
-            "query_en": "VPN app running on smartphone or laptop"
-          },
-          {
-            "anchor": "Por que a ExpressVPN se destaca para o 7plus",
-            "query_en": "ExpressVPN app interface on devices"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d1a3913b-7a05-4cd5-af3f-6cda881d73e0",
-      "title": "Sam's Club Black Friday 2026: Veja os anúncios, descontos antecipados e ofertas",
+      "id": "40c23499-7bed-4277-9153-741cd4d3b7a2",
+      "title": "Oferta Antecipada de Black Friday traz Aspirador Tineco com Desconto na Amazon",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Sams Club Black Friday deals shopping guide",
+        "video_query_en": "Tineco wet dry vacuum cleaner review",
         "images": [
           {
-            "anchor": "Melhores ofertas de cozinha",
-            "query_en": "Ninja Crispi 5-in-1 Portable Glass Air Fryer"
-          },
-          {
-            "anchor": "Ninja Crispi 5-in-1 Portable Glass Air Fryer Cooking System por $119.98, economizando $40 em relação ao preço original de $159.98.",
-            "query_en": "Ninja Crispi air fryer appliance"
-          },
-          {
-            "anchor": "Bella Stir XL 6.0-Quart Stand Mixer with Spatula por $99, economizando $30 sobre os $129 habituais.",
-            "query_en": "Bella stand mixer kitchen appliance"
-          },
-          {
-            "anchor": "KitchenAid 7-Quart Bowl-Lift Stand Mixer com tigela de aço inoxidável por $329, garantindo uma economia de $100 em relação aos $429 anteriores.",
-            "query_en": "KitchenAid bowl lift stand mixer"
-          },
-          {
-            "anchor": "Ninja Luxe Café Premier 3-in-1 Espresso, Drip Coffee, and Cold Brew Maker por $449, com desconto de $100 sobre o valor original de $549.",
-            "query_en": "Ninja Luxe Cafe espresso machine"
-          },
-          {
-            "anchor": "Melhores ofertas para a casa",
-            "query_en": "Dyson V8 Cyclone Cordless Vacuum"
-          },
-          {
-            "anchor": "Dyson V8 Cyclone Cordless Vacuum por $249, garantindo uma economia de $150 sobre o preço de $399.",
-            "query_en": "Dyson V8 cordless vacuum cleaner"
-          },
-          {
-            "anchor": "Member's Mark 11-Piece Modern Ceramic Cookware Set por $179.98, reduzido de $19.02 em relação aos $199 originais.",
-            "query_en": "ceramic cookware set kitchen"
-          },
-          {
-            "anchor": "Cuisinart 14-in-1 Space-Saving Digital Air Fryer Oven com panela 2 em 1 de 9x13 polegadas por $119, com economia de $20.77 sobre o valor de $137.77.",
-            "query_en": "Cuisinart digital air fryer oven"
-          },
-          {
-            "anchor": "Melhores ofertas em televisores",
-            "query_en": "Samsung Mini LED 4K smart TV"
-          },
-          {
-            "anchor": "Samsung 55-inch Class M70H Series Mini LED 4K TV por $297.99, economizando $50 em relação aos $347.99 anteriores.",
-            "query_en": "Samsung 55 inch Mini LED 4K TV"
-          },
-          {
-            "anchor": "Samsung 65-inch Class QN70H Series Neo Mini LED 4K TV por $797.99, gerando uma economia de $300 sobre o preço original de $1,097.99.",
-            "query_en": "Samsung Neo Mini LED 4K TV"
-          },
-          {
-            "anchor": "TCL 98-inch Class Q6 Series QLED Smart TV por $1,297.99, com desconto de $300.01 em relação aos $1,598 anteriores.",
-            "query_en": "TCL 98 inch QLED smart TV"
-          },
-          {
-            "anchor": "Melhores ofertas em notebooks",
-            "query_en": "HP OmniBook 3 laptop"
-          },
-          {
-            "anchor": "HP OmniBook 3 16-inch AI PC por $599, apresentando um desconto de $300 sobre o preço de $899.",
-            "query_en": "HP OmniBook 3 AI PC laptop"
-          },
-          {
-            "anchor": "HP 15.6-inch FHD Touch Laptop com 8GB de RAM e 512GB SSD por $499, economizando $50 em relação aos $549.",
-            "query_en": "HP 15.6 inch touch laptop"
-          },
-          {
-            "anchor": "Lenovo IdeaPad Slim 3 15.6-inch FHD Touch Laptop por $549, com desconto de $200 sobre o valor de $749.",
-            "query_en": "Lenovo IdeaPad Slim 3 laptop"
-          },
-          {
-            "anchor": "HP OmniBook 3 17.3-inch FHD AI PC por $649, reduzido em $350 em relação aos $999 originais.",
-            "query_en": "HP OmniBook 3 17.3 inch laptop"
-          },
-          {
-            "anchor": "Melhores ofertas em grandes eletrodomésticos",
-            "query_en": "LG Top Load Washer With Agitator"
-          },
-          {
-            "anchor": "LG 4.1 cu. ft. Top Load Washer With Agitator por $615, proporcionando uma economia de $330 em relação aos $945 originais.",
-            "query_en": "LG top load washer with agitator"
-          },
-          {
-            "anchor": "Samsung 4.4 cu. ft. Top Load Washer com agitador ActiveWave por $525, com desconto de $235 sobre o preço de $760.",
-            "query_en": "Samsung top load washer ActiveWave"
-          },
-          {
-            "anchor": "Samsung 7.4 cu. ft. Electric Dryer com Sensor Dry por $595, economizando $300 em relação aos $895 habituais.",
-            "query_en": "Samsung electric dryer Sensor Dry"
+            "anchor": "Ofertas em Destaque na Amazon",
+            "query_en": "Amazon warehouse logistics building storefront"
           }
         ]
       }
     },
     {
-      "id": "a7effa81-d722-4e08-804a-e217f59e6ea1",
-      "title": "As melhores ofertas antecipadas de TVs para a Black Friday 2026",
-      "category": "Computadores",
+      "id": "7fe7f453-7cbd-4853-ac04-7d3f6957443f",
+      "title": "Ucrânia utiliza tecnologia de satélite israelense para controlar drones após restrições no Starshield",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best early black friday tv deals 2026",
+        "video_query_en": "Ukraine drones satellite communication HiSky Starlink",
         "images": [
           {
-            "anchor": "LG 65-inch C6 OLED 4K TV",
-            "query_en": "LG C6 OLED 4K TV"
+            "anchor": "A alternativa da HiSky nos equipamentos militares",
+            "query_en": "military drone satellite terminal technology"
           },
           {
-            "anchor": "TCL 40-inch Q3CR QLED TV",
-            "query_en": "TCL Q3CR QLED TV"
+            "anchor": "Terminais da HiSky integrados diretamente nos drones",
+            "query_en": "HiSky satellite communication terminal hardware"
           },
           {
-            "anchor": "Outras ofertas de TVs com menos de 50 polegadas",
-            "query_en": "small screen smart tv"
-          },
-          {
-            "anchor": "Ofertas em tamanhos de 50 a 55 polegadas",
-            "query_en": "55 inch 4k smart tv"
-          },
-          {
-            "anchor": "Descontos em modelos de 65 polegadas",
-            "query_en": "65 inch flat screen tv"
-          },
-          {
-            "anchor": "Opções entre 70 e 75 polegadas",
-            "query_en": "75 inch big screen tv"
-          },
-          {
-            "anchor": "Promoções em telas de 80 a 85 polegadas",
-            "query_en": "85 inch massive smart tv"
-          },
-          {
-            "anchor": "Televisores com mais de 85 polegadas",
-            "query_en": "100 inch large smart tv"
+            "anchor": "Os desafios da parceria com a SpaceX",
+            "query_en": "SpaceX Starlink satellite dish equipment"
           }
         ]
       }
     },
     {
-      "id": "665f76df-e1b3-4207-ae29-13092d3a2b54",
-      "title": "Ofertas antecipadas da Black Friday da Samsung trazem descontos em TVs OLED, monitores gamer e smartphones",
+      "id": "e7374cb5-b8ba-4f1f-8402-c5e29d100c30",
+      "title": "Oportunidades em TI: Administração de Sistemas, Redes e Segurança",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "IT jobs system administration network architecture security",
+        "images": [
+          {
+            "anchor": "Áreas de Atuação em Destaque",
+            "query_en": "IT system administration and network security professionals working"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8d14cca1-115d-45f2-9963-ffaede7dd9cb",
+      "title": "Petição inusitada: funcionários da Nvidia e Elon Musk pedem o retorno de Jensen Huang",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia leadership Elon Musk petition",
+        "images": [
+          {
+            "anchor": "O clamor interno e a mobilização externa",
+            "query_en": "Jensen Huang Nvidia headquarters employees"
+          },
+          {
+            "anchor": "A participação de Elon Musk",
+            "query_en": "Elon Musk tech conference speaking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1760dee-ffc2-4836-b8cf-adc3b27bb3b3",
+      "title": "Gemtek volta a dar lucro com expansão de vendas diretas e mira infraestrutura de IA para 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Gemtek networking equipment AI infrastructure optical module",
+        "images": [
+          {
+            "anchor": "Perspectivas para o final do ano e próximos passos",
+            "query_en": "networking equipment manufacturing facility"
+          },
+          {
+            "anchor": "Demanda resiliente por produtos de rede tradicionais no mercado global",
+            "query_en": "telecom networking hardware devices"
+          },
+          {
+            "anchor": "Recuperação gradual das operações de alto valor agregado da empresa",
+            "query_en": "printed circuit board assembly factory"
+          },
+          {
+            "anchor": "Expansão estratégica das vendas voltadas ao fornecimento direto",
+            "query_en": "business analytics financial growth chart"
+          },
+          {
+            "anchor": "Foco em infraestrutura de IA e módulos ópticos para 2027",
+            "query_en": "artificial intelligence data center infrastructure optical modules"
+          }
+        ]
+      }
+    },
+    {
+      "id": "930bd658-4fc3-4ca9-bdb7-5289d91ed5de",
+      "title": "Neousys Technology registra trimestre recorde com alta na demanda por defesa e robótica",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Neousys Technology industrial PC edge AI robotics",
+        "images": [
+          {
+            "anchor": "Fatores de Crescimento e Setores em Alta",
+            "query_en": "industrial computer edge AI hardware"
+          },
+          {
+            "anchor": "Perspectivas para 2027",
+            "query_en": "humanoid robot automation technology"
+          },
+          {
+            "anchor": "Defesa",
+            "query_en": "rugged computer defense technology"
+          },
+          {
+            "anchor": "Edge AI",
+            "query_en": "embedded AI computer hardware"
+          },
+          {
+            "anchor": "AGV e AMR",
+            "query_en": "autonomous mobile robot warehouse AGV"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3bc9c42e-db20-4870-9160-7a0d3178edd6",
+      "title": "Lite-On projeta pedidos de servidores de IA até 2028 com a transformação do mercado de energia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lite-On AI server power systems 800V DC",
+        "images": [
+          {
+            "anchor": "Projeções de receita e sistemas de energia de IA",
+            "query_en": "Lite-On AI server power supply technology"
+          },
+          {
+            "anchor": "O impacto das especificações de 800V DC",
+            "query_en": "800V DC power architecture data center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3e6ed79-8cd7-4829-ae8f-3d64a886a62c",
+      "title": "Lite-On aposta em satélites LEO e servidores de IA para impulsionar a computação de borda",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Lite-On AI server edge computing LEO satellites",
+        "images": [
+          {
+            "anchor": "Reestruturação e nova divisão estratégica",
+            "query_en": "Lite-On Technology corporate office building"
+          },
+          {
+            "anchor": "Perspectivas de receita e novos mercados",
+            "query_en": "LEO satellite constellation in Earth orbit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0e6fdb81-ae86-41f0-a5b9-3132dc3765fc",
+      "title": "Por que uma cidade de Dakota do Norte apoiou o desenvolvimento de data centers de IA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI data center local referendum US election 2026",
+        "images": [
+          {
+            "anchor": "O panorama dos referendos locais nos Estados Unidos",
+            "query_en": "US midterm elections voting booth 2026"
+          },
+          {
+            "anchor": "A exceção de Harwood em Dakota do Norte",
+            "query_en": "North Dakota landscape town"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49770170-484b-43d6-8864-cbd30ee9dadb",
+      "title": "Hoya não deve conseguir atender a pedido total de máscaras EUV da Samsung para 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung EUV lithography semiconductor manufacturing",
+        "images": [
+          {
+            "anchor": "O desafio na fabricação de semicondutores avançados",
+            "query_en": "advanced semiconductor cleanroom EUV lithography"
+          },
+          {
+            "anchor": "A resposta da Hoya à Samsung",
+            "query_en": "Hoya corporation semiconductor photomask blank"
+          },
+          {
+            "anchor": "Cenário para a indústria de alta tecnologia",
+            "query_en": "Samsung Electronics semiconductor manufacturing facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffdc0301-ab79-43b8-bf1f-4d12ac2316ac",
+      "title": "Xilect, joint venture de chips para robôs da MetaX e UBTech, capta 500 milhões de iuanes para concorrer com a Nvidia Thor",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "humanoid robot chip artificial intelligence Nvidia Thor benchmark",
+        "images": [
+          {
+            "anchor": "O propósito da Xilect e o desafio à Nvidia Thor",
+            "query_en": "humanoid robot technology computing platform"
+          },
+          {
+            "anchor": "- MetaX:",
+            "query_en": "computer GPU semiconductor chip technology"
+          },
+          {
+            "anchor": "- UBTech Robotics:",
+            "query_en": "humanoid robot advanced engineering technology"
+          },
+          {
+            "anchor": "- Xilect:",
+            "query_en": "artificial intelligence microchip processor"
+          }
+        ]
+      }
+    },
+    {
+      "id": "02607e10-ad89-463e-90f2-a646cdb96c5f",
+      "title": "Foxconn aposta em chiplets automotivos com empacotamento RDL de 5&mu;m",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Foxconn advanced packaging fan out RDL technology",
+        "images": [
+          {
+            "anchor": "Estratégia no Hon Hai Tech Day 2026",
+            "query_en": "Hon Hai Tech Day Foxconn technology exhibition"
+          },
+          {
+            "anchor": "Foco em mercados exigentes",
+            "query_en": "automotive chiplets advanced semiconductor packaging"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a631ebe1-6f93-4922-b0a1-d915595daa3e",
+      "title": "AUO Mobility Solutions vai exibir cockpit inteligente de próxima geração na CES 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AUO Mobility Solutions smart cockpit CES",
+        "images": [
+          {
+            "anchor": "O tema Intelligence in Motion",
+            "query_en": "AUO Mobility Solutions smart cockpit display"
+          },
+          {
+            "anchor": "Foco em soluções de mobilidade",
+            "query_en": "AU Optronics automotive display technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd55fc0b-5e5e-4e53-bf34-e467061734dc",
+      "title": "Hengs e Unitech lançam projeto de armazenamento de energia de 5,04MW/10,03MWh",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "industrial energy storage system factory installation",
+        "images": [
+          {
+            "anchor": "O contexto de alta demanda energética",
+            "query_en": "modern printed circuit board manufacturing facility interior"
+          },
+          {
+            "anchor": "Detalhes técnicos do projeto em Yilan",
+            "query_en": "large scale industrial lithium ion battery energy storage container"
+          },
+          {
+            "anchor": "Capacidade de potência de 5,04MW para suporte imediato à demanda fabril.",
+            "query_en": "industrial electrical power substation equipment"
+          },
+          {
+            "anchor": "Armazenamento de 10,03MWh para gestão eficiente de carga e pico energético.",
+            "query_en": "commercial energy storage system battery racks"
+          },
+          {
+            "anchor": "Localização estratégica na planta de Yilan da Unitech.",
+            "query_en": "modern industrial manufacturing plant exterior building Taiwan"
+          },
+          {
+            "anchor": "Parceria firmada entre a Hengs Technology e a Unitech Printed Circuit Board.",
+            "query_en": "business partnership handshake corporate meeting technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c74223d-1ca7-4f33-b725-2bb1517173c2",
+      "title": "Netflix anuncia reajuste de preços no Japão com aumento em todos os planos",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung early Black Friday deals 2026",
+        "video_query_en": "Netflix price increase Japan streaming service",
         "images": [
           {
-            "anchor": "Melhores ofertas em televisores Samsung",
-            "query_en": "Samsung OLED 4K TV"
+            "anchor": "Novos Valores dos Planos",
+            "query_en": "Netflix app on smartphone screen"
           },
           {
-            "anchor": "Samsung 65-Inch Class S85H Series OLED 4K TV por $899.99 (economia de $698 sobre o preço original de $1,597.99)",
-            "query_en": "Samsung S85H OLED TV"
+            "anchor": "Plano com anúncios (Ad-supported standard): O valor mais em conta passou a custar 990 ienes mensais.",
+            "query_en": "Netflix subscription plans pricing screen"
           },
           {
-            "anchor": "Monitores gamer em promoção",
-            "query_en": "Samsung Odyssey OLED gaming monitor"
+            "anchor": "Plano Premium (4K/HDR): A modalidade com a maior resolução disponível, suporte a 4K e HDR, foi reajustada para 2.590 ienes mensais.",
+            "query_en": "4K HDR TV streaming show"
           },
           {
-            "anchor": "Samsung 27-inch Odyssey OLED G5 por $319.99 (economia de $180 em relação ao preço de $499.99)",
-            "query_en": "Samsung Odyssey OLED G5"
-          },
-          {
-            "anchor": "Descontos em smartphones desbloqueados",
-            "query_en": "Samsung Galaxy S26 Ultra"
-          },
-          {
-            "anchor": "Samsung Galaxy S26 Ultra (256GB) por $971 no Walmart (economia de $51.99 sobre o valor de $1,022.99)",
-            "query_en": "Samsung Galaxy S26 Ultra smartphone"
-          },
-          {
-            "anchor": "Armazenamento SSD para alta performance",
-            "query_en": "Samsung SSD 990 PRO"
-          },
-          {
-            "anchor": "Samsung SSD 990 PRO 2TB por $389.99 (economia de $250 sobre o preço de $639.99)",
-            "query_en": "Samsung 990 PRO 2TB SSD"
+            "anchor": "Contexto e Evolução dos Preços",
+            "query_en": "Person watching Netflix on tablet"
           }
         ]
       }
     },
     {
-      "id": "64706746-1f71-42ae-860b-aa731c7935a0",
-      "title": "The ultimate Christmas movie streaming list",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "fed5eda7-adcd-463b-a11f-764e76acab67",
-      "title": "Ofertas antecipadas da Black Friday já trazem descontos para Nintendo Switch 2 e acessórios",
+      "id": "32b1e439-eddd-45cf-9f3c-885c61ebb01e",
+      "title": "Opinião: Como a Nintendo conseguiu melhorar ainda mais o melhor momento de Ocarina of Time",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nintendo Switch 2 early Black Friday deals and storage upgrades",
+        "video_query_en": "The Legend of Zelda Ocarina of Time Master Sword scene comparison remake",
         "images": [
           {
-            "anchor": "## O cronograma oficial da Nintendo",
-            "query_en": "Nintendo Switch 2 console promotional display"
+            "anchor": "Uma nova perspectiva para um clássico intemporal",
+            "query_en": "Link pulling Master Sword Temple of Time Zelda"
           },
           {
-            "anchor": "## Melhores ofertas de consoles Nintendo disponíveis agora",
-            "query_en": "Nintendo Switch 2 standard model console"
+            "anchor": "A expansão cinematográfica do Templo do Tempo",
+            "query_en": "Ganondorf Ocarina of Time cinematic scene"
           },
           {
-            "anchor": "Nintendo Switch 2",
-            "query_en": "Nintendo Switch 2 console hardware"
+            "anchor": "Detalhes que enriquecem a jornada",
+            "query_en": "Kokiri Forest Great Deku Tree Zelda Ocarina of Time"
           },
           {
-            "anchor": "Nintendo Switch (Renovado)",
-            "query_en": "Original Nintendo Switch console"
-          },
-          {
-            "anchor": "Nintendo Switch OLED (Renovado)",
-            "query_en": "Nintendo Switch OLED model"
-          },
-          {
-            "anchor": "Nintendo Switch 2 System (Caixa Aberta)",
-            "query_en": "Nintendo Switch 2 retail box"
-          },
-          {
-            "anchor": "## Soluções de armazenamento para o Nintendo Switch 2",
-            "query_en": "SanDisk microSD Express Card for Nintendo"
-          },
-          {
-            "anchor": "SanDisk 512GB microSD Express Card",
-            "query_en": "SanDisk 512GB microSD memory card"
-          },
-          {
-            "anchor": "Samsung P9 Express 256GB microSDXC card",
-            "query_en": "Samsung microSD Express memory card"
-          },
-          {
-            "anchor": "Samsung P9 Express 512GB microSDXC card",
-            "query_en": "Samsung 512GB microSDXC card"
-          },
-          {
-            "anchor": "Lexar PLAY PRO 512GB microSD Express card",
-            "query_en": "Lexar PLAY PRO 512GB microSD card"
-          },
-          {
-            "anchor": "## Descontos em jogos e títulos de destaque",
-            "query_en": "Nintendo Switch game cartridges and cases"
-          },
-          {
-            "anchor": "Pokémon Legends: Z-A",
-            "query_en": "Pokemon Legends ZA game cover artwork"
-          },
-          {
-            "anchor": "Metroid Prime 4: Beyond",
-            "query_en": "Metroid Prime 4 Beyond game"
-          },
-          {
-            "anchor": "Mario Kart World (Switch 2, código digital)",
-            "query_en": "Mario Kart game for Nintendo Switch"
-          },
-          {
-            "anchor": "Pokémon Pokopia (Switch 2, código digital)",
-            "query_en": "Pokemon game software Nintendo"
-          },
-          {
-            "anchor": "## Acessórios e capas de proteção essenciais",
-            "query_en": "Nintendo Switch protective carrying case"
-          },
-          {
-            "anchor": "PowerA Slim Case for Nintendo Switch 2 (Pikachu Storm)",
-            "query_en": "PowerA Pikachu Slim Case for Nintendo Switch"
+            "anchor": "O impacto de Hyrule en ruínas",
+            "query_en": "Ruined Hyrule Castle Town Ocarina of Time"
           }
         ]
       }
     },
     {
-      "id": "75d83e55-225f-45b5-90b7-3b3712034824",
-      "title": "T-Mobile oferece o iPhone 18 Pro de graça em nova promoção antecipada de Black Friday",
+      "id": "36dd702f-750f-4958-b1b0-7c8206dab3ef",
+      "title": "Quais fones de ouvido são melhores para chamadas de voz? Descubra o modelo vencedor nos testes",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "T-Mobile iPhone deal promotion",
+        "video_query_en": "wireless earbuds voice calling test noise reduction comparison",
         "images": [
           {
-            "anchor": "Como resgatar o iPhone 18 Pro sem pagar pelo aparelho",
-            "query_en": "Apple iPhone Pro smartphone"
+            "anchor": "Testes nas ruas de Nova York",
+            "query_en": "New York City street busy traffic urban environment"
           },
           {
-            "anchor": "Mudança para a T-Mobile",
-            "query_en": "T-Mobile store exterior"
+            "anchor": "Modelos avaliados e vencedores",
+            "query_en": "Anker Soundcore Liberty 5 Pro earbuds wireless"
           },
           {
-            "anchor": "Troca de aparelho elegível",
-            "query_en": "used smartphone trade in"
+            "anchor": "Apple AirPods Pro 3",
+            "query_en": "Apple AirPods Pro wireless earbuds"
           },
           {
-            "anchor": "Detalhes do plano de pagamento e taxas obrigatórias",
-            "query_en": "smartphone receipt payment checkout"
+            "anchor": "Sennheiser Momentum True Wireless 5",
+            "query_en": "Sennheiser Momentum True Wireless earbuds"
           },
           {
-            "anchor": "Créditos mensais distribuídos",
-            "query_en": "monthly billing statement phone contract"
+            "anchor": "Anker Soundcore Liberty 5 Pro",
+            "query_en": "Anker Soundcore Liberty wireless earbuds case"
           },
           {
-            "anchor": "Penalidade por rescisão",
-            "query_en": "mobile phone contract cancellation"
-          },
-          {
-            "anchor": "Custos iniciais obrigatórios",
-            "query_en": "paying smartphone sales tax store"
+            "anchor": "JLab Go Pods ANC",
+            "query_en": "JLab budget wireless earbuds"
           }
         ]
       }
     },
     {
-      "id": "74320848-c3e7-480a-b557-19035af9ab45",
-      "title": "Melhores ofertas antecipadas de Black Friday em iPads trazem descontos em modelos Air, Mini e padrão",
+      "id": "af0d8c7d-bb3a-4865-909f-ff7f0c880359",
+      "title": "Deixei meu Apple Watch ouvir minhas conversas por duas semanas e voici o resultado",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple iPad early Black Friday deals 2026",
+        "video_query_en": "Apple Watch Audio Intelligence Siri Recap Live Rewind",
         "images": [
           {
-            "anchor": "Apple iPad Air, de 11 polegadas (M4, Wi-Fi, 128GB)",
-            "query_en": "Apple iPad Air M4 11 inch"
+            "anchor": "Live Rewind: O desafio do gatilho tardio",
+            "query_en": "Apple Watch Live Rewind transcription feature"
           },
           {
-            "anchor": "Apple iPad (A16, Wi-Fi, 128GB)",
-            "query_en": "Apple iPad A16 chip"
+            "anchor": "Siri Recap: Útil em reuniões, instável na vida real",
+            "query_en": "Apple Watch Siri Recap control center"
           },
           {
-            "anchor": "Apple iPad mini (A17 Pro, Wi-Fi, 128GB)",
-            "query_en": "Apple iPad mini A17 Pro"
+            "anchor": "A dificuldade com conversas caóticas e programas de TV",
+            "query_en": "Apple Watch Series 12 on wrist"
+          },
+          {
+            "anchor": "Recomendações para o uso intencional do Siri Recap",
+            "query_en": "Apple Watch Ultra 4 fitness tracker"
+          },
+          {
+            "anchor": "Ativar o recurso antes de reuniões de trabalho, consultas médicas ou outras conversas específicas onde anotações possam ajudar a refrescar a memória posteriormente.",
+            "query_en": "Apple Watch fitness tracking and AI notes"
           }
         ]
       }
     },
     {
-      "id": "96d91e7c-ebbb-410e-adc7-fc0f97bedcdb",
-      "title": "Astrônomos assistem a planeta gigante desaparecer no espaço e descobrem o motivo",
-      "category": "Ciência",
+      "id": "40ca08fe-f815-409b-9dad-d1428e54baf5",
+      "title": "Marvel Legendary 2nd Edition: Uma nova versão para um clássico dos jogos de tabuleiro",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NASA TESS exoplanet transit hot jupiter discovery",
+        "video_query_en": "Marvel Legendary 2nd Edition board game review",
         "images": [
           {
-            "anchor": "O perfil do exoplaneta TOI-2535 b",
-            "query_en": "hot jupiter exoplanet space illustration NASA"
+            "anchor": "Nova máscara, mesma missão",
+            "query_en": "Marvel Legendary 2nd Edition neoprene playmat gameboard"
           },
           {
-            "anchor": "A dinâmica por trás do sumiço",
-            "query_en": "transiting exoplanet light curve NASA TESS"
+            "anchor": "Informações essenciais",
+            "query_en": "Marvel Legendary 2nd Edition box and cards"
           },
           {
-            "anchor": "A descoberta de um segundo mundo oculto",
-            "query_en": "astronomers observing stars telescope night sky"
+            "anchor": "Um ponto de entrada espetacular",
+            "query_en": "Marvel Legendary card game heroes and villains"
+          },
+          {
+            "anchor": "Vale a pena comprar a Marvel Legendary 2nd Edition?",
+            "query_en": "Marvel Legendary 2nd Edition core box setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "83abe7aa-7931-4f63-8584-dac891327d48",
+      "title": "Remake de The Legend of Zelda: Majora's Mask é considerado inevitável por ex-líderes de marketing da Nintendo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Legend of Zelda Majora's Mask remake Ocarina of Time Switch 2",
+        "images": [
+          {
+            "anchor": "## O futuro da franquia após Ocarina of Time",
+            "query_en": "The Legend of Zelda Ocarina of Time Switch 2 gameplay"
+          },
+          {
+            "anchor": "## A opinião dos especialistas da indústria",
+            "query_en": "Kit Ellis and Krysta Yang podcast"
+          },
+          {
+            "anchor": "## A vantagem histórica do reaproveitamento de recursos",
+            "query_en": "The Legend of Zelda Majoras Mask N64 moon"
+          },
+          {
+            "anchor": "## Expectativas e o cronograma de lançamentos da Nintendo",
+            "query_en": "Nintendo Switch 2 console and games"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5dc50ff8-58db-46a3-86d0-f15ee54af284",
+      "title": "O DCU acabou, e agora? Cinco teorias para o futuro da DC Studios",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DCU future James Gunn Jeremy Latcham analysis",
+        "images": [
+          {
+            "anchor": "O Gunn-verse Continua",
+            "query_en": "James Gunn Superman DCU movie"
+          },
+          {
+            "anchor": "Sob o regime anterior, foram lançados três filmes, com destaque para Superman e Clayface, que receberam ampla aceitação do público, enquanto Supergirl teve recepção fraca e foi omitida por Gunn em sua mensagem de despedida.",
+            "query_en": "Superman movie David Corenswet"
+          },
+          {
+            "anchor": "Na televisão, produções como Peacemaker, Lanterns e Creature Commandos obtiveram excelentes notas da crítica, com Lanterns alcançando a marca de 19 milhões de espectadores na HBO.",
+            "query_en": "Peacemaker DC series"
+          },
+          {
+            "anchor": "O próximo filme Man of Tomorrow, com direção do próprio Gunn, tem lançamento programado para 9 de julho de 2027 e trará as marcas do antigo comando.",
+            "query_en": "Man of Tomorrow DC Studios"
+          },
+          {
+            "anchor": "Como Jeremy Latcham atuou como produtor executivo em Guardiões da Galáxia e possui histórico de parceria com Gunn, uma das opções é manter os personagens existentes e acelerar o foco em grandes nomes como Batman e Mulher-Maravilha para cruzamentos em um filme da Liga da Justiça.",
+            "query_en": "Jeremy Latcham producer"
+          },
+          {
+            "anchor": "O Battinson-verse Takes Over",
+            "query_en": "The Batman Robert Pattinson Matt Reeves"
+          },
+          {
+            "anchor": "A sombra de Robert Pattinson como o Cavaleiro das Trevas permanece forte, com o ator programado para retornar em The Batman 2.",
+            "query_en": "The Batman Part II Robert Pattinson"
+          },
+          {
+            "anchor": "A introdução de um novo Batman simultâneo ao de Pattinson, conforme planejado anteriormente para The Brave and the Bold, poderia gerar confusão no público geral e sobreexpor Bruce Wayne.",
+            "query_en": "The Brave and the Bold Batman DCU"
+          },
+          {
+            "anchor": "Latcham poderia optar por expandir a versão de Gotham criada pelo diretor Matt Reeves, cujo primeiro filme superou a bilheteria de Superman e ganhou expansão com a série The Penguin.",
+            "query_en": "The Penguin HBO series Colin Farrell"
+          },
+          {
+            "anchor": "O universo poderia reviver o projeto cancelado sobre o Departamento de Polícia de Gotham City, explorar séries derivadas focadas em Mulher-Gato e Hera Venenosa, e gradualmente introduzir personagens de fora do núcleo do Batman.",
+            "query_en": "Gotham City police station TV series"
+          },
+          {
+            "anchor": "A Fusão entre o Battinson e o Gunn-verse",
+            "query_en": "Justice League movie DC"
+          },
+          {
+            "anchor": "Os principais obstáculos para essa união incluem conciliar o tom caloroso de Superman com a atmosfera fria de The Batman.",
+            "query_en": "Superman and Batman crossover"
+          },
+          {
+            "anchor": "Questões contratuais e práticas também pesam, como negociar contratos de longo prazo com Robert Pattinson e seu elenco composto por nomes como Scarlett Johansson, Sebastian Stan e Colin Farrell.",
+            "query_en": "Robert Pattinson actor portrait"
+          },
+          {
+            "anchor": "Reiniciar Tudo Novamente",
+            "query_en": "DC Studios logo building"
+          },
+          {
+            "anchor": "Cada um dos cenários anteriores carrega o peso de construções alheias que podem não refletir a visão de Latcham, com relatórios indicando que o novo chefe pode simplesmente desmontar o universo atual.",
+            "query_en": "DC Comics cinematic universe"
+          },
+          {
+            "anchor": "Essa abordagem exigiria escalar novos atores para Batman e Superman, marcando a terceira versão distinta de ambos os heróis em pouco mais de uma década.",
+            "query_en": "Superman and Batman comic book art"
+          },
+          {
+            "anchor": "Caso decida por um recomeço total, o lançamento poderia acontecer diretamente com um filme da Liga da Justiça, ignorando histórias de origem já conhecidas pelo público.",
+            "query_en": "Justice League comic book heroes"
+          },
+          {
+            "anchor": "O Retorno do Snyderverse",
+            "query_en": "Zack Snyder Justice League cast"
+          },
+          {
+            "anchor": "Although it is an unlikely scenario, part of the fans used social media to request the return of the Snyderverse with the hashtag #RestoreTheSnyderVerse, dreaming of the return of Ben Affleck, Henry Cavill, and Dwayne Johnson.",
+            "query_en": "Ben Affleck Batman Zack Snyder"
+          },
+          {
+            "anchor": "Apesar de Liga da Justiça de Zack Snyder ter apresentado bom desempenho no streaming, os números não foram colossais a ponto de justificar a continuação daquela narrativa específica.",
+            "query_en": "Henry Cavill Superman"
+          },
+          {
+            "anchor": "A probabilidade de retorno de elementos ligados a Zack Snyder é mínima, mantendo o foco nas decisões que cabem a Jeremy Latcham.",
+            "query_en": "Dwayne Johnson Black Adam"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10602705-6f30-4f28-abd0-8427d533dd37",
+      "title": "CEO da Take-Two critica Anthropic e OpenAI por clones de jogos gerados por IA",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Strauss Zelnick Take Two AI game clones interview",
+        "images": [
+          {
+            "anchor": "A posição da Take-Two sobre propriedade intelectual",
+            "query_en": "Strauss Zelnick Take Two CEO"
+          },
+          {
+            "anchor": "Medidas restritivas e o impacto na indústria",
+            "query_en": "Anthropic Claude AI logo interface"
+          },
+          {
+            "anchor": "Anthropic:",
+            "query_en": "Anthropic office building"
+          },
+          {
+            "anchor": "Addy Osmani:",
+            "query_en": "Addy Osmani software developer"
+          },
+          {
+            "anchor": "OpenAI:",
+            "query_en": "OpenAI ChatGPT logo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f3a10685-68cf-4a77-a223-488068d8dd6b",
+      "title": "Vazamento revela trilha sonora completa de GTA 6 com 34 músicas e grandes artistas",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 album leak tracklist Dua Lipa Lana Del Rey",
+        "images": [
+          {
+            "anchor": "O vazamento do vinil de GTA 6",
+            "query_en": "GTA 6 vinyl record album leak store"
+          },
+          {
+            "anchor": "A tracklist completa do álbum",
+            "query_en": "Grand Theft Auto 6 album tracklist cover"
+          },
+          {
+            "anchor": "Dua Lipa",
+            "query_en": "Dua Lipa portrait singer"
+          },
+          {
+            "anchor": "Lana Del Rey",
+            "query_en": "Lana Del Rey portrait singer"
+          },
+          {
+            "anchor": "Travis Scott",
+            "query_en": "Travis Scott live concert performance"
+          },
+          {
+            "anchor": "Cardi B",
+            "query_en": "Cardi B red carpet portrait"
+          },
+          {
+            "anchor": "Diferença entre trilha sonora e score original",
+            "query_en": "Justice electronic music duo DJ setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f149812f-648d-4e05-b919-d05be0e83597",
+      "title": "A espera de 13 anos por GTA 6 contrasta com o ritmo acelerado dos primeiros 10 jogos da franquia",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Grand Theft Auto evolution history Rockstar Games 1997 to 2009",
+        "images": [
+          {
+            "anchor": "A evolução para o mundo aberto em 3D",
+            "query_en": "Grand Theft Auto 3 2001 gameplay 3D open world"
+          },
+          {
+            "anchor": "A era de ouro dos lançamentos acelerados",
+            "query_en": "Rockstar Games classic GTA era Vice City San Andreas"
+          },
+          {
+            "anchor": "- Vice City em 2002.",
+            "query_en": "Grand Theft Auto Vice City 2002 retro game"
+          },
+          {
+            "anchor": "- San Andreas em 2004.",
+            "query_en": "Grand Theft Auto San Andreas 2004 gameplay"
+          },
+          {
+            "anchor": "- Liberty City Stories em 2005.",
+            "query_en": "Grand Theft Auto Liberty City Stories PSP"
+          },
+          {
+            "anchor": "- Vice City Stories em 2006.",
+            "query_en": "Grand Theft Auto Vice City Stories PlayStation Portable"
+          },
+          {
+            "anchor": "- GTA 4 em 2008.",
+            "query_en": "Grand Theft Auto 4 Liberty City 2008"
+          },
+          {
+            "anchor": "- Episodes from Liberty City em 2009.",
+            "query_en": "Grand Theft Auto Episodes from Liberty City"
+          },
+          {
+            "anchor": "O impacto dos ciclos de desenvolvimento longos",
+            "query_en": "Rockstar Games logo modern office building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "381a9dfc-1c5b-4bcb-bce7-4086c1932dc0",
+      "title": "Pane em rede nos EUA paralisa todos os voos em evento histórico",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US flight ground stop network crash aviation news",
+        "images": [
+          {
+            "anchor": "Uma sexta-feira de caos aéreo nos Estados Unidos",
+            "query_en": "busy airport terminal flight cancellations USA"
+          },
+          {
+            "anchor": "Impacto expressivo nos dados de tráfego",
+            "query_en": "Flightradar24 tracking flight delays screen"
+          },
+          {
+            "anchor": "Um evento raro na história da aviação americana",
+            "query_en": "grounded airplanes lined up airport runway"
+          },
+          {
+            "anchor": "Precedentes históricos de paralisação total",
+            "query_en": "commercial airplanes parked at airport gates"
           }
         ]
       }
@@ -891,75 +881,75 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "6049836d-5b96-47d0-8e05-ec8f5e2f7030",
-      "title": "Tudo sobre o iOS 27: Novidades do Siri AI, recursos de IA, atualizações e compatibilidade",
-      "category": "Smartphones",
+      "id": "2fe13ed0-dc13-4e57-9d27-abd0db125565",
+      "title": "Kingdom Hearts Collection [I~III] chega ao Nintendo Switch 2 com desempenho elogiado",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iOS 27 features review Siri AI and updates",
+        "video_query_en": "Kingdom Hearts Collection Switch 2 gameplay performance",
         "images": [
           {
-            "anchor": "As novidades da versão mais recente e histórico de atualizações",
-            "query_en": "iPhone running iOS update screen"
+            "anchor": "Uma experiência completa no portátil",
+            "query_en": "Nintendo Switch 2 console handheld mode"
           },
           {
-            "anchor": "Siri AI: O novo assistente inteligente",
-            "query_en": "Apple Siri AI interface iPhone"
+            "anchor": "- O primeiro Kingdom Hearts mantém seu charme e mecânicas clássicas de ação.",
+            "query_en": "Kingdom Hearts 1 Sora HD wallpaper"
           },
           {
-            "anchor": "Apple Intelligence em todo o ecossistema de aplicativos",
-            "query_en": "Apple Intelligence features apps iPhone"
+            "anchor": "- Kingdom Hearts Birth By Sleep continua a ser considerado um dos pontos altos da experiência.",
+            "query_en": "Kingdom Hearts Birth by Sleep Aqua Terra Ventus"
           },
           {
-            "anchor": "Mudanças e melhorias em aplicativos essenciais",
-            "query_en": "iPhone apps interface iOS layout"
+            "anchor": "- Kingdom Hearts Dream Drop Distance traz mecânicas inspiradas na captura de monstros.",
+            "query_en": "Kingdom Hearts Dream Drop Distance 3D"
           },
           {
-            "anchor": "Desempenho e velocidade sob o capô",
-            "query_en": "iPhone processor performance chip"
+            "anchor": "- Kingdom Hearts 3 e seu DLC Re Mind representam o ápice técnico e visual da coletânea.",
+            "query_en": "Kingdom Hearts 3 Sora Keyblade action"
           },
           {
-            "anchor": "Segurança infantil e controles parentais",
-            "query_en": "iPhone parental controls screen time"
+            "anchor": "- Os filmes em formato de cutscene de 358/2 Days e Re:coded ganham versatilidade no modo portátil do Switch 2.",
+            "query_en": "Kingdom Hearts 358 2 Days Roxas Axel Xion"
           },
           {
-            "anchor": "Compatibilidade de aparelhos",
-            "query_en": "Multiple iPhone models lineup comparison"
+            "anchor": "Desempenho e espaço de armazenamento",
+            "query_en": "Nintendo Switch 2 dock station"
+          },
+          {
+            "anchor": "O aquecimento ideal para Kingdom Hearts 4",
+            "query_en": "Kingdom Hearts 4 Sora announcement art"
           }
         ]
       }
     },
     {
-      "id": "42db7d63-60d1-48c4-aa94-dbde64b1045b",
-      "title": "Dungeon Crawler Carl ganha novos jogos de tabuleiro e miniaturas para novembro de 2026",
-      "category": "Games",
+      "id": "9a74a8af-0898-49a9-bf44-cb47a011a325",
+      "title": "Jonathan Frakes desmente famoso rumor sobre Star Trek: Primeiro Contato após 30 anos",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Dungeon Crawler Carl Renegade Game Studios Unstoppable Allies Enemies",
+        "video_query_en": "Jonathan Frakes Star Trek First Contact interview rumor Worf",
         "images": [
           {
-            "anchor": "Dungeon Crawler Carl: Unstoppable",
-            "query_en": "Dungeon Crawler Carl Unstoppable game cover art Renegade Game Studios"
+            "anchor": "O contexto da clássica cena espacial",
+            "query_en": "Star Trek First Contact Borg spacewalk scene"
           },
           {
-            "anchor": "Dungeon Crawler Carl RPG: Allies & Enemies",
-            "query_en": "Dungeon Crawler Carl RPG Allies Enemies miniatures pre painted"
+            "anchor": "A verdade sobre a suposta improvisação",
+            "query_en": "Jonathan Frakes director Star Trek"
           },
           {
-            "anchor": "Filhas de Brynhild: Hekla e Eva",
-            "query_en": "Dungeon Crawler Carl miniature Hekla and Eva"
+            "anchor": "O rigor criativo da era Rick Berman",
+            "query_en": "Michael Dorn Worf Star Trek First Contact"
           },
           {
-            "anchor": "Bianca e Prepotente",
-            "query_en": "Dungeon Crawler Carl miniature Bianca and Prepotente"
+            "anchor": "Star Trek: A Nova Geração",
+            "query_en": "Star Trek The Next Generation cast crew"
           },
           {
-            "anchor": "Lucia Mar em suas formas diurna e noturna",
-            "query_en": "Dungeon Crawler Carl miniature Lucia Mar"
-          },
-          {
-            "anchor": "O crescimento contínuo da franquia",
-            "query_en": "Matt Dinniman Dungeon Crawler Carl books"
+            "anchor": "A evolução dos métodos de direção",
+            "query_en": "Star Trek Strange New Worlds Lower Decks crossover"
           }
         ]
       }
