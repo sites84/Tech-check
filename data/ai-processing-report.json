@@ -1,686 +1,791 @@
 {
-  "updated_at": "2026-11-15T06:21:49.292Z",
+  "updated_at": "2026-11-15T12:23:52.282Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "bf943881-0240-4158-b3e2-1503eee8b445",
-      "title": "Empresas japonesas prosperam com o boom da inteligência artificial, mas a incerteza aumenta",
-      "category": "Empresas",
+      "id": "5978ab32-a2e0-4367-a231-06da61f5f94f",
+      "title": "Coreia do Sul investiga primeiro colocado em exame após confissão de fraude com inteligência artificial",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan companies AI boom technology market",
+        "video_query_en": "South Korea AI cheating tax accountant exam",
         "images": [
           {
-            "anchor": "O cenário do boom da inteligência artificial no Japão",
-            "query_en": "Japan corporate technology AI business office"
+            "anchor": "Investigação policial e confissão do candidato",
+            "query_en": "South Korean police officer press conference Seoul"
           },
           {
-            "anchor": "Fatores de preocupação para os analistas",
-            "query_en": "global supply chain raw materials economy analytics"
+            "anchor": "Desempenho extraordinário e suspeitas iniciais",
+            "query_en": "Exam paper test sheet with answers"
           },
           {
-            "anchor": "Impacto direto dos custos de matérias-primas na fabricação de componentes.",
-            "query_en": "raw materials industrial manufacturing components"
-          },
-          {
-            "anchor": "Tensões geopolíticas e conflitos no Oriente Médio que afetam a estabilidade global de suprimentos.",
-            "query_en": "Middle East oil trade global shipping route"
-          },
-          {
-            "anchor": "Desafios logísticos e econômicos ligados diretamente à construção e manutenção de novos data centers.",
-            "query_en": "modern data center server room construction"
-          },
-          {
-            "anchor": "Perspectivas para o mercado corporativo",
-            "query_en": "Tokyo business district corporate skyscrapers finance"
+            "anchor": "O processo de qualificação profissional para contadores fiscais é realizado em duas etapas distintas.",
+            "query_en": "Professional qualification exam room students"
           }
         ]
       }
     },
     {
-      "id": "a7b4b718-0ffc-402b-b1f2-50aabcbf1ab4",
-      "title": "‘Visa of life’ recipient honored for preserving diplomat’s legacy",
+      "id": "1750ae0a-4a39-40b5-b4a9-0eaa6bd86a77",
+      "title": "Na zona de combate, a Ucrânia aposta em drones voadores de evacuação",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Ukraine evacuation drones military battlefield",
+        "images": [
+          {
+            "anchor": "O impacto dos drones no conflito",
+            "query_en": "military drones ukraine war battlefield"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b82387e4-c02f-4d22-b830-2f584bbf6384",
+      "title": "Democratas dos EUA celebram vitória eleitoral histórica, mas lidam com o medo da efemeridade",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US Democrats convention Denver politics election results",
+        "images": [
+          {
+            "anchor": "O triunfo eleitoral em Denver",
+            "query_en": "Denver convention center political gathering"
+          },
+          {
+            "anchor": "Desafios futuros e o fantasma da oportunidade perdida",
+            "query_en": "US Capitol building Washington DC politics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd8c0825-8e66-4c62-a54f-dbffec092c72",
+      "title": "ASEAN reafirma engajamento com Mianmar e busca avançar em plano de paz",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ASEAN summit Manila Myanmar peace plan",
+        "images": [
+          {
+            "anchor": "O panorama da cúpula em Manila",
+            "query_en": "Ferdinand Marcos Jr ASEAN summit Manila"
+          },
+          {
+            "anchor": "Diretrizes e o plano de paz de cinco pontos",
+            "query_en": "ASEAN flags Manila summit"
+          },
+          {
+            "anchor": "Pressões políticas e o futuro das reuniões de alto nível",
+            "query_en": "ASEAN leaders meeting table"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2391d102-e53f-4a32-8386-fee8b2125762",
+      "title": "Agricultor indígena em Taiwan revive cultivo ancestral de milho-óleo resistente a eventos climáticos extremos",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Taiwan indigenous farmer climate resilient millet oil millet",
+        "images": [
+          {
+            "anchor": "O resgate do milho-óleo em Taiwan",
+            "query_en": "Taiwan indigenous farmer harvesting millet field"
+          },
+          {
+            "anchor": "Importância e resistência da planta",
+            "query_en": "traditional oil millet stalks resilience agriculture"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1b1c4be-ad44-4438-8432-bf890c8e70fc",
+      "title": "Cúpula da Francofonia começa em Phnom Penh sob tensão entre Congo e Ruanda",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Francophone summit Phnom Penh Congo Rwanda",
+        "images": [
+          {
+            "anchor": "Abertura em Phnom Penh",
+            "query_en": "Phnom Penh summit venue"
+          },
+          {
+            "anchor": "O Papel da Organização",
+            "query_en": "Organisation Internationale de la Francophonie flag"
+          },
+          {
+            "anchor": "Tensões Regionais e Liderança",
+            "query_en": "Emmanuel Macron French President"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd48f2d1-7f5c-46a5-8a61-0c187d49cee6",
+      "title": "Japão vai propor versão asiática da AIE em cúpula da AZEC",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan Prime Minister Sanae Takaichi energy security AZEC summit",
+        "images": [
+          {
+            "anchor": "Nova proposta energética regional",
+            "query_en": "Manila skyline government summit Philippines"
+          },
+          {
+            "anchor": "Vulnerabilidade das cadeias de suprimento",
+            "query_en": "Middle East oil refinery energy supply"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d96c15d3-3cc0-4ddc-876f-68b61fa7fcdf",
+      "title": "A dor de cabeça agrícola de Chiba causada por pequenos cervos invasores",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Chiba kyon invasive deer Japan wildlife",
+        "images": [
+          {
+            "anchor": "A invasão silenciosa nas colinas de Katsuura",
+            "query_en": "Katsuura Chiba rural landscape rice paddies"
+          },
+          {
+            "anchor": "Monitoramento e comportamento dos cervos",
+            "query_en": "trail camera wildlife monitoring forest Japan"
+          },
+          {
+            "anchor": "Horários de maior atividade dos animais ao longo do dia.",
+            "query_en": "kyon deer China Taiwan small deer"
+          },
+          {
+            "anchor": "Impacto na agricultura local",
+            "query_en": "agricultural damage crops field Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "95bd5c71-e168-4005-bd9a-9a3db1e8f896",
+      "title": "Irã ataca base militar no Bahrein, mas mantém canal aberto para negociações com os Estados Unidos",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Iran drones attack Bahrain military base Riffa",
+        "images": [
+          {
+            "anchor": "O Ataque à Base no Bahrein",
+            "query_en": "Bahrain air base military installation"
+          },
+          {
+            "anchor": "Ação da Guarda Revolucionária",
+            "query_en": "Islamic Revolutionary Guard Corps military emblem Iran"
+          },
+          {
+            "anchor": "Resposta de Defesa e Divergências",
+            "query_en": "Bahrain military defense forces"
+          },
+          {
+            "anchor": "Histórico recente e rota de navegação",
+            "query_en": "Strait of Hormuz cargo ships"
+          },
+          {
+            "anchor": "Posição da Presidência dos Estados Unidos",
+            "query_en": "Donald Trump US flag press briefing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "04883efb-df38-4049-81e2-1c2003570eb8",
+      "title": "Novos caças F-15EX dos Estados Unidos chegam à Base de Kadena em Okinawa",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US F-15EX fighters arrive at Okinawa Kadena Base",
+        "images": [
+          {
+            "anchor": "Chegada dos novos caças a Okinawa",
+            "query_en": "Kadena Air Base Okinawa Japan"
+          },
+          {
+            "anchor": "Substituição da frota anterior de F-15C/D",
+            "query_en": "US Air Force F-15EX fighter jet"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d0cf76b-4fe4-491f-9852-35a080bebf13",
+      "title": "APEC summit in Shenzhen, Indonesia monetary policy, ASEAN diplomacy",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: História da tecnologia"
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
     },
     {
-      "id": "7b9abdeb-4c08-4cd8-93e9-0a123eab1ad3",
-      "title": "Itália propõe status de observador para a Alemanha no programa de caças GCAP",
+      "id": "aa5901d4-eabe-4fb2-ab64-14f064b0d210",
+      "title": "ASEAN falha em avançar na crise de Mianmar e pacto do Mar da China Meridional em cúpula de Manila",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "ASEAN summit Manila international relations Myanmar South China Sea",
+        "images": [
+          {
+            "anchor": "Desafios na cúpula de Manila",
+            "query_en": "Manila skyline government building summit"
+          },
+          {
+            "anchor": "Crise de Mianmar e tensões regionais",
+            "query_en": "Myanmar flag diplomatic meeting"
+          },
+          {
+            "anchor": "Crise em Mianmar e debates sobre reintegração",
+            "query_en": "ASEAN flags meeting room"
+          },
+          {
+            "anchor": "Negociações travadas sobre o pacto do Mar da China Meridional",
+            "query_en": "South China Sea geopolitical map"
+          },
+          {
+            "anchor": "Preocupações contínuas com a névoa de fumaça transfronteiriça entre Indonésia e Singapura",
+            "query_en": "Southeast Asia haze pollution city view"
+          },
+          {
+            "anchor": "Esforços em segurança energética com acordos bilaterais de emergência",
+            "query_en": "Energy security oil pipeline infrastructure"
+          },
+          {
+            "anchor": "Cooperação tecnológica e econômica",
+            "query_en": "Digital trade QR code payment mobile"
+          },
+          {
+            "anchor": "Questões de segurança e alianças externas",
+            "query_en": "Quad leaders meeting international summit"
+          }
+        ]
+      }
+    },
+    {
+      "id": "65676ef6-0ed8-4239-b2bc-660a20f0a5a8",
+      "title": "Erros comuns de liderança na área de TI e como evitá-los",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Global Combat Air Program GCAP fighter jet sixth generation",
+        "video_query_en": "software engineering leadership management mistakes",
         "images": [
           {
-            "anchor": "A proposta italiana para a Alemanha",
-            "query_en": "Italian Defense Minister Rome military meeting"
+            "anchor": "O perigo de continuar programando",
+            "query_en": "software developer working on computer office"
           },
           {
-            "anchor": "O contexto do Global Combat Air Program",
-            "query_en": "Global Combat Air Program GCAP fighter jet model"
+            "anchor": "A falta de alinhamento com o setor comercial",
+            "query_en": "business meeting team collaboration office"
           },
           {
-            "anchor": "Itália através de Roma",
-            "query_en": "Rome Italy defense technology"
-          },
-          {
-            "anchor": "Reino Unido através de Londres",
-            "query_en": "UK military aerospace defense"
-          },
-          {
-            "anchor": "Japão através de Tóquio",
-            "query_en": "Tokyo Japan fighter jet technology"
-          },
-          {
-            "anchor": "A posição do Ministério da Defesa alemão",
-            "query_en": "Boris Pistorius German Defense Minister"
+            "anchor": "Como evitar armadilhas na gestão de tecnologia",
+            "query_en": "it manager leadership corporate meeting"
           }
         ]
       }
     },
     {
-      "id": "f8b5d4dd-99a0-476f-811c-3eaa418efc56",
-      "title": "Conheça Cacao, o Pomerânia afetuoso e cheio de personalidade que busca um novo lar",
-      "category": "Empresas",
+      "id": "5c97dd42-3076-41ef-9533-675e9fc48709",
+      "title": "PC de Performance da Golem recebe desconto de Black November na Systemtreff",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Pomeranian dog rescue transformation",
+        "video_query_en": "Golem Performance PC Systemtreff review hardware",
         "images": [
           {
-            "anchor": "A chegada de Cacao ao abrigo ARK",
-            "query_en": "Pomeranian dog sad shelter"
+            "anchor": "Componentes e Especificações Técnicas",
+            "query_en": "High performance gaming PC hardware components inside case"
           },
           {
-            "anchor": "A transformação e a personalidade atual",
-            "query_en": "Happy fluffy Pomeranian dog running"
+            "anchor": "Placa de vídeo equipada com a tecnologia RX 9070 XT para alto desempenho gráfico",
+            "query_en": "Advanced computer graphics card installed in motherboard"
           },
           {
-            "anchor": "Raça: Pomerânia.",
-            "query_en": "Cute Pomeranian dog portrait"
+            "anchor": "Unidade de armazenamento rápido SSD com capacidade de 2 TB",
+            "query_en": "M2 NVMe SSD storage drive close up"
+          },
+          {
+            "anchor": "Memória RAM totalizando 32 GB para multitarefa avançada",
+            "query_en": "RGB RAM memory sticks on motherboard"
+          },
+          {
+            "anchor": "A Parceria com a Systemtreff",
+            "query_en": "Gaming PC desktop computer setup on desk"
+          },
+          {
+            "anchor": "Disponibilidade e Condições",
+            "query_en": "Modern gaming PC glowing with RGB lights"
           }
         ]
       }
     },
     {
-      "id": "266ec094-1c5d-4d76-bf00-bb738244820e",
-      "title": "A ausência dos Estados Unidos na COP31 e os rumos de um mundo pós-americano",
-      "category": "Ciência",
+      "id": "0fa8989d-6d35-49ef-8a5b-fc1e68b3e20e",
+      "title": "Construindo um Supercomputador em Casa: Um Projeto DIY Inspirado na História da Tecnologia",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "COP31 climate conference Antalya Turkey United States withdrawal",
+        "video_query_en": "how to build a diy supercomputer cluster",
         "images": [
           {
-            "anchor": "O cenário global em Antalya",
-            "query_en": "Antalya Turkey city view international summit venue"
+            "anchor": "O Desafio de Montar uma Máquina Potente",
+            "query_en": "diy computer cluster hardware assembly"
           },
           {
-            "anchor": "O boicote e a retirada dos acordos internacionais",
-            "query_en": "United Nations climate change conference flag room"
+            "anchor": "A Perspectiva Histórica da Computação",
+            "query_en": "retro computer lab supercomputer history"
+          },
+          {
+            "anchor": "Desafios Técnicos e Configuração",
+            "query_en": "server rack cooling cables configuration"
           }
         ]
       }
     },
     {
-      "id": "02314fd9-29e0-4cf3-9e6d-716ba3ce4dd5",
-      "title": "Preocupações surgem após postagens da premiê Sanae Takaichi no X não serem mantidas como registros oficiais",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanae Takaichi X posts government records Japan",
-        "images": [
-          {
-            "anchor": "O uso ativo das redes sociais pela liderança japonesa",
-            "query_en": "Sanae Takaichi speaking press conference Japan"
-          },
-          {
-            "anchor": "Frequência expressiva de publicações",
-            "query_en": "Smartphone showing X social media app"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b370e69c-097c-4713-af44-91c730c01a3f",
-      "title": "Victor Wembanyama e o fascínio por vilões no esporte",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Victor Wembanyama highlights skills defense NBA",
-        "images": [
-          {
-            "anchor": "Habilidades e Desempenho Excepcional",
-            "query_en": "Victor Wembanyama dribbling and shooting 3 pointers"
-          },
-          {
-            "anchor": "A Trajetória e o Papel de Vilão",
-            "query_en": "Victor Wembanyama smiling on court NBA game"
-          }
-        ]
-      }
-    },
-    {
-      "id": "12c879e6-2b8d-486c-94b1-82de1a35ab61",
-      "title": "Austrália e Filipinas fortalecem laços de defesa com foco em segurança regional",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Australia Philippines defense pact China",
-        "images": [
-          {
-            "anchor": "Assinatura do acordo militar em Manila",
-            "query_en": "Australian naval vessel Manila defense signing"
-          },
-          {
-            "anchor": "Desenvolvimento de infraestrutura militar para ampliar a capacidade operacional conjunta e a prontidão das forças armadas de ambas as nações.",
-            "query_en": "Australian and Philippine military personnel joint exercise"
-          },
-          {
-            "anchor": "Aumento da consciência marítima por meio de monitoramento constante e integrado das águas territoriais e internacionais da região.",
-            "query_en": "maritime security patrol vessel ocean surveillance"
-          },
-          {
-            "anchor": "Compartilhamento avançado de informações e inteligência estratégica para subsidiar decisões conjuntas de segurança.",
-            "query_en": "military intelligence officers meeting strategy room"
-          },
-          {
-            "anchor": "Declarações oficiais e visão de futuro",
-            "query_en": "Anthony Albanese Prime Minister Australia press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cb7e6c4e-17a2-4e2a-8e1a-7af71d03e1c7",
-      "title": "Políticas de diversidade ganham nova relevância com a chegada de estrangeiros ao mercado de trabalho do Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "diversity equity and inclusion workplace Japan workforce",
-        "images": [
-          {
-            "anchor": "O cenário de diversidade no Japão",
-            "query_en": "modern Tokyo corporate office workplace diverse employees"
-          },
-          {
-            "anchor": "Os desafios da atração e retenção de talentos",
-            "query_en": "business meeting corporate training Japan office"
-          },
-          {
-            "anchor": "Críticas e os rumos da prática corporativa",
-            "query_en": "business professionals working together in Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "07eca22e-7911-40c5-a7c4-e3374c2ef8e9",
-      "title": "Encontro entre Trump, Putin e Xi promete muito simbolismo e poucos resultados práticos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Trump Putin Xi meeting APEC summit trilateral talks",
-        "images": [
-          {
-            "anchor": "Um encontro inédito na Ásia",
-            "query_en": "APEC summit leaders meeting venue China"
-          },
-          {
-            "anchor": "Simbolismo e preocupações para aliados",
-            "query_en": "Donald Trump Vladimir Putin Xi Jinping geopolitical summit"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bb08309e-73af-4532-a31f-495b8f212166",
-      "title": "Subaru atualiza seu tradicional motor boxer com foco em eficiência e híbridos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Subaru boxer engine hybrid technology development",
-        "images": [
-          {
-            "anchor": "O futuro do motor boxer na eletrificação",
-            "query_en": "Subaru boxer engine design structure"
-          },
-          {
-            "anchor": "Estratégia voltada para o mercado dos Estados Unidos",
-            "query_en": "Subaru car dealership United States"
-          },
-          {
-            "anchor": "Contexto da indústria e novos passos",
-            "query_en": "Subaru manufacturing assembly line Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0dc88ace-1bc5-4fe0-a0cf-73d9619b637d",
-      "title": "A capital da porcelana na China busca o mercado global de luxo após reconhecimento da UNESCO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jingdezhen China porcelain making traditional workshop UNESCO",
-        "images": [
-          {
-            "anchor": "A tradição milenar dos fornos de Jingdezhen",
-            "query_en": "Jingdezhen porcelain artisan painting traditional workshop"
-          },
-          {
-            "anchor": "Produção artesanal de jarros e peças decorativas",
-            "query_en": "Chinese porcelain jar handmade Jingdezhen workshop"
-          },
-          {
-            "anchor": "Expectativas com o selo da UNESCO",
-            "query_en": "Jingdezhen city porcelain heritage China"
-          }
-        ]
-      }
-    },
-    {
-      "id": "883d5b47-6080-4bd5-a6a0-5b584751adbd",
-      "title": "Líderes da ASEAN iniciam cúpulas em Manila em meio a atritos sobre Mianmar e fumaça",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ASEAN summit Manila leaders meeting international relations",
-        "images": [
-          {
-            "anchor": "Desafios regionais e cooperação",
-            "query_en": "ASEAN leaders summit opening ceremony Manila"
-          },
-          {
-            "anchor": "Os impasses históricos e persistentes",
-            "query_en": "ASEAN delegates meeting diplomatic negotiations"
-          },
-          {
-            "anchor": "Perspectivas tecnológicas e econômicas",
-            "query_en": "Southeast Asia digital trade technology meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "84a10612-c393-4f09-b6fd-8b5470f6c497",
-      "title": "A realidade do Sri Lanka contrasta com a nova classificação de renda do Banco Mundial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sri Lanka economy living costs Colombo",
-        "images": [
-          {
-            "anchor": "Uma classificação que surpreende visitantes",
-            "query_en": "Colombo Sri Lanka cityscape"
-          },
-          {
-            "anchor": "O peso do custo de vida para os cidadãos",
-            "query_en": "Sri Lanka supermarket discount prices"
-          },
-          {
-            "anchor": "O contraste com os dados do Banco Mundial",
-            "query_en": "World Bank building sign"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a7dbc6d5-216a-4b22-a3c4-0e5c6db8808b",
-      "title": "Videogames surgem como nova ferramenta de networking corporativo no Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "corporate esports networking Japan business gaming",
-        "images": [
-          {
-            "anchor": "Uma alternativa moderna ao golfe e aos happy hours",
-            "query_en": "business people playing games office networking Japan"
-          },
-          {
-            "anchor": "O impulso da pandemia e a expansão dos esports corporativos",
-            "query_en": "online gaming tournament Tokyo office computers"
-          },
-          {
-            "anchor": "Diversidade de jogos e engajamento profissional",
-            "query_en": "online mahjong competition Tokyo corporate"
-          },
-          {
-            "anchor": "- Mahjong online, que atrai profissionais em torneios digitais estruturados, como o evento realizado em Tóquio em outubro.",
-            "query_en": "online mahjong game screen tournament"
-          },
-          {
-            "anchor": "- Competições de piões de batalha, que resgatam elementos de nostalgia e estimulam a interação rápida e divertida entre participantes.",
-            "query_en": "spinning top battle toy competition Japan"
-          },
-          {
-            "anchor": "- Outras modalidades de esports corporativos promovidas por companhias que veem nos jogos uma ferramenta legítima de recursos humanos e relações públicas.",
-            "query_en": "corporate esports team competition office"
-          },
-          {
-            "anchor": "O futuro da socialização nos escritórios",
-            "query_en": "modern office lounge gaming area Japan company"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6077c078-bbc6-4d38-a359-499fbf858b5e",
-      "title": "Eco&Dream registra alta na receita com expansão da fábrica de Saemangeum",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Eco and Dream battery precursor Saemangeum plant",
-        "images": [
-          {
-            "anchor": "Desempenho financeiro do terceiro trimestre",
-            "query_en": "financial results graph report corporate"
-          },
-          {
-            "anchor": "O papel estratégico da planta de Saemangeum",
-            "query_en": "battery precursor manufacturing facility factory"
-          },
-          {
-            "anchor": "Desafios e perspectivas operacionais",
-            "query_en": "industrial chemical plant operations production line"
-          }
-        ]
-      }
-    },
-    {
-      "id": "59799374-51de-4f11-b7a2-6e8bf288cda6",
-      "title": "LG Energy Solution's Vertech lança novo software de gerenciamento para sistemas ESS",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LG Energy Solution Vertech AEROS In energy storage system software",
-        "images": [
-          {
-            "anchor": "O lançamento da plataforma AEROS In",
-            "query_en": "LG Energy Solution battery energy storage system"
-          },
-          {
-            "anchor": "Foco no mercado norte-americano",
-            "query_en": "North American energy storage facility battery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f5e123e0-fbd7-4ef8-8121-11459e9520e2",
-      "title": "Samsung Medison inaugura nova fábrica em Hongcheon para dobrar capacidade até 2030",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Samsung Medison Hongcheon plant ultrasound equipment",
-        "images": [
-          {
-            "anchor": "Expansão estratégica em Hongcheon",
-            "query_en": "Samsung Medison Hongcheon plant"
-          },
-          {
-            "anchor": "Cerimônia de conclusão e planos futuros",
-            "query_en": "Samsung ultrasound diagnostic equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e4beaf73-0a75-4a8f-a7c5-dee280edb7e6",
-      "title": "KAI expande cooperação na produção do caça KF-21 com a Indonésia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "KAI KF 21 fighter jet production Indonesia",
-        "images": [
-          {
-            "anchor": "Fortalecimento da parceria estratégica",
-            "query_en": "KF 21 fighter jet KAI Indonesia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1d11e411-4dc5-4a25-9243-859559694673",
-      "title": "Hanwha Aerospace é selecionada para projeto de desenvolvimento de motor de aeronave de 10.000 libras",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Hanwha Aerospace aircraft engine development 10000 lbf",
-        "images": [
-          {
-            "anchor": "Detalhes do Projeto e Liderança",
-            "query_en": "Hanwha Aerospace factory and engineers"
-          },
-          {
-            "anchor": "Empresa selecionada: Hanwha Aerospace",
-            "query_en": "Hanwha Aerospace logo and facilities"
-          },
-          {
-            "anchor": "O Significado Tecnológico",
-            "query_en": "aircraft engine turbine aerospace technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0f216e50-346e-4c50-a480-f1b4e494f927",
-      "title": "HD Hyundai Oilbank distribui bolsas de estudo para filhos de caminhoneiros",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "HD Hyundai Oilbank scholarship award ceremony truck drivers",
-        "images": [
-          {
-            "anchor": "Cerimônia do Hope Wheels Scholarship Award",
-            "query_en": "Trucking Welfare Foundation Seoul building"
-          },
-          {
-            "anchor": "Investimento e Beneficiários",
-            "query_en": "Korean students studying scholarship"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b65bb901-1d7d-4df8-bf87-5f062e3ba6ec",
-      "title": "G.I.Tech registra receita de 3,4 bilhões de wons no terceiro trimestre e expande novos negócios",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GI Tech financial results third quarter business expansion",
-        "images": [
-          {
-            "anchor": "Resultados financeiros do período",
-            "query_en": "financial results corporate report chart"
-          },
-          {
-            "anchor": "Atrasos no reconhecimento de receitas de projetos",
-            "query_en": "business delay financial challenge graph"
-          },
-          {
-            "anchor": "Expansão para novas frentes de negócios",
-            "query_en": "business expansion strategy meeting corporate"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2071d184-9a21-4893-8dd3-925266eb9b54",
-      "title": "Novo suporte de ombro para smartphones oferece proteção e versatilidade com fixação em cintos e bolsas",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "smartphone shoulder bag review",
-        "images": [
-          {
-            "anchor": "Versatilidade de fixação e design com foco na proteção",
-            "query_en": "smartphone shoulder bag padded"
-          },
-          {
-            "anchor": "Uma alternativa econômica para o transporte diário",
-            "query_en": "phone pouch belt clip"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e6e6de25-9014-499a-9a63-2a4c506dcf56",
-      "title": "Testando a Osmo Pocket 4P de 20mm e 60mm no Monte Kintoki: Uma câmera de bolso para todas as ocasiões",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "DJI Osmo Pocket dual lens camera review hiking test",
-        "images": [
-          {
-            "anchor": "Concepção e Versatilidade em Campo",
-            "query_en": "DJI Osmo Pocket dual lens camera"
-          },
-          {
-            "anchor": "Desempenho e Experiência de Uso",
-            "query_en": "hiking vlog camera gimbal stabilization"
-          },
-          {
-            "anchor": "Avaliação Prática da Ferramenta",
-            "query_en": "compact vlog camera outdoor testing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "537e22ff-7464-49f9-af50-5fea67ae28c8",
-      "title": "Incidentes na NTT DoCoMo revelam vulnerabilidades em sistemas complexos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NTT DoCoMo security breach and network failure 5G SA",
-        "images": [
-          {
-            "anchor": "O desafio da segurança na d Account",
-            "query_en": "NTT DoCoMo mobile phone store Japan"
-          },
-          {
-            "anchor": "A complexidade do ecossistema de sistemas orgânicos",
-            "query_en": "telecommunications network server room data center"
-          },
-          {
-            "anchor": "Impactos na rede 5G SA e na experiência do usuário",
-            "query_en": "smartphone user checking 5g network signal"
-          },
-          {
-            "anchor": "Lições para o setor de telecomunicações",
-            "query_en": "cybersecurity data protection operations center"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2cf56c3a-b6d9-402c-af03-2785154797f1",
-      "title": "Fases da Lua em 15 de novembro de 2026: saiba o que observar no céu",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "NASA Moon phases explanation and lunar cycle",
-        "images": [
-          {
-            "anchor": "A fase lunar de 15 de novembro de 2026",
-            "query_en": "waxing crescent moon phase astronomy"
-          },
-          {
-            "anchor": "Calendário das próximas fases e o ciclo lunar",
-            "query_en": "eight phases of the moon lunar cycle diagram"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6f7729b7-1408-4eab-8ca5-80f4283d8909",
-      "title": "Como assistir à partida entre Espanha e Inglaterra pela Liga das Nações de graça",
+      "id": "7f844bed-f6f9-42bd-88f4-22c61f8aa9f9",
+      "title": "A sobrevivência analógica: como os aparelhos de fax salvaram o Japão durante falha no Outlook",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Spain vs England Nations League live stream free",
+        "video_query_en": "fax machines japan outlook outage backup communication",
         "images": [
           {
-            "anchor": "O grande confronto da UEFA Nations League",
-            "query_en": "Spain vs England football match"
+            "anchor": "O papel crucial do fax como backup",
+            "query_en": "traditional fax machine office japan"
           },
           {
-            "anchor": "Data e local da partida",
-            "query_en": "Metropolitano Stadium Madrid"
+            "anchor": "Maquinas de fax tradicionais atuaram como canais de comunicação alternativos e imunes a falhas de servidores de e-mail.",
+            "query_en": "analog fax machine paper document"
           },
           {
-            "anchor": "Como assistir à transmissão gratuita",
-            "query_en": "ITVX streaming logo website"
-          },
-          {
-            "anchor": "Passo a passo para acessar de qualquer lugar",
-            "query_en": "VPN app on smartphone screen"
-          },
-          {
-            "anchor": "Vantagens e utilização de garantias de reembolso",
-            "query_en": "streaming sports on laptop"
-          },
-          {
-            "anchor": "Motivos para escolher a ExpressVPN",
-            "query_en": "ExpressVPN app interface on devices"
+            "anchor": "A resiliência dos sistemas tradicionais",
+            "query_en": "old office equipment japan business"
           }
         ]
       }
     },
     {
-      "id": "9d871406-6813-4c39-9e2b-537e090c9713",
-      "title": "Sequência de Jay e Silent Bob confirma janela para início das filmagens",
-      "category": "Filmes, Séries e Animações",
+      "id": "10025461-5df4-4c84-a1f2-e36856fe83c4",
+      "title": "Falha em roteador causa caos e cancelamentos de voos nos Estados Unidos",
+      "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Jay and Silent Bob Store Wars Kevin Smith Jason Mewes update",
+        "video_query_en": "router failure causes flight delays usa aviation network",
         "images": [
           {
-            "anchor": "A Origem e o Histórico da Dupla no Cinema",
-            "query_en": "Jay and Silent Bob Kevin Smith Jason Mewes movie scene"
-          },
-          {
-            "anchor": "Local das Filmagens e Definição de Locações",
-            "query_en": "Jason Mewes actor portrait"
-          },
-          {
-            "anchor": "O Enredo de Jay and Silent Bob: Store Wars",
-            "query_en": "Kevin Smith director speaking"
+            "anchor": "O impacto na infraestrutura e os desdobramentos",
+            "query_en": "airport flight cancellations and delays board usa"
           }
         ]
       }
     },
     {
-      "id": "3626039e-67e2-4713-b192-5de78a513f4a",
-      "title": "Marvel Comics traz pistas de novo romance entre Gata Negra e Emma Frost",
+      "id": "a76ff913-ef4d-4c8b-9b48-b3f3c9fb8898",
+      "title": "Falha no Microsoft Outlook impediu aviso sobre acidente com cloro no Phantasialand",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Phantasialand hotel pool chlorine accident Microsoft Outlook outage",
+        "images": [
+          {
+            "anchor": "O incidente no hotel do Phantasialand",
+            "query_en": "Phantasialand hotel resort Germany"
+          },
+          {
+            "anchor": "O impacto da pane da Microsoft",
+            "query_en": "Microsoft Outlook logo and interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b3107f01-9ebf-4c81-8d06-8f7cb6703a2d",
+      "title": "Anleger em busca de rendimento fazem Bitcoin recuar enquanto o boom da IA atrai capitais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bitcoin price drop inflation AI boom market analysis",
+        "images": [
+          {
+            "anchor": "O impacto da inflação e das taxas de juros no mercado atual",
+            "query_en": "global economy inflation chart financial markets"
+          },
+          {
+            "anchor": "A pressão sobre o Bitcoin e o ouro",
+            "query_en": "Bitcoin cryptocurrency market price decline"
+          },
+          {
+            "anchor": "O papel do boom da inteligência artificial na redistribuição de capitais",
+            "query_en": "artificial intelligence technology investment industry"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e9b28cd6-af26-491a-a9c2-e5c9fec7c382",
+      "title": "Minecraft receberá controles de mouse no Joy-Con em futura atualização no Switch 2",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Black Cat and Emma Frost Marvel Comics",
+        "video_query_en": "Minecraft Switch 2 Joy-Con mouse controls",
         "images": [
           {
-            "anchor": "O encontro inusitado com a Rainha Branca",
-            "query_en": "Emma Frost diamond form comic art"
+            "anchor": "Novidades no horizonte para o Minecraft no Switch 2",
+            "query_en": "Minecraft Nintendo Switch 2 gameplay"
           },
           {
-            "anchor": "Uma aliança improvável e interesses em comum",
-            "query_en": "Black Cat Marvel Comics art"
+            "anchor": "Como funcionarão os controles de mouse",
+            "query_en": "Nintendo Switch 2 Joy-Con controllers"
           },
           {
-            "anchor": "As possibilidades de um relacionamento e o histórico das personagens",
-            "query_en": "Emma Frost Hellfire Club comic"
-          },
-          {
-            "anchor": "Um encontro tardio nos quadrinhos",
-            "query_en": "Gata Negra Marvel comic book"
+            "anchor": "Atualizações e promoções para proprietários",
+            "query_en": "Minecraft game box art"
           }
         ]
       }
     },
     {
-      "id": "0abfeec4-9d60-4388-b7ff-bf552898e188",
-      "title": "32 Episodes Of Netflix's High Fantasy Series Deliver A Masterclass In Sword Fighting",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "id": "dc384403-ff66-4d8f-a9cf-bc855abcca52",
+      "title": "Zelda Notes revela as principais causas de Game Over e dados globais de Ocarina of Time Remake",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Zelda Ocarina of Time remake Switch 2 gameplay",
+        "images": [
+          {
+            "anchor": "Principais perigos e estatísticas de combate",
+            "query_en": "ReDead Ocarina of Time"
+          },
+          {
+            "anchor": "Ferramentas e itens mais utilizados",
+            "query_en": "Hookshot Ocarina of Time"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe3bf36a-0bfe-4fda-be90-0837f7af2dea",
+      "title": "Fatal Fury: City of the Wolves vai adicionar Laocorn do filme de animação",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fatal Fury City of the Wolves Laocorn trailer",
+        "images": [
+          {
+            "anchor": "Quem é Laocorn e sua história",
+            "query_en": "Fatal Fury The Motion Picture Laocorn anime"
+          },
+          {
+            "anchor": "Detalhes da produção e dublagem",
+            "query_en": "Fatal Fury City of the Wolves gameplay"
+          },
+          {
+            "anchor": "A 3ª Temporada e conteúdos futuros",
+            "query_en": "Fatal Fury City of the Wolves characters Season 3"
+          },
+          {
+            "anchor": "Rick Strowd",
+            "query_en": "Rick Strowd Fatal Fury City of the Wolves"
+          },
+          {
+            "anchor": "Duck King",
+            "query_en": "Duck King Fatal Fury City of the Wolves"
+          },
+          {
+            "anchor": "Kim Kaphwan",
+            "query_en": "Kim Kaphwan Fatal Fury City of the Wolves"
+          },
+          {
+            "anchor": "Manjiro Sano e Ken Ryuguji",
+            "query_en": "Manjiro Sano Ken Ryuguji Fatal Fury City of the Wolves"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5402bf43-7932-4352-94c5-c3f1f88eea2c",
+      "title": "Qual a melhor capa de Dr. Mario & Puzzle League? A batalha de artes decide",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Dr Mario and Puzzle League GBA gameplay",
+        "images": [
+          {
+            "anchor": "O confronto entre Ocidente e Japão",
+            "query_en": "Dr Mario and Puzzle League GBA box art"
+          },
+          {
+            "anchor": "Capa da América do Norte e Europa",
+            "query_en": "Dr Mario and Puzzle League North America cover"
+          },
+          {
+            "anchor": "Capa do Japão",
+            "query_en": "Dr Mario and Puzzle League Japan cover"
+          },
+          {
+            "anchor": "O resultado da votação",
+            "query_en": "Nintendo Game Boy Advance cartridge"
+          }
+        ]
+      }
+    },
+    {
+      "id": "174ab5d5-5321-49ce-95f5-cad96b6a9308",
+      "title": "Antes de Grand Theft Auto 6, equipe do CNET relembra momentos marcantes da franquia",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Grand Theft Auto franchise history and memories",
+        "images": [
+          {
+            "anchor": "As memórias marcantes da equipe do CNET",
+            "query_en": "Grand Theft Auto series retrospective montage"
+          },
+          {
+            "anchor": "- A famosa missão Wrong Side of the Tracks em Grand Theft Auto: San Andreas proporcionou uma das frases mais icônicas da série, quando o personagem Big Smoke exclama ao jogador \"Tudo o que tínhamos de fazer era seguir o maldito trem, CJ!\", lembrando que por trás da violência, esses jogos guardam um lado inerentemente divertido e pouco sério.",
+            "query_en": "Grand Theft Auto San Andreas Big Smoke train mission"
+          },
+          {
+            "anchor": "- O jogo derivado Grand Theft Auto London 1969, lançado em 1999, marcou a época de faculdade do editor Nick Hide, cujos colegas jogavam em um notebook antigo e transformaram os policiais britânicos irritados que gritavam \"Pare aí mesmo! Oi!\" em um verdadeiro meme interno.",
+            "query_en": "Grand Theft Auto London 1969 gameplay"
+          },
+          {
+            "anchor": "- A experiência de infância de caminhar para fora de uma locadora Blockbuster com uma cópia de Grand Theft Auto: Vice City fez com que a produtora social Faith Chihil se sentisse uma verdadeira estrela do rock, especialmente ao reviver a hilária e pixelada cena de dança privada na missão Pole Position que ela e sua melhor amiga acabaram aprendendo e reproduzindo.",
+            "query_en": "Grand Theft Auto Vice City gameplay neon city"
+          },
+          {
+            "anchor": "- O lançamento de Grand Theft Auto 5 em 2013 coincidiu com a formatuação universitária do escritor Nelson Aguilar, que enfrentou horas de fila em uma unidade da GameStop e encontrou conforto em explorar o caótico mundo de Los Santos para aliviar o estresse profissional da época.",
+            "query_en": "Grand Theft Auto V Los Santos aerial view"
+          },
+          {
+            "anchor": "- A descoberta da imensidão do mapa de Grand Theft Auto 5 e a liberdade de explorar cada canto a pé ou de helicóptero marcaram a trajetória do editor sênior Andrew Lanxon, que agora aguarda com altas expectativas o mapa de Grand Theft Auto 6, prometido para ser pelo menos duas vezes maior.",
+            "query_en": "Grand Theft Auto V map exploration helicopter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0076cd48-da77-4b01-bd12-33fde0191110",
+      "title": "Nova falha zero-day no Windows transforma correção de segurança da Microsoft em acesso total ao sistema",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Windows zero day SignDrop vulnerability Microsoft security update",
+        "images": [
+          {
+            "anchor": "Uma nova ameaça chamada SignDrop",
+            "query_en": "Windows security update error warning screen"
+          },
+          {
+            "anchor": "A origem por trás do vazamento",
+            "query_en": "GitHub code repository screen development"
+          },
+          {
+            "anchor": "Contexto das atualizações de novembro",
+            "query_en": "Microsoft logo corporate building Redmond"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e680883-8537-49ea-9c91-6b85cd3462ee",
+      "title": "Assinatura de três anos do Surfshark VPN Starter está em oferta por US$ 67,19",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Surfshark VPN review and features",
+        "images": [
+          {
+            "anchor": "Detalhes da oferta e preço",
+            "query_en": "Surfshark VPN subscription pricing deal"
+          },
+          {
+            "anchor": "Recursos de privacidade e conexões",
+            "query_en": "Surfshark VPN server locations and connection"
+          },
+          {
+            "anchor": "Ferramentas adicionais de segurança",
+            "query_en": "Surfshark CleanWeb ad blocker feature"
+          },
+          {
+            "anchor": "Compatibilidade e condições",
+            "query_en": "Surfshark app running on smartphone and laptop"
+          }
+        ]
+      }
+    },
+    {
+      "id": "61f95ce1-ba53-421f-979d-627a21feb1f1",
+      "title": "Como assistir à partida entre Kansas City Chiefs e Atlanta Falcons na NFL de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Kansas City Chiefs vs Atlanta Falcons nfl live stream highlight",
+        "images": [
+          {
+            "anchor": "Quando e onde acontece o jogo",
+            "query_en": "Mercedes Benz Stadium Atlanta Falcons home"
+          },
+          {
+            "anchor": "Como assistir à partida gratuitamente",
+            "query_en": "NFL live stream free online broadcast"
+          },
+          {
+            "anchor": "Passo a passo para o acesso global",
+            "query_en": "VPN streaming app on mobile phone"
+          },
+          {
+            "anchor": "Por que escolher o ExpressVPN para a NFL",
+            "query_en": "ExpressVPN logo app interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba9b5417-8b6a-452d-a469-274f3648d589",
+      "title": "Amazon oferece 50% de desconto em novos dispositivos Alexa para membros Prime",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Alexa devices early Black Friday sale Prime members",
+        "images": [
+          {
+            "anchor": "Novos dispositivos Alexa na promoção",
+            "query_en": "Amazon Echo Dot smart speaker device"
+          },
+          {
+            "anchor": "Amazon Echo Dot por $49.99, com preço original de $99.99 e economia de $50.",
+            "query_en": "Amazon Echo Dot"
+          },
+          {
+            "anchor": "Amazon Echo Dot Kids por $54.99, com preço original de $109.99 e economia de $55.",
+            "query_en": "Amazon Echo Dot Kids"
+          },
+          {
+            "anchor": "Amazon Alexa Photo Frame por $99.99, com preço original de $199.99 e economia de $100.",
+            "query_en": "Amazon Alexa Photo Frame"
+          },
+          {
+            "anchor": "Amazon Echo Time por $99.99, com preço original de $199.99 e economia de $100.",
+            "query_en": "Amazon Echo Time smart alarm clock"
+          },
+          {
+            "anchor": "Amazon Echo Studio with Home Camera por $124.99, com preço original de $149.99 e economia de $125.",
+            "query_en": "Amazon Echo Studio speaker"
+          },
+          {
+            "anchor": "Amazon Echo Time Kids por $154.99, com preço original de $209.99 e economia de $155.",
+            "query_en": "Amazon Echo Kids device"
+          },
+          {
+            "anchor": "Modelos anteriores e outras opções participantes",
+            "query_en": "Amazon Echo Show smart display lineup"
+          },
+          {
+            "anchor": "Echo Pop Kids por $24.99, com preço original de $49.99 e economia de $25.",
+            "query_en": "Echo Pop speaker"
+          },
+          {
+            "anchor": "Echo Dot 2022 por $39.99, com preço original de $79.99 e economia de $40.",
+            "query_en": "Echo Dot 2022 generation"
+          },
+          {
+            "anchor": "Echo Dot Kids 2022 por $44.99, com preço original de $89.99 e economia de $45.",
+            "query_en": "Echo Dot Kids 2022"
+          },
+          {
+            "anchor": "Echo Show 5 por $49.99, com preço original de $99.99 e economia de $50.",
+            "query_en": "Amazon Echo Show 5"
+          },
+          {
+            "anchor": "Echo Spot por $54.99, com preço original de $109.99 e economia de $55.",
+            "query_en": "Amazon Echo Spot"
+          },
+          {
+            "anchor": "Echo Dot Max por $59.99, com preço original de $119.99 e economia de $60.",
+            "query_en": "Amazon Echo Dot Max"
+          },
+          {
+            "anchor": "Echo Show 8 por $99.99, com preço original de $199.99 e economia de $100.",
+            "query_en": "Amazon Echo Show 8"
+          },
+          {
+            "anchor": "Echo Studio por $109.99, com preço original de $219.99 e economia de $110.",
+            "query_en": "Amazon Echo Studio"
+          },
+          {
+            "anchor": "Echo Show 11 por $124.99, com preço original de $249.99 e economia de $125.",
+            "query_en": "Amazon Echo Show smart display"
+          },
+          {
+            "anchor": "Echo Show 15 por $174.99, com preço original de $349.99 e economia de $175.",
+            "query_en": "Amazon Echo Show 15"
+          },
+          {
+            "anchor": "Echo Show 21 por $249.99, com preço original de $499.99 e economia de $250.",
+            "query_en": "Amazon Echo Show 21"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8f42274a-36d5-4790-b8a5-9d737a01bcd3",
+      "title": "Aprenda um novo idioma para a vida toda com oferta exclusiva da Babbel",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Babbel language learning app review and features",
+        "images": [
+          {
+            "anchor": "Uma nova forma de aprender idiomas",
+            "query_en": "Babbel language learning interface on smartphone"
+          },
+          {
+            "anchor": "Metodologia e eficiência das aulas",
+            "query_en": "Person studying languages on a mobile device"
+          },
+          {
+            "anchor": "Recursos técnicos e idiomas disponíveis",
+            "query_en": "Language learning app speech recognition technology"
+          },
+          {
+            "anchor": "Comparativo de mercado",
+            "query_en": "Online education subscription comparison"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fac0acb3-7c43-4726-be8c-6b761b22a704",
+      "title": "Como assistir Buffalo Bills e New York Jets na NFL de graça",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Buffalo Bills vs New York Jets NFL live stream highlights",
+        "images": [
+          {
+            "anchor": "O cenário das equipes na temporada",
+            "query_en": "Buffalo Bills NFL stadium match"
+          },
+          {
+            "anchor": "Como assistir à partida de graça",
+            "query_en": "MetLife Stadium NFL game view"
+          },
+          {
+            "anchor": "Vantagens do uso de VPN para a NFL",
+            "query_en": "ExpressVPN application streaming device"
+          }
+        ]
+      }
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
@@ -714,9 +819,22 @@
     },
     {
       "id": "9272919b-8f9b-413f-9ae9-9f683c33fb9c",
-      "title": "The Real Soldier Boy Will Finally Appear In The Boys' Next Series",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "title": "O verdadeiro Soldier Boy finalmente vai aparecer na nova série de The Boys",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Boys Vought Rising Soldier Boy trailer",
+        "images": [
+          {
+            "anchor": "Vought Rising Will Show Soldier Boy Before He Became A Celebrity",
+            "query_en": "Jensen Ackles Soldier Boy Vought Rising"
+          },
+          {
+            "anchor": "What The Boys Has Already Revealed About Soldier Boy's Early Life",
+            "query_en": "Aya Cash Stormfront Liberty The Boys"
+          }
+        ]
+      }
     },
     {
       "id": "48097e4b-858d-4a4f-ae09-b6a4772d16c5",
@@ -731,63 +849,63 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "066d1b0c-4f0e-48e4-885f-297d2a87136f",
-      "title": "Usuários do PlayStation Plus têm até 6 de outubro para resgatar quatro jogos gratuitos",
-      "category": "Games",
+      "id": "8a7c5b4e-6bc3-4124-8998-646f1eb2549e",
+      "title": "Bateria portátil Ugreen Nexode Pro de 10.000mAh e 45W tem desconto de 31% na Amazon",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "PlayStation Plus free games October update",
+        "video_query_en": "Ugreen Nexode Pro 10000mAh 45W Mini Power Bank review",
         "images": [
           {
-            "anchor": "Jogos que deixam o catálogo do PlayStation Plus",
-            "query_en": "PlayStation Plus logo games screen"
+            "anchor": "Design compacto e alta portabilidade",
+            "query_en": "Ugreen Nexode Pro power bank mini size"
           },
           {
-            "anchor": "Sniper Elite: Resistance",
-            "query_en": "Sniper Elite Resistance gameplay"
+            "anchor": "Desempenho e velocidade de recarga",
+            "query_en": "Ugreen Nexode Pro fast charging display"
           },
           {
-            "anchor": "MLB the Show 26",
-            "query_en": "MLB The Show 26 gameplay"
-          },
-          {
-            "anchor": "Wobbly Life",
-            "query_en": "Wobbly Life gameplay"
-          },
-          {
-            "anchor": "Chained Echoes",
-            "query_en": "Chained Echoes RPG gameplay"
-          },
-          {
-            "anchor": "Novas adições ao serviço",
-            "query_en": "EA Sports F1 25 gameplay"
+            "anchor": "Outros destaques da semana",
+            "query_en": "Amazon devices sale event tech"
           }
         ]
       }
     },
     {
-      "id": "e890f51c-aa5b-439e-9736-7daf2aa74cab",
-      "title": "Grand Theft Auto 6: Rockstar revela novos detalhes sobre a história e os protagonistas Jason e Lucia",
-      "category": "Games",
+      "id": "70c47c95-db74-4e9c-a55c-12e88b10dacc",
+      "title": "DJI Power 2000 em oferta antecipada de Prime Day com mais de US$ 500 de desconto",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 story teaser Rockstar Games interview",
+        "video_query_en": "DJI Power 2000 power station review and features",
         "images": [
           {
-            "anchor": "Detalhes da entrevista e bastidores criativos",
-            "query_en": "Rockstar Games developers interview Grand Theft Auto VI"
+            "anchor": "Recursos e Aplicações Práticas",
+            "query_en": "DJI Power 2000 portable power station outdoor"
           },
           {
-            "anchor": "A história e as motivações de Jason",
-            "query_en": "Jason GTA 6 character design Rockstar"
+            "anchor": "Outras Ofertas em Destaque na Semana",
+            "query_en": "Amazon Prime Day tech deals gadgets"
           },
           {
-            "anchor": "As origens e a personalidade de Lucia",
-            "query_en": "Lucia GTA 6 character design Liberty City"
+            "anchor": "Fire Stick 4K Select por US$ 17,99, com redução sobre o preço original de US$ 49,99 e economia de US$ 32",
+            "query_en": "Amazon Fire Stick device"
           },
           {
-            "anchor": "O papel do mentor Raul",
-            "query_en": "Vice City Miami atmosphere Grand Theft Auto VI"
+            "anchor": "AirPods Pro 3 disponíveis por US$ 179, abaixo dos US$ 249 habituais, gerando uma economia de US$ 70",
+            "query_en": "Apple AirPods Pro wireless earbuds"
+          },
+          {
+            "anchor": "Bose QuietComfort Gen 2 comercializados por US$ 319, ante o valor anterior de US$ 359, com desconto de US$ 40",
+            "query_en": "Bose QuietComfort headphones"
+          },
+          {
+            "anchor": "iPad mini ofertado por US$ 499, frente aos US$ 599 do preço padrão, economizando US$ 100",
+            "query_en": "Apple iPad mini tablet"
+          },
+          {
+            "anchor": "MacBook Air M5 listado por US$ 1.099, comparado ao preço de tabela de US$ 1.299, resultando em uma redução de US$ 200",
+            "query_en": "Apple MacBook Air laptop"
           }
         ]
       }
