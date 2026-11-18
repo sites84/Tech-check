@@ -1,688 +1,696 @@
 {
-  "updated_at": "2026-11-17T23:01:38.023Z",
+  "updated_at": "2026-11-18T05:03:36.552Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "04855432-cc88-47aa-a6e8-2e98258265b4",
-      "title": "Japão e Chile selam laços de defesa e abrem caminho para exportações militares",
+      "id": "fbf8e492-4f46-436d-8c34-ae4d7c352e73",
+      "title": "Wayne Rooney revela que considerou o suicídio em seu momento mais difícil no Manchester United",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Chile defense relations and minerals cooperation",
+        "video_query_en": "Wayne Rooney interview Manchester United mental health",
         "images": [
           {
-            "anchor": "Encontro de Líderes em Tóquio",
-            "query_en": "Sanae Takaichi Prime Minister Japan official meeting"
+            "anchor": "O momento mais difícil da carreira",
+            "query_en": "Wayne Rooney Manchester United"
           },
           {
-            "anchor": "Cooperação em Defesa e Exercícios Marítimos",
-            "query_en": "Japan Maritime Self Defense Force ships exercise"
-          },
-          {
-            "anchor": "Minerais Críticos e Cadeias de Suprimento",
-            "query_en": "mining landscape and critical minerals supply chain"
+            "anchor": "A pressão do topo",
+            "query_en": "Alex Ferguson Wayne Rooney Manchester United"
           }
         ]
       }
     },
     {
-      "id": "301b47b1-7584-46df-ab48-0d2fe6753f93",
-      "title": "Japan bond market revival fuels record profits for Nomura, Daiwa",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Finanças"
-    },
-    {
-      "id": "6add37d2-2161-4460-9ec4-ffef920bc179",
-      "title": "IPO da Anthropic pode impulsionar startups de inteligência artificial na Ásia",
+      "id": "e3144860-0724-4273-8ce3-54698348afb7",
+      "title": "Espionagem e chips de silício: a complexa teia corporativa de Alice Huang",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic IPO Nasdaq artificial intelligence startups",
+        "video_query_en": "Nvidia security chip espionage investigation",
         "images": [
           {
-            "anchor": "O impacto nas bolsas e nas startups asiáticas",
-            "query_en": "Nasdaq stock exchange building exterior financial district"
+            "anchor": "A fachada vazia da Megaspeed em Singapura",
+            "query_en": "modern corporate office building Singapore exterior"
           },
           {
-            "anchor": "Upstage na Coreia do Sul",
-            "query_en": "South Korea technology office modern building Seoul"
+            "anchor": "As acusações contra Alice Huang",
+            "query_en": "artificial intelligence microchip hardware silicon wafer"
           },
           {
-            "anchor": "Sakana AI no Japão",
-            "query_en": "Tokyo tech startup office interior Japan"
-          },
-          {
-            "anchor": "Moonshot na China",
-            "query_en": "Beijing technology startup office building China"
-          },
-          {
-            "anchor": "DeepSeek na China",
-            "query_en": "Artificial intelligence research laboratory servers China"
-          },
-          {
-            "anchor": "O cenário de financiamento e receita na Ásia",
-            "query_en": "Asian financial district skyscrapers modern architecture"
-          },
-          {
-            "anchor": "Movimentos estratégicos e investimentos cruzados",
-            "query_en": "TSMC semiconductor manufacturing cleanroom Taiwan"
+            "anchor": "Conexões corporativas e o mistério em torno da investigada",
+            "query_en": "datacenter server racks AI technology infrastructure"
           }
         ]
       }
     },
     {
-      "id": "9cd65abd-0d01-4cb1-a770-5d8f906bc6af",
-      "title": "Navio alimentado por amônia da NYK Line é revelado no Japão em avanço para transporte marítimo de baixo carbono",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan ammonia powered carrier ship NYK Line Izanami",
-        "images": [
-          {
-            "anchor": "O Novo Marco do Transporte Marítimo Sustentável",
-            "query_en": "NYK Line cargo ship ocean"
-          },
-          {
-            "anchor": "Capacidade e Características do Izanami",
-            "query_en": "ammonia carrier ship liquefied gas"
-          },
-          {
-            "anchor": "Desafios Econômicos e Perspectivas de Mercado",
-            "query_en": "modern shipyard Japan shipbuilding"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3ca5e4bf-013d-40f6-92d3-91214cdf0f2e",
-      "title": "Não culpe apenas o fundador pelo escândalo da Nidec",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nidec corporation scandal governance analysis",
-        "images": [
-          {
-            "anchor": "O papel de Shigenobu Nagamori e a cultura de alta pressão",
-            "query_en": "Shigenobu Nagamori Nidec founder portrait"
-          },
-          {
-            "anchor": "A responsabilidade compartilhada da diretoria e executivos",
-            "query_en": "Nidec executives bowing apology press conference"
-          },
-          {
-            "anchor": "Desdobramentos e o futuro da governança na Nidec",
-            "query_en": "Nidec corporate headquarters building Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3a4468c2-1c7e-48a9-88f9-c0fa782f5001",
-      "title": "Nissan aposta em híbrido plug-in para reverter queda de vendas na China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nissan plug-in hybrid China market strategy",
-        "images": [
-          {
-            "anchor": "O lançamento do SUV NX7",
-            "query_en": "Nissan NX7 plug-in hybrid SUV China"
-          },
-          {
-            "anchor": "O cenário para as montadoras japonesas na China",
-            "query_en": "Japanese automakers cars dealership China"
-          },
-          {
-            "anchor": "Queda generalizada nas vendas de marcas japonesas em território chinês",
-            "query_en": "Nissan car showroom China"
-          },
-          {
-            "anchor": "Retração acentuada no mercado de carros tradicionais movidos a combustão interna",
-            "query_en": "gasoline cars traffic China highway"
-          },
-          {
-            "anchor": "Necessidade urgente de reestruturação de portfólio e cadeias de suprimento na região",
-            "query_en": "automotive manufacturing assembly line China"
-          }
-        ]
-      }
-    },
-    {
-      "id": "33ad8891-f295-44aa-ab80-274d0ee8954d",
-      "title": "Yamaha vai adquirir empresa britânica de tecnologia por trás de turnês de Taylor Swift e Beyoncé",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Yamaha acquire Disguise Technologies Taylor Swift Beyonce tours",
-        "images": [
-          {
-            "anchor": "Expansão para a operação de eventos",
-            "query_en": "Yamaha corporate building Hamamatsu Japan"
-          },
-          {
-            "anchor": "Detalhes da transação e próximos passos",
-            "query_en": "Disguise technologies stage virtual production live event"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a983a5e2-2f86-45e8-a178-ac025d64a516",
-      "title": "El Niño impulsiona preços de commodities agrícolas na Índia e Sudeste Asiático",
+      "id": "1d02315b-9038-4b97-8df8-d1280ce705f9",
+      "title": "Um fantasma do passado: médicos nos Estados Unidos lamentam o ressurgimento do sarampo",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "El Nino impact on agriculture crop prices India Southeast Asia",
+        "video_query_en": "measles resurgence united states health paho",
         "images": [
           {
-            "anchor": "O impacto do El Niño na agricultura asiática",
-            "query_en": "drought dried crop field Indonesia El Nino agriculture"
+            "anchor": "## O retorno inesperado de uma doença histórica",
+            "query_en": "pediatric doctor clinic examining patient"
           },
           {
-            "anchor": "Efeito dominó e busca por substitutos",
-            "query_en": "rice crop farm Asia agriculture harvest"
+            "anchor": "## Declaração oficial e estatísticas alarmantes",
+            "query_en": "pan american health organization building"
           },
           {
-            "anchor": "Pressão sobre o óleo de palma e outras commodities",
-            "query_en": "palm oil plantation Indonesia agriculture"
+            "anchor": "## O impacto na prática médica local",
+            "query_en": "pediatric infectious disease specialist doctor"
           }
         ]
       }
     },
     {
-      "id": "2e6a465a-96a3-490c-abde-61f815ec690d",
-      "title": "Violação no supercomputador Fugaku, no Japão, expõe lacuna nos gastos com segurança",
+      "id": "0fcfe8de-c2f7-4fd0-b0d2-192f78794a7a",
+      "title": "Painel do Ministério das Finanças do Japão alerta Takaichi sobre a importância da confiança do mercado",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan economy fiscal policy Sanae Takaichi Finance Ministry",
+        "images": [
+          {
+            "anchor": "O alerta do Conselho do Sistema Fiscal",
+            "query_en": "Japanese Ministry of Finance building Tokyo"
+          },
+          {
+            "anchor": "Riscos globais e paralelismos internacionais",
+            "query_en": "Tokyo financial district market chart"
+          },
+          {
+            "anchor": "Consequências para os investimentos governamentais",
+            "query_en": "Japan Prime Minister office Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31154524-6445-4f84-8ff7-e20e62b74efe",
+      "title": "A democracia precisa de espaço para as diferenças religiosas, aponta análise",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US Supreme Court oral arguments religious freedom case",
+        "images": [
+          {
+            "anchor": "O cenário na Suprema Corte dos Estados Unidos",
+            "query_en": "US Supreme Court building Washington DC"
+          },
+          {
+            "anchor": "O caso St. Mary Catholic Parish v. Roy",
+            "query_en": "US Supreme Court justices listening to arguments"
+          },
+          {
+            "anchor": "O embate entre financiamento público e diretrizes religiosas",
+            "query_en": "Catholic preschool classroom children learning"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c869f651-d4b5-41a4-ab56-b8eabf435601",
+      "title": "Rede japonesa de restaurantes Skylark planeja novas aquisições após acordo com marca de ramen",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Skylark restaurant chain Japan business strategy",
+        "images": [
+          {
+            "anchor": "Planos de expansão e orçamento robusto para 2027",
+            "query_en": "Skylark restaurant exterior Tokyo Japan"
+          },
+          {
+            "anchor": "Aquisições recentes no setor de alimentação",
+            "query_en": "Japanese ramen restaurant Shin-Shin"
+          },
+          {
+            "anchor": "Shin-Shin",
+            "query_en": "bowl of Japanese ramen noodles"
+          },
+          {
+            "anchor": "Shinpachi",
+            "query_en": "grilled fish Japanese set meal"
+          },
+          {
+            "anchor": "A visão da liderança sobre o futuro do grupo",
+            "query_en": "Makoto Tani CEO interview Tokyo headquarters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e66ba005-4de3-4d8b-842d-c90e21c67184",
+      "title": "Mestre cervejeiro Naohiko Noguchi é oficialmente reconhecido como tesouro nacional vivo do saquê",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Naohiko Noguchi sake living national treasure ceremony Kyoto",
+        "images": [
+          {
+            "anchor": "Uma honraria histórica em Kyoto",
+            "query_en": "Kyoto Brighton Hotel ballroom chandelier"
+          },
+          {
+            "anchor": "O significado do título de Tesouro Nacional Vivo",
+            "query_en": "Naohiko Noguchi sake master brewer"
+          },
+          {
+            "anchor": "O compromisso contínuo com a excelência",
+            "query_en": "Japanese sake brewing tradition artisan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ab1196f-a514-45e4-9043-29dac5d9cf41",
+      "title": "Japão planeja facilitar identificação de barcos comerciais após acidente fatal em Okinawa",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Fugaku supercomputer cybersecurity breach",
+        "video_query_en": "Japan transport ministry small boats safety regulation Okinawa",
         "images": [
           {
-            "anchor": "O dilema dos investimentos em segurança na pesquisa",
-            "query_en": "supercomputer server room data center cybersecurity"
+            "anchor": "O acidente em Henoko",
+            "query_en": "Henoko Nago Okinawa coast sea"
           },
           {
-            "anchor": "O delicado equilíbrio entre proteção e abertura",
-            "query_en": "scientists working on computers laboratory research"
-          },
-          {
-            "anchor": "O modelo tradicional de pesquisa acadêmica exige colaboração aberta e compartilhamento fluido de informações.",
-            "query_en": "researchers collaborating on advanced computer technology"
+            "anchor": "Nova identidade visual para embarcações",
+            "query_en": "Japan commercial boat harbor Okinawa"
           }
         ]
       }
     },
     {
-      "id": "e066a4b9-996e-4e98-a80c-968e9c87169d",
-      "title": "Conselho da Nvidia afirma que Jensen Huang não retornará ao cargo de CEO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang board decision",
-        "images": [
-          {
-            "anchor": "A Decisão do Conselho",
-            "query_en": "Nvidia corporate headquarters building Palo Alto"
-          },
-          {
-            "anchor": "Contexto e Desdobramentos",
-            "query_en": "Nvidia semiconductor AI chip technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "76cb40af-231d-486d-a991-4da973cfee26",
-      "title": "SFC desiste de plano de abertura de capital na bolsa KOSPI",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SFC OLED materials KOSPI IPO withdrawal",
-        "images": [
-          {
-            "anchor": "Motivos para a retirada do IPO",
-            "query_en": "stock market IPO failure financial graph"
-          },
-          {
-            "anchor": "O futuro da empresa no mercado",
-            "query_en": "OLED screen manufacturing technology factory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1edde8b8-bbba-49a3-9b6b-2ffae3d2d7bd",
-      "title": "Ex-CEO da Nvidia, Jensen Huang sinaliza interesse em retornar ao cargo e admite erros pessoais",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia resignation controversy",
-        "images": [
-          {
-            "anchor": "Declaração e petição pública",
-            "query_en": "Jensen Huang Nvidia CEO speaking"
-          },
-          {
-            "anchor": "Escrutínio político e investigações nos Estados Unidos",
-            "query_en": "United States Capitol building Washington DC"
-          },
-          {
-            "anchor": "Contexto da polêmica e laços com a Megaspeed",
-            "query_en": "Nvidia advanced AI computer chips"
-          },
-          {
-            "anchor": "Resposta corporativa e novas diretrizes de segurança",
-            "query_en": "Nvidia corporate headquarters building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "04d43fb9-e043-4f4a-a4d7-262ff81afb2f",
-      "title": "YouTube introduz Co-Views como nova métrica para espectadores de TV",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "YouTube co views metric television audience measurement",
-        "images": [
-          {
-            "anchor": "A importância da televisão para o YouTube",
-            "query_en": "YouTube on television living room screen"
-          },
-          {
-            "anchor": "Metodologia e desafios na medição",
-            "query_en": "Data analytics dashboard television metrics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "876fa2f2-9902-4315-a0db-f122a2c57354",
-      "title": "Demanda energética de data centers nos Estados Unidos desperta preocupações",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "us data centers energy consumption artificial intelligence cloud",
-        "images": [
-          {
-            "anchor": "O consumo colossal dos data centers norte-americanos",
-            "query_en": "large us data center server room"
-          },
-          {
-            "anchor": "Desafios na coleta de dados e estimativas",
-            "query_en": "power grid infrastructure transformer station"
-          },
-          {
-            "anchor": "Contexto e exigências de consentimento",
-            "query_en": "digital privacy and cookies consent screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "de1cd927-6cd4-436e-a047-73f062b4021a",
-      "title": "Soundbar Sonos Beam de segunda geração em oferta antecipada na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sonos Beam Gen 2 soundbar review features",
-        "images": [
-          {
-            "anchor": "Oferta antecipada para o Black Friday",
-            "query_en": "Amazon warehouse delivery boxes black friday shopping"
-          },
-          {
-            "anchor": "Recursos de áudio e tecnologias integradas",
-            "query_en": "Sonos Beam Gen 2 soundbar under tv living room"
-          },
-          {
-            "anchor": "Contexto e disponibilidade da promoção",
-            "query_en": "online shopping website on computer screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "aa7cd036-7fc9-4798-87ac-5a344022c402",
-      "title": "Tribunal Constitucional da Alemanha rejeita ações contra o fim do privilégio de custos incidentais, mas critica o legislador",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "German constitutional court cable television law nebenskoestenprivileg",
-        "images": [
-          {
-            "anchor": "O impacto do fim do privilégio de custos incidentais",
-            "query_en": "German cable television network apartment building"
-          },
-          {
-            "anchor": "Críticas ao legislador e perspectivas futuras",
-            "query_en": "German Federal Constitutional Court building Karlsruhe"
-          }
-        ]
-      }
-    },
-    {
-      "id": "243f50b2-1dc3-4c40-93fe-ebf3624355c0",
-      "title": "Logitech MK950: conjunto de teclado e mouse sem fio é encontrado por menos de 65 euros na Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Logitech MK950 wireless keyboard and mouse review",
-        "images": [
-          {
-            "anchor": "Oferta para o kit Logitech MK950",
-            "query_en": "Logitech MK950 keyboard and mouse set"
-          },
-          {
-            "anchor": "Recursos e conectividade",
-            "query_en": "Logitech wireless keyboard multi device"
-          },
-          {
-            "anchor": "Privacidade e termos de acesso",
-            "query_en": "cookie consent banner website privacy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "191c9206-7b17-48bb-b4d4-bbc8ed2113ee",
-      "title": "iPhone Duo recebe recurso de desbloqueio facial na tela de bloqueio, apesar de ausência do Face ID",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "iPhone smartphone face unlock feature review",
-        "images": [
-          {
-            "anchor": "Detalhes da nova Gesichtsentsperrung",
-            "query_en": "smartphone lock screen display interface"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e43ff1b6-f76b-4888-b825-5738e4641a2b",
-      "title": "Alertas sobre agentes de IA e tokenização no sistema financeiro",
+      "id": "a8f71050-5955-453f-8d71-8e77a8bfdea7",
+      "title": "Cinco pessoas, incluindo menores, são presas na província de Aichi por roubo e tentativa de assassinato",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "AI agents financial system tokenization risks",
+        "video_query_en": "Japan crime tokuryu groups social media recruitment",
         "images": [
           {
-            "anchor": "O impacto de novas tecnologias financeiras",
-            "query_en": "financial technology digital tokenization concept"
+            "anchor": "O Crime em Komaki",
+            "query_en": "Komaki Aichi Prefecture residential neighborhood Japan"
           },
           {
-            "anchor": "A atuação de agentes autônomos",
-            "query_en": "artificial intelligence autonomous agents finance"
+            "anchor": "A Conexão com Grupos Tokuryū",
+            "query_en": "Japanese police investigation crime scene caution tape"
           }
         ]
       }
     },
     {
-      "id": "6a842f32-6c3b-4aed-996a-fd2702d4df8c",
-      "title": "Amazon inicia ofertas antecipadas de Black Friday com ferramentas Hazet",
+      "id": "9bf9c3eb-940a-47cd-86ed-bade2a15d4c3",
+      "title": "Pesquisa revela que mais da metade dos motoristas atravessou áreas alagadas durante chuvas em Chiba",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "driving through floodwater safety risk survey",
+        "images": [
+          {
+            "anchor": "Perigo consciente nas estradas",
+            "query_en": "car driving through flooded road heavy rain"
+          },
+          {
+            "anchor": "Detalhes da pesquisa",
+            "query_en": "University of Tokyo research study flood disaster"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e28e536-d5a8-49b8-830a-f52e21523277",
+      "title": "Japão registra déficit comercial pelo sexto mês consecutivo em outubro",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Black Friday Hazet tools review",
+        "video_query_en": "Japan trade deficit economy export import October",
         "images": [
           {
-            "anchor": "Ferramentas e Equipamentos em Destaque",
-            "query_en": "Hazet workshop tools and equipment"
-          },
-          {
-            "anchor": "Calibrador de pneus digital e analógico da Hazet, ideal para checagem rápida e segura da pressão.",
-            "query_en": "Hazet tire pressure gauge"
-          },
-          {
-            "anchor": "Suporte inteligente Smartholder, projetado para manter a organização de bits e pequenos acessórios de forma prática.",
-            "query_en": "Hazet Smartholder bits"
-          },
-          {
-            "anchor": "Jogos de bits e chaves de torque para ajustes milimétricos em diferentes tipos de montagem.",
-            "query_en": "Hazet torque wrench bits set"
-          },
-          {
-            "anchor": "O Contexto das Promoções Antecipadas",
-            "query_en": "Amazon warehouse Black Friday packages"
+            "anchor": "Cenário das exportações e importações",
+            "query_en": "Tokyo container port terminal Japan trade"
           }
         ]
       }
     },
     {
-      "id": "58b5c5f6-f0c4-484c-b16a-e15aae2dc738",
-      "title": "A Importância dos Testes de Penetração na Segurança da Informação",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "penetration testing cybersecurity explained",
-        "images": [
-          {
-            "anchor": "O Papel Fundamental dos Testes de Intrusão",
-            "query_en": "cybersecurity penetration testing engineer working on laptops"
-          },
-          {
-            "anchor": "Desafios na Proteção de Dados e Conformidade",
-            "query_en": "data privacy compliance security lock digital shield"
-          },
-          {
-            "anchor": "Ferramentas e Técnicas Utilizadas por Especialistas",
-            "query_en": "ethical hacker terminal screen hacking tools"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e146527d-e0d6-49c7-902b-9a36ef8be2ab",
-      "title": "A investida da Nvidia no setor de telecomunicações através do AI-RAN",
+      "id": "79ff6a0f-2dfa-45f1-84b1-a260fa143d88",
+      "title": "Manila abriga a 49ª Cúpula da ASEAN e reúne líderes globais para debates diplomáticos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia AI-RAN telecommunications strategy",
+        "video_query_en": "ASEAN summit Manila leaders gathering news footage",
         "images": [
           {
-            "anchor": "O conceito de AI-RAN e a estratégia da Nvidia",
-            "query_en": "Nvidia AI-RAN data center technology"
+            "anchor": "Destaques da Cúpula em Manila",
+            "query_en": "Ferdinand Marcos Jr speaking at ASEAN summit Manila"
           },
           {
-            "anchor": "Parcerias estratégicas no setor",
-            "query_en": "Nokia telecommunications hardware tower"
-          },
-          {
-            "anchor": "A reação e o ceticismo da indústria",
-            "query_en": "telecommunications network infrastructure antenna"
+            "anchor": "Transição e Próximos Passos na Diplomacia Regional",
+            "query_en": "Manila cityscape skyline Southeast Asia diplomacy"
           }
         ]
       }
     },
     {
-      "id": "aac711ea-ead8-4146-944c-14ded9541928",
-      "title": "Elon Musk apoia Jensen Huang, mas Tesla fica atrás de gigantes da tecnologia em petição",
+      "id": "82f47e98-9a57-4405-a241-e831646e7bcd",
+      "title": "Conexão financeira global do Afeganistão encolhe com saída de banco paquistanês",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tesla Elon Musk Jensen Huang Nvidia TSMC analysis",
+        "video_query_en": "Afghanistan banking crisis Pakistani bank exit",
         "images": [
           {
-            "anchor": "O peso da TSMC e da Nvidia",
-            "query_en": "TSMC semiconductor fabrication facility cleanroom"
+            "anchor": "O impacto da saída do Bank Alfalah",
+            "query_en": "Bank Alfalah branch building exterior"
           },
           {
-            "anchor": "TSMC lidera as menções de empregadores logo após a Nvidia nas petições analisadas.",
-            "query_en": "Nvidia CEO Jensen Huang presenting on stage"
+            "anchor": "O cenário atual com o National Bank of Pakistan",
+            "query_en": "National Bank of Pakistan building"
           },
           {
-            "anchor": "O cenário da Tesla e das Big Techs",
-            "query_en": "Tesla electric vehicle factory production line"
+            "anchor": "Desafios regionais e perspectivas econômicas",
+            "query_en": "Afghanistan Kabul street view economy"
           }
         ]
       }
     },
     {
-      "id": "b69f7f8d-00aa-4561-bdff-a13e40a3b7c5",
-      "title": "Xiaomi anuncia o Xiaomi Clip, seu primeiro fone de ouvido estilo ear-cuff por 19.800 ienes",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Xiaomi Clip ear cuff wireless earphones review",
-        "images": [
-          {
-            "anchor": "Preço, Disponibilidade e Período de Lançamento",
-            "query_en": "Xiaomi Japan product announcement event"
-          },
-          {
-            "anchor": "Design Leve e Especificações Técnicas",
-            "query_en": "Xiaomi Clip wireless earbuds open ear design"
-          },
-          {
-            "anchor": "Formato ear-cuff para uso confortável e sem oclusão do canal auditivo",
-            "query_en": "ear cuff wireless earbuds worn on ear"
-          },
-          {
-            "anchor": "Peso leve de apenas 5,5 gramas por fone",
-            "query_en": "lightweight wireless earbuds on hand"
-          },
-          {
-            "anchor": "Drivers de 11mm para reprodução de áudio",
-            "query_en": "audio speaker driver component macro"
-          },
-          {
-            "anchor": "Autonomia de bateria estendida de até 44 horas no total com o estojo",
-            "query_en": "wireless earphone charging case open"
-          },
-          {
-            "anchor": "Função exclusiva de gravação operada diretamente pelo estojo de carregamento",
-            "query_en": "smart earphone charging case with digital display"
-          },
-          {
-            "anchor": "Bateria e Recursos Inovadores do Estojo",
-            "query_en": "Xiaomi earphone charging case design"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6286359b-fcc4-4594-a3d0-b3bf1bf44ea3",
-      "title": "O sucesso do canal de YouTube 'Yurindo Shika Shiranai Sekai' e sua gestão livre",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Yurindo Shika Shiranai Sekai YouTube channel background",
-        "images": [
-          {
-            "anchor": "A autonomia na ponta e a cultura organizacional",
-            "query_en": "corporate team creative freedom office meeting"
-          },
-          {
-            "anchor": "O impacto da comunicação descontraída no mercado",
-            "query_en": "modern bookstore interior displays"
-          }
-        ]
-      }
-    },
-    {
-      "id": "441642dc-bc06-40e4-9bb0-e702ac1cb1cf",
-      "title": "A nova regra da Bolsa de Tóquio e o impacto no mercado de ações de empresas não listadas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tokyo Stock Exchange IPO market growth criteria",
-        "images": [
-          {
-            "anchor": "O desafio do mercado de ações pré-IPO diante de novas exigências",
-            "query_en": "Tokyo Stock Exchange building exterior"
-          },
-          {
-            "anchor": "Iniciativas para criar opções de liquidez em ativos privados",
-            "query_en": "business people meeting in modern office"
-          },
-          {
-            "anchor": "Perspectivas e desafios remanescentes na precificação",
-            "query_en": "financial charts and graphs on computer screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6b0e84fb-d562-49e0-9e96-d52c53e7a48f",
-      "title": "Como justificar o custo de ferramentas de IA para a diretoria corporativa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "corporate ai adoption business strategy ROI",
-        "images": [
-          {
-            "anchor": "O desafio de convencer os decisores sobre o valor da IA",
-            "query_en": "business executives meeting corporate office"
-          },
-          {
-            "anchor": "Estratégias para explicar o retorno sobre el investimento",
-            "query_en": "business data analytics financial charts"
-          },
-          {
-            "anchor": "Como superar a resistência e obter a aprovação final",
-            "query_en": "corporate teamwork modern office business"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e62f4cf0-0750-4c7a-bf30-388360e26d36",
-      "title": "OpenAI lança o \"ChatGPT Wallet\" nos Estados Unidos para permitir que agentes de IA realizem pagamentos",
+      "id": "3c3b52fe-e7c0-4ab0-9978-5ea30941b4c5",
+      "title": "Exame universitário de alto risco na Coreia do Sul enfrenta a ameaça de fraudes com inteligência artificial",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI ChatGPT Wallet launch payment agent",
+        "video_query_en": "South Korea university entrance exam AI cheating",
         "images": [
           {
-            "anchor": "Como funciona o ChatGPT Wallet",
-            "query_en": "ChatGPT mobile app interface digital wallet"
+            "anchor": "O impacto de escândalos recentes",
+            "query_en": "South Korean students studying classroom"
           },
           {
-            "anchor": "Os desafios da segurança e da responsabilidade financeira",
-            "query_en": "cybersecurity online payment protection data safety"
+            "anchor": "O peso do exame nacional",
+            "query_en": "South Korea university entrance exam test day"
+          },
+          {
+            "anchor": "Medidas de segurança e vigilância",
+            "query_en": "exam security classroom South Korea"
           }
         ]
       }
     },
     {
-      "id": "8402bf29-9d58-44ec-a7d1-b24f4194a985",
-      "title": "O Fenômeno da \"NISA Pobreza\" e os Desafios de Gestão com o Novo Perfil de Jovens Profissionais",
+      "id": "fab9456d-30f9-46c6-ac57-101cf7672514",
+      "title": "Diretor de Godzilla, Takashi Yamazaki, leva o bombardeio atômico de Hiroshima para as telas",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Takashi Yamazaki interview Godzilla Hiroshima atomic bombing Oppenheimer",
+        "images": [
+          {
+            "anchor": "Uma resposta direta a Oppenheimer",
+            "query_en": "Takashi Yamazaki director portrait"
+          },
+          {
+            "anchor": "O legado de Godzilla Minus One e o reconhecimento internacional",
+            "query_en": "Godzilla Minus One movie scene"
+          },
+          {
+            "anchor": "O desafio de preservar a memória histórica",
+            "query_en": "Hiroshima Peace Memorial Park atomic dome"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99fa0e3a-1d53-4425-9395-9e36e18200e8",
+      "title": "Daiwa Securities fortalece operações de banco de investimento na China após aquisição de parceiros locais",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "young professionals investment financial trend workplace impact",
+        "video_query_en": "Daiwa Securities China investment banking",
         "images": [
           {
-            "anchor": "Os Impactos na Vida Profissional e Social",
-            "query_en": "young employees working in modern office environment"
+            "anchor": "Movimentação estratégica no mercado chinês",
+            "query_en": "Daiwa Securities building Tokyo"
           },
           {
-            "anchor": "A Postura das Empresas Diante do Fenômeno",
-            "query_en": "business meeting corporate management discussion"
+            "anchor": "Vantagem competitiva e posicionamento regional",
+            "query_en": "Zhu Hongxia Daiwa Securities"
           },
           {
-            "anchor": "A Necessidade de Novas Estratégias de Gestão",
-            "query_en": "human resources management strategy planning corporate"
+            "anchor": "Contexto de mercado e iniciativas paralelas",
+            "query_en": "Tokyo financial district skyscrapers"
           }
         ]
       }
     },
     {
-      "id": "58686bae-6c23-4f54-8d9b-2fc3ebb84524",
-      "title": "Avaliando o Kindle Paperwhite Signature Edition de 2026 e os novos botões de virada de página",
+      "id": "1d39f6e0-0d37-40e7-9d75-2238aec3062d",
+      "title": "Xi Jinping posiciona a China como defensora do livre-comércio na cúpula da APEC em Shenzhen",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xi Jinping APEC summit Shenzhen speech free trade",
+        "images": [
+          {
+            "anchor": "## O discurso de abertura na APEC",
+            "query_en": "Xi Jinping speaking at APEC CEO Summit Shenzhen"
+          },
+          {
+            "anchor": "## Contexto e repercussão internacional",
+            "query_en": "APEC summit meeting room international delegates"
+          },
+          {
+            "anchor": "## Desafios globais e o futuro das negociações",
+            "query_en": "global supply chain shipping ports technology trade"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3d2b9642-248f-47e7-994d-1a537b98e017",
+      "title": "PIB da Malásia cresce 5,5% no terceiro trimestre impulsionado por investimentos e exportações",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Malaysia GDP Q3 growth economy manufacturing",
+        "images": [
+          {
+            "anchor": "Desempenho Econômico Trimestral da Malásia",
+            "query_en": "Kuala Lumpur skyline financial district Malaysia"
+          },
+          {
+            "anchor": "Pilares do Crescimento e Contexto Regional",
+            "query_en": "Malaysia manufacturing export semiconductor factory"
+          },
+          {
+            "anchor": "Perspectivas e Desafios Futuros",
+            "query_en": "Malaysian economy growth business meeting Kuala Lumpur"
+          }
+        ]
+      }
+    },
+    {
+      "id": "acb92708-070c-4071-8fc7-43c5ba558530",
+      "title": "APEC live: Russia's Putin, Malaysia's Anwar lob veiled critiques at US",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Economia"
+    },
+    {
+      "id": "32bff638-172b-4d8e-b938-2ce86978df93",
+      "title": "Empresas chinesas dominam feira de tecnologia em Portugal ignorando restrições da UE",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Web Summit Lisbon Chinese tech companies Agibot Rokid",
+        "images": [
+          {
+            "anchor": "A busca por parcerias e expansão europeia",
+            "query_en": "Web Summit Lisbon exhibition floor tech conference"
+          },
+          {
+            "anchor": "Neolix",
+            "query_en": "Neolix robovan autonomous delivery vehicle"
+          },
+          {
+            "anchor": "Fabricantes de equipamentos de combate a incêndio",
+            "query_en": "Chinese firefighting equipment tech"
+          },
+          {
+            "anchor": "Fabricantes de cigarros eletrônicos (vapes)",
+            "query_en": "vape manufacturing electronics"
+          },
+          {
+            "anchor": "Investidores industriais",
+            "query_en": "industrial machinery manufacturing factory"
+          },
+          {
+            "anchor": "Perspectiva de mercado e escrutínio regulatório",
+            "query_en": "European Union flags and buildings Brussels"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa152e50-f1ed-43a8-859b-d06c38f80945",
+      "title": "66 vulnerabilidades zero-day são descobertas em pilhas TCP/IP de infraestruturas críticas",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "zero day vulnerabilities TCP IP stacks critical infrastructure",
+        "images": [
+          {
+            "anchor": "O impacto nas infraestruturas críticas",
+            "query_en": "critical infrastructure cybersecurity control room"
+          },
+          {
+            "anchor": "A natureza das falhas descobertas",
+            "query_en": "cybersecurity vulnerability network code"
+          },
+          {
+            "anchor": "Descoberta de 66 vulnerabilidades do tipo zero-day em softwares de rede",
+            "query_en": "zero day exploit cyber security abstract"
+          },
+          {
+            "anchor": "Falhas localizadas em pilhas TCP/IP essenciais para a comunicação digital",
+            "query_en": "TCP IP network packet analysis"
+          },
+          {
+            "anchor": "Equipamentos afetados incluem sistemas de tecnologia operacional",
+            "query_en": "operational technology industrial control system"
+          },
+          {
+            "anchor": "Dispositivos de internet das coisas também estão na lista de vulneráveis",
+            "query_en": "internet of things smart devices security"
+          },
+          {
+            "anchor": "Aparelhos médicos especializados apresentam os mesmos pontos de fragilidade",
+            "query_en": "medical equipment hospital technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f2fe3e0-1d6c-4ea1-bbf5-ff248e511724",
+      "title": "Hyundai AutoEver conquista a nota máxima no Índice de Co-Prosperidade pela terceira vez consecutiva",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hyundai AutoEver Co-Prosperity Index",
+        "images": [
+          {
+            "anchor": "Histórico de conquistas e consistência",
+            "query_en": "Hyundai AutoEver headquarters building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ad89b33-4838-438f-9a7f-c3cf65b7f35f",
+      "title": "Webzen abre inscrições para testes beta de dois novos jogos planejados para lançamento",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Webzen new games trailer gameplay",
+        "images": [
+          {
+            "anchor": "Detalhes do Recrutamento",
+            "query_en": "video game beta testing announcement"
+          },
+          {
+            "anchor": "Tyrant of the Defense Game: LAST STAGE",
+            "query_en": "Tyrant of the Defense Game LAST STAGE gameplay"
+          },
+          {
+            "anchor": "Gate of Gates",
+            "query_en": "Gate of Gates game Webzen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b20a2c0a-c730-41b4-91e3-58ee1209fbf1",
+      "title": "RaonSecure integra Device Trust do Google em suas soluções de segurança",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "RaonSecure Google Device Trust Android Enterprise",
+        "images": [
+          {
+            "anchor": "O funcionamento do Device Trust",
+            "query_en": "Android Enterprise security shield digital concept"
+          },
+          {
+            "anchor": "Próximos passos e parcerias",
+            "query_en": "Google Android Enterprise partnership technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9d760982-6ceb-4f0e-a5b7-20d03781bc04",
+      "title": "GITSN conclui o desenvolvimento de sistema de inteligência artificial para detectar fraudes em exames",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "AI cheating detection system exam technology",
+        "images": [
+          {
+            "anchor": "O anúncio da GITSN",
+            "query_en": "GITSN artificial intelligence technology"
+          },
+          {
+            "anchor": "Planos de produção e validação",
+            "query_en": "exam testing center technology"
+          },
+          {
+            "anchor": "Perspectivas de mercado",
+            "query_en": "exam security AI system"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e29cbd8-f066-4ed4-89da-727601478eb8",
+      "title": "Cohesity expande atuação para segurança e inteligência artificial na Coreia do Sul",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Cohesity security and artificial intelligence",
+        "images": [
+          {
+            "anchor": "Conquista de novos clientes estratégicos",
+            "query_en": "Cohesity South Korea office building"
+          },
+          {
+            "anchor": "- Lotte",
+            "query_en": "Lotte group headquarters Seoul"
+          },
+          {
+            "anchor": "- Ahn-Gook",
+            "query_en": "Ahn-Gook corporate building"
+          },
+          {
+            "anchor": "- Kolon",
+            "query_en": "Kolon corporation building"
+          },
+          {
+            "anchor": "Expansão de mercado na Coreia do Sul",
+            "query_en": "Seoul business district skyline"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6a9bc2c0-06dd-4744-9a3c-f5ea2c4bc899",
+      "title": "NoisyTCP: Falha de 11 anos no kernel do Linux pode derrubar servidores remotamente",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Linux kernel vulnerability NoisyTCP server crash",
+        "images": [
+          {
+            "anchor": "O impacto da falha NoisyTCP",
+            "query_en": "Linux server room data center"
+          },
+          {
+            "anchor": "Contexto de migração no mercado",
+            "query_en": "Cloud computing virtual machine dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "412c6551-67c6-4df9-a7b0-0567d6781991",
+      "title": "Receita das 20 maiores empresas de cibersegurança da Coreia do Sul cresce 10% no acumulado de nove meses",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "South Korea cybersecurity market revenue growth",
+        "images": [
+          {
+            "anchor": "Crescimento expressivo no setor de segurança cibernética",
+            "query_en": "South Korean cybersecurity corporate office building Seoul"
+          },
+          {
+            "anchor": "Melhora marcante na rentabilidade",
+            "query_en": "financial growth chart cybersecurity profit"
+          },
+          {
+            "anchor": "Fatores impulsionadores da demanda",
+            "query_en": "cybersecurity digital threat protection screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa4dbebb-f0b0-4b67-8d51-8b163274a793",
+      "title": "Supercomputador chinês LineShine mantém a liderança no ranking global Top500",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "2026 Kindle Paperwhite Signature Edition review",
+        "video_query_en": "LineShine supercomputer SC26 China Top500",
         "images": [
           {
-            "anchor": "O novo design e a chegada dos botões de virada de página",
-            "query_en": "Kindle Paperwhite Signature Edition device"
+            "anchor": "Estabilidade no topo e exigências crescentes",
+            "query_en": "supercomputer data center server racks"
           },
           {
-            "anchor": "A experiência de uso com a nova capa",
-            "query_en": "Kindle Paperwhite protective case with buttons"
+            "anchor": "Desempenho recorde e arquitetura",
+            "query_en": "supercomputer hardware processors cooling"
+          },
+          {
+            "anchor": "Marca histórica de velocidade",
+            "query_en": "supercomputer high performance computing monitor"
+          },
+          {
+            "anchor": "Consumo energético",
+            "query_en": "data center power supply electrical infrastructure"
+          },
+          {
+            "anchor": "Componentes e software nacionais",
+            "query_en": "computer processor chip manufacturing"
+          },
+          {
+            "anchor": "Contexto geopolítico",
+            "query_en": "technology conference presentation stage"
+          },
+          {
+            "anchor": "O panorama global e a representação indiana",
+            "query_en": "global supercomputer center facility"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb18fb15-4376-48ba-8e22-de14aade1760",
+      "title": "Conselho da Nvidia afasta possibilidade de retornar com Jensen Huang para o cargo de CEO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia Jensen Huang CEO replacement board decision earnings",
+        "images": [
+          {
+            "anchor": "Repercussão e manifestação pública de Jensen Huang",
+            "query_en": "Jensen Huang Nvidia CEO portrait"
+          },
+          {
+            "anchor": "Apoio político e do setor de tecnologia",
+            "query_en": "Elon Musk tech conference speaking"
+          },
+          {
+            "anchor": "Resultados financeiros expressivos e silêncio no relatório",
+            "query_en": "Nvidia headquarters Santa Clara California"
+          },
+          {
+            "anchor": "Escândalo geopolítico e investigações no Congresso",
+            "query_en": "US Capitol building Washington DC"
           }
         ]
       }
@@ -736,47 +744,55 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "2421de68-a7d3-4edd-9bd6-e55182204b9f",
-      "title": "RPG gratuito 'The New Denpa Men' encerrará suas atividades ainda este ano",
+      "id": "a8abebbe-5cec-46fd-90d4-efaf8b494a46",
+      "title": "Jagex se pronuncia sobre o uso de inteligência artificial generativa em trailer de RuneScape",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The New Denpa Men Switch gameplay trailer",
+        "video_query_en": "RuneScape Dragon Slayer 2 trailer generative AI controversy",
         "images": [
           {
-            "anchor": "Fim do serviço regular em dezembro",
-            "query_en": "The New Denpa Men Switch game logo"
+            "anchor": "Detalhes da polêmica no trailer",
+            "query_en": "RuneScape 3 Dragon Slayer quest gameplay"
           },
           {
-            "anchor": "Motivos e pronunciamento da desenvolvedora",
-            "query_en": "Genius Sonority office logo developer"
+            "anchor": "A posição oficial da Jagex",
+            "query_en": "Jagex office building games studio"
           },
           {
-            "anchor": "Histórico no Nintendo Switch e Switch 2",
-            "query_en": "Nintendo Switch console screen gameplay"
+            "anchor": "Falhas nos processos com parceiros",
+            "query_en": "100 Thieves collaboration gaming"
+          },
+          {
+            "anchor": "Mudanças e planos futuros",
+            "query_en": "RuneFest event convention"
           }
         ]
       }
     },
     {
-      "id": "963dcf2d-a7e5-4a35-83e3-e136335f1803",
-      "title": "UK Charts: Metroid Prime 4: Beyond Retorna ao Top 10 e Novidades Movimentam a Semana",
+      "id": "ecf3fbfc-9b1d-4f3b-9dbb-d96c50140392",
+      "title": "Disney desmente boatos de compra da Epic Games e reforça foco em parcerias de conteúdo",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "UK Charts Metroid Prime 4 Beyond Minecraft Dungeons II",
+        "video_query_en": "Disney Epic Games partnership Fortnite Mandalorian",
         "images": [
           {
-            "anchor": "Estreias e Destaques da Semana",
-            "query_en": "Minecraft Dungeons II Nintendo Switch 2 game"
+            "anchor": "A posição oficial da Disney sobre os rumores",
+            "query_en": "Dana Walden Disney Executive"
           },
           {
-            "anchor": "Metroid Prime 4: Beyond Retorna ao Top 10",
-            "query_en": "Metroid Prime 4 Beyond Nintendo Switch"
+            "anchor": "O foco na parceria estratégica e em lançamentos",
+            "query_en": "Tim Sweeney Epic Games CEO"
           },
           {
-            "anchor": "Panorama Geral das Paradas Britânicas",
-            "query_en": "UK video game retail charts storefront"
+            "anchor": "Integração entre universos digitais e parques temáticos",
+            "query_en": "Fortnite Disney Mandalorian event"
+          },
+          {
+            "anchor": "Histórico de colaborações e planos futuros",
+            "query_en": "Disney characters in Fortnite"
           }
         ]
       }
