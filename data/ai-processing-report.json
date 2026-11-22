@@ -1,724 +1,792 @@
 {
-  "updated_at": "2026-11-21T11:17:55.551Z",
+  "updated_at": "2026-11-21T18:05:19.568Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "3e1c6201-046b-4535-a64a-64e38c970c66",
-      "title": "Da Hungria ao continente africano: a história por trás da clássica bolsa xadrez",
+      "id": "16f56a5d-30f0-428c-9c83-b7bdfcdd3237",
+      "title": "Exportações globais de petróleo bruto atingem recorde histórico apesar do fechamento de Ormuz",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Ghana Must Go bag history migration",
+        "video_query_en": "global crude oil exports Strait of Hormuz",
         "images": [
           {
-            "anchor": "Uma presença global nos mercados",
-            "query_en": "Ghana Must Go bag market Accra"
+            "anchor": "Um novo recorde de exportação",
+            "query_en": "oil tanker cargo ship crude exports"
           },
           {
-            "anchor": "O comércio nas ruas de Acra",
-            "query_en": "street vendor selling bags in Accra Ghana"
+            "anchor": "O papel das Américas",
+            "query_en": "North America Latin America oil production"
+          },
+          {
+            "anchor": "O volume diário transportado alcançou a marca de 47 milhões de barris",
+            "query_en": "barrels of crude oil logistics"
+          },
+          {
+            "anchor": "Contexto regional e desdobramentos",
+            "query_en": "oil refinery energy market infrastructure"
           }
         ]
       }
     },
     {
-      "id": "37da02cd-6e11-43b8-b65b-b18b0ed9dca5",
-      "title": "Trump demite diretor cibernético após falhas tecnológicas gerarem críticas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sean Cairncross fired White House cyber director tech outages",
-        "images": [
-          {
-            "anchor": "Demissão na Casa Branca",
-            "query_en": "White House press conference Donald Trump"
-          },
-          {
-            "anchor": "Impacto das falhas e escrutínio",
-            "query_en": "U.S. airport flight disruptions delays"
-          }
-        ]
-      }
-    },
-    {
-      "id": "652963f6-a690-483f-8fcf-a8f49b61bf79",
-      "title": "Por que Kim Jong Un não se encontrou com Donald Trump, apesar das expectativas",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Donald Trump Kim Jong Un meeting expectations analysis",
-        "images": [
-          {
-            "anchor": "A grande expectativa e a ausência do líder norte-coreano",
-            "query_en": "Donald Trump speaking to reporters"
-          },
-          {
-            "anchor": "Os compromissos oficiais de Kim Jong Un",
-            "query_en": "Kim Jong Un inspecting ski resort"
-          }
-        ]
-      }
-    },
-    {
-      "id": "fa8c4756-1a7e-4011-9348-fc3808a4bd25",
-      "title": "A estreia da Anthropic em Wall Street e o balde de água fria no mercado de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic AI stock market IPO debut Wall Street",
-        "images": [
-          {
-            "anchor": "A chegada da Anthropic a Wall Street",
-            "query_en": "Wall Street stock market trading floor"
-          },
-          {
-            "anchor": "O desempenho das ações no fechamento",
-            "query_en": "stock market chart declining trend"
-          },
-          {
-            "anchor": "Impacto no restante do setor tecnológico",
-            "query_en": "technology stock exchange board numbers"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c73f1b4a-4e1e-4d91-a22d-5409934d9748",
-      "title": "Enquanto Trump busca acordos com Xi e Putin, potências médias traçam novos caminhos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Trump Xi Putin APEC summit Shenzhen middle powers analysis",
-        "images": [
-          {
-            "anchor": "O realinhamento global e o movimento das potências médias",
-            "query_en": "global geopolitics map world leaders meeting"
-          },
-          {
-            "anchor": "O encontro de cúpula em Shenzhen",
-            "query_en": "Shenzhen city lakeside villa APEC summit"
-          },
-          {
-            "anchor": "A resposta estratégica do Canadá e do Japão",
-            "query_en": "Canada Prime Minister and Japan Prime Minister flags"
-          }
-        ]
-      }
-    },
-    {
-      "id": "73ea38c0-3acd-4f59-a99c-767b839ad47c",
-      "title": "A trilha sonora retrofuturista de Susumu Hirasawa para o anime Paprika ganha nova vida",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Susumu Hirasawa Paprika soundtrack anime music",
-        "images": [
-          {
-            "anchor": "Uma parceria histórica no cinema de animação",
-            "query_en": "Satoshi Kon Paprika anime film scene"
-          },
-          {
-            "anchor": "Millennium Actress",
-            "query_en": "Millennium Actress anime Satoshi Kon"
-          },
-          {
-            "anchor": "Paranoia Agent",
-            "query_en": "Paranoia Agent anime series"
-          },
-          {
-            "anchor": "Paprika",
-            "query_en": "Susumu Hirasawa Paprika concert performance"
-          },
-          {
-            "anchor": "O legado eterno de Satoshi Kon e Susumu Hirasawa",
-            "query_en": "Paprika anime poster Satoshi Kon"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4cfcdc8e-ef40-4f9d-a65c-2425ebf7461b",
-      "title": "Países abrem caminho para pacto sobre armas autônomas na ONU",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "killer robots autonomous weapons UN talks Geneva",
-        "images": [
-          {
-            "anchor": "O avanço nas negociações de Genebra",
-            "query_en": "United Nations meeting room Geneva negotiations"
-          },
-          {
-            "anchor": "A insatisfação de ativistas e ONGs",
-            "query_en": "protesters campaign against killer robots UN"
-          },
-          {
-            "anchor": "O dilema das armas autônomas",
-            "query_en": "autonomous military drone artificial intelligence warfare"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c73c0dfd-3dcf-440f-b894-811c875df82e",
-      "title": "Pesquisador da Anthropic afirma que o Claude ajudou a solucionar a Hipótese de Riemann",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Anthropic Claude Riemann Hypothesis mathematics",
-        "images": [
-          {
-            "anchor": "Uma marca histórica na matemática pura",
-            "query_en": "advanced mathematics blackboard equations"
-          },
-          {
-            "anchor": "O mistério da Hipótese de Riemann",
-            "query_en": "Bernhard Riemann portrait mathematics"
-          },
-          {
-            "anchor": "O anúncio e a nota de Levent Alpoge",
-            "query_en": "scientific research paper notes"
-          },
-          {
-            "anchor": "Levent Alpoge",
-            "query_en": "mathematician working at desk"
-          },
-          {
-            "anchor": "Claude",
-            "query_en": "artificial intelligence chatbot interface"
-          },
-          {
-            "anchor": "Bernhard Riemann",
-            "query_en": "historical mathematics manuscript"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0b5315f7-1006-433a-919a-86a2e691caaf",
-      "title": "Departamento de Agricultura e FBI dos EUA sofrem invasões cibernéticas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "FBI and USDA cyberattack US institutions",
-        "images": [
-          {
-            "anchor": "A onda de ataques cibernéticos",
-            "query_en": "FBI building Washington DC seal"
-          },
-          {
-            "anchor": "Detalhes das divulgações e investigações",
-            "query_en": "Cybersecurity laptop screen code visualization"
-          },
-          {
-            "anchor": "Contexto de instabilidade nas instituições",
-            "query_en": "US Capitol building Washington DC"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b8764197-33ad-406a-b728-896224c1a7f4",
-      "title": "A grande preocupação do primeiro-ministro britânico Andy Burnham não é o Brexit ou o sistema de assistência social, mas sim Trump e o Irã",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Andy Burnham Donald Trump Iran policy UK economy",
-        "images": [
-          {
-            "anchor": "O contraste entre a agenda pública e os bastidores",
-            "query_en": "Andy Burnham British Prime Minister office"
-          },
-          {
-            "anchor": "A ameaça de uma nova ofensiva americana",
-            "query_en": "Donald Trump white house press conference"
-          },
-          {
-            "anchor": "Desafios internacionais",
-            "query_en": "UK government cabinet meeting Downing Street"
-          },
-          {
-            "anchor": "O impacto econômico dos acordos europeus e do cenário iraniano",
-            "query_en": "European Union flags Brussels buildings"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d6a9be4e-032b-4424-97a0-f00724177073",
-      "title": "Liderança da Indonésia ecoa passado de Sukarno em meio a desafios regionais e pressões financeiras",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Prabowo Subianto Indonesia leadership ASEAN summit",
-        "images": [
-          {
-            "anchor": "O legado de Sukarno e a política externa",
-            "query_en": "Prabowo Subianto Indonesian president speech"
-          },
-          {
-            "anchor": "Desafios econômicos e tensões regionais",
-            "query_en": "ASEAN summit meeting Philippines"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b9cf27a5-37e9-4a66-aa27-4b3d48c3c848",
-      "title": "Tradicional fabricante japonês de carimbos entra no setor de IA para autenticar vídeos no X",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan stamp maker Shachihata AI video authentication X",
-        "images": [
-          {
-            "anchor": "A ameaça da digitalização ao mercado de hanko",
-            "query_en": "traditional Japanese hanko stamp Shachihata"
-          },
-          {
-            "anchor": "A tecnologia por trás da autenticação de vídeos",
-            "query_en": "digital video authentication AI watermarking cybersecurity"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9b047448-d3a7-4938-8985-e6a98b691d79",
-      "title": "iPhone Duo: Uma análise completa do primeiro smartphone dobrável da Apple",
+      "id": "d78b7299-68fd-43c3-9c91-c5606fa86fbb",
+      "title": "Ofertas da Black Friday na Blau trazem iPhone com pacote de dados",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iPhone Duo foldable review features",
+        "video_query_en": "Blau Black Deal iPhone offer",
         "images": [
           {
-            "anchor": "Design e Tela",
-            "query_en": "iPhone Duo foldable titanium frame design and display"
+            "anchor": "Promoções de Black Friday na Blau",
+            "query_en": "Blau mobile store promotional banner"
           },
           {
-            "anchor": "Alguns Ajustes e Incomodações",
-            "query_en": "iPhone Duo unfolded inner screen crease view"
+            "anchor": "Detalhes da Oferta com o iPhone",
+            "query_en": "Apple iPhone Pro smartphone device"
           },
           {
-            "anchor": "Bateria, Câmera e Chip",
-            "query_en": "iPhone Duo camera module and outer screen preview"
-          },
-          {
-            "anchor": "O Custo de Propriedade",
-            "query_en": "iPhone Duo retail box and premium smartphone display"
-          },
-          {
-            "anchor": "Veredito",
-            "query_en": "iPhone Duo folded format passport design"
+            "anchor": "Condições de Privacidade e Consentimento",
+            "query_en": "Cookie consent privacy notice on website"
           }
         ]
       }
     },
     {
-      "id": "9e13d781-4fae-46be-832a-5ad6bb3f9008",
-      "title": "Trump vows to punish U.S. firms building data centres abroad",
-      "status": "error",
-      "error": "Supabase 522 em /rest/v1/articles?id=eq.9e13d781-4fae-46be-832a-5ad6bb3f9008: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-21 11:14:24 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5df44cbe8e53cdf</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">128.24.163.67</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "e3aaa0ca-df3e-4b5b-80f5-2f7211d5f4d2",
-      "title": "Signal Restricts Screenshots to Block AI Agents from Reading Messages",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Signal app restricts screenshots AI agents privacy",
-        "images": [
-          {
-            "anchor": "O Desafio da Inteligência Artificial Integrada aos Sistemas",
-            "query_en": "Artificial intelligence digital privacy cybersecurity smartphone screen"
-          },
-          {
-            "anchor": "O Impacto no Ambiente Operacional",
-            "query_en": "Signal secure messaging app interface smartphone privacy protection"
-          },
-          {
-            "anchor": "Precedentes e Limitações Técnicas",
-            "query_en": "Operating system security settings mobile and desktop technology"
-          },
-          {
-            "anchor": "Casos Práticos e a Resposta da Indústria",
-            "query_en": "Meta AI agent assistant interface running on computer screen"
-          },
-          {
-            "anchor": "A Visão do Signal sobre Controle de Dados",
-            "query_en": "Data privacy encryption server secure communication lock icon"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9a867a96-98a8-4a3f-9ba9-b9a25cda1046",
-      "title": "Práticas contábeis da Nvidia entram na mira de investigação da SEC, dizem fontes",
+      "id": "d6371c07-7425-4cf4-9d3c-0ed731f59573",
+      "title": "Oportunidades no setor de tecnologia: vagas em administração, engenharia de dados e segurança",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia SEC accounting investigation",
+        "video_query_en": "IT jobs administration data engineering security",
         "images": [
           {
-            "anchor": "Detalhes da investigação da SEC",
-            "query_en": "US Securities and Exchange Commission building seal"
+            "anchor": "Segurança da informação no setor público",
+            "query_en": "Cybersecurity government ministry IT security"
           },
           {
-            "anchor": "O contexto de crises e escândalos corporativos",
-            "query_en": "Jensen Huang Nvidia CEO portrait"
+            "anchor": "Engenharia de dados em serviços de emergência",
+            "query_en": "Data engineering rescue service emergency tech"
           },
           {
-            "anchor": "Outras frentes de pressão jurídica e regulatória",
-            "query_en": "US Department of Justice building Washington DC"
+            "anchor": "Administração de sistemas corporativos",
+            "query_en": "System administration enterprise IT servers"
           },
           {
-            "anchor": "Mudanças contábeis e o escrutínio sobre o Sudeste Asiático",
-            "query_en": "Nvidia microchip semiconductor processor"
-          },
-          {
-            "anchor": "A atuação atual da SEC",
-            "query_en": "Financial documents accounting report audit"
+            "anchor": "Perspectivas na carreira tecnológica",
+            "query_en": "IT career tech jobs professional opportunities"
           }
         ]
       }
     },
     {
-      "id": "30585b1f-81f0-4c22-af2c-7a866f199e01",
-      "title": "Startup de Pune desenvolve protótipo de relógio atômico diante de restrições globais de exportação",
-      "category": "Ciência",
+      "id": "2d51ca47-89f4-414b-becc-91b31cd41b37",
+      "title": "Trump defende o retorno de Jensen Huang ao cargo de CEO da Nvidia",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "atomic clock technology rubidium 87 CPT precision timing",
+        "video_query_en": "Jensen Huang Nvidia Donald Trump",
         "images": [
           {
-            "anchor": "O contexto das restrições e o avanço da startup",
-            "query_en": "laboratory scientific research equipment optics lab"
-          },
-          {
-            "anchor": "A importância estratégica dos relógios atômicos",
-            "query_en": "satellite navigation telecommunications infrastructure"
-          },
-          {
-            "anchor": "Desempenho técnico e declarações oficiais",
-            "query_en": "rubidium atomic clock precision measurement device"
-          },
-          {
-            "anchor": "Alinhamento com as diretrizes nacionais da Índia",
-            "query_en": "quantum technology research laboratory India"
+            "anchor": "Repercussão política e o posicionamento da Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO"
           }
         ]
       }
     },
     {
-      "id": "bbab7ead-e673-4f8c-9d73-5c0a9eb9e3b3",
-      "title": "Grand Theft Auto VI arrecada US$ 3,79 bilhões em vendas no primeiro dia e quebra recordes históricos",
+      "id": "94156821-2d32-460b-a5a0-11041bd212b0",
+      "title": "Elon Musk visita a fábrica da Tesla em Xangai após três anos e elogia capacidade produtiva chinesa",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elon Musk visits Tesla Shanghai factory Gigafactory China",
+        "images": [
+          {
+            "anchor": "Elogios à fabricação local",
+            "query_en": "Tesla Shanghai Gigafactory assembly line China"
+          },
+          {
+            "anchor": "Contexto da visita relâmpago",
+            "query_en": "Elon Musk speaking at Tesla factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb82a1d2-7d47-4bf7-acf3-f930570010e1",
+      "title": "A nota de Ocarina of Time Remake no Metacritic sofre ataque de fãs de GTA 6",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Grand Theft Auto VI launch sales record Rockstar Games",
+        "video_query_en": "Zelda Ocarina of Time remake Metacritic review bombing GTA 6",
         "images": [
           {
-            "anchor": "Recordes globais e estimativas iniciais",
-            "query_en": "Grand Theft Auto VI gameplay graphics"
+            "anchor": "A reviravolta nas notas dos usuários",
+            "query_en": "The Legend of Zelda Ocarina of Time remake Nintendo Switch 2"
           },
           {
-            "anchor": "Comparação com o antecessor",
-            "query_en": "Grand Theft Auto V cover art"
+            "anchor": "O impacto na pontuação do clássico",
+            "query_en": "Metacritic logo website scores"
           },
           {
-            "anchor": "Detalhes de preço e pré-venda",
-            "query_en": "PlayStation store logo and interface"
-          },
-          {
-            "anchor": "Retorno a Vice City e novos protagonistas",
-            "query_en": "Vice City Miami inspired neon aesthetic"
-          },
-          {
-            "anchor": "Manni L. Perez interpreta a personagem Lucia no jogo.",
-            "query_en": "Manni L. Perez actress"
-          },
-          {
-            "anchor": "Dylan Rourke assume o papel do protagonista Jason.",
-            "query_en": "Dylan Rourke actor"
-          },
-          {
-            "anchor": "Bobby Moynihan integra o elenco de vozes e atuações.",
-            "query_en": "Bobby Moynihan actor"
-          },
-          {
-            "anchor": "Stephen Root faz parte do grupo de atores da produção.",
-            "query_en": "Stephen Root actor"
-          },
-          {
-            "anchor": "Taryn Manning participa dos créditos do jogo.",
-            "query_en": "Taryn Manning actress"
-          },
-          {
-            "anchor": "Roselyn Sanchez está entre os nomes conhecidos na equipe.",
-            "query_en": "Roselyn Sanchez actress"
-          },
-          {
-            "anchor": "Denzel Curry, o rapper, também compõe o elenco do título.",
-            "query_en": "Denzel Curry rapper"
+            "anchor": "A volatilidade das avaliações online",
+            "query_en": "Grand Theft Auto 6 GTA 6 Rockstar Games"
           }
         ]
       }
     },
     {
-      "id": "1d3eef06-f88b-4797-bad2-5234db1a2757",
-      "title": "Google lança Gemini 4 Neon para competir diretamente com Claude Opus 5.5 e GPT-6.2 Sol",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Google Gemini 4 Neon AI model announcement features",
-        "images": [
-          {
-            "anchor": "Desempenho e Comparação com Concorrentes",
-            "query_en": "Google DeepMind AI research office workspace"
-          },
-          {
-            "anchor": "Custos e Janela de Contexto",
-            "query_en": "Data center servers processing AI workloads"
-          },
-          {
-            "anchor": "Experiência do Usuário e Casos de Uso Práticos",
-            "query_en": "Person using AI assistant on smartphone and laptop"
-          },
-          {
-            "anchor": "Segurança e Disponibilidade",
-            "query_en": "Software developer coding on multiple monitors"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bbdd2b0a-e8a8-4413-aae6-def32efe8e05",
-      "title": "Hardware usado: Estação de trabalho para IA econômica supera desktop Framework",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "budget ai workstation used hardware review",
-        "images": [
-          {
-            "anchor": "O conceito da estação de trabalho econômica",
-            "query_en": "used computer hardware workstation"
-          },
-          {
-            "anchor": "Desafios e perspectivas para o mercado de IA local",
-            "query_en": "artificial intelligence server setup"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dfe0addf-de97-46c6-9819-046f1cab3a49",
-      "title": "Nova tecnologia de medição a laser promete aumentar a geração de energia em parques eólicos existentes",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "laser measurement wind turbine optimization lidar technology",
-        "images": [
-          {
-            "anchor": "O funcionamento da tecnologia de medição",
-            "query_en": "laser wind measurement lidar system turbine"
-          },
-          {
-            "anchor": "Vantagens para parques eólicos já instalados",
-            "query_en": "existing wind farm aerial view turbines"
-          }
-        ]
-      }
-    },
-    {
-      "id": "372d1262-7192-4f2d-abfe-fbc891026b75",
-      "title": "Como desenvolvedores encontram erros ocultos em Kubernetes antes do deployment",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kubernetes integration tests with kind and testcontainers",
-        "images": [
-          {
-            "anchor": "O desafio dos testes em ambientes simulados",
-            "query_en": "software developer debugging code on multiple monitors"
-          },
-          {
-            "anchor": "Abordagens modernas com kind e Testcontainers",
-            "query_en": "Kubernetes and Docker container architecture diagram"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2bd28bda-73b5-4257-a9cf-57cfa07dd2e7",
-      "title": "Cultura da Nvidia sob escrutínio após acusações contra o CEO Jensen Huang",
+      "id": "f25a9ba6-4d74-47eb-a552-f104ebedefd1",
+      "title": "Novo Hyundai Elantra Hybrid estreia com 53 mpg e assistente de inteligência artificial",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia corporate culture Jensen Huang New York Times",
+        "video_query_en": "2028 Hyundai Elantra Hybrid LA Auto Show review",
         "images": [
           {
-            "anchor": "Relatos de tiradase incidentes internos",
+            "anchor": "Motorização híbrida mais potente e eficiente",
+            "query_en": "Hyundai Elantra Hybrid powertrain engine"
+          },
+          {
+            "anchor": "Tecnologia Pleos Connect e Gleo AI",
+            "query_en": "Hyundai Elantra interior dashboard display Gleo AI"
+          },
+          {
+            "anchor": "Design exterior ousado e dimensões ampliadas",
+            "query_en": "2027 Hyundai Elantra exterior design LA Auto Show"
+          },
+          {
+            "anchor": "Lançamento e expectativas de mercado",
+            "query_en": "Hyundai Elantra sedan parked exterior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f32c3eda-565f-4a82-994e-19d5846d6366",
+      "title": "Showrunner de Blade Runner 2099 recorreu a Ridley Scott para tirar dúvidas sobre o cânone da franquia",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Blade Runner 2099 Ridley Scott showrunner interview trailer Prime Video",
+        "images": [
+          {
+            "anchor": "A busca pelo cânone e a criação da \"Bíblia\" da série",
+            "query_en": "Ridley Scott Blade Runner director silhouette cyberpunk"
+          },
+          {
+            "anchor": "O significado exato atribuído ao conceito de Off-world.",
+            "query_en": "Blade Runner cyberpunk city futuristic skyline neon"
+          },
+          {
+            "anchor": "A origem detalhada dos Replicantes dentro da cronologia.",
+            "query_en": "Blade Runner Replicant eyes cinematic lighting"
+          },
+          {
+            "anchor": "A concepção original da figura de Tyrell e como o diretor o imaginava.",
+            "query_en": "Blade Runner Tyrell corporation pyramid interior"
+          },
+          {
+            "anchor": "O passado e o futuro no universo de Blade Runner",
+            "query_en": "Michelle Yeoh Hunter Schafer Blade Runner 2099"
+          },
+          {
+            "anchor": "Conexões e expectativas para a estreia",
+            "query_en": "Blade Runner 2099 Prime Video poster official"
+          }
+        ]
+      }
+    },
+    {
+      "id": "18e78dad-e4dd-43bf-a271-d00dd6b89546",
+      "title": "Como completar a missão Tourist Trap em GTA 6: guia passo a passo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Tourist Trap mission walkthrough",
+        "images": [
+          {
+            "anchor": "Como iniciar a missão no Grassrivers Visitor Center",
+            "query_en": "Grassrivers Visitor Center GTA 6"
+          },
+          {
+            "anchor": "A emboscada dos policiais disfarçados e a troca de tiros",
+            "query_en": "GTA 6 police shootout undercover"
+          },
+          {
+            "anchor": "Fuga final e conclusão da missão no chalé de Cal",
+            "query_en": "GTA 6 boat escape pier"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1a138ad3-553b-4d21-a047-e7096c03d46d",
+      "title": "Como conseguir o código do cofre da Avery Pawn Shop em GTA 6",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 pawn shop safe code guide gameplay",
+        "images": [
+          {
+            "anchor": "Localizando o cofre da Avery Pawn Shop",
+            "query_en": "GTA 6 pawn shop interior"
+          },
+          {
+            "anchor": "Como intimidar os funcionários e desativar o alarme",
+            "query_en": "GTA 6 safe office alarm"
+          },
+          {
+            "anchor": "Uma alternativa explosiva com bombas adesivas",
+            "query_en": "GTA sticky bomb explosion"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9b621bd5-b1d9-4a81-a335-92dce45d2589",
+      "title": "Como conseguir e usar a Snap Gun em GTA 6 para abrir portas silenciosamente",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Snap Gun gameplay guide lockpick",
+        "images": [
+          {
+            "anchor": "Como conseguir a Snap Gun",
+            "query_en": "GTA 6 Yasmani jewelry jobs mission"
+          },
+          {
+            "anchor": "Como usar a Snap Gun",
+            "query_en": "GTA 6 lockpicking mechanic door"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc02e60a-a8e2-4636-801b-98a3efe4c88f",
+      "title": "Como conseguir o Key Cloner em GTA 6 e roubar carros de luxo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 how to get Key Cloner and steal cars",
+        "images": [
+          {
+            "anchor": "Como conseguir um Key Cloner em GTA 6",
+            "query_en": "GTA 6 car theft mission Zorrusso"
+          },
+          {
+            "anchor": "Como clonar chaves em GTA 6",
+            "query_en": "GTA 6 mobile phone app Key Cloner"
+          },
+          {
+            "anchor": "Atenção aos rastreadores em veículos sem chave",
+            "query_en": "GTA 6 luxury car pursuit police"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d001adf9-8899-46ef-a52f-79c89e7a6714",
+      "title": "Como desbloquear o Dye-Pack Jammer em GTA 6 e roubar Notas Marcadas",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Dye-Pack Jammer how to unlock",
+        "images": [
+          {
+            "anchor": "Como conseguir o Dye-Pack Jammer em GTA 6",
+            "query_en": "GTA 6 Jason and Lucia Vice City"
+          },
+          {
+            "anchor": "Para que serve o Dye-Pack Jammer?",
+            "query_en": "GTA 6 bank robbery gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1f084761-f642-492c-9eb8-f2dd43bed9cb",
+      "title": "Como desbloquear a Ferramenta de Corte em GTA 6 e abrir os contêineres Scoop amarelos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Cut Off Tool unlock and Scoop containers guide",
+        "images": [
+          {
+            "anchor": "Como desbloquear a Ferramenta de Corte em GTA 6",
+            "query_en": "GTA 6 Jason and Lucia gameplay Leonida"
+          },
+          {
+            "anchor": "Como usar a Ferramenta de Corte em contêineres Scoop",
+            "query_en": "GTA 6 yellow cargo container Scoop"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e770054d-48fe-4c8d-829b-4d78922a32c7",
+      "title": "Como conseguir e usar máscaras em GTA 6 para esconder sua identidade e reduzir o nível de alerta",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 how to get and equip a mask guide",
+        "images": [
+          {
+            "anchor": "Onde comprar máscaras em Leonida",
+            "query_en": "GTA 6 gun store ammunition shop Vice City"
+          },
+          {
+            "anchor": "Como equipar e gerenciar suas máscaras",
+            "query_en": "GTA 6 character loadout inventory mask"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b8f8233-6bff-469c-953d-bd306e021542",
+      "title": "Você deve apertar a mão de Mattia em GTA 6? Descubra o impacto real dessa escolha",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Day Release mission Mattia hand shake gameplay",
+        "images": [
+          {
+            "anchor": "O impacto de apertar ou recusar a mão de Mattia",
+            "query_en": "GTA 6 character Mattia"
+          },
+          {
+            "anchor": "A oferta de drogas na boate",
+            "query_en": "GTA 6 nightclub scene Jason and Lucia"
+          },
+          {
+            "anchor": "Consequências a longo prazo e o futuro da campanha",
+            "query_en": "GTA 6 Chapter 1 gameplay"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9da3095-0d59-4249-bd76-170da4e89749",
+      "title": "GTA 6 Equipment: Guia completo com todos os 12 itens e como desbloqueá-los",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 all equipment and how to unlock them",
+        "images": [
+          {
+            "anchor": "Os 12 Equipamentos de GTA 6",
+            "query_en": "GTA 6 gameplay characters Jason and Lucia"
+          },
+          {
+            "anchor": "Binóculos",
+            "query_en": "GTA 6 binoculars equipment item"
+          },
+          {
+            "anchor": "Lanterna",
+            "query_en": "GTA 6 flashlight weapon attachment"
+          },
+          {
+            "anchor": "Bolsa de Viagem",
+            "query_en": "GTA 6 duffel bag loot robbery"
+          },
+          {
+            "anchor": "Fones de Ouvido",
+            "query_en": "GTA 6 characters listening to music headphones"
+          },
+          {
+            "anchor": "Pé de Cabra",
+            "query_en": "GTA 6 pry bar wooden crate"
+          },
+          {
+            "anchor": "Máscaras",
+            "query_en": "GTA 6 robbery masks customization"
+          },
+          {
+            "anchor": "Detector de Metais",
+            "query_en": "GTA 6 metal detector underwater discovery"
+          },
+          {
+            "anchor": "Slim Jim",
+            "query_en": "GTA 6 car theft slim jim tool"
+          },
+          {
+            "anchor": "Pistola de Pressão (Snap Gun)",
+            "query_en": "GTA 6 snap gun lockpick tool"
+          },
+          {
+            "anchor": "Ferramenta de Corte (Cut-Off Tool)",
+            "query_en": "GTA 6 cut off tool container"
+          },
+          {
+            "anchor": "Clonador de Chave (Key Cloner)",
+            "query_en": "GTA 6 key cloner phone app car"
+          },
+          {
+            "anchor": "Bloqueador de Cápsula de Tinta (Dye Pack Jammer)",
+            "query_en": "GTA 6 dye pack jammer money robbery"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3b8b4faa-4773-4b53-a70d-e6c358e41e24",
+      "title": "Grand Theft Auto VI arrecada quase US$ 4 bilhões no primeiro dia e quebra recorde histórico",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Grand Theft Auto VI launch sales record Take Two",
+        "images": [
+          {
+            "anchor": "O maior lançamento do entretenimento mundial",
+            "query_en": "Grand Theft Auto VI logo Rockstar Games"
+          },
+          {
+            "anchor": "Recorde absoluto em pré-vendas",
+            "query_en": "GTA VI gameplay preview"
+          }
+        ]
+      }
+    },
+    {
+      "id": "879cd9a0-0a63-40fe-91cc-9abdd80c6466",
+      "title": "LG e Samsung querem trazer lavagem de roupas com dióxido de carbono para as residências",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Samsung CO2 laundry technology home appliance",
+        "images": [
+          {
+            "anchor": "A tecnologia de lavagem com CO2",
+            "query_en": "LG washing machine prototype technology"
+          },
+          {
+            "anchor": "Como funciona o processo",
+            "query_en": "industrial CO2 dry cleaning machine"
+          },
+          {
+            "anchor": "Perspectivas para o mercado doméstico",
+            "query_en": "future smart home laundry appliance"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d89b5c09-2ace-4b37-8634-01e25795a467",
+      "title": "Relatório do New York Times aponta comportamento abusivo de Jensen Huang na Nvidia ao longo de décadas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia management style NYT report",
+        "images": [
+          {
+            "anchor": "Histórico de comportamentos na liderança da Nvidia",
             "query_en": "Jensen Huang Nvidia CEO speaking"
           },
           {
-            "anchor": "Reações e silêncio corporativo",
-            "query_en": "Nvidia headquarters building exterior"
+            "anchor": "Dois antigos executivos tentaram processar a empresa após serem demitidos do quadro de funcionários.",
+            "query_en": "Nvidia corporate headquarters building"
           }
         ]
       }
     },
     {
-      "id": "e5e38747-8cb1-46b2-92da-a8e4a434f2f0",
-      "title": "Tineco Switch S7 Stretch atinge novo preço mínimo na Amazon durante a Black Friday",
-      "category": "Empresas",
+      "id": "e6997aa2-4f39-4f11-a914-3100baf9bab7",
+      "title": "T-Mobile anuncia oferta de Black Friday com iPhone 18 Pro gratuito para novos clientes",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tineco Switch S7 Stretch review",
+        "video_query_en": "T-Mobile iPhone 18 Pro Black Friday deal",
         "images": [
           {
-            "anchor": "Uma oferta de destaque na Black Friday",
-            "query_en": "Amazon warehouse Black Friday packages"
+            "anchor": "Destaque da promoção de Black Friday",
+            "query_en": "Apple iPhone 18 Pro smartphone"
           },
           {
-            "anchor": "Funcionalidades principais do Tineco Switch S7 Stretch",
-            "query_en": "Tineco Switch S7 Stretch vacuum cleaner"
+            "anchor": "Como resgatar o iPhone 18 Pro sem custos",
+            "query_en": "T-Mobile store front retail"
+          },
+          {
+            "anchor": "Troca sem aparelho antigo",
+            "query_en": "Person switching mobile carrier"
+          },
+          {
+            "anchor": "Troca de aparelho em qualquer condição",
+            "query_en": "Used smartphone trade in"
+          },
+          {
+            "anchor": "Detalhes e letras miúdas da oferta",
+            "query_en": "Mobile phone bill contract"
           }
         ]
       }
     },
     {
-      "id": "f673d236-168d-4a07-8da1-98c71e7ddb81",
-      "title": "Rockstar Games: GTA 6 vende 32,5 milhões de unidades e bate recordes históricos",
-      "category": "Games",
+      "id": "0dfcb2a4-fda9-4223-ab4a-576e6c2c99bc",
+      "title": "Os melhores iPads para comprar em 2026: testamos toda a linha da Apple",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GTA 6 sales records 32.5 million copies Rockstar Games",
+        "video_query_en": "best ipads to buy 2026 apple tablet lineup tested",
         "images": [
           {
-            "anchor": "Impacto na Indústria de Games",
-            "query_en": "Grand Theft Auto 6 gameplay graphics Rockstar Games"
+            "anchor": "Ofertas e descontos de Black Friday",
+            "query_en": "ipad black friday deals shopping tech store"
           },
           {
-            "anchor": "- Faturamento recorde de 3,79 bilhões de dólares em receita bruta.",
-            "query_en": "GTA 6 launch success money revenue"
+            "anchor": "Os aumentos recentes nos preços dos iPads",
+            "query_en": "apple ipad air mini pro lineup 2026"
           }
         ]
       }
     },
     {
-      "id": "dfec32c0-1284-4493-b14c-30e2d9679d77",
-      "title": "Corrida da Inteligência Artificial: Trump Ameaça Rechenzentren no Exterior com Impostos Elevados",
-      "category": "Empresas",
+      "id": "11bb21c6-7a7c-4c1b-878f-9e6f81d25f46",
+      "title": "Os melhores Kindles de 2026: testamos os novos leitores digitais da Amazon",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Donald Trump artificial intelligence data centers tax threat",
+        "video_query_en": "Amazon Kindle 2026 lineup review and testing",
         "images": [
           {
-            "anchor": "O Contexto da Corrida Tecnológica",
-            "query_en": "artificial intelligence data center server room"
+            "anchor": "Como aproveitar ao máximo o seu Kindle",
+            "query_en": "Amazon Kindle e-reader reading experience"
           },
           {
-            "anchor": "A Pressão por Infraestrutura Local",
-            "query_en": "Donald Trump speaking press conference"
+            "anchor": "Ofertas de Black Friday para os Kindles",
+            "query_en": "Amazon Kindle Paperwhite Black Friday sale"
           },
           {
-            "anchor": "Desafios e Resistência Interna",
-            "query_en": "protest against data center construction community"
+            "anchor": "Conheça os novos Kindles de 2026",
+            "query_en": "New Amazon Kindle 2026 lineup ube color aluminum"
           },
           {
-            "anchor": "Oposição de comunidades locais contra a instalação de novos centros de dados",
-            "query_en": "local community meeting protest infrastructure"
+            "anchor": "- Kindle (16GB): custa entre US$ 149,99 e US$ 169,99.",
+            "query_en": "Base Amazon Kindle e-reader device"
           },
           {
-            "anchor": "O Cenário Internacional",
-            "query_en": "global technology infrastructure data centers"
+            "anchor": "- Kindle, Aluminium (32GB): custa US$ 189,99.",
+            "query_en": "Aluminum body Amazon Kindle"
+          },
+          {
+            "anchor": "- Kindle Paperwhite (16GB): custa entre US$ 199,99 e US$ 219,99.",
+            "query_en": "Amazon Kindle Paperwhite e-reader"
+          },
+          {
+            "anchor": "- Kindle Paperwhite Signature Edition (32GB): custa US$ 249,99.",
+            "query_en": "Kindle Paperwhite Signature Edition"
+          },
+          {
+            "anchor": "- Kindle Colorsoft (16GB): custa US$ 289,99.",
+            "query_en": "Amazon Kindle Colorsoft color e-reader"
+          },
+          {
+            "anchor": "- Kindle Colorsoft Signature Edition (32GB): custa US$ 319,99.",
+            "query_en": "Kindle Colorsoft Signature Edition"
+          },
+          {
+            "anchor": "- Kindle Kids (16GB): custa US$ 179,99.",
+            "query_en": "Amazon Kindle Kids edition"
+          },
+          {
+            "anchor": "- Kindle Kids Paperwhite (16GB): custa US$ 229,99.",
+            "query_en": "Kindle Kids Paperwhite e-reader"
+          },
+          {
+            "anchor": "- Kindle Kids Colorsoft (16GB): custa US$ 299,99.",
+            "query_en": "Kindle Kids Colorsoft edition"
           }
         ]
       }
     },
     {
-      "id": "9063e9bb-d7de-43f2-a8c3-aad800af32de",
-      "title": "Estudo da Verivox revela que tarifas de internet na Alemanha ficam quase três vezes mais caras após término de descontos",
+      "id": "5132207f-7365-4fb1-909c-3002d6590090",
+      "title": "Smart TV OLED Pro de 65 polegadas da Roku ganha super desconto na pré-Black Friday da Amazon",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Roku 65 Inch Pro Series OLED TV review",
+        "images": [
+          {
+            "anchor": "Detalhes da Oferta e Desconto",
+            "query_en": "Amazon Black Friday packaging delivery box"
+          },
+          {
+            "anchor": "Recursos e Qualidade de Imagem",
+            "query_en": "Roku 65 Inch Pro Series Smart TV OLED display"
+          },
+          {
+            "anchor": "Opção Avançada: Roku Pro Series LX",
+            "query_en": "Roku voice remote control illuminated"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8ab66a1c-4026-4627-887f-5790acb64cd5",
+      "title": "AirPods Max 2 recebem novo desconto na Black Friday da Amazon com economia de US$ 130",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple AirPods Max 2 review features and sound test",
+        "images": [
+          {
+            "anchor": "Novo preço promocional na Amazon",
+            "query_en": "Amazon website Black Friday shopping deals"
+          },
+          {
+            "anchor": "Potência e tecnologias avançadas",
+            "query_en": "Apple AirPods Max 2 headphones design"
+          },
+          {
+            "anchor": "Cancelamento ativo de ruído",
+            "query_en": "Person wearing over-ear noise-cancelling headphones"
+          },
+          {
+            "anchor": "Expectativa de compra",
+            "query_en": "Apple AirPods Max 2 in box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4336d239-612b-4720-b37d-e68d57c2093b",
+      "title": "Lego Insiders Weekend is live — score exclusive rewards and discounts when you sign up for free",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Comprar"
+    },
+    {
+      "id": "3e16cb41-b25a-49e0-aec7-296ea803bce1",
+      "title": "Como assistir a Real Madrid x Celta Vigo ao vivo e de graça na La Liga",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Verivox internet tariffs study Germany broadband prices",
+        "video_query_en": "Real Madrid vs Celta Vigo La Liga live stream",
         "images": [
           {
-            "anchor": "O impacto dos descontos iniciais na banda larga",
-            "query_en": "internet router broadband connection cables"
+            "anchor": "Quando e onde acontece a partida",
+            "query_en": "Santiago Bernabeu stadium Madrid"
           },
           {
-            "anchor": "Os números revelados pela pesquisa da Verivox",
-            "query_en": "person analyzing financial bills computer internet"
+            "anchor": "Como assistir ao jogo gratuitamente",
+            "query_en": "CazeTV live stream studio"
+          },
+          {
+            "anchor": "Acesso internacional com o uso de VPN",
+            "query_en": "VPN software application on laptop"
+          },
+          {
+            "anchor": "Passo a passo para acompanhar o confronto",
+            "query_en": "Streaming sports on mobile phone"
+          },
+          {
+            "anchor": "Vantagens dos serviços de VPN e garantia de reembolso",
+            "query_en": "ExpressVPN app interface on computer"
+          },
+          {
+            "anchor": "Por que escolher o ExpressVPN para a La Liga",
+            "query_en": "ExpressVPN logo and secure connection"
           }
         ]
       }
     },
     {
-      "id": "b2fb3205-e99e-4cb2-b162-e77015c10f20",
-      "title": "Matemático afirma ter resolvido a Hipótese de Riemann com o auxílio do Claude da Anthropic",
+      "id": "998aa3b0-cc35-48fd-aed0-57e4a0040e67",
+      "title": "GTA 6 no Xbox Series S: Como o jogo realmente roda no console",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Xbox Series S gameplay performance review",
+        "images": [
+          {
+            "anchor": "Como GTA 6 roda no Xbox Series S",
+            "query_en": "Xbox Series S console white"
+          },
+          {
+            "anchor": "Testando o mundo aberto de Leonida",
+            "query_en": "GTA 6 Leonida open world scenery"
+          },
+          {
+            "anchor": "O visual das condições climáticas.",
+            "query_en": "GTA 6 rainy weather lighting"
+          },
+          {
+            "anchor": "A condução de veículos em alta velocidade por ruas movimentadas.",
+            "query_en": "GTA 6 driving fast cars city streets"
+          },
+          {
+            "anchor": "Atividades aleatórias ao redor da casa de Jason.",
+            "query_en": "GTA 6 Jason character home"
+          },
+          {
+            "anchor": "Momentos mais calmos, como assistir ao pôr do sol à beira da água.",
+            "query_en": "GTA 6 sunset beach water graphics"
+          },
+          {
+            "anchor": "Um mergulho rodeado por peixes, observando a interação do ambiente com o personagem Jason.",
+            "query_en": "GTA 6 underwater swimming fish environment"
+          },
+          {
+            "anchor": "Comparação com outros consoles",
+            "query_en": "PlayStation 5 console alongside Xbox Series S"
+          },
+          {
+            "anchor": "Considerações finais sobre a experiência",
+            "query_en": "GTA 6 protagonists Jason and Lucia artwork"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eed7798b-9313-49e9-b040-a1ea335fa848",
+      "title": "GTA 6 é jogado com o chip cerebral da Neuralink em novo vídeo",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic Claude AI Riemann hypothesis Levent Alpoge",
+        "video_query_en": "Neuralink GTA 6 brain chip video",
         "images": [
           {
-            "anchor": "O contexto da pesquisa e o uso de inteligência artificial",
-            "query_en": "Anthropic Claude AI interface on computer screen"
+            "anchor": "O funcionamento do controle mental",
+            "query_en": "Neuralink brain chip demonstration"
           },
           {
-            "anchor": "O processo de verificação do código",
-            "query_en": "Lean theorem prover code mathematics software"
+            "anchor": "Adaptações e comandos avançados",
+            "query_en": "Grand Theft Auto gameplay controller"
+          },
+          {
+            "anchor": "A comparação com métodos anteriores",
+            "query_en": "assistive technology tablet"
+          },
+          {
+            "anchor": "Avisos oficiais e a reação de Elon Musk",
+            "query_en": "Elon Musk Neuralink presentation"
           }
         ]
       }
     },
     {
-      "id": "20fd0dd0-9ddd-4c35-931f-36df72d72f2e",
-      "title": "Disputa trabalhista da Micron em Taiwan se intensifica com apelo do premier por proteção aos trabalhadores",
-      "category": "Empresas",
+      "id": "1e07a7d8-2bfe-4f2a-a796-5752ea6fb3a1",
+      "title": "GTA VI quebra recordes históricos de bilheteria e vendas no entretenimento",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Micron Technology labor dispute Taiwan premier Brad Little",
+        "video_query_en": "Grand Theft Auto VI release sales record trailer",
         "images": [
           {
-            "anchor": "A escalada do conflito trabalhista em Taiwan",
-            "query_en": "Micron Technology facility sign Taiwan"
+            "anchor": "O poder da pré-venda",
+            "query_en": "Grand Theft Auto VI gameplay graphics PlayStation Xbox"
           },
           {
-            "anchor": "A posição do governo taiwanês",
-            "query_en": "Taiwan government building Taipei"
+            "anchor": "- 32,5 milhões de cópias em pré-venda foram registradas, impulsionando o faturamento inicial.",
+            "query_en": "GTA VI pre order sales record"
           },
           {
-            "anchor": "Preocupações com o investimento estrangeiro",
-            "query_en": "Semiconductor manufacturing cleanroom Micron"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bf33f969-006d-4908-9985-dd2a20b2da94",
-      "title": "Rapidtek Technologies capta R$ 300 milhões para impulsionar negócios em RF e satélites LEO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rapidtek Technologies LEO satellite RF business expansion",
-        "images": [
-          {
-            "anchor": "Foco em radiofrequência e satélites LEO",
-            "query_en": "LEO satellite communication radio frequency antenna technology"
+            "anchor": "Comparação com o cinema mundial",
+            "query_en": "Avengers Endgame vs GTA VI box office comparison"
           },
           {
-            "anchor": "Expansão de capacidade produtiva e operacional para atender a novos contratos e demandas de mercado.",
-            "query_en": "Advanced electronics manufacturing cleanroom high tech facility"
-          },
-          {
-            "anchor": "Fortalecimento de operações internacionais com foco em ampliar a presença global da marca.",
-            "query_en": "Global international corporate headquarters modern office building"
-          },
-          {
-            "anchor": "Capital de giro para sustentar as atividades diárias e garantir estabilidade financeira durante o ciclo de investimentos.",
-            "query_en": "Financial investment business growth strategy corporate meeting"
+            "anchor": "Declaração oficial e próximos passos",
+            "query_en": "Sam Houser Rockstar Games co founder"
           }
         ]
       }
@@ -760,97 +828,113 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d110f409-d0d6-4aa7-a4bf-de358f1f65ef",
-      "title": "Regulador antitruste da Polônia acusa o Google de práticas comerciais injustas",
+      "id": "49669b7e-c2f5-4a75-aded-89459486e4cc",
+      "title": "OpenAI está testando novos anúncios visuais no ChatGPT",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Google antitrust investigation Poland UOKiK",
+        "video_query_en": "OpenAI ChatGPT ads visual image generation",
         "images": [
           {
-            "anchor": "Investigação na Polônia",
-            "query_en": "Warsaw Poland government building UOKiK"
+            "anchor": "Onde os novos anúncios visuais vão aparecer",
+            "query_en": "OpenAI ChatGPT interface"
           },
           {
-            "anchor": "Falta de transparência e dados",
-            "query_en": "Google Search on smartphone screen"
+            "anchor": "Geração de imagens",
+            "query_en": "ChatGPT image generation feature"
           },
           {
-            "anchor": "Contexto regulatório europeu",
-            "query_en": "European Commission building Brussels"
+            "anchor": "Seção patrocinada anterior",
+            "query_en": "ChatGPT sponsored ads section"
+          },
+          {
+            "anchor": "Como funcionará a publicidade visual",
+            "query_en": "OpenAI logo technology"
+          },
+          {
+            "anchor": "Quem fica de fora dos anúncios",
+            "query_en": "ChatGPT Plus subscription"
+          },
+          {
+            "anchor": "Regras de segurança e tópicos sensíveis",
+            "query_en": "artificial intelligence safety concept"
           }
         ]
       }
     },
     {
-      "id": "e1192b23-76e4-46b4-a15c-3f0a1977f350",
-      "title": "Wing e Walmart levarão entregas por drones para Denver e Seattle em 2027",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Wing Walmart drone delivery Denver Seattle",
-        "images": [
-          {
-            "anchor": "O cenário atual e a expansão geográfica",
-            "query_en": "Walmart store exterior with parking lot"
-          },
-          {
-            "anchor": "Especificações técnicas dos drones de entrega",
-            "query_en": "Wing delivery drone in flight carrying package"
-          },
-          {
-            "anchor": "O mercado de entregas aéreas",
-            "query_en": "DoorDash delivery service app and branding"
-          }
-        ]
-      }
-    },
-    {
-      "id": "87de0f12-f339-4661-a4cb-78509ea28abf",
-      "title": "Por que é importante manter os aplicativos do celular sempre atualizados",
+      "id": "cbdfa34d-57cd-42df-afc5-afe8e025dbfa",
+      "title": "Siri can index more of your personal data — here's how to limit it",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "why you should update smartphone apps security and features",
+        "video_query_en": "iOS 27 Siri AI personal data privacy settings guide",
         "images": [
           {
-            "anchor": "O papel dos recursos automáticos",
-            "query_en": "smartphone app store auto update settings screen"
+            "anchor": "Como o Siri AI acessa dados dos seus aplicativos",
+            "query_en": "Apple iPhone settings app icon interface"
           },
           {
-            "anchor": "Novas funcionalidades e mudanças visuais",
-            "query_en": "person using smartphone modern apps interface"
+            "anchor": "Restringindo o acesso da Siri AI aos seus aplicativos",
+            "query_en": "iPhone screen showing iOS settings menu"
           },
           {
-            "anchor": "Melhorias de segurança fundamentais",
-            "query_en": "cyber security digital protection smartphone lock"
+            "anchor": "Consciência de tela e compartilhamento de gravações",
+            "query_en": "Apple Siri AI interface on iPhone screen"
           },
           {
-            "anchor": "Compatibilidade, correções de bugs e desempenho",
-            "query_en": "mobile phone bug fixing performance optimization code"
+            "anchor": "Desativando o Siri AI por completo",
+            "query_en": "Apple iPhone privacy settings screen"
           }
         ]
       }
     },
     {
-      "id": "afa9ea52-1784-4059-b19f-87962b6c216b",
-      "title": "Como ativar o modo de desenvolvedor no seu Chromebook e quais os riscos envolvidos",
-      "category": "Computadores",
+      "id": "ed5d5629-64c3-43af-90db-50803abe6efe",
+      "title": "Afinal, os coolers para smartphones realmente valem a pena?",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "how to turn on developer mode chromebook guide",
+        "video_query_en": "are phone coolers worth it review",
         "images": [
           {
-            "anchor": "O que é o Modo de Desenvolvedor em um Chromebook?",
-            "query_en": "Chromebook developer mode warning screen"
+            "anchor": "Como funcionam os coolers ativos para celulares",
+            "query_en": "smartphone active cooling fan Peltier cooler"
           },
           {
-            "anchor": "Quando o Modo de Desenvolvedor é realmente necessário?",
-            "query_en": "Lenovo Chromebook running ChromeOS"
+            "anchor": "O impacto mensurável no desempenho",
+            "query_en": "ASUS ROG Phone 8 Pro AeroActive Cooler X benchmark"
           },
           {
-            "anchor": "Como ativar o Modo de Desenvolvedor no Chromebook",
-            "query_en": "Chromebook recovery mode screen"
+            "anchor": "Alternativas para resolver o aquecimento sem gastar mais",
+            "query_en": "phone mounted on car air conditioning vent navigation"
+          },
+          {
+            "anchor": "Cuidados essenciais com jogos e carregamento",
+            "query_en": "mobile gaming smartphone charging heat dissipation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "042f8222-e4ba-4d59-a111-50b922321283",
+      "title": "Qual a distância ideal para colocar um repetidor Wi-Fi do seu roteador?",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to place wifi extender correctly router",
+        "images": [
+          {
+            "anchor": "Entendendo o alcance efetivo de um repetidor Wi-Fi",
+            "query_en": "wifi extender placement guide router distance"
+          },
+          {
+            "anchor": "Barreiras físicas e o posicionamento ideal",
+            "query_en": "wifi router signal obstacles concrete wall interference"
+          },
+          {
+            "anchor": "Quando o repetidor não é suficiente: conexões cabeadas ou redes mesh",
+            "query_en": "mesh wifi system nodes home network setup"
           }
         ]
       }
