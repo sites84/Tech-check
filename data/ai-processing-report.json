@@ -1,792 +1,844 @@
 {
-  "updated_at": "2026-11-21T18:05:19.568Z",
+  "updated_at": "2026-11-22T00:09:22.589Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "16f56a5d-30f0-428c-9c83-b7bdfcdd3237",
-      "title": "Exportações globais de petróleo bruto atingem recorde histórico apesar do fechamento de Ormuz",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "global crude oil exports Strait of Hormuz",
-        "images": [
-          {
-            "anchor": "Um novo recorde de exportação",
-            "query_en": "oil tanker cargo ship crude exports"
-          },
-          {
-            "anchor": "O papel das Américas",
-            "query_en": "North America Latin America oil production"
-          },
-          {
-            "anchor": "O volume diário transportado alcançou a marca de 47 milhões de barris",
-            "query_en": "barrels of crude oil logistics"
-          },
-          {
-            "anchor": "Contexto regional e desdobramentos",
-            "query_en": "oil refinery energy market infrastructure"
-          }
-        ]
-      }
+      "id": "896bf23b-329a-426a-b996-bab40a5813fd",
+      "title": "Mao Shimada wins Finlandia Trophy to book spot in Grand Prix Final",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Esportes"
     },
     {
-      "id": "d78b7299-68fd-43c3-9c91-c5606fa86fbb",
-      "title": "Ofertas da Black Friday na Blau trazem iPhone com pacote de dados",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Blau Black Deal iPhone offer",
-        "images": [
-          {
-            "anchor": "Promoções de Black Friday na Blau",
-            "query_en": "Blau mobile store promotional banner"
-          },
-          {
-            "anchor": "Detalhes da Oferta com o iPhone",
-            "query_en": "Apple iPhone Pro smartphone device"
-          },
-          {
-            "anchor": "Condições de Privacidade e Consentimento",
-            "query_en": "Cookie consent privacy notice on website"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d6371c07-7425-4cf4-9d3c-0ed731f59573",
-      "title": "Oportunidades no setor de tecnologia: vagas em administração, engenharia de dados e segurança",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "IT jobs administration data engineering security",
-        "images": [
-          {
-            "anchor": "Segurança da informação no setor público",
-            "query_en": "Cybersecurity government ministry IT security"
-          },
-          {
-            "anchor": "Engenharia de dados em serviços de emergência",
-            "query_en": "Data engineering rescue service emergency tech"
-          },
-          {
-            "anchor": "Administração de sistemas corporativos",
-            "query_en": "System administration enterprise IT servers"
-          },
-          {
-            "anchor": "Perspectivas na carreira tecnológica",
-            "query_en": "IT career tech jobs professional opportunities"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2d51ca47-89f4-414b-becc-91b31cd41b37",
-      "title": "Trump defende o retorno de Jensen Huang ao cargo de CEO da Nvidia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia Donald Trump",
-        "images": [
-          {
-            "anchor": "Repercussão política e o posicionamento da Nvidia",
-            "query_en": "Jensen Huang Nvidia CEO"
-          }
-        ]
-      }
-    },
-    {
-      "id": "94156821-2d32-460b-a5a0-11041bd212b0",
-      "title": "Elon Musk visita a fábrica da Tesla em Xangai após três anos e elogia capacidade produtiva chinesa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Elon Musk visits Tesla Shanghai factory Gigafactory China",
-        "images": [
-          {
-            "anchor": "Elogios à fabricação local",
-            "query_en": "Tesla Shanghai Gigafactory assembly line China"
-          },
-          {
-            "anchor": "Contexto da visita relâmpago",
-            "query_en": "Elon Musk speaking at Tesla factory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cb82a1d2-7d47-4bf7-acf3-f930570010e1",
-      "title": "A nota de Ocarina of Time Remake no Metacritic sofre ataque de fãs de GTA 6",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Zelda Ocarina of Time remake Metacritic review bombing GTA 6",
-        "images": [
-          {
-            "anchor": "A reviravolta nas notas dos usuários",
-            "query_en": "The Legend of Zelda Ocarina of Time remake Nintendo Switch 2"
-          },
-          {
-            "anchor": "O impacto na pontuação do clássico",
-            "query_en": "Metacritic logo website scores"
-          },
-          {
-            "anchor": "A volatilidade das avaliações online",
-            "query_en": "Grand Theft Auto 6 GTA 6 Rockstar Games"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f25a9ba6-4d74-47eb-a552-f104ebedefd1",
-      "title": "Novo Hyundai Elantra Hybrid estreia com 53 mpg e assistente de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "2028 Hyundai Elantra Hybrid LA Auto Show review",
-        "images": [
-          {
-            "anchor": "Motorização híbrida mais potente e eficiente",
-            "query_en": "Hyundai Elantra Hybrid powertrain engine"
-          },
-          {
-            "anchor": "Tecnologia Pleos Connect e Gleo AI",
-            "query_en": "Hyundai Elantra interior dashboard display Gleo AI"
-          },
-          {
-            "anchor": "Design exterior ousado e dimensões ampliadas",
-            "query_en": "2027 Hyundai Elantra exterior design LA Auto Show"
-          },
-          {
-            "anchor": "Lançamento e expectativas de mercado",
-            "query_en": "Hyundai Elantra sedan parked exterior"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f32c3eda-565f-4a82-994e-19d5846d6366",
-      "title": "Showrunner de Blade Runner 2099 recorreu a Ridley Scott para tirar dúvidas sobre o cânone da franquia",
+      "id": "c1ef3dd8-35b1-475e-b2bd-3e89258a967b",
+      "title": "A sweet, rolled omelet worthy of a samurai warlord",
       "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Blade Runner 2099 Ridley Scott showrunner interview trailer Prime Video",
+        "video_query_en": "Japanese osechi ryori datemaki New Year food",
         "images": [
           {
-            "anchor": "A busca pelo cânone e a criação da \"Bíblia\" da série",
-            "query_en": "Ridley Scott Blade Runner director silhouette cyberpunk"
+            "anchor": "Preparacoes de Ano Novo no Japao",
+            "query_en": "Japanese department store depachika food display"
           },
           {
-            "anchor": "O significado exato atribuído ao conceito de Off-world.",
-            "query_en": "Blade Runner cyberpunk city futuristic skyline neon"
+            "anchor": "A Tradicao do Datemaki",
+            "query_en": "datemaki sweet rolled omelet osechi"
           },
           {
-            "anchor": "A origem detalhada dos Replicantes dentro da cronologia.",
-            "query_en": "Blade Runner Replicant eyes cinematic lighting"
+            "anchor": "Osechi ryori: banquete de varios pratos tradicionais consumido durante o ano novo no Japao.",
+            "query_en": "traditional Japanese osechi ryori new year meal"
           },
           {
-            "anchor": "A concepção original da figura de Tyrell e como o diretor o imaginava.",
-            "query_en": "Blade Runner Tyrell corporation pyramid interior"
+            "anchor": "Konbini: lojas de conveniencia japonesas que anunciam reservas para as festividades.",
+            "query_en": "Japanese konbini convenience store storefront"
           },
           {
-            "anchor": "O passado e o futuro no universo de Blade Runner",
-            "query_en": "Michelle Yeoh Hunter Schafer Blade Runner 2099"
+            "anchor": "Depachika: sofisticados mercados de subsolo em lojas de departamento que tambem comercializam o banquete.",
+            "query_en": "depachika food hall basement japan"
           },
           {
-            "anchor": "Conexões e expectativas para a estreia",
-            "query_en": "Blade Runner 2099 Prime Video poster official"
+            "anchor": "Datemaki: omelete doce e enrolada que figura entre os itens tradicionais dessa culinaria festiva.",
+            "query_en": "datemaki japanese sweet omelet slice"
           }
         ]
       }
     },
     {
-      "id": "18e78dad-e4dd-43bf-a271-d00dd6b89546",
-      "title": "Como completar a missão Tourist Trap em GTA 6: guia passo a passo",
-      "category": "Games",
+      "id": "8576dae1-27d2-4f07-bc38-a81d0bf76c5a",
+      "title": "Armored Trooper VOTOMS: Die Graue Hexe ganha novo reboot estilizado",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GTA 6 Tourist Trap mission walkthrough",
+        "video_query_en": "Armored Trooper VOTOMS Die Graue Hexe Mamoru Oshii trailer",
         "images": [
           {
-            "anchor": "Como iniciar a missão no Grassrivers Visitor Center",
-            "query_en": "Grassrivers Visitor Center GTA 6"
+            "anchor": "O retorno de Mamoru Oshii",
+            "query_en": "Mamoru Oshii director portrait"
           },
           {
-            "anchor": "A emboscada dos policiais disfarçados e a troca de tiros",
-            "query_en": "GTA 6 police shootout undercover"
-          },
-          {
-            "anchor": "Fuga final e conclusão da missão no chalé de Cal",
-            "query_en": "GTA 6 boat escape pier"
+            "anchor": "Um reboot estiloso para a franquia",
+            "query_en": "Armored Trooper VOTOMS mecha sci fi"
           }
         ]
       }
     },
     {
-      "id": "1a138ad3-553b-4d21-a047-e7096c03d46d",
-      "title": "Como conseguir o código do cofre da Avery Pawn Shop em GTA 6",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 pawn shop safe code guide gameplay",
-        "images": [
-          {
-            "anchor": "Localizando o cofre da Avery Pawn Shop",
-            "query_en": "GTA 6 pawn shop interior"
-          },
-          {
-            "anchor": "Como intimidar os funcionários e desativar o alarme",
-            "query_en": "GTA 6 safe office alarm"
-          },
-          {
-            "anchor": "Uma alternativa explosiva com bombas adesivas",
-            "query_en": "GTA sticky bomb explosion"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9b621bd5-b1d9-4a81-a335-92dce45d2589",
-      "title": "Como conseguir e usar a Snap Gun em GTA 6 para abrir portas silenciosamente",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Snap Gun gameplay guide lockpick",
-        "images": [
-          {
-            "anchor": "Como conseguir a Snap Gun",
-            "query_en": "GTA 6 Yasmani jewelry jobs mission"
-          },
-          {
-            "anchor": "Como usar a Snap Gun",
-            "query_en": "GTA 6 lockpicking mechanic door"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cc02e60a-a8e2-4636-801b-98a3efe4c88f",
-      "title": "Como conseguir o Key Cloner em GTA 6 e roubar carros de luxo",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 how to get Key Cloner and steal cars",
-        "images": [
-          {
-            "anchor": "Como conseguir um Key Cloner em GTA 6",
-            "query_en": "GTA 6 car theft mission Zorrusso"
-          },
-          {
-            "anchor": "Como clonar chaves em GTA 6",
-            "query_en": "GTA 6 mobile phone app Key Cloner"
-          },
-          {
-            "anchor": "Atenção aos rastreadores em veículos sem chave",
-            "query_en": "GTA 6 luxury car pursuit police"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d001adf9-8899-46ef-a52f-79c89e7a6714",
-      "title": "Como desbloquear o Dye-Pack Jammer em GTA 6 e roubar Notas Marcadas",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Dye-Pack Jammer how to unlock",
-        "images": [
-          {
-            "anchor": "Como conseguir o Dye-Pack Jammer em GTA 6",
-            "query_en": "GTA 6 Jason and Lucia Vice City"
-          },
-          {
-            "anchor": "Para que serve o Dye-Pack Jammer?",
-            "query_en": "GTA 6 bank robbery gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1f084761-f642-492c-9eb8-f2dd43bed9cb",
-      "title": "Como desbloquear a Ferramenta de Corte em GTA 6 e abrir os contêineres Scoop amarelos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Cut Off Tool unlock and Scoop containers guide",
-        "images": [
-          {
-            "anchor": "Como desbloquear a Ferramenta de Corte em GTA 6",
-            "query_en": "GTA 6 Jason and Lucia gameplay Leonida"
-          },
-          {
-            "anchor": "Como usar a Ferramenta de Corte em contêineres Scoop",
-            "query_en": "GTA 6 yellow cargo container Scoop"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e770054d-48fe-4c8d-829b-4d78922a32c7",
-      "title": "Como conseguir e usar máscaras em GTA 6 para esconder sua identidade e reduzir o nível de alerta",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 how to get and equip a mask guide",
-        "images": [
-          {
-            "anchor": "Onde comprar máscaras em Leonida",
-            "query_en": "GTA 6 gun store ammunition shop Vice City"
-          },
-          {
-            "anchor": "Como equipar e gerenciar suas máscaras",
-            "query_en": "GTA 6 character loadout inventory mask"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0b8f8233-6bff-469c-953d-bd306e021542",
-      "title": "Você deve apertar a mão de Mattia em GTA 6? Descubra o impacto real dessa escolha",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Day Release mission Mattia hand shake gameplay",
-        "images": [
-          {
-            "anchor": "O impacto de apertar ou recusar a mão de Mattia",
-            "query_en": "GTA 6 character Mattia"
-          },
-          {
-            "anchor": "A oferta de drogas na boate",
-            "query_en": "GTA 6 nightclub scene Jason and Lucia"
-          },
-          {
-            "anchor": "Consequências a longo prazo e o futuro da campanha",
-            "query_en": "GTA 6 Chapter 1 gameplay"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a9da3095-0d59-4249-bd76-170da4e89749",
-      "title": "GTA 6 Equipment: Guia completo com todos os 12 itens e como desbloqueá-los",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 all equipment and how to unlock them",
-        "images": [
-          {
-            "anchor": "Os 12 Equipamentos de GTA 6",
-            "query_en": "GTA 6 gameplay characters Jason and Lucia"
-          },
-          {
-            "anchor": "Binóculos",
-            "query_en": "GTA 6 binoculars equipment item"
-          },
-          {
-            "anchor": "Lanterna",
-            "query_en": "GTA 6 flashlight weapon attachment"
-          },
-          {
-            "anchor": "Bolsa de Viagem",
-            "query_en": "GTA 6 duffel bag loot robbery"
-          },
-          {
-            "anchor": "Fones de Ouvido",
-            "query_en": "GTA 6 characters listening to music headphones"
-          },
-          {
-            "anchor": "Pé de Cabra",
-            "query_en": "GTA 6 pry bar wooden crate"
-          },
-          {
-            "anchor": "Máscaras",
-            "query_en": "GTA 6 robbery masks customization"
-          },
-          {
-            "anchor": "Detector de Metais",
-            "query_en": "GTA 6 metal detector underwater discovery"
-          },
-          {
-            "anchor": "Slim Jim",
-            "query_en": "GTA 6 car theft slim jim tool"
-          },
-          {
-            "anchor": "Pistola de Pressão (Snap Gun)",
-            "query_en": "GTA 6 snap gun lockpick tool"
-          },
-          {
-            "anchor": "Ferramenta de Corte (Cut-Off Tool)",
-            "query_en": "GTA 6 cut off tool container"
-          },
-          {
-            "anchor": "Clonador de Chave (Key Cloner)",
-            "query_en": "GTA 6 key cloner phone app car"
-          },
-          {
-            "anchor": "Bloqueador de Cápsula de Tinta (Dye Pack Jammer)",
-            "query_en": "GTA 6 dye pack jammer money robbery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3b8b4faa-4773-4b53-a70d-e6c358e41e24",
-      "title": "Grand Theft Auto VI arrecada quase US$ 4 bilhões no primeiro dia e quebra recorde histórico",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Grand Theft Auto VI launch sales record Take Two",
-        "images": [
-          {
-            "anchor": "O maior lançamento do entretenimento mundial",
-            "query_en": "Grand Theft Auto VI logo Rockstar Games"
-          },
-          {
-            "anchor": "Recorde absoluto em pré-vendas",
-            "query_en": "GTA VI gameplay preview"
-          }
-        ]
-      }
-    },
-    {
-      "id": "879cd9a0-0a63-40fe-91cc-9abdd80c6466",
-      "title": "LG e Samsung querem trazer lavagem de roupas com dióxido de carbono para as residências",
+      "id": "958d7582-1dda-47d1-90e6-19eb05a366f9",
+      "title": "Japão avalia reduzir compras de mísseis e navios de guerra",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LG Samsung CO2 laundry technology home appliance",
+        "video_query_en": "Japan defense ministry military procurement spending",
         "images": [
           {
-            "anchor": "A tecnologia de lavagem com CO2",
-            "query_en": "LG washing machine prototype technology"
+            "anchor": "Impacto para as empreiteiras de defesa",
+            "query_en": "Japan Ground Self Defense Force missile launcher"
           },
           {
-            "anchor": "Como funciona o processo",
-            "query_en": "industrial CO2 dry cleaning machine"
+            "anchor": "- Redução de investimentos: As empresas contratadas pelo governo japonês podem ser forçadas a cortar planos de investimento devido à perspectiva de menor volume de encomendas a partir de 2027.",
+            "query_en": "Japan defense contractor industrial facility"
           },
           {
-            "anchor": "Perspectivas para o mercado doméstico",
-            "query_en": "future smart home laundry appliance"
+            "anchor": "- Revisão de estimativas: A projeção inicial de aquisição de mísseis, navios de guerra e outros equipamentos bélicos está sendo reavaliada pelo Ministério da Defesa.",
+            "query_en": "Japanese warship navy dockyard"
           }
         ]
       }
     },
     {
-      "id": "d89b5c09-2ace-4b37-8634-01e25795a467",
-      "title": "Relatório do New York Times aponta comportamento abusivo de Jensen Huang na Nvidia ao longo de décadas",
+      "id": "d652e775-46d9-4465-86a3-0dfbda115051",
+      "title": "Abraços e sem acordos: por que Shenzhen foi uma vitória para Pequim",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia management style NYT report",
+        "video_query_en": "APEC summit Shenzhen Xi Jinping Donald Trump Vladimir Putin",
         "images": [
           {
-            "anchor": "Histórico de comportamentos na liderança da Nvidia",
-            "query_en": "Jensen Huang Nvidia CEO speaking"
+            "anchor": "O encontro de cúpula em Shenzhen",
+            "query_en": "APEC summit Shenzhen China skyline meeting"
           },
           {
-            "anchor": "Dois antigos executivos tentaram processar a empresa após serem demitidos do quadro de funcionários.",
-            "query_en": "Nvidia corporate headquarters building"
+            "anchor": "Dinâmicas de rivalidade e poder",
+            "query_en": "Xi Jinping Donald Trump Vladimir Putin APEC"
+          },
+          {
+            "anchor": "Xi Jinping e Donald Trump discutiram temas espinhosos, com o líder chinês instando o presidente americano a adotar a postura correta em relação a Taiwan, enquanto a trégua comercial segue instável.",
+            "query_en": "Xi Jinping and Donald Trump meeting APEC"
+          },
+          {
+            "anchor": "Vladimir Putin, Xi Jinping e Donald Trump fizeram promessas conjuntas voltadas para a elevação no fornecimento de energia e a redução de riscos nucleares.",
+            "query_en": "Vladimir Putin Xi Jinping Donald Trump trilateral meeting"
+          },
+          {
+            "anchor": "Líderes regionais, como a representante japonesa Takaichi, aproveitaram a passagem breve pela China para criticar restrições arbitrárias de exportação.",
+            "query_en": "Japanese politician visit China export controls"
           }
         ]
       }
     },
     {
-      "id": "e6997aa2-4f39-4f11-a914-3100baf9bab7",
-      "title": "T-Mobile anuncia oferta de Black Friday com iPhone 18 Pro gratuito para novos clientes",
-      "category": "Smartphones",
+      "id": "4b98f0c9-b41e-4aa6-a289-e1b358f9ce46",
+      "title": "Bangkok revisitada: novas descobertas e velhos favoritos na capital tailandesa",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "T-Mobile iPhone 18 Pro Black Friday deal",
+        "video_query_en": "Bangkok travel guide fresh finds and old favorites",
         "images": [
           {
-            "anchor": "Destaque da promoção de Black Friday",
-            "query_en": "Apple iPhone 18 Pro smartphone"
+            "anchor": "O encanto dos bairros tradicionais e da culinária de rua",
+            "query_en": "Bangkok street food and old neighborhoods historic shophouses"
           },
           {
-            "anchor": "Como resgatar o iPhone 18 Pro sem custos",
-            "query_en": "T-Mobile store front retail"
+            "anchor": "Ruas históricas com shophouses tradicionais",
+            "query_en": "Bangkok historic shophouses street architecture"
           },
           {
-            "anchor": "Troca sem aparelho antigo",
-            "query_en": "Person switching mobile carrier"
+            "anchor": "Cafés modernos integrados à paisagem urbana",
+            "query_en": "trendy modern cafe in Bangkok Thailand"
           },
           {
-            "anchor": "Troca de aparelho em qualquer condição",
-            "query_en": "Used smartphone trade in"
+            "anchor": "Galerias de arte inovadoras em bairros antigos",
+            "query_en": "contemporary art gallery Bangkok creative district"
           },
           {
-            "anchor": "Detalhes e letras miúdas da oferta",
-            "query_en": "Mobile phone bill contract"
+            "anchor": "Arte contemporânea e alta gastronomia",
+            "query_en": "Bangkok luxury hotel fine dining architecture"
           }
         ]
       }
     },
     {
-      "id": "0dfcb2a4-fda9-4223-ab4a-576e6c2c99bc",
-      "title": "Os melhores iPads para comprar em 2026: testamos toda a linha da Apple",
+      "id": "fb44cea6-8060-44f0-bf30-6df00ec66e42",
+      "title": "Google lança Gemini 4 Neon e Google Chrome 158 em semana de grandes novidades tecnológicas",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "best ipads to buy 2026 apple tablet lineup tested",
+        "video_query_en": "Google Gemini AI latest update and Chrome browser news",
         "images": [
           {
-            "anchor": "Ofertas e descontos de Black Friday",
-            "query_en": "ipad black friday deals shopping tech store"
+            "anchor": "Google lança Gemini 4 Neon e Google Chrome 158",
+            "query_en": "Google Gemini artificial intelligence logo and interface"
           },
           {
-            "anchor": "Os aumentos recentes nos preços dos iPads",
-            "query_en": "apple ipad air mini pro lineup 2026"
+            "anchor": "O debate sobre o retorno do design \"dofukoro\" no Japão",
+            "query_en": "retro Japanese mobile phone design INFOBAR"
+          },
+          {
+            "anchor": "Avanços e tendências em inteligência artificial",
+            "query_en": "artificial intelligence technology abstract digital concept"
           }
         ]
       }
     },
     {
-      "id": "11bb21c6-7a7c-4c1b-878f-9e6f81d25f46",
-      "title": "Os melhores Kindles de 2026: testamos os novos leitores digitais da Amazon",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Amazon Kindle 2026 lineup review and testing",
-        "images": [
-          {
-            "anchor": "Como aproveitar ao máximo o seu Kindle",
-            "query_en": "Amazon Kindle e-reader reading experience"
-          },
-          {
-            "anchor": "Ofertas de Black Friday para os Kindles",
-            "query_en": "Amazon Kindle Paperwhite Black Friday sale"
-          },
-          {
-            "anchor": "Conheça os novos Kindles de 2026",
-            "query_en": "New Amazon Kindle 2026 lineup ube color aluminum"
-          },
-          {
-            "anchor": "- Kindle (16GB): custa entre US$ 149,99 e US$ 169,99.",
-            "query_en": "Base Amazon Kindle e-reader device"
-          },
-          {
-            "anchor": "- Kindle, Aluminium (32GB): custa US$ 189,99.",
-            "query_en": "Aluminum body Amazon Kindle"
-          },
-          {
-            "anchor": "- Kindle Paperwhite (16GB): custa entre US$ 199,99 e US$ 219,99.",
-            "query_en": "Amazon Kindle Paperwhite e-reader"
-          },
-          {
-            "anchor": "- Kindle Paperwhite Signature Edition (32GB): custa US$ 249,99.",
-            "query_en": "Kindle Paperwhite Signature Edition"
-          },
-          {
-            "anchor": "- Kindle Colorsoft (16GB): custa US$ 289,99.",
-            "query_en": "Amazon Kindle Colorsoft color e-reader"
-          },
-          {
-            "anchor": "- Kindle Colorsoft Signature Edition (32GB): custa US$ 319,99.",
-            "query_en": "Kindle Colorsoft Signature Edition"
-          },
-          {
-            "anchor": "- Kindle Kids (16GB): custa US$ 179,99.",
-            "query_en": "Amazon Kindle Kids edition"
-          },
-          {
-            "anchor": "- Kindle Kids Paperwhite (16GB): custa US$ 229,99.",
-            "query_en": "Kindle Kids Paperwhite e-reader"
-          },
-          {
-            "anchor": "- Kindle Kids Colorsoft (16GB): custa US$ 299,99.",
-            "query_en": "Kindle Kids Colorsoft edition"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5132207f-7365-4fb1-909c-3002d6590090",
-      "title": "Smart TV OLED Pro de 65 polegadas da Roku ganha super desconto na pré-Black Friday da Amazon",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Roku 65 Inch Pro Series OLED TV review",
-        "images": [
-          {
-            "anchor": "Detalhes da Oferta e Desconto",
-            "query_en": "Amazon Black Friday packaging delivery box"
-          },
-          {
-            "anchor": "Recursos e Qualidade de Imagem",
-            "query_en": "Roku 65 Inch Pro Series Smart TV OLED display"
-          },
-          {
-            "anchor": "Opção Avançada: Roku Pro Series LX",
-            "query_en": "Roku voice remote control illuminated"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8ab66a1c-4026-4627-887f-5790acb64cd5",
-      "title": "AirPods Max 2 recebem novo desconto na Black Friday da Amazon com economia de US$ 130",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Apple AirPods Max 2 review features and sound test",
-        "images": [
-          {
-            "anchor": "Novo preço promocional na Amazon",
-            "query_en": "Amazon website Black Friday shopping deals"
-          },
-          {
-            "anchor": "Potência e tecnologias avançadas",
-            "query_en": "Apple AirPods Max 2 headphones design"
-          },
-          {
-            "anchor": "Cancelamento ativo de ruído",
-            "query_en": "Person wearing over-ear noise-cancelling headphones"
-          },
-          {
-            "anchor": "Expectativa de compra",
-            "query_en": "Apple AirPods Max 2 in box"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4336d239-612b-4720-b37d-e68d57c2093b",
-      "title": "Lego Insiders Weekend is live — score exclusive rewards and discounts when you sign up for free",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Comprar"
-    },
-    {
-      "id": "3e16cb41-b25a-49e0-aec7-296ea803bce1",
-      "title": "Como assistir a Real Madrid x Celta Vigo ao vivo e de graça na La Liga",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Real Madrid vs Celta Vigo La Liga live stream",
-        "images": [
-          {
-            "anchor": "Quando e onde acontece a partida",
-            "query_en": "Santiago Bernabeu stadium Madrid"
-          },
-          {
-            "anchor": "Como assistir ao jogo gratuitamente",
-            "query_en": "CazeTV live stream studio"
-          },
-          {
-            "anchor": "Acesso internacional com o uso de VPN",
-            "query_en": "VPN software application on laptop"
-          },
-          {
-            "anchor": "Passo a passo para acompanhar o confronto",
-            "query_en": "Streaming sports on mobile phone"
-          },
-          {
-            "anchor": "Vantagens dos serviços de VPN e garantia de reembolso",
-            "query_en": "ExpressVPN app interface on computer"
-          },
-          {
-            "anchor": "Por que escolher o ExpressVPN para a La Liga",
-            "query_en": "ExpressVPN logo and secure connection"
-          }
-        ]
-      }
-    },
-    {
-      "id": "998aa3b0-cc35-48fd-aed0-57e4a0040e67",
-      "title": "GTA 6 no Xbox Series S: Como o jogo realmente roda no console",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "GTA 6 Xbox Series S gameplay performance review",
-        "images": [
-          {
-            "anchor": "Como GTA 6 roda no Xbox Series S",
-            "query_en": "Xbox Series S console white"
-          },
-          {
-            "anchor": "Testando o mundo aberto de Leonida",
-            "query_en": "GTA 6 Leonida open world scenery"
-          },
-          {
-            "anchor": "O visual das condições climáticas.",
-            "query_en": "GTA 6 rainy weather lighting"
-          },
-          {
-            "anchor": "A condução de veículos em alta velocidade por ruas movimentadas.",
-            "query_en": "GTA 6 driving fast cars city streets"
-          },
-          {
-            "anchor": "Atividades aleatórias ao redor da casa de Jason.",
-            "query_en": "GTA 6 Jason character home"
-          },
-          {
-            "anchor": "Momentos mais calmos, como assistir ao pôr do sol à beira da água.",
-            "query_en": "GTA 6 sunset beach water graphics"
-          },
-          {
-            "anchor": "Um mergulho rodeado por peixes, observando a interação do ambiente com o personagem Jason.",
-            "query_en": "GTA 6 underwater swimming fish environment"
-          },
-          {
-            "anchor": "Comparação com outros consoles",
-            "query_en": "PlayStation 5 console alongside Xbox Series S"
-          },
-          {
-            "anchor": "Considerações finais sobre a experiência",
-            "query_en": "GTA 6 protagonists Jason and Lucia artwork"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eed7798b-9313-49e9-b040-a1ea335fa848",
-      "title": "GTA 6 é jogado com o chip cerebral da Neuralink em novo vídeo",
+      "id": "db1a14c2-c8ff-41d0-a6bd-71e16459ceab",
+      "title": "Matemático da Anthropic anuncia prova da Hipótese de Riemann com Claude",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Neuralink GTA 6 brain chip video",
+        "video_query_en": "Anthropic Claude Riemann Hypothesis Lean proof",
         "images": [
           {
-            "anchor": "O funcionamento do controle mental",
-            "query_en": "Neuralink brain chip demonstration"
+            "anchor": "Detalhes da Prova Formal e o Sistema Lean",
+            "query_en": "Lean theorem prover code mathematical logic"
           },
           {
-            "anchor": "Adaptações e comandos avançados",
-            "query_en": "Grand Theft Auto gameplay controller"
+            "anchor": "Utilização do assistente de inteligência artificial Claude em conjunto com o pesquisador Revent Alpöge.",
+            "query_en": "artificial intelligence researcher working with computer"
           },
           {
-            "anchor": "A comparação com métodos anteriores",
-            "query_en": "assistive technology tablet"
+            "anchor": "Elaboração de 17 milhões de linhas de provas formais detalhadas.",
+            "query_en": "complex mathematical equations on blackboard"
           },
           {
-            "anchor": "Avisos oficiais e a reação de Elon Musk",
-            "query_en": "Elon Musk Neuralink presentation"
+            "anchor": "Emprego do sistema de assistência matemática Lean para validação.",
+            "query_en": "computer screen showing software code verification"
+          },
+          {
+            "anchor": "O Reconhecimento da Comunidade Lean",
+            "query_en": "scientists and mathematicians collaborating in conference room"
           }
         ]
       }
     },
     {
-      "id": "1e07a7d8-2bfe-4f2a-a796-5752ea6fb3a1",
-      "title": "GTA VI quebra recordes históricos de bilheteria e vendas no entretenimento",
+      "id": "72e06edc-4791-445f-b8a1-ccaa29227ab2",
+      "title": "Donkey Kong Ganha Pelúcia Oficial na Build-A-Bear Workshop",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Grand Theft Auto VI release sales record trailer",
+        "video_query_en": "Donkey Kong Build A Bear Workshop plush reveal",
         "images": [
           {
-            "anchor": "O poder da pré-venda",
-            "query_en": "Grand Theft Auto VI gameplay graphics PlayStation Xbox"
+            "anchor": "O Chegada do Gorila Mais Famoso aos Brinquedos",
+            "query_en": "Donkey Kong Build A Bear plush toy"
           },
           {
-            "anchor": "- 32,5 milhões de cópias em pré-venda foram registradas, impulsionando o faturamento inicial.",
-            "query_en": "GTA VI pre order sales record"
+            "anchor": "Detalhes do Lançamento e Teasers",
+            "query_en": "Build A Bear Workshop store interior"
           },
           {
-            "anchor": "Comparação com o cinema mundial",
-            "query_en": "Avengers Endgame vs GTA VI box office comparison"
+            "anchor": "Parceria Recorrente com la Nintendo",
+            "query_en": "Super Mario Build A Bear plush"
           },
           {
-            "anchor": "Declaração oficial e próximos passos",
-            "query_en": "Sam Houser Rockstar Games co founder"
+            "anchor": "O Momento Atual da Franquia Donkey Kong",
+            "query_en": "Donkey Kong Country Nintendo Switch"
+          },
+          {
+            "anchor": "O lançamento de um conjunto LEGO do Arcade de Donkey Kong revelado para agosto de 2026.",
+            "query_en": "LEGO Donkey Kong set"
+          },
+          {
+            "anchor": "A chegada do clássico jogo de Nintendo 64 do personagem ao serviço Nintendo Switch Online.",
+            "query_en": "Nintendo Switch Online controller"
+          },
+          {
+            "anchor": "A atualização gratuita para o Nintendo Switch 2 do título Donkey Kong Country Returns HD.",
+            "query_en": "Donkey Kong Country Returns HD"
+          },
+          {
+            "anchor": "O retorno de eventos por tempo limitado do jogo Donkey Kong Bananza.",
+            "query_en": "Donkey Kong Bananza game"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fb95ab5e-cbf1-4441-a4f1-84ec45a59c7d",
+      "title": "A jornada de 1666 Amsterdam: Patrice Désilets fala sobre o Acesso Antecipado e a criação com a comunidade",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "1666 Amsterdam gameplay Patrice Desilets interview Gamescom",
+        "images": [
+          {
+            "anchor": "A evolução conceitual: do diabo às bruxas",
+            "query_en": "Patrice Desilets 1666 Amsterdam witch gameplay concept art"
+          },
+          {
+            "anchor": "O processo de testes e o feedback dos jogadores",
+            "query_en": "1666 Amsterdam early access panache digital games"
+          },
+          {
+            "anchor": "Novo sistema de cofres",
+            "query_en": "1666 Amsterdam witch protagonist magic combat"
+          },
+          {
+            "anchor": "Sistema de loteria ao falhar",
+            "query_en": "1666 Amsterdam open world exploration witchcraft"
+          },
+          {
+            "anchor": "Abordagens táticas variadas",
+            "query_en": "1666 Amsterdam magic abilities spell casting"
+          },
+          {
+            "anchor": "Ciclos lunares (Esbat)",
+            "query_en": "1666 Amsterdam full moon witch ritual"
+          },
+          {
+            "anchor": "Limites na colaboração e o futuro do projeto",
+            "query_en": "Panache Digital Games office Patrice Desilets"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9048476-16b5-4711-8fa7-13e20ba1cbfd",
+      "title": "Como completar a missão opcional The Final Flush em GTA 6 e garantir um upgrade permanente de estamina",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 The Final Flush mission guide stamina upgrade",
+        "images": [
+          {
+            "anchor": "Como iniciar a missão The Final Flush",
+            "query_en": "GTA 6 Corsair Key map location bathroom"
+          },
+          {
+            "anchor": "O encontro no Frank's Waffles",
+            "query_en": "GTA 6 Franks Waffles restaurant Vice City"
+          },
+          {
+            "anchor": "A jornada até a estação de tratamento de esgoto",
+            "query_en": "GTA 6 sewage treatment plant Hamlet"
+          },
+          {
+            "anchor": "Encontrando o rastreador e descendo ao nível inferior",
+            "query_en": "GTA 6 control panel stair puzzle"
+          },
+          {
+            "anchor": "A câmara da estação de tratamento e o desfecho",
+            "query_en": "GTA 6 mysterious chamber liquid flush"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b70c1794-4b60-4b02-9d8e-2aa48b2b1e57",
+      "title": "Phison apresenta projeto inovador de SSD com NPU e 64 GB de memória para processar inteligência artificial diretamente no armazenamento",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Phison SSD NPU Supercomputing 2026 SC26 AI data processing",
+        "images": [
+          {
+            "anchor": "Uma nova abordagem para o processamento de dados",
+            "query_en": "Supercomputing conference exhibition floor Chicago"
+          },
+          {
+            "anchor": "Como funciona a tecnologia de IA no armazenamento",
+            "query_en": "Phison SSD hardware tech showcase"
+          },
+          {
+            "anchor": "Vantagens e impactos na transferência de informações",
+            "query_en": "modern high performance solid state drive hardware"
+          }
+        ]
+      }
+    },
+    {
+      "id": "55401ff0-9c69-45b2-8c6b-bdaffd3540e9",
+      "title": "Hacker conhecido como Cyberleek vaza suposta versão de testes de GTA VI para Xbox",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Grand Theft Auto VI leak Cyberleek Xbox build",
+        "images": [
+          {
+            "anchor": "O retorno de Cyberleek e a nova ameaça",
+            "query_en": "Xbox console gaming setup"
+          },
+          {
+            "anchor": "Detalhes do vazamento e a ausência do executável",
+            "query_en": "Reddit website interface on computer screen"
+          },
+          {
+            "anchor": "O impacto para a Rockstar Games e a comunidade de PC",
+            "query_en": "PC gaming setup with mechanical keyboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db27dec8-3e05-4a42-a11b-f9298284f6bb",
+      "title": "Google investiga vídeo de Russell Brand após recusa inicial em removê-lo do YouTube",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Russell Brand YouTube video prison message controversy",
+        "images": [
+          {
+            "anchor": "A publicação do vídeo a partir da prisão",
+            "query_en": "YouTube logo on computer screen interface"
+          },
+          {
+            "anchor": "Resposta inicial e reviravolta do Google",
+            "query_en": "Google headquarters building exterior"
+          },
+          {
+            "anchor": "Investigação das normas penitenciárias",
+            "query_en": "UK prison exterior building British flag"
+          },
+          {
+            "anchor": "Repercussão política e debate sobre regulação",
+            "query_en": "UK Parliament building Westminster London"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9cd803b3-233b-4474-a2fe-320249314ef7",
+      "title": "Como Janelle James conquistou espaço e criou seu próprio programa de rádio em GTA 6",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Janelle James GTA 6 radio show She Got Assets",
+        "images": [
+          {
+            "anchor": "O processo criativo e a persistência com a Rockstar",
+            "query_en": "Janelle James actress portrait"
+          },
+          {
+            "anchor": "Participações especiais e a surpresa familiar",
+            "query_en": "Grand Theft Auto VI Vice City game screenshot"
+          },
+          {
+            "anchor": "A comediante Zainab Johnson assume o papel de Kendra St. James.",
+            "query_en": "Zainab Johnson comedian portrait"
+          },
+          {
+            "anchor": "A comediante Liza Treyger interpreta Destiny Stallion.",
+            "query_en": "Liza Treyger comedian portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "82b538ba-d3cf-436f-8094-825778377e68",
+      "title": "Curta-metragem animado qualificado para o Oscar, 'Beyond Measure', é lançado online",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Beyond Measure animated short film Omeleto",
+        "images": [
+          {
+            "anchor": "Recepção e Elogios da Indústria",
+            "query_en": "Beyond Measure animated short film still"
+          },
+          {
+            "anchor": "Lee Unkrich descreveu o curta como criativo, charmoso e engraçado.",
+            "query_en": "Lee Unkrich Toy Story 3 director"
+          },
+          {
+            "anchor": "Disponibilidade e Acesso",
+            "query_en": "Omeleto YouTube channel logo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e14113c-4b16-40b2-b83e-d447c4f923f2",
+      "title": "GTA 6 Dealer's Choice: Guia completo da missão e como escolher entre Cut e Pure",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Dealers Choice mission walkthrough Cut or Pure",
+        "images": [
+          {
+            "anchor": "Como iniciar a missão Dealer's Choice",
+            "query_en": "GTA 6 Jack of Hearts club"
+          },
+          {
+            "anchor": "O encontro com Boobie e a viagem até Tyrone",
+            "query_en": "GTA 6 characters meeting in apartment"
+          },
+          {
+            "anchor": "Qual opção escolher: Cut ou Pure?",
+            "query_en": "GTA 6 drug deal choice cut or pure"
+          },
+          {
+            "anchor": "O desfecho da missão",
+            "query_en": "GTA 6 Jason and Lucia transition"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ce4ef19-24f6-499b-8b62-cd044c58fc08",
+      "title": "Como encontrar e abrir o cofre da Avery Pawn Shop em GTA 6",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Avery Pawn Shop safe code guide",
+        "images": [
+          {
+            "anchor": "O Assalto à Avery Pawn Shop em Port Gellhorn",
+            "query_en": "GTA 6 pawn shop robbery gameplay"
+          },
+          {
+            "anchor": "Qual é a combinação do cofre?",
+            "query_en": "GTA 6 safe code keypad puzzle"
+          },
+          {
+            "anchor": "Como extrair o código dos funcionários",
+            "query_en": "GTA 6 holding up NPCs with weapon"
+          },
+          {
+            "anchor": "Onde localizar o cofre e finalizar o roubo",
+            "query_en": "GTA 6 office safe room"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f380f373-6f8b-43c5-836c-1569412ac209",
+      "title": "GTA 6: Conheça todas as vozes famosas, DJs de rádio e apresentadores de podcast do jogo",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 radio stations DJs and voice actors confirmed",
+        "images": [
+          {
+            "anchor": "Estações de rádio, DJs e gêneros musicais",
+            "query_en": "GTA 6 radio station gameplay concept art"
+          },
+          {
+            "anchor": "Programas de conversa e talk shows",
+            "query_en": "GTA 6 talk radio studio microphone"
+          },
+          {
+            "anchor": "Apresentadores de podcasts em GTA 6",
+            "query_en": "podcast microphone recording studio equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ab7a56e-6e6c-4f8c-b0a7-90043613b16a",
+      "title": "GTA 6: Guia Completo da Missão Meet the Heders e Como Abrir o Contêiner SCOOP",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Meet the Heders walkthrough SCOOP container",
+        "images": [
+          {
+            "anchor": "O Início no Apartamento e o Jantar em Vice City",
+            "query_en": "GTA 6 restaurant rooftop bar"
+          },
+          {
+            "anchor": "A Invasão ao Pátio de Contêineres",
+            "query_en": "GTA 6 shipping containers docks"
+          },
+          {
+            "anchor": "Como Abrir o Contêiner SCOOP",
+            "query_en": "GTA 6 cut off tool container lock"
+          },
+          {
+            "anchor": "Fuga e Recompensas da Mission",
+            "query_en": "GTA 6 motorcycle chase truck escape"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a3f8837-4853-4eea-abd8-2ecab04f57b6",
+      "title": "ONU falha em alcançar acordo sobre regulamentação de armas autônomas e \"robôs assassinos\"",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "UN autonomous weapons killer robots negotiations Geneva",
+        "images": [
+          {
+            "anchor": "Pressão internacional e urgência ignorada",
+            "query_en": "United Nations Geneva meeting room delegates"
+          },
+          {
+            "anchor": "O impacto dos conflitos e os principais obstáculos",
+            "query_en": "military drone autonomous weapon technology"
+          },
+          {
+            "anchor": "Rússia",
+            "query_en": "Russian flag UN diplomatic meeting"
+          },
+          {
+            "anchor": "Estados Unidos",
+            "query_en": "United States UN delegate in negotiations"
+          },
+          {
+            "anchor": "Israel",
+            "query_en": "Israeli flag UN conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b8a49241-9122-4e53-b546-0ebc03458771",
+      "title": "Amazon leva protesto contra o Conselho de Nova York até para as etiquetas de entrega",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon New York City Council shipping label Delivery Protection Act",
+        "images": [
+          {
+            "anchor": "A campanha nas etiquetas e o impacto no custo",
+            "query_en": "Amazon delivery package shipping label NYC"
+          },
+          {
+            "anchor": "Ameaças de mudança e o contra-ataque político",
+            "query_en": "New York City Council building exterior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "72b84108-3551-4bec-809c-db9d83d696a0",
+      "title": "Tudo sobre o novo Siri Remote da Apple e sua compatibilidade com modelos anteriores de Apple TV",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple TV 4K 4th gen Siri Remote review and features",
+        "images": [
+          {
+            "anchor": "O design e as novidades do novo Siri Remote",
+            "query_en": "Apple Siri Remote silver and black design USB-C"
+          },
+          {
+            "anchor": "Compatibilidade e o dilema do upgrade",
+            "query_en": "Apple TV 4K streaming box ports and design"
+          },
+          {
+            "anchor": "O que mais muda no Apple TV 4K de quarta geração",
+            "query_en": "Apple TV 4K smart home interface and Siri AI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f89267ce-425a-4d4e-b33f-1c3516b90f21",
+      "title": "Como redefinir os padrões de fábrica do seu Fitbit de forma simples",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to factory reset fitbit device",
+        "images": [
+          {
+            "anchor": "Reiniciar versus Redefinir",
+            "query_en": "fitbit smartwatch screen display"
+          },
+          {
+            "anchor": "Como executar a restauração de fábrica",
+            "query_en": "fitbit fitness tracker charging cable"
+          },
+          {
+            "anchor": "O impacto nos seus dados",
+            "query_en": "fitbit mobile app health dashboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "628fd86b-a5e3-4ed7-851d-217604f9206e",
+      "title": "Qual o comprimento máximo dos cabos de fibra óptica antes de perderem o sinal?",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how fiber optic cables work signal loss attenuation",
+        "images": [
+          {
+            "anchor": "Como os cabos de fibra óptica transportam dados a longas distâncias?",
+            "query_en": "fiber optic cable cross section light reflection"
+          },
+          {
+            "anchor": "Qual pode ser o comprimento de um único cabo de fibra óptica?",
+            "query_en": "single mode vs multi mode fiber optic cable"
+          },
+          {
+            "anchor": "Fibra de modo único",
+            "query_en": "single mode fiber optic core light propagation"
+          },
+          {
+            "anchor": "Fibra multimodo",
+            "query_en": "multi mode fiber optic core light propagation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "addba2a1-7cb9-45cc-88d6-df3e017c9509",
+      "title": "A ferramenta gratuita do Raspberry Pi que você deveria usar para acesso remoto",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Raspberry Pi Connect remote access tutorial",
+        "images": [
+          {
+            "anchor": "O que é o Raspberry Pi Connect?",
+            "query_en": "Raspberry Pi board connected"
+          },
+          {
+            "anchor": "Como a ferramenta funciona",
+            "query_en": "WebRTC secure connection network"
+          },
+          {
+            "anchor": "Compartilhamento de tela",
+            "query_en": "Raspberry Pi desktop screen share"
+          },
+          {
+            "anchor": "Shell remoto",
+            "query_en": "SSH terminal command line interface"
+          },
+          {
+            "anchor": "Como utilizar o programa na prática",
+            "query_en": "Raspberry Pi setup terminal"
+          },
+          {
+            "anchor": "Pacote completo",
+            "query_en": "Raspberry Pi monitor display setup"
+          },
+          {
+            "anchor": "Pacote lite",
+            "query_en": "Raspberry Pi Lite headless server"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e084b545-e57d-4692-9c3b-8cde5fb264c3",
+      "title": "FBI e USDA foram supostamente alvos de ataques cibernéticos consecutivos nos Estados Unidos",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "FBI and USDA cyberattack government security breach",
+        "images": [
+          {
+            "anchor": "O ataque ao Departamento de Agricultura",
+            "query_en": "USDA building Washington DC"
+          },
+          {
+            "anchor": "A invasão ao banco de dados do FBI",
+            "query_en": "FBI headquarters building"
+          },
+          {
+            "anchor": "Histórico recente de incidentes e contexto governamental",
+            "query_en": "cybersecurity breach computer code"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa2265f9-8ae5-4f0c-a319-95a1e180db59",
+      "title": "A ferramenta nativa do Windows que ajuda a identificar problemas no DirectX",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to use dxdiag on windows to check directx problems",
+        "images": [
+          {
+            "anchor": "Como utilizar o DxDiag para verificar problemas no DirectX",
+            "query_en": "windows dxdiag diagnostic tool interface"
+          },
+          {
+            "anchor": "O que o DxDiag pode e não pode fazer",
+            "query_en": "windows system information display screen"
+          },
+          {
+            "anchor": "O que fazer caso o DxDiag encontre um erro",
+            "query_en": "windows device manager driver update"
+          },
+          {
+            "anchor": "- Comparar a versão do driver do componente afetado com o driver mais recente disponibilizado pelo fabricante.",
+            "query_en": "computer graphics card driver update"
+          },
+          {
+            "anchor": "- Baixar e instalar o driver mais recente diretamente do site oficial do fabricante se houver discrepância.",
+            "query_en": "download software update on computer"
+          },
+          {
+            "anchor": "- Verificar se o dispositivo de reprodução correto está selecionado no painel de som do Windows, em caso de problemas de áudio.",
+            "query_en": "windows sound settings playback devices"
+          },
+          {
+            "anchor": "- Checar se o aplicativo ou jogo afetado possui uma nova atualização ou patch que corrija bugs relacionados a hardware.",
+            "query_en": "video game update loading screen"
+          },
+          {
+            "anchor": "- Executar o comando sfc /scannow como administrador para escanear e reparar arquivos corrompidos do sistema caso nenhuma outra alternativa funcione.",
+            "query_en": "windows command prompt running scan"
+          },
+          {
+            "anchor": "- Entrar em contato com o suporte da Microsoft e compartilhar o relatório do DxDiag para investigações aprofundadas sobre compatibilidade.",
+            "query_en": "microsoft support help center website"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a022774-b96c-420b-8fa7-29d983c59ad8",
+      "title": "iPad Air vs. iPad Pro: o que muda e vale a pena pagar US$ 450 a mais?",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPad Air vs iPad Pro features compared price difference review",
+        "images": [
+          {
+            "anchor": "A tela OLED é o principal atrativo do iPad Pro",
+            "query_en": "iPad Pro OLED display screen comparison"
+          },
+          {
+            "anchor": "Processador potente para edição avançada de vídeo e ferramentas de IA",
+            "query_en": "Apple M5 chip iPad Pro processing"
+          },
+          {
+            "anchor": "Recursos avançados de câmera e biometria",
+            "query_en": "iPad Pro LiDAR sensor camera module"
+          },
+          {
+            "anchor": "- Sensor LiDAR:",
+            "query_en": "iPad Pro LiDAR augmented reality app"
+          },
+          {
+            "anchor": "- Face ID e TrueDepth:",
+            "query_en": "iPad Pro Face ID front camera"
+          },
+          {
+            "anchor": "Pequenos bônus que compõem uma experiência superior",
+            "query_en": "iPad Pro slim design USB C port"
+          }
+        ]
+      }
+    },
+    {
+      "id": "28bac273-82ff-4111-86b4-b55ae12f51d6",
+      "title": "Por que seu celular diz \"sem serviço\" mesmo com um cartão SIM e como resolver",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "how to fix phone no service SIM card error",
+        "images": [
+          {
+            "anchor": "Um cartão SIM mal encaixado pode causar problemas",
+            "query_en": "smartphone SIM card tray ejection tool"
+          },
+          {
+            "anchor": "Sua operadora de celular pode estar enfrentando problemas",
+            "query_en": "smartphone signal bars no service"
+          },
+          {
+            "anchor": "Seu cartão eSIM pode ter problemas de viagem internacional",
+            "query_en": "smartphone settings cellular roaming menu"
+          },
+          {
+            "anchor": "Ajustar certas funções pode ajudar",
+            "query_en": "smartphone airplane mode toggle settings"
+          },
+          {
+            "anchor": "A conta móvel não está ativa",
+            "query_en": "person looking at mobile phone bill online"
+          },
+          {
+            "anchor": "Encontre uma área com melhor sinal",
+            "query_en": "cell phone tower outdoors communication"
           }
         ]
       }
@@ -828,113 +880,105 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "49669b7e-c2f5-4a75-aded-89459486e4cc",
-      "title": "OpenAI está testando novos anúncios visuais no ChatGPT",
+      "id": "f373beae-ecd5-4f59-ab80-f44892e10462",
+      "title": "Google admite que aplicativos complexos do Android rodam mal em Googlebooks baseados em Intel",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Googlebooks Android apps Intel compatibility",
+        "images": [
+          {
+            "anchor": "O desafio da arquitetura ARM e a tradução de código",
+            "query_en": "Intel processor chip inside laptop"
+          },
+          {
+            "anchor": "Limitações técnicas e o cenário atual do mercado",
+            "query_en": "Acer ASUS Lenovo laptop keyboard"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5747d464-d1fc-45e9-b13b-7a485cd2ebe7",
+      "title": "Qual é a expectativa de vida útil do Xbox Series X?",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xbox Series X lifespan and longevity review",
+        "images": [
+          {
+            "anchor": "Quando a Microsoft vai encerrar o suporte ao Xbox Series X?",
+            "query_en": "Xbox Series X console setup running games"
+          },
+          {
+            "anchor": "Como prolongar a vida útil dos consoles e controles Xbox",
+            "query_en": "Xbox Series X internal hardware components teardown"
+          },
+          {
+            "anchor": "Manter as aberturas de ventilação e as portas do console limpas para evitar que o acúmulo de poeira prejudique o fluxo de ar adequado.",
+            "query_en": "Xbox Series X vents cleaning dust"
+          },
+          {
+            "anchor": "Utilizar o guia prático do iFixit para abrir e realizar a limpeza correta dos dissipadores de calor e da ventoinha interna do aparelho.",
+            "query_en": "iFixit Xbox Series X repair teardown tools"
+          },
+          {
+            "anchor": "Seguir a recomendação da Microsoft de limpar o controle usando um pano macio umedecido com uma solução de álcool isopropílico.",
+            "query_en": "cleaning Xbox wireless controller isopropyl alcohol"
+          },
+          {
+            "anchor": "Posicionar o Xbox Series X em um local que conte com boa ventilação para prevenir problemas relacionados ao superaquecimento, mesmo que o console já possua um desempenho térmico superior ao do concorrente PS5.",
+            "query_en": "Xbox Series X placed in media console setup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e53b98e-c3b0-4d1f-a45e-964865d43f85",
+      "title": "Nvidia Shield TV Pro sofre aumento de 100 dólares e modelo padrão é descontinuado",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI ChatGPT ads visual image generation",
+        "video_query_en": "Nvidia Shield TV Pro price increase and discontinued standard model",
         "images": [
           {
-            "anchor": "Onde os novos anúncios visuais vão aparecer",
-            "query_en": "OpenAI ChatGPT interface"
+            "anchor": "O fim da versão padrão",
+            "query_en": "Nvidia Shield TV Pro streaming box"
           },
           {
-            "anchor": "Geração de imagens",
-            "query_en": "ChatGPT image generation feature"
-          },
-          {
-            "anchor": "Seção patrocinada anterior",
-            "query_en": "ChatGPT sponsored ads section"
-          },
-          {
-            "anchor": "Como funcionará a publicidade visual",
-            "query_en": "OpenAI logo technology"
-          },
-          {
-            "anchor": "Quem fica de fora dos anúncios",
-            "query_en": "ChatGPT Plus subscription"
-          },
-          {
-            "anchor": "Regras de segurança e tópicos sensíveis",
-            "query_en": "artificial intelligence safety concept"
+            "anchor": "Impacto da alta demanda por IA",
+            "query_en": "Nvidia AI chips and GPU hardware"
           }
         ]
       }
     },
     {
-      "id": "cbdfa34d-57cd-42df-afc5-afe8e025dbfa",
-      "title": "Siri can index more of your personal data — here's how to limit it",
-      "category": "Smartphones",
+      "id": "afd9e4f6-b986-4ba8-8910-eff7ada8a807",
+      "title": "Novo Mac Mini com chip M6 ganha seu primeiro desconto de mais de US$ 100 na Amazon",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "iOS 27 Siri AI personal data privacy settings guide",
+        "video_query_en": "Apple Mac Mini M6 review and performance",
         "images": [
           {
-            "anchor": "Como o Siri AI acessa dados dos seus aplicativos",
-            "query_en": "Apple iPhone settings app icon interface"
+            "anchor": "Detalhes da Oferta na Amazon",
+            "query_en": "Amazon package delivery box doorstep"
           },
           {
-            "anchor": "Restringindo o acesso da Siri AI aos seus aplicativos",
-            "query_en": "iPhone screen showing iOS settings menu"
+            "anchor": "256 GB de armazenamento interno em estado sólido",
+            "query_en": "Solid state drive internal computer component"
           },
           {
-            "anchor": "Consciência de tela e compartilhamento de gravações",
-            "query_en": "Apple Siri AI interface on iPhone screen"
+            "anchor": "16 GB de memória RAM para multitarefa fluida",
+            "query_en": "Computer RAM memory sticks installed"
           },
           {
-            "anchor": "Desativando o Siri AI por completo",
-            "query_en": "Apple iPhone privacy settings screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ed5d5629-64c3-43af-90db-50803abe6efe",
-      "title": "Afinal, os coolers para smartphones realmente valem a pena?",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "are phone coolers worth it review",
-        "images": [
-          {
-            "anchor": "Como funcionam os coolers ativos para celulares",
-            "query_en": "smartphone active cooling fan Peltier cooler"
+            "anchor": "CPU de 12 núcleos para processamento veloz",
+            "query_en": "Computer processor CPU chip close up"
           },
           {
-            "anchor": "O impacto mensurável no desempenho",
-            "query_en": "ASUS ROG Phone 8 Pro AeroActive Cooler X benchmark"
-          },
-          {
-            "anchor": "Alternativas para resolver o aquecimento sem gastar mais",
-            "query_en": "phone mounted on car air conditioning vent navigation"
-          },
-          {
-            "anchor": "Cuidados essenciais com jogos e carregamento",
-            "query_en": "mobile gaming smartphone charging heat dissipation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "042f8222-e4ba-4d59-a111-50b922321283",
-      "title": "Qual a distância ideal para colocar um repetidor Wi-Fi do seu roteador?",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "how to place wifi extender correctly router",
-        "images": [
-          {
-            "anchor": "Entendendo o alcance efetivo de um repetidor Wi-Fi",
-            "query_en": "wifi extender placement guide router distance"
-          },
-          {
-            "anchor": "Barreiras físicas e o posicionamento ideal",
-            "query_en": "wifi router signal obstacles concrete wall interference"
-          },
-          {
-            "anchor": "Quando o repetidor não é suficiente: conexões cabeadas ou redes mesh",
-            "query_en": "mesh wifi system nodes home network setup"
+            "anchor": "GPU de 12 núcleos para tarefas gráficas aprimoradas",
+            "query_en": "Graphics processing unit GPU microchip"
           }
         ]
       }
