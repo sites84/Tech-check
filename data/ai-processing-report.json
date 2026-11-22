@@ -1,663 +1,732 @@
 {
-  "updated_at": "2026-11-22T07:03:32.696Z",
+  "updated_at": "2026-11-22T15:31:14.262Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "f53b668e-b474-439a-bc9d-6849e384586e",
-      "title": "Agricultores de Nagano enfrentam limite de altitude com avanço do aquecimento global na safra de aipo",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nagano celery farming climate change",
-        "images": [
-          {
-            "anchor": "Desafios na madrugada de Hara",
-            "query_en": "celery harvest night LED lights Japan"
-          },
-          {
-            "anchor": "A busca por altitudes elevadas e o limite geográfico",
-            "query_en": "Nagano mountain agriculture fields Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b797627d-476f-490c-b805-2c66b0ff1588",
-      "title": "Como adidos militares podem fortalecer a cooperação de defesa do Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan defense equipment transfer SDF defense attaches",
-        "images": [
-          {
-            "anchor": "O papel estratégico dos adidos militares",
-            "query_en": "Japan Self Defense Forces embassy military attache"
-          },
-          {
-            "anchor": "A evolução da política de transferência de equipamentos",
-            "query_en": "Japan defense equipment technology transfer"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e081cc21-7abe-4a42-a126-12c874133393",
-      "title": "Japão planeja expandir o ensino técnico Kōsen para a agricultura e áreas criativas",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan kosen technical colleges education system",
-        "images": [
-          {
-            "anchor": "Novas diretrizes para os colégios Kōsen",
-            "query_en": "Japan kosen technical college campus"
-          },
-          {
-            "anchor": "Motivações tecnológicas e escassez de profissionais",
-            "query_en": "Japanese engineering students in tech laboratory"
-          },
-          {
-            "anchor": "Expansão curricular e indústrias criativas",
-            "query_en": "manga anime drawing studio Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "53512f5f-e0d6-422c-b60c-d411cf869e2e",
-      "title": "All Blacks coach Dave Rennie on hot seat after poor showing in loss against England",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Esportes"
-    },
-    {
-      "id": "4df16cf7-3148-4472-9098-862b5ba4b6fe",
-      "title": "A experiência da Polônia serve de alerta para democratas americanos com sede de revanche",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Poland political crisis Donald Tusk Krakow shooting",
-        "images": [
-          {
-            "anchor": "## Uma tragédia marcada pela divisão política",
-            "query_en": "Donald Tusk Karol Nawrocki Poland politics"
-          },
-          {
-            "anchor": "## A cautela da justiça e a crise institucional",
-            "query_en": "Krakow market square Poland"
-          }
-        ]
-      }
-    },
-    {
-      "id": "61649a50-e392-49ec-b294-e64cbe4f1d36",
-      "title": "Ministro da Educação da Coreia do Sul renuncia após escândalo de fraude com inteligência artificial",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea education minister resigns AI cheating scandal",
-        "images": [
-          {
-            "anchor": "A renúncia do ministro",
-            "query_en": "South Korea government building Seoul"
-          },
-          {
-            "anchor": "O escândalo do exame de contador fiscal",
-            "query_en": "South Korea education minister press conference"
-          },
-          {
-            "anchor": "O esquema envolveu o uso de uma microcâmera e de um smartphone para burlar a segurança da prova.",
-            "query_en": "smartphone and miniature camera spy gadget"
-          },
-          {
-            "anchor": "A importância do Suneung na Coreia do Sul",
-            "query_en": "South Korea students taking Suneung exam"
-          }
-        ]
-      }
-    },
-    {
-      "id": "62c70c82-2d1d-47b5-a707-526c35b8e480",
-      "title": "Bahrein acusa o Irã de ataque a instalação industrial enquanto petroleiros são atingidos no Estreito de Ormuz",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Bahrain Iran industrial site attack Strait of Hormuz tankers",
-        "images": [
-          {
-            "anchor": "A Escalada dos Conflitos no Golfo Pérsico",
-            "query_en": "Persian Gulf geopolitical map Bahrain Iran"
-          },
-          {
-            "anchor": "Detalhes do Ataque e Ação de Resposta",
-            "query_en": "Bahrain civil defense emergency response industrial fire"
-          },
-          {
-            "anchor": "Impactos no Comércio e Navegação em Ormuz",
-            "query_en": "Strait of Hormuz oil tanker shipping lane"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5681dbcc-0b5e-4595-a5ef-ad3269e374a7",
-      "title": "Fossil fuels still missing from latest COP31 draft deal",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "COP31 climate talks fossil fuels Turkey Australia",
-        "images": [
-          {
-            "anchor": "O impasse na reta final da COP31",
-            "query_en": "COP31 climate summit Antalya Turkey venue"
-          },
-          {
-            "anchor": "Negociações difíceis e busca por consenso",
-            "query_en": "UN climate change conference delegates negotiating"
-          }
-        ]
-      }
-    },
-    {
-      "id": "51998d75-b209-4d21-bb0c-f156ce2d8475",
-      "title": "Japão avalia incluir produtos químicos orgânicos em lista de itens críticos de segurança econômica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan semiconductor supply chain economic security",
-        "images": [
-          {
-            "anchor": "O plano de inclusão na segurança econômica",
-            "query_en": "Japanese government building Tokyo"
-          },
-          {
-            "anchor": "Importância estratégica para a fabricação de semicondutores",
-            "query_en": "semiconductor manufacturing cleanroom"
-          },
-          {
-            "anchor": "Próximos passos e cronograma oficial",
-            "query_en": "expert panel meeting Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "409b6e0e-bb8a-4d10-a410-8fed7f9d1635",
-      "title": "Técnico do New York Giants apoia decisão de Cam Skattebo de aposentar comemoração com mortal",
+      "id": "f3c396f8-1906-4851-b120-cb139751d228",
+      "title": "Max Verstappen vence o Grande Prêmio de Las Vegas de Fórmula 1 pela terceira vez em quatro anos",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Cam Skattebo backflip celebration John Harbaugh Aidan Hutchinson injury",
+        "video_query_en": "Max Verstappen Las Vegas Grand Prix highlights",
         "images": [
           {
-            "anchor": "A decisão de Cam Skattebo e o apoio de John Harbaugh",
-            "query_en": "Cam Skattebo New York Giants running back"
+            "anchor": "Uma Corrida Eletrizante em Las Vegas",
+            "query_en": "Max Verstappen Red Bull Las Vegas Grand Prix"
           },
           {
-            "anchor": "O impacto da lesão de Aidan Hutchinson",
-            "query_en": "Aidan Hutchinson Detroit Lions"
+            "anchor": "Disputa Acirrada e Pódio da McLaren",
+            "query_en": "Lando Norris Oscar Piastri McLaren F1"
+          },
+          {
+            "anchor": "Lando Norris",
+            "query_en": "Lando Norris McLaren F1 driver"
+          },
+          {
+            "anchor": "Oscar Piastri",
+            "query_en": "Oscar Piastri McLaren F1 driver"
+          },
+          {
+            "anchor": "Incidentes e Desempenho das Equipes",
+            "query_en": "George Russell Mercedes F1 crash barrier"
           }
         ]
       }
     },
     {
-      "id": "d4e638eb-0055-4cc9-ac32-14628e6b8e5c",
-      "title": "Inteligência Artificial é boa para os negócios, mas pode drenar a alegria da criação, diz Hideo Kojima",
-      "category": "Games",
+      "id": "7239f1f8-dbef-43a2-ac9e-0ecaec6bf9d5",
+      "title": "Salão principal do Castelo de Shuri, em Okinawa, é restaurado sete anos após incêndio",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Hideo Kojima Mamoru Oshii AI discussion Nikkei",
+        "video_query_en": "Shuri Castle Seiden main hall restored Okinawa",
         "images": [
           {
-            "anchor": "O impacto da IA na visão de Hideo Kojima",
-            "query_en": "Hideo Kojima speaking at event Tokyo"
+            "anchor": "Conclusão da Restauração em Naha",
+            "query_en": "Naha Shuri Castle exterior restored"
           },
           {
-            "anchor": "A perspectiva do diretor Mamoru Oshii",
-            "query_en": "Mamoru Oshii film director portrait"
+            "anchor": "Fidelidade Histórica e Segurança Aprimorada",
+            "query_en": "Shuri Castle Seiden main hall architecture"
+          },
+          {
+            "anchor": "Reabertura ao Público",
+            "query_en": "Visitors at Shuri Castle Okinawa"
+          },
+          {
+            "anchor": "Autoridades Presentes na Cerimônia",
+            "query_en": "Japanese government officials Shuri Castle ceremony"
+          },
+          {
+            "anchor": "Histórico do Incêndio",
+            "query_en": "Shuri Castle fire 2019 damage"
           }
         ]
       }
     },
     {
-      "id": "c064da3d-e6fd-48d7-a378-6996f1a5c3ca",
-      "title": "Castelo de Okinawa restaurado reabre com medidas avançadas de segurança contra incêndios",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Shuri Castle Okinawa reconstruction fire safety",
-        "images": [
-          {
-            "anchor": "Reconstrução do Castelo de Shuri",
-            "query_en": "Shuri Castle main hall reconstruction Okinawa"
-          },
-          {
-            "anchor": "Novas Medidas de Segurança",
-            "query_en": "Shuri castle fire safety measures architecture"
-          },
-          {
-            "anchor": "Perspectivas para a Reabertura",
-            "query_en": "Shuri Castle reopening tourism Okinawa"
-          }
-        ]
-      }
-    },
-    {
-      "id": "791b805a-7678-4e5b-9808-f91129c13e33",
-      "title": "Dona da Hello Kitty, Sanrio aposta em jogos para expandir alcance global",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanrio Hello Kitty games strategy",
-        "images": [
-          {
-            "anchor": "Hello Kitty Party Land e a nova fase digital",
-            "query_en": "Hello Kitty Party Land gameplay Sanrio"
-          }
-        ]
-      }
-    },
-    {
-      "id": "be532fa1-9b7a-496f-8ba1-8c44e05a2a7e",
-      "title": "As 'aulas de lámen': empresa japonesa aposta em nova estratégia de expansão global",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japanese ramen restaurant expansion global market",
-        "images": [
-          {
-            "anchor": "Uma nova abordagem para o mercado internacional",
-            "query_en": "Japanese ramen chef cooking noodles in kitchen"
-          },
-          {
-            "anchor": "A presença em feiras internacionais",
-            "query_en": "Singapore food trade fair exhibition booth"
-          },
-          {
-            "anchor": "Contexto de expansão do setor de lámen",
-            "query_en": "Delicious bowl of Japanese ramen with pork and egg"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ae83b85a-02f3-4fc2-bfb2-145c77a45b53",
-      "title": "World Bank's India poverty estimates questioned over scale of gains",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
-    },
-    {
-      "id": "104ab168-f7b6-4452-9743-1ee479d9429b",
-      "title": "Laos avança para nova fase econômica, reunião da Tata e eleições locais em Taiwan marcam a semana na Ásia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Laos LDC graduation Tata Sons board meeting Taiwan local elections",
-        "images": [
-          {
-            "anchor": "## O cenário de transição em Laos e o contexto regional",
-            "query_en": "Patuxai war monument Vientiane Laos"
-          },
-          {
-            "anchor": "## Reunião decisiva da Tata Sons na Índia",
-            "query_en": "Tata Sons headquarters Mumbai India"
-          },
-          {
-            "anchor": "## Destaques da agenda política e diplomática de segunda-feira",
-            "query_en": "Narendra Modi and Nepal Prime Minister meeting"
-          },
-          {
-            "anchor": "## Eventos econômicos e corporativos ao longo da semana",
-            "query_en": "Bank of Indonesia building Jakarta"
-          },
-          {
-            "anchor": "## Eleições locais em Taiwan",
-            "query_en": "Taiwan local elections polling station voters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f1718472-7a32-495a-82f8-c603551c6757",
-      "title": "Samsung Adquire Novos Equipamentos da Protec para Expandir Produção de Memórias HBM",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Samsung HBM production semiconductor manufacturing",
-        "images": [
-          {
-            "anchor": "A expansão da capacidade de produção de HBM",
-            "query_en": "Samsung semiconductor manufacturing cleanroom"
-          },
-          {
-            "anchor": "O histórico da parceria com a Protec",
-            "query_en": "Protec bonding equipment semiconductor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "09eb2229-eb75-4b0e-b73f-ad6393839fa3",
-      "title": "SEMES se Aproxima de Retornar à Marca de 3 Trilhões de Wons em Receita Anual sob a Gestão do CEO Shim Sang-pil",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SEMES Samsung semiconductor equipment revenue Shim Sang-pil",
-        "images": [
-          {
-            "anchor": "O Momento da SEMES no Mercado de Semicondutores",
-            "query_en": "SEMES Samsung semiconductor equipment building office"
-          },
-          {
-            "anchor": "Fatores Impulsionadores do Crescimento",
-            "query_en": "Samsung semiconductor manufacturing cleanroom equipment"
-          },
-          {
-            "anchor": "Transparência Financeira Trimestral",
-            "query_en": "business financial report presentation screen"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3906df56-1647-413a-9708-4a706601864b",
-      "title": "SD Optics comercializa equipamento de inspeção de película EUV e quebra domínio japonês",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "EUV pellicle inspection equipment semiconductor manufacturing",
-        "images": [
-          {
-            "anchor": "Uma nova alternativa no mercado de EUV",
-            "query_en": "EUV lithography semiconductor cleanroom"
-          },
-          {
-            "anchor": "Primeira entrega e avanço comercial",
-            "query_en": "advanced semiconductor inspection equipment"
-          }
-        ]
-      }
-    },
-    {
-      "id": "882f320d-69b8-4de2-ada7-0ff587a7c63a",
-      "title": "Setor de materiais para baterias enfrenta dificuldades no terceiro trimestre com destaque para a Cosmo Advanced Materials",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea battery materials industry Q3 earnings Cosmo Advanced Materials",
-        "images": [
-          {
-            "anchor": "O cenário de baixa no terceiro trimestre",
-            "query_en": "battery manufacturing plant South Korea"
-          },
-          {
-            "anchor": "O destaque da Cosmo Advanced Materials",
-            "query_en": "Cosmo Advanced Materials factory"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e73d57e7-8940-4335-8156-ff1e9943832e",
-      "title": "Destin Power Diversifica Negócios para Além de Células de Combustível de Olho em IPO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Destin Power energy storage system PCS IPO",
-        "images": [
-          {
-            "anchor": "Reestruturação Estratégica e Redução de Dependência",
-            "query_en": "business restructuring corporate strategy office"
-          },
-          {
-            "anchor": "O Papel dos Inversores e Novos Mercados",
-            "query_en": "energy storage system power conversion system"
-          },
-          {
-            "anchor": "Preparativos para a Oferta Pública Inicial",
-            "query_en": "stock market IPO financial trading floor"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ca99cf77-6151-46d7-a748-e66e3e09927e",
-      "title": "Marca de cosméticos Re:NK, subsidiária da Coway, lança seis produtos exclusivos na Daiso",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Coway Re:NK Daiso beauty products launch",
-        "images": [
-          {
-            "anchor": "A expansão da Re:NK para o varejo da Daiso",
-            "query_en": "Daiso store exterior and interior retail"
-          },
-          {
-            "anchor": "Composição da linha exclusiva",
-            "query_en": "Re:NK skincare and makeup products"
-          },
-          {
-            "anchor": "Dois produtos de maquiagem base, desenvolvidos para uniformizar e preparar a pele.",
-            "query_en": "Base makeup cosmetics foundation"
-          },
-          {
-            "anchor": "Quatro produtos de cuidados com a pele focados em propriedades anti-aging, voltados para o combate aos sinais de envelhecimento.",
-            "query_en": "Anti aging skincare routine products"
-          },
-          {
-            "anchor": "Disponibilidade e canais de venda",
-            "query_en": "Daiso retail shopping aisles"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dc9a34ff-97ac-41f0-9e86-c577a35dfbdf",
-      "title": "HD Hyundai Heavy Industries conquista quarto contrato de manutenção para a Marinha dos Estados Unidos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "HD Hyundai Heavy Industries US Navy MRO contract",
-        "images": [
-          {
-            "anchor": "Novo contrato naval",
-            "query_en": "HD Hyundai Heavy Industries shipyard"
-          },
-          {
-            "anchor": "Detalhes da embarcação",
-            "query_en": "USNS Wally Schirra dry cargo and ammunition ship"
-          },
-          {
-            "anchor": "Histórico de parcerias",
-            "query_en": "US Navy logistics support vessel"
-          }
-        ]
-      }
-    },
-    {
-      "id": "69927f9c-4f22-4312-b4fe-ed03e444f790",
-      "title": "Doosan Enerbility Consegue Termos de Seguro Global para Turbinas Eólicas Offshore",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Doosan Enerbility offshore wind turbines 8MW Yawol",
-        "images": [
-          {
-            "anchor": "O Projeto Yawol e o Fornecimento de Turbinas",
-            "query_en": "Doosan Enerbility offshore wind turbine"
-          },
-          {
-            "anchor": "Detalhes do Anúncio",
-            "query_en": "Doosan Enerbility wind power"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d36d92d0-d976-4ae1-a33e-6778e73e7406",
-      "title": "Eco&Dream conquista avaliação máxima AA em análise de sustentabilidade da Sustinvest",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Eco and Dream Sustinvest ESG assessment",
-        "images": [
-          {
-            "anchor": "Destaque em Sustentabilidade no Segundo Semestre de 2026",
-            "query_en": "Eco and Dream corporate office sustainability"
-          },
-          {
-            "anchor": "Desempenho e Posição no Ranking Geral",
-            "query_en": "ESG assessment report ranking business"
-          },
-          {
-            "anchor": "Evolução da Nota e Próximos Passos",
-            "query_en": "business growth and environmental strategy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3c73e135-7f83-4027-9ad9-c42eae8fb08b",
-      "title": "LS Cable & System conquista projeto de expansão de cabo submarino da KEPCO",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LS Cable and System submarine cable project KEPCO",
-        "images": [
-          {
-            "anchor": "Expansão da Infraestrutura Doméstica",
-            "query_en": "submarine power cable laying ship sea"
-          },
-          {
-            "anchor": "Parceria Estratégica",
-            "query_en": "LS Cable and System corporate office building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ea5425c2-8a4b-4d56-9fdc-c77f7e651063",
-      "title": "A atuação perigosa dos autoproclamados caçadores de pedófilos na internet",
+      "id": "ea414ad2-ed03-4e95-8f8a-fa8c925125a7",
+      "title": "A coragem secreta do herói do ataque em Bondi na Austrália, um ano depois",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "vigilantism and internet predators danger online safety",
+        "video_query_en": "Ahmed al Ahmed Bondi beach shooting hero interview",
         "images": [
           {
-            "anchor": "Os riscos do vigilantismo digital",
-            "query_en": "cybersecurity warning online risk digital safety"
+            "anchor": "O dia do atentado",
+            "query_en": "Bondi Beach Sydney Australia coastline"
+          },
+          {
+            "anchor": "Consequências e apelo pela paz",
+            "query_en": "Ahmed al Ahmed Australian community unity"
           }
         ]
       }
     },
     {
-      "id": "56f0a7eb-213e-4528-8612-35f7aa1ea18a",
-      "title": "36万円超の「iPhone Duo」は合わなかったら返品できる？ Apple Storeの返品条件と注意すべき“落とし穴”",
+      "id": "2ad77c29-cfb9-4ed4-8ecb-d1c287dc2dbc",
+      "title": "Myanmar toma medidas contra a corrupção e extorsão no alistamento militar obrigatório",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Myanmar military draft conscription corruption",
+        "images": [
+          {
+            "anchor": "Ações legais contra abusos no alistamento",
+            "query_en": "Yangon Myanmar street scene"
+          },
+          {
+            "anchor": "Um raro reconhecimento de corrupção oficial",
+            "query_en": "Myanmar state media building"
+          },
+          {
+            "anchor": "Contexto da guerra civil e do golpe de 2021",
+            "query_en": "Aung San Suu Kyi portrait"
+          }
+        ]
+      }
+    },
+    {
+      "id": "815a78c9-0ea0-40a9-b143-1bb361488913",
+      "title": "Japão planeja lançamento em dezembro de sistema de verificação de antecedentes para crimes sexuais",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan sex offense records check system",
+        "images": [
+          {
+            "anchor": "O novo sistema de verificação no Japão",
+            "query_en": "Japan government building Tokyo"
+          },
+          {
+            "anchor": "Foco na prevenção",
+            "query_en": "Children safety prevention Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d59a820-406c-4997-8ec5-591e1fc51f1c",
+      "title": "Left in limbo: What happens to foreign spouses in Japan when a marriage ends",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
+    },
+    {
+      "id": "3ac6605a-4454-4df4-baea-3788c6ec18e6",
+      "title": "Toshiaki Masunaga, condenado por atentados a bomba nos anos 1970 no Japão, morre no corredor da morte aos 78 anos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan death row Tokyo Detention House justice ministry",
+        "images": [
+          {
+            "anchor": "O falecimento de Toshiaki Masunaga",
+            "query_en": "Tokyo Detention House exterior"
+          },
+          {
+            "anchor": "Histórico e os atentados dos anos 1970",
+            "query_en": "Tokyo street 1970s historical"
+          },
+          {
+            "anchor": "Impacto no sistema prisional japonês",
+            "query_en": "Japan Ministry of Justice building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1fcb55c3-c330-4f6a-a3f4-44d4955c44d4",
+      "title": "Governo do Japão planeja retomar conselho sobre a base de Futenma até o final do ano",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Futenma base issue council Japan Okinawa Minoru Kihara",
+        "images": [
+          {
+            "anchor": "Retomada das discussões sobre a base de Futenma",
+            "query_en": "Futenma air base Okinawa Japan"
+          },
+          {
+            "anchor": "O histórico recente do conselho governamental",
+            "query_en": "Naha Okinawa government building Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "057358eb-c227-41b7-8f9b-0a6cddcce15e",
+      "title": "Empresas do Japão correm para reviver cadeia de suprimentos de terras raras diante de restrições da China",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan rare earths supply chain China curbs",
+        "images": [
+          {
+            "anchor": "Iniciativas corporativas e estratégias de refino e reciclagem",
+            "query_en": "Mitsubishi Materials recycling facility"
+          },
+          {
+            "anchor": "Proterial lidera esforços na busca por alternativas e autonomia no processamento de materiais críticos.",
+            "query_en": "Proterial industrial facility Japan"
+          },
+          {
+            "anchor": "Mitsubishi Materials reiniciou operações voltadas para a reciclagem de terras raras como resposta direta aos cortes de exportações chinesas.",
+            "query_en": "rare earth recycling plant"
+          },
+          {
+            "anchor": "Toyota Tsusho busca oportunidades na reciclagem de metais raros, apostando na recuperação de insumos valiosos.",
+            "query_en": "Toyota Tsusho office building Tokyo"
+          },
+          {
+            "anchor": "Tivan, mineradora australiana, firmou parceria com a Sumitomo com foco em tungstênio e outros minerais essenciais.",
+            "query_en": "Sumitomo Corporation office"
+          },
+          {
+            "anchor": "O contexto global dos minerais críticos",
+            "query_en": "rare earth mining site"
+          },
+          {
+            "anchor": "Parcerias internacionais e acordos de segurança",
+            "query_en": "Quad leaders meeting critical minerals"
+          },
+          {
+            "anchor": "O impacto dos preços e o mercado de materiais",
+            "query_en": "rare earth elements metals laboratory"
+          },
+          {
+            "anchor": "Perspectivas na exploração global",
+            "query_en": "Lynas rare earths plant Australia"
+          }
+        ]
+      }
+    },
+    {
+      "id": "08e4987f-ff8f-4af6-a346-5d36bdf80395",
+      "title": "HD Construction Equipment inaugura centro integrado de produtos na Indonésia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "HD Construction Equipment Indonesia Balikpapan",
+        "images": [
+          {
+            "anchor": "Expansão no Sudeste Asiático",
+            "query_en": "HD Construction Equipment integrated product center Indonesia"
+          },
+          {
+            "anchor": "Localização estratégica: Balikpapan, na Indonésia, foi escolhida como sede para o novo polo.",
+            "query_en": "Balikpapan Indonesia cityscape construction"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21444a21-5c9a-40eb-b95f-1ec71cf87bfa",
+      "title": "Câmera térmica para celulares atinge menor preço histórico na Amazon durante a Black Friday",
       "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple iPhone Duo foldable smartphone review and features",
+        "video_query_en": "Topdon TC001 thermal camera review smartphone",
         "images": [
           {
-            "anchor": "As regras de devolução da Apple Store para o iPhone Duo",
-            "query_en": "Apple Store retail interior storefront"
+            "anchor": "Detalhes da Tecnologia Térmica para Dispositivos Móveis",
+            "query_en": "Topdon TC001 thermal camera connected to smartphone"
           },
           {
-            "anchor": "Pontos cegos e armadilhas ao devolver o smartphone dobrável",
-            "query_en": "foldable smartphone screen crease tech"
+            "anchor": "Inspeção de isolamento térmico em residências e edifícios para identificar perdas de energia.",
+            "query_en": "thermal imaging home inspection building insulation"
           },
           {
-            "anchor": "O contrato de linha firmado com a operadora de telefonia móvel não é cancelado de forma automática apenas porque o \"iPhone Duo\" foi devolvido à Apple Store.",
-            "query_en": "mobile phone carrier sim card contract"
-          },
-          {
-            "anchor": "O usuário precisa entrar em contato diretamente com a sua operadora para gerenciar o plano, suspender o serviço ou migrar a linha para outro dispositivo, evitando cobranças indesejadas.",
-            "query_en": "person using smartphone customer service call"
-          },
-          {
-            "anchor": "A escolha de capas de proteção, acessórios de terceiros e o suporte a tecnologias específicas como o ecossistema MagSafe também exigem atenção redobrada, pois o formato dobrável apresenta dimensões e características físicas únicas que podem não funcionar perfeitamente com produtos genéricos.",
-            "query_en": "MagSafe compatible smartphone protective case"
+            "anchor": "O Contexto das Ofertas de Black Friday",
+            "query_en": "Amazon Black Friday shopping package delivery"
           }
         ]
       }
     },
     {
-      "id": "ade3a9d9-cc38-42d1-b807-2e0ea1ea200a",
-      "title": "Conheça o Muse, o novo agente de IA pessoal da Meta lançado no Japão",
+      "id": "2feacc94-bdb8-4fa9-ad7c-81cf4bf25f93",
+      "title": "Google desativará o Google Assistant em caixas de som e telas inteligentes no próximo ano",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Meta Muse AI agent overview and features",
+        "video_query_en": "Google Assistant shutting down smart speakers displays Gemini Google Home",
         "images": [
           {
-            "anchor": "O que é o agente de IA Muse da Meta",
-            "query_en": "Meta AI logo and artificial intelligence concept"
+            "anchor": "O Fim de uma Era para o Google Assistant",
+            "query_en": "Google Assistant smart speaker device"
           },
           {
-            "anchor": "Disponibilização no Japão",
-            "query_en": "Tokyo cityscape modern technology"
+            "anchor": "A Chegada do Gemini ao Google Home",
+            "query_en": "Google Home smart display interface"
           },
           {
-            "anchor": "Plano gratuito",
-            "query_en": "smartphone app user interface abstract"
+            "anchor": "Migração total de caixas de som inteligentes para o Gemini",
+            "query_en": "smart speaker device on table"
           },
           {
-            "anchor": "Ambiente dedicado em nuvem",
-            "query_en": "cloud computing server infrastructure"
+            "anchor": "Atualização de telas inteligentes integradas ao Google Home",
+            "query_en": "smart display screen tech"
           },
           {
-            "anchor": "Execução periódica",
-            "query_en": "automation workflow concept screen"
-          },
-          {
-            "anchor": "Integração com serviços externos",
-            "query_en": "software integration API concept"
-          },
-          {
-            "anchor": "Diferenças em relação ao ChatGPT e ao Gemini",
-            "query_en": "artificial intelligence chatbot comparison"
-          },
-          {
-            "anchor": "Pontos de atenção e configurações importantes",
-            "query_en": "privacy settings digital security screen"
-          },
-          {
-            "anchor": "Considerações sobre o uso diário",
-            "query_en": "person working on laptop productivity"
+            "anchor": "Substituição definitiva do Google Assistant em dispositivos domésticos",
+            "query_en": "smart home voice assistant hardware"
           }
         ]
       }
     },
     {
-      "id": "43e72196-fc11-460b-a73a-32911b49a828",
-      "title": "A aposta dupla da Rakuten Mobile: por que o quarto operador japonês investe em duas iniciativas de satélite diferentes?",
+      "id": "3be80216-cb86-4bd7-99ca-ca3e1530e721",
+      "title": "Anúncio destaca kit de energia solar para varanda com dois módulos bifaciais por 200 euros na Amazon",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "bifacial balcony solar power plant review amazon 200 euros",
+        "images": [
+          {
+            "anchor": "Detalhes da Oferta na Amazon",
+            "query_en": "amazon online shopping package delivery electricity solar"
+          },
+          {
+            "anchor": "Sistema de energia solar compacto para instalação em varandas ou áreas externas.",
+            "query_en": "balcony solar power plant panel apartment installation"
+          },
+          {
+            "anchor": "Composto por dois módulos solares bifaciais, capazes de captar luz solar em ambas as faces.",
+            "query_en": "bifacial solar panel renewable energy generation"
+          },
+          {
+            "anchor": "Preço promocional limitado de 200 euros aplicado por tempo determinado na plataforma.",
+            "query_en": "amazon shopping website discount offer screen"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f2462513-e3ef-47dd-94f0-2de6bd304db0",
+      "title": "DHL Atualiza Serviços de Envio e Recebimento de Pacotes para Maior Comodidade",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "DHL package shipping new features convenience",
+        "images": [
+          {
+            "anchor": "Novas Funcionalidades de Envio",
+            "query_en": "DHL package shipping convenience"
+          },
+          {
+            "anchor": "Facilidades no Recebimento",
+            "query_en": "DHL parcel delivery receiving process"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4707cfe5-7128-4cd5-9e14-04431a69db5d",
+      "title": "Novo Apple Mac Mini atinge menor preço histórico na Amazon",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple Mac Mini M6 Amazon Black Friday deal",
+        "images": [
+          {
+            "anchor": "Ofertas e Disponibilidade na Plataforma",
+            "query_en": "Apple Mac Mini on wooden desk setup"
+          },
+          {
+            "anchor": "Perspectivas para o Mercado de Hardware",
+            "query_en": "Amazon warehouse delivery boxes and electronics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7dfd940c-eb67-460c-be6a-b8aca7422fa1",
+      "title": "Negociações da ONU sobre robôs assassinos terminam apenas com compromisso mínimo",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "UN negotiations killer robots Geneva autonomous weapons",
+        "images": [
+          {
+            "anchor": "O impasse em Genebra e a falta de regulação efetiva",
+            "query_en": "United Nations meeting room in Geneva"
+          },
+          {
+            "anchor": "O futuro das negociações sobre armamentos autônomos",
+            "query_en": "autonomous weapons military technology conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "218a731d-65d8-4495-98e9-280899317b61",
+      "title": "Ataque hacker paralisa página inicial da Hugendubel e a nuvem do Tolino",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hugendubel cyberattack Tolino cloud hack",
+        "images": [
+          {
+            "anchor": "Impacto nos leitores e serviços digitais",
+            "query_en": "Tolino ebook reader device"
+          },
+          {
+            "anchor": "Resposta da empresa e investigações",
+            "query_en": "Cybersecurity server room data protection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fefe6183-74bd-4aca-9057-556c7a510f7d",
+      "title": "Toyota apresenta conceito de bicicleta elétrica dobrável para o porta-malas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Toyota BKE Concept trunk e-bike",
+        "images": [
+          {
+            "anchor": "O Conceito BKE e a Mobilidade Urbana",
+            "query_en": "Toyota BKE Concept electric bike"
+          },
+          {
+            "anchor": "O Futuro do Projeto",
+            "query_en": "Toyota urban mobility concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7006a4e7-944d-4d9d-bcd7-3ed51e6d12d9",
+      "title": "Aversão à inteligência artificial na Wall Street faz ações de tecnologia despencarem",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Wall Street tech stocks fall artificial intelligence market",
+        "images": [
+          {
+            "anchor": "A pior semana desde a crise do coronavírus",
+            "query_en": "Wall Street stock exchange trading floor tech crash"
+          },
+          {
+            "anchor": "O impacto da IA nos mercados financeiros",
+            "query_en": "artificial intelligence financial market graph falling stock"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f37a3598-a83a-446e-81b6-d0f48780e5aa",
+      "title": "Tapo D260: Nova campainha de vídeo inteligente com resolução 4K entra em pré-venda com desconto",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tapo D260 4K smart video doorbell review",
+        "images": [
+          {
+            "anchor": "Disponibilidade e Condições de Pré-venda",
+            "query_en": "smart doorbell pre order packaging"
+          },
+          {
+            "anchor": "Recursos e Expectativas para o Mercado",
+            "query_en": "smart home security camera 4K resolution"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2662640e-b3b4-4168-a2e7-7864af54dbf9",
+      "title": "Conectividade em áreas remotas: como a parceria entre KDDI e Starlink levou internet à Oze国立公園",
       "category": "Internet",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Rakuten Mobile satellite service AST SpaceMobile J-LEO",
+        "video_query_en": "KDDI Starlink Oze National Park satellite communication",
         "images": [
           {
-            "anchor": "A estratégia de satélites da Rakuten Mobile e o avanço no J-LEO",
-            "query_en": "Rakuten Mobile satellite communication"
+            "anchor": "Introduction to Oze National Park connectivity",
+            "query_en": "Oze National Park mountain landscape Japan"
           },
           {
-            "anchor": "Por que uma operadora precisa de duas frentes orbitais diferentes?",
-            "query_en": "AST SpaceMobile satellite in orbit"
+            "anchor": "Environmental and logistical challenges during installation",
+            "query_en": "Starlink satellite dish mountain installation"
           },
           {
-            "anchor": "- O serviço existente em parceria direta com a AST SpaceMobile foca na integração imediata com dispositivos móveis convencionais para eliminar zonas de sombra.",
-            "query_en": "smartphone satellite connection"
+            "anchor": "Impact and dissemination of the initiative",
+            "query_en": "mountain hut in Japan wilderness"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c13b49e2-b157-4697-b15f-e76d35825fd3",
+      "title": "Katsuhiro Harada revela qual Pokémon gostaria de ter adicionado a Pokkén Tournament",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pokken Tournament gameplay roster characters",
+        "images": [
+          {
+            "anchor": "O escolhido de Katsuhiro Harada",
+            "query_en": "Katsuhiro Harada Bandai Namco"
           },
           {
-            "anchor": "- O projeto J-LEO responde a diretrizes e licitações específicas do governo japonês, estruturando uma rede com órbita terrestre baixa adaptada a demandas institucionais e de alta capacidade.",
-            "query_en": "Low Earth orbit communication satellite"
+            "anchor": "O processo de seleção do elenco",
+            "query_en": "Pokken Tournament arcade cabinet game"
           },
           {
-            "anchor": "- A separação técnica garante que os recursos de espectro e os cronogramas de lançamento de satólites não interfiram nas operações comerciais cotidianas da Rakuten Mobile.",
-            "query_en": "telecommunication network operation center"
+            "anchor": "A escalação final e o resultado no Nintendo Switch",
+            "query_en": "Pokken Tournament DX Nintendo Switch gameplay"
           },
           {
-            "anchor": "Os desafios operacionais e regulatórios da infraestrutura espacial",
-            "query_en": "satellite launch rocket engineering"
+            "anchor": "- Darkrai",
+            "query_en": "Pokken Tournament Darkrai"
+          },
+          {
+            "anchor": "- Blaziken",
+            "query_en": "Pokken Tournament Blaziken"
+          },
+          {
+            "anchor": "- Pikachu",
+            "query_en": "Pokken Tournament Pikachu"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f811bdf3-bd9d-4d14-a266-db93e98a28b1",
+      "title": "Qual capa de Mario & Luigi: Superstar Saga é a melhor? A votação do Box Art Brawl",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mario and Luigi Superstar Saga Game Boy Advance review and gameplay",
+        "images": [
+          {
+            "anchor": "Versão da América do Norte e Europa",
+            "query_en": "Mario and Luigi Superstar Saga North American box art"
+          },
+          {
+            "anchor": "Versão do Japão",
+            "query_en": "Mario and Luigi Superstar Saga Japanese box art"
+          },
+          {
+            "anchor": "O Veredito do Público",
+            "query_en": "Mario and Luigi Superstar Saga GBA cartridge and box"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f792b2a0-01ff-46c7-be13-bcfb5d8265ff",
+      "title": "Nintendo Life Mailbox de Novembro de 2026: Memórias de Ocarina of Time e Histórias da Comunidade",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "The Legend of Zelda Ocarina of Time gameplay retro review",
+        "images": [
+          {
+            "anchor": "O Natal de 1998 e o Primeiro Contato com Ocarina of Time",
+            "query_en": "Nintendo 64 console with cartridge and controller"
+          },
+          {
+            "anchor": "Um Ato Extraordinário de Maternidade",
+            "query_en": "The Legend of Zelda Ocarina of Time Link Deku Tree"
+          },
+          {
+            "anchor": "A Reação da Redação e o Concurso de Cartas",
+            "query_en": "Retro gaming magazines 1990s vintage"
+          }
+        ]
+      }
+    },
+    {
+      "id": "77304acb-6f8b-43c5-b584-970dce5c0ec5",
+      "title": "Genesis lança híbridos no Salão de Los Angeles e anuncia EREV com mais de mil quilômetros de autonomia para 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Genesis G80 GV80 Hybrids LA Auto Show 2026",
+        "images": [
+          {
+            "anchor": "Desempenho e motorização aprimorados",
+            "query_en": "Genesis G80 Hybrid engine powertrain LA Auto Show"
+          },
+          {
+            "anchor": "Recursos tecnológicos e conforto a bordo",
+            "query_en": "Genesis G80 interior 27 inch OLED display"
+          },
+          {
+            "anchor": "Perspectivas para 2027 e eletrificação avançada",
+            "query_en": "Genesis GV60 Magma electric SUV"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd473e27-18e9-4bb3-aa43-cd2a8676ddc9",
+      "title": "Andrew Garfield fala sobre o desafio de interpretar Sam Altman no filme Artificial",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Andrew Garfield Sam Altman Artificial movie interview",
+        "images": [
+          {
+            "anchor": "O processo de imersão e transformação física",
+            "query_en": "Andrew Garfield Artificial movie premiere"
+          },
+          {
+            "anchor": "A responsabilidade de retratar líderes tecnológicos",
+            "query_en": "Sam Altman OpenAI CEO"
+          },
+          {
+            "anchor": "A visão do diretor Luca Guadagnino",
+            "query_en": "Luca Guadagnino director"
+          }
+        ]
+      }
+    },
+    {
+      "id": "149a5cd1-43a5-41fd-bfb0-75bbb2735045",
+      "title": "Como desvirar carros capotados em GTA 6",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 how to flip an overturned car gameplay",
+        "images": [
+          {
+            "anchor": "Como funciona a mecânica de força bruta",
+            "query_en": "GTA 6 car flip mechanic"
+          },
+          {
+            "anchor": "Detalhes importantes sobre os veículos",
+            "query_en": "GTA 6 vehicle damage and repair"
+          }
+        ]
+      }
+    },
+    {
+      "id": "feb2c210-83aa-4801-9152-a24c3444524e",
+      "title": "Desenvolver cenas de sexo em GTA 6 foi extremamente difícil, revela a Rockstar",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 romance Jason and Lucia Rockstar Games interview",
+        "images": [
+          {
+            "anchor": "O desafio da intimidade realista",
+            "query_en": "Grand Theft Auto 6 Jason and Lucia artwork"
+          },
+          {
+            "anchor": "Agência do jogador e respostas dos parceiros",
+            "query_en": "Rockstar Games animation studio motion capture"
+          },
+          {
+            "anchor": "O impacto na jogabilidade e ausências notáveis",
+            "query_en": "GTA 6 Leonida open world landscape"
+          },
+          {
+            "anchor": "Best for PS5: DualSense",
+            "query_en": "DualSense wireless controller PS5"
+          },
+          {
+            "anchor": "Best for Xbox: GameSir G7 Pro",
+            "query_en": "GameSir G7 Xbox controller"
+          },
+          {
+            "anchor": "Best pro PS5: DualSense Edge",
+            "query_en": "DualSense Edge pro controller PS5"
+          },
+          {
+            "anchor": "Best pro Xbox: Nacon Revolution X Unlimited",
+            "query_en": "Nacon Revolution X Unlimited Xbox controller"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b9df4634-cdf3-4cf8-8c78-5917030de5c9",
+      "title": "Como conseguir o tanque Rhino em GTA 6 e virar praticamente indestrutível",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 how to get Rhino tank gameplay guide",
+        "images": [
+          {
+            "anchor": "Onde encontrar os tanques em GTA 6",
+            "query_en": "GTA 6 Mile Zero Air Station map location"
+          },
+          {
+            "anchor": "A invasão à base militar",
+            "query_en": "GTA 6 military base stunt jump fence"
+          },
+          {
+            "anchor": "Como roubar o Rhino tank",
+            "query_en": "GTA 6 Rhino tank military runway"
+          },
+          {
+            "anchor": "Consequências e o nível de procurado",
+            "query_en": "GTA 6 tank wanted level helicopter attack"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ba1e5df-8799-443c-a9fa-bbf9ff3afe0d",
+      "title": "GTA 6: Guia Completo com Todos os 80 Desafios Divididos em Oito Categorias",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 Gameplay Challenges Guide",
+        "images": [
+          {
+            "anchor": "Combat Challenges",
+            "query_en": "GTA 6 combat gameplay action"
+          },
+          {
+            "anchor": "Criminal Challenges",
+            "query_en": "GTA 6 criminal activity heist"
+          },
+          {
+            "anchor": "Exploration Challenges",
+            "query_en": "GTA 6 Vice City open world map exploration"
+          },
+          {
+            "anchor": "Fitness Challenges",
+            "query_en": "GTA 6 characters workout gym"
+          },
+          {
+            "anchor": "Shopping Challenges",
+            "query_en": "GTA 6 clothing store shopping"
+          },
+          {
+            "anchor": "Sports Challenges",
+            "query_en": "GTA 6 sports minigames golf basketball"
+          },
+          {
+            "anchor": "Survivalist Challenges",
+            "query_en": "GTA 6 wildlife hunting fishing nature"
+          },
+          {
+            "anchor": "Vehicle Challenges",
+            "query_en": "GTA 6 cars racing stunt jump"
           }
         ]
       }
@@ -699,97 +768,105 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "2662437d-8239-4292-81d4-fd76f0b57fae",
-      "title": "Mark Thompson continuará no comando da CNN após fusão de Warner Bros. Discovery e Paramount",
-      "category": "Empresas",
+      "id": "c51b9443-5da0-4016-a4bb-36d47d7d053e",
+      "title": "O display fosco OLED do TCL P80 Ultra aumenta a expectativa pelo iPhone Duo",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Paramount Warner Bros Discovery merger Mark Thompson CNN",
+        "video_query_en": "TCL P80 Ultra matte OLED display review",
         "images": [
           {
-            "anchor": "Mark Thompson continuará no comando da CNN após fusão de Warner Bros. Discovery e Paramount",
-            "query_en": "Mark Thompson CNN CEO"
+            "anchor": "A evolução do OLED com a tecnologia Nxtpaper",
+            "query_en": "TCL P80 Ultra smartphone matte OLED screen"
           },
           {
-            "anchor": "A nova liderança da Skydance",
-            "query_en": "David Ellison Skydance Paramount"
+            "anchor": "Conforto visual e modos especiais de leitura",
+            "query_en": "TCL Nxtpaper phone paper mode interface"
           },
           {
-            "anchor": "Impacto no jornalismo e governança",
-            "query_en": "CNN headquarters news building"
+            "anchor": "O impacto das telas foscas no mercado e a chegada do iPhone Duo",
+            "query_en": "iPhone Duo foldable matte inner screen"
           }
         ]
       }
     },
     {
-      "id": "edbb6a26-c1fc-404c-a851-c4bb6f045831",
-      "title": "Sen. Adam Schiff debate sobre regulação de IA, liberdade de expressão e corrupção política",
-      "category": "Inteligência Artificial",
+      "id": "be4b350d-4844-4357-9229-1f94d8dab3b4",
+      "title": "Aion 2: 5 coisas que você precisa saber antes de começar a jogar",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Adam Schiff AI regulation interview Decoder",
+        "video_query_en": "Aion 2 gameplay guide tips",
         "images": [
           {
-            "anchor": "O cenário político e o pacto voluntário de IA",
-            "query_en": "White House AI meeting tech executives"
+            "anchor": "Não gaste recursos melhorando equipamentos iniciais",
+            "query_en": "Aion 2 gear upgrade interface"
           },
           {
-            "anchor": "Desafios na propriedade intelectual e treinamento de modelos",
-            "query_en": "Artificial intelligence data training copyright"
+            "anchor": "Complete missões regionais",
+            "query_en": "Aion 2 open world questing"
           },
           {
-            "anchor": "O fracasso regulatório das redes sociais e a Seção 230",
-            "query_en": "Social media regulation smartphone tech hearing"
+            "anchor": "Utilize a Extração de Essência",
+            "query_en": "Aion 2 gathering resource node"
           },
           {
-            "anchor": "Inteligência artificial, responsabilidade e o papel das agências reguladoras",
-            "query_en": "US Capitol building Washington DC senate"
+            "anchor": "Aproveite as melhorias Daevanion",
+            "query_en": "Aion 2 skill tree menu"
           },
           {
-            "anchor": "Realinhamento político e preocupações com a força de trabalho",
-            "query_en": "Data center infrastructure technology building"
+            "anchor": "Mantenha o seu inventário organizado",
+            "query_en": "Aion 2 inventory management"
           }
         ]
       }
     },
     {
-      "id": "97a89044-571e-4b77-844c-dbd7867f1d93",
-      "title": "Ferramenta de código aberto permite remover cerca de 12GB de dados do Apple Intelligence no macOS",
-      "category": "Computadores",
+      "id": "024540d5-d2d3-4003-b0c7-f650f8f0bd4a",
+      "title": "Guia de Aion 2: Como Funciona a Extração de Essência e as Taxas de Sucesso",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "RemoveMacAI macOS Apple Intelligence delete command line tool",
+        "video_query_en": "Aion 2 Essence Extraction guide upgrading and success rates",
         "images": [
           {
-            "anchor": "Como funciona o RemoveMacAI",
-            "query_en": "MacBook computer terminal command line interface open source"
+            "anchor": "O que é a Extração de Essência em Aion 2",
+            "query_en": "Aion 2 gameplay gathering resource node"
           },
           {
-            "anchor": "Funcionalidades adicionais e espaço ocupado",
-            "query_en": "macOS settings storage menu system storage breakdown Apple Intelligence"
+            "anchor": "Como subir de nível na Extração de Essência",
+            "query_en": "Aion 2 mining node Orichalcum"
+          },
+          {
+            "anchor": "Como melhorar as taxas de sucesso e habilidades",
+            "query_en": "Aion 2 game menu interface skills"
+          },
+          {
+            "anchor": "Marcadores de nós de essência no minimapa",
+            "query_en": "Aion 2 minimap tracking interface"
           }
         ]
       }
     },
     {
-      "id": "f0000013-380a-49dd-9af0-b8c13338ab45",
-      "title": "OpenAI avança na monetização e testa anúncios visuais no ChatGPT",
-      "category": "Inteligência Artificial",
+      "id": "2daca1d9-906d-4736-a118-608662a9e587",
+      "title": "The Coalition usou o SSD do Xbox Series S como RAM improvisada para rodar Gears of War: E-Day",
+      "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "OpenAI ChatGPT visual ads sponsored products testing",
+        "video_query_en": "Gears of War E Day Xbox Series S technical analysis Digital Foundry",
         "images": [
           {
-            "anchor": "Como funcionam os novos anúncios visuais",
-            "query_en": "OpenAI ChatGPT interface showing sponsored links and ads"
+            "anchor": "Desafios de hardware no console da Microsoft",
+            "query_en": "Xbox Series S console hardware"
           },
           {
-            "anchor": "Quem verá os anúncios e quem ficará isento",
-            "query_en": "ChatGPT Plus Pro Enterprise subscription interface"
+            "anchor": "A solução criativa com o SSD",
+            "query_en": "Xbox Series S internal SSD storage"
           },
           {
-            "anchor": "Salvaguardas e segurança nas conversas",
-            "query_en": "AI safety guardrails abstract concept technology"
+            "anchor": "A implementação prática e resultados",
+            "query_en": "Gears of War E Day gameplay action"
           }
         ]
       }
