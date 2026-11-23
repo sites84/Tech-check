@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T03:53:00.103Z",
-  "html_files_scanned": 7835,
-  "articles_in_database": 7257,
-  "unique_news_articles": 6459,
-  "duplicate_news_articles_excluded": 798,
-  "news_pages_in_sitemap": 6459,
-  "main_sitemap_urls": 6665,
+  "generated_at": "2026-11-23T09:57:20.694Z",
+  "html_files_scanned": 7874,
+  "articles_in_database": 7290,
+  "unique_news_articles": 6482,
+  "duplicate_news_articles_excluded": 808,
+  "news_pages_in_sitemap": 6482,
+  "main_sitemap_urls": 6688,
   "evergreen_sitemap_urls": 40,
   "issues": {
     "missing_news_page": [],
@@ -16,6 +16,16 @@
     "alias_or_nonself_canonical": 0
   },
   "duplicate_article_ids_sample": [
+    "5dbd5944-c556-4f51-b573-64b367b4ca45",
+    "11b5000d-e1c8-4925-87a1-e026f8bd7617",
+    "fd7c04e1-dc84-4fd9-9a96-006c7d205a54",
+    "d02ab45f-d04d-48cc-8a6e-e283803ef44f",
+    "0215759d-2102-4299-8a3b-08bd58c59c80",
+    "7ee53f3a-805f-472a-9d72-95080eef8575",
+    "832d57c5-0869-44a8-82d0-13841bfcc728",
+    "cf2999c0-96ed-47e4-b779-b0ddadb243e0",
+    "9073b33a-9a12-4b9c-825b-8e1321114dd4",
+    "08e4987f-ff8f-4af6-a346-5d36bdf80395",
     "3c73e135-7f83-4027-9ad9-c42eae8fb08b",
     "d36d92d0-d976-4ae1-a33e-6778e73e7406",
     "69927f9c-4f22-4312-b4fe-ed03e444f790",
@@ -35,16 +45,6 @@
     "923fc5e7-29f0-40b6-806d-deecb94b3a8f",
     "2aed5797-714e-4ba0-8dbf-1913d41b9db7",
     "43c82e17-a0b7-450c-a921-051f54d63649",
-    "d7c3d660-55d6-4e9c-a9fd-942c2f639cc2",
-    "dcae2782-f3ef-44f3-bc93-42ed94c3d878",
-    "87f8145b-0f8a-4bc5-ab4b-fc481f740a95",
-    "fe2331d0-3799-4bac-ad7d-dd8d0b9f1928",
-    "7051dfe7-ec50-4fef-bb1b-06a85961013c",
-    "df6ab51b-9d1d-4d4c-8823-d49d60de4580",
-    "8fa0d8f0-4280-4c58-8812-40ef9fa4be13",
-    "c0f1f54a-30a1-4b10-b53a-6bd35bd61ec7",
-    "6f77b842-1a09-44c5-811b-50b9988df8c8",
-    "35382cef-fd03-4262-969e-1155d1a3623a",
-    "f8753228-2d7f-458a-a42e-ad1ff80fe200"
+    "d7c3d660-55d6-4e9c-a9fd-942c2f639cc2"
   ]
 }
