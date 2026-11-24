@@ -1,660 +1,700 @@
 {
-  "updated_at": "2026-11-23T13:04:06.639Z",
+  "updated_at": "2026-11-24T01:05:09.377Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "b0031125-73f2-4cd7-adc8-3abbdf7d110f",
-      "title": "Coreia do Sul anuncia novos ministros e nova chefe de espionagem em reformulação do gabinete",
+      "id": "1bc2ab94-3cc9-4d7f-a775-6661a8ceba9d",
+      "title": "Nvidia reergue Jensen Huang ao cargo de CEO em reviravolta histórica após pressão de Trump",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "South Korea cabinet reshuffle Lee Jae Myung",
+        "video_query_en": "Nvidia Jensen Huang returns CEO Donald Trump",
         "images": [
           {
-            "anchor": "Reformulação no alto escalão da segurança nacional",
-            "query_en": "South Korea presidential office Seoul"
+            "anchor": "Uma Reviravolta Histórica no Comando da Nvidia",
+            "query_en": "Nvidia corporate headquarters building"
           },
           {
-            "anchor": "Primeira mulher na chefia dos serviços de inteligência",
-            "query_en": "National Intelligence Service South Korea building"
+            "anchor": "A Influência Direta do Governo dos Estados Unidos",
+            "query_en": "Donald Trump speaking press conference"
           },
           {
-            "anchor": "Novos rumos para a diplomacia e relações intercoreanas",
-            "query_en": "South Korea Foreign Ministry Seoul"
-          },
-          {
-            "anchor": "Lim Woong-soon foi nomeado para o cargo de ministro das Relações Exteriores. Ele é um diplomata de carreira e atualmente atua como vice-assessor de segurança nacional.",
-            "query_en": "South Korean diplomat in formal meeting"
-          },
-          {
-            "anchor": "Hong Ik-pyo foi indicado para o posto de ministro da Unificação, pasta encarregada de liderar e gerenciar os laços e as negociações de Seul com a Coreia do Norte.",
-            "query_en": "Ministry of Unification South Korea sign"
+            "anchor": "A Justificativa do Conselho de Administração",
+            "query_en": "Jensen Huang Nvidia CEO presentation"
           }
         ]
       }
     },
     {
-      "id": "4845d636-b5af-4010-8932-3c36ac21a201",
-      "title": "Tailândia planeja proibir exportação de químicos de mineração para conter poluição",
+      "id": "b82c0050-02ef-4015-aefe-cd9254d24c78",
+      "title": "Aliados alertam que Rússia pode lançar arma nuclear no espaço no próximo mês",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Thailand rare earth mining pollution arsenic rivers",
+        "video_query_en": "Russia nuclear space weapon satellite Sputnik-S NATO intelligence",
         "images": [
           {
-            "anchor": "Medidas drásticas contra a poluição química",
-            "query_en": "Thailand chemical pollution protest river"
+            "anchor": "Alertas da Inteligência Ocidental",
+            "query_en": "NATO headquarters building Brussels"
           },
           {
-            "anchor": "Diálogo internacional e reuniões bilaterais",
-            "query_en": "Bangkok government meeting press conference"
+            "anchor": "Avaliação do Comando Espacial Alemão",
+            "query_en": "German military space command facility"
           },
           {
-            "anchor": "Impacto nos rios transfronteiriços",
-            "query_en": "Kok river Thailand nature landscape"
+            "anchor": "Riscos para a Infraestrutura Espacial",
+            "query_en": "satellites orbiting Earth space debris"
           }
         ]
       }
     },
     {
-      "id": "987a8f42-90da-4a5c-8150-8d9918bf5dcf",
-      "title": "49ers rout Vikings as NFL wraps up international slate in style in Mexico City",
-      "status": "error",
-      "error": "Supabase 522 em /rest/v1/articles?id=eq.987a8f42-90da-4a5c-8150-8d9918bf5dcf: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-23 12:57:48 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5f057042af25374</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">20.64.8.158</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "3e3c6f62-e819-4903-a142-a33bd523cf1b",
-      "title": "Salão principal restaurado do Castelo de Shuri, em Okinawa, reabre ao público",
+      "id": "a055c4ab-50f1-4d7f-aa54-3047941797af",
+      "title": "Primeiro-ministro do Reino Unido afirma ser impensável retornar à União Europeia sem referendo",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Shuri Castle Seiden main hall opens to public Okinawa",
+        "video_query_en": "Andy Burnham UK EU referendum House of Commons",
         "images": [
           {
-            "anchor": "A Reabertura do Salão Principal",
-            "query_en": "Shuri Castle Seiden main hall Naha Okinawa"
+            "anchor": "Declarações na Câmara dos Comuns e o Contexto Político",
+            "query_en": "British House of Commons interior"
           },
           {
-            "anchor": "Reação do Público e Primeiro Acesso",
-            "query_en": "Hoshinmon gate Una square Shuri Castle"
-          },
-          {
-            "anchor": "Reservas antecipadas são obrigatórias para realizar a visita guiada ou autoguiada pelo interior do edifício histórico.",
-            "query_en": "Shuri Castle interior tour Okinawa"
+            "anchor": "Repercussão e o Futuro das Relações",
+            "query_en": "European Union flags and British flag"
           }
         ]
       }
     },
     {
-      "id": "0459ba7e-9fae-463b-bef2-c1eceaf4a5c3",
-      "title": "O fardo financeiro que trava o sonho do hidrogênio em Fukushima",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Fukushima hydrogen station fuel cell vehicle Namie",
-        "images": [
-          {
-            "anchor": "A realidade de Namie e o sonho do hidrogênio",
-            "query_en": "Namie Fukushima hydrogen station"
-          },
-          {
-            "anchor": "Os desafios estruturais da transição",
-            "query_en": "fuel cell vehicle hydrogen station Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "410bce8f-6696-4a22-b07c-32c5e0298680",
-      "title": "Governo do Japão recorre a comediantes e influenciadores para justificar expansão de defesa",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan government defense communication influencers Naokiman",
-        "images": [
-          {
-            "anchor": "A busca por novos mensageiros",
-            "query_en": "Japanese government public relations campaign"
-          },
-          {
-            "anchor": "Parcerias com o entretenimento",
-            "query_en": "Japanese comedy manzai style"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1f17cf81-d95a-41b6-938b-60d642a0b7f4",
-      "title": "Por que a inflação da China está crescendo nos setores errados",
+      "id": "1eb4eb77-5105-4227-80ff-4c1894a1280a",
+      "title": "A vitrine de US$ 150 bilhões da China na COP31 agita os bastidores e rouba a cena das negociações",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China economy inflation factory gate prices energy costs",
+        "video_query_en": "China clean tech COP31 Antalya",
         "images": [
           {
-            "anchor": "O dilema dos preços nas fábricas",
-            "query_en": "Chinese factory manufacturing industrial line production"
+            "anchor": "O contraste entre disfunção e negócios na COP31",
+            "query_en": "COP31 climate summit Antalya Turkey"
           },
           {
-            "anchor": "Comparação com o cenário internacional",
-            "query_en": "Beijing city skyline financial district China"
+            "anchor": "Destaques da indústria verde chinesa",
+            "query_en": "Chinese clean technology pavilion climate summit"
+          },
+          {
+            "anchor": "Longi Green Energy Technology",
+            "query_en": "Longi solar panel technology exhibition"
+          },
+          {
+            "anchor": "CATL",
+            "query_en": "CATL battery technology electric vehicle"
+          },
+          {
+            "anchor": "Empresa estatal de energia",
+            "query_en": "hydropower dam Southeast Asia infrastructure"
+          },
+          {
+            "anchor": "Recordes de exportação e impacto ambiental",
+            "query_en": "electric cars and batteries export China port"
           }
         ]
       }
     },
     {
-      "id": "682b6c49-b5d8-432e-8e91-c3b03ea6ec29",
-      "title": "Ucrânia afunda navio de guerra russo na Líbia e expande conflito para fora da Europa",
+      "id": "c8a876f8-3821-4735-a8f5-d670c37b579a",
+      "title": "Ucrânia afunda navio de guerra russo na costa da Líbia em expansão de conflito",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Ukraine naval drones attack Russian warship Libya",
+        "video_query_en": "Ukraine drones sink Russian warship Libya Benghazi",
         "images": [
           {
-            "anchor": "O Ataque na Líbia e o Afundamento da Corveta",
-            "query_en": "Ukrainian naval drones military operation port"
+            "anchor": "Operação inédita no litoral líbio",
+            "query_en": "Volodymyr Zelenskyy official address Ukraine"
           },
           {
-            "anchor": "Detalhes da Operação e Alvos Atingidos",
-            "query_en": "Russian navy warship corvette Mercury"
+            "anchor": "Perdas materiais e embarcações atingidas",
+            "query_en": "Ukrainian sea drone military technology"
           },
           {
-            "anchor": "Contexto Geopolítico e Ações no Golfo da Finlândia",
-            "query_en": "Gulf of Finland cargo ship drone strike"
+            "anchor": "Corveta Merkury",
+            "query_en": "Russian navy corvette Merkury"
+          },
+          {
+            "anchor": "Helicóptero Ka-27",
+            "query_en": "Ka-27 Russian combat helicopter"
+          },
+          {
+            "anchor": "Navio MV Angara",
+            "query_en": "Cargo ship cargo vessel sea"
+          },
+          {
+            "anchor": "Ampliação estratégica do conflito marítimo",
+            "query_en": "Black sea cargo ships port"
           }
         ]
       }
     },
     {
-      "id": "33550b26-ea91-4848-b872-be419bd16041",
-      "title": "Brinquedo digital Tamagotchi, da Bandai, comemora 30 anos de história",
+      "id": "bac251bc-200e-42be-bcd6-3a27568f9d03",
+      "title": "Trading houses do Japão ampliam negócios de peças de aeronaves com foco em frotas envelhecidas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Tamagotchi 30th anniversary Bandai history",
+        "video_query_en": "Japan trading houses aviation supply chain aging jets",
         "images": [
           {
-            "anchor": "O surgimento de um fenômeno global",
-            "query_en": "vintage Tamagotchi 1996 digital pet toy"
+            "anchor": "O avanço da Kanematsu e a aposta nos motores",
+            "query_en": "commercial aircraft engine maintenance"
           },
           {
-            "anchor": "Crise inicial e reviravolta nos negócios",
-            "query_en": "Bandai headquarters Tokyo Japan"
-          },
-          {
-            "anchor": "Retorno ao mercado e reinvenção contínua",
-            "query_en": "modern Tamagotchi device colorful screen"
+            "anchor": "Outras movimentações estratégicas do setor",
+            "query_en": "commercial airplanes parked at airport"
           }
         ]
       }
     },
     {
-      "id": "514c282f-976b-4194-92dd-0972ac4d55cb",
-      "title": "Autoridades de inteligência do Japão e da Coreia do Norte teriam mantido contato durante Jogos Asiáticos",
+      "id": "fd6908af-1719-4305-a748-296d1c77acf9",
+      "title": "A vitória dos democratas nos EUA e o impacto nas opções de Trump em relação ao Irã e ao mercado de petróleo",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan North Korea intelligence contact Asian Games",
+        "video_query_en": "US oil market Iran tensions Donald Trump",
         "images": [
           {
-            "anchor": "Contato nos bastidores dos Jogos Asiáticos",
-            "query_en": "Aichi Nagoya Asian Games venue"
-          },
-          {
-            "anchor": "A pauta das negociações bilaterais",
-            "query_en": "Japan and North Korea flag diplomacy"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e991147-ed48-4e55-a1aa-2d7bdbc137b2",
-      "title": "Fabricante japonesa Ricoh aposta em câmeras minimalistas para atrair o público jovem",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ricoh GR compact camera review",
-        "images": [
-          {
-            "anchor": "O cenário de escassez nas lojas de Tóquio",
-            "query_en": "Tokyo electronics store camera display sign"
-          },
-          {
-            "anchor": "O contexto do mercado fotográfico no Japão",
-            "query_en": "Japanese camera store retail display"
-          },
-          {
-            "anchor": "Kodak",
-            "query_en": "Kodak digital camera product"
-          },
-          {
-            "anchor": "Fujifilm",
-            "query_en": "Fujifilm digital camera model"
-          },
-          {
-            "anchor": "Tamron",
-            "query_en": "Tamron camera lens"
-          },
-          {
-            "anchor": "Canon",
-            "query_en": "Canon digital camera product"
-          },
-          {
-            "anchor": "A busca por autenticidade analógica e tátil",
-            "query_en": "Compact digital camera being held"
-          }
-        ]
-      }
-    },
-    {
-      "id": "807fc464-ecf0-42fe-be6a-d1f174d8f268",
-      "title": "Pakistan's push to split provinces hits resistance from Bhutto's party",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Política"
-    },
-    {
-      "id": "880f69ef-fad4-4efc-b072-ada4400469db",
-      "title": "Críticos na Indonésia apontam falha em nova lei de confisco de bens",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia asset forfeiture law parliament corruption",
-        "images": [
-          {
-            "anchor": "O problema dos crimes fiscais",
-            "query_en": "Indonesian parliament building Jakarta government"
-          },
-          {
-            "anchor": "Contexto político e econômico",
-            "query_en": "Jakarta financial district skyline Indonesia"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c8ccc214-75e6-4ba0-b89d-cc1b86e93f08",
-      "title": "Indonésia realiza buscas por 34 trabalhadores desaparecidos após incêndio em fábrica de doces",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia candy factory fire Banten search missing workers",
-        "images": [
-          {
-            "anchor": "O Incêndio na Fábrica de Banten",
-            "query_en": "Indonesian candy factory fire ruins smoke Banten"
-          },
-          {
-            "anchor": "Esforços de Resgate e Vítimas",
-            "query_en": "Basarnas rescue workers Indonesia industrial fire"
-          },
-          {
-            "anchor": "Perfil da Empresa e Contexto de Segurança",
-            "query_en": "Milkita candy factory Indonesia manufacturing plant"
-          }
-        ]
-      }
-    },
-    {
-      "id": "19f0cb36-93d4-43fe-8cc2-f6831adbe5a3",
-      "title": "Índia anuncia pacote de US$ 1,6 bilhão para recuperação de enchentes no Nepal",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "India Nepal flood recovery package Narendra Modi Balendra Shah",
-        "images": [
-          {
-            "anchor": "Encontro de líderes em Nova Délhi",
-            "query_en": "Narendra Modi Balendra Shah Hyderabad House New Delhi meeting"
-          },
-          {
-            "anchor": "Contexto da reconstrução e desafios climáticos",
-            "query_en": "Nepal flood damage recovery Himalayas infrastructure"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bed74a9b-f50a-41e9-be3b-02d21d7f99e0",
-      "title": "Indonésia indica ex-ministro das Relações Exteriores e ministro da Agricultura como candidatos a vice-presidente",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Indonesia president Prabowo Subianto vice president candidates",
-        "images": [
-          {
-            "anchor": "Os candidatos indicados por Prabowo Subianto",
-            "query_en": "Prabowo Subianto Indonesia president"
-          },
-          {
-            "anchor": "Sugiono: Ex-ministro das Relações Exteriores da Indonésia e amplamente reconhecido como um dos protegidos ideológicos do presidente Prabowo Subianto.",
-            "query_en": "Sugiono Indonesia politician"
-          },
-          {
-            "anchor": "Andi Amran Sulaiman: Atual ministro da Agricultura da Indonésia, trazendo sua experiência no setor agrário e na gestão de recursos econômicos estratégicos para o país.",
-            "query_en": "Andi Amran Sulaiman agriculture minister Indonesia"
-          },
-          {
-            "anchor": "Contexto da sucessão vice-presidencial",
-            "query_en": "Jakarta Indonesia government building politics"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1e7c4bfc-1e49-44b0-96c5-ff7ec76f04a7",
-      "title": "Coway Wins Five Honors at 2026 PIN UP Design Awards",
-      "status": "error",
-      "error": "Supabase 522 em /rest/v1/article_categories: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-23 12:59:23 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5f05955da1b0824</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">20.64.8.158</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "64744f5c-37ee-40fc-b6a2-2431c847bd58",
-      "title": "LS Cable & System inicia projeto de rede elétrica de 700 bilhões de wones nos Estados Unidos",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "LS Cable & System high-voltage power grid project New York",
-        "images": [
-          {
-            "anchor": "O início das obras em Nova York",
-            "query_en": "New York power grid skyline"
-          },
-          {
-            "anchor": "Aprovação regulatória e contrato",
-            "query_en": "power transmission tower infrastructure"
-          },
-          {
-            "anchor": "Detalhes técnicos e fornecimento",
-            "query_en": "high-voltage power cables"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1c4378fe-7e9d-4c1c-8554-e98297d24ce6",
-      "title": "Inovance e AMP Korea desenvolvem máquina de corte de alta velocidade para baterias",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "battery electrode notching machine industrial manufacturing",
-        "images": [
-          {
-            "anchor": "Uma nova parceria para o setor de baterias",
-            "query_en": "industrial battery manufacturing facility"
-          },
-          {
-            "anchor": "Tecnologia avançada de controle de movimento",
-            "query_en": "advanced industrial motion control system"
-          },
-          {
-            "anchor": "Inovance",
-            "query_en": "industrial automation technology equipment"
-          },
-          {
-            "anchor": "AMP Korea",
-            "query_en": "battery manufacturing machinery factory"
-          },
-          {
-            "anchor": "Desempenho e velocidade operacional",
-            "query_en": "high speed battery electrode cutting machine"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bb175bef-4b2e-4acd-821f-511979836a07",
-      "title": "PGT to Nearly Triple Battery Material Output in 2027",
-      "status": "error",
-      "error": "Supabase 522 em /rest/v1/categories?name=eq.Empresas&select=id,name&limit=1: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-23 12:59:59 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5f05a32e8016b69</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">20.64.8.158</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "6b7d440e-9b62-4dde-9be6-df7f9180a3c7",
-      "title": "Sensirion Lança Dois Novos Sensores de Fluxo de Líquido para Instalação em Manifold",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sensirion liquid flow sensors manifold mount",
-        "images": [
-          {
-            "anchor": "Nova Linha de Sensores da Sensirion",
-            "query_en": "Sensirion liquid flow sensor"
-          },
-          {
-            "anchor": "Vantagens da Instalação Direta",
-            "query_en": "fluid manifold sensor installation"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0288a708-af14-4659-8e09-1dfa6239f600",
-      "title": "Hana Aerodynamics conquista contrato de manutenção de aeronaves da KAI",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Korea Aerospace Industries KT-1B aircraft maintenance",
-        "images": [
-          {
-            "anchor": "Expansão estratégica para o setor de MRO",
-            "query_en": "aircraft maintenance repair overhaul facility"
-          },
-          {
-            "anchor": "O contrato com a Korea Aerospace Industries",
-            "query_en": "Korea Aerospace Industries logo"
-          },
-          {
-            "anchor": "KT-1B",
-            "query_en": "KAI KT-1B trainer aircraft"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3e970c1c-ad55-40ae-9b30-049b7321e843",
-      "title": "Samsung Heavy Industries Names Lee Wang-keun as New CEO",
-      "status": "error",
-      "error": "Supabase 522 em /rest/v1/article_categories?article_id=eq.3e970c1c-ad55-40ae-9b30-049b7321e843: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-23 13:01:00 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a5f05bb38aef058f</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">20.64.8.158</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
-    },
-    {
-      "id": "dd38dd99-f519-493d-a492-343b91318bff",
-      "title": "KAI fecha acordos de pesquisa aeroespacial com DGIST e UNIST",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Korea Aerospace Industries aerospace research partnership",
-        "images": [
-          {
-            "anchor": "Parcerias estratégicas com instituições de excelência",
-            "query_en": "Korea Aerospace Industries facility"
-          },
-          {
-            "anchor": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
-            "query_en": "DGIST university campus building"
-          },
-          {
-            "anchor": "Ulsan National Institute of Science and Technology (UNIST)",
-            "query_en": "UNIST university campus building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f674539c-d525-458f-b681-859613863c36",
-      "title": "Chefe da inteligência dos EUA prevê mais falhas tecnológicas durante atualizações de sistemas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jay Clayton intelligence chief tech outages CNN interview",
-        "images": [
-          {
-            "anchor": "Alerta sobre o futuro tecnológico dos Estados Unidos",
-            "query_en": "US technology infrastructure server room upgrade"
-          },
-          {
-            "anchor": "Motivos para as atualizações e falhas recentes",
-            "query_en": "cybersecurity data center technology upgrade"
-          },
-          {
-            "anchor": "Uma paralisação nacional nas viagens aéreas que afetou o fluxo de passageiros.",
-            "query_en": "airport terminal travel disruption"
-          },
-          {
-            "anchor": "Uma pane nos serviços da Microsoft que comprometeu o funcionamento de contas de e-mail.",
-            "query_en": "Microsoft corporate office building"
-          },
-          {
-            "anchor": "Um problema técnico de grande escala que atingiu diversos bancos de importância relevante.",
-            "query_en": "modern bank building exterior financial district"
-          },
-          {
-            "anchor": "Uma interrupção temporária registrada na rede interna da Agência de Segurança Nacional (NSA).",
-            "query_en": "National Security Agency building sign"
-          },
-          {
-            "anchor": "Esclarecimentos sobre ataques cibernéticos e segurança",
-            "query_en": "cybersecurity operations center screens"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b6b88f49-deda-4a62-9bf3-2133d4f32a83",
-      "title": "Governo dos EUA cobra respostas da Nvidia sobre venda de chips para a China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US Treasury Secretary Scott Bessent Nvidia China chips",
-        "images": [
-          {
-            "anchor": "Contato com a gestão temporária e exigência de rapidez",
-            "query_en": "Nvidia headquarters building California"
-          },
-          {
-            "anchor": "Investigações e desdobramentos políticos",
+            "anchor": "O cenário político e o impacto nas decisões estratégicas",
             "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "Investigando os níveis de responsabilidade corporativa",
-            "query_en": "Scott Bessent US Treasury Secretary"
+            "anchor": "Reações e o comportamento dos preços do petróleo",
+            "query_en": "oil tanker in the ocean energy market"
+          },
+          {
+            "anchor": "Perspectivas para a segurança energética global",
+            "query_en": "oil refinery sunset energy infrastructure"
           }
         ]
       }
     },
     {
-      "id": "56919e17-ded6-438a-902b-082b399b8354",
-      "title": "Como explorar rádios do mundo inteiro a partir de um único aplicativo",
-      "category": "Internet",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Radio Garden app review and tutorial",
-        "images": [
-          {
-            "anchor": "Uma experiência imersiva e global",
-            "query_en": "Radio Garden digital globe interface green dots"
-          },
-          {
-            "anchor": "Variedade de conteúdos e surpresas no ar",
-            "query_en": "World map radio broadcast listening online"
-          },
-          {
-            "anchor": "Versão gratuita e histórico da plataforma",
-            "query_en": "Person using music streaming app on smartphone"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dd1881ff-6615-444b-bb89-ee21936de95c",
-      "title": "Governo da Índia emite alerta sobre riscos de segurança no uso do WhatsApp Web",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "WhatsApp Web security warning India cyber crime",
-        "images": [
-          {
-            "anchor": "O Perigo das Sessões Ativas",
-            "query_en": "WhatsApp Web security risk computer screen"
-          },
-          {
-            "anchor": "Cenário de Golpes e Cuidados Especenciais",
-            "query_en": "cyber crime warning security notification"
-          },
-          {
-            "anchor": "Evitar o uso do WhatsApp Web em computadores de escritório, sistemas compartilhados, computadores públicos e dispositivos acessíveis a terceiros.",
-            "query_en": "public computer office desk work"
-          },
-          {
-            "anchor": "Abster-se de trocar informações governamentais, organizacionais, financeiras, confidenciais ou sensíveis por meio da versão de navegador do aplicativo.",
-            "query_en": "financial data security online privacy"
-          },
-          {
-            "anchor": "Nunca manter contas permanentemente conectadas e realizar o encerramento manual da sessão após o término do uso.",
-            "query_en": "computer keyboard typing user login"
-          },
-          {
-            "anchor": "Evitar o login em lan houses, quiosques públicos, centros de negócios de hotéis e aparelhos emprestados ou não confiáveis.",
-            "query_en": "internet cafe public terminal"
-          },
-          {
-            "anchor": "Boas Práticas e Navegação Privada",
-            "query_en": "private browsing incognito mode browser"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7aacc3c8-f977-4697-b87d-2c6af275af2a",
-      "title": "Teenage Engineering lança CD player minimalista por 300 euros",
+      "id": "1f4004e1-e4f1-474d-a5dd-ec52c76d1560",
+      "title": "Governo do Japão apoia testes da Kawasaki Heavy para drones marinhos em parques eólicos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Teenage Engineering CD player review",
+        "video_query_en": "Kawasaki Heavy Industries autonomous marine drone offshore wind inspection",
         "images": [
           {
-            "anchor": "O retorno do formato físico com estilo",
-            "query_en": "Teenage Engineering minimalist CD player design"
+            "anchor": "O projeto de drones da Kawasaki Heavy Industries",
+            "query_en": "Kawasaki Heavy Industries autonomous marine drone"
           },
           {
-            "anchor": "Design e funcionalidade",
-            "query_en": "Teenage Engineering audio equipment aesthetic"
+            "anchor": "Objetivos e aplicações tecnológicas",
+            "query_en": "offshore wind farm subsea cable inspection"
           },
           {
-            "anchor": "Estética minimalista",
-            "query_en": "minimalist industrial design audio player"
-          },
-          {
-            "anchor": "Portabilidade",
-            "query_en": "portable CD player modern design"
-          },
-          {
-            "anchor": "Qualidade de construção",
-            "query_en": "Teenage Engineering product build quality"
-          },
-          {
-            "anchor": "Por que o CD ainda importa?",
-            "query_en": "CD collection music enthusiast"
-          },
-          {
-            "anchor": "Especificações e experiência de uso",
-            "query_en": "CD player interface controls"
+            "anchor": "Contexto das indústrias no Japão",
+            "query_en": "Japan offshore wind turbine ocean infrastructure"
           }
         ]
       }
     },
     {
-      "id": "4293d801-e22c-4ad8-b439-562df9bcd3ff",
-      "title": "Mini-PC NiPoGi E3B com Ryzen 5 e 24 GB de RAM ganha desconto na Amazon",
+      "id": "e4703762-9523-4cfa-926a-6188974ae17f",
+      "title": "Orçamento do Japão divide gastos com defesa e corte de imposto",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan defense spending budget tax cut",
+        "images": [
+          {
+            "anchor": "O dilema das políticas principais",
+            "query_en": "Japanese Prime Minister Sanae Takaichi speech"
+          },
+          {
+            "anchor": "Desafios fiscais e estratégicos",
+            "query_en": "Japanese Diet building Tokyo budget"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ce71d916-10ec-4da5-aa8d-25c2f8faf288",
+      "title": "Tokyo power provider to unify cleanup of Fukushima nuclear accident site",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Energia"
+    },
+    {
+      "id": "da2491f9-5e62-4a56-be39-854a152c95be",
+      "title": "A ascensão dos 'concierges' de ingressos: como a escassez de shows movimenta o mercado no Sudeste Asiático",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "concert ticket sales struggle Southeast Asia",
+        "images": [
+          {
+            "anchor": "O surgimento de uma nova profissão informal",
+            "query_en": "people waiting in line for concert tickets"
+          },
+          {
+            "anchor": "O desafio da escassez e a economia dos shows",
+            "query_en": "crowded concert stadium Southeast Asia"
+          },
+          {
+            "anchor": "Riscos e incertezas no mercado de ingressos",
+            "query_en": "online ticket booking website error"
+          }
+        ]
+      }
+    },
+    {
+      "id": "17435018-effe-454a-b6db-5ef48be5dae2",
+      "title": "Japão vai reforçar Guarda Costeira com navios-patrulha e drones para conter a China",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan coast guard patrol boats drones Senkaku China",
+        "images": [
+          {
+            "anchor": "Reuniões ministeriais e planejamento estratégico",
+            "query_en": "Japan ministerial meeting defense maritime capabilities"
+          },
+          {
+            "anchor": "Contexto regional e iniciativas de defesa",
+            "query_en": "Japan coast guard patrol vessel at sea"
+          },
+          {
+            "anchor": "O estudo de fábricas estatais para elevar a produção de drones e munições em períodos de crise.",
+            "query_en": "military drone technology manufacturing"
+          },
+          {
+            "anchor": "A transformação da região de Fukushima em um polo tecnológico voltado para drones, robôs e foguetes.",
+            "query_en": "robotics drone technology research Japan"
+          },
+          {
+            "anchor": "A inclusão de estratégias de defesa baseada em negação em documentos de segurança revisados.",
+            "query_en": "Japan maritime defense strategy meeting"
+          },
+          {
+            "anchor": "A reorganização da pesquisa de defesa em torno de inteligência artificial e segurança cibernética.",
+            "query_en": "artificial intelligence cybersecurity defense research"
+          },
+          {
+            "anchor": "Parcerias internacionais, como acordos com a Índia para permitir o uso de campos de tiro em testes de mísseis superfície-superfície.",
+            "query_en": "India Japan military cooperation missile test"
+          }
+        ]
+      }
+    },
+    {
+      "id": "174ae817-fa8e-4289-985e-d782890cd51b",
+      "title": "EUA preparam inclusão da Megaspeed em lista negra comercial em meio a escândalo da Nvidia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia US trade blacklist Megaspeed semiconductor chips",
+        "images": [
+          {
+            "anchor": "Conexões e o Escândalo da Nvidia",
+            "query_en": "Nvidia corporate headquarters building California"
+          },
+          {
+            "anchor": "Impactos na Cadeia de Suprimentos",
+            "query_en": "Advanced computer server hardware semiconductor manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "068bc684-4534-4d06-bdc2-6e5e90bb4d0b",
+      "title": "PIB de Singapura cresce 6,1% no terceiro trimestre impulsionado por alta demanda de inteligência artificial",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Singapore GDP growth artificial intelligence demand economy",
+        "images": [
+          {
+            "anchor": "O impacto do boom da inteligência artificial",
+            "query_en": "Singapore shipping containers port manufacturing economy"
+          },
+          {
+            "anchor": "Perspectivas econômicas para os próximos anos",
+            "query_en": "Singapore skyline business financial district economy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6ec85380-75e3-4abf-8270-e0f1e0f40746",
+      "title": "Nikkei Asia anuncia webinar sobre o futuro da indústria de semicondutores para 2027",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nikkei Asia semiconductor global chip game predictions 2027",
+        "images": [
+          {
+            "anchor": "Detalhes do Evento e Horários",
+            "query_en": "Nikkei Asia digital seminar technology conference"
+          },
+          {
+            "anchor": "Singapore SGT: 11h às 12h",
+            "query_en": "Singapore skyline modern business district"
+          },
+          {
+            "anchor": "Hong Kong HKT: 11h às 12h",
+            "query_en": "Hong Kong Victoria Harbour financial center"
+          },
+          {
+            "anchor": "Tokyo JST: 12h às 13h",
+            "query_en": "Tokyo tech district skyscrapers Japan"
+          },
+          {
+            "anchor": "New York EST: 22h às 23h (em 6 de janeiro)",
+            "query_en": "New York City Manhattan skyline evening"
+          },
+          {
+            "anchor": "Especialistas Convidados",
+            "query_en": "semiconductor manufacturing cleanroom silicon wafer Taiwan"
+          },
+          {
+            "anchor": "Annie Cheng Ting-Fang",
+            "query_en": "journalist reporting technology interview Asia"
+          },
+          {
+            "anchor": "Lauly Li",
+            "query_en": "tech journalist writing laptop office Taipei"
+          },
+          {
+            "anchor": "Akito Tanaka",
+            "query_en": "news editor in chief professional portrait media"
+          }
+        ]
+      }
+    },
+    {
+      "id": "92d1115e-189f-441a-a83d-426c88e2bee5",
+      "title": "LG Electronics eleva produtividade de fornecedores em 20% com automação",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Electronics manufacturing automation and AI supply chain",
+        "images": [
+          {
+            "anchor": "Resultados alcançados com a automação",
+            "query_en": "LG Electronics factory automation production line"
+          },
+          {
+            "anchor": "Compromisso com os parceiros de negócios",
+            "query_en": "LG Electronics supplier conference event"
+          }
+        ]
+      }
+    },
+    {
+      "id": "61d8a9f4-8a5d-4b3b-a067-7682b0d8db44",
+      "title": "Presidente da SK Group propõe desenvolvimento conjunto de talentos em IA entre Coreia do Sul e Japão",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK Group Chey Tae-won artificial intelligence Japan South Korea cooperation",
+        "images": [
+          {
+            "anchor": "Uma nova proposta de cooperação bilateral",
+            "query_en": "Chey Tae-won SK Group speaking at technology conference"
+          },
+          {
+            "anchor": "A iniciativa Big Tent",
+            "query_en": "South Korea Japan technology cooperation summit"
+          },
+          {
+            "anchor": "Caminhos para o futuro tecnológico",
+            "query_en": "artificial intelligence education and talent development"
+          }
+        ]
+      }
+    },
+    {
+      "id": "063581f9-ebb4-44f6-ba51-ccbde6fc74d6",
+      "title": "Vice-presidente executivo da Synopex recebe prêmio presidencial por esforços de localização",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Synopex semiconductor manufacturing localization",
+        "images": [
+          {
+            "anchor": "Os setores beneficiados pela localização",
+            "query_en": "semiconductor and water treatment manufacturing technology"
+          },
+          {
+            "anchor": "A cerimônia de premiação",
+            "query_en": "business award ceremony presentation stage"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5afee4d8-a520-42f3-965d-e62909cb0536",
+      "title": "Samsung Global Research promove o CEO Kim Won-joon a presidente",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung Global Research executive reshuffle",
+        "images": [
+          {
+            "anchor": "Mudança na liderança da Samsung Global Research",
+            "query_en": "Samsung corporate building Seoul"
+          },
+          {
+            "anchor": "Outras movimentações corporativas",
+            "query_en": "Samsung Electronics office building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4c32c2d6-9a84-43a9-8d33-7e96ae3dc775",
+      "title": "VM Nomeia Chefe de Desenvolvimento de Equipamentos Lee Sang-woo como Co-CEO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "VM semiconductor etching equipment company leadership",
+        "images": [
+          {
+            "anchor": "Estrutura de Liderança Dupla",
+            "query_en": "corporate executive meeting business semiconductor"
+          },
+          {
+            "anchor": "- Choi Woo-hyung: Co-CEO que continuará",
+            "query_en": "business executive corporate leader"
+          },
+          {
+            "anchor": "- Lee Sang-woo: Novo co-CEO responsável",
+            "query_en": "corporate CEO business portrait male"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c7d66c30-4f56-45d2-a82b-dca1a3e2fb7d",
+      "title": "Presidente da SK Group Busca Acordo no Supremo Tribunal Após Arrecadar 944 Bilhões de Wons",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK Group Chairman Chey Tae Won Supreme Court settlement Roh So young",
+        "images": [
+          {
+            "anchor": "O Pedido de Acordo na Suprema Corte",
+            "query_en": "South Korea Supreme Court building Seoul"
+          },
+          {
+            "anchor": "Contexto da Disputa e Valores",
+            "query_en": "Chey Tae won SK Group"
+          },
+          {
+            "anchor": "Chey Tae-won busca encerrar o litígio judicial de forma definitiva.",
+            "query_en": "Chey Tae won business leader"
+          },
+          {
+            "anchor": "Roh So-young atua como diretora do Art Center Nabi e é a outra parte envolvida no processo de divisão patrimonial.",
+            "query_en": "Art Center Nabi Seoul"
+          },
+          {
+            "anchor": "O valor estimado em 944 bilhões de wons foi levantado para atender às exigências da disputa.",
+            "query_en": "South Korean Won currency stack"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f96f4dc-c149-4c8a-91f3-e9e4c1fa52da",
+      "title": "Escassez de substratos impulsionada por inteligência artificial motiva expansão na Coreia do Sul",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "semiconductor substrate shortage artificial intelligence",
+        "images": [
+          {
+            "anchor": "O impacto da inteligência artificial no mercado de substratos",
+            "query_en": "artificial intelligence semiconductor manufacturing factory"
+          },
+          {
+            "anchor": "A reação dos principais fabricantes sul-coreanos",
+            "query_en": "Samsung Electro Mechanics facility"
+          },
+          {
+            "anchor": "A adesão de fornecedores de médio porte",
+            "query_en": "electronics substrate production line"
+          }
+        ]
+      }
+    },
+    {
+      "id": "86a8f157-cb87-47e7-8937-e8395e85d5a2",
+      "title": "Nvidia Reinstala Jensen Huang como CEO Após Influência do Governo dos EUA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia reinstates Jensen Huang as CEO Donald Trump reaction",
+        "images": [
+          {
+            "anchor": "O Retorno Aprovado por Unanimidade e Reação de Wall Street",
+            "query_en": "Nvidia headquarters building sign"
+          },
+          {
+            "anchor": "A Influência de Donald Trump e as Mudanças na Liderança",
+            "query_en": "Donald Trump speaking at podium"
+          },
+          {
+            "anchor": "- Harvey Jones: Continuará atuando como o primeiro presidente do conselho da história da Nvidia, cargo assumido durante a crise.",
+            "query_en": "Harvey Jones technology executive"
+          },
+          {
+            "anchor": "- Colette Kress: A diretora financeira, que atuou como CEO interina durante o afastamento, retomará exclusivamente suas funções tradicionais de CFO.",
+            "query_en": "Colette Kress Nvidia CFO"
+          },
+          {
+            "anchor": "Contexto do Afastamento e Investigação em Andamento",
+            "query_en": "Jensen Huang Nvidia CEO presentation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0072899-786e-4bf6-9240-da3d35ce7fa2",
+      "title": "Wall Street reage com forte alta após Nvidia reintegrar Jensen Huang como CEO",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia Jensen Huang returns as CEO stock market rally Wall Street",
+        "images": [
+          {
+            "anchor": "O retorno de Jensen Huang e a reação de Wall Street",
+            "query_en": "Wall Street trading floor stock market trading screens"
+          },
+          {
+            "anchor": "Impacto generalizado no setor tecnológico e nos mercados",
+            "query_en": "Nasdaq stock market index exchange building"
+          },
+          {
+            "anchor": "Foco em dados de inflação e movimentações corporativas",
+            "query_en": "Federal Reserve building Washington DC"
+          }
+        ]
+      }
+    },
+    {
+      "id": "956ffb19-5fb9-4ff2-b4a1-6e535891ba69",
+      "title": "Amazon reduz ainda mais os preços de caixas de som Echo na Semana Black Friday",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Amazon Echo Black Friday deals and discounts",
+        "images": [
+          {
+            "anchor": "Ofertas em destaque na linha Echo",
+            "query_en": "Amazon Echo smart speakers lineup"
+          }
+        ]
+      }
+    },
+    {
+      "id": "86be70fd-c741-4729-b6c0-b651a95ca02a",
+      "title": "Mercedes-Benz muda rumos com o novo GLA e abandona fase EQ",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mercedes GLA test drive electric efficiency",
+        "images": [
+          {
+            "anchor": "O fim da era EQ e o novo Mercedes GLA",
+            "query_en": "Mercedes GLA electric car exterior"
+          },
+          {
+            "anchor": "Desempenho e eficiência no consumo",
+            "query_en": "Mercedes electric car dashboard interior"
+          }
+        ]
+      }
+    },
+    {
+      "id": "196f67a3-912b-49c4-9ff5-4efde9505fa2",
+      "title": "Jensen Huang: Nvidia-Aktie springt nach Huang-Rückkehr um 30 Prozent",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia stock increase",
+        "images": [
+          {
+            "anchor": "O impacto da liderança no mercado financeiro",
+            "query_en": "Jensen Huang Nvidia CEO"
+          },
+          {
+            "anchor": "Contexto e diretrizes de navegação no site",
+            "query_en": "Golem de website interface"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e3d37898-94b1-4523-a25d-0560e8fa04cf",
+      "title": "Amazon oferece Apple AirPods Pro 3 por menos de 190 euros em oferta de Black Friday",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple AirPods Pro review Black Friday deal Amazon",
+        "images": [
+          {
+            "anchor": "Oferta promocional na Amazon",
+            "query_en": "Apple AirPods Pro charging case on Amazon box"
+          },
+          {
+            "anchor": "Apple AirPods Pro 3 com preço reduzido",
+            "query_en": "Apple AirPods Pro wireless earbuds close up"
+          },
+          {
+            "anchor": "Comparativo de mercado",
+            "query_en": "Online shopping on laptop computer showing electronic store"
+          }
+        ]
+      }
+    },
+    {
+      "id": "386e8fcb-a979-4465-ac3f-c8d378788303",
+      "title": "Airbus tenta migrar do Microsoft Office para ferramentas do Google há oito anos",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Airbus Microsoft Office Google transition",
+        "images": [
+          {
+            "anchor": "O papel do Google na transição",
+            "query_en": "Google workspace software interface"
+          },
+          {
+            "anchor": "Desafios para uma migração completa",
+            "query_en": "Airbus corporate office building"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13f27036-a0f3-455e-8be2-69cb44d7cb20",
+      "title": "Soprador de pó a bateria Wolfbox MegaFlow 50 em promoção no Black Friday",
       "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "NiPoGi E3B Ryzen 5 mini PC review",
+        "video_query_en": "Wolfbox MegaFlow 50 review compressed air duster",
         "images": [
           {
-            "anchor": "Especificações e Desconto do NiPoGi E3B",
-            "query_en": "NiPoGi E3B mini PC"
+            "anchor": "Desempenho e alta rotação",
+            "query_en": "Wolfbox MegaFlow 50 air duster"
           },
           {
-            "anchor": "Outras Ofertas de Mini-PCs do Fabricante",
-            "query_en": "NiPoGi mini PC setup"
+            "anchor": "Contexto da oferta",
+            "query_en": "Black Friday tech sale shopping"
           }
         ]
       }
@@ -696,148 +736,211 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "ead0da45-2fe4-4ab7-b8a3-e8a4c32545b0",
-      "title": "Última chance: Aproveite as ofertas da promoção Planet of the Deals na PS Store",
-      "category": "Games",
+      "id": "9e71bf34-e0ce-4c1a-9c66-b3e5a79635bb",
+      "title": "AirPods Pro 3 ganham grande desconto antes do Prime Day",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "PS Store Planet of the Deals sale highlights November 2026",
+        "video_query_en": "AirPods Pro 3 review features active noise cancellation",
         "images": [
           {
-            "anchor": "O fim da promoção Planet of the Deals",
-            "query_en": "PlayStation Store digital storefront interface"
+            "anchor": "Desconto antecipado para o Prime Day",
+            "query_en": "Apple AirPods Pro charging case"
           },
           {
-            "anchor": "13 Sentinels: Aegis Rim (PS4)",
-            "query_en": "13 Sentinels Aegis Rim gameplay"
+            "anchor": "Recursos avançados de áudio e bem-estar",
+            "query_en": "Person wearing Apple AirPods earbuds exercising"
           },
           {
-            "anchor": "Bloodborne (PS4)",
-            "query_en": "Bloodborne PS4 combat screenshot"
-          },
-          {
-            "anchor": "Cult of the Lamb (PS5)",
-            "query_en": "Cult of the Lamb gameplay"
-          },
-          {
-            "anchor": "Deathloop (PS5)",
-            "query_en": "Deathloop PS5 gameplay"
+            "anchor": "Tradução, bateria e conforto",
+            "query_en": "Apple AirPods ear tips sizes"
           }
         ]
       }
     },
     {
-      "id": "503ebf3e-126a-472e-9d4c-29c094d09fd6",
-      "title": "Gran Turismo 7 recebe a primeira parte da grande atualização Spec 4 em outubro para PS5 e PS4",
-      "category": "Games",
+      "id": "fc39293f-7c51-4318-b2e6-3447d34387ba",
+      "title": "Os melhores power banks MagSafe e carregadores magnéticos para iPhone em 2026",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Gran Turismo 7 Spec 4 update trailer PS5 PS4",
+        "video_query_en": "best magnetic power banks magsafe portable chargers iphone",
         "images": [
           {
-            "anchor": "Novidades da Atualização Spec 4",
-            "query_en": "Gran Turismo 7 gameplay new cars circuit"
+            "anchor": "Como escolher a capacidade e o tamanho ideais",
+            "query_en": "magsafe portable battery charger size comparison iphone"
           },
           {
-            "anchor": "Sportsland SUGO Circuit",
-            "query_en": "Sportsland SUGO racing circuit"
+            "anchor": "Velocidade de carregamento sem fio e com fio",
+            "query_en": "qi2 wireless charging speed iphone power bank"
           },
           {
-            "anchor": "Honda Civic SI Group A version (1987)",
-            "query_en": "Honda Civic SI Group A 1987"
+            "anchor": "Melhores power banks MagSafe de alta capacidade de 10K",
+            "query_en": "best 10k magsafe power bank iphone"
           },
           {
-            "anchor": "Honda Step WGN Spada Premium Line (2023)",
-            "query_en": "Honda Step WGN Spada 2023"
+            "anchor": "Kuxiu S3 25W 10K Solid-State Power Bank",
+            "query_en": "kuxiu s3 solid state power bank"
           },
           {
-            "anchor": "Citroen 2 CV 6 Charleston (1986)",
-            "query_en": "Citroen 2CV 6 Charleston 1986"
+            "anchor": "Ugreen MagFlow Pro Magnetic 10K",
+            "query_en": "ugreen magflow pro magnetic power bank"
           },
           {
-            "anchor": "Ferrari F355 Berlinetta (1994)",
-            "query_en": "Ferrari F355 Berlinetta 1994"
+            "anchor": "Iniu SnapGo Air 10K",
+            "query_en": "iniu snapgo air magnetic power bank"
           },
           {
-            "anchor": "Mazda RX-Vision GT3 EVO (2026)",
-            "query_en": "Mazda RX Vision GT3 concept car"
+            "anchor": "Kuxiu S4 Semi-Solid Safe 25W Wireless 10K",
+            "query_en": "kuxiu s4 power bank"
           },
           {
-            "anchor": "Xiaomi Vision Gran Turismo",
-            "query_en": "Xiaomi Vision Gran Turismo car"
+            "anchor": "Anker MagGo Power Bank 2 Pro",
+            "query_en": "anker maggo power bank 2 pro"
           },
           {
-            "anchor": "Car Concierge service para encomenda de carros usados e lendários",
-            "query_en": "Gran Turismo 7 dealership used cars menu"
+            "anchor": "EcoFlow RAPID Magnetic Power Bank 10K",
+            "query_en": "ecoflow rapid magnetic power bank"
           },
           {
-            "anchor": "O Futuro da Atualização e Próximos Passos",
-            "query_en": "Gran Turismo 7 race track sunset PS5"
+            "anchor": "Baseus PicoGo AM52 Qi2.2 Magnetic Power Bank",
+            "query_en": "baseus picogo am52 power bank"
+          },
+          {
+            "anchor": "Anker MagGo Power Bank (10K, Slim)",
+            "query_en": "anker maggo slim 10k power bank"
+          },
+          {
+            "anchor": "Sharge Icemag 3 Power Bank",
+            "query_en": "sharge icemag power bank rgb"
+          },
+          {
+            "anchor": "Benks ArmorGo Qi2 Power Bank (10K)",
+            "query_en": "benks armrogo aramid fiber power bank"
+          },
+          {
+            "anchor": "Lisen P604 Magnetic Power Bank",
+            "query_en": "lisen magnetic power bank"
+          },
+          {
+            "anchor": "PhoneSuit Journey Mag MagSafe Wireless All-In-One Charger",
+            "query_en": "phonesuit journey mag power bank"
+          },
+          {
+            "anchor": "Melhores power banks magnéticos pequenos de 5K",
+            "query_en": "best small 5k magsafe portable charger"
+          },
+          {
+            "anchor": "EcoFlow RAPID Magnetic Power Bank 5K",
+            "query_en": "ecoflow rapid 5k power bank"
+          },
+          {
+            "anchor": "BMX SolidSafe Air 5K Solid-State Qi2",
+            "query_en": "bmx solidsafe air power bank"
+          },
+          {
+            "anchor": "Baseus PicoGo Air Magnetic Power Bank (AM71)",
+            "query_en": "baseus picogo air power bank"
+          },
+          {
+            "anchor": "Zens Semi Solid State Powerbank 5K",
+            "query_en": "zens semi solid state power bank"
+          },
+          {
+            "anchor": "Ugreen MagFlow Air Magnetic 5K Power Bank",
+            "query_en": "ugreen magflow air 5k power bank"
+          },
+          {
+            "anchor": "Belkin BoostCharge Pro Magnetic Power Bank Qi2",
+            "query_en": "belkin boostcharge pro magnetic power bank"
+          },
+          {
+            "anchor": "Statik State 5K Power Bank",
+            "query_en": "statik state 5k power bank"
+          },
+          {
+            "anchor": "Anker Nano 5K MagGo Slim Power Bank",
+            "query_en": "anker nano maggo slim 5k power bank"
+          },
+          {
+            "anchor": "Twelve South PowerCapsule 5k mAh",
+            "query_en": "twelve south powercapsule"
+          },
+          {
+            "anchor": "UAG SRGE Slim 5K Power Bank with Stand",
+            "query_en": "uag srge slim 5k power bank"
+          },
+          {
+            "anchor": "Baseus PicoGo Ultra-Slim 5K",
+            "query_en": "baseus picogo ultra slim 5k"
+          },
+          {
+            "anchor": "Kuxiu S2 Qi2 5000mAh",
+            "query_en": "kuxiu s2 solid state power bank"
+          },
+          {
+            "anchor": "PISEN CCC 5000mAh Wireless Power Bank",
+            "query_en": "pisen wireless power bank"
+          },
+          {
+            "anchor": "Vonmählen Evergreen Mag 5000mAh Power Bank",
+            "query_en": "vonmahlen evergreen mag power bank"
+          },
+          {
+            "anchor": "PhoneSuit Elite Mag Slim 5K",
+            "query_en": "phonesuit elite mag slim"
+          },
+          {
+            "anchor": "Melhores power banks MagSafe para múltiplos dispositivos",
+            "query_en": "magsafe multi device charging power bank apple watch airpods"
+          },
+          {
+            "anchor": "Kuxiu K1 Ultra 25W 3-in-1 MagSafe 10K Power Bank",
+            "query_en": "kuxiu k1 ultra 3 in 1 power bank"
+          },
+          {
+            "anchor": "Belkin Stage PowerGrip Camera Grip",
+            "query_en": "belkin stage powergrip camera grip"
+          },
+          {
+            "anchor": "Statik SmartCharge Pro",
+            "query_en": "statik smartcharge pro power bank"
           }
         ]
       }
     },
     {
-      "id": "325367bf-7ebd-4a79-b681-7043443047f7",
-      "title": "Guia de Lançamentos: Mais de 23 Jogos Chegam ao PS5 e PS Plus Nesta Semana",
-      "category": "Games",
+      "id": "a37496c1-57c4-487f-8bd1-4e278607db60",
+      "title": "Melhores ofertas de iPad no Prime Day de outubro de 2026: descontos em iPad Air, Pro e mini",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "PS5 games coming out this week October",
+        "video_query_en": "best ipad deals amazon prime day october 2026",
         "images": [
           {
-            "anchor": "Novos Jogos para PS5 de 5 a 11 de Outubro",
-            "query_en": "PlayStation 5 console setup"
+            "anchor": "M4 iPad Air: A escolha mais segura do Prime Day",
+            "query_en": "Apple M4 iPad Air 11 inch and 13 inch"
           },
           {
-            "anchor": "Kingdom Hearts Collection I - III: Disponível em 6 de outubro, este pacote reúne três coleções completas: KINGDOM HEARTS -HD 1.5+2.5 ReMIX-, KINGDOM HEARTS HD 2.8 Final Chapter Prologue e KINGDOM HEARTS III acompanhado do DLC Re Mind.",
-            "query_en": "Kingdom Hearts game art"
+            "anchor": "iPad Pro: Potência máxima para profissionais",
+            "query_en": "Apple M5 iPad Pro display and design"
           },
           {
-            "anchor": "Star Wars: Galactic Racer: Lançado em 6 de outubro, o título traz uma reinvenção de corrida baseada em corridas de alta velocidade e apostas altas, ambientada na Orla Exterior da galáxia de Star Wars.",
-            "query_en": "Star Wars Galactic Racer gameplay"
+            "anchor": "iPad com chip A16: Atenção aos descontos modestos",
+            "query_en": "Apple standard iPad A16 generation"
           },
           {
-            "anchor": "Clive Barker's Hellraiser Revival: Com lançamento marcado para 8 de outubro, o jogo promete elevar o terror de sobrevivência e ação em primeira pessoa a um novo nível na franquia.",
-            "query_en": "Hellraiser Revival game"
-          },
-          {
-            "anchor": "Novos Jogos do PS Plus para a Semana",
-            "query_en": "PlayStation Plus logo controller"
+            "anchor": "iPad mini: Cautela extrema com substituto iminente",
+            "query_en": "Apple iPad mini A17 Pro compact tablet"
           }
         ]
       }
     },
     {
-      "id": "3e7ed0af-3e90-429e-b402-f77fb98da213",
-      "title": "Capcom planeja usar inteligência artificial com a RE Engine para otimizar criação de jogos",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Capcom RE Engine AI REX initiative",
-        "images": [
-          {
-            "anchor": "Os desafios do desenvolvimento moderno",
-            "query_en": "Capcom headquarters building Tokyo"
-          },
-          {
-            "anchor": "O papel da inteligência artificial na RE Engine",
-            "query_en": "Game development software interface on screen"
-          },
-          {
-            "anchor": "Street Fighter 6",
-            "query_en": "Street Fighter 6 gameplay character action"
-          },
-          {
-            "anchor": "Pragmata",
-            "query_en": "Pragmata Capcom game promotional art"
-          },
-          {
-            "anchor": "Onimusha: Way of the Sword",
-            "query_en": "Onimusha Way of the Sword Capcom"
-          }
-        ]
-      }
+      "id": "581d4794-942b-48e7-9469-89b72aff6bdf",
+      "title": "Forget Stranger Things, Stephen King's New Horror Series Officially Hits Prime Video This Week",
+      "status": "error",
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     }
   ]
 }
