@@ -1,736 +1,736 @@
 {
-  "updated_at": "2026-11-24T11:12:23.398Z",
+  "updated_at": "2026-11-24T21:33:59.850Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "8367eff8-4ad5-4af0-8774-e5580fa6501c",
-      "title": "China critica candidato do partido governista antes das eleições municipais em Taiwan",
+      "id": "393fd908-ae9f-445b-aeb5-e82a691b2922",
+      "title": "Governo japonês propõe substituição de linha ferroviária deficitária por ônibus",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Taiwan local elections China tensions explained",
+        "video_query_en": "JR West Geibi Line train bus conversion Japan",
         "images": [
           {
-            "anchor": "O cenário político em Taiwan",
-            "query_en": "Taipei city skyline election banner"
+            "anchor": "Proposta para a Linha Geibi",
+            "query_en": "Geibi Line train Japan"
           },
           {
-            "anchor": "A posição de Pequim sobre Puma Shen",
-            "query_en": "Puma Shen Taiwan politician"
+            "anchor": "Detalhes do Trecho em Discussão",
+            "query_en": "JR West train station Okayama Hiroshima"
           },
           {
-            "anchor": "Incidentes de segurança e investigações",
-            "query_en": "Taipei police investigation office"
+            "anchor": "Redução de Custos e Próximos Passos",
+            "query_en": "Japanese local bus service transportation"
           }
         ]
       }
     },
     {
-      "id": "bf6dd118-0c02-4c01-9408-c9f37d7a9687",
-      "title": "EUA colocam Megaspeed em lista negra após escândalo de espionagem envolvendo Nvidia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US trade blacklist Nvidia Megaspeed scandal explained",
-        "images": [
-          {
-            "anchor": "A inclusão na lista negra comercial",
-            "query_en": "US Department of Commerce building Washington DC"
-          },
-          {
-            "anchor": "O escândalo de Alice Huang e a Nvidia",
-            "query_en": "Jensen Huang Nvidia CEO"
-          },
-          {
-            "anchor": "Envolvimento do Alibaba",
-            "query_en": "Alibaba Group headquarters"
-          },
-          {
-            "anchor": "Questionamentos sobre a fiscalização",
-            "query_en": "semiconductor chips manufacturing"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5cdf406b-a4dd-448c-b750-2364cccd5119",
-      "title": "Há apenas um assunto a tratar com a Rússia sobre a segurança europeia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Russia European security architecture peace talks Stockholm",
-        "images": [
-          {
-            "anchor": "O desvio de foco nas negociações de paz",
-            "query_en": "peace talks Ukraine Russia negotiations Stockholm"
-          },
-          {
-            "anchor": "A postura dos negociadores e a reação europeia",
-            "query_en": "European flags and summit diplomatic meeting"
-          },
-          {
-            "anchor": "O verdadeiro tema do debate",
-            "query_en": "Vladimir Putin Russian government official meeting"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1f00361c-7a50-439c-989f-3bd1853ad554",
-      "title": "Traditional dance brings energy to quake-hit city in Kumamoto Prefecture",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Cultura"
-    },
-    {
-      "id": "add79ca3-dfe6-4b7d-a0e2-54f9c00a879f",
-      "title": "O modelo japonês de eficiência governamental: uma nova abordagem para a responsabilidade fiscal",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan government administrative reform and fiscal policy explained",
-        "images": [
-          {
-            "anchor": "O nascimento do Escritório para Reforma Administrativa e Promoção da Eficiência",
-            "query_en": "Japanese government building Kasumigaseki Tokyo"
-          },
-          {
-            "anchor": "Diferenças estratégicas em relação ao modelo americano",
-            "query_en": "Satsuki Katayama Japan Finance Minister"
-          },
-          {
-            "anchor": "A expansão da fiscalização e o futuro dos fundos públicos",
-            "query_en": "Japanese yen currency and financial audit"
-          }
-        ]
-      }
-    },
-    {
-      "id": "65c93aa2-bff8-41f3-ba02-7c11949afa87",
-      "title": "Empresa controladora de crematórios em Tóquio gera preocupações devido a participação chinesa",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Tokyo crematoria foreign ownership Japan Times",
-        "images": [
-          {
-            "anchor": "A importância dos crematórios na infraestrutura japonesa",
-            "query_en": "Tokyo city skyline architecture"
-          },
-          {
-            "anchor": "A exceção na capital japonesa",
-            "query_en": "Tokyo 23 wards cityscape"
-          },
-          {
-            "anchor": "Os principais pontos de debate",
-            "query_en": "Japanese municipal building Tokyo"
-          },
-          {
-            "anchor": "O questionamento sobre se serviços essenciais de crematórios devem ser operados por empresas que possuem envolvimento de capital estrangeiro.",
-            "query_en": "Tokyo street scene buildings"
-          },
-          {
-            "anchor": "A preocupação se uma empresa privada conseguirá oferecer um serviço estável a longo prazo sem a devida e direta supervisão governamental constante.",
-            "query_en": "Tokyo public infrastructure architecture"
-          }
-        ]
-      }
-    },
-    {
-      "id": "08206eb4-6dd8-4ce6-9817-337d70cd0bf2",
-      "title": "Abaixo-assinado no Japão reúne mais de 20 mil assinaturas por juros menores em empréstimos estudantis",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan student loan interest rates petition protest",
-        "images": [
-          {
-            "anchor": "O Salto nas Taxas de Juros",
-            "query_en": "Japan university students campus Tokyo finance"
-          },
-          {
-            "anchor": "As Exigências da Petição",
-            "query_en": "Japan government building Tokyo petition protest"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e58c406b-ccef-41f2-9ff9-97879a687e7f",
-      "title": "Fujitsu registra alta demanda por novos chips Monaka em busca de alternativa aos EUA e China",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Fujitsu Monaka server chips 2nm TSMC",
-        "images": [
-          {
-            "anchor": "Negociações com a TSMC e expansão da capacidade",
-            "query_en": "Taiwan Semiconductor Manufacturing TSMC facility cleanroom"
-          },
-          {
-            "anchor": "A busca por soberania de dados",
-            "query_en": "Fujitsu server technology data center hardware"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4119202f-7158-4b6e-98f1-325382dba610",
-      "title": "Por que a condenação de Mianmar por genocídio importa muito além de suas fronteiras",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "International Court of Justice Myanmar Rohingya genocide ruling",
-        "images": [
-          {
-            "anchor": "Uma decisão histórica na Justiça Internacional",
-            "query_en": "International Court of Justice building Hague"
-          },
-          {
-            "anchor": "Detalhes dos crimes cometidos pelos militares",
-            "query_en": "Rohingya refugees Myanmar crisis"
-          },
-          {
-            "anchor": "O impacto em outros casos globais",
-            "query_en": "United Nations International Court of Justice courtroom"
-          }
-        ]
-      }
-    },
-    {
-      "id": "01e481bd-9f2e-487a-b86a-8b601d398510",
-      "title": "Takaichi antecipa apoio financeiro ao TPI em reunião com a presidente da corte",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sanae Takaichi Tomoko Akane International Criminal Court",
-        "images": [
-          {
-            "anchor": "Antecipação de fundos e reunião oficial",
-            "query_en": "Sanae Takaichi Japanese Prime Minister"
-          },
-          {
-            "anchor": "Proteção orçamentária e prevenção de déficits",
-            "query_en": "International Criminal Court building"
-          },
-          {
-            "anchor": "O peso do Japão no orçamento do TPI",
-            "query_en": "Tomoko Akane ICC President"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6e9c63b7-02fa-4e8e-9466-44ee839d35ad",
-      "title": "O retorno de Jensen Huang à Nvidia e o novo embate com o Congresso americano",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang Trump administration China export controls",
-        "images": [
-          {
-            "anchor": "A intervenção presidencial e o debate político",
-            "query_en": "Donald Trump US Capitol Washington DC"
-          },
-          {
-            "anchor": "Oposição de parlamentares",
-            "query_en": "US Congress hearing Capitol Hill"
-          },
-          {
-            "anchor": "Preocupações com segurança nacional",
-            "query_en": "US flag and Capitol building"
-          },
-          {
-            "anchor": "Relação Casa Branca e Congresso",
-            "query_en": "White House Washington DC"
-          },
-          {
-            "anchor": "Contexto de turbulência e investigações",
-            "query_en": "Nvidia headquarters building California"
-          },
-          {
-            "anchor": "Desdobramentos no comércio global de chips",
-            "query_en": "Advanced computer semiconductor chips manufacturing"
-          },
-          {
-            "anchor": "Impacto na cadeia de suprimentos",
-            "query_en": "Global supply chain cargo port containers"
-          },
-          {
-            "anchor": "Alinhamento regulatório",
-            "query_en": "Business meeting corporate governance board"
-          },
-          {
-            "anchor": "Escrutínio corporativo",
-            "query_en": "Jensen Huang Nvidia CEO"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8541bd08-6360-4e3c-b7a1-92f723131a6a",
-      "title": "Incentivos da UE para veículos elétricos devem excluir carros fabricados no Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "European Union electric vehicle incentives Japan cars",
-        "images": [
-          {
-            "anchor": "Reação conjunta dos setores público e privado japoneses",
-            "query_en": "Japanese government officials meeting Tokyo automotive industry"
-          },
-          {
-            "anchor": "O impacto das políticas industriais na concorrência global",
-            "query_en": "Electric vehicles parked at European automotive plant charging station"
-          }
-        ]
-      }
-    },
-    {
-      "id": "926ce1df-ab93-430b-b54d-f1bce0703a78",
-      "title": "Anthropic IPO raises the bar for Asia's AI labs",
+      "id": "2702bec6-137d-41bf-a734-469d1a19be3c",
+      "title": "Japão prepara mudanças legais para investigar acidentes com carros autônomos",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Anthropic IPO AI labs Asia Nikkei Asia podcast",
+        "video_query_en": "Japan self-driving taxi 2027 plans",
         "images": [
           {
-            "anchor": "O impacto da Anthropic no cenário global",
-            "query_en": "Anthropic AI startup corporate office technology"
+            "anchor": "Preparação para a era dos veículos autônomos",
+            "query_en": "Japan autonomous vehicle technology"
           },
           {
-            "anchor": "Principais tópicos discutidos no episódio",
-            "query_en": "artificial intelligence startup investment meeting"
+            "anchor": "O contexto da mudança",
+            "query_en": "Waymo self-driving car"
           },
           {
-            "anchor": "Outras pautas abordadas pelo Nikkei Asia",
-            "query_en": "Asia technology business skyline Hong Kong"
-          },
-          {
-            "anchor": "Contexto e plataformas de transmissão",
-            "query_en": "podcast microphone broadcasting studio recording"
+            "anchor": "Limitações do modelo atual",
+            "query_en": "Japan Transport Safety Board office"
           }
         ]
       }
     },
     {
-      "id": "e9dc39a5-4279-4e92-a69c-aec6abcfa3cf",
-      "title": "Vietnã concede contrato de US$ 400 milhões para estudo de trem de alta velocidade a consórcio liderado por franceses",
+      "id": "615fb1e9-86b0-4214-9188-d89aa23ae685",
+      "title": "Japão realiza primeiro simulação de resposta ao ebola diante de surto no Congo",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan Ebola response drill government crisis management",
+        "images": [
+          {
+            "anchor": "O simulado nacional contra o ebola",
+            "query_en": "Ebola crisis management drill Japan government"
+          },
+          {
+            "anchor": "Histórico e autoridades participantes",
+            "query_en": "Sanae Takaichi Prime Minister Japan press conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c0007223-d5f9-48ef-8188-edc8338ec5d0",
+      "title": "Países evitam apoio aberto ao TPI enquanto Trump intensifica ataques",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Vietnam high speed rail project overview",
+        "video_query_en": "International Criminal Court Trump administration UN speeches",
         "images": [
           {
-            "anchor": "O início de uma nova era ferroviária no Vietnã",
-            "query_en": "Vietnam high speed train concept"
+            "anchor": "O silêncio diplomático perante a pressão dos Estados Unidos",
+            "query_en": "Donald Trump United Nations General Assembly speech"
           },
           {
-            "anchor": "Composição do consórcio e objetivos técnicos",
-            "query_en": "high speed rail engineering construction"
+            "anchor": "O impacto nas relações internacionais e na ordem global",
+            "query_en": "International Criminal Court building Hague"
           },
           {
-            "anchor": "Contexto de investimentos e infraestrutura",
-            "query_en": "Vietnam infrastructure development"
+            "anchor": "Desafios futuros para o Tribunal Penal Internacional",
+            "query_en": "United Nations flag and assembly hall"
           }
         ]
       }
     },
     {
-      "id": "e3f46cd0-441d-4b23-956c-2bcfbfa41bc3",
-      "title": "Fornecedores asiáticos da Nvidia recebem com cautela o retorno de Jensen Huang",
+      "id": "480ebeb8-e513-429e-9221-965fe4cf236f",
+      "title": "Preços de condomínios usados em Tóquio registram primeira queda anual em mais de 13 anos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Jensen Huang Nvidia return supply chain Asia",
+        "video_query_en": "Tokyo real estate condo prices drop mortgage rates",
         "images": [
           {
-            "anchor": "O impacto nos mercados e nas expectativas da cadeia",
-            "query_en": "Nvidia stock market growth AI servers"
+            "anchor": "O Impacto das Taxas de Hipoteca e da Demanda",
+            "query_en": "Tokyo skyline apartment buildings architecture"
           },
           {
-            "anchor": "O fantasma das restrições e o cenário geopolítico",
-            "query_en": "US export restrictions semiconductor chips China"
+            "anchor": "Aumento nas taxas de hipoteca encarece o financiamento imobiliário.",
+            "query_en": "Japanese yen currency bank notes finance"
+          },
+          {
+            "anchor": "Perspectivas para o Mercado Imobiliário",
+            "query_en": "Modern condominiums in central Tokyo street view"
           }
         ]
       }
     },
     {
-      "id": "681ef36c-c874-46b7-8196-0bbe0480d0e8",
-      "title": "Acordo comercial entre Indonésia e União Europeia gera grandes expectativas e preocupações sobre transição",
+      "id": "8ae33ea3-8add-411d-9070-e6d28476ea8f",
+      "title": "Seguradoras de vida do Japão registram alta de 20% nos lucros impulsionadas por investimentos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Indonesia EU trade agreement signing Ursula von der Leyen Airlangga Hartarto",
+        "video_query_en": "Japan life insurance industry market trends 2026",
         "images": [
           {
-            "anchor": "Expectativas ambiciosas e novos horizontes",
-            "query_en": "EU flag and Indonesian flag trade meeting Brussels"
+            "anchor": "Desempenho financeiro no primeiro semestre de 2026",
+            "query_en": "Tokyo financial district skyline"
           },
           {
-            "anchor": "Preocupações com a transição e tarifas",
-            "query_en": "Cargo port in Indonesia export shipping containers"
+            "anchor": "A estratégia de atração de clientes",
+            "query_en": "Japanese insurance agent meeting client"
           },
           {
-            "anchor": "Acordo abrangente de parceria econômica assinado em Bruxelas no dia 21 de novembro.",
-            "query_en": "Airlangga Hartarto and Ursula von der Leyen handshake"
+            "anchor": "O papel dos investimentos",
+            "query_en": "Investment portfolio management concept"
+          },
+          {
+            "anchor": "Desafios e concorrência",
+            "query_en": "Business competition concept"
           }
         ]
       }
     },
     {
-      "id": "11a35236-8822-4244-9c80-0af306a08eea",
-      "title": "Asahi aposta em marca australiana para cultivar o mercado de gim premium no Japão",
+      "id": "e094e18d-f55f-42e4-9841-d7190c1f5d22",
+      "title": "Laos deixa lista de países menos desenvolvidos, mas enfrenta forte dependência econômica da China",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Asahi Breweries premium gin launch Tokyo",
+        "video_query_en": "Laos economy development China investment",
         "images": [
           {
-            "anchor": "Parceria com a Never Never Distilling",
-            "query_en": "Never Never Distilling Triple Juniper Gin bottle Tokyo"
+            "anchor": "O novo patamar econômico e os desafios estruturais",
+            "query_en": "Laos Vientiane cityscape economy"
           },
           {
-            "anchor": "Estratégia de expansão e mercados globais",
-            "query_en": "Asahi Breweries headquarters Tokyo building"
+            "anchor": "Graduação do grupo de nações menos desenvolvidas do mundo.",
+            "query_en": "Laos countryside development landscape"
+          },
+          {
+            "anchor": "A forte presença e o capital chinês",
+            "query_en": "Boten Laos skyscrapers Chinese investment"
+          },
+          {
+            "anchor": "Alternativas e busca por diversificação",
+            "query_en": "Laos tourism destination landmark"
           }
         ]
       }
     },
     {
-      "id": "d2bd91a9-b0f8-48f4-b938-4589532768e8",
-      "title": "Mercados asiáticos registram forte alta com o retorno de Jensen Huang à Nvidia",
+      "id": "421fbe7b-61f3-4d8d-8989-62dcfb7054d7",
+      "title": "Pressão por censura a ministro no Japão ameaça paralisar agenda de Takaichi",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia Jensen Huang CEO return market reaction",
+        "video_query_en": "Sanae Takaichi Japan prime minister politics education minister censure motion",
         "images": [
           {
-            "anchor": "O impacto do retorno de Jensen Huang",
-            "query_en": "Jensen Huang Nvidia CEO"
+            "anchor": "O fantasma de uma nova baixa ministerial",
+            "query_en": "Sanae Takaichi Japanese prime minister official portrait"
           },
           {
-            "anchor": "Contexto de volatilidade no setor de tecnologia",
-            "query_en": "Asian stock market trading floor"
+            "anchor": "Desafios acumulados na agenda política",
+            "query_en": "National Diet Building Tokyo Japan politics"
           },
           {
-            "anchor": "Desafios políticos e estratégicos",
-            "query_en": "semiconductor industry global trade"
+            "anchor": "Cenário de aprovação e continuidade",
+            "query_en": "Liberal Democratic Party Japan headquarters Tokyo"
           }
         ]
       }
     },
     {
-      "id": "f6a43743-f9e9-4731-ad19-0e396696f943",
-      "title": "Indonésia e Tailândia puxam para baixo a arrecadação de IPOs na ASEAN em 2026",
+      "id": "9925df7c-baba-4050-b2fb-72fa20bed1ae",
+      "title": "O retorno de Jensen Huang à Nvidia e o desafio para a estratégia de IA dos EUA",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia AI strategy impact",
+        "images": [
+          {
+            "anchor": "O cenário de incertezas na liderança da Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO portrait"
+          },
+          {
+            "anchor": "O impacto das restrições comerciais",
+            "query_en": "US China semiconductor trade war concept"
+          },
+          {
+            "anchor": "A tensão entre inovação e segurança nacional",
+            "query_en": "Nvidia AI chip manufacturing"
+          },
+          {
+            "anchor": "O futuro da estratégia de IA",
+            "query_en": "Global AI technology development"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5dadd38b-60ef-4080-939a-6f0801dfe165",
+      "title": "Juíza do TPI alerta que 'excesso de conformidade' com sanções dos EUA intimida o tribunal",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "International Criminal Court Kimberly Prost interview sanctions",
+        "images": [
+          {
+            "anchor": "O impacto do excesso de conformidade nas instituições internacionais",
+            "query_en": "International Criminal Court headquarters The Hague"
+          },
+          {
+            "anchor": "Casos práticos de bloqueios financeiros",
+            "query_en": "International banking financial transaction security"
+          },
+          {
+            "anchor": "A pressão sobre o sistema judiciário global",
+            "query_en": "Judge Kimberly Prost ICC"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c704b0d-cfce-485a-83af-b2bc32432029",
+      "title": "Empresas do Japão registram lucro recorde no primeiro semestre impulsionadas por IA e iene fraco",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "ASEAN IPO market trends 2026 Indonesia Thailand Deloitte",
+        "video_query_en": "Japan corporate profits record half year AI demand soft yen",
         "images": [
           {
-            "anchor": "O impacto de Indonésia e Tailândia",
-            "query_en": "Stock Exchange of Thailand building Bangkok financial market"
+            "anchor": "O impacto da inteligência artificial e do setor de manufatura",
+            "query_en": "Japan manufacturing data center artificial intelligence technology"
           },
           {
-            "anchor": "O contraponto da Malásia e das Filipinas",
-            "query_en": "Kuala Lumpur Malaysia financial district skyline"
+            "anchor": "Kioxia Holdings",
+            "query_en": "Kioxia Holdings memory semiconductor manufacturing Japan"
           },
           {
-            "anchor": "Movoluções e expectativas futuras nas bolsas da ASEAN",
-            "query_en": "Singapore stock exchange trading floor electronic board"
+            "anchor": "Fujikura",
+            "query_en": "Fujikura office building Tokyo Japan"
           },
           {
-            "anchor": "Mynt, a controladora da carteira digital filipina GCash, que realizou sua abertura de capital em Manila.",
-            "query_en": "Manila Philippines financial district skyscrapers"
+            "anchor": "Desempenho contrastante e desafios em outros setores",
+            "query_en": "SoftBank headquarters Tokyo Japan building"
           },
           {
-            "anchor": "Sunway Healthcare, grupo malaio de saúde que figurou entre as maiores operações da região.",
-            "query_en": "modern hospital building Malaysia healthcare"
-          },
-          {
-            "anchor": "Big Caring, farmácia malaia que estreou no mercado após arrecadar US$ 155 milhões em sua oferta pública.",
-            "query_en": "pharmacy store interior retail Malaysia"
-          },
-          {
-            "anchor": "Um grupo hospitalar de Singapura que fez sua estreia na bolsa impulsionado pelo envelhecimento populacional.",
-            "query_en": "Singapore modern hospital exterior architecture"
+            "anchor": "O papel do câmbio e as perspectivas macroeconômicas",
+            "query_en": "Japanese yen currency bank of Japan Tokyo"
           }
         ]
       }
     },
     {
-      "id": "1d30d034-ab2f-4a05-867b-7ecf9bba4071",
-      "title": "Kakao Games vai lançar Odin Q em três mercados simultaneamente em 26 de janeiro",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kakao Games Odin Q Valkyrie s Call trailer",
-        "images": [
-          {
-            "anchor": "O lançamento oficial de Odin Q",
-            "query_en": "Kakao Games logo gaming event"
-          },
-          {
-            "anchor": "Período de pré-registro",
-            "query_en": "Mobile MMORPG game screen"
-          },
-          {
-            "anchor": "Coreia do Sul: Início do pré-registro em 29 de dezembro às 11h.",
-            "query_en": "South Korea Seoul gaming culture"
-          },
-          {
-            "anchor": "Japão: Início do pré-registro em 29 de dezembro às 11h.",
-            "query_en": "Tokyo gaming smartphone"
-          },
-          {
-            "anchor": "Taiwan: Início do pré-registro em 29 de dezembro às 10h.",
-            "query_en": "Taiwan Taipei gaming event"
-          },
-          {
-            "anchor": "Detalhes do desenvolvimento",
-            "query_en": "MMORPG gameplay fantasy character"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d263d204-ec76-4707-8b07-bd2586f9dd00",
-      "title": "Mgame lança o RPG ocioso Ghost Online Idle após ultrapassar 1 milhão de pré-registros",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Ghost Online Idle mobile gameplay Mgame",
-        "images": [
-          {
-            "anchor": "Origens e desenvolvimento da propriedade intelectual",
-            "query_en": "Mgame Ghost Online retro PC game 2005"
-          },
-          {
-            "anchor": "Sucesso estrondoso e marcas alcançadas",
-            "query_en": "Ghost Online Idle mobile game preview"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e2147198-94b4-477c-a2d5-c5a6f7b5003b",
-      "title": "Falha no Microsoft Azure expõe acesso de administrador e atinge empresas de energia na Noruega",
+      "id": "bc496c1c-67d3-4dea-9b07-605d04aa7a9c",
+      "title": "Toshiba e Hitachi reforçam equipes de ciberdefesa para proteger infraestrutura crítica",
       "category": "Segurança",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Microsoft Azure vulnerability energy companies Norway NSM",
+        "video_query_en": "Toshiba Hitachi critical infrastructure cybersecurity AI",
         "images": [
           {
-            "anchor": "O alerta da Autoridade de Segurança Nacional da Noruega",
-            "query_en": "Norway National Security Authority NSM building"
+            "anchor": "O avanço das ameaças baseadas em inteligência artificial",
+            "query_en": "artificial intelligence cybersecurity threat digital defense"
           },
           {
-            "anchor": "Equinor",
-            "query_en": "Equinor energy facility Norway"
+            "anchor": "A resposta do setor industrial japonês",
+            "query_en": "Japanese industrial control room technology power grid"
           },
           {
-            "anchor": "Outras companhias do setor",
-            "query_en": "Norwegian energy infrastructure power plant"
+            "anchor": "Toshiba",
+            "query_en": "Toshiba corporate headquarters building Tokyo"
           },
           {
-            "anchor": "Riscos para a infraestrutura empresarial",
-            "query_en": "Cloud computing data center server room security"
+            "anchor": "Hitachi",
+            "query_en": "Hitachi industrial technology innovation center"
           }
         ]
       }
     },
     {
-      "id": "4d496eb4-273a-419e-84fa-17fba8e9ee6e",
-      "title": "ABB anuncia a aquisição da alemã Ziehl-Abegg por US$ 2,22 bilhões",
+      "id": "e2487e24-8fa6-4352-888e-b9472c61fe15",
+      "title": "China intensifica campanha para eletrificar a frota global de caminhões",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "ABB acquires Ziehl-Abegg industrial cooling motors fans",
+        "video_query_en": "China electric trucks global expansion manufacturing",
         "images": [
           {
-            "anchor": "O acordo estratégico de aquisição",
-            "query_en": "ABB corporate logo and industrial technology"
+            "anchor": "O avanço no mercado doméstico e a expansão internacional",
+            "query_en": "Chinese electric heavy duty truck manufacturing"
           },
           {
-            "anchor": "Fortalecimento no mercado de refrigeração industrial",
-            "query_en": "Ziehl-Abegg industrial fan and motor"
+            "anchor": "Desafios e o cenário global de veículos elétricos pesados",
+            "query_en": "electric truck charging port logistics"
           },
           {
-            "anchor": "Adição de ventiladores de alta qualidade ao portfólio atual da ABB",
-            "query_en": "industrial cooling fan manufacturing"
+            "anchor": "Fabricantes japoneses de automóveis se preparam para o terceiro ano consecutivo de queda nas vendas globais, refletindo a desaceleração em mercados tradicionais.",
+            "query_en": "Japanese automotive assembly plant line"
+          },
+          {
+            "anchor": "Montadoras tradicionais como Toyota, Honda e Nissan foram forçadas a cortar a produção de veículos na China à medida que o mercado de carros a gasolina encolhe rapidamente.",
+            "query_en": "Toyota car dealership China"
+          },
+          {
+            "anchor": "Na Europa, restrições e barreiras regulatórias, como as medidas da União Europeia contra carros híbridos chineses, provocam mudanças estratégicas em direção a nichos específicos de motores.",
+            "query_en": "European Union flag and electric vehicle charging station"
+          },
+          {
+            "anchor": "O setor europeu de caminhões elétricos mantém uma postura cética, mas observa de perto iniciativas como o plano de troca de baterias entre a CATL e a Octopus.",
+            "query_en": "CATL battery technology electric vehicle"
+          },
+          {
+            "anchor": "O governo da Hungria apertou a fiscalização sobre fábricas de baterias de empresas chinesas e sul-coreanas instaladas no país europeu.",
+            "query_en": "electric vehicle battery manufacturing plant Hungary"
           }
         ]
       }
     },
     {
-      "id": "2590e492-e62e-4d49-a171-7247eff1c00f",
-      "title": "Samsung SDI Promove 11 Executivos em Mudança Anual de Gestão para 2027",
+      "id": "1d601df8-a3c0-4bc4-80e7-516d36a15eab",
+      "title": "Júri dos EUA condena Huawei por conspiração para roubo de segredos comerciais e fraude bancária",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung SDI management reshuffle executives",
+        "video_query_en": "Huawei trade secrets trial US jury verdict",
         "images": [
           {
-            "anchor": "Destaques das Promoções",
-            "query_en": "Samsung SDI corporate building"
+            "anchor": "Acusações detalhadas e o posicionamento da defesa",
+            "query_en": "Huawei logo building corporate office"
           },
           {
-            "anchor": "O Papel do Centro de Eletrodos",
-            "query_en": "Samsung SDI battery manufacturing facility"
+            "anchor": "Impacto global e o histórico do caso",
+            "query_en": "Huawei smartphone and telecommunications equipment"
           }
         ]
       }
     },
     {
-      "id": "97c9ced3-ce4e-433f-892d-fa9c85016e74",
-      "title": "Restrições da China à exportação de equipamentos de baterias podem beneficiar fornecedores sul-coreanos",
-      "category": "Empresas",
+      "id": "6aa30575-8524-4f96-9dc2-49a4c28a38c0",
+      "title": "Odyssey G6 GH60: Novo monitor da Samsung alcança 1.100 Hz com redução de resolução",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "China battery equipment export controls South Korea suppliers",
+        "video_query_en": "Samsung Odyssey G6 GH60 monitor 1100 Hz",
         "images": [
           {
-            "anchor": "O novo cenário para o mercado global de baterias",
-            "query_en": "battery manufacturing factory industrial equipment"
+            "anchor": "O desafio da alta frequência de atualização",
+            "query_en": "Samsung Odyssey monitor gaming setup"
           },
           {
-            "anchor": "Impactos na cadeia de suprimentos",
-            "query_en": "lithium ion battery production line machinery"
-          },
-          {
-            "anchor": "Produtores de células de bateria em diversos países dependem atualmente de maquinário fabricado na China.",
-            "query_en": "battery cell manufacturing facility automated equipment"
-          },
-          {
-            "anchor": "Perspectivas para a indústria da Coreia do Sul",
-            "query_en": "South Korea industrial manufacturing technology"
+            "anchor": "Expectativas para o mercado de displays",
+            "query_en": "high refresh rate gaming monitor display technology"
           }
         ]
       }
     },
     {
-      "id": "275dae2a-cc67-4bc8-94d6-350e69590daa",
-      "title": "KAI, Firstec e Duksan Navcours vencem prêmio de qualidade na Coréia do Sul",
-      "category": "Empresas",
+      "id": "5417b269-f9bf-4a0a-8c7e-282bf5370ab9",
+      "title": "Câmera endoscópica com iluminação em oferta na Amazon por 13,72 euros",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Defense Quality Management Awards Korea",
+        "video_query_en": "endoscope camera smartphone review amazon",
         "images": [
           {
-            "anchor": "A cerimônia de premiação em Seul",
-            "query_en": "Korea Science and Technology Center Seoul"
+            "anchor": "Aplicações práticas e inspeção de espaços restritos",
+            "query_en": "smartphone endoscope camera inspection tool"
           },
           {
-            "anchor": "KAI",
-            "query_en": "Korea Aerospace Industries logo building"
-          },
-          {
-            "anchor": "Firstec",
-            "query_en": "Firstec defense South Korea"
-          },
-          {
-            "anchor": "Duksan Navcours",
-            "query_en": "Duksan Navcours company South Korea"
+            "anchor": "Acesso ao conteúdo e termos de uso",
+            "query_en": "amazon shopping website interface"
           }
         ]
       }
     },
     {
-      "id": "71205df5-ed6b-497f-85ba-071f9ae80fa4",
-      "title": "KAI assina pacto de desenvolvimento aeroespacial com o governo e Gyeongsangnam-do",
+      "id": "1d521c6e-c1d9-49e0-97c3-6f9ff9490432",
+      "title": "Kilow La Bagnole: O mini-jipe elétrico francês que custa a partir de 10.800 euros",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Korea Aerospace Industries KAI development pact",
+        "video_query_en": "Kilow La Bagnole electric mini jeep review",
         "images": [
           {
-            "anchor": "Aliança estratégica para o setor aeroespacial",
-            "query_en": "Korea Aerospace Industries corporate office building"
+            "anchor": "Uma nova proposta de mobilidade urbana",
+            "query_en": "Kilow La Bagnole electric vehicle design"
           },
           {
-            "anchor": "Compromissos e partes envolvidas",
-            "query_en": "Gyeongsangnam-do province landscape South Korea"
+            "anchor": "Versatilidade na configuração",
+            "query_en": "Kilow La Bagnole pickup and van versions"
+          },
+          {
+            "anchor": "Preço e posicionamento de mercado",
+            "query_en": "Kilow La Bagnole interior and exterior details"
           }
         ]
       }
     },
     {
-      "id": "f7ac7167-69aa-447b-ab11-4d8a015b4694",
-      "title": "HD Hyundai Samho conquista contrato de 308,4 bilhões de wons para navios de GLP",
+      "id": "bf778c2a-dede-4366-be83-94b98132593c",
+      "title": "Ameaça invisível: Gigantes da tecnologia tornam-se alvos prioritários de espionagem global",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "HD Hyundai Samho shipyard LPG carrier ship",
+        "video_query_en": "corporate espionage in tech industry explained",
         "images": [
           {
-            "anchor": "Novo contrato naval na Coreia do Sul",
-            "query_en": "HD Hyundai Samho shipyard container ship construction"
+            "anchor": "O novo campo de batalha da espionagem",
+            "query_en": "cybersecurity and corporate espionage concept"
           },
           {
-            "anchor": "Detalhes financeiros e operacionais",
-            "query_en": "LPG carrier ship at sea"
+            "anchor": "Vulnerabilidades na era da IA",
+            "query_en": "artificial intelligence server room"
           },
           {
-            "anchor": "HD Hyundai Samho",
-            "query_en": "HD Hyundai Heavy Industries shipyard dock"
+            "anchor": "Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO"
           },
           {
-            "anchor": "HD Korea Shipbuilding & Offshore Engineering",
-            "query_en": "HD Korea Shipbuilding and Offshore Engineering headquarters"
+            "anchor": "OpenAI",
+            "query_en": "OpenAI logo and artificial intelligence research"
           },
           {
-            "anchor": "Armador asiático",
-            "query_en": "modern LPG tanker vessel sailing"
+            "anchor": "O desafio da proteção corporativa",
+            "query_en": "data security and network protection"
           }
         ]
       }
     },
     {
-      "id": "a44a6b12-8446-4e6a-958c-7e84ccc6f84e",
-      "title": "Coway Realiza Projeto de Parceria com Estudantes Universitários em Iniciativa de Marketing",
-      "category": "Empresas",
+      "id": "d7126149-eb3b-465c-9f88-ec86da6881ed",
+      "title": "Samsung S95H de 65 polegadas atinge preço recorde durante a Black Friday",
+      "category": "Computadores",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Coway university students marketing project industry academia collaboration",
+        "video_query_en": "Samsung S95H OLED TV review",
         "images": [
           {
-            "anchor": "Colaboração entre Indústria e Academia",
-            "query_en": "Coway corporate office and business meeting"
+            "anchor": "Oferta de destaque na Black Friday",
+            "query_en": "Samsung OLED TV Black Friday sale"
           },
           {
-            "anchor": "Foco na Experiência Prática e no Público Jovem",
-            "query_en": "University students collaborating in a modern workshop"
+            "anchor": "Detalhes da promoção e disponibilidade",
+            "query_en": "Amazon warehouse electronics section"
+          },
+          {
+            "anchor": "O que esperar da linha S95H",
+            "query_en": "Samsung S95H OLED TV display"
+          },
+          {
+            "anchor": "Samsung S95H 65 polegadas",
+            "query_en": "Samsung 65 inch OLED TV"
           }
         ]
       }
     },
     {
-      "id": "395acc6d-cbf1-4eee-97ef-7a636d5c9d44",
-      "title": "Megaspeed, empresa de Singapura ligada a escândalo da Nvidia, entra em lista de controle de exportação dos EUA",
+      "id": "fb959554-3755-4791-8f15-3d3baf6a34de",
+      "title": "Consumidores alemães processam Meta e Ray-Ban por óculos inteligentes",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia CEO Jensen Huang Megaspeed US export control list",
+        "video_query_en": "Ray-Ban Meta Smart Glasses privacy concerns",
         "images": [
           {
-            "anchor": "Sanções e Inclusão na Lista de Entidades",
-            "query_en": "US Department of Commerce building Washington DC"
+            "anchor": "Ação judicial contra a Meta e Ray-Ban",
+            "query_en": "Ray-Ban Meta smart glasses product shot"
           },
           {
-            "anchor": "Swiftdata",
-            "query_en": "Singapore business district skyline corporate buildings"
+            "anchor": "Problemas com a sinalização de gravação",
+            "query_en": "Ray-Ban Meta glasses camera LED indicator"
           },
           {
-            "anchor": "Speedmatrix",
-            "query_en": "Malaysia technology industry corporate office"
+            "anchor": "Falta de transparência no ponto de venda",
+            "query_en": "Ray-Ban Meta retail store display"
           },
           {
-            "anchor": "O Escândalo Envolvendo a Liderança da Nvidia",
-            "query_en": "Jensen Huang Nvidia CEO speaking at conference"
+            "anchor": "O impacto na privacidade pública",
+            "query_en": "people wearing smart glasses in public"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d240a409-2374-4f0b-b163-49a21be91376",
+      "title": "Microsoft 365 Security Check oferece 50% de desconto durante a Black Week",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft 365 security best practices and configuration audit",
+        "images": [
+          {
+            "anchor": "Otimização da segurança no Microsoft 365",
+            "query_en": "Microsoft 365 security dashboard interface"
           },
           {
-            "anchor": "O Retorno de Jensen Huang ao Comando",
-            "query_en": "Donald Trump press conference White House"
+            "anchor": "Funcionalidades e priorização de ações",
+            "query_en": "IT security team analyzing data"
+          },
+          {
+            "anchor": "Oferta especial de Black Week",
+            "query_en": "Black Friday sale sign"
+          }
+        ]
+      }
+    },
+    {
+      "id": "73b19378-f9b4-4721-bc9a-26c88a00ebb6",
+      "title": "Carregador USB Anker Prime de 160 W com display é destaque na Black Friday por menos de 100 euros",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anker Prime 160W USB charger review",
+        "images": [
+          {
+            "anchor": "Recursos e desempenho do Anker Prime",
+            "query_en": "Anker Prime 160W USB charger with display"
+          },
+          {
+            "anchor": "Três portas de conexão disponíveis para distribuição inteligente de energia.",
+            "query_en": "Anker USB charger ports"
+          },
+          {
+            "anchor": "Display integrado para monitoramento em tempo real do status de carregamento e fluxo de potência.",
+            "query_en": "Anker charger screen display"
+          },
+          {
+            "anchor": "Disponibilidade e ofertas na Amazon",
+            "query_en": "Amazon warehouse delivery boxes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a811357a-9585-43c5-a755-32864695be0d",
+      "title": "Netz 33: Financiamento de nova rede de fibra óptica alemã avança",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Netz 33 fiber optic network Germany",
+        "images": [
+          {
+            "anchor": "O Avanço no Projeto Netz 33",
+            "query_en": "fiber optic cable infrastructure construction"
+          },
+          {
+            "anchor": "A Primeira Rota de Teste em Brandemburgo",
+            "query_en": "Brandenburg landscape Germany countryside"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f2607309-aeaa-43c0-870a-dc911f723111",
+      "title": "Bundeswehr investe 15 bilhões de euros em rede de satélites própria para soberania militar",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Bundeswehr satellite communications military space program",
+        "images": [
+          {
+            "anchor": "O projeto SATCOMBw Stufe 4",
+            "query_en": "military satellite communication antenna"
+          },
+          {
+            "anchor": "Investimento bilionário e soberania",
+            "query_en": "German military technology infrastructure"
+          },
+          {
+            "anchor": "Objetivos estratégicos",
+            "query_en": "satellite network in orbit"
+          },
+          {
+            "anchor": "Status atual",
+            "query_en": "Bundeswehr military equipment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b38422fe-27c7-45f7-9a48-e58bc8e6a188",
+      "title": "Y!mobile oferece Google Pixel 10a por apenas 24 ienes em dois anos com novas condições",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Y mobile Google Pixel 10a deal Japan",
+        "images": [
+          {
+            "anchor": "Detalhes da promoção e condições de preço",
+            "query_en": "Google Pixel smartphone display retail store"
+          },
+          {
+            "anchor": "- O preço regular de tabela do Google Pixel 10a de 128GB na loja online da Y!mobile é estabelecido em 108.720 ienes.",
+            "query_en": "Google Pixel 10a box and device"
+          },
+          {
+            "anchor": "Benefícios adicionais e programas de pontos",
+            "query_en": "Mobile phone store counter Japan"
+          },
+          {
+            "anchor": "O cenário competitivo das operadoras no Japão",
+            "query_en": "SoftBank Y mobile store facade"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f78e0980-5c00-44c8-891b-289c6c0784cc",
+      "title": "O paradoxo do iPhone 18 Pro: Por que o preço elevado impulsionou as vendas nas lojas",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "iPhone 18 Pro retail sales analysis and market trends",
+        "images": [
+          {
+            "anchor": "O cenário inesperado no varejo de telefonia",
+            "query_en": "modern mobile phone store interior"
+          },
+          {
+            "anchor": "A oportunidade no preço elevado",
+            "query_en": "premium smartphone display in store"
+          },
+          {
+            "anchor": "O comportamento do consumidor nas lojas",
+            "query_en": "customer talking to sales representative in electronics store"
+          },
+          {
+            "anchor": "Reflexos no mercado de dispositivos móveis",
+            "query_en": "smartphone market trends analysis chart"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ec83de82-5e5d-45fc-8a52-ad4b33fda856",
+      "title": "NTT Docomo anuncia desconto de até 27.500 ienes em produtos Apple Watch",
+      "category": "Smartphones",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NTT Docomo Apple Watch promotion 2026 2027",
+        "images": [
+          {
+            "anchor": "Campanha de descontos da NTT Docomo",
+            "query_en": "NTT Docomo store logo"
+          },
+          {
+            "anchor": "Detalhes e vigência da promoção",
+            "query_en": "Apple Watch Series 12"
+          }
+        ]
+      }
+    },
+    {
+      "id": "82c434fc-6783-48a5-919a-38bc20918359",
+      "title": "[ITmedia Mobile] 非常時の通信手段「JAPANローミング」と「00000JAPAN」の違い、NTTドコモがXで解説 初心者は必見",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "50f212ec-d023-481c-9f1f-45c476adff90",
+      "title": "O fim da Tachyum e o encerramento das atividades do consórcio TransferJet",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "semiconductor industry news analysis",
+        "images": [
+          {
+            "anchor": "A trajetória e o colapso da Tachyum",
+            "query_en": "silicon wafer manufacturing"
+          },
+          {
+            "anchor": "O sonho do processador universal",
+            "query_en": "computer processor chip architecture"
+          },
+          {
+            "anchor": "O fim silencioso do TransferJet",
+            "query_en": "wireless data transfer technology"
+          },
+          {
+            "anchor": "A evolução e o declínio do TransferJet X",
+            "query_en": "IEEE 802.15.3 wireless technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6673c0e1-17d1-4016-b146-4225c448c269",
+      "title": "GTA 6 registra o maior lançamento da história da PlayStation e bate recorde de jogadores simultâneos",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "GTA 6 PlayStation launch gameplay record",
+        "images": [
+          {
+            "anchor": "Recordes de engajamento e horas jogadas",
+            "query_en": "PlayStation 5 console and controller"
+          },
+          {
+            "anchor": "Comportamento de novos consoles e vendas",
+            "query_en": "Rockstar Games logo and GTA artwork"
+          },
+          {
+            "anchor": "Desempenho no ecossistema Xbox",
+            "query_en": "Xbox Series X console"
+          },
+          {
+            "anchor": "Dados da Ampere Analysis apontaram um desempenho inicial forte no Xbox, impulsionado pela facilidade com que usuários conseguiram alterar a localização de suas contas para a Nova Zelândia para jogar antes do horário oficial, resultando em mais de dois milhões de jogadores com acesso antecipado.",
+            "query_en": "Xbox controller gaming setup"
+          },
+          {
+            "anchor": "Dados subsequentes divulgados pela Circana indicaram que mais de 56% dos jogadores globais de Xbox haviam interagido com o jogo já no dia do lançamento.",
+            "query_en": "Circana market research data charts"
           }
         ]
       }
@@ -772,172 +772,108 @@
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "581d4794-942b-48e7-9469-89b72aff6bdf",
-      "title": "Nova adaptação de Carrie por Mike Flanagan chega ao Prime Video",
-      "category": "Filmes, Séries e Animações",
+      "id": "ee5c9026-ef89-4439-9753-f5c853f99e6a",
+      "title": "Criminal Minds atinge marca histórica de 900 dias no Top 10 do Paramount+",
+      "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Carrie Prime Video Mike Flanagan trailer analysis",
+        "video_query_en": "Criminal Minds Evolution Paramount Plus trailer",
         "images": [
           {
-            "anchor": "As influências de Stephen King e o legado de Stranger Things",
-            "query_en": "Stranger Things small town Hawkins Indiana 1980s aesthetic"
+            "anchor": "O fenômeno Criminal Minds no streaming",
+            "query_en": "Criminal Minds Paramount Plus logo"
           },
           {
-            "anchor": "Carrie at a high school party",
-            "query_en": "Carrie prom scene horror movie blood"
+            "anchor": "Evolução do formato e longevidade",
+            "query_en": "Zach Gilford as Elias Voit Criminal Minds"
           },
           {
-            "anchor": "O histórico da obra e a visão de Mike Flanagan",
-            "query_en": "Mike Flanagan director portrait horror creator"
+            "anchor": "Rumo à 20ª temporada",
+            "query_en": "Criminal Minds cast members"
+          },
+          {
+            "anchor": "Criminal Minds: A série original que definiu o gênero de perfil criminal.",
+            "query_en": "Criminal Minds BAU team"
+          },
+          {
+            "anchor": "Criminal Minds: Evolution: O formato atual que consolidou a longevidade da franquia no streaming.",
+            "query_en": "Criminal Minds Evolution poster"
+          },
+          {
+            "anchor": "Elias Voit: O antagonista central que redefiniu a narrativa da série a partir da 16ª temporada.",
+            "query_en": "Elias Voit Criminal Minds character"
+          },
+          {
+            "anchor": "Unidade de Análise Comportamental (BAU): O núcleo investigativo que permanece como o coração da história.",
+            "query_en": "FBI Behavioral Analysis Unit office"
+          },
+          {
+            "anchor": "O ecossistema de crimes da CBS",
+            "query_en": "CBS crime drama shows lineup"
           }
         ]
       }
     },
     {
-      "id": "ee5c9026-ef89-4439-9753-f5c853f99e6a",
-      "title": "CBS’ Groundbreaking Crime Thriller Hits 900 Day Streaming Milestone Ahead Of Landmark Season",
+      "id": "908ca6dc-e75f-4ae1-9f22-5d111220318e",
+      "title": "New Hercule Poirot Series Officially Adapting Agatha Christie’s Hit 94-Year-Old Mystery Novel",
       "status": "error",
       "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
-      "id": "d7da3363-95da-488d-8ec8-49a35e6683d1",
-      "title": "Dungeons & Dragons revela novos detalhes sobre o livro de World of Warcraft",
-      "category": "Games",
+      "id": "667c3ce6-a4e6-4e2d-8fbd-418d40169a44",
+      "title": "John Grisham revela opinião sincera sobre a adaptação de A Firma estrelada por Tom Cruise",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Dungeons and Dragons World of Warcraft book preview details",
+        "video_query_en": "Tom Cruise The Firm John Grisham reaction podcast",
         "images": [
           {
-            "anchor": "Novas opções de personagens e profissões do WoW",
-            "query_en": "World of Warcraft classes professions Dungeons and Dragons"
+            "anchor": "A recepção mista de A Firma",
+            "query_en": "Tom Cruise and Gene Hackman The Firm movie"
           },
           {
-            "anchor": "Archaeology",
-            "query_en": "World of Warcraft archaeology profession icon"
+            "anchor": "Outras adaptações de John Grisham",
+            "query_en": "John Grisham book adaptation movies 90s"
           },
           {
-            "anchor": "Fishing",
-            "query_en": "World of Warcraft fishing profession"
-          },
-          {
-            "anchor": "Herbalism",
-            "query_en": "World of Warcraft herbalism gathering"
-          },
-          {
-            "anchor": "Mining",
-            "query_en": "World of Warcraft mining profession"
-          },
-          {
-            "anchor": "Skinning",
-            "query_en": "World of Warcraft skinning profession"
-          },
-          {
-            "anchor": "Alchemy",
-            "query_en": "World of Warcraft alchemy crafting"
-          },
-          {
-            "anchor": "Blacksmithing",
-            "query_en": "World of Warcraft blacksmithing anvil"
-          },
-          {
-            "anchor": "Cooking",
-            "query_en": "World of Warcraft cooking fire"
-          },
-          {
-            "anchor": "Enchanting",
-            "query_en": "World of Warcraft enchanting purple glow"
-          },
-          {
-            "anchor": "Engineering",
-            "query_en": "World of Warcraft engineering goggles"
-          },
-          {
-            "anchor": "Inscription",
-            "query_en": "World of Warcraft inscription scroll"
-          },
-          {
-            "anchor": "Jewelcrafting",
-            "query_en": "World of Warcraft jewelcrafting gems"
-          },
-          {
-            "anchor": "Leatherworking",
-            "query_en": "World of Warcraft leatherworking drum"
-          },
-          {
-            "anchor": "Tailoring",
-            "query_en": "World of Warcraft tailoring loom"
-          },
-          {
-            "anchor": "Masmorras clássicas de Azeroth no RPG de mesa",
-            "query_en": "World of Warcraft dungeons Deadmines Shadowfang Keep"
-          },
-          {
-            "anchor": "Deadmines",
-            "query_en": "World of Warcraft Deadmines entrance"
-          },
-          {
-            "anchor": "Shadowfang Keep",
-            "query_en": "World of Warcraft Shadowfang Keep castle"
-          },
-          {
-            "anchor": "Dire Maul",
-            "query_en": "World of Warcraft Dire Maul ruins"
-          },
-          {
-            "anchor": "Onyxia's Lair",
-            "query_en": "World of Warcraft Onyxia lair cave"
-          },
-          {
-            "anchor": "Bestiário expandido e monstros icônicos",
-            "query_en": "World of Warcraft monsters fantasy art bestiary"
-          },
-          {
-            "anchor": "Disponibilidade, edições e preços",
-            "query_en": "Dungeons and Dragons books collection"
+            "anchor": "A adaptação favorita do autor",
+            "query_en": "Matt Damon The Rainmaker movie Francis Ford Coppola"
           }
         ]
       }
     },
     {
-      "id": "b9ddfc6d-11c2-420d-aadc-fcaea3b0bd06",
-      "title": "The Simpsons Game está de volta ao PC após 19 anos graças a fãs",
+      "id": "3b18238d-4a06-40c4-82ec-f9e8026c8462",
+      "title": "Guia Completo: Como Desbloquear e Conquistar as Raids de Alexander em Final Fantasy XIV",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "The Simpsons Game Recompiled PC gameplay",
+        "video_query_en": "FFXIV how to unlock Alexander Raids guide",
         "images": [
           {
-            "anchor": "O histórico do jogo e o projeto de fãs",
-            "query_en": "The Simpsons Game Xbox 360 gameplay"
+            "anchor": "Por que explorar as Raids de Alexander?",
+            "query_en": "FFXIV Alexander Raid armor sets"
           },
           {
-            "anchor": "Detalhes da versão e jogabilidade",
-            "query_en": "The Simpsons Game family characters"
+            "anchor": "Requisitos e Desbloqueio Inicial",
+            "query_en": "FFXIV Idyllshire map location"
           },
           {
-            "anchor": "Homer",
-            "query_en": "Homer Simpson The Simpsons Game"
+            "anchor": "Alexander: Gordias",
+            "query_en": "FFXIV Alexander Gordias raid boss"
           },
           {
-            "anchor": "Bart",
-            "query_en": "Bart Simpson The Simpsons Game"
+            "anchor": "Alexander: Midas",
+            "query_en": "FFXIV Alexander Midas raid boss"
           },
           {
-            "anchor": "Lisa",
-            "query_en": "Lisa Simpson The Simpsons Game"
+            "anchor": "Alexander: The Creator",
+            "query_en": "FFXIV Alexander Prime boss fight"
           },
           {
-            "anchor": "Marge",
-            "query_en": "Marge Simpson The Simpsons Game"
-          },
-          {
-            "anchor": "Maggie",
-            "query_en": "Maggie Simpson The Simpsons Game"
-          },
-          {
-            "anchor": "Melhorias de desempenho e gráficos",
-            "query_en": "Steam Deck running PC games"
+            "anchor": "Desbloqueando a Dificuldade Savage",
+            "query_en": "FFXIV Wandering Minstrel Mor Dhona"
           }
         ]
       }
