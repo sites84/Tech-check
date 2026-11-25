@@ -1,804 +1,318 @@
 {
-  "updated_at": "2026-11-25T04:24:01.945Z",
+  "updated_at": "2026-11-25T16:11:45.312Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "23203245-4fb3-4a67-b078-fec379c0ba36",
-      "title": "Tecnologia da era da COVID-19 vai para a Antártica para rastrear mudanças climáticas",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Antarctica climate change airborne microbes research",
-        "images": [
-          {
-            "anchor": "Tecnologia de combate à pandemia na Antártica",
-            "query_en": "Antarctica landscape glacier research station"
-          },
-          {
-            "anchor": "Amostragem inédita no oeste antártico",
-            "query_en": "West Antarctica ice sheet landscape"
-          },
-          {
-            "anchor": "Declarações e relevância regional",
-            "query_en": "Scientist working in Antarctica field research"
-          },
-          {
-            "anchor": "Recipientes portáteis: utilizados para a captação direta de micróbios transportados pelo ar na região antártica.",
-            "query_en": "Air sampling equipment scientific field canister"
-          },
-          {
-            "anchor": "Rastreadores naturais: micróbios que atuam como indicadores biológicos das mudanças climáticas.",
-            "query_en": "Microorganisms under microscope microbiology lab"
-          },
-          {
-            "anchor": "Amostragem inédita: realizada pela primeira vez em áreas específicas da Antártica ocidental para eliminar lacunas de dados.",
-            "query_en": "Antarctic research expedition scientists outdoors"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d1ed27e4-67de-46a8-baae-ddfa94392e84",
-      "title": "Em Mianmar devastada por minas terrestres, rebelde com perna protética promete continuar a luta",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Myanmar civil war landmine victims resistance fighters",
-        "images": [
-          {
-            "anchor": "O incidente na região de Bago",
-            "query_en": "Myanmar resistance fighters forest jungle"
-          },
-          {
-            "anchor": "A recuperação e a resiliência",
-            "query_en": "artificial leg prosthetic recovery"
-          },
-          {
-            "anchor": "Determinação inabalável",
-            "query_en": "Myanmar rebel soldier portrait"
-          },
-          {
-            "anchor": "O contexto do conflito",
-            "query_en": "Myanmar civil war conflict landscape"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eff9181f-b5a1-400e-bd5b-cc551d158424",
-      "title": "Astros da NPB, Teruaki Sato e Kaima Taira fecham acordos milionários com equipes da MLB",
-      "category": "Games",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Teruaki Sato Kaima Taira MLB deals Chicago Cubs Toronto Blue Jays",
-        "images": [
-          {
-            "anchor": "A transição das estrelas japonesas para la MLB",
-            "query_en": "Japanese baseball players MLB action"
-          },
-          {
-            "anchor": "Teruaki Sato acerta com o Chicago Cubs",
-            "query_en": "Teruaki Sato baseball player"
-          },
-          {
-            "anchor": "Kaima Taira reforça o Toronto Blue Jays",
-            "query_en": "Kaima Taira pitcher"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7264455c-71ff-4dcc-a82c-4997488b918f",
-      "title": "Sindicato industrial japonês buscará aumento de ¥17.000 nas negociações salariais",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan shunto spring wage negotiations metal machinery manufacturing union",
-        "images": [
-          {
-            "anchor": "O anúncio da campanha salarial para 2027",
-            "query_en": "Japanese industrial worker factory manufacturing line"
-          },
-          {
-            "anchor": "Perfil da associação e alcance dos trabalhadores",
-            "query_en": "Japanese labor union meeting members"
-          },
-          {
-            "anchor": "O objetivo de reduzir a disparidade salarial",
-            "query_en": "Japanese manufacturing industry workers machinery"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7c3536ae-ebd9-4f7a-aae9-3f1509de5f25",
-      "title": "Vazamento de dados da Rakuten Securities afeta saldos de ativos de 1,68 milhão de contas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Rakuten Securities data breach cybersecurity",
-        "images": [
-          {
-            "anchor": "Novos detalhes sobre o incidente de segurança",
-            "query_en": "Rakuten Securities office building Tokyo"
-          },
-          {
-            "anchor": "Dados de renda e patrimônio comprometidos",
-            "query_en": "financial data leak security concept"
-          },
-          {
-            "anchor": "Status atual das contas e transações",
-            "query_en": "cybersecurity protection shield online banking"
-          }
-        ]
-      }
-    },
-    {
-      "id": "16ff74d7-ff78-4b88-8409-9c08e43d13f9",
-      "title": "EUA criticam lei de redes sociais da Austrália por impacto na liberdade de expressão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US Australia social media law free speech",
-        "images": [
-          {
-            "anchor": "Repercussão diplomática e críticas dos Estados Unidos",
-            "query_en": "US embassy Australia flag"
-          },
-          {
-            "anchor": "Objetivos e abrangência da nova legislação",
-            "query_en": "Australian Parliament House Canberra"
-          },
-          {
-            "anchor": "Negociações políticas e endurecimento das penalidades",
-            "query_en": "Anika Wells Australian Minister"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d3b07f7f-d3c4-46cb-bba5-ac08c95db49c",
-      "title": "Tailândia pede ajuda à China para suspender mineração em Mianmar devido a poluição de rios",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Thailand China Myanmar mine pollution rivers",
-        "images": [
-          {
-            "anchor": "O pedido de paralisação e a poluição dos rios",
-            "query_en": "polluted river water environment"
-          },
-          {
-            "anchor": "Negociações trilateral e o papel das empresas chinesas",
-            "query_en": "diplomatic meeting officials talks"
-          },
-          {
-            "anchor": "Posicionamento de Pequim",
-            "query_en": "Beijing China government building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e5ebb8db-3586-4e7b-83ae-f54d9691d6a3",
-      "title": "O plano de retorno de Sheikh Hasina a Bangladesh e sua polêmica",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sheikh Hasina Bangladesh return politics",
-        "images": [
-          {
-            "anchor": "O contexto da partida e o exílio",
-            "query_en": "Sheikh Hasina India exile"
-          },
-          {
-            "anchor": "Por que a volta é contestada",
-            "query_en": "Bangladesh politics protest"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dc698fee-8a60-4d1d-a28a-09e49b022791",
-      "title": "Congelamento de vistos para trabalhadores estrangeiros afeta mais restaurantes regionais no Japão",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan foreign workers restaurant industry survey",
-        "images": [
-          {
-            "anchor": "O Impacto da Suspensão de Vistos",
-            "query_en": "Japan restaurant interior busy service"
-          },
-          {
-            "anchor": "Diferença Entre Regiões Metropolitanas e Áreas Regionais",
-            "query_en": "Japanese countryside restaurant street"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c3a35d39-efff-43db-8fa9-f94df6ddfb78",
-      "title": "Casais escolhem patrimônios mundiais da UNESCO no Japão para cerimônias de casamento",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "UNESCO World Heritage site wedding in Japan Tomioka Silk Mill",
-        "images": [
-          {
-            "anchor": "A busca por locais eternos para o matrimônio",
-            "query_en": "Japan UNESCO World Heritage wedding venue"
-          },
-          {
-            "anchor": "Atração de visitantes internacionais e apoio governamental",
-            "query_en": "foreign couples wedding Japan heritage site"
-          },
-          {
-            "anchor": "Novas opções no mercado de eventos",
-            "query_en": "Tomioka Silk Mill Japan"
-          }
-        ]
-      }
-    },
-    {
-      "id": "900f496c-b348-4cdf-b465-03897f671f58",
-      "title": "US-driven gridlock on green ship fuel rules leaves Japan fleets at sea",
+      "id": "b0a008c9-bb07-465f-b71f-9357e45318e4",
+      "title": "Paint inspired by tuna’s slimy skin is helping speed up ships",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Transportes"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "f2091420-3759-4738-9af5-022924d3eb06",
-      "title": "China envia primeiro cidadão estrangeiro, um piloto paquistanês, para sua estação espacial",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "China sends Pakistani pilot to Tiangong space station Shenzhou-24 launch",
-        "images": [
-          {
-            "anchor": "O Lançamento Histórico",
-            "query_en": "Long March 2F rocket launch Jiuquan Satellite Launch Center"
-          },
-          {
-            "anchor": "A Tripulação da Missão",
-            "query_en": "Tiangong space station interior China"
-          },
-          {
-            "anchor": "Foguete utilizado: Long March 2F Y24",
-            "query_en": "Long March 2F rocket liftoff"
-          },
-          {
-            "anchor": "Espaçonave: Shenzhou-24",
-            "query_en": "Shenzhou spacecraft in orbit"
-          },
-          {
-            "anchor": "Local de lançamento: Centro de Lançamento de Satélites de Jiuquan, província de Gansu",
-            "query_en": "Jiuquan Satellite Launch Center launch pad"
-          },
-          {
-            "anchor": "Data do lançamento: 25 de novembro de 2026",
-            "query_en": "China space program launch event"
-          },
-          {
-            "anchor": "Tripulantes: Tang Hongbo, Wu Yi e Muhammad Zeeshan Ali",
-            "query_en": "Chinese and Pakistani astronauts press conference"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d84d9f03-7851-49dd-bf7d-563f06593f3e",
-      "title": "Fundos de private equity da Alemanha miram fabricantes japonesas de autopeças",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "german private equity japan auto parts engine EV adoption",
-        "images": [
-          {
-            "anchor": "O novo cenário para as autopeças no Japão",
-            "query_en": "Japanese automotive factory worker assembling engine parts"
-          },
-          {
-            "anchor": "O interesse alemão e a busca por estabilidade financeira",
-            "query_en": "car engine assembly line manufacturing Japan"
-          },
-          {
-            "anchor": "Impactos das mudanças na indústria automotiva global",
-            "query_en": "modern car manufacturing plant assembly line"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d29d23d4-ffae-4630-94e2-e58bf7765ed7",
-      "title": "Ilhas Salomão escolhem a Austrália como principal parceiro de segurança em novo tratado",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Solomon Islands Australia security treaty Matthew Wale Anthony Albanese",
-        "images": [
-          {
-            "anchor": "Uma nova direção para a segurança insular",
-            "query_en": "Solomon Islands Prime Minister Matthew Wale Australian Prime Minister Anthony Albanese"
-          },
-          {
-            "anchor": "O contexto geopolítico na região do Pacífico",
-            "query_en": "Canberra Australia Parliament House international relations"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9b0cce9b-6610-4765-a04e-5fb7ec8be1d6",
-      "title": "As Taiwan elections near, one KMT mayor's ambitions loom large",
+      "id": "a75e8253-2d46-42e2-9b1c-0396a4f3af72",
+      "title": "Mizuho’s Avendus to hire 75 private bankers over four years",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Politica"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "dd02b696-70ab-4733-ae78-9fde2ecb8fa2",
-      "title": "Escândalo contábil da Fidelix atinge empresa controladora na China",
+      "id": "a0f9c69d-904a-4412-931d-3093d0776aa6",
+      "title": "Showdown over Japan defense spending draws near",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "e3927e7a-c113-4959-a936-102169181c5a",
+      "title": "GPIF agenda may signal portfolio review progress, JPMorgan says",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "5395dcf7-6c53-4cdb-a482-3e2f9966195c",
+      "title": "Starbucks is said to engage banks for sale of Japan business",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "dd64057d-4f98-4548-a446-b1d986dfa7ba",
+      "title": "BOJ’s faster inflation indicator backs case for another hike",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "57737c20-3222-4051-8821-84fd0c92c8dd",
+      "title": "Ex-líder do CDP Kenta Izumi propõe sistema político de dois blocos no Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Fidelix accounting fraud scandal Dosilicon semiconductor",
+        "video_query_en": "Kenta Izumi Japan political system two bloc",
         "images": [
           {
-            "anchor": "A expansão do caso contábil",
-            "query_en": "South Korean semiconductor manufacturing facility generic"
+            "anchor": "A proposta de reforma política",
+            "query_en": "Kenta Izumi Constitutional Democratic Party Japan"
           },
           {
-            "anchor": "Medidas dos órgãos reguladores",
-            "query_en": "financial regulation building Seoul"
-          },
-          {
-            "anchor": "Fidelix",
-            "query_en": "Fidelix memory semiconductor company logo building"
-          },
-          {
-            "anchor": "Ex-executivos",
-            "query_en": "business executives meeting corporate governance"
-          },
-          {
-            "anchor": "Dosilicon",
-            "query_en": "Chinese corporate headquarters modern building"
+            "anchor": "O diagnóstico da fragmentação partidária",
+            "query_en": "Japanese parliament building Tokyo"
           }
         ]
       }
     },
     {
-      "id": "8b79d1a5-b841-4dc8-bf5b-edd76b770288",
-      "title": "BOE avança para adquirir a fabricante de telas Visionox",
+      "id": "943c30b7-cbea-4d5b-893d-917c91fbf037",
+      "title": "Japan to declare aim to become AI nation after U.S. and China",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "24e46658-fd73-4a8a-bad8-241c39fa7309",
+      "title": "Japan mulls new Japanese-language test for foreign workers",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "c7e3bcb9-faf5-45a5-b125-59492b68f323",
+      "title": "Japanese judge dismissed over online casino gambling",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "a0c9dde4-0d30-4911-af73-6620459b1732",
+      "title": "Thailand's CP group to end 7-Eleven operations in Cambodia",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "186c4503-d49d-4031-95d0-5afd0805fac5",
+      "title": "India’s BEML targets developing tunnel machines within ‘couple of years’",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "ffcf52e3-602b-4078-933b-8d710ff46545",
+      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "a142ce10-2cab-4bb3-a66d-ed91060223ce",
+      "title": "Malaysia caught in bind over Rohingya amid backlash, deportation dispute",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "40e19335-436c-49be-a29a-74302b6a8a28",
+      "title": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "2ff0130d-9b74-41be-b9b4-a4d39bbbe14e",
+      "title": "Japanese companies shift away from ESG-linked executive pay",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "fda8ce05-fba7-424a-9098-184f633f1eab",
+      "title": "$1.6bn real estate development in Tokyo's Shibuya wins key approval",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "eb1f2bfb-ff35-429f-88b6-c906d64718d1",
+      "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "93f635e9-d779-4437-b747-e1154a933f20",
+      "title": "SK hynix Targets 100-Layer 3D DRAM Production Within Five Years",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "554812f2-e50b-4a85-bd8d-2dab98b80f2a",
+      "title": "Hanwha Aerospace Secures Export Rights for KM3",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "f5e2574a-e410-4d24-8298-bdb88767f9d1",
+      "title": "Hyundai Mobis Wins 1 Trillion Won in Parts Orders",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "6a8753e3-320b-47cd-81f9-156ccebfdfc0",
+      "title": "Samsung SDI’s Ulsan Plant Wins Green Management Award",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "9713639f-26d0-4f1f-9d99-cd548da059d4",
+      "title": "ABB Launches Intelleqt Intelligent Low-Voltage Motor",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "d21620c2-c067-44aa-89c6-6ab7c952e6ff",
+      "title": "LiBEST Selected for Daejeon Defense Venture Program",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "3552399c-66fa-40c3-bf41-c6e26590dbee",
+      "title": "Hanwha Aerospace Signs MOU With Brazilian Defense Firm",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "dcde0e36-25fe-4aea-a55d-bf8d04b02cd5",
+      "title": "Presidente do Hanwha Group, Kim Seung-youn, visita instalações da Ourhome pela primeira vez",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "BOE OLED display manufacturing facility China",
+        "video_query_en": "Hanwha Group chairman Kim Seung-youn Ourhome visit",
         "images": [
           {
-            "anchor": "A evolução das negociações entre as empresas",
-            "query_en": "BOE corporate headquarters building China"
+            "anchor": "Visita ao Centro de Pesquisa e Desenvolvimento em Seul",
+            "query_en": "Magok Seoul food research center building"
+          },
+          {
+            "anchor": "Inspeção das instalações do Magok Food Research Center",
+            "query_en": "food research laboratory modern facility"
           }
         ]
       }
     },
     {
-      "id": "e36527e3-1d31-4687-b476-4a4485ca67d1",
-      "title": "Gigavis conquista em um mês pedidos que valem três vezes sua receita do ano passado",
+      "id": "addca764-76e6-4ff2-954c-333dd2de23e4",
+      "title": "Dongwha Electrolyte Secures New Battery Customer in North America",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+    },
+    {
+      "id": "4c7b3137-58d2-45be-bc51-52b4502ff669",
+      "title": "LIG Defense & Aerospace Fornece Equipamentos de Segurança para 31 Fornecedores",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Gigavis semiconductor substrate equipment Samsung Electro-Mechanics",
+        "video_query_en": "LIG Defense Aerospace workplace safety equipment",
         "images": [
           {
-            "anchor": "Crescimento acelerado no setor de semicondutores",
-            "query_en": "semiconductor substrate manufacturing equipment"
+            "anchor": "Detalhes da Ação de Segurança",
+            "query_en": "workplace automated external defibrillator safety equipment"
           },
           {
-            "anchor": "O papel crucial da Samsung Electro-Mechanics",
-            "query_en": "Samsung Electro-Mechanics building"
-          },
-          {
-            "anchor": "Impacto operacional",
-            "query_en": "industrial semiconductor factory floor"
+            "anchor": "Continuidade do Programa",
+            "query_en": "industrial workplace safety support program"
           }
         ]
       }
     },
     {
-      "id": "a024cedb-7bce-42e3-83b4-8f916ca9d8ac",
-      "title": "SKMP Vai Iniciar o Fornecimento de Diluente Semicondutor de Ultra-Alta Pureza em Dezembro",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SK Materials Performance semiconductor thinner production",
-        "images": [
-          {
-            "anchor": "O Anúncio da SK Materials Performance",
-            "query_en": "SK Materials Performance corporate building"
-          },
-          {
-            "anchor": "Parceria Estratégica e Produção em Massa",
-            "query_en": "semiconductor manufacturing cleanroom factory"
-          },
-          {
-            "anchor": "O Papel do Diluente na Indústria",
-            "query_en": "semiconductor silicon wafer fabrication chemicals"
-          }
-        ]
-      }
+      "id": "30000d67-9127-47b0-9ad7-a6b3f45c033b",
+      "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "51fa7579-ceb4-4674-8121-0997db1b7a17",
-      "title": "Kumho Mitsui Chemicals conquista prêmio de relatório de sustentabilidade na Coreia do Sul",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Kumho Mitsui Chemicals sustainability report award",
-        "images": [
-          {
-            "anchor": "Reconhecimento na Conferência de Sustentabilidade",
-            "query_en": "Korea Sustainability Conference building"
-          },
-          {
-            "anchor": "Destaque na Categoria de Manufatura",
-            "query_en": "Kumho Mitsui Chemicals manufacturing facility"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dc500fbc-25d6-4b6f-a097-0df98408a673",
-      "title": "ENKI WhiteHat mira triplicar receita até 2029 com foco em IA e IPO na Coreia do Sul",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "ENKI WhiteHat cybersecurity IPO KOSDAQ",
-        "images": [
-          {
-            "anchor": "A Visão Estratégica 3-3-3",
-            "query_en": "South Korea stock market KOSDAQ building"
-          },
-          {
-            "anchor": "Contexto da Oferta Pública",
-            "query_en": "Cybersecurity operations center screens"
-          }
-        ]
-      }
-    },
-    {
-      "id": "898ec6d5-3ee4-46cc-89f1-dac9b35c3924",
-      "title": "Falha Crítica no Cisco Expressway é Explorada Ativamente por Hackers",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Cisco Expressway vulnerability CVE-2026-76466 CISA security patch",
-        "images": [
-          {
-            "anchor": "O Alerta de Segurança e a Falha Crítica",
-            "query_en": "Cisco office building technology network security"
-          },
-          {
-            "anchor": "O Impacto nos Sistemas de Colaboração",
-            "query_en": "cybersecurity server network monitoring dashboard"
-          }
-        ]
-      }
-    },
-    {
-      "id": "55686d1d-bfc3-41b1-b62c-c122a2b862af",
-      "title": "LG Uplus adota tecnologia de IA da Datadog para aprimorar o serviço ixi-O",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Datadog AI technology observability",
-        "images": [
-          {
-            "anchor": "O Programa de Parceria de Design da Datadog",
-            "query_en": "Datadog platform dashboard observability"
-          },
-          {
-            "anchor": "Participação da LG Uplus no Design Partner Program para testes avançados.",
-            "query_en": "LG Uplus corporate building"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2e42b9b2-9e8f-475c-9621-770a2ee54937",
-      "title": "SDT fecha parceria para distribuir equipamentos criogênicos quânticos da Maybell na Coreia do Sul",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Maybell Quantum cryogenic equipment quantum computing",
-        "images": [
-          {
-            "anchor": "Detalhes da Parceria Estratégica",
-            "query_en": "quantum technology laboratory equipment"
-          },
-          {
-            "anchor": "SDT: Atuará como a distribuidora oficial e exclusiva para a oferta dos produtos da parceira norte-americana.",
-            "query_en": "SDT quantum technology office building South Korea"
-          },
-          {
-            "anchor": "Maybell Quantum Industries: Fabricante com sede nos Estados Unidos especializada em infraestrutura criogênica avançada.",
-            "query_en": "Maybell Quantum Industries cryogenic system"
-          },
-          {
-            "anchor": "Região de atuação: Abrangência na Coreia do Sul e em mercados selecionados da Ásia-Pacífico.",
-            "query_en": "Asia Pacific technology map"
-          },
-          {
-            "anchor": "Fornecimento de Componentes Principais",
-            "query_en": "cryogenic dilution refrigerator for quantum computer"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a8e69c91-8e51-4ba7-a58e-b91755a18565",
-      "title": "Limite de 20% para exchanges de criptomoedas na Coreia do Sul complica fusão entre Naver e Dunamu",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "South Korea crypto exchange regulation Naver Dunamu",
-        "images": [
-          {
-            "anchor": "O impacto da regulação sul-coreana no mercado cripto",
-            "query_en": "South Korea cryptocurrency exchange building seoul"
-          },
-          {
-            "anchor": "Os planos de fusão entre Naver Financial e Dunamu",
-            "query_en": "Naver office building seoul"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1682a592-2ff5-44ba-8e28-1f00b1c3934f",
-      "title": "Jensen Huang revela estar em terapia e pede desculpas após retorno dramático à Nvidia",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang returns to Nvidia therapy apology",
-        "images": [
-          {
-            "anchor": "O pedido de desculpas e a reunião com funcionários",
-            "query_en": "Jensen Huang Nvidia headquarters Santa Clara"
-          },
-          {
-            "anchor": "A oscilação das ações no mercado financeiro",
-            "query_en": "Wall Street stock market trading floor computers"
-          },
-          {
-            "anchor": "Pressão de mercado e investigações em andamento",
-            "query_en": "Nvidia AI chips data center hardware"
-          },
-          {
-            "anchor": "Desafios legais e próximos passos no Congresso",
-            "query_en": "United States Capitol building Washington DC"
-          },
-          {
-            "anchor": "Declarações do governo: O procurador-geral dos EUA, Todd Blanche, afirmou em coletiva de imprensa que a Nvidia é uma cidadã corporativa exemplar, pontuando que investigações criminais em curso não alteram a mensagem transmitida à população.",
-            "query_en": "US Department of Justice press conference Washington"
-          },
-          {
-            "anchor": "Audiências no Congresso: Jensen Huang enfrentará parlamentares em uma audiência a portas fechadas perante três comitês da Câmara dos Deputados em 1 de dezembro.",
-            "query_en": "US House of Representatives hearing room"
-          },
-          {
-            "anchor": "Comitê do Senado: Uma nova audiência, desta vez transmitida ao vivo por um comitê do Senado, está marcada para o dia 3 de dezembro.",
-            "query_en": "US Senate committee hearing room Washington"
-          }
-        ]
-      }
-    },
-    {
-      "id": "83319881-bc5e-4e85-b65d-df6b8e772200",
-      "title": "Microsoft declara 'Code Red' após apagão histórico que afetou serviços globais",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft global outage Code Red Satya Nadella internal memos",
-        "images": [
-          {
-            "anchor": "O impacto do apagão nos serviços da Microsoft",
-            "query_en": "Microsoft 365 cloud servers data center infrastructure"
-          },
-          {
-            "anchor": "Detalhes técnicos e a \"névoa de guerra\"",
-            "query_en": "Microsoft engineers working in tech control room"
-          },
-          {
-            "anchor": "Novas diretrizes e metas de recuperação",
-            "query_en": "Microsoft corporate office building Redmond Washington"
-          },
-          {
-            "anchor": "Desafios na velocidade de distribuição de correções",
-            "query_en": "software engineering code security patch deployment dashboard"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2fe63f08-7328-4843-a6fe-77a83e982572",
-      "title": "O retorno de Jensen Huang à Nvidia e seus impactos na indústria de inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Jensen Huang return Nvidia CEO AI industry impact",
-        "images": [
-          {
-            "anchor": "O retorno de Jensen Huang e a estabilidade da cadeia de financiamento",
-            "query_en": "Jensen Huang Nvidia CEO"
-          },
-          {
-            "anchor": "A reação do mercado e o novo cenário financeiro",
-            "query_en": "Nvidia stock market trading floor"
-          },
-          {
-            "anchor": "Questões centrais para o futuro da infraestrutura de IA",
-            "query_en": "Artificial intelligence hardware server chips"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bf99e683-d18c-4787-8b18-d057a40cc022",
-      "title": "Pequim estende trégua de minerais críticos enquanto Washington prepara novas tarifas de subsídios",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "US China trade war critical minerals tariffs",
-        "images": [
-          {
-            "anchor": "O impacto nas cadeias de suprimentos globais",
-            "query_en": "US China trade tariffs global supply chain"
-          },
-          {
-            "anchor": "Minerais críticos: Pequim estende a suspensão de proibições de exportação para os Estados Unidos.",
-            "query_en": "critical minerals mining industrial materials"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2e0ae9e2-90bf-4167-a228-08f7e2d213bd",
-      "title": "Margem bruta de smartphones da Xiaomi permanece abaixo de 10% no terceiro trimestre de 2026",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Xiaomi financial results smartphone gross margin memory costs",
-        "images": [
-          {
-            "anchor": "Pressão nos custos e margens de lucro",
-            "query_en": "Xiaomi smartphone manufacturing financial report"
-          }
-        ]
-      }
+      "id": "412cabfe-a414-4e6d-bebe-07bd80cd66b4",
+      "title": "Huawei says U.S. conviction 'without legal or factual merit'",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
       "title": "‘Wednesday’ Cast Officially Hints at Series End",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "dfc534e9-48bd-4148-9dce-c8cd6502e19f",
       "title": "“AHS” vet Seth Gabel shares why he was initially ‘terrified’ of that Dahmer scene with “Monster” star Evan Peters",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
       "title": "“Coven Academy” ending explained: Messy love triangles and shocking deaths give Disney’s new YA series edge",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
       "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "86b679c0-6f60-494b-964f-d3c62ceb6650",
       "title": "CBS Previews The End Of An Era For Kayce Dutton",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "22c0ebe8-8c03-48b2-a51e-b24da9136e88",
       "title": "Lanterns co-creator says the most \"schmucky-bait\" thing they could have done was bring Hal Jordan back from the dead",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "908ca6dc-e75f-4ae1-9f22-5d111220318e",
       "title": "New Hercule Poirot Series Officially Adapting Agatha Christie’s Hit 94-Year-Old Mystery Novel",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
-    },
-    {
-      "id": "9a6dd963-a597-46fc-b153-0c43bb505169",
-      "title": "As melhores frases de cada membro da família Stark em As Crônicas de Gelo e Fogo",
-      "category": "Filmes, Séries e Animações",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Game of Thrones best Stark quotes analysis",
-        "images": [
-          {
-            "anchor": "Eddard \"Ned\" Stark",
-            "query_en": "Sean Bean as Ned Stark Game of Thrones"
-          },
-          {
-            "anchor": "Catelyn Stark",
-            "query_en": "Catelyn Stark Red Wedding Game of Thrones"
-          },
-          {
-            "anchor": "Robb Stark",
-            "query_en": "Richard Madden as Robb Stark Game of Thrones"
-          },
-          {
-            "anchor": "Lyanna Stark",
-            "query_en": "Lyanna Stark Tower of Joy Game of Thrones"
-          },
-          {
-            "anchor": "Rickon Stark",
-            "query_en": "Rickon Stark Winterfell Game of Thrones"
-          },
-          {
-            "anchor": "Bran Stark",
-            "query_en": "Isaac Hempstead Wright as Bran Stark Game of Thrones"
-          },
-          {
-            "anchor": "Benjen Stark",
-            "query_en": "Benjen Stark Nights Watch Game of Thrones"
-          },
-          {
-            "anchor": "Brandon Stark (irmão de Ned)",
-            "query_en": "Brandon Stark Wild Wolf A Song of Ice and Fire artwork"
-          },
-          {
-            "anchor": "Sansa Stark",
-            "query_en": "Sophie Turner as Sansa Stark Game of Thrones"
-          },
-          {
-            "anchor": "Arya Stark",
-            "query_en": "Maisie Williams as Arya Stark Game of Thrones"
-          }
-        ]
-      }
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
       "id": "82c2a590-a060-4223-af72-3ed9a2475d9a",
       "title": "Owen Wilson’s New Movie Officially Earns Record Low Box Office Debut",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     },
     {
-      "id": "76003fcc-d98c-47ce-b238-4a5354a2a2d1",
-      "title": "Aion 2 busca conquistar o mundo dos MMOs com foco em liberdade e exploração",
-      "category": "Games",
+      "id": "96c91ee0-ecb7-4cb0-9a5a-706b84a108ca",
+      "title": "Harry Potter x Blvck Paris retorna com nova coleção limitada inteiramente preta",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Aion 2 gameplay preview world exploration flight",
+        "video_query_en": "Harry Potter Blvck Paris collection fashion drop",
         "images": [
           {
-            "anchor": "O Equilíbrio Entre Jogabilidade Solo e Multiplayer",
-            "query_en": "Aion 2 MMO open world exploration solo multiplayer"
+            "anchor": "O que esperar dos produtos da coleção",
+            "query_en": "Blvck Paris Harry Potter black collection apparel"
           },
           {
-            "anchor": "A Liberdade e los Limites do Voo",
-            "query_en": "Aion 2 character flying soaring in sky"
+            "anchor": "Teddy Draco Malfoy Hoodie and Tee",
+            "query_en": "Blvck Paris Draco Malfoy hoodie"
           },
           {
-            "anchor": "Aprendizados e Atualizações para o Público Global",
-            "query_en": "NCSoft Aion 2 game director developer interview"
+            "anchor": "Slytherin Baseball Jacket",
+            "query_en": "Blvck Paris Slytherin baseball jacket"
           },
           {
-            "anchor": "Um Novo Sabor de MMORPG para o Mercado Atual",
-            "query_en": "Aion 2 combat action gameplay PC"
+            "anchor": "Zipped Wanted Hooded Sweatshirt",
+            "query_en": "Blvck Paris Harry Potter wanted sweatshirt"
+          },
+          {
+            "anchor": "Tonal House Hoodies and Sweaters",
+            "query_en": "Blvck Paris Harry Potter house hoodies"
+          },
+          {
+            "anchor": "Slytherin e Gryffindor Jerseys",
+            "query_en": "Blvck Paris Hogwarts house jerseys"
+          },
+          {
+            "anchor": "Hogwarts Home Goods and Accessories",
+            "query_en": "Blvck Paris Harry Potter home goods accessories"
           }
         ]
       }
+    },
+    {
+      "id": "901cba00-0540-4f3f-87e5-1ef79efa0754",
+      "title": "The best early October Prime Day deals on iPads, according to Mashables tech experts",
+      "status": "error",
+      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
     }
   ]
 }
