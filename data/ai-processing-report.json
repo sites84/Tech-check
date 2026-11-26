@@ -1,318 +1,938 @@
 {
-  "updated_at": "2026-11-25T16:11:45.312Z",
+  "updated_at": "2026-11-26T00:33:49.664Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "b0a008c9-bb07-465f-b71f-9357e45318e4",
-      "title": "Paint inspired by tuna’s slimy skin is helping speed up ships",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "a75e8253-2d46-42e2-9b1c-0396a4f3af72",
-      "title": "Mizuho’s Avendus to hire 75 private bankers over four years",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "a0f9c69d-904a-4412-931d-3093d0776aa6",
-      "title": "Showdown over Japan defense spending draws near",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "e3927e7a-c113-4959-a936-102169181c5a",
-      "title": "GPIF agenda may signal portfolio review progress, JPMorgan says",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "5395dcf7-6c53-4cdb-a482-3e2f9966195c",
-      "title": "Starbucks is said to engage banks for sale of Japan business",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "dd64057d-4f98-4548-a446-b1d986dfa7ba",
-      "title": "BOJ’s faster inflation indicator backs case for another hike",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "57737c20-3222-4051-8821-84fd0c92c8dd",
-      "title": "Ex-líder do CDP Kenta Izumi propõe sistema político de dois blocos no Japão",
+      "id": "8a97b018-0de6-4664-b273-caf89a853331",
+      "title": "EUA preparam novas tarifas contra China, União Europeia e outras economias citando excesso de capacidade",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Kenta Izumi Japan political system two bloc",
+        "video_query_en": "US tariffs China EU overcapacity Trump administration",
         "images": [
           {
-            "anchor": "A proposta de reforma política",
-            "query_en": "Kenta Izumi Constitutional Democratic Party Japan"
+            "anchor": "O retorno das tarifas globais de importação",
+            "query_en": "US Capitol building Washington DC"
           },
           {
-            "anchor": "O diagnóstico da fragmentação partidária",
-            "query_en": "Japanese parliament building Tokyo"
+            "anchor": "Taxas aplicadas à China e à União Europeia",
+            "query_en": "cargo ships containers port global trade"
+          },
+          {
+            "anchor": "Produtos da China",
+            "query_en": "industrial cargo port China manufacturing"
+          },
+          {
+            "anchor": "Produtos da União Europeia",
+            "query_en": "European Union flag Brussels architecture"
+          },
+          {
+            "anchor": "Justificativa de excesso de capacidade",
+            "query_en": "factory industrial production line manufacturing"
           }
         ]
       }
     },
     {
-      "id": "943c30b7-cbea-4d5b-893d-917c91fbf037",
-      "title": "Japan to declare aim to become AI nation after U.S. and China",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "24e46658-fd73-4a8a-bad8-241c39fa7309",
-      "title": "Japan mulls new Japanese-language test for foreign workers",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "c7e3bcb9-faf5-45a5-b125-59492b68f323",
-      "title": "Japanese judge dismissed over online casino gambling",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "a0c9dde4-0d30-4911-af73-6620459b1732",
-      "title": "Thailand's CP group to end 7-Eleven operations in Cambodia",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "186c4503-d49d-4031-95d0-5afd0805fac5",
-      "title": "India’s BEML targets developing tunnel machines within ‘couple of years’",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "ffcf52e3-602b-4078-933b-8d710ff46545",
-      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "a142ce10-2cab-4bb3-a66d-ed91060223ce",
-      "title": "Malaysia caught in bind over Rohingya amid backlash, deportation dispute",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "40e19335-436c-49be-a29a-74302b6a8a28",
-      "title": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "2ff0130d-9b74-41be-b9b4-a4d39bbbe14e",
-      "title": "Japanese companies shift away from ESG-linked executive pay",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "fda8ce05-fba7-424a-9098-184f633f1eab",
-      "title": "$1.6bn real estate development in Tokyo's Shibuya wins key approval",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "eb1f2bfb-ff35-429f-88b6-c906d64718d1",
-      "title": "Xiaomi's new EV models shine as company looks to beat smartphone dependence",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "93f635e9-d779-4437-b747-e1154a933f20",
-      "title": "SK hynix Targets 100-Layer 3D DRAM Production Within Five Years",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "554812f2-e50b-4a85-bd8d-2dab98b80f2a",
-      "title": "Hanwha Aerospace Secures Export Rights for KM3",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "f5e2574a-e410-4d24-8298-bdb88767f9d1",
-      "title": "Hyundai Mobis Wins 1 Trillion Won in Parts Orders",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "6a8753e3-320b-47cd-81f9-156ccebfdfc0",
-      "title": "Samsung SDI’s Ulsan Plant Wins Green Management Award",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "9713639f-26d0-4f1f-9d99-cd548da059d4",
-      "title": "ABB Launches Intelleqt Intelligent Low-Voltage Motor",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "d21620c2-c067-44aa-89c6-6ab7c952e6ff",
-      "title": "LiBEST Selected for Daejeon Defense Venture Program",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "3552399c-66fa-40c3-bf41-c6e26590dbee",
-      "title": "Hanwha Aerospace Signs MOU With Brazilian Defense Firm",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "dcde0e36-25fe-4aea-a55d-bf8d04b02cd5",
-      "title": "Presidente do Hanwha Group, Kim Seung-youn, visita instalações da Ourhome pela primeira vez",
+      "id": "fc87611d-e15b-48fb-b372-41454677aae1",
+      "title": "Para Trump, apostar em novas tarifas é sobre poder, e não popularidade",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Hanwha Group chairman Kim Seung-youn Ourhome visit",
+        "video_query_en": "Donald Trump tariffs international trade 14 partners",
         "images": [
           {
-            "anchor": "Visita ao Centro de Pesquisa e Desenvolvimento em Seul",
-            "query_en": "Magok Seoul food research center building"
+            "anchor": "O contexto político e eleitoral",
+            "query_en": "Donald Trump Palm Beach Florida press conference"
           },
           {
-            "anchor": "Inspeção das instalações do Magok Food Research Center",
-            "query_en": "food research laboratory modern facility"
+            "anchor": "A nova rodada de tarifas",
+            "query_en": "US trade tariffs global economy containers port"
+          },
+          {
+            "anchor": "A motivação por trás da medida",
+            "query_en": "US Capitol building Washington DC politicians"
           }
         ]
       }
     },
     {
-      "id": "addca764-76e6-4ff2-954c-333dd2de23e4",
-      "title": "Dongwha Electrolyte Secures New Battery Customer in North America",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "4c7b3137-58d2-45be-bc51-52b4502ff669",
-      "title": "LIG Defense & Aerospace Fornece Equipamentos de Segurança para 31 Fornecedores",
+      "id": "60f6a503-28a4-4014-850d-f3513e77a48d",
+      "title": "Pittsburgh Steelers dispensam Aaron Rodgers após críticas públicas ao treinador",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "LIG Defense Aerospace workplace safety equipment",
+        "video_query_en": "Aaron Rodgers Steelers cut interview analysis",
         "images": [
           {
-            "anchor": "Detalhes da Ação de Segurança",
-            "query_en": "workplace automated external defibrillator safety equipment"
+            "anchor": "A dispensa de Aaron Rodgers",
+            "query_en": "Aaron Rodgers Pittsburgh Steelers quarterback"
           },
           {
-            "anchor": "Continuidade do Programa",
-            "query_en": "industrial workplace safety support program"
+            "anchor": "Situação contratual e mercado",
+            "query_en": "NFL waiver wire football stadium"
           }
         ]
       }
     },
     {
-      "id": "30000d67-9127-47b0-9ad7-a6b3f45c033b",
-      "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "id": "9ad2bb8d-2dac-4134-969e-57e439ca7dac",
+      "title": "Trump reconstrói muro tarifário com novas taxas sobre China, Japão e outros parceiros",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Trump tariffs China Japan Section 301",
+        "images": [
+          {
+            "anchor": "O impacto nas relações globais",
+            "query_en": "Donald Trump trade policy global tariffs"
+          },
+          {
+            "anchor": "China: Alvo central",
+            "query_en": "China trade manufacturing industry"
+          },
+          {
+            "anchor": "Japão e outros parceiros",
+            "query_en": "Japan US trade relations"
+          },
+          {
+            "anchor": "A justificativa legal e os desdobramentos",
+            "query_en": "US Supreme Court trade tariffs building"
+          }
+        ]
+      }
     },
     {
-      "id": "412cabfe-a414-4e6d-bebe-07bd80cd66b4",
-      "title": "Huawei says U.S. conviction 'without legal or factual merit'",
+      "id": "cd214e07-7f72-4908-a711-c12d70a0e65d",
+      "title": "Análise aponta que os EUA concederam a Xi Jinping o título de presidente de Mao Tsé-Tung",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Xi Jinping political ambitions chairman title Mao Zedong",
+        "images": [
+          {
+            "anchor": "O peso político do título de Mao",
+            "query_en": "Mao Zedong historical portrait China"
+          },
+          {
+            "anchor": "As ambições de Xi Jinping e o horizonte de 2027",
+            "query_en": "Xi Jinping speech Beijing China"
+          },
+          {
+            "anchor": "O título de presidente de Mao Tsé-Tung foi aposentado para prevenir ditaduras.",
+            "query_en": "Beijing Tiananmen Square China"
+          },
+          {
+            "anchor": "Xi Jinping demonstra interesse atual em resgatar a mesma designação.",
+            "query_en": "Xi Jinping official portrait"
+          },
+          {
+            "anchor": "O ano de 2027 surge como um marco estratégico para as ambições políticas do líder.",
+            "query_en": "Great Hall of the People Beijing"
+          },
+          {
+            "anchor": "O fator diplomático e a influência dos Estados Unidos",
+            "query_en": "Donald Trump US flag diplomatic meeting"
+          },
+          {
+            "anchor": "A bajulação política externa é avaliada como ferramenta de influência.",
+            "query_en": "US China diplomatic summit"
+          },
+          {
+            "anchor": "A Casa Branca, sob a liderança de Trump, figura no centro dessas manobras diplomáticas.",
+            "query_en": "White House Washington DC"
+          },
+          {
+            "anchor": "A repercussão internacional afeta diretamente o cálculo de poder doméstico em Pequim.",
+            "query_en": "Beijing city skyline China"
+          }
+        ]
+      }
+    },
+    {
+      "id": "715bd731-15f7-44a6-9130-36764ce165a3",
+      "title": "Como um acordo liderado pela Bain tornou a SK Hynix a maior acionista da Kioxia",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK Hynix Kioxia Bain Capital semiconductor deal",
+        "images": [
+          {
+            "anchor": "O contexto da aquisição e o papel da Bain Capital",
+            "query_en": "SK Hynix semiconductor factory facility"
+          },
+          {
+            "anchor": "Desdobramentos financeiros e conversão de títulos",
+            "query_en": "Kioxia memory chip headquarters Japan"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8dbe7604-2d58-4228-b481-9d32f19d4463",
+      "title": "China amplia combate à corrupção e mira ex-autoridades e criptomoedas",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "China anti corruption crackdown cryptocurrency",
+        "images": [
+          {
+            "anchor": "Alvos de Alto Escalão e Novas Estratégias",
+            "query_en": "Beijing government building China"
+          },
+          {
+            "anchor": "O Papel das Criptomoedas e a Evasão de Divisas",
+            "query_en": "Cryptocurrency blockchain digital currency concept"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3812719a-f6dd-4252-b900-1b7ebd4c75f5",
+      "title": "Jensen Huang retorna à liderança da Nvidia enquanto a China avança em seu próprio ecossistema de chips",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Jensen Huang Nvidia Santa Clara return",
+        "images": [
+          {
+            "anchor": "O retorno de Jensen Huang à Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO Santa Clara"
+          },
+          {
+            "anchor": "O avanço da produção de chips na China",
+            "query_en": "Semiconductor manufacturing factory China chips"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4e01cbcb-27ae-4feb-a28b-f1f6031f53a4",
+      "title": "Preferred Networks aposta em IA física com robôs, chips e softwares industriais no Japão",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Preferred Networks robots artificial intelligence Japan",
+        "images": [
+          {
+            "anchor": "O avanço da robótica autônoma industrial",
+            "query_en": "Preferred Networks transport robots autonomous industrial"
+          },
+          {
+            "anchor": "Robôs de transporte autônomo com alta penetração no mercado japonês",
+            "query_en": "Japanese autonomous transport robot warehouse factory"
+          },
+          {
+            "anchor": "Parcerias estratégicas e o ecossistema Noetra",
+            "query_en": "Japan industrial artificial intelligence software chips"
+          }
+        ]
+      }
+    },
+    {
+      "id": "65c3ca96-c87f-45fb-9981-2df5229cab6e",
+      "title": "Mitsui planeja reformulação de ativos de US$ 125 bilhões para impulsionar retorno sobre o patrimônio",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Mitsui company business strategy asset overhaul",
+        "images": [
+          {
+            "anchor": "Mudança estratégica em investimentos",
+            "query_en": "Mitsui building Tokyo headquarters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f167b711-f87f-4b13-8363-a5a64f81e5de",
+      "title": "Ações da Nvidia caem e rating de crédito entra em observação após retorno de Huang",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia shares drop credit rating S&P Jensen Huang CEO return",
+        "images": [
+          {
+            "anchor": "Riscos de governança e gestão no radar da S&P",
+            "query_en": "S&P Global Ratings office building Washington"
+          },
+          {
+            "anchor": "O impacto do retorno de Jensen Huang",
+            "query_en": "Jensen Huang Nvidia CEO speaking"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a4d2fbb2-09b4-49af-a5d5-7319c652b3d6",
+      "title": "Japan arcade snags world record with 600 claw machines",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Supabase 522 em /rest/v1/categories?name=eq.Games&select=id,name&limit=1: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-26 00:29:27 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a604c6ea8843f5a5</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">52.161.69.162</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
+    },
+    {
+      "id": "12ca34ab-893c-4d94-a700-806b1b35d5a7",
+      "title": "Turbulências na Nvidia lançam sombras sobre a indústria global de chips de IA",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia Jensen Huang AI chip industry turmoil Nikkei Asia",
+        "images": [
+          {
+            "anchor": "O Impacto das Incertezas na Liderança",
+            "query_en": "Jensen Huang Nvidia CEO artificial intelligence"
+          },
+          {
+            "anchor": "Mudanças Políticas e o Futuro dos Data Centers",
+            "query_en": "US Capitol building Washington DC politics"
+          },
+          {
+            "anchor": "Repercussões na Cadeia Global de Suprimentos",
+            "query_en": "semiconductor silicon wafer manufacturing chip factory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9951dcf-1bf0-45f9-9d74-ae474e85b883",
+      "title": "Roh rejeita acordo de Chey Tae-won e exige retirada de apelação na Coreia do Sul",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "SK Group Chairman Chey Tae-won Roh So-young court divorce settlement",
+        "images": [
+          {
+            "anchor": "O impasse na divisão de bens",
+            "query_en": "Seoul High Court building South Korea"
+          },
+          {
+            "anchor": "Roh So-young",
+            "query_en": "Roh So-young Art Center Nabi"
+          },
+          {
+            "anchor": "Chey Tae-won",
+            "query_en": "Chey Tae-won SK Group Chairman"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8efd0bec-9afb-4d0f-8cc7-a9096ebf5f7a",
+      "title": "Samsung Electro-Mechanics cancela ações em tesouraria avaliadas em 1,7 trilhão de wons",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung Electro-Mechanics treasury shares cancellation",
+        "images": [
+          {
+            "anchor": "Decisão do Conselho e Detalhes da Operação",
+            "query_en": "Samsung Electro-Mechanics corporate building"
+          },
+          {
+            "anchor": "Impacto Estratégico no Mercado",
+            "query_en": "stock market trading board graph"
+          }
+        ]
+      }
+    },
+    {
+      "id": "16d9750f-9461-4638-bd71-fdac65bc179a",
+      "title": "Anzeige: Nachtsichtger�t mit 4K zum Black Friday reduziert bei Amazon",
+      "status": "error",
+      "error": "Supabase 522 em /rest/v1/categories?name=eq.Empresas&select=id,name&limit=1: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>supabase.co | 522: Connection timed out</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n                <span class=\"inline-block\">Connection timed out</span>\n                <span class=\"code-label\">Error code 522</span>\n            </h1>\n            <div>\n                Visit <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">cloudflare.com</a> for more information.\n            </div>\n            <div class=\"mt-3\">2026-11-26 00:30:18 UTC</div>\n        </header>\n        <div class=\"my-8 bg-gradient-gray\">\n            <div class=\"w-240 lg:w-full mx-auto\">\n                <div class=\"clearfix md:px-8\">\n                    <div id=\"cf-browser-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">You</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Browser\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-cloudflare-status\" class=\" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <span class=\"cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    </a>\n  </div>\n  <span class=\"md:block w-full truncate\">Dallas</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  <a href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Cloudflare\n  </a>\n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-green-success\">Working</span>\n  \n</div>\n                    <div id=\"cf-host-status\" class=\"cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center\">\n  <div class=\"relative mb-10 md:m-0\">\n    \n    <span class=\"cf-icon-server block md:hidden h-20 bg-center bg-no-repeat\"></span>\n    <span class=\"cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4\"></span>\n    \n  </div>\n  <span class=\"md:block w-full truncate\">ymiqcnzulxbshjrnaujv.supabase.co</span>\n  <h3 class=\"md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3\">\n  \n    Host\n  \n  </h3>\n  \n  <span class=\"leading-1.3 text-2xl text-red-error\">Error</span>\n  \n</div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"w-240 lg:w-full mx-auto mb-8 lg:px-8\">\n            <div class=\"clearfix\">\n                <div class=\"w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What happened?</h2>\n                    <p>The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.</p>\n                </div>\n                <div class=\"w-1/2 md:w-full float-left leading-relaxed\">\n                    <h2 class=\"text-3xl font-normal leading-1.3 mb-4\">What can I do?</h2>\n                    \n                <h3 class=\"text-15 font-semibold mb-2\">If you're a visitor of this website:</h3>\n                <p class=\"mb-6\">Please try again in a few minutes.</p>\n\n                <h3 class=\"text-15 font-semibold mb-2\">If you're the owner of this website:</h3>\n                <p><span>Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.</span> <a rel=\"noopener noreferrer\" href=\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\">Additional troubleshooting information here.</a></p>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300\">\n    <p class=\"text-13\">\n      <span class=\"cf-footer-item sm:block sm:mb-1\">Cloudflare Ray ID: <strong class=\"font-semibold\">a604c82d9c4ac538</strong></span>\n      <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      <span id=\"cf-footer-item-ip\" class=\"cf-footer-item hidden sm:block sm:mb-1\">\n        Your IP:\n        <button type=\"button\" id=\"cf-footer-ip-reveal\" class=\"cf-footer-ip-reveal-btn\">Click to reveal</button>\n        <span class=\"hidden\" id=\"cf-footer-ip\">52.161.69.162</span>\n        <span class=\"cf-footer-separator sm:hidden\">&bull;</span>\n      </span>\n      <span class=\"cf-footer-item sm:block sm:mb-1\"><span>Performance &amp; security by</span> <a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=ymiqcnzulxbshjrnaujv.supabase.co\" id=\"brand_link\" target=\"_blank\">Cloudflare</a></span>\n      \n    </p>\n    <script>(function(){function d(){var b=a.getElementById(\"cf-footer-item-ip\"),c=a.getElementById(\"cf-footer-ip-reveal\");b&&\"classList\"in b&&(b.classList.remove(\"hidden\"),c.addEventListener(\"click\",function(){c.classList.add(\"hidden\");a.getElementById(\"cf-footer-ip\").classList.remove(\"hidden\")}))}var a=document;document.addEventListener&&a.addEventListener(\"DOMContentLoaded\",d)})();</script>\n  </div><!-- /.error-footer -->\n\n    </div>\n</div>\n</body>\n</html>"
+    },
+    {
+      "id": "b17e4eac-53aa-4e39-8111-de9c3c39349c",
+      "title": "Verbraucherzentrale Brandenburg processa OpenAI devido a dificuldades no cancelamento da assinatura do ChatGPT",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "OpenAI ChatGPT subscription cancellation lawsuit consumer protection",
+        "images": [
+          {
+            "anchor": "Ação judicial e motivos",
+            "query_en": "OpenAI office building sign"
+          },
+          {
+            "anchor": "Dificuldades no cancelamento de assinaturas pagas do ChatGPT",
+            "query_en": "ChatGPT app on smartphone screen"
+          },
+          {
+            "anchor": "O cenário na Alemanha",
+            "query_en": "Berlin street sign consumer protection office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71a8edd0-0b83-4ea3-b011-c949ffa8594b",
+      "title": "Investigação aponta unidade hacker iraniana por trás de ataques a sistemas de refrigeração",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Iranian hacker unit supermarket refrigeration attacks",
+        "images": [
+          {
+            "anchor": "O panorama da investigação internacional",
+            "query_en": "Cybersecurity investigation data screen"
+          },
+          {
+            "anchor": "Atores estatais e alvos civis",
+            "query_en": "Supermarket refrigeration system technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fc6c3ead-453b-4f97-85ea-13fe4cee781b",
+      "title": "Tribunal dos Estados Unidos absolve Huawei em acusações centrais",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Huawei US court verdict analysis",
+        "images": [
+          {
+            "anchor": "Decisão do Júri e Acusações Centrais",
+            "query_en": "US courtroom gavel legal decision"
+          },
+          {
+            "anchor": "Acusações principais caíram perante o júri",
+            "query_en": "Huawei corporate logo sign"
+          },
+          {
+            "anchor": "Contexto das Restrições e Disputas Comerciais",
+            "query_en": "US China technology trade war"
+          },
+          {
+            "anchor": "Próximos Passos Jurídicos",
+            "query_en": "Lawyer analyzing legal documents in office"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0f6cf38-047f-4b49-adaa-5765d584de7c",
+      "title": "Aspirador de pó sem fio da Einhell é ofertado por cerca de 55 euros na Amazon durante a Black Friday",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Einhell cordless handheld vacuum cleaner review",
+        "images": [
+          {
+            "anchor": "Detalhes do sistema Power X-Change",
+            "query_en": "Einhell Power X-Change battery system"
+          },
+          {
+            "anchor": "Acessórios e versatilidade na limpeza",
+            "query_en": "Einhell handheld vacuum cleaner accessories"
+          },
+          {
+            "anchor": "Três bicos especializados para diferentes tipos de cantos e pisos",
+            "query_en": "vacuum cleaner nozzle attachments"
+          },
+          {
+            "anchor": "Dois tubos de sucção que transformam o modelo portátil em um aspirador vertical",
+            "query_en": "cordless handheld vacuum cleaner with extension tubes"
+          },
+          {
+            "anchor": "Contexto da promoção na Amazon",
+            "query_en": "Amazon warehouse shipping boxes Black Friday"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff4f71f0-5718-4208-9b50-2e79707ba049",
+      "title": "Amplificador Hi-Fi mais vendido da Amazon tem preço reduzido temporariamente",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Fosi Audio BT20A Pro review stereo amplifier",
+        "images": [
+          {
+            "anchor": "Transformando caixas passivas em sistemas modernos",
+            "query_en": "passive audio speakers setup"
+          },
+          {
+            "anchor": "Destaque de vendas na Amazon",
+            "query_en": "Fosi Audio BT20A Pro amplifier unit"
+          },
+          {
+            "anchor": "Conectividade com smartphones e redução temporária de preço",
+            "query_en": "smartphone connected to stereo amplifier"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aed376d3-56c2-4baf-a6e2-ed15a383bb65",
+      "title": "Os desafios da TI antes do lançamento do Microsoft 365 Copilot",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Microsoft 365 Copilot IT administration and licensing",
+        "images": [
+          {
+            "anchor": "Desafios de licenciamento e acessos",
+            "query_en": "Microsoft 365 Copilot security and permissions"
+          },
+          {
+            "anchor": "Preparação através de capacitação",
+            "query_en": "IT workshop training session corporate"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ac1d37c0-dda6-41fc-b4b4-975d00d71d85",
+      "title": "Plano da Seção 301 dos EUA mantém Taiwan em 15%, mas eleva riscos para fábricas taiwanesas no Sudeste Asiático",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US Section 301 tariffs Taiwan manufacturing supply chain",
+        "images": [
+          {
+            "anchor": "O Impacto das Tarifas da Seção 301 para Taiwan",
+            "query_en": "Taipei skyline technology manufacturing district"
+          },
+          {
+            "anchor": "O Desafio no Sudeste Asiático",
+            "query_en": "Southeast Asia industrial factory manufacturing plant"
+          },
+          {
+            "anchor": "Regra de origem",
+            "query_en": "Cargo shipping containers port logistics"
+          },
+          {
+            "anchor": "Riscos operacionais",
+            "query_en": "Electronics assembly line factory workers"
+          },
+          {
+            "anchor": "Monitoramento da Cadeia de Suprimentos",
+            "query_en": "Global supply chain logistics control center"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3380a58f-9569-400c-8591-3fb37c669bbe",
+      "title": "EUA propõem tarifas de até 25% sobre produtos da Índia após investigação",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "US India trade tariffs Section 301 manufacturing capacity",
+        "images": [
+          {
+            "anchor": "Investigação da Seção 301 e Proposta de Tarifas",
+            "query_en": "US capitol building Washington DC trade policy"
+          },
+          {
+            "anchor": "A Reação de Nova Delhi e o Chamado ao Diálogo",
+            "query_en": "Ministry of Commerce and Industry New Delhi India"
+          },
+          {
+            "anchor": "Contexto e Próximos Passos Comerciais",
+            "query_en": "cargo containers port international trade logistics"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d140cc4-0225-4bc9-9424-8c7865297e0b",
+      "title": "Registros de servidores de IA na China revelam US$ 270 milhões em ativos ligados a Alice Huang",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "China AI infrastructure server financing leasing market",
+        "images": [
+          {
+            "anchor": "O papel do leasing de equipamentos e do crédito respaldado por ativos",
+            "query_en": "AI server racks data center hardware leasing"
+          },
+          {
+            "anchor": "Contexto da infraestrutura de IA e impacto no mercado",
+            "query_en": "artificial intelligence data center server room technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "32b283b1-62b6-4e0e-ab36-ba568e0838e2",
+      "title": "Patentes internacionais da LG Display sobem 32,5% com avanço de rivais chinesas de OLED",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Display OLED technology patents market competition",
+        "images": [
+          {
+            "anchor": "O crescimento das patentes da LG Display",
+            "query_en": "LG Display logo corporate building"
+          },
+          {
+            "anchor": "A pressão das fabricantes chinesas de OLED",
+            "query_en": "OLED screen manufacturing technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30ec134c-e260-43df-af09-48874cd990f6",
+      "title": "Samsung retoma uso de substratos de embalagem convencionais para o processador Exynos 2700",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Samsung semiconductor manufacturing and mobile processors",
+        "images": [
+          {
+            "anchor": "Impacto nos negócios da Samsung Electro-Mechanics",
+            "query_en": "Samsung Electro-Mechanics factory and semiconductor facility"
+          },
+          {
+            "anchor": "Retorno aos substratos convencionais após quase três anos de outras abordagens",
+            "query_en": "Samsung Exynos mobile processor chip wafer"
+          },
+          {
+            "anchor": "O contexto do mercado de semicondutores",
+            "query_en": "Advanced packaging semiconductor cleanroom manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "08ef7b23-00f8-4410-a4f5-4dfca89213aa",
+      "title": "Negociações de fusão entre Tesla e SpaceX avançam, mas exposição à China testa planos de Musk",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Tesla SpaceX merger Elon Musk business strategy",
+        "images": [
+          {
+            "anchor": "O avanço das negociações e a ambição de integração",
+            "query_en": "Elon Musk Tesla and SpaceX headquarters"
+          },
+          {
+            "anchor": "Desafios na China e o teste para o modelo de Musk",
+            "query_en": "Tesla Gigafactory China manufacturing plant"
+          },
+          {
+            "anchor": "Forte dependência operacional da Tesla no mercado chinês",
+            "query_en": "Tesla electric vehicle showroom China"
+          },
+          {
+            "anchor": "Contratos sensíveis de defesa e aeroespacial da SpaceX com o governo norte-americano",
+            "query_en": "SpaceX Falcon rocket launch pad"
+          },
+          {
+            "anchor": "Impactos na cadeia de suprimentos e próximos passos",
+            "query_en": "Advanced technology manufacturing assembly line"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d98306ac-73ae-44d9-8bd4-bb9b3b1f6e5e",
+      "title": "O legado de Eiji Inoue: Como o fundador da Pal Group Holdings guiou a 3COINS e o mercado de vestuário",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Pal Group Holdings 3COINS strategy business",
+        "images": [
+          {
+            "anchor": "A consolidação e a estratégia por trás da 3COINS",
+            "query_en": "3COINS store interior Japan minimal lifestyle products"
+          },
+          {
+            "anchor": "A força do negócio principal de vestuário",
+            "query_en": "Pal Group fashion clothing retail Japan store"
+          },
+          {
+            "anchor": "O modelo de liderança e os pilares de crescimento",
+            "query_en": "Japanese retail business corporate office Tokyo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "048d08d4-66dc-4817-a0b9-b2c5dcf0d46a",
+      "title": "Claude ganha recurso de aplicativos para Mac e Windows e traz desafios de segurança corporativa",
+      "category": "Segurança",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Anthropic Claude desktop apps Windows Mac security",
+        "images": [
+          {
+            "anchor": "A nova fase dos aplicativos gerados por IA",
+            "query_en": "Artificial intelligence software development desktop app"
+          },
+          {
+            "anchor": "O desafio da governança e da segurança",
+            "query_en": "Corporate cybersecurity data privacy monitoring"
+          },
+          {
+            "anchor": "A capacidade de executar programas e scripts em segundo plano sem novas confirmações visuais.",
+            "query_en": "Computer terminal command line execution script"
+          },
+          {
+            "anchor": "A permissão para manipular, modificar ou excluir arquivos diretamente no sistema de arquivos do computador.",
+            "query_en": "File management system computer folders interface"
+          },
+          {
+            "anchor": "O dilema do controle administrativo",
+            "query_en": "IT administrator managing network security dashboard"
+          }
+        ]
+      }
     },
     {
       "id": "7a4a1256-147a-4ac8-a5db-6baacb756473",
       "title": "‘Wednesday’ Cast Officially Hints at Series End",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "dfc534e9-48bd-4148-9dce-c8cd6502e19f",
       "title": "“AHS” vet Seth Gabel shares why he was initially ‘terrified’ of that Dahmer scene with “Monster” star Evan Peters",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "4384a7b1-b1f4-46ed-a521-4613c7ee801f",
       "title": "“Coven Academy” ending explained: Messy love triangles and shocking deaths give Disney’s new YA series edge",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "0d0bd637-7895-4545-8fcc-75c288cbadc9",
       "title": "Harry Potter: How HBO Turns Britain Into One Wizarding World",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "86b679c0-6f60-494b-964f-d3c62ceb6650",
       "title": "CBS Previews The End Of An Era For Kayce Dutton",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Séries e Animações"
     },
     {
       "id": "22c0ebe8-8c03-48b2-a51e-b24da9136e88",
-      "title": "Lanterns co-creator says the most \"schmucky-bait\" thing they could have done was bring Hal Jordan back from the dead",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "908ca6dc-e75f-4ae1-9f22-5d111220318e",
-      "title": "New Hercule Poirot Series Officially Adapting Agatha Christie’s Hit 94-Year-Old Mystery Novel",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "82c2a590-a060-4223-af72-3ed9a2475d9a",
-      "title": "Owen Wilson’s New Movie Officially Earns Record Low Box Office Debut",
-      "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
-    },
-    {
-      "id": "96c91ee0-ecb7-4cb0-9a5a-706b84a108ca",
-      "title": "Harry Potter x Blvck Paris retorna com nova coleção limitada inteiramente preta",
-      "category": "Empresas",
+      "title": "Criadores de Lanterns explicam por que ressuscitar Hal Jordan nunca esteve nos planos",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Harry Potter Blvck Paris collection fashion drop",
+        "video_query_en": "Lanterns HBO series Hal Jordan creators interview",
         "images": [
           {
-            "anchor": "O que esperar dos produtos da coleção",
-            "query_en": "Blvck Paris Harry Potter black collection apparel"
+            "anchor": "A decisão criativa de manter Hal Jordan morto",
+            "query_en": "Kyle Chandler Green Lantern Lanterns HBO series"
           },
           {
-            "anchor": "Teddy Draco Malfoy Hoodie and Tee",
-            "query_en": "Blvck Paris Draco Malfoy hoodie"
+            "anchor": "O encerramento da relação entre John e Hal",
+            "query_en": "Green Lanterns John Stewart and Hal Jordan DC Comics"
           },
           {
-            "anchor": "Slytherin Baseball Jacket",
-            "query_en": "Blvck Paris Slytherin baseball jacket"
+            "anchor": "Revelações e o futuro da série",
+            "query_en": "Lanterns HBO series DCU Sinestro lantern"
           },
           {
-            "anchor": "Zipped Wanted Hooded Sweatshirt",
-            "query_en": "Blvck Paris Harry Potter wanted sweatshirt"
+            "anchor": "- O encerramento marcou o fim da dinâmica entre John e Hal na temporada.",
+            "query_en": "Green Lanterns partners John and Hal"
           },
           {
-            "anchor": "Tonal House Hoodies and Sweaters",
-            "query_en": "Blvck Paris Harry Potter house hoodies"
+            "anchor": "- A prioridade da equipe era fechar o livro dessa história específica.",
+            "query_en": "Damon Lindelof writer producer"
           },
           {
-            "anchor": "Slytherin e Gryffindor Jerseys",
-            "query_en": "Blvck Paris Hogwarts house jerseys"
-          },
-          {
-            "anchor": "Hogwarts Home Goods and Accessories",
-            "query_en": "Blvck Paris Harry Potter home goods accessories"
+            "anchor": "- A porta não foi trancada definitivamente para o futuro, mas a história imediata foi concluída.",
+            "query_en": "Chris Mundy showrunner"
           }
         ]
       }
     },
     {
-      "id": "901cba00-0540-4f3f-87e5-1ef79efa0754",
-      "title": "The best early October Prime Day deals on iPads, according to Mashables tech experts",
+      "id": "908ca6dc-e75f-4ae1-9f22-5d111220318e",
+      "title": "Nova série da BBC sobre Hercule Poirot confirma adaptação de clássico de Agatha Christie",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Hercule Poirot BBC series Edward Bluemel Peril at End House",
+        "images": [
+          {
+            "anchor": "Detalhes da Produção e Elenco Jovem",
+            "query_en": "Edward Bluemel actor portrait"
+          },
+          {
+            "anchor": "Jessica Alexander, conhecida por The Beauty",
+            "query_en": "Jessica Alexander actress"
+          },
+          {
+            "anchor": "Honor Swinton Byrne, destaque em War",
+            "query_en": "Honor Swinton Byrne"
+          },
+          {
+            "anchor": "Omari Douglas, de Black Doves",
+            "query_en": "Omari Douglas actor"
+          },
+          {
+            "anchor": "Paul Forman, de Emily in Paris",
+            "query_en": "Paul Forman actor"
+          },
+          {
+            "anchor": "Arthur Hughes, de The Innocents",
+            "query_en": "Arthur Hughes actor"
+          },
+          {
+            "anchor": "Ralf Little, de Death in Paradise",
+            "query_en": "Ralf Little actor"
+          },
+          {
+            "anchor": "River Medway, de RuPaul's Drag Race UK",
+            "query_en": "River Medway"
+          },
+          {
+            "anchor": "Katherine Parkinson, de Rivals",
+            "query_en": "Katherine Parkinson actress"
+          },
+          {
+            "anchor": "Natalie Quarry, de Call the Midwife",
+            "query_en": "Natalie Quarry actress"
+          },
+          {
+            "anchor": "Toby Stephens, de Percy Jackson and the Olympians",
+            "query_en": "Toby Stephens actor"
+          },
+          {
+            "anchor": "Adaptação de Peril at End House",
+            "query_en": "Agatha Christie Peril at End House book cover"
+          },
+          {
+            "anchor": "O Clássico de 1932",
+            "query_en": "Agatha Christie vintage books collection"
+          },
+          {
+            "anchor": "Cronograma e Bastidores",
+            "query_en": "BBC television production set Liverpool"
+          }
+        ]
+      }
+    },
+    {
+      "id": "82c2a590-a060-4223-af72-3ed9a2475d9a",
+      "title": "Owen Wilson’s New Movie Officially Earns Record Low Box Office Debut",
       "status": "error",
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Categoria inválida retornada pelo Gemini: Filmes"
+    },
+    {
+      "id": "901cba00-0540-4f3f-87e5-1ef79efa0754",
+      "title": "As melhores ofertas de outubro no Prime Day para iPads em 2026, segundo especialistas",
+      "category": "Computadores",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Apple iPad Prime Day deals October 2026",
+        "images": [
+          {
+            "anchor": "Economize no iPad básico com chip A16",
+            "query_en": "Apple iPad A16 standard model"
+          },
+          {
+            "anchor": "Apple iPad (A16, WiFi, 128GB)",
+            "query_en": "Apple iPad A16 WiFi 128GB"
+          },
+          {
+            "anchor": "Apple iPad (A16, WiFi + cellular, 128GB)",
+            "query_en": "Apple iPad A16 cellular"
+          },
+          {
+            "anchor": "Desconto no iPad mini com tela antirreflexo",
+            "query_en": "Apple iPad mini A17 Pro"
+          },
+          {
+            "anchor": "Apple iPad Mini (A17 Pro, WiFi, 128GB)",
+            "query_en": "Apple iPad mini WiFi 128GB"
+          },
+          {
+            "anchor": "Apple iPad mini (A17 Pro, WiFi + cellular, 128GB)",
+            "query_en": "Apple iPad mini cellular"
+          },
+          {
+            "anchor": "O novo iPad Air com chip M4 ganha redução de preço",
+            "query_en": "Apple iPad Air M4"
+          },
+          {
+            "anchor": "Apple iPad Air, 11-inch (M4, WiFi, 128GB)",
+            "query_en": "Apple iPad Air 11 inch M4"
+          },
+          {
+            "anchor": "Apple iPad Air, 13-inch (M4, WiFi, 128GB)",
+            "query_en": "Apple iPad Air 13 inch M4"
+          },
+          {
+            "anchor": "Descontos expressivos na linha iPad Pro",
+            "query_en": "Apple iPad Pro M4"
+          },
+          {
+            "anchor": "Apple iPad Pro, 13-inch (M4, WiFi, 512GB)",
+            "query_en": "Apple iPad Pro 13 inch M4"
+          },
+          {
+            "anchor": "Apple iPad Pro, 11-inch (M4, WiFi, 2TB, nano-texture glass)",
+            "query_en": "Apple iPad Pro nano texture glass"
+          },
+          {
+            "anchor": "Apple iPad Pro, 11-inch (M5, WiFi, 256GB)",
+            "query_en": "Apple iPad Pro M5 11 inch"
+          },
+          {
+            "anchor": "Apple iPad Pro, 13-inch (M5, WiFi, 256GB)",
+            "query_en": "Apple iPad Pro M5 13 inch"
+          },
+          {
+            "anchor": "Apple iPad Pro, 13-inch (M5, WiFi, 512GB)",
+            "query_en": "Apple iPad Pro M5 512GB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bc25ba3-a15a-4749-8643-abd0604cee82",
+      "title": "Guia de podcasts para outubro de 2026: 8 programas para assistir e ouvir",
+      "category": "Filmes, Séries e Animações",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "October 2026 podcasts watch and listen guide preview",
+        "images": [
+          {
+            "anchor": "The Woman in the Woods",
+            "query_en": "The Woman in the Woods podcast Erin Moriarty"
+          },
+          {
+            "anchor": "Chicken Shop Date",
+            "query_en": "Amelia Dimoldenberg Chicken Shop Date"
+          },
+          {
+            "anchor": "Happy Hour with Ina Garten",
+            "query_en": "Ina Garten Happy Hour podcast"
+          },
+          {
+            "anchor": "Ominous Thrill",
+            "query_en": "Ominous Thrill podcast Her Horrorween"
+          },
+          {
+            "anchor": "Normal Gossip",
+            "query_en": "Normal Gossip podcast Rachelle Hampton"
+          },
+          {
+            "anchor": "ICYMI",
+            "query_en": "ICYMI podcast Slate Kate Lindsay"
+          },
+          {
+            "anchor": "Spooked",
+            "query_en": "Spooked podcast Glynn Washington"
+          },
+          {
+            "anchor": "Gerbil",
+            "query_en": "Gerbil podcast The Hollywood Reporter Allen Salkin"
+          }
+        ]
+      }
     }
   ]
 }
