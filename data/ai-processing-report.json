@@ -1,664 +1,720 @@
 {
-  "updated_at": "2026-11-26T19:45:42.643Z",
+  "updated_at": "2026-11-27T02:58:16.247Z",
   "model": "gemini-3.5-flash-lite",
   "processed": [
     {
-      "id": "eb8e2e4c-4cf5-49dd-99df-799df1481494",
-      "title": "Hawkish Bank of Japan member seeks quick rate hikes on inflation",
+      "id": "1d051c3e-7c96-4ae2-92de-6b0c906dd9ea",
+      "title": "George Russell minimiza atrito com Max Verstappen e quer resposta na pista",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "George Russell Max Verstappen spat Las Vegas Qatar GP",
+        "images": [
+          {
+            "anchor": "O reencontro em Lusail e a visão de George Russell",
+            "query_en": "George Russell Lusail circuit Qatar Grand Prix"
+          },
+          {
+            "anchor": "O histórico de animosidade e o estopim em Las Vegas",
+            "query_en": "Max Verstappen Las Vegas Grand Prix"
+          },
+          {
+            "anchor": "Foco na competição automobilística",
+            "query_en": "Mercedes Formula 1 race car"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4e6879de-b98d-43d2-90e7-38e136aee135",
+      "title": "Como a nova geração de jovens caçadores e a tecnologia estão ajudando o Japão a controlar o crescimento da vida selvagem",
+      "category": "Ciência",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan wildlife hunting technology AI trail cameras",
+        "images": [
+          {
+            "anchor": "A renovação através das universidades",
+            "query_en": "Tokyo University of Agriculture and Technology student"
+          },
+          {
+            "anchor": "O uso de inteligência artificial no monitoramento",
+            "query_en": "trail camera wildlife monitoring artificial intelligence"
+          },
+          {
+            "anchor": "O desafio da gestão da vida selvagem no Japão",
+            "query_en": "Japanese wildlife conservation hunter"
+          },
+          {
+            "anchor": "Rina Fujii",
+            "query_en": "young female hunter Japan university student"
+          },
+          {
+            "anchor": "Clube de caça universitário",
+            "query_en": "university hunting club members"
+          },
+          {
+            "anchor": "Câmeras de trilha e aprendizado de máquina",
+            "query_en": "trail camera machine learning animal detection"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e72fd52-8411-48f6-8bf3-3c2b4e7722e4",
+      "title": "Japan to draw up comprehensive population strategy",
       "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Economia"
+      "error": "Categoria inválida retornada pelo Gemini: Sociedade"
     },
     {
-      "id": "c6ed5f9f-5ec4-412d-ac66-a9fd69464cff",
-      "title": "Seguradoras do Japão reduzem proteção cambial e atingem menor nível histórico",
+      "id": "b912bf7f-3391-49ec-892a-7a4eae1154ba",
+      "title": "O retorno de Jensen Huang à liderança apesar de escândalos de relacionamentos",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan yen currency hedging life insurers",
+        "video_query_en": "Jensen Huang returns to leadership despite scandals",
         "images": [
           {
-            "anchor": "O recuo histórico na proteção cambial",
-            "query_en": "Japanese yen currency exchange market Tokyo"
+            "anchor": "O retorno ao comando da empresa",
+            "query_en": "Jensen Huang corporate leadership"
           },
           {
-            "anchor": "O desafio para as autoridades monetárias",
-            "query_en": "Bank of Japan headquarters Tokyo"
+            "anchor": "Relatos e falta de transparência",
+            "query_en": "NVIDIA headquarters corporate building"
+          },
+          {
+            "anchor": "Dinâmicas de governança corporativa",
+            "query_en": "corporate governance business meeting"
           }
         ]
       }
     },
     {
-      "id": "5d1f9fb3-9d91-4720-aee6-6e81fd242685",
-      "title": "Carrinhos de bebê de grife e brinquedos de luxo impulsionam o varejo na Coreia do Sul",
+      "id": "0b57bfc3-4ef9-435d-9fa9-13e224cc13e3",
+      "title": "Famílias de filipinos mortos buscam justiça com o início do julgamento de Rodrigo Duterte no TPI",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "South Korea premium baby products stroller boom",
+        "video_query_en": "Rodrigo Duterte International Criminal Court trial",
         "images": [
           {
-            "anchor": "O Fenômeno dos Bebês VIBs",
-            "query_en": "South Korean mother shopping luxury baby stroller Seoul"
+            "anchor": "O início do julgamento histórico",
+            "query_en": "International Criminal Court building exterior"
           },
           {
-            "anchor": "Mah Seungeun gasta em itens diversos e afirma que cada fase da infância é tratada como uma oportunidade única que não vai se repetir.",
-            "query_en": "mother and child shopping high end toy store South Korea"
-          },
-          {
-            "anchor": "Recordes no Comércio Eletrônico",
-            "query_en": "smartphone online shopping baby products delivery boxes Seoul"
+            "anchor": "A escala da violência investigada",
+            "query_en": "Rodrigo Duterte former president of the Philippines"
           }
         ]
       }
     },
     {
-      "id": "60890dbf-60ea-4ed6-bdc8-a9e95b977825",
-      "title": "Explosão em instalação petrolífera em Bangkok deixa feridos e causa pânico",
+      "id": "bd734996-7fe6-4fca-9a24-b0a6a7c55be9",
+      "title": "Yoshinoya Holdings decide encerrar e vender sua divisão de carne de avestruz",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bangkok oil facility explosion news",
+        "video_query_en": "Yoshinoya beef bowl restaurant Japan",
         "images": [
           {
-            "anchor": "Impacto e Repercussão na Cidade",
-            "query_en": "Bangkok fire smoke explosion site"
+            "anchor": "O Surgimento do Negócio de Avestruzes",
+            "query_en": "ostrich meat food dish"
           },
           {
-            "anchor": "Vistoria das Autoridades",
-            "query_en": "Thai Energy Minister Akanat Promphan"
+            "anchor": "Os Próximos Passos da Companhia",
+            "query_en": "Yoshinoya restaurant storefront Tokyo"
           }
         ]
       }
     },
     {
-      "id": "85db3b61-639e-4ecc-a7a0-7c3359ad9ed1",
-      "title": "Empresas japonesas relatam impacto negativo do aumento das taxas de juros, aponta estudo",
+      "id": "2ab49c81-6fa6-485b-9c42-f0d3c761819e",
+      "title": "OPEC+ enfrenta negociações complexas sobre cotas de produção e capacidade máxima",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Bank of Japan interest rates business survey Teikoku Databank",
+        "video_query_en": "OPEC+ oil production meeting Vienna",
         "images": [
           {
-            "anchor": "Os resultados da pesquisa da Teikoku Databank",
-            "query_en": "Japanese business office corporate building Tokyo economy"
+            "anchor": "Reunião Crucial em Viena",
+            "query_en": "OPEC headquarters Vienna building"
           },
           {
-            "anchor": "O contexto do Banco do Japão e las expectativas do mercado",
-            "query_en": "Bank of Japan headquarters Tokyo financial district"
+            "anchor": "Metas de Capacidade Máxima",
+            "query_en": "oil refinery storage tanks capacity"
+          },
+          {
+            "anchor": "Fatores de Instabilidade no Mercado",
+            "query_en": "oil pump jack sunset energy market"
           }
         ]
       }
     },
     {
-      "id": "d6096be2-b6ce-4c74-91d6-75432c10fa1d",
-      "title": "Especialistas da ONU cobram explicações do Vietnã sobre suposto sequestro de ativistas",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "UN experts Vietnam activists Cambodia abduction",
-        "images": [
-          {
-            "anchor": "A Cobrança da ONU",
-            "query_en": "United Nations Geneva building flag"
-          },
-          {
-            "anchor": "Confirmação das Prisões e Acusações",
-            "query_en": "Vietnamese government building Hanoi"
-          },
-          {
-            "anchor": "Um cidadão australiano envolvido com causas democráticas",
-            "query_en": "Australian passport symbol"
-          },
-          {
-            "anchor": "Um cidadão norueguês alvo do governo vietnamita",
-            "query_en": "Norwegian passport symbol"
-          },
-          {
-            "anchor": "Um cidadão de nacionalidade vietnamita vivendo no exterior",
-            "query_en": "Vietnam flag and protest"
-          },
-          {
-            "anchor": "Histórico de Ações Transnacionais",
-            "query_en": "Bangkok Thailand cityscape"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c6601f62-42ca-4808-a108-6dc153d60de0",
-      "title": "Japan Tobacco avalia acordo potencial para aquisição da Imperial Brands",
+      "id": "963f1d3f-187a-4b08-971e-68ee0e096107",
+      "title": "Aceleração da inflação em Tóquio reforça expectativas de alta de juros pelo Banco do Japão",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Japan Tobacco Imperial Brands acquisition",
+        "video_query_en": "Bank of Japan rate hike Tokyo inflation November",
         "images": [
           {
-            "anchor": "Estratégia de aquisição conjunta e divisão de ativos",
-            "query_en": "Japan Tobacco corporate office"
+            "anchor": "Aceleração dos preços na capital japonesa",
+            "query_en": "Tokyo city skyline shopping district Japan economy"
           },
           {
-            "anchor": "Situação de mercado da Imperial Brands",
-            "query_en": "Imperial Brands London stock exchange"
+            "anchor": "Indicador-chave para a economia nacional",
+            "query_en": "Bank of Japan building Tokyo financial district"
           }
         ]
       }
     },
     {
-      "id": "72ebe71d-18ea-49f3-b308-18ca28bfaf2a",
-      "title": "Empresas de IA com falhas em segurança no Japão enfrentam inspeções sob novo projeto de lei",
-      "category": "Inteligência Artificial",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Japan artificial intelligence regulation draft law inspection",
-        "images": [
-          {
-            "anchor": "Abrangência e o impacto sobre desenvolvedores estrangeiros",
-            "query_en": "OpenAI Anthropic artificial intelligence Tokyo office building"
-          },
-          {
-            "anchor": "O contexto de segurança cibernética no Japão",
-            "query_en": "Japan cybersecurity data center technology control room"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4f1e3e16-8b4f-43b8-8ce6-dbe10306c156",
-      "title": "Nvidia e Kioxia unem forças em memória para servidores de IA",
+      "id": "005b6abf-5393-446c-b511-9189222ed73c",
+      "title": "Austrália aprova lei que obriga exportadoras de GNL a reservar 20% para o mercado interno",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia Kioxia AI server memory semiconductors",
+        "video_query_en": "Australia gas reservation law LNG Anthony Albanese",
         "images": [
           {
-            "anchor": "O cenário da memória NAND global",
-            "query_en": "Kioxia semiconductor manufacturing plant"
+            "anchor": "A nova legislação de gás na Austrália",
+            "query_en": "Australian Parliament house Canberra"
           },
           {
-            "anchor": "Perspectivas para a cadeia de suprimentos",
-            "query_en": "Nvidia AI server racks hardware"
+            "anchor": "A importância estratégica do recurso",
+            "query_en": "LNG plant Australia natural gas"
+          },
+          {
+            "anchor": "O gás aquece os lares australianos durante os períodos mais frios",
+            "query_en": "modern Australian home interior living room"
+          },
+          {
+            "anchor": "O combustível atua no suporte e no firmeza da energia renovável na rede",
+            "query_en": "renewable energy wind turbine solar panels Australia"
+          },
+          {
+            "anchor": "O insumo é considerado absolutamente essencial para o setor de manufatura nacional",
+            "query_en": "Australian manufacturing industry factory floor"
+          },
+          {
+            "anchor": "Críticas e preocupações com o investimento",
+            "query_en": "gas pipeline industrial facility Australia"
           }
         ]
       }
     },
     {
-      "id": "7137a243-d88a-4de4-aa42-c2109a52dc8d",
-      "title": "Nissan se prepara para importar carros da China para o Japão pela primeira vez",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Nissan cars imported from China to Japan",
-        "images": [
-          {
-            "anchor": "O contexto da mudança na fabricação automotiva",
-            "query_en": "Nissan factory assembly line manufacturing"
-          },
-          {
-            "anchor": "Zhengzhou Nissan",
-            "query_en": "Zhengzhou Nissan NV200 van"
-          },
-          {
-            "anchor": "Impactos na linha de produtos e na estratégia de mercado",
-            "query_en": "Nissan plug in hybrid electric vehicle"
-          }
-        ]
-      }
-    },
-    {
-      "id": "2154ef51-d1fc-425f-ac63-a261326c3552",
-      "title": "Taiwan resiste a onda de ataques cibernéticos antes das eleições de sábado",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Taiwan cyberattacks elections cybersecurity",
-        "images": [
-          {
-            "anchor": "O cenário eleitoral em Taiwan e a pressão digital",
-            "query_en": "Taiwan flag elections government building"
-          },
-          {
-            "anchor": "Suspeitas de interferência e operações de influência",
-            "query_en": "Taipei city hall Taiwan urban landscape"
-          },
-          {
-            "anchor": "Desafios na segurança e guerra híbrida",
-            "query_en": "cybersecurity operations center screens data"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e5e33983-5a7e-42b7-8e84-80b770961d60",
-      "title": "Plattenspieler com Bluetooth da Sony e discos de vinil entram em oferta na Amazon",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Sony Bluetooth turntable review",
-        "images": [
-          {
-            "anchor": "Desconto em equipamento de áudio analógico",
-            "query_en": "Sony Bluetooth turntable"
-          },
-          {
-            "anchor": "Ofertas em discos de vinil",
-            "query_en": "vinyl records collection"
-          },
-          {
-            "anchor": "Conectividade e modernidade",
-            "query_en": "wireless audio setup"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e68ff451-fe87-461e-be21-0a9316aa96dc",
-      "title": "A escolha errada de baterias residenciais pode gerar altos custos, aponta estudo",
+      "id": "50b86e12-e286-463f-bfce-e3543da765ca",
+      "title": "Bonecas tradicionais japonesas homenageiam figuras de destaque de 2026 em Tóquio",
       "category": "Ciência",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "home battery storage efficiency study",
+        "video_query_en": "Japanese traditional dolls kawaribina Tokyo Mataro",
         "images": [
           {
-            "anchor": "Grandes discrepâncias no aproveitamento energético",
-            "query_en": "home battery energy storage system installation"
+            "anchor": "A tradição das bonecas kawaribina",
+            "query_en": "traditional Japanese kawaribina dolls Tokyo exhibition"
           },
           {
-            "anchor": "O impacto financeiro para os consumidores",
-            "query_en": "residential solar battery inverter equipment"
+            "anchor": "Homenagem aos campeões olímpicos do patinação artística",
+            "query_en": "Riku Miura Ryuichi Kihara figure skating"
           },
           {
-            "anchor": "A importância da informação técnica",
-            "query_en": "smart meter and home battery system"
+            "anchor": "Reconhecimento à ciência e ao Prêmio Nobel",
+            "query_en": "Kenso Soai Tokyo University of Science"
           }
         ]
       }
     },
     {
-      "id": "5decfe04-423a-4848-aba8-50218e8c659a",
-      "title": "Icy Box IB-1232CL-U3: Docking station para discos rígidos com dois slots entra em promoção",
-      "category": "Computadores",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Icy Box hard drive docking station review",
-        "images": [
-          {
-            "anchor": "Oferta para a Black Week",
-            "query_en": "Amazon Black Week shopping sale event"
-          },
-          {
-            "anchor": "Icy Box IB-1232CL-U3: Estação de acoplamento com dois slots para discos rígidos e SSDs.",
-            "query_en": "Icy Box hard drive docking station dual slot"
-          },
-          {
-            "anchor": "Utilidade e praticidade",
-            "query_en": "External hard drive docking station connected to computer"
-          }
-        ]
-      }
-    },
-    {
-      "id": "da00ac01-b228-4307-a25f-04aa2749c98c",
-      "title": "Parque Eólico de Grande Altitude Inaugurado a 5.100 Metros no Himalaia",
-      "category": "Ciência",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "high altitude wind farm himalayas wind power",
-        "images": [
-          {
-            "anchor": "Vantagens das Grandes Altitudes",
-            "query_en": "wind turbines on high altitude mountain ridge himalayas"
-          },
-          {
-            "anchor": "Desafios Operacionais",
-            "query_en": "extreme weather wind turbine mountain construction"
-          }
-        ]
-      }
-    },
-    {
-      "id": "ca01c9b1-e75b-40e9-8e79-eda0fcf8a7d7",
-      "title": "DJI Osmo Action 4 atinge menor preço histórico na Amazon por 170 euros",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "DJI Osmo Action 4 review and test footage",
-        "images": [
-          {
-            "anchor": "Recursos Técnicos e Desempenho de Vídeo",
-            "query_en": "DJI Osmo Action 4 camera sensor and lens"
-          },
-          {
-            "anchor": "Contexto da Oferta na Amazon",
-            "query_en": "DJI Osmo Action 4 in box and accessories"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d6551b73-19c0-4a60-ac3f-2e9b989c424d",
-      "title": "Alice Huang: Da província chinesa ao centro de um escândalo envolvendo a Nvidia",
+      "id": "fa7aeba4-2dae-4d92-94ca-33fe2b425ec6",
+      "title": "Cúpulas entre Trump e Xi podem não resolver a burocracia de licenças de terras raras da China",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Nvidia controversy investigation New York Times",
+        "video_query_en": "China rare earth licensing trade tensions US",
         "images": [
           {
-            "anchor": "Investigação jornalística e fontes",
-            "query_en": "New York Times newsroom journalists reporting"
+            "anchor": "O labirinto burocrático e a geopolítica das terras raras",
+            "query_en": "rare earth mining facility China Inner Mongolia"
           },
           {
-            "anchor": "Da província chinesa ao cenário internacional",
-            "query_en": "China technology landscape global business district"
+            "anchor": "Impactos nas cadeias de suprimentos globais",
+            "query_en": "semiconductor supply chain electronics manufacturing"
           },
           {
-            "anchor": "Origem na China",
-            "query_en": "Chinese province landscape city view"
-          },
-          {
-            "anchor": "Expansão geográfica",
-            "query_en": "global business travel international map"
-          },
-          {
-            "anchor": "Conexão corporativa",
-            "query_en": "corporate office building technology company"
-          },
-          {
-            "anchor": "O impacto no mercado de tecnologia",
-            "query_en": "Nvidia advanced computer chips semiconductor technology"
+            "anchor": "Perspectivas para as relações comerciais entre EUA e China",
+            "query_en": "US China trade summit flags"
           }
         ]
       }
     },
     {
-      "id": "c4df027d-04b5-41d2-92a1-214ab16510be",
-      "title": "Ofertas de Black Friday na Amazon destacam velas de chá recarregáveis",
+      "id": "4bf0d1f5-e96f-4fdc-8c61-2ae7cc28f9e7",
+      "title": "Indonésia paga alto preço para manter combustível barato sob o subsídio generalizado de Prabowo",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "rechargeable tea lights amazon black friday review",
+        "video_query_en": "Indonesia fuel subsidy Prabowo Subianto economy",
         "images": [
           {
-            "anchor": "Recursos das Velas Recarregáveis",
-            "query_en": "rechargeable LED tea lights with remote control"
+            "anchor": "O impacto dos subsídios de combustível na Indonésia",
+            "query_en": "Indonesia gas station fuel price"
           },
           {
-            "anchor": "Disponibilidade e Contexto de Compras",
-            "query_en": "Amazon packages and shopping boxes"
-          }
-        ]
-      }
-    },
-    {
-      "id": "092cf75b-4be7-4b4c-ba6e-5504a6534f69",
-      "title": "Trabalhadores da Amazon realizam greve em onze locais durante a Black Friday",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Amazon workers strike Black Friday Verdi",
-        "images": [
-          {
-            "anchor": "Acusações do sindicato Verdi",
-            "query_en": "Verdi union protest Amazon"
+            "anchor": "A realidade nas bombas de Jacarta",
+            "query_en": "Jakarta gas station cars refueling"
           },
           {
-            "anchor": "A resposta da Amazon",
-            "query_en": "Amazon fulfillment center exterior"
+            "anchor": "Desafios orçamentários e desdobramentos",
+            "query_en": "Prabowo Subianto Indonesia government policy"
           }
         ]
       }
     },
     {
-      "id": "719783a6-2159-40ff-a8df-7933141669f7",
-      "title": "Proteção de dados e investigação de incidentes no Microsoft 365 em foco na Golem Karrierewelt",
-      "category": "Segurança",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Microsoft 365 security and incident investigation training",
-        "images": [
-          {
-            "anchor": "Workshops práticos de segurança",
-            "query_en": "Microsoft 365 security training workshop"
-          },
-          {
-            "anchor": "Desconto especial de Black Week",
-            "query_en": "Black Week sale online course discount"
-          }
-        ]
-      }
-    },
-    {
-      "id": "dc2bc37f-aeb2-4596-998a-1a6f3467b366",
-      "title": "SAP avalia novo corte de pelo menos 10.000 empregos em meio a reestruturação focada em inteligência artificial",
-      "category": "Empresas",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "SAP restructuring artificial intelligence job cuts",
-        "images": [
-          {
-            "anchor": "Impacto nas áreas de desenvolvimento e vendas",
-            "query_en": "SAP office building corporate headquarters"
-          }
-        ]
-      }
-    },
-    {
-      "id": "348f1a45-24ff-47c8-8abe-50eb7b52505b",
-      "title": "Xpeng aponta para o final de 2026 para a produção em massa do robô humanóide Iron",
+      "id": "bc720d70-d4a4-457b-a121-78f229874ec9",
+      "title": "JERA do Japão planeja construir data centers para Anthropic e Meta perto de usinas de energia",
       "category": "Inteligência Artificial",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Xpeng Iron humanoid robot AI Day 2026 Guangzhou",
+        "video_query_en": "Japan JERA data center Anthropic Meta power plants",
         "images": [
           {
-            "anchor": "O anúncio no AI Day 2026 da Xpeng",
-            "query_en": "Xpeng AI Day 2026 Guangzhou event"
+            "anchor": "O modelo de integração energética e os planos da JERA",
+            "query_en": "JERA power plant Tokyo Japan"
           },
           {
-            "anchor": "O foco no robô humanóide Iron",
-            "query_en": "Xpeng Iron humanoid robot"
+            "anchor": "JERA planeja a construção inicial de um data center dedicado nas dependências da Central Termelétrica de Chiba.",
+            "query_en": "Chiba Thermal Power Station JERA"
+          },
+          {
+            "anchor": "Negociações em andamento envolvem diretamente empresas norte-americanas líderes em inteligência artificial, como Anthropic e Meta.",
+            "query_en": "Meta data center servers"
+          },
+          {
+            "anchor": "O foco geográfico inicial das tratativas concentra-se nas proximidades da metrópole de Tóquio.",
+            "query_en": "Tokyo power grid infrastructure"
+          },
+          {
+            "anchor": "O contexto de expansão da infraestrutura de IA no Japão",
+            "query_en": "Artificial intelligence data center Japan"
           }
         ]
       }
     },
     {
-      "id": "8d167e51-57d8-4070-8356-70b431c68724",
-      "title": "Samsung e DB HiTek avaliam alta de preços em fundições de 8 polegadas com avanço de IA",
+      "id": "4ecc3619-68e3-4c4d-b5d6-c337045ddab7",
+      "title": "Cathay reforça posição na disputa de hubs asiáticos enquanto acionista Swire lucra alto",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Samsung semiconductor foundry 8 inch wafers AI data center",
+        "video_query_en": "Cathay Pacific Airways expansion Hong Kong aviation hub",
         "images": [
           {
-            "anchor": "O panorama atual das fundições de 8 polegadas",
-            "query_en": "semiconductor foundry 8 inch wafer manufacturing cleanroom"
+            "anchor": "O contexto da aviação asiática e os desafios do setor",
+            "query_en": "Cathay Pacific airplane flying over Hong Kong"
           },
           {
-            "anchor": "O impacto da redução de linhas tradicionais",
-            "query_en": "Samsung semiconductor chip manufacturing facility"
+            "anchor": "O papel do acionista Swire na estratégia",
+            "query_en": "Swire Pacific corporate building Hong Kong"
           },
           {
-            "anchor": "Crescimento na demanda por chips de energia em data centers de IA",
-            "query_en": "AI data center power management chips infrastructure"
+            "anchor": "Perspectivas para a conectividade regional",
+            "query_en": "Hong Kong International Airport terminal operations"
           }
         ]
       }
     },
     {
-      "id": "81606755-402d-479e-ad60-4a167e9c66d2",
-      "title": "SK Hynix busca especialistas em 3nm da TSMC enquanto Micron intensifica contratações na Coreia do Sul",
+      "id": "345b758b-1db2-4bf9-8e3b-b0ac2d8e9c4a",
+      "title": "Robôs humanóides perdem espaço no Japão para máquinas industriais mais inteligentes",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Japan industrial robots factory automation artificial intelligence",
+        "images": [
+          {
+            "anchor": "A abordagem japonesa da inteligência física",
+            "query_en": "Japanese industrial automation factory"
+          },
+          {
+            "anchor": "Inovações no chão de fábrica",
+            "query_en": "Mitsubishi Electric industrial robot arm"
+          },
+          {
+            "anchor": "Robôs industriais tradicionais dotados de software avançado de inteligência artificial",
+            "query_en": "advanced factory robotic arm"
+          },
+          {
+            "anchor": "Sistemas de soldagem automatizados por IA desenvolvidos em parceria com gigantes globais da tecnologia",
+            "query_en": "AI automated welding robot"
+          },
+          {
+            "anchor": "Máquinas capazes de realizar ajustes finos e autônomos em tempo real",
+            "query_en": "smart manufacturing machinery sensors"
+          },
+          {
+            "anchor": "Soluções de hardware e software integradas para otimizar a cadeia produtiva",
+            "query_en": "industrial smart factory control room"
+          },
+          {
+            "anchor": "O cenário de competição global",
+            "query_en": "global robotics competition manufacturing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "91c014aa-9f23-4fa8-8443-aa1abdcb9197",
+      "title": "Coalizão governista da Nova Zelândia fica sem maioria após anúncio dos resultados eleitorais",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "SK Hynix TSMC 3nm Micron memory semiconductor hiring",
+        "video_query_en": "New Zealand election results parliament government formation",
         "images": [
           {
-            "anchor": "A corrida por talentos na fabricação avançada de semicondutores",
-            "query_en": "SK Hynix semiconductor factory cleanroom"
+            "anchor": "Resultados oficiais e o cenário no parlamento",
+            "query_en": "New Zealand parliament building Wellington"
           },
           {
-            "anchor": "A resposta da Micron Technology na Coreia do Sul",
-            "query_en": "Micron Technology facility office building"
+            "anchor": "A necessidade de apoio do Partido da Oportunidade",
+            "query_en": "New Zealand political leaders voting election"
           },
           {
-            "anchor": "Desafios do mercado de memórias e infraestrutura",
-            "query_en": "Advanced semiconductor silicon wafer manufacturing"
+            "anchor": "O contexto eleitoral e as demandas dos eleitores",
+            "query_en": "New Zealand voters queue polling station election day"
           }
         ]
       }
     },
     {
-      "id": "42e9233f-757c-4e8c-a877-d140fb246693",
-      "title": "Samsung Display pode ser a única fornecedora de painéis do iPhone dobrável por cinco anos",
-      "category": "Smartphones",
-      "status": "review",
-      "media_search_terms": {
-        "video_query_en": "Samsung Display foldable OLED panel iPhone supply",
-        "images": [
-          {
-            "anchor": "O Desafio Tecnológico dos Concorrentes",
-            "query_en": "Samsung Display manufacturing facility technology"
-          },
-          {
-            "anchor": "Perspectivas para a Cadeia de Suprimentos",
-            "query_en": "Foldable OLED screen technology"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cef08546-99d4-4151-8bd0-ee70f8c91ab7",
-      "title": "Preços de contratos de DRAM permanecem elevados com a persistência da escassez na oferta e na demanda",
+      "id": "ab2f6f3a-ae6b-4590-a7a7-52fd0913fbd6",
+      "title": "Bosch cresce na Índia com regulamentações rígidas que exigem autopeças mais complexas",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Taiwan semiconductor industry DRAM market AI demand",
+        "video_query_en": "Bosch India automotive components manufacturing plant",
         "images": [
           {
-            "anchor": "O panorama econômico da indústria de semicondutores em Taiwan",
-            "query_en": "Taiwan semiconductor manufacturing cleanroom silicon wafer"
+            "anchor": "## O impacto das novas regras e da transição tecnológica",
+            "query_en": "Bosch automotive technology factory India"
           },
           {
-            "anchor": "Impacto nos fabricantes de tecnologia",
-            "query_en": "DRAM memory chip semiconductor module"
-          },
-          {
-            "anchor": "Percepção do setor industrial",
-            "query_en": "Advanced electronics factory production line Taiwan"
+            "anchor": "## O cenário competitivo no mercado indiano",
+            "query_en": "Indian automotive industry manufacturing plant"
           }
         ]
       }
     },
     {
-      "id": "bf90f512-777b-406b-ae66-63f64c5ca5d9",
-      "title": "Amazon Black Friday Anuncia Pré-venda com iPhone Air e AirPods Pro 3 em Destaque",
-      "category": "Smartphones",
+      "id": "05542858-0da9-42c8-b94d-def9802ac986",
+      "title": "DS Techopia Conclui Fábrica de Materiais Farmacêuticos",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Black Friday shopping deals event",
+        "video_query_en": "DS Techopia pharmaceutical materials plant GMP facility Gongju",
         "images": [
           {
-            "anchor": "Pré-venda Antecipada e Preços Históricos",
-            "query_en": "Amazon package delivery box doorstep"
+            "anchor": "Localização e Operações",
+            "query_en": "South Chungcheong Province industrial landscape"
           },
           {
-            "anchor": "O início da pré-venda está programado especificamente para o dia 27 de novembro.",
-            "query_en": "Amazon online shopping website on laptop screen"
-          },
-          {
-            "anchor": "Dinâmica da Campanha e Novidades",
-            "query_en": "Black Friday sale retail store promotional banner"
+            "anchor": "Estratégia de Crescimento",
+            "query_en": "pharmaceutical manufacturing laboratory facility"
           }
         ]
       }
     },
     {
-      "id": "0f90e078-8927-45e9-8d47-2779446e608b",
-      "title": "Amazon realiza pré-venda da Black Friday com descontos expressivos em PCs e notebooks gamers com GeForce",
-      "category": "Computadores",
+      "id": "8cf99404-b7f0-4c16-a938-ce0ea7b00739",
+      "title": "Wavice conquista novo pedido de componentes para o sistema de defesa Cheonma",
+      "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Black Friday gaming PC laptop deals GeForce RTX",
+        "video_query_en": "Wavice Cheonma defense semiconductor Hanwha Systems",
         "images": [
           {
-            "anchor": "ASUS TUF Gaming F16 FX608JMI",
-            "query_en": "ASUS TUF Gaming F16 laptop gaming"
+            "anchor": "Novo contrato no setor de defesa",
+            "query_en": "Hanwha Systems defense electronics technology"
           },
           {
-            "anchor": "MSI Cyborg 15 B13W",
-            "query_en": "MSI Cyborg 15 gaming laptop"
-          },
-          {
-            "anchor": "Mouse Computer G TUNE DG-I5G60",
-            "query_en": "Mouse Computer G TUNE desktop gaming PC"
-          },
-          {
-            "anchor": "Lenovo LOQ 15AHP11 e LOQ Tower",
-            "query_en": "Lenovo LOQ gaming laptop"
+            "anchor": "A importância do componente",
+            "query_en": "defense semiconductor high frequency module"
           }
         ]
       }
     },
     {
-      "id": "2d7e08ca-7e18-4655-ac47-af2146a146eb",
-      "title": "Lançamento de GTA 6 impulsiona milhões de downloads em ports mobile e plataformas",
+      "id": "114e0890-08b6-48d7-b6cb-dadb38e55f8a",
+      "title": "Krafton Lança o Modelo de Inteligência Artificial Raon-1 Mini Desenvolvido Internamente",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Krafton AI model Raon-1 mini",
+        "images": [
+          {
+            "anchor": "Desenvolvimento Próprio e Arquitetura",
+            "query_en": "Krafton office building Seoul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc8fabee-d7c2-410e-b1ee-ad3bce2c1421",
+      "title": "Intellivix apresenta o robô patrulheiro autônomo com inteligência artificial Argos",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Intellivix Argos AI patrol robot quadruped robot demonstration",
+        "images": [
+          {
+            "anchor": "Autoridades presentes na demonstração",
+            "query_en": "Smart Construction Safety and AI Expo exhibition hall"
+          },
+          {
+            "anchor": "Recursos e tecnologias do robô",
+            "query_en": "quadruped patrol robot artificial intelligence"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faf67245-8a17-4534-9be0-082d4ad90a53",
+      "title": "Nexon lança o MMORPG Overgeared para PC e dispositivos móveis",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "GTA 6 launch impact downloads mobile apps statistics",
+        "video_query_en": "Nexon Overgeared MMORPG gameplay trailer",
         "images": [
           {
-            "anchor": "Impacto nos dispositivos móveis",
-            "query_en": "Grand Theft Auto mobile port gameplay smartphone"
+            "anchor": "O lançamento oficial de Overgeared",
+            "query_en": "Nexon logo corporate building"
           },
           {
-            "anchor": "Crescimento na plataforma Steam",
-            "query_en": "GTA 5 PC Steam interface gameplay"
+            "anchor": "Regiões e plataformas suportadas",
+            "query_en": "Google Play Games on PC interface"
           },
           {
-            "anchor": "Expansão em aplicativos e consoles",
-            "query_en": "PlayStation 5 console controller setup"
+            "anchor": "PC",
+            "query_en": "Google Play Games PC icon"
+          },
+          {
+            "anchor": "Dispositivos móveis",
+            "query_en": "Mobile gaming smartphone interface"
           }
         ]
       }
     },
     {
-      "id": "dff0975c-fedc-4d56-a411-9322bd202bf8",
-      "title": "NielsenIQ revela que GTA 6 impulsionou receita do varejo de games no Reino Unido em 99%",
+      "id": "61e105d2-bc20-4ca2-ad2a-69e9bd181a94",
+      "title": "Nimble Neuron adiciona Meissa como o 92º personagem de Eternal Return",
       "category": "Games",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Grand Theft Auto 6 UK physical sales revenue NielsenIQ",
+        "video_query_en": "Eternal Return Meissa gameplay character update",
         "images": [
           {
-            "anchor": "Impacto expressivo nas vendas físicas e recordes históricos",
-            "query_en": "GTA 6 game physical box sales retail"
+            "anchor": "A Chegada de Meissa",
+            "query_en": "Nimble Neuron Eternal Return logo game"
           },
           {
-            "anchor": "Crescimento expressivo em consoles e acessórios",
-            "query_en": "PlayStation 5 and Xbox Series X consoles gaming setup"
+            "anchor": "Estilo de Combate e Habilidades",
+            "query_en": "Eternal Return bow character Meissa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a5fd3797-1b3f-48d8-bdc4-7da3ebf71d94",
+      "title": "KT Cloud vai construir cluster de data center de IA de 110MW em Ansan",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "KT Cloud data center AI Ansan Keppel",
+        "images": [
+          {
+            "anchor": "Parceria com a Keppel",
+            "query_en": "Keppel data center construction"
           },
           {
-            "anchor": "O mercado de SSDs externos para consoles cresceu 30%, configurando a sua melhor semana ao longo de 2026.",
-            "query_en": "External SSD storage drive for console gaming"
+            "anchor": "Infraestrutura de Inteligência Artificial",
+            "query_en": "AI data center servers racks"
           },
           {
-            "anchor": "O volume de vendas de controles avulsos disparou 194%, com destaque para o PlayStation 5, cujos números subiram 355%.",
-            "query_en": "PS5 DualSense wireless controller gaming"
+            "anchor": "Capacidade total projetada de 110 megawatts para atender à demanda crescente de inteligência artificial.",
+            "query_en": "large data center exterior building"
           },
           {
-            "anchor": "As vendas de headsets voltados para jogos registraram um crescimento de 94%.",
-            "query_en": "Gaming headset RGB audio equipment"
+            "anchor": "Localização estratégica em Ansan, na província de Gyeonggi, facilitando a conectividade e a distribuição de serviços.",
+            "query_en": "Ansan Gyeonggi province South Korea cityscape"
           },
           {
-            "anchor": "Baterias recarregáveis e bases de carregamento tiveram um acréscimo de 69% na procura.",
-            "query_en": "Controller charging dock station for console"
+            "anchor": "Foco em atender às necessidades específicas de computação de alta performance exigidas por cargas de trabalho de IA.",
+            "query_en": "high performance computing server room"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4e33c783-711d-4f69-8e9e-afdabb5bf2a7",
+      "title": "LG Uplus implementa Wi-Fi 7 em quase 33 mil ônibus urbanos na Coreia do Sul",
+      "category": "Internet",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "LG Uplus Wi-Fi 7 city buses South Korea",
+        "images": [
+          {
+            "anchor": "A expansão da conectividade nos transportes sul-coreanos",
+            "query_en": "LG Uplus bus Wi-Fi South Korea"
           },
           {
-            "anchor": "Cadeiras gamer apresentaram um aumento de 32%, avanço que a NIQ classificou como amplamente alinhado aos 40% observados durante o lançamento de GTA 5 em 2013.",
-            "query_en": "Ergonomic gaming chair office furniture"
+            "anchor": "Parceria com o governo nacional",
+            "query_en": "National Information Society Agency South Korea"
           },
           {
-            "anchor": "A perspectiva do mercado e a transição digital",
-            "query_en": "Video game digital download retail market concept"
+            "anchor": "Substituição e modernização da rede",
+            "query_en": "Wi-Fi 7 router technology"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99569b3d-430d-4c4b-a7dc-4ab10cb5323b",
+      "title": "Nexon lança Azur Promilia na Coreia do Sul para PC e dispositivos móveis",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Azur Promilia gameplay trailer Nexon",
+        "images": [
+          {
+            "anchor": "Disponibilidade de Plataformas e Lojas",
+            "query_en": "Azur Promilia game characters fantasy world"
+          },
+          {
+            "anchor": "Versão para PC voltada para jogadores que buscam desempenho aprimorado e gráficos detalhados em telas maiores.",
+            "query_en": "gaming pc setup playing anime rpg"
+          },
+          {
+            "anchor": "Versão móvel distribuída através do Google Play para o ecossistema Android.",
+            "query_en": "smartphone gaming android google play store"
+          },
+          {
+            "anchor": "Disponibilidade na Apple App Store para usuários de dispositivos iOS.",
+            "query_en": "iphone apple app store gaming"
+          },
+          {
+            "anchor": "Presença garantida na Samsung Galaxy Store, ampliando as opções de download para os donos de smartphones da marca.",
+            "query_en": "samsung galaxy smartphone app store"
+          },
+          {
+            "anchor": "Contexto da Desenvolvedora e Expectativas",
+            "query_en": "Manjuu Games development studio anime rpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2056af85-0dad-40e7-893d-91122b94abcc",
+      "title": "NC Retoma Foco na Franquia Lineage Após Recuperação de Receita",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "NC Lineage Festival Invitation to Aden KINTEX",
+        "images": [
+          {
+            "anchor": "Mudança de Estratégia na NC",
+            "query_en": "NC headquarters building Korea"
+          },
+          {
+            "anchor": "O Festival Lineage: Convite for Aden",
+            "query_en": "Lineage Festival Invitation to Aden KINTEX"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc7a6771-e264-4727-be7c-7b629d6a4c4a",
+      "title": "Nvidia interrompe envio de servidores de IA para quatro países do Sudeste Asiático",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Nvidia stops shipping AI servers Southeast Asia export controls",
+        "images": [
+          {
+            "anchor": "O impacto dos controles de exportação dos Estados Unidos",
+            "query_en": "US export controls tech semiconductor chip trade"
+          },
+          {
+            "anchor": "Países e empresas afetados na região",
+            "query_en": "Nvidia server data center hardware technology"
+          },
+          {
+            "anchor": "Malásia",
+            "query_en": "Kuala Lumpur Malaysia modern cityscape technology"
+          },
+          {
+            "anchor": "Singapura",
+            "query_en": "Singapore business district skyline cloud computing hub"
+          },
+          {
+            "anchor": "Tailândia",
+            "query_en": "Bangkok Thailand technology infrastructure business center"
+          },
+          {
+            "anchor": "Indonésia",
+            "query_en": "Jakarta Indonesia modern business district economy"
+          },
+          {
+            "anchor": "O contexto de escândalos e a liderança da Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO artificial intelligence"
+          },
+          {
+            "anchor": "O boom de data centers no Sudeste Asiático",
+            "query_en": "Southeast Asia data center server room technology infrastructure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cd7a877a-2f84-4627-949d-93dc18f8bbf9",
+      "title": "Presidente Donald Trump afirma que CEO da Nvidia não representa ameaça à segurança",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Donald Trump Nvidia Jensen Huang security threat",
+        "images": [
+          {
+            "anchor": "A crise na liderança da Nvidia",
+            "query_en": "Jensen Huang Nvidia CEO AI"
+          },
+          {
+            "anchor": "A intervenção governamental e o debate político em Washington",
+            "query_en": "Donald Trump Mar-a-Lago press conference"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6edb3025-6d52-4ee0-945c-2dd93c898ce1",
+      "title": "Fundo tecnológico de 50 bilhões de euros da União Europeia visa conectar pesquisa e escala industrial",
+      "category": "Empresas",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "European Union tech fund research industrial scale",
+        "images": [
+          {
+            "anchor": "O desafio da soberania tecnológica europeia",
+            "query_en": "European Union flag technology research"
+          },
+          {
+            "anchor": "O fundo de 50 bilhões de euros e a escala industrial",
+            "query_en": "European industrial manufacturing technology"
+          },
+          {
+            "anchor": "Redução da dependência tecnológica externa em setores críticos",
+            "query_en": "European semiconductor and tech innovation"
           }
         ]
       }
@@ -695,97 +751,131 @@
     },
     {
       "id": "82c2a590-a060-4223-af72-3ed9a2475d9a",
-      "title": "Owen Wilson’s New Movie Officially Earns Record Low Box Office Debut",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Filmes"
-    },
-    {
-      "id": "4f83f869-58ba-4931-bddc-0d15b8183d14",
-      "title": "Os rumores mais recentes sobre o MacBook OLED com tela sensível ao toque",
-      "category": "Computadores",
+      "title": "Novo filme de Owen Wilson registra pior bilheteria de estreia da história",
+      "category": "Filmes, Séries e Animações",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Apple MacBook OLED touchscreen rumors release date",
+        "video_query_en": "Owen Wilson movie box office opening weekend analysis",
         "images": [
           {
-            "anchor": "Quando os novos MacBooks serão lançados?",
-            "query_en": "Apple event invitation Pro and Tell Los Angeles"
+            "anchor": "Um começo decepcionante nas bilheterias",
+            "query_en": "Owen Wilson red carpet appearance"
           },
           {
-            "anchor": "Qual será o nome do novo MacBook com OLED?",
-            "query_en": "Apple MacBook Pro laptop design 2026"
-          },
-          {
-            "anchor": "Quanto o OLED MacBook vai custar?",
-            "query_en": "Apple MacBook Pro workspace setup"
-          },
-          {
-            "anchor": "Por que a chegada de um MacBook com OLED e toque é relevante?",
-            "query_en": "Apple MacBook Pro keyboard and trackpad"
-          },
-          {
-            "anchor": "Histórico e recursos esperados",
-            "query_en": "Apple iPad Pro OLED display screen"
-          },
-          {
-            "anchor": "Dynamic Island herdada dos iPhones, funcionando como uma área de notificação em formato de pílula que abriga a câmera embutida, eliminando o entalhe tradicional.",
-            "query_en": "iPhone Dynamic Island notification pill"
-          },
-          {
-            "anchor": "Ação de puxar para atualizar, semelhante ao gesto utilizado para recarregar páginas web ou feeds de redes sociais em iPhones e iPads.",
-            "query_en": "iPad touchscreen interaction gesture"
-          },
-          {
-            "anchor": "Capacidade de interagir diretamente por toque com uma tela estendida ou espelhada do iPad.",
-            "query_en": "Apple iPad screen mirroring Mac"
-          },
-          {
-            "anchor": "Especificações de desempenho e confirmação do projeto",
-            "query_en": "Apple Silicon M5 Pro chip architecture"
+            "anchor": "Impacto e recepção do público",
+            "query_en": "Empty movie theater auditorium"
           }
         ]
       }
     },
     {
       "id": "4d33e2e3-13b3-4891-9475-a17840122bc0",
-      "title": "The best early October Prime Day deals on DJI: I found deals on mics, drones, and cameras worth buying",
-      "status": "error",
-      "error": "Categoria inválida retornada pelo Gemini: Eletrônicos"
-    },
-    {
-      "id": "30cbb033-2a84-4952-a450-8329b2d1b879",
-      "title": "Google altera acesso ao Gemini para usuários gratuitos e planos pagos",
-      "category": "Inteligência Artificial",
+      "title": "As melhores ofertas antecipadas do Prime Day em produtos DJI: drones, câmeras e microfones",
+      "category": "Smartphones",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Google Gemini app free access changes plans",
+        "video_query_en": "DJI early October Prime Day deals products review",
         "images": [
           {
-            "anchor": "Mudanças para usuários gratuitos e assinantes do plano Plus",
-            "query_en": "Google Gemini app interface smartphone"
+            "anchor": "Melhores ofertas em drones DJI",
+            "query_en": "DJI drone aerial photography device"
           },
           {
-            "anchor": "O cenário interno e os desafios do Google com a inteligência artificial",
-            "query_en": "Googleplex building sign Mountain View California"
+            "anchor": "DJI Neo Fly More Combo",
+            "query_en": "DJI Neo drone device"
+          },
+          {
+            "anchor": "Melhores ofertas em câmeras DJI",
+            "query_en": "DJI Osmo Pocket 3 camera"
+          },
+          {
+            "anchor": "DJI Osmo Pocket 3 Creator Combo",
+            "query_en": "DJI Osmo Pocket 3 Creator Combo package"
+          },
+          {
+            "anchor": "Melhores ofertas em microfones DJI",
+            "query_en": "DJI wireless microphone system"
+          },
+          {
+            "anchor": "DJI Mic 3",
+            "query_en": "DJI Mic 3 audio transmitter"
+          },
+          {
+            "anchor": "Melhores ofertas em estações de energia DJI",
+            "query_en": "DJI portable power station generator"
+          },
+          {
+            "anchor": "DJI Power 2000 V2",
+            "query_en": "DJI Power 2000 V2 power station"
           }
         ]
       }
     },
     {
-      "id": "8fc3326f-303c-4dd5-8c00-f499d44abdcc",
-      "title": "Amazon investe US$ 1 bilhão para conquistar cidades que resistem a data centers",
+      "id": "8da653a3-9545-44f7-a69d-4b2e2aa6d674",
+      "title": "Elon Musk afirma que SpaceXAI passará a se chamar SpaceXSI após campanha de Trump por Super Inteligência",
+      "category": "Inteligência Artificial",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Elon Musk SpaceXAI SpaceXSI Super Intelligence AI",
+        "images": [
+          {
+            "anchor": "A mudança de nomenclatura anunciada por Elon Musk",
+            "query_en": "Elon Musk smiling speaking at event"
+          },
+          {
+            "anchor": "O diálogo com usuários e a confirmação da transição",
+            "query_en": "X social media logo smartphone screen"
+          },
+          {
+            "anchor": "O contexto político e a influência de Donald Trump",
+            "query_en": "Donald Trump speaking at podium"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa8e96e3-4846-40e7-8f6d-c3726927b296",
+      "title": "Blue Origin revela torre solar de quase 20 metros para abastecer futuras bases na Lua",
       "category": "Empresas",
       "status": "review",
       "media_search_terms": {
-        "video_query_en": "Amazon Web Services Matt Garman data center investment",
+        "video_query_en": "Blue Origin solar tower Moon base power system",
         "images": [
           {
-            "anchor": "O Anúncio Oficial da AWS",
-            "query_en": "Amazon Web Services logo office building"
+            "anchor": "A importância da infraestrutura de superfície",
+            "query_en": "Blue Origin lunar base infrastructure concept art"
           },
           {
-            "anchor": "O Contexto das Resistências Locais",
-            "query_en": "modern data center exterior building architecture"
+            "anchor": "Desafios energéticos no ambiente lunar",
+            "query_en": "Moon surface solar power installation"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aae057a0-f555-45b4-9f97-41e16593c113",
+      "title": "Nova ferramenta de código aberto promete eliminar travamentos por shaders em jogos de PC",
+      "category": "Games",
+      "status": "review",
+      "media_search_terms": {
+        "video_query_en": "Shader Compilation Stutter Killer SCSKiller PC games",
+        "images": [
+          {
+            "anchor": "Conhecendo o SCSKiller",
+            "query_en": "open source software code on computer screen"
+          },
+          {
+            "anchor": "Travamentos e engasgos frequentes durante a jogabilidade em títulos modernos",
+            "query_en": "PC gaming performance stutter low framerate"
+          },
+          {
+            "anchor": "Impacto negativo na experiência geral de jogadores em diversas configurações de hardware",
+            "query_en": "gamer playing video games on PC setup"
+          },
+          {
+            "anchor": "Dificuldade histórica do ecossistema de PC em lidar com a compilação eficiente de shaders em tempo de execução",
+            "query_en": "video game graphics rendering shader code"
           }
         ]
       }
